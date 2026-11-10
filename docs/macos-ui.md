@@ -271,6 +271,49 @@ The user expanded the scope after Stage 4 to control Apple Music from this app.
 - **175 Python tests and 31 Swift tests passed**, including blocked command polling,
   cancellation, pre-completion sample revisions, rapid play/pause, repeated seeks,
   stale confirmations, timeout/failure recovery, track transitions, and skip guards.
+- Release build, signature verification, and plist validation passed. Live review
+  on the MacBook Pro built-in display during **止战之殇 / 周杰伦** confirmed immediate
+  Pause/Play feedback with enabled controls, paused lyric seeking without dimming,
+  manual browsing followed by a lyric click restoring following, timeline seeking
+  retaining browsing mode, and drag-to-seek. Compact and default layouts were both
+  inspected; playback was resumed and the app left at default size on that display.
+  Raising the app window before physical scrolling allowed the previously blocked
+  manual-browsing interaction to be verified end-to-end.
+
+## Footer and lyric hover polish
+
+- Removed the separate Playing/Paused timeline label and the live bottom-right
+  browsing hint. The pronunciation capsule now occupies the bottom-right footer,
+  with its existing menu and saved language. Demo labeling is unchanged.
+- Seekable lyric rows gain a 6% white rounded background and brighter inactive
+  text on hover. The active lyric remains brightest. Fixed row padding and reduced
+  inter-row spacing keep hover from changing layout; Reduce Motion disables the
+  120 ms transition. Disabled, untimed, and blank rows do not advertise seeking.
+- All 31 Swift tests passed; release build and signature verification passed.
+  Compact and default layouts and the relocated menu were inspected live. The app
+  was placed on the rightmost DELL P2725QE. Full hover/seek interaction review was
+  blocked when the current song's lyric loading failed with a UTF-8 decoding error
+  and subsequent network timeouts; no lyric-provider behavior was changed.
+
+## Recording confirmation — 0.4.3
+
+- Removed the duplicated pronunciation heading above the lyric source.
+- Unverified artist matches now yield up to five recording suggestions after the
+  normal verified NetEase/LRCLIB lookup. Search uses title and artist, followed by
+  a bounded title-only query. Suggestions require a normalized title match and
+  duration within two seconds; exact album matches and artist-query relevance
+  rank ahead of title-only coincidences. These are never automatic artist aliases.
+- The native chooser displays Apple Music metadata alongside each candidate's
+  artist, album, source, and duration. Confirmation is guarded by track generation,
+  lyric request revision, and membership in the offered candidate list.
+- Choices persist for the exact track in a bounded local JSON store (256 entries,
+  atomic replacement). A Forget recording choice button removes the mapping and
+  repeats normal lookup. A saved choice bypasses future matching for that track.
+- Curl output stays as bytes until exit/HTTP checks pass. Invalid UTF-8/JSON now
+  becomes a retryable lookup failure, allowing normal fallback handling.
+- 184 Python and 32 Swift tests passed. A live NetEase lookup for 故鄉 / Lo Ta-You
+  returned 罗大佑's recording (5284269) as a suggestion without a hardcoded alias;
+  other singers with similar durations remained suggestions requiring confirmation.
 
 ## Stage 5 — Polish and completion
 

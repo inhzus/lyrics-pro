@@ -3,6 +3,25 @@ import Testing
 @testable import LyricsPro
 
 struct LyricProtocolTests {
+    @Test func recordingChoicesValidateAndDecodeWithoutLyrics() throws {
+        let candidate: [String: Any] = ["song_id": 5284269, "title": "故乡", "artists": ["罗大佑"],
+                                        "album": "新乐园", "duration": 277.676]
+        func decode(_ candidates: [[String: Any]], status: String = "choose_recording") throws -> LyricUpdate {
+            let payload: [String: Any] = ["request_id": 4, "language": "original", "selected_language": NSNull(),
+                "reason": "original lyrics only", "status": status, "message": "Choose a recording",
+                "lyrics": NSNull(), "candidates": candidates, "saved_choice": false]
+            return try JSONDecoder().decode(LyricUpdate.self, from: JSONSerialization.data(withJSONObject: payload))
+        }
+        let valid = try decode([candidate])
+        #expect(valid.isValid && valid.candidates?.first?.id == 5284269)
+        #expect(valid.savedChoice == false)
+        #expect(try !decode([]).isValid)
+        #expect(try !decode([candidate, candidate]).isValid)
+        for patch in [["song_id": -1], ["duration": 0], ["artists": []], ["title": " "]] as [[String: Any]] {
+            #expect(try !decode([candidate.merging(patch) { _, new in new }]).isValid)
+        }
+    }
+
     private func event(_ type: String, generation: Int = 1, title: String = "A", request: Int = 0,
                        language: String = "auto", status: String = "ready", source: String = "NetEase https://music.163.com/song?id=1") throws -> BridgeEvent {
         var payload: [String: Any] = ["version": 1, "type": type, "generation": generation,

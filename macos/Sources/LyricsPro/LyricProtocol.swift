@@ -49,6 +49,25 @@ struct LiveLyrics: Decodable, Sendable {
 
 enum LyricStatus: String, Decodable, Sendable {
     case loading, ready, plain, instrumental, unavailable, error
+    case chooseRecording = "choose_recording"
+}
+
+struct RecordingCandidate: Decodable, Sendable, Identifiable {
+    let songID: Int
+    let title: String
+    let artists: [String]
+    let album: String
+    let duration: Double
+    var id: Int { songID }
+    enum CodingKeys: String, CodingKey {
+        case songID = "song_id"
+        case title, artists, album, duration
+    }
+    var isValid: Bool {
+        songID > 0 && !title.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty &&
+        !artists.isEmpty && artists.allSatisfy { !$0.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty } &&
+        duration.isFinite && duration > 0
+    }
 }
 
 struct LyricUpdate: Decodable, Sendable {
@@ -59,9 +78,13 @@ struct LyricUpdate: Decodable, Sendable {
     let status: LyricStatus
     let message: String
     let lyrics: LiveLyrics?
+    let candidates: [RecordingCandidate]?
+    let savedChoice: Bool?
 
     enum CodingKeys: String, CodingKey {
         case requestID = "request_id", selectedLanguage = "selected_language"
+        case savedChoice = "saved_choice"
+        case candidates
         case language, reason, status, message, lyrics
     }
 
@@ -81,6 +104,9 @@ struct LyricUpdate: Decodable, Sendable {
             guard lyrics.lines.allSatisfy({ $0.time == nil || $0.time!.isFinite }) else { return false }
         }
         switch status {
+        case .chooseRecording:
+            guard lyrics == nil, let candidates, !candidates.isEmpty, candidates.count <= 5 else { return false }
+            return candidates.allSatisfy(\.isValid) && Set(candidates.map(\.id)).count == candidates.count
         case .ready: return lyrics?.synced == true && lyrics?.instrumental == false && lyrics?.lines.isEmpty == false
         case .plain: return lyrics?.synced == false && lyrics?.instrumental == false && lyrics?.lines.isEmpty == false
         case .instrumental: return lyrics?.instrumental == true

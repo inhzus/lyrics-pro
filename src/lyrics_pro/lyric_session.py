@@ -7,9 +7,10 @@ import json
 from threading import Event
 import time
 
-from .lyrics import LyricsProvider
+from .lyrics import LyricsProvider, RecordingChoiceRequired, request_json, decode_record
 from .models import LookupCancelled, LookupFailure
 from .pronunciation import Romanizer, choose_language
+from .recording_choices import RecordingChoices
 
 
 LANGUAGES = {"auto", "cantonese", "hokkien", "original"}
@@ -35,12 +36,21 @@ def lookup(track, cancelled):
     return LyricsProvider(cancelled=cancelled).lookup(track)
 
 
+def lookup_recording(song_id, cancelled):
+    record = request_json("song/lyric", {"id": song_id, "lv": -1, "kv": -1, "tv": -1, "rv": -1}, cancelled)
+    return decode_record(record, song_id) if record else None
+
+
 class LyricSession:
-    def __init__(self, cancelled, *, language="auto", fetch=lookup, romanizer=None, clock=time.monotonic):
+    def __init__(self, cancelled, *, language="auto", fetch=lookup, romanizer=None, clock=time.monotonic,
+                 choices=None, selected_fetch=lookup_recording):
         self.cancelled = cancelled
         self.language = language
         self.request_id = 0
         self.fetch = fetch
+        self.choices = choices if choices is not None else RecordingChoices()
+        self.selected_fetch = selected_fetch
+        self.candidates = ()
         self.romanizer = romanizer or Romanizer()
         self.clock = clock
         self.pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix="lyrics")
@@ -68,12 +78,28 @@ class LyricSession:
         self.context, self.track = context, track if context else None
         self.attempts, self.retry_at = 0, 0
         self.failure, self.last_update = None, None
+        self.candidates = ()
         self.failure_kind = None
         self.finished = False
 
-    def configure(self, language, request_id, *, retry=False, generation=None):
+    def configure(self, language, request_id, *, retry=False, generation=None,
+                  choice_id=None, forget=False, choice_request_id=None):
         if language not in LANGUAGES or request_id <= self.request_id:
             return
+        if choice_id is not None or forget:
+            if not self.context or generation != self.context[1]:
+                return
+            if choice_id is not None and (choice_request_id != self.request_id
+                    or choice_id not in {c.song_id for c in self.candidates}):
+                return
+            try:
+                self.choices.set(self.track, None if forget else choice_id)
+            except OSError:
+                self.request_id = request_id
+                self.failure = LookupFailure("Could not save the recording choice. Check local storage permissions and try again.")
+                self.retry_at, self.finished = float("inf"), False
+                return
+            retry = True
         self.language, self.request_id = language, request_id
         self.finished, self.last_update = False, None
         if self.failure_kind == "annotate":
@@ -92,6 +118,7 @@ class LyricSession:
                     del self.annotation_cache[cache_key]
             self.attempts, self.retry_at, self.failure = 0, 0, None
             self.failure_kind = None
+            self.candidates = ()
 
     @staticmethod
     def _cache(cache, key, value, limit):
@@ -138,6 +165,9 @@ class LyricSession:
                         self._cache(self.annotation_cache, (context[0], selected), result, 32)
                 except LookupCancelled:
                     pass
+                except RecordingChoiceRequired as error:
+                    self.candidates = error.candidates
+                    self.failure = None
                 except LookupFailure as error:
                     self.failure = error
                     self.failure_kind = kind
@@ -160,13 +190,19 @@ class LyricSession:
         def send(status, message, lyrics=None):
             payload = dict(request_id=self.request_id, language=self.language,
                            selected_language=selected, reason=reason, status=status,
-                           message=message, lyrics=asdict(lyrics) if lyrics else None)
+                           message=message, lyrics=asdict(lyrics) if lyrics else None,
+                           candidates=[asdict(c) for c in self.candidates] if status == "choose_recording" else [],
+                           saved_choice=self.choices.get(self.track) is not None)
             if payload != self.last_update:
                 emit(payload)
                 self.last_update = payload
 
         if self.failure and self.retry_at == float("inf"):
             send("error", str(self.failure))
+            self.finished = True
+            return
+        if self.candidates:
+            send("choose_recording", "These recordings have a matching title and similar duration, but the artist could not be verified. Choose one only if it is yours.")
             self.finished = True
             return
         if key in self.raw_cache:
@@ -197,7 +233,10 @@ class LyricSession:
                 if self.pending is None and self.clock() >= self.retry_at:
                     token = Cancellation(self.cancelled)
                     self.attempts += 1
-                    self.pending = (self.pool.submit(self.fetch, self.track, token),
+                    song_id = self.choices.get(self.track)
+                    future = (self.pool.submit(self.selected_fetch, song_id, token) if song_id
+                              else self.pool.submit(self.fetch, self.track, token))
+                    self.pending = (future,
                                     "fetch", self.context, token, None)
 
     def close(self):

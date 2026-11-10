@@ -5,6 +5,7 @@ private typealias HeightStorage = State<[Int: CGFloat]>
 private typealias VisibleRowStorage = State<Int?>
 private typealias ScrollingStorage = State<Bool>
 private typealias DragDeadlineStorage = State<Date>
+private typealias HoveredRowStorage = State<Int?>
 
 private struct LyricFrames: PreferenceKey {
     static let defaultValue: [Int: CGRect] = [:]
@@ -35,12 +36,13 @@ struct FollowingLyricsView: View {
     @VisibleRowStorage private var visibleRow: Int?
     @ScrollingStorage private var userIsScrolling = false
     @DragDeadlineStorage private var suppressClickUntil = Date.distantPast
+    @HoveredRowStorage private var hoveredRow: Int?
 
     var body: some View {
         GeometryReader { viewport in
             ScrollViewReader { proxy in
                 ScrollView {
-                    LazyVStack(alignment: .leading, spacing: 34) {
+                    LazyVStack(alignment: .leading, spacing: 18) {
                         ForEach(Array(lyrics.lines.enumerated()), id: \.offset) { index, line in
                             row(line, index: index)
                                 .id(index)
@@ -79,6 +81,7 @@ struct FollowingLyricsView: View {
                     if updatedHeights != heights { heights = updatedHeights }
                 }
                 .task(id: LyricLayout(generation: generation, request: requestID, size: viewport.size)) {
+                    hoveredRow = nil
                     let target = following.load(lyrics, generation: generation, position: position)
                     // Let the stack lay out with its new padding/line heights first.
                     await Task.yield()
@@ -88,6 +91,9 @@ struct FollowingLyricsView: View {
                 .onChange(of: position) { _, position in
                     let target = following.advance(to: position)
                     scroll(to: target, proxy: proxy, viewport: viewport.size, animated: true)
+                }
+                .onChange(of: canSeek) { _, available in
+                    if !available { hoveredRow = nil }
                 }
                 .onChange(of: followRevision) { _, _ in
                     _ = following.advance(to: position)
@@ -134,6 +140,16 @@ struct FollowingLyricsView: View {
                     .contentShape(Rectangle())
             }
             .buttonStyle(.plain)
+            .onHover { hovering in
+                if hovering && canSeek {
+                    hoveredRow = index
+                } else if hoveredRow == index {
+                    hoveredRow = nil
+                }
+            }
+            .onDisappear {
+                if hoveredRow == index { hoveredRow = nil }
+            }
             .simultaneousGesture(DragGesture(minimumDistance: 6)
                 .onChanged { _ in suppressClickUntil = Date().addingTimeInterval(0.15) }
                 .onEnded { _ in suppressClickUntil = Date().addingTimeInterval(0.15) })
@@ -154,22 +170,28 @@ struct FollowingLyricsView: View {
     private func rowContent(_ line: LiveLyricLine, index: Int) -> some View {
         let active = following.selection.active == index
         let dimmed = following.timeline.isTimed && !active
+        let hovered = canSeek && !userIsScrolling && hoveredRow == index
+            && LyricSeek.position(for: line, synced: lyrics.synced) != nil
         return VStack(alignment: .leading, spacing: 10) {
             Text(line.text.isEmpty ? " " : line.text)
                 .font(.system(size: fontSize, weight: .bold))
-                .foregroundStyle(.white.opacity(dimmed ? 0.38 : 0.98))
+                .foregroundStyle(.white.opacity(dimmed ? (hovered ? 0.66 : 0.38) : 0.98))
                 .lineSpacing(8)
             if let pronunciation = line.pronunciation, !pronunciation.isEmpty, pronunciation != line.text {
                 Text(pronunciation)
                     .font(.system(size: fontSize * 0.46, weight: .medium))
-                    .foregroundStyle(active || !following.timeline.isTimed ? accent : .white.opacity(0.35))
+                    .foregroundStyle(active || !following.timeline.isTimed ? accent : .white.opacity(hovered ? 0.58 : 0.35))
                     .lineSpacing(6)
             }
         }
         .fixedSize(horizontal: false, vertical: true)
         .frame(maxWidth: .infinity, alignment: .leading)
+        .padding(.horizontal, 12)
+        .padding(.vertical, 8)
+        .background(.white.opacity(hovered ? 0.06 : 0), in: RoundedRectangle(cornerRadius: 12))
         .accessibilityElement(children: .combine)
         .accessibilityAddTraits(active ? .isSelected : [])
         .animation(reduceMotion ? nil : .easeInOut(duration: 0.2), value: active)
+        .animation(reduceMotion ? nil : .easeInOut(duration: 0.12), value: hovered)
     }
 }

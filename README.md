@@ -70,10 +70,22 @@ attempts; Try again resets them. Changing language reuses raw lyrics already fet
 Raw lyrics (16 tracks) and annotations (32 track/language pairs) are cached in memory
 only; quitting clears them. Track and language changes discard stale results.
 Language changes and lyric retries preserve manual browsing and restore the browsed
-row where possible. The pronunciation capsule has a checked menu of full language
-names; Playing/Paused is a small status label centered beneath the progress bar,
-between elapsed time and duration. It is also included in the timeline's accessibility
-description. The header shows connection issues only, with no duplicate playback state.
+row where possible. The bottom-right pronunciation capsule has a checked menu of full
+language names. Hovering a clickable lyric softly highlights its lyrics and pronunciation;
+the playing line stays brightest. The progress bar shows elapsed time and duration; the play/pause button
+communicates playback state without a separate Playing/Paused label. The header
+shows connection issues only.
+
+If the artist name cannot be verified, the app can offer up to five NetEase
+recordings with the same normalized title and duration within two seconds. Compare
+the artist, album, and duration before choosing; candidates are never selected
+automatically. Verified LRCLIB results still take precedence over uncertain suggestions.
+The app remembers your choice for that exact Apple Music title/artist/album/duration,
+not as an artist-wide alias. **Forget recording choice** clears it and searches again.
+Up to 256 choices persist locally in
+`~/Library/Application Support/Lyrics Pro/recording-choices.json`; lyrics themselves
+remain memory-only. No additional service or AI is used. The duplicate pronunciation
+label above the source has been removed; selection remains in the bottom-right footer.
 
 Use **Lyrics Pro → Reconnect to Music** to restart the worker. **Preview → Display**
 switches between Live Music and the original Stage 1 demos. Demo lyrics and progress

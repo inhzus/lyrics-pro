@@ -41,7 +41,7 @@ def parse_lrc(text: str) -> tuple[LyricLine, ...]:
 def run_curl(command: list[str], cancelled: Event | None = None):
     if cancelled and cancelled.is_set():
         raise LookupCancelled("Lyrics request cancelled.")
-    with subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True) as process:
+    with subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE) as process:
         deadline = time.monotonic() + 17
         try:
             while True:
@@ -76,15 +76,18 @@ def http_json(url: str, service: str, cancelled: Event | None = None, *, referer
     except FileNotFoundError as exc:
         raise LookupFailure("curl is required to retrieve lyrics.") from exc
     if response.returncode:
-        raise LookupFailure(f"{service} network request failed: " + response.stderr.strip(), retryable=True)
-    body, _, status = response.stdout.rpartition("\n")
+        error = response.stderr.decode("utf-8", errors="replace") if isinstance(response.stderr, bytes) else response.stderr
+        raise LookupFailure(f"{service} network request failed: " + error.strip(), retryable=True)
+    output = response.stdout.encode("utf-8") if isinstance(response.stdout, str) else response.stdout
+    body, _, status_bytes = output.rpartition(b"\n")
+    status = status_bytes.decode("ascii", errors="replace")
     if status == "404":
         return None
     if status != "200":
         raise LookupFailure(f"{service} returned HTTP {status}.",
                             retryable=status == "429" or status.startswith("5"))
     try:
-        data = json.loads(body)
+        data = json.loads(body.decode("utf-8"))
     except ValueError as exc:
         raise LookupFailure(f"{service} returned invalid JSON.", retryable=True) from exc
     if data is None:
@@ -119,6 +122,12 @@ class Candidate:
     artists: tuple[str, ...]
     album: str
     duration: float
+
+
+class RecordingChoiceRequired(LookupFailure):
+    def __init__(self, candidates):
+        super().__init__("Choose a recording in Lyrics Pro to confirm the lyric match.")
+        self.candidates = tuple(candidates)
 
 
 def artist_names(record: dict) -> tuple[str, ...]:
@@ -164,6 +173,24 @@ def matches(candidate: Candidate, track: Playback) -> bool:
         and normalize(candidate.title) == normalize(track.title)
         and credits_match(candidate.artists, track.artist)
     )
+
+
+def recording_candidates(records, track):
+    """Suggestions only: title/duration never establish artist identity."""
+    relevance = {}
+    for index, record in enumerate(records):
+        song_id = record.get("id")
+        if type(song_id) is int:
+            relevance.setdefault(song_id, index)
+    candidates = {c.song_id: c for record in records
+                  if (c := candidate_from_record(record)) is not None
+                  and normalize(c.title) == normalize(track.title)
+                  and abs(c.duration - track.duration) <= 2
+                  and not credits_match(c.artists, track.artist)}
+    return sorted(candidates.values(), key=lambda c: (
+        normalize(c.album) != normalize(track.album), relevance[c.song_id],
+        abs(c.duration - track.duration), c.song_id,
+    ))[:5]
 
 
 def decode_record(record: dict, song_id: int) -> Lyrics | None:
@@ -216,6 +243,7 @@ class NetEaseProvider:
             return None
         seen_ids: set[int] = set()
         plain = None
+        suggestions = []
 
         def try_candidates(records: list[dict], budget: int, album: str = ""):
             nonlocal plain
@@ -260,6 +288,7 @@ class NetEaseProvider:
                     break
                 response = self.request("search/get", {"s": query, "type": 1, "limit": 30, "offset": 0})
                 records = response_items(response, "songs", search=True)[:30]
+                suggestions.extend(records)
                 preferred = []
                 for record in records:
                     candidate = candidate_from_record(record)
@@ -300,12 +329,23 @@ class NetEaseProvider:
             found, _ = try_candidates(deferred, song_budget)
             if found:
                 return found
+            if not plain:
+                # A title-only query recovers artists whose romanized name is
+                # unknown to the search service. These results require consent.
+                response = self.request("search/get", {
+                    "s": to_simplified(track.title), "type": 1, "limit": 30, "offset": 0,
+                })
+                suggestions.extend(response_items(response, "songs", search=True)[:30])
         except LookupCancelled:
             raise
         except LookupFailure:
             if plain:
                 return plain
+            if choices := recording_candidates(suggestions, track):
+                raise RecordingChoiceRequired(choices)
             raise
+        if not plain and (choices := recording_candidates(suggestions, track)):
+            raise RecordingChoiceRequired(choices)
         return plain
 
 
@@ -427,11 +467,14 @@ class LyricsProvider:
     def lookup(self, track: Playback) -> Lyrics | None:
         primary = None
         errors = []
+        choices = None
         self.check_cancelled()
         try:
             primary = self.primary.lookup(track)
         except LookupCancelled:
             raise
+        except RecordingChoiceRequired as exc:
+            choices = exc
         except LookupFailure as exc:
             errors.append(exc)
         self.check_cancelled()
@@ -451,6 +494,8 @@ class LyricsProvider:
             return primary
         if fallback:
             return fallback
+        if choices:
+            raise choices
         if errors:
             raise LookupFailure("; ".join(str(error) for error in errors),
                                 retryable=any(error.retryable for error in errors)) from errors[-1]

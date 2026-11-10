@@ -84,7 +84,10 @@ class Bridge:
                         continue
                     self.lyrics.configure(command["language"], command["request_id"],
                                           retry=command["command"] == "retry_lyrics",
-                                          generation=command.get("generation"))
+                                          generation=command.get("generation"),
+                                          **({"choice_id": command["song_id"], "choice_request_id": command["choice_request_id"]}
+                                             if command["command"] == "choose_recording" else
+                                             {"forget": True} if command["command"] == "forget_recording" else {}))
                     continue
                 if command == "shutdown":
                     self.cancelled.set()
@@ -172,10 +175,13 @@ def read_commands(stream, commands, cancelled):
                 if message.get("command") == "playback_control":
                     if valid_command(message):
                         commands.put(message)
-                elif message.get("command") in {"language", "retry_lyrics"}:
+                elif message.get("command") in {"language", "retry_lyrics", "choose_recording", "forget_recording"}:
                     if (message.get("language") in LANGUAGES
                             and type(message.get("request_id")) is int and message["request_id"] >= 0
-                            and (message["command"] != "retry_lyrics" or type(message.get("generation")) is int)):
+                            and (message["command"] == "language" or type(message.get("generation")) is int)
+                            and (message["command"] != "choose_recording" or
+                                 (type(message.get("song_id")) is int and message["song_id"] > 0
+                                  and type(message.get("choice_request_id")) is int and message["choice_request_id"] >= 0))):
                         commands.put(message)
                 elif message.get("command") in {"retry", "shutdown"}:
                     if message["command"] == "shutdown":

@@ -171,6 +171,15 @@ final class MusicConnection: ObservableObject {
 
     func retryLyrics() { sendLyricCommand("retry_lyrics") }
 
+    func chooseRecording(_ candidate: RecordingCandidate, generation: Int, requestID: Int) {
+        guard demo == nil, state.phase == .live, state.generation == generation,
+              state.lyric?.requestID == requestID, state.lyric?.status == .chooseRecording,
+              state.lyric?.candidates?.contains(where: { $0.id == candidate.id }) == true else { return }
+        sendLyricCommand("choose_recording", extra: ["song_id": candidate.id, "choice_request_id": requestID])
+    }
+
+    func forgetRecording() { sendLyricCommand("forget_recording") }
+
     var canControl: Bool {
         demo == nil && state.phase == .live &&
         ["playing", "paused"].contains(state.playback?.state ?? "")
@@ -217,12 +226,13 @@ final class MusicConnection: ObservableObject {
         if updatingMusic != updating { updatingMusic = updating }
     }
 
-    private func sendLyricCommand(_ command: String) {
+    private func sendLyricCommand(_ command: String, extra: [String: Any] = [:]) {
         guard let process, let input, let run = session, process.isRunning else { return }
         state.prepareLyrics(requestID: state.lyricRequestID + 1)
-        let payload: [String: Any] = ["version": 1, "command": command,
+        var payload: [String: Any] = ["version": 1, "command": command,
                                       "language": language.rawValue, "request_id": state.lyricRequestID,
                                       "generation": state.generation]
+        payload.merge(extra) { _, value in value }
         guard var data = try? JSONSerialization.data(withJSONObject: payload) else { return }
         data.append(10)
         writeCommand(data, input: input, session: run)

@@ -40,12 +40,6 @@ struct PlaybackPanel: View {
                 Spacer()
                 Text(MusicSnapshot.timeLabel(duration))
             }
-            .overlay {
-                if connection.state.phase == .live {
-                    Text(paused ? "Paused" : "Playing")
-                        .font(.system(size: 11, weight: .medium))
-                }
-            }
             .font(.system(size: 11, design: .monospaced))
             .foregroundStyle(.white.opacity(0.4))
 

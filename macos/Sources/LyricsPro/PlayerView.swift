@@ -90,11 +90,6 @@ struct PlayerView: View {
                 .font(.system(size: 13, weight: .semibold))
                 .foregroundStyle(.white.opacity(0.80))
             Spacer()
-            if demo == nil {
-                PronunciationMenu(language: connection.language, accent: song.accent,
-                                  select: connection.selectLanguage)
-                    .padding(.trailing, connection.state.phase == .live ? 0 : 16)
-            }
             if demo != nil || connection.state.phase != .live {
                 Text(demo != nil ? "Demo · \(song.rawValue)" : status)
                     .font(.system(size: 12, weight: .medium))
@@ -216,11 +211,16 @@ struct PlayerView: View {
             Image(systemName: demo != nil ? "sparkle" : "music.note").foregroundStyle(song.accent.opacity(0.65))
             Text(demo != nil ? "Original demo lyrics & artwork" : "Live metadata & artwork from Apple Music")
             Spacer()
-            Text(demo != nil ? "Demo content · Switch to Live Music for your song" : "Scroll to browse · Click a timed line to seek")
+            if demo != nil {
+                Text("Demo content · Switch to Live Music for your song")
+            } else {
+                PronunciationMenu(language: connection.language, accent: song.accent,
+                                  select: connection.selectLanguage)
+            }
         }
         .font(.system(size: 11))
         .foregroundStyle(.white.opacity(0.36))
         .padding(.horizontal, 26)
-        .frame(height: 40)
+        .frame(height: 52)
     }
 }
