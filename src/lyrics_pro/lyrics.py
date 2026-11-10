@@ -67,7 +67,7 @@ def http_json(url: str, service: str, cancelled: Event | None = None, *, referer
     headers = ["--referer", referer] if referer else []
     try:
         response = run_curl(
-            ["curl", "-4", "--compressed", "--silent", "--show-error", "--connect-timeout", "5",
+            ["/usr/bin/curl", "-4", "--compressed", "--silent", "--show-error", "--connect-timeout", "5",
              "--max-time", "15", "--max-filesize", "5000000", "--user-agent",
              "LyricsPro/0.1 (personal terminal prototype)", *headers,
              "--write-out", "\n%{http_code}", url],

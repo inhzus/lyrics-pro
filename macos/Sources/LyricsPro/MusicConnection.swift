@@ -2,11 +2,6 @@ import AppKit
 import Combine
 import Foundation
 
-private struct BackendConfiguration: Decodable {
-    let projectRoot: String
-    let python: String
-}
-
 @MainActor
 final class MusicConnection: ObservableObject {
     @Published var demo: DemoSong? {
@@ -42,14 +37,10 @@ final class MusicConnection: ObservableObject {
         refreshPresentation()
         artworkImage = nil
         do {
-            guard let configURL = Bundle.main.url(forResource: "Backend", withExtension: "json") else {
-                state.fail("Backend configuration is missing. Rebuild Lyrics Pro using scripts/build-macos.fish.")
-                return
-            }
-            let config = try JSONDecoder().decode(BackendConfiguration.self, from: Data(contentsOf: configURL))
-            guard FileManager.default.isExecutableFile(atPath: config.python),
-                  FileManager.default.fileExists(atPath: config.projectRoot + "/src/lyrics_pro/bridge.py") else {
-                state.fail("Python environment or project is missing. Run uv sync --locked in the project, then rebuild the app if the project moved.")
+            let launch = BackendLaunch(bundleURL: Bundle.main.bundleURL,
+                                       inheritedEnvironment: ProcessInfo.processInfo.environment)
+            guard FileManager.default.isExecutableFile(atPath: launch.executable.path) else {
+                state.fail("Lyrics Pro's bundled worker is missing. Replace the app with a complete copy, then reopen it.")
                 return
             }
             let worker = Process()
@@ -57,13 +48,10 @@ final class MusicConnection: ObservableObject {
             let run = UUID()
             session = run
             receivedReady = false
-            worker.executableURL = URL(fileURLWithPath: config.python)
-            worker.arguments = ["-u", "-m", "lyrics_pro.bridge", "--language", language.rawValue]
-            worker.currentDirectoryURL = URL(fileURLWithPath: config.projectRoot)
-            var environment = ProcessInfo.processInfo.environment
-            environment["PYTHONPATH"] = config.projectRoot + "/src"
-            environment["PYTHONUNBUFFERED"] = "1"
-            worker.environment = environment
+            worker.executableURL = launch.executable
+            worker.arguments = ["--language", language.rawValue]
+            worker.currentDirectoryURL = launch.workingDirectory
+            worker.environment = launch.environment
             worker.standardInput = stdin
             worker.standardOutput = stdout
             worker.standardError = stderr

@@ -1,0 +1,8 @@
+[project]
+name = "lyrics-pro-packaging"
+version = "0.1.0"
+requires-python = "==3.12.*"
+dependencies = ["lyrics-pro", "pyinstaller==6.22.3"]
+
+[tool.uv.sources]
+lyrics-pro = { path = ".." }

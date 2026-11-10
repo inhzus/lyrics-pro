@@ -3,25 +3,31 @@
 A personal macOS terminal companion for Music: print the active lyric line with
 Cantonese Jyutping or Taiwanese Hokkien Tâi-lô. Pronunciation runs locally using
 ToJyutping and Taibun. NetEase Cloud Music is the primary lyrics service, with
-LRCLIB as fallback. No AI service, login, or API key is used. The NetEase
+LrcAPI and LRCLIB as fallbacks. No AI service, login, or API key is used. The NetEase
 integration uses unofficial website endpoints, which can change.
 
-## macOS app preview — Stage 4 + playback controls
+## macOS app — portable personal build
 
 A native SwiftUI companion is available alongside the terminal app. It shows live
 Music metadata, playback time, artwork, lyrics, and local pronunciation. Build with Apple's
-Command Line Tools (Swift 6 or newer), `uv`, and fish:
+Command Line Tools (Swift 6 or newer), `uv`, and fish on an Apple Silicon Mac:
 
 ```fish
-uv sync --locked
 fish scripts/build-macos.fish
 open "dist/Lyrics Pro.app"
 ```
 
-The preview requires macOS 15 or newer and can be opened from Finder. It starts a
-Python worker using this repository's `.venv/bin/python`; keep the repository and
-environment in place. No shell, `uv`, local HTTP server, or terminal window is needed
-at runtime. Moving the repository requires rebuilding the app.
+The app requires **Apple Silicon and macOS 15 or newer**. Share
+`dist/Lyrics-Pro-0.5.0-macOS-arm64.zip`; recipients unzip it and drag Lyrics Pro.app
+into Applications. Python, `uv`, Homebrew, the repository, and developer tools are
+**not needed at runtime**. The app can be moved or renamed in Finder.
+
+The build uses a separate, locked Python 3.12 environment in `packaging/.venv`
+and leaves the development `.venv` unchanged. It bundles Python, ToJyutping and
+Taibun dictionaries, msgpack, package metadata, and licenses in a background helper
+app using PyInstaller. The native UI launches that helper by a bundle-relative path.
+No local HTTP server or terminal window is needed. System `curl` and `osascript`
+are accessed by absolute macOS paths.
 
 Live mode follows Music every half second, including pause/resume and external
 seeks. Playback changes only when you use a control; the app does not launch Music.
@@ -120,7 +126,11 @@ The green window button enters fullscreen. The **Preview** menu provides compact
 and default window sizes, preserving the current display (exit fullscreen first).
 Use the rightmost monitor for interactive checks.
 
-The build is locally ad-hoc signed, not notarized for distribution. The bundle
+This personal build is ad-hoc signed and **not notarized**. A downloaded copy may
+need approval through System Settings → Privacy & Security → Open Anyway after
+the first attempted launch. Approve only a trusted copy; do not disable Gatekeeper.
+See the included [installation instructions](packaging/Install.txt). Developer ID
+signing/notarization, Intel builds, and older macOS support are deferred. The bundle
 includes Apple's [Automation usage description](https://developer.apple.com/documentation/bundleresources/information-property-list/nsappleeventsusagedescription).
 See [the staged UI plan](docs/macos-ui.md)
 for the checkpoint and remaining work. The terminal app below still works as before.
@@ -211,6 +221,25 @@ and exits. If local pronunciation is currently being computed, it finishes first
 uv run pytest
 fish scripts/test-macos.fish
 ```
+
+Rebuild the portable app and validate the actual ZIP:
+
+```fish
+fish scripts/build-macos.fish
+packaging/.venv/bin/python packaging/verify_portable.py dist/Lyrics-Pro-0.5.0-macOS-arm64.zip
+```
+
+The build checks all Mach-O architectures, deployment minimums, linked library
+paths, and nested code signatures, then runs the bundled offline self-check.
+The ZIP test unpacks and renames the app into a path containing spaces, denies
+access to the repository and external Python installations, makes the app
+read-only through a test sandbox, and disables network/Apple Events. It verifies
+both pronunciation engines, SQLite, rolling logs, NDJSON startup, shutdown, and
+restart without touching Music. This does not replace first-launch/Gatekeeper
+validation on a separate Mac, especially one running the minimum macOS version.
+Temporary build products and the previous successful app are retained under `.build/`.
+The packaging lock is independent of `uv.lock`; when changing runtime dependencies,
+refresh `packaging/uv.lock` too (`uv lock --project packaging --python 3.12.16`).
 
 Tests mock Music and network access, with local pronunciation smoke checks.
 Native tests use Swift Testing. The script disables XCTest and explicitly loads

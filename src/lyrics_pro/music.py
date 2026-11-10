@@ -64,7 +64,7 @@ def run_script(args: list[str], *, timeout: float, cancelled: Event | None = Non
 def read_playback(*, cancelled: Event | None = None, permission_owner: str = "your terminal") -> Playback:
     try:
         result = run_script(
-            ["osascript", "-l", "JavaScript", "-e", SCRIPT],
+            ["/usr/bin/osascript", "-l", "JavaScript", "-e", SCRIPT],
             timeout=4, cancelled=cancelled,
         )
     except subprocess.TimeoutExpired as exc:

@@ -52,7 +52,7 @@ def read_artwork(track: Playback, cancelled: Event) -> str | None:
     with tempfile.TemporaryDirectory(prefix="lyrics-pro-artwork-") as directory:
         target = Path(directory) / "cover"
         result = run_script(
-            ["osascript", "-e", ARTWORK_SCRIPT, track.title, track.artist, track.album,
+            ["/usr/bin/osascript", "-e", ARTWORK_SCRIPT, track.title, track.artist, track.album,
              str(track.duration), str(target)], timeout=5, cancelled=cancelled,
         )
         if result.returncode:

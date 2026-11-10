@@ -396,11 +396,42 @@ The user expanded the scope after Stage 4 to control Apple Music from this app.
   inspected directly; live Dock/Finder presentation and the updated picker still
   need inspection when the desktop is accessible.
 
-## Stage 5 — Polish and completion
+## Portable personal distribution — 0.5.0
 
-Tune visuals against the reference. Check keyboard use, accessibility, reduced
-motion, cold launches, permission recovery, worker restart, offline behavior, and
-shutdown. Run Python and Swift behavioral tests. Document setup and troubleshooting;
-deliver the local app and a zipped build. Python remains repository-dependent;
-moving the repository requires rebuilding. Self-contained distribution, Developer
-ID signing, and notarization remain deferred.
+- `scripts/build-macos.fish` now produces a self-contained Apple Silicon app and
+  `Lyrics-Pro-0.5.0-macOS-arm64.zip`, including installation instructions. The
+  deployment target remains macOS 15.0. No recipient-side Python, uv, Homebrew,
+  development environment, or checkout is required.
+- The separate packaging project pins Python 3.12.16 and PyInstaller 6.22.3 with
+  its own dependency lock. Development Python remains unchanged. A PyInstaller
+  directory bundle under Contents/Helpers/LyricsBackend.app separates executable
+  code and resources as required by macOS code signing. It includes ToJyutping's
+  trie, all Taibun msgpack dictionaries, the native msgpack extension, version
+  metadata, and license notices. No runtime extraction or interpreter download.
+- The native launcher resolves its helper relative to the app and removes inherited
+  Python/dyld configuration. System curl and osascript use absolute paths. The old
+  absolute-path Backend.json is gone. The NDJSON protocol and Application Support
+  storage remain compatible; existing cached lyrics and selections are reused.
+- The build removes SwiftPM's developer-toolchain runtime search path, verifies
+  all four Mach-O files target arm64 with macOS minimums no newer than 15, signs
+  libraries then helper then app, and checks the complete nested signature.
+  A failed build leaves the previous successful app available.
+- 210 Python tests passed on both development Python 3.15 and packaging Python
+  3.12; 42 Swift tests passed. The actual ZIP was extracted to a renamed path with
+  spaces. Its worker passed offline pronunciation, metadata, SQLite, rolling log,
+  NDJSON startup, shutdown, and restart checks while repository/external Python
+  reads, app-bundle writes, network access, and Apple Events were denied.
+- Live 0.5.0 launch on the rightmost DELL P2725QE displayed 粵語殘片, artwork,
+  timed NetEase lyrics, and Jyutping with the bundled worker. The existing cache
+  was reused and diagnostics reached Application Support/Logs/app.log. Music
+  remained paused at 89.465 seconds during the initial check.
+- Personal builds are ad-hoc signed, not notarized. First-launch approval and
+  Automation permission on a separate Mac remain unverified; a macOS 15 machine
+  is not available in this workspace. Developer ID/notarization, Intel builds,
+  older macOS, and automatic updates are deferred.
+
+## Remaining polish
+
+Continue checking keyboard use, accessibility, reduced motion, and first-launch
+permission recovery on recipient Macs. The historical stages above describe their
+original checkpoints; repository-dependent packaging was replaced in 0.5.0.

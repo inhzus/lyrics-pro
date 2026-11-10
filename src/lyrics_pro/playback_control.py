@@ -65,7 +65,7 @@ def control_playback(message, *, cancelled=None):
     if not valid_command(message):
         raise MusicError("Invalid playback request.", code="invalid_command")
     try:
-        result = run_script(["osascript", "-l", "JavaScript", "-e", SCRIPT,
+        result = run_script(["/usr/bin/osascript", "-l", "JavaScript", "-e", SCRIPT,
                              json.dumps(message, ensure_ascii=False, allow_nan=False)],
                             timeout=4, cancelled=cancelled)
     except subprocess.TimeoutExpired as exc:

@@ -1,0 +1,22 @@
+Lyrics Pro — personal macOS build
+
+Requires an Apple Silicon Mac (M1 or newer) running macOS 15 or newer.
+
+1. Unzip the download and drag Lyrics Pro.app into Applications.
+2. Open Lyrics Pro. No Python, uv, Homebrew, or developer tools are needed.
+3. This personal build is ad-hoc signed, not notarized. If macOS blocks it,
+   first try opening the app, then go to System Settings > Privacy & Security
+   and use Open Anyway for Lyrics Pro, if offered. Only do this for a copy
+   obtained from someone you trust. Do not disable Gatekeeper.
+4. Open Apple Music and play a song. Allow Lyrics Pro to control Music when
+   macOS asks. If permission was denied, enable Music for Lyrics Pro under
+   System Settings > Privacy & Security > Automation, then reconnect.
+
+Internet access is needed to fetch uncached lyrics. Pronunciation is local.
+Lyrics, recording choices, and logs are stored in:
+~/Library/Application Support/Lyrics Pro/
+
+Help > Open Logs Folder opens diagnostics. No API key is required.
+To update, quit Lyrics Pro and replace the app. Your cached data is retained.
+To uninstall, quit and remove the app; optionally remove its Application
+Support folder. Third-party notices are in the app's Contents/Resources/Licenses.
