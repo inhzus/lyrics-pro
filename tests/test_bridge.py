@@ -99,7 +99,7 @@ def test_transient_music_error_recovers_automatically(bridge):
     worker.tick()
     current[0] = A
     worker.tick()
-    assert events[-1]["type"] == "playback"
+    assert any(e["type"] == "playback" and e["playback"]["title"] == A.title for e in events)
 
 
 def test_missing_artwork_is_cached_and_retry_invalidates_it(bridge):

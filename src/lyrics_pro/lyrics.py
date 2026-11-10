@@ -175,8 +175,8 @@ def matches(candidate: Candidate, track: Playback) -> bool:
     )
 
 
-def recording_candidates(records, track):
-    """Suggestions only: title/duration never establish artist identity."""
+def recording_candidates(records, track, *, include_verified=False, limit=30):
+    """Rank recordings without treating title/duration as artist identity."""
     relevance = {}
     for index, record in enumerate(records):
         song_id = record.get("id")
@@ -186,11 +186,12 @@ def recording_candidates(records, track):
                   if (c := candidate_from_record(record)) is not None
                   and normalize(c.title) == normalize(track.title)
                   and abs(c.duration - track.duration) <= 2
-                  and not credits_match(c.artists, track.artist)}
+                  and (include_verified or not credits_match(c.artists, track.artist))}
     return sorted(candidates.values(), key=lambda c: (
+        not credits_match(c.artists, track.artist),
         normalize(c.album) != normalize(track.album), relevance[c.song_id],
         abs(c.duration - track.duration), c.song_id,
-    ))[:5]
+    ))[:limit]
 
 
 def decode_record(record: dict, song_id: int) -> Lyrics | None:
@@ -237,6 +238,20 @@ def response_items(response: dict | None, key: str, *, search: bool = False) -> 
 class NetEaseProvider:
     def __init__(self, request=request_json):
         self.request = request
+
+    def lyrics_for(self, song_id):
+        record = self.request("song/lyric", {"id": song_id, "lv": -1, "kv": -1, "tv": -1, "rv": -1})
+        return decode_record(record, song_id) if record else None
+
+    def alternatives(self, track):
+        records = []
+        artist = {"eason": "陈奕迅", "wubai": "伍佰"}.get(artist_key(track.artist), track.artist)
+        queries = dict.fromkeys((f"{to_simplified(track.title)} {to_simplified(artist)}",
+                                f"{track.title} {track.artist}", to_simplified(track.title)))
+        for query in queries:
+            response = self.request("search/get", {"s": query, "type": 1, "limit": 30, "offset": 0})
+            records.extend(response_items(response, "songs", search=True)[:30])
+        return tuple(recording_candidates(records, track, include_verified=True))
 
     def lookup(self, track: Playback) -> Lyrics | None:
         if not track.title.strip() or not track.artist.strip() or not math.isfinite(track.duration) or track.duration <= 0:
@@ -331,7 +346,7 @@ class NetEaseProvider:
                 return found
             if not plain:
                 # A title-only query recovers artists whose romanized name is
-                # unknown to the search service. These results require consent.
+                # unknown to the search service. These remain unverified matches.
                 response = self.request("search/get", {
                     "s": to_simplified(track.title), "type": 1, "limit": 30, "offset": 0,
                 })
@@ -495,7 +510,18 @@ class LyricsProvider:
         if fallback:
             return fallback
         if choices:
-            raise choices
+            # Verified providers have had their chance. Try a bounded set of
+            # unverified matches, without persisting an artist or recording alias.
+            for candidate in choices.candidates[:3]:
+                self.check_cancelled()
+                try:
+                    result = self.primary.lyrics_for(candidate.song_id)
+                    if result:
+                        return result
+                except LookupCancelled:
+                    raise
+                except LookupFailure as exc:
+                    errors.append(exc)
         if errors:
             raise LookupFailure("; ".join(str(error) for error in errors),
                                 retryable=any(error.retryable for error in errors)) from errors[-1]

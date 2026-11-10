@@ -53,6 +53,7 @@ struct BridgeEvent: Decodable, Sendable {
     let code: String?
     let message: String?
     let lyric: LyricUpdate?
+    let recordings: RecordingUpdate?
     let command_id: Int?
     let completed_control_id: Int?
     let ok: Bool?
@@ -60,7 +61,7 @@ struct BridgeEvent: Decodable, Sendable {
     static func decode(_ data: Data) throws -> BridgeEvent {
         let event = try JSONDecoder().decode(Self.self, from: data)
         guard event.version == 1, event.generation >= 0,
-              ["ready", "playback", "artwork", "status", "lyrics", "control_result"].contains(event.type) else {
+              ["ready", "playback", "artwork", "status", "lyrics", "recordings", "control_result"].contains(event.type) else {
             throw BridgeError.invalidEvent
         }
         if event.type == "playback" {
@@ -71,6 +72,9 @@ struct BridgeEvent: Decodable, Sendable {
         }
         if event.type == "lyrics" {
             guard event.track != nil, event.lyric?.isValid == true else { throw BridgeError.invalidEvent }
+        }
+        if event.type == "recordings" {
+            guard event.track != nil, event.recordings?.isValid == true else { throw BridgeError.invalidEvent }
         }
         if event.type == "control_result" {
             guard let id = event.command_id, id > 0, event.ok != nil else { throw BridgeError.invalidEvent }
@@ -124,11 +128,12 @@ struct LiveMusicState: Sendable {
     var artwork: Data?
     var artworkReceived = false
     var lyric: LyricUpdate?
+    var recordings: RecordingUpdate?
     var lyricRequestID = 0
 
-    mutating func prepareLyrics(requestID: Int) {
+    mutating func prepareLyrics(requestID: Int, preserve: Bool = false) {
         lyricRequestID = requestID
-        lyric = nil
+        if !preserve { lyric = nil }
     }
 
     mutating func apply(_ event: BridgeEvent) {
@@ -141,6 +146,7 @@ struct LiveMusicState: Sendable {
                 artwork = nil
                 artworkReceived = false
                 lyric = nil
+                recordings = nil
             }
             generation = event.generation
             identity = event.track
@@ -155,6 +161,10 @@ struct LiveMusicState: Sendable {
             guard event.generation == generation, let identity, identity == event.track,
                   phase == .live, let update = event.lyric, update.requestID == lyricRequestID else { return }
             lyric = update
+        case "recordings":
+            guard event.generation == generation, let identity, identity == event.track,
+                  phase == .live, let update = event.recordings, update.requestID == lyricRequestID else { return }
+            recordings = update
         case "status":
             generation = event.generation
             identity = nil
@@ -162,6 +172,7 @@ struct LiveMusicState: Sendable {
             artwork = nil
             artworkReceived = false
             lyric = nil
+            recordings = nil
             phase = event.code == "permission_denied" ? .denied : .failed
             message = event.message ?? "Cannot read Apple Music. Waiting to reconnect."
         default: break
@@ -175,6 +186,7 @@ struct LiveMusicState: Sendable {
         artwork = nil
         artworkReceived = false
         lyric = nil
+        recordings = nil
         message = explanation
     }
 }

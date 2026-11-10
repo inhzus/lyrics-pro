@@ -6,6 +6,7 @@ private typealias VisibleRowStorage = State<Int?>
 private typealias ScrollingStorage = State<Bool>
 private typealias DragDeadlineStorage = State<Date>
 private typealias HoveredRowStorage = State<Int?>
+private typealias RecordingRevisionStorage = State<Int?>
 
 private struct LyricFrames: PreferenceKey {
     static let defaultValue: [Int: CGRect] = [:]
@@ -17,6 +18,7 @@ private struct LyricFrames: PreferenceKey {
 private struct LyricLayout: Equatable {
     let generation: Int
     let request: Int
+    let recording: Int
     let size: CGSize
 }
 
@@ -24,6 +26,7 @@ struct FollowingLyricsView: View {
     let lyrics: LiveLyrics
     let generation: Int
     let requestID: Int
+    let recordingRevision: Int
     let position: Double
     let accent: Color
     let fontSize: CGFloat
@@ -37,6 +40,7 @@ struct FollowingLyricsView: View {
     @ScrollingStorage private var userIsScrolling = false
     @DragDeadlineStorage private var suppressClickUntil = Date.distantPast
     @HoveredRowStorage private var hoveredRow: Int?
+    @RecordingRevisionStorage private var lastRecordingRevision: Int?
 
     var body: some View {
         GeometryReader { viewport in
@@ -80,8 +84,13 @@ struct FollowingLyricsView: View {
                     for (id, frame) in frames { updatedHeights[id] = frame.height }
                     if updatedHeights != heights { heights = updatedHeights }
                 }
-                .task(id: LyricLayout(generation: generation, request: requestID, size: viewport.size)) {
+                .task(id: LyricLayout(generation: generation, request: requestID, recording: recordingRevision, size: viewport.size)) {
                     hoveredRow = nil
+                    if let previous = lastRecordingRevision, previous != recordingRevision {
+                        following.reset(generation: generation)
+                        heights = [:]
+                    }
+                    lastRecordingRevision = recordingRevision
                     let target = following.load(lyrics, generation: generation, position: position)
                     // Let the stack lay out with its new padding/line heights first.
                     await Task.yield()

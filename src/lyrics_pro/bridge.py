@@ -87,6 +87,7 @@ class Bridge:
                                           generation=command.get("generation"),
                                           **({"choice_id": command["song_id"], "choice_request_id": command["choice_request_id"]}
                                              if command["command"] == "choose_recording" else
+                                             {"discover": True} if command["command"] == "list_recordings" else
                                              {"forget": True} if command["command"] == "forget_recording" else {}))
                     continue
                 if command == "shutdown":
@@ -127,7 +128,8 @@ class Bridge:
         for result in control_results:
             self.send("control_result", **result)
         self.lyrics.update_track(track, self.generation)
-        self.lyrics.tick(lambda payload: self.send("lyrics", lyric=payload))
+        self.lyrics.tick(lambda payload: self.send("lyrics", lyric=payload),
+                         lambda payload: self.send("recordings", recordings=payload))
 
         if self.pending and self.pending[0].done():
             future, generation, key = self.pending
@@ -175,7 +177,7 @@ def read_commands(stream, commands, cancelled):
                 if message.get("command") == "playback_control":
                     if valid_command(message):
                         commands.put(message)
-                elif message.get("command") in {"language", "retry_lyrics", "choose_recording", "forget_recording"}:
+                elif message.get("command") in {"language", "retry_lyrics", "choose_recording", "forget_recording", "list_recordings"}:
                     if (message.get("language") in LANGUAGES
                             and type(message.get("request_id")) is int and message["request_id"] >= 0
                             and (message["command"] == "language" or type(message.get("generation")) is int)

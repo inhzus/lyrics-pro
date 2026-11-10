@@ -28,11 +28,6 @@ struct LiveLyricsView: View {
                     .foregroundStyle(.white.opacity(0.50))
                 }
                 Spacer(minLength: 0)
-                if update?.savedChoice == true {
-                    Button("Forget recording choice") { connection.forgetRecording() }
-                        .buttonStyle(PlayerCapsuleStyle(accent: accent))
-                        .help("Clear the saved lyric recording for this song and search again")
-                }
                 Button { connection.retryLyrics() } label: {
                     Image(systemName: "arrow.clockwise")
                         .font(.system(size: 13, weight: .medium))
@@ -45,63 +40,17 @@ struct LiveLyricsView: View {
             }
             if let update, (update.status == .ready || update.status == .plain), let lyrics = update.lyrics {
                 FollowingLyricsView(lyrics: lyrics, generation: connection.state.generation,
-                                    requestID: update.requestID, position: connection.presentation.position,
+                                    requestID: update.requestID, recordingRevision: update.selectionRevision ?? 0,
+                                    position: connection.presentation.position,
                                     accent: accent, fontSize: fontSize, following: $following,
                                     canSeek: connection.canSeek, followRevision: connection.controls.followRevision,
                                     seek: { [generation = connection.state.generation] position in
                                         connection.control(.seek, position: position, resumeFollowing: true,
                                                            expectedGeneration: generation)
                                     })
-            } else if update?.status == .chooseRecording {
-                recordingChooser
             } else {
                 statusPanel
             }
-        }
-    }
-
-    private var recordingChooser: some View {
-        let generation = connection.state.generation
-        let requestID = update?.requestID ?? 0
-        return ScrollView {
-            VStack(alignment: .leading, spacing: 16) {
-                Text("Choose your recording")
-                    .font(.system(size: 26, weight: .semibold))
-                    .foregroundStyle(.white.opacity(0.95))
-                Text("The title and duration match, but we couldn’t verify the artist. Select your recording to use its lyrics.")
-                    .font(.system(size: 14))
-                    .foregroundStyle(.white.opacity(0.6))
-                if let track = connection.state.playback {
-                    Text("Apple Music · \(track.artist) · \(track.album) · \(MusicSnapshot.timeLabel(track.duration))")
-                        .font(.system(size: 12))
-                        .foregroundStyle(accent)
-                }
-                ForEach(update?.candidates ?? []) { candidate in
-                    Button {
-                        connection.chooseRecording(candidate, generation: generation, requestID: requestID)
-                    } label: {
-                        VStack(alignment: .leading, spacing: 6) {
-                            HStack {
-                                Text(candidate.title).font(.system(size: 17, weight: .semibold))
-                                Spacer()
-                                Text(MusicSnapshot.timeLabel(candidate.duration)).monospacedDigit()
-                            }
-                            Text(candidate.artists.joined(separator: " & "))
-                            Text("\(candidate.album.isEmpty ? "Unknown album" : candidate.album) · NetEase")
-                                .foregroundStyle(.white.opacity(0.55))
-                        }
-                        .font(.system(size: 13))
-                        .frame(maxWidth: .infinity, alignment: .leading)
-                        .padding(16)
-                    }
-                    .buttonStyle(RecordingChoiceStyle())
-                }
-                Text("Your choice is remembered for this song only. If none match, leave them unselected.")
-                    .font(.system(size: 12))
-                    .foregroundStyle(.white.opacity(0.45))
-            }
-            .padding(.vertical, 12)
-            .padding(.trailing, 16)
         }
     }
 
@@ -150,13 +99,3 @@ struct LiveLyricsView: View {
     }
 }
 
-private struct RecordingChoiceStyle: ButtonStyle {
-    func makeBody(configuration: Configuration) -> some View {
-        configuration.label
-            .foregroundStyle(.white.opacity(0.9))
-            .background(.white.opacity(configuration.isPressed ? 0.12 : 0.055),
-                        in: RoundedRectangle(cornerRadius: 12))
-            .overlay(RoundedRectangle(cornerRadius: 12).strokeBorder(.white.opacity(0.12)))
-            .contentShape(RoundedRectangle(cornerRadius: 12))
-    }
-}

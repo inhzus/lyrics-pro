@@ -214,6 +214,7 @@ struct PlayerView: View {
             if demo != nil {
                 Text("Demo content · Switch to Live Music for your song")
             } else {
+                RecordingPicker(connection: connection, accent: song.accent)
                 PronunciationMenu(language: connection.language, accent: song.accent,
                                   select: connection.selectLanguage)
             }

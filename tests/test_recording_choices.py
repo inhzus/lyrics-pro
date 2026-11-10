@@ -22,7 +22,7 @@ RECORD = {"id": 5284269, "name": "故乡", "artists": [{"name": "罗大佑"}],
           "album": {"name": "新乐园"}, "duration": 277676}
 
 
-def test_unknown_artist_is_suggested_never_automatically_accepted():
+def test_primary_keeps_unverified_candidates_separate_from_verified_results():
     calls = []
     def fetch(endpoint, params):
         calls.append((endpoint, params))
@@ -42,8 +42,9 @@ def test_suggestions_reject_wrong_versions_and_bound_and_rank_results():
                 RECORD | {"id": 12, "artists": []},
                 RECORD | {"id": 13, "album": {"name": "故鄉 - Single"}}]
     choices = recording_candidates(records + [records[-1]], TRACK)
-    assert len(choices) == 5 and choices[0].song_id == 13
+    assert len(choices) == 9 and choices[0].song_id == 13
     assert not {10, 11, 12} & {c.song_id for c in choices}
+    assert len(recording_candidates([RECORD | {"id": n} for n in range(1, 40)], TRACK)) == 30
 
 
 def test_artist_query_relevance_precedes_title_only_duration_coincidence():
@@ -51,17 +52,22 @@ def test_artist_query_relevance_precedes_title_only_duration_coincidence():
     assert recording_candidates([RECORD, unrelated], TRACK)[0].song_id == 5284269
 
 
-def test_verified_fallback_beats_suggestions_but_failure_does_not_hide_them():
+def test_verified_fallback_beats_unverified_automatic_selection():
     suggestion = RecordingChoiceRequired(recording_candidates([RECORD], TRACK))
+    calls = []
     class Primary:
         def lookup(self, track): raise suggestion
+        def lyrics_for(self, song_id):
+            calls.append(song_id)
+            return RAW
     class Secondary:
         def lookup(self, track): return RAW
     assert LyricsProvider(Primary(), Secondary()).lookup(TRACK) is RAW
+    assert not calls
     class Broken:
         def lookup(self, track): raise LookupFailure("timeout", retryable=True)
-    with pytest.raises(RecordingChoiceRequired):
-        LyricsProvider(Primary(), Broken()).lookup(TRACK)
+    assert LyricsProvider(Primary(), Broken()).lookup(TRACK) is RAW
+    assert calls == [5284269]
 
 
 def test_saved_choice_is_exact_track_scoped_persistent_and_forgettable(tmp_path):
@@ -78,29 +84,43 @@ def test_saved_choice_is_exact_track_scoped_persistent_and_forgettable(tmp_path)
     assert RecordingChoices(path).get(TRACK) is None
 
 
-def test_chooser_selects_only_current_suggestions_and_reuses_saved_recording(tmp_path):
+def test_picker_keeps_lyrics_and_commits_only_successful_current_selection(tmp_path):
     calls = []
     def fetch(*_):
         calls.append("search")
-        raise RecordingChoiceRequired(recording_candidates([RECORD], TRACK))
+        return RAW
     def selected(song_id, token):
         calls.append(song_id)
-        return RAW
+        return replace(RAW, source=f"NetEase https://music.163.com/song?id={song_id}")
     path = tmp_path / "choices.json"
     worker = LyricSession(Event(), language="original", fetch=fetch,
-                          choices=RecordingChoices(path), selected_fetch=selected)
+                          choices=RecordingChoices(path), selected_fetch=selected,
+                          discover=lambda *_: tuple(recording_candidates([RECORD], TRACK)))
     worker.pool.shutdown()
     worker.pool = ControlledPool()
+    worker.discovery_pool.shutdown()
+    worker.discovery_pool = ControlledPool()
     updates = []
     try:
         worker.update_track(TRACK, 1)
-        assert settle(worker, updates)["status"] == "choose_recording"
-        for generation, request, song_id in [(0, 0, 5284269), (1, 9, 5284269), (1, 0, 999)]:
-            worker.configure("original", 1, generation=generation, choice_request_id=request, choice_id=song_id)
-            assert worker.choices.get(TRACK) is None and worker.request_id == 0
-        worker.configure("original", 1, generation=1, choice_request_id=0, choice_id=5284269)
         assert settle(worker, updates)["status"] == "ready"
-        assert updates[-1]["saved_choice"] is True
+        assert worker.choices.get(TRACK) is None
+        worker.configure("original", 1, generation=1, discover=True)
+        recordings = []
+        worker.tick(updates.append, recordings.append)
+        assert recordings[-1]["status"] == "loading" and updates[-1]["status"] == "ready"
+        worker.discovery_pool.finish()
+        worker.tick(updates.append, recordings.append)
+        assert recordings[-1]["status"] == "ready"
+        for generation, request, song_id in [(0, 1, 5284269), (1, 9, 5284269), (1, 1, 999)]:
+            worker.configure("original", 2, generation=generation, choice_request_id=request, choice_id=song_id)
+            assert worker.choices.get(TRACK) is None and worker.request_id == 1
+        worker.configure("original", 2, generation=1, choice_request_id=1, choice_id=5284269)
+        worker.tick(updates.append, recordings.append)
+        assert recordings[-1]["switching"] and worker.choices.get(TRACK) is None
+        assert worker.raw_cache[TRACK.key] is RAW
+        assert settle(worker, updates)["status"] == "ready"
+        assert updates[-1]["selection_revision"] == 1
         assert calls == ["search", 5284269]
         # A fresh session reads the saved choice and bypasses candidate search.
         restored = RecordingChoices(path)
@@ -110,11 +130,104 @@ def test_chooser_selects_only_current_suggestions_and_reuses_saved_recording(tmp
         worker.update_track(TRACK, 3)
         assert settle(worker, updates)["status"] == "ready"
         assert calls == ["search", 5284269, 5284269]
-        worker.configure("original", 2, generation=3, forget=True)
-        assert settle(worker, updates)["status"] == "choose_recording"
+        worker.configure("original", 3, generation=3, forget=True)
+        assert settle(worker, updates)["status"] == "ready"
         assert RecordingChoices(path).get(TRACK) is None
     finally:
         worker.close()
+
+
+@pytest.fixture
+def picker_session(tmp_path):
+    worker = LyricSession(Event(), language="original", fetch=lambda *_: RAW,
+                          choices=RecordingChoices(tmp_path / "choices.json"),
+                          selected_fetch=lambda song_id, _: replace(RAW, source=f"NetEase https://music.163.com/song?id={song_id}"))
+    worker.pool.shutdown()
+    worker.pool = ControlledPool()
+    worker.discovery_pool.shutdown()
+    worker.discovery_pool = ControlledPool()
+    worker.update_track(TRACK, 1)
+    updates = []
+    settle(worker, updates)
+    worker.candidates = tuple(recording_candidates([RECORD | {"id": 1}, RECORD | {"id": 2}], TRACK))
+    yield worker, updates
+    worker.close()
+
+
+def test_failed_switch_keeps_display_and_saved_choice(picker_session):
+    worker, updates = picker_session
+    def failure(*_): raise LookupFailure("Recording unavailable")
+    worker.selected_fetch = failure
+    worker.configure("original", 1, generation=1, choice_request_id=0, choice_id=2)
+    assert settle(worker, updates)["lyrics"]["source"] == RAW.source
+    assert worker.choices.get(TRACK) is None and worker.selection_revision == 0
+    assert worker.selection_error == "Recording unavailable"
+
+
+def test_latest_switch_wins_and_track_change_cannot_save_old_choice(picker_session):
+    worker, updates = picker_session
+    worker.configure("original", 1, generation=1, choice_request_id=0, choice_id=1)
+    worker.tick(updates.append)
+    token = worker.pending[3]
+    worker.configure("original", 2, generation=1, choice_request_id=1, choice_id=2)
+    assert token.is_set()
+    assert settle(worker, updates)["lyrics"]["source"].endswith("id=2")
+    assert worker.choices.get(TRACK) == 2 and worker.selection_revision == 1
+    worker.configure("original", 3, generation=1, choice_request_id=2, choice_id=1)
+    worker.tick(updates.append)
+    worker.update_track(replace(TRACK, title="Another song"), 2)
+    settle(worker, updates)
+    assert worker.choices.get(TRACK) == 2
+
+
+def test_opening_picker_does_not_cancel_an_inflight_switch(picker_session):
+    worker, updates = picker_session
+    worker.configure("original", 1, generation=1, choice_request_id=0, choice_id=2)
+    worker.tick(updates.append)
+    token = worker.pending[3]
+    worker.discover = lambda *_: worker.candidates
+    worker.configure("original", 2, generation=1, discover=True)
+    assert not token.is_set()
+    assert settle(worker, updates)["lyrics"]["source"].endswith("id=2")
+    assert worker.choices.get(TRACK) == 2
+
+
+def test_discovery_is_cached_and_does_not_hide_lyrics_on_failure(picker_session):
+    worker, updates = picker_session
+    calls = []
+    def discover(*_):
+        calls.append(1)
+        return worker.candidates
+    worker.discover = discover
+    worker.configure("original", 1, generation=1, discover=True)
+    worker.tick(updates.append)
+    worker.discovery_pool.finish()
+    worker.tick(updates.append)
+    worker.configure("original", 2, generation=1, discover=True)
+    worker.tick(updates.append)
+    assert calls == [1] and not worker.discovery_pool.jobs
+    assert updates[-1]["lyrics"]["source"] == RAW.source
+    worker.discovery_status = "error"
+    worker.discover = lambda *_: (_ for _ in ()).throw(LookupFailure("network error"))
+    worker.configure("original", 3, generation=1, discover=True)
+    worker.tick(updates.append)
+    worker.discovery_pool.finish()
+    worker.tick(updates.append)
+    assert worker.discovery_status == "error" and updates[-1]["status"] == "ready"
+
+
+def test_unverified_automatic_attempts_are_limited_to_three():
+    calls = []
+    class Primary:
+        def lookup(self, track):
+            raise RecordingChoiceRequired(recording_candidates([RECORD | {"id": i} for i in range(1, 8)], track))
+        def lyrics_for(self, song_id):
+            calls.append(song_id)
+            return None
+    class Secondary:
+        def lookup(self, _): return None
+    assert LyricsProvider(Primary(), Secondary()).lookup(TRACK) is None
+    assert calls == [1, 2, 3]
 
 
 def test_choice_commands_require_valid_revision_generation_and_id():

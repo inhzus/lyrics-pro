@@ -315,6 +315,33 @@ The user expanded the scope after Stage 4 to control Apple Music from this app.
   returned 罗大佑's recording (5284269) as a suggestion without a hardcoded alias;
   other singers with similar durations remained suggestions requiring confirmation.
 
+## Automatic recording picker — 0.4.4
+
+- Verified NetEase and LRCLIB matches retain priority. When neither succeeds,
+  lookup tries up to three ranked NetEase candidates with the same normalized
+  title and duration within two seconds. Artist, album, and search relevance
+  inform ranking without creating artist aliases.
+- A Recording capsule beside pronunciation opens a compact 300-point picker.
+  It retains title, artist, album, duration, source, and selection state, with
+  full metadata in tooltips. At most five 64-point rows appear at once; remaining
+  recordings scroll. A current source absent from the alternatives stays visible
+  as a separate row. Discovery is bounded to 30 candidates and cached per track.
+- The native popover anchors above the capsule, re-anchors when asynchronous
+  content changes or the window moves/resizes, and limits list height to the
+  space above the button. It no longer grows down beyond the display edge.
+- Discovery and recording changes run in the background while current lyrics
+  remain usable. Only successful manual loads persist an exact-track choice;
+  Automatic restores matching and clears that choice after success. Track and
+  request guards reject stale results, and rapid changes honor the latest choice.
+- 189 Python and 33 Swift tests passed. Release build, signature verification,
+  and plist validation passed. Live lookup automatically resolved 故鄉 / Lo Ta-You
+  to NetEase recording 5284269 with 32 timed lines. On 我不难过 / 孙燕姿, seven
+  alternatives were available; scrolling, selecting another album, and restoring
+  Automatic were verified. The compact picker was inspected above its button
+  with nine alternatives for 曖昧 / Faye Wong on the rightmost DELL P2725QE.
+  Keyboard focus initially reaches Automatic; arrow navigation could not be
+  verified because automated key input dismissed the transient popover.
+
 ## Stage 5 — Polish and completion
 
 Tune visuals against the reference. Check keyboard use, accessibility, reduced

@@ -173,12 +173,17 @@ final class MusicConnection: ObservableObject {
 
     func chooseRecording(_ candidate: RecordingCandidate, generation: Int, requestID: Int) {
         guard demo == nil, state.phase == .live, state.generation == generation,
-              state.lyric?.requestID == requestID, state.lyric?.status == .chooseRecording,
-              state.lyric?.candidates?.contains(where: { $0.id == candidate.id }) == true else { return }
-        sendLyricCommand("choose_recording", extra: ["song_id": candidate.id, "choice_request_id": requestID])
+              state.lyricRequestID == requestID,
+              state.recordings?.candidates.contains(where: { $0.id == candidate.id }) == true else { return }
+        sendLyricCommand("choose_recording", extra: ["song_id": candidate.id, "choice_request_id": requestID], preserve: true)
     }
 
-    func forgetRecording() { sendLyricCommand("forget_recording") }
+    func forgetRecording() { sendLyricCommand("forget_recording", preserve: true) }
+
+    func listRecordings() {
+        guard demo == nil, state.phase == .live else { return }
+        sendLyricCommand("list_recordings", preserve: true)
+    }
 
     var canControl: Bool {
         demo == nil && state.phase == .live &&
@@ -226,9 +231,9 @@ final class MusicConnection: ObservableObject {
         if updatingMusic != updating { updatingMusic = updating }
     }
 
-    private func sendLyricCommand(_ command: String, extra: [String: Any] = [:]) {
+    private func sendLyricCommand(_ command: String, extra: [String: Any] = [:], preserve: Bool = false) {
         guard let process, let input, let run = session, process.isRunning else { return }
-        state.prepareLyrics(requestID: state.lyricRequestID + 1)
+        state.prepareLyrics(requestID: state.lyricRequestID + 1, preserve: preserve)
         var payload: [String: Any] = ["version": 1, "command": command,
                                       "language": language.rawValue, "request_id": state.lyricRequestID,
                                       "generation": state.generation]

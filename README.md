@@ -76,12 +76,17 @@ the playing line stays brightest. The progress bar shows elapsed time and durati
 communicates playback state without a separate Playing/Paused label. The header
 shows connection issues only.
 
-If the artist name cannot be verified, the app can offer up to five NetEase
-recordings with the same normalized title and duration within two seconds. Compare
-the artist, album, and duration before choosing; candidates are never selected
-automatically. Verified LRCLIB results still take precedence over uncertain suggestions.
-The app remembers your choice for that exact Apple Music title/artist/album/duration,
-not as an artist-wide alias. **Forget recording choice** clears it and searches again.
+The **Recording** capsule beside pronunciation opens a compact, scrollable picker
+showing at most five rows at once, with up to 30 eligible NetEase alternatives.
+Each row includes title, artist, album, duration, and source. Matching keeps the same
+normalized title and duration within two seconds. Verified NetEase and LRCLIB matches
+remain preferred; if neither succeeds, the app automatically tries up to three ranked
+NetEase candidates. Automatic choices do not create saved mappings or artist aliases.
+Alternatives load in the background, and switching keeps current lyrics visible
+until replacement lyrics and pronunciation are ready. Failed switches leave the
+previous selection intact. Successful manual choices are remembered for the exact
+Apple Music title/artist/album/duration. **Automatic** in the picker clears a manual
+override after successfully loading the automatic result.
 Up to 256 choices persist locally in
 `~/Library/Application Support/Lyrics Pro/recording-choices.json`; lyrics themselves
 remain memory-only. No additional service or AI is used. The duplicate pronunciation

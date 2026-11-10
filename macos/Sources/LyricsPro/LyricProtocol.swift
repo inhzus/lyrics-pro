@@ -49,10 +49,9 @@ struct LiveLyrics: Decodable, Sendable {
 
 enum LyricStatus: String, Decodable, Sendable {
     case loading, ready, plain, instrumental, unavailable, error
-    case chooseRecording = "choose_recording"
 }
 
-struct RecordingCandidate: Decodable, Sendable, Identifiable {
+struct RecordingCandidate: Decodable, Sendable, Identifiable, Equatable {
     let songID: Int
     let title: String
     let artists: [String]
@@ -78,13 +77,11 @@ struct LyricUpdate: Decodable, Sendable {
     let status: LyricStatus
     let message: String
     let lyrics: LiveLyrics?
-    let candidates: [RecordingCandidate]?
-    let savedChoice: Bool?
+    let selectionRevision: Int?
 
     enum CodingKeys: String, CodingKey {
         case requestID = "request_id", selectedLanguage = "selected_language"
-        case savedChoice = "saved_choice"
-        case candidates
+        case selectionRevision = "selection_revision"
         case language, reason, status, message, lyrics
     }
 
@@ -99,18 +96,39 @@ struct LyricUpdate: Decodable, Sendable {
 
     var isValid: Bool {
         guard requestID >= 0,
+              (selectionRevision ?? 0) >= 0,
               selectedLanguage == nil || selectedLanguage == .cantonese || selectedLanguage == .hokkien else { return false }
         if let lyrics {
             guard lyrics.lines.allSatisfy({ $0.time == nil || $0.time!.isFinite }) else { return false }
         }
         switch status {
-        case .chooseRecording:
-            guard lyrics == nil, let candidates, !candidates.isEmpty, candidates.count <= 5 else { return false }
-            return candidates.allSatisfy(\.isValid) && Set(candidates.map(\.id)).count == candidates.count
         case .ready: return lyrics?.synced == true && lyrics?.instrumental == false && lyrics?.lines.isEmpty == false
         case .plain: return lyrics?.synced == false && lyrics?.instrumental == false && lyrics?.lines.isEmpty == false
         case .instrumental: return lyrics?.instrumental == true
         case .loading, .unavailable, .error: return lyrics == nil
         }
     }
+}
+
+struct RecordingUpdate: Decodable, Sendable, Equatable {
+    let requestID: Int
+    let status: String
+    let candidates: [RecordingCandidate]
+    let selectedID: Int?
+    let source: String
+    let manual: Bool
+    let switching: Bool
+    let message: String
+    let selectionRevision: Int
+
+    enum CodingKeys: String, CodingKey {
+        case requestID = "request_id", selectedID = "selected_id", selectionRevision = "selection_revision"
+        case status, candidates, source, manual, switching, message
+    }
+    var isValid: Bool {
+        requestID >= 0 && selectionRevision >= 0 && ["idle", "loading", "ready", "error"].contains(status) &&
+        (selectedID == nil || selectedID! > 0) && candidates.count <= 30 && candidates.allSatisfy(\.isValid) &&
+        Set(candidates.map(\.id)).count == candidates.count
+    }
+    var sourceName: String { String(source.split(separator: " ").first ?? "") }
 }

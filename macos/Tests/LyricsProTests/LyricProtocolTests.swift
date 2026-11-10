@@ -3,23 +3,51 @@ import Testing
 @testable import LyricsPro
 
 struct LyricProtocolTests {
-    @Test func recordingChoicesValidateAndDecodeWithoutLyrics() throws {
+    @Test func recordingAlternativesValidateIndependentlyOfLyrics() throws {
         let candidate: [String: Any] = ["song_id": 5284269, "title": "故乡", "artists": ["罗大佑"],
                                         "album": "新乐园", "duration": 277.676]
-        func decode(_ candidates: [[String: Any]], status: String = "choose_recording") throws -> LyricUpdate {
-            let payload: [String: Any] = ["request_id": 4, "language": "original", "selected_language": NSNull(),
-                "reason": "original lyrics only", "status": status, "message": "Choose a recording",
-                "lyrics": NSNull(), "candidates": candidates, "saved_choice": false]
-            return try JSONDecoder().decode(LyricUpdate.self, from: JSONSerialization.data(withJSONObject: payload))
+        func decode(_ candidates: [[String: Any]], status: String = "ready") throws -> RecordingUpdate {
+            let payload: [String: Any] = ["request_id": 4, "status": status, "message": "",
+                "candidates": candidates, "manual": false, "switching": false, "selection_revision": 0,
+                "source": "NetEase https://music.163.com/song?id=5284269", "selected_id": 5284269]
+            return try JSONDecoder().decode(RecordingUpdate.self, from: JSONSerialization.data(withJSONObject: payload))
         }
         let valid = try decode([candidate])
-        #expect(valid.isValid && valid.candidates?.first?.id == 5284269)
-        #expect(valid.savedChoice == false)
-        #expect(try !decode([]).isValid)
+        #expect(valid.isValid && valid.candidates.first?.id == 5284269)
+        #expect(valid.manual == false)
+        #expect(try decode([]).isValid)
+        #expect(try !decode([], status: "unknown").isValid)
         #expect(try !decode([candidate, candidate]).isValid)
+        let many = (1...30).map { id in candidate.merging(["song_id": id]) { _, new in new } }
+        #expect(try decode(many).isValid)
+        #expect(try !decode(many + [candidate]).isValid)
         for patch in [["song_id": -1], ["duration": 0], ["artists": []], ["title": " "]] as [[String: Any]] {
             #expect(try !decode([candidate.merging(patch) { _, new in new }]).isValid)
         }
+    }
+
+    @Test func recordingUpdatesPreserveLyricsAndRejectStaleResponses() throws {
+        func recordingEvent(generation: Int = 1, request: Int = 1) throws -> BridgeEvent {
+            let payload: [String: Any] = ["version": 1, "type": "recordings", "generation": generation,
+                "track": ["A", "Artist", "Album", 200],
+                "recordings": ["request_id": request, "status": "loading", "message": "",
+                    "candidates": [], "manual": false, "switching": true, "selection_revision": 0,
+                    "source": "NetEase https://music.163.com/song?id=1", "selected_id": 1]]
+            return try BridgeEvent.decode(JSONSerialization.data(withJSONObject: payload))
+        }
+        var state = LiveMusicState()
+        state.apply(try event("playback"))
+        state.apply(try event("lyrics"))
+        state.prepareLyrics(requestID: 1, preserve: true)
+        #expect(state.lyric?.lyrics != nil)
+        state.apply(try recordingEvent(request: 0))
+        #expect(state.recordings == nil)
+        state.apply(try recordingEvent())
+        #expect(state.recordings?.switching == true && state.lyric?.lyrics != nil)
+        state.apply(try event("playback", generation: 2, title: "B"))
+        #expect(state.recordings == nil)
+        state.apply(try recordingEvent())
+        #expect(state.recordings == nil)
     }
 
     private func event(_ type: String, generation: Int = 1, title: String = "A", request: Int = 0,
