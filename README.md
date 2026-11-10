@@ -1,10 +1,39 @@
 # Lyrics Pro
 
-A personal macOS terminal companion for Music: print the active lyric line with
-Cantonese Jyutping or Taiwanese Hokkien Tâi-lô. Pronunciation runs locally using
-ToJyutping and Taibun. NetEase Cloud Music is the primary lyrics service, with
-LrcAPI and LRCLIB as fallbacks. No AI service, login, or API key is used. The NetEase
-integration uses unofficial website endpoints, which can change.
+A native macOS companion for Apple Music, with synchronized lyrics and local
+Cantonese Jyutping or Taiwanese Hokkien Tâi-lô pronunciation.
+
+- Follow the current song, artwork, playback position, and highlighted lyrics.
+- Sing along with pronunciation generated locally by ToJyutping and Taibun.
+- Play, pause, skip, or click a timed lyric to seek in Apple Music.
+- Choose alternative recordings when a lyric match needs correcting.
+- Reuse cached lyrics and pronunciation offline, with an artwork-colored background.
+- Use the included terminal client if you prefer a command-line interface.
+
+Lyrics come from NetEase Cloud Music, then LrcAPI and LRCLIB. No AI service, login,
+or API key is required. Automatic dialect selection is an artist-based guess;
+you can override it. Provider availability and recording/timing matches can vary.
+The NetEase integration uses unofficial website endpoints, which can change.
+
+## Download and install
+
+**Requires an Apple Silicon Mac (M1 or newer) running macOS 15 or newer.**
+
+1. Download [Lyrics Pro v0.5.0](https://github.com/inhzus/lyrics-pro/releases/download/v0.5.0/Lyrics-Pro-0.5.0-macOS-arm64.zip)
+   from [GitHub Releases](https://github.com/inhzus/lyrics-pro/releases).
+2. Unzip it and drag **Lyrics Pro.app** into **Applications**.
+3. Open the app, open Apple Music, and play a song. Allow Music Automation access
+   when macOS prompts.
+
+Python, `uv`, Homebrew, and developer tools are **not needed to run the download**.
+This personal build is ad-hoc signed and **not notarized**. If macOS blocks a trusted
+copy, attempt to open it, then use **System Settings → Privacy & Security → Open Anyway**
+if offered. Do not disable Gatekeeper. If Music access was denied, enable it for
+Lyrics Pro in **Privacy & Security → Automation**, then reconnect in the app.
+
+See [installation details](packaging/Install.txt). A checksum is included with the
+release. First-launch behavior on a separate Mac, including macOS 15, remains
+unverified; Intel builds and older macOS versions are not currently supported.
 
 ## macOS app — portable personal build
 
@@ -264,3 +293,9 @@ Sources: [NetEase community API reference](https://github.com/NeteaseCloudMusicA
 [LRCLIB API](https://lrclib.net/docs),
 [ToJyutping](https://github.com/CanCLID/ToJyutping),
 [Taibun](https://github.com/andreihar/taibun).
+
+## License
+
+Project code is available under the [MIT License](LICENSE), copyright 2026 inhzus.
+Third-party components retain their own licenses. The packaged app includes
+project and dependency notices under `Contents/Resources/Licenses`.

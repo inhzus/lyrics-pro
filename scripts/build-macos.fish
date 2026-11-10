@@ -38,6 +38,7 @@ iconutil -c icns "$iconset" -o "$staged_app/Contents/Resources/AppIcon.icns"; or
 env -i PATH=/usr/bin:/bin HOME="$HOME" "$staged_app/Contents/Helpers/LyricsBackend.app/Contents/MacOS/lyrics-pro-worker" --self-check
 or exit $status
 cp "$root/packaging/Install.txt" "$release/Install.txt"; or exit $status
+cp "$root/LICENSE" "$release/LICENSE.txt"; or exit $status
 ditto -c -k --keepParent --norsrc "$release" "$stage/$name.zip"; or exit $status
 
 # Keep the last successful app until the new bundle has passed its build checks.

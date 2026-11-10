@@ -39,6 +39,7 @@ def prepare(app):
             run("/usr/bin/install_name_tool", "-delete_rpath", rpath, str(executable))
     licenses = app / "Contents/Resources/Licenses"
     licenses.mkdir(parents=True, exist_ok=True)
+    shutil.copyfile(Path(__file__).resolve().parent.parent / "LICENSE", licenses / "Lyrics-Pro.txt")
     shutil.copyfile(Path(sysconfig.get_path("stdlib")) / "LICENSE.txt", licenses / "Python.txt")
     packages = ("ToJyutping", "taibun", "msgpack", "pyinstaller")
     for name in packages:
