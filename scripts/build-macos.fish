@@ -14,7 +14,11 @@ or exit $status
 mkdir -p "$app/Contents/MacOS" "$app/Contents/Resources"; or exit $status
 cp "$bin/LyricsPro" "$app/Contents/MacOS/LyricsPro"; or exit $status
 cp "$package/Support/Info.plist" "$app/Contents/Info.plist"; or exit $status
+set -l iconset "$package/.build/AppIcon.iconset"
+swift "$root/scripts/render-icon.swift" "$iconset"; or exit $status
+iconutil -c icns "$iconset" -o "$app/Contents/Resources/AppIcon.icns"; or exit $status
 "$root/.venv/bin/python" -c 'import json, pathlib, sys; root = pathlib.Path(sys.argv[1]); pathlib.Path(sys.argv[2]).write_text(json.dumps({"projectRoot": str(root), "python": str(root / ".venv/bin/python")}))' "$root" "$app/Contents/Resources/Backend.json"
 or exit $status
+touch "$app"; or exit $status
 codesign --force --sign - --entitlements "$package/Support/LyricsPro.entitlements" "$app"; or exit $status
 printf '\nBuilt: %s\nOpen with: open "%s"\n' "$app" "$app"

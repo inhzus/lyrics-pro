@@ -1,9 +1,16 @@
 from concurrent.futures import Future
 from unittest.mock import Mock, patch
+import pytest
+from lyrics_pro.lyrics_cache import LyricsCache
 
 from lyrics_pro.cli import run
 from lyrics_pro.lyrics import LyricsProvider
 from lyrics_pro.models import LookupFailure, LyricLine, Lyrics, Playback
+
+
+@pytest.fixture(autouse=True)
+def isolated_disk_cache(monkeypatch, tmp_path):
+    monkeypatch.setattr("lyrics_pro.cli.LyricsCache", lambda: LyricsCache(tmp_path / "cache.sqlite3"))
 
 
 class Executor:
@@ -88,7 +95,9 @@ def test_transient_failure_is_retried_then_fallback_source_is_cached(capsys):
     primary.lookup.return_value = None
     fallback.lookup.side_effect = [LookupFailure("LRCLIB timeout", retryable=True),
                                   Lyrics((LyricLine("CACHED", 10),), "LRCLIB cached-source", True)]
-    provider = LyricsProvider(primary, fallback)
+    lrcapi = Mock()
+    lrcapi.lookup.return_value = None
+    provider = LyricsProvider(primary, fallback, lrcapi=lrcapi)
     track = Playback("playing", "A", "Unknown", "Album", 100, 15)
     snapshots = iter([track, track, track, track, Playback("stopped"), track, track])
     ticks = 0

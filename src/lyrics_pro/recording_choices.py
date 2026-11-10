@@ -4,18 +4,20 @@ import json
 import os
 from pathlib import Path
 import tempfile
+from .recording_ref import recording_ref
+from .diagnostics import SUPPORT
 
 
 class RecordingChoices:
     def __init__(self, path=None):
-        self.path = Path(path) if path else Path.home() / "Library/Application Support/Lyrics Pro/recording-choices.json"
+        self.path = Path(path) if path else SUPPORT / "recording-choices.json"
         self.values = {}
         try:
             if self.path.stat().st_size <= 1_000_000:
                 data = json.loads(self.path.read_text())
                 if isinstance(data, dict):
-                    self.values = {k: v for k, v in list(data.items())[-256:]
-                                   if isinstance(k, str) and type(v) is int and v > 0}
+                    self.values = {k: recording_ref(v) for k, v in list(data.items())[-256:]
+                                   if isinstance(k, str) and recording_ref(v)}
         except (OSError, ValueError):
             pass
 
@@ -31,9 +33,10 @@ class RecordingChoices:
         key = self.key(track)
         values.pop(key, None)
         if song_id is not None:
-            if type(song_id) is not int or song_id <= 0:
+            reference = recording_ref(song_id)
+            if reference is None:
                 raise ValueError("Invalid recording ID")
-            values[key] = song_id
+            values[key] = reference
         values = dict(list(values.items())[-256:])
         self.path.parent.mkdir(parents=True, exist_ok=True)
         temporary = None

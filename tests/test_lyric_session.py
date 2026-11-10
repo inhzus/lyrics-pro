@@ -128,7 +128,8 @@ def test_a_b_a_discards_old_fetch_even_if_it_returns(session):
     assert not worker.raw_cache
     assert worker.pending[2] == (A.key, 3)
     settle(worker, updates)
-    assert len(calls) == 2
+    # Cancellation is now checked before the queued provider work starts.
+    assert len(calls) == 1
 
 
 @pytest.mark.parametrize("raw,status", [

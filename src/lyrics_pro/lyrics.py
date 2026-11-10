@@ -11,6 +11,8 @@ from taibun import to_simplified, to_traditional
 
 from .models import LookupCancelled, LookupFailure, LyricLine, Lyrics, Playback
 from .pronunciation import artist_key, normalize
+from .diagnostics import event
+from .recording_ref import recording_ref
 
 
 STAMP = re.compile(r"\[(\d+):([0-5]\d)(?:[.:](\d{1,3}))?\]")
@@ -117,11 +119,16 @@ def request_json(endpoint: str, params: dict, cancelled: Event | None = None) ->
 
 @dataclass(frozen=True)
 class Candidate:
-    song_id: int
+    song_id: int | str
     title: str
     artists: tuple[str, ...]
     album: str
     duration: float
+    provider: str = "netease"
+
+    @property
+    def reference(self):
+        return f"{self.provider}:{self.song_id}"
 
 
 class RecordingChoiceRequired(LookupFailure):
@@ -465,15 +472,106 @@ class LRCLIBProvider:
         return plain
 
 
-class LyricsProvider:
-    """Try NetEase first, consulting LRCLIB only when it can improve a result."""
+class LrcAPIProvider:
+    """Public LrcAPI search; recording metadata is validated locally."""
 
-    def __init__(self, primary=None, fallback=None, *, cancelled: Event | None = None):
+    def __init__(self, request=None, *, cancelled=None):
+        self.cancelled = cancelled
+        self.request = request or (lambda params: http_json(
+            "https://api.lrc.cx/jsonapi?" + urlencode(params), "LrcAPI", cancelled))
+
+    @staticmethod
+    def params(track):
+        return {"title": track.title, "artist": track.artist, "album": track.album}
+
+    def records(self, track):
+        seen = set()
+        for title in dict.fromkeys((track.title, to_simplified(track.title))):
+            if self.cancelled and self.cancelled.is_set():
+                raise LookupCancelled("Lyrics request cancelled.")
+            records = self.request(self.params(track) | {"title": title})
+            if records is None:
+                continue
+            if not isinstance(records, list):
+                raise LookupFailure("LrcAPI returned invalid search results.", retryable=True)
+            for record in records[:30]:
+                candidate = self.candidate(record)
+                if (candidate and candidate.reference not in seen
+                        and normalize(candidate.title) == normalize(track.title)
+                        and abs(candidate.duration - track.duration) <= 2):
+                    seen.add(candidate.reference)
+                    yield candidate, record
+
+    @staticmethod
+    def candidate(record):
+        if not isinstance(record, dict):
+            return None
+        identifier = record.get("id")
+        if type(identifier) is int:
+            identifier = str(identifier)
+        title, artist, album, duration = (record.get(k) for k in ("title", "artist", "album", "duration"))
+        if (not isinstance(identifier, str) or not recording_ref("lrcapi:" + identifier)
+                or not all(isinstance(s, str) for s in (title, artist, album))
+                or not title.strip() or not artist.strip() or type(duration) not in (int, float)
+                or not math.isfinite(duration) or duration <= 0):
+            return None
+        return Candidate(identifier, title, (artist,), album, duration, "lrcapi")
+
+    @staticmethod
+    def decode(candidate, record, track):
+        text = record.get("lrc", record.get("lyrics"))
+        if text is None or text == "":
+            return None
+        if not isinstance(text, str) or len(text) > 500000:
+            raise LookupFailure("LrcAPI returned invalid lyrics data.", retryable=True)
+        source = "LrcAPI https://api.lrc.cx/jsonapi?" + urlencode(LrcAPIProvider.params(track)) + "#" + candidate.song_id
+        lines = parse_lrc(text)
+        if lines and any(line.text for line in lines):
+            if any(line.time > track.duration + 2 for line in lines):
+                return None
+            return Lyrics(lines, source, True)
+        if "<tt" in text or "<html" in text:
+            return None
+        text = text.removeprefix("[!text]")
+        plain = tuple(LyricLine(line.strip()) for line in text.splitlines()
+                      if line.strip() and not re.fullmatch(r"(?:\[[^\]]*\]\s*)+", line.strip()))
+        return Lyrics(plain, source, False) if plain else None
+
+    def alternatives(self, track):
+        return tuple(c for c, _ in self.records(track))[:30]
+
+    def lyrics_for(self, identifier, track):
+        for candidate, record in self.records(track):
+            if candidate.song_id == identifier:
+                return self.decode(candidate, record, track)
+        return None
+
+    def lookup(self, track):
+        plain = None
+        records = sorted(self.records(track), key=lambda item: (
+            not credits_match(item[0].artists, track.artist),
+            normalize(item[0].album) != normalize(track.album), abs(item[0].duration - track.duration)))
+        for candidate, record in records:
+            if not (credits_match(candidate.artists, track.artist)
+                    or (normalize(track.album) and normalize(candidate.album) == normalize(track.album))):
+                continue
+            result = self.decode(candidate, record, track)
+            if result and result.synced:
+                return result
+            plain = plain or result
+        return plain
+
+
+class LyricsProvider:
+    """NetEase first, then LrcAPI and LRCLIB when they can improve the result."""
+
+    def __init__(self, primary=None, fallback=None, *, lrcapi=None, cancelled: Event | None = None):
         self.cancelled = cancelled
         self.primary = primary if primary is not None else NetEaseProvider(
             lambda endpoint, params: request_json(endpoint, params, cancelled))
         self.fallback = fallback if fallback is not None else LRCLIBProvider(
             lambda endpoint, params: lrclib_request_json(endpoint, params, cancelled))
+        self.lrcapi = lrcapi if lrcapi is not None else LrcAPIProvider(cancelled=cancelled)
 
     def check_cancelled(self):
         if self.cancelled is not None and self.cancelled.is_set():
@@ -484,27 +582,43 @@ class LyricsProvider:
         errors = []
         choices = None
         self.check_cancelled()
+        started = time.monotonic()
+        event("provider_start", provider="NetEase", title=track.title, artist=track.artist)
         try:
             primary = self.primary.lookup(track)
         except LookupCancelled:
             raise
         except RecordingChoiceRequired as exc:
             choices = exc
+            event("unverified_candidates", provider="NetEase", count=len(exc.candidates))
         except LookupFailure as exc:
             errors.append(exc)
+            event("provider_error", provider="NetEase", error=str(exc))
+        event("provider_end", provider="NetEase", seconds=round(time.monotonic() - started, 3),
+              result="timed" if primary and primary.synced else "plain" if primary else "missing",
+              errors=len(errors))
         self.check_cancelled()
         if primary and (primary.synced or primary.instrumental):
             return primary
-        try:
-            fallback = self.fallback.lookup(track)
-        except LookupCancelled:
-            raise
-        except LookupFailure as exc:
-            errors.append(exc)
-            fallback = None
-        self.check_cancelled()
-        if fallback and fallback.synced:
-            return fallback
+        fallback = None
+        for name, provider in (("LrcAPI", self.lrcapi), ("LRCLIB", self.fallback)):
+            self.check_cancelled()
+            started = time.monotonic()
+            event("provider_start", provider=name, title=track.title, artist=track.artist)
+            try:
+                result = provider.lookup(track)
+            except LookupCancelled:
+                raise
+            except LookupFailure as exc:
+                errors.append(exc)
+                event("provider_error", provider=name, error=str(exc))
+                result = None
+            self.check_cancelled()
+            event("provider_end", provider=name, seconds=round(time.monotonic() - started, 3),
+                  result="timed" if result and result.synced else "plain" if result else "missing")
+            if result and (result.synced or (result.instrumental and not (primary or fallback))):
+                return result
+            fallback = fallback or result
         if primary:
             return primary
         if fallback:

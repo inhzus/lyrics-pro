@@ -33,6 +33,7 @@ final class MusicConnection: ObservableObject {
 
     func start() {
         guard process == nil else { return }
+        AppLog.shared.write("worker_start_requested")
         // A worker can exit between isRunning and a pipe write. Report EPIPE
         // through the connection state instead of terminating the native app.
         signal(SIGPIPE, SIG_IGN)
@@ -67,6 +68,7 @@ final class MusicConnection: ObservableObject {
             worker.standardOutput = stdout
             worker.standardError = stderr
             worker.terminationHandler = { [weak self] finished in
+                AppLog.shared.write("worker_exit", "status=\(finished.terminationStatus)")
                 // Reap orphaned scripts even after an unexpected worker crash.
                 kill(-finished.processIdentifier, SIGTERM)
                 Task { @MainActor [weak self] in
@@ -108,6 +110,7 @@ final class MusicConnection: ObservableObject {
                         DispatchQueue.main.async { [weak self] in self?.receive(event, session: run) }
                     }
                 } catch {
+                    AppLog.shared.write("bridge_read_error", String(describing: error))
                     Task { @MainActor [weak self] in
                         guard let self, self.session == run else { return }
                         await self.shutdown()
@@ -122,7 +125,7 @@ final class MusicConnection: ObservableObject {
                 while true {
                     let data = handle.availableData
                     if data.isEmpty { break }
-                    NSLog("Lyrics Pro worker: %@", String(decoding: data, as: UTF8.self))
+                    AppLog.shared.write("worker", String(decoding: data.prefix(4096), as: UTF8.self))
                 }
             }
             Task { [weak self] in
@@ -132,6 +135,7 @@ final class MusicConnection: ObservableObject {
                 self.state.fail("The Music worker did not start. Check the Python environment and choose Reconnect.")
             }
         } catch {
+            AppLog.shared.write("worker_start_failed", String(describing: error))
             process = nil
             session = nil
             state.fail("Could not start the Music connection: \(error.localizedDescription)")
@@ -169,13 +173,13 @@ final class MusicConnection: ObservableObject {
         sendLyricCommand("language")
     }
 
-    func retryLyrics() { sendLyricCommand("retry_lyrics") }
+    func retryLyrics() { sendLyricCommand("retry_lyrics", preserve: true) }
 
     func chooseRecording(_ candidate: RecordingCandidate, generation: Int, requestID: Int) {
         guard demo == nil, state.phase == .live, state.generation == generation,
               state.lyricRequestID == requestID,
               state.recordings?.candidates.contains(where: { $0.id == candidate.id }) == true else { return }
-        sendLyricCommand("choose_recording", extra: ["song_id": candidate.id, "choice_request_id": requestID], preserve: true)
+        sendLyricCommand("choose_recording", extra: ["recording_id": candidate.id, "choice_request_id": requestID], preserve: true)
     }
 
     func forgetRecording() { sendLyricCommand("forget_recording", preserve: true) }
@@ -265,6 +269,7 @@ final class MusicConnection: ObservableObject {
     }
 
     func shutdown() async {
+        AppLog.shared.write("worker_shutdown_requested")
         session = nil // Ignore all output queued by the previous worker.
         clockTask?.cancel()
         clockTask = nil
@@ -296,9 +301,14 @@ final class MusicConnection: ObservableObject {
 final class AppDelegate: NSObject, NSApplicationDelegate {
     let connection = MusicConnection()
 
+    func applicationDidFinishLaunching(_ notification: Notification) {
+        AppLog.shared.write("app_start", "version=\(Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") ?? "unknown")")
+    }
+
     func applicationShouldTerminate(_ sender: NSApplication) -> NSApplication.TerminateReply {
         Task {
             await connection.shutdown()
+            AppLog.shared.write("app_stop")
             sender.reply(toApplicationShouldTerminate: true)
         }
         return .terminateLater

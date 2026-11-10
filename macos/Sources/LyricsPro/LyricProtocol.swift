@@ -41,7 +41,7 @@ struct LiveLyrics: Decodable, Sendable {
     var sourceURL: URL? {
         let parts = source.split(separator: " ", maxSplits: 1)
         guard parts.count == 2, let url = URL(string: String(parts[1])),
-              url.scheme == "https", ["music.163.com", "lrclib.net"].contains(url.host),
+              url.scheme == "https", ["music.163.com", "lrclib.net", "api.lrc.cx"].contains(url.host),
               url.user == nil, url.password == nil else { return nil }
         return url
     }
@@ -52,20 +52,32 @@ enum LyricStatus: String, Decodable, Sendable {
 }
 
 struct RecordingCandidate: Decodable, Sendable, Identifiable, Equatable {
-    let songID: Int
+    let id: String
     let title: String
     let artists: [String]
     let album: String
     let duration: Double
-    var id: Int { songID }
+    var sourceName: String { id.hasPrefix("lrcapi:") ? "LrcAPI" : "NetEase" }
     enum CodingKeys: String, CodingKey {
-        case songID = "song_id"
+        case songID = "song_id", recordingID = "recording_id"
         case title, artists, album, duration
     }
+    init(from decoder: Decoder) throws {
+        let values = try decoder.container(keyedBy: CodingKeys.self)
+        if let reference = try values.decodeIfPresent(String.self, forKey: .recordingID) { id = reference }
+        else { id = "netease:\(try values.decode(Int.self, forKey: .songID))" }
+        title = try values.decode(String.self, forKey: .title)
+        artists = try values.decode([String].self, forKey: .artists)
+        album = try values.decode(String.self, forKey: .album)
+        duration = try values.decode(Double.self, forKey: .duration)
+    }
     var isValid: Bool {
-        songID > 0 && !title.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty &&
+        Self.validReference(id) && !title.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty &&
         !artists.isEmpty && artists.allSatisfy { !$0.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty } &&
         duration.isFinite && duration > 0
+    }
+    static func validReference(_ id: String) -> Bool {
+        id.count <= 220 && id.range(of: "^(netease:[1-9][0-9]*|lrcapi:[A-Za-z0-9_-]{1,180})$", options: .regularExpression) != nil
     }
 }
 
@@ -114,7 +126,7 @@ struct RecordingUpdate: Decodable, Sendable, Equatable {
     let requestID: Int
     let status: String
     let candidates: [RecordingCandidate]
-    let selectedID: Int?
+    let selectedID: String?
     let source: String
     let manual: Bool
     let switching: Bool
@@ -125,9 +137,22 @@ struct RecordingUpdate: Decodable, Sendable, Equatable {
         case requestID = "request_id", selectedID = "selected_id", selectionRevision = "selection_revision"
         case status, candidates, source, manual, switching, message
     }
+    init(from decoder: Decoder) throws {
+        let values = try decoder.container(keyedBy: CodingKeys.self)
+        requestID = try values.decode(Int.self, forKey: .requestID)
+        selectionRevision = try values.decode(Int.self, forKey: .selectionRevision)
+        status = try values.decode(String.self, forKey: .status)
+        candidates = try values.decode([RecordingCandidate].self, forKey: .candidates)
+        if let number = try? values.decode(Int.self, forKey: .selectedID) { selectedID = "netease:\(number)" }
+        else { selectedID = try values.decodeIfPresent(String.self, forKey: .selectedID) }
+        source = try values.decode(String.self, forKey: .source)
+        manual = try values.decode(Bool.self, forKey: .manual)
+        switching = try values.decode(Bool.self, forKey: .switching)
+        message = try values.decode(String.self, forKey: .message)
+    }
     var isValid: Bool {
         requestID >= 0 && selectionRevision >= 0 && ["idle", "loading", "ready", "error"].contains(status) &&
-        (selectedID == nil || selectedID! > 0) && candidates.count <= 30 && candidates.allSatisfy(\.isValid) &&
+        (selectedID == nil || RecordingCandidate.validReference(selectedID!)) && candidates.count <= 30 && candidates.allSatisfy(\.isValid) &&
         Set(candidates.map(\.id)).count == candidates.count
     }
     var sourceName: String { String(source.split(separator: " ").first ?? "") }

@@ -18,6 +18,12 @@ from lyrics_pro.lyrics import http_json
 
 
 TRACK = Playback("playing", "故鄉", "Lo Ta-You", "故鄉 - Single", 275.693)
+
+
+@pytest.fixture(autouse=True)
+def isolate_new_provider(monkeypatch):
+    monkeypatch.setattr("lyrics_pro.lyrics.LrcAPIProvider.lookup", lambda *_: None)
+
 RECORD = {"id": 5284269, "name": "故乡", "artists": [{"name": "罗大佑"}],
           "album": {"name": "新乐园"}, "duration": 277676}
 
@@ -75,7 +81,7 @@ def test_saved_choice_is_exact_track_scoped_persistent_and_forgettable(tmp_path)
     choices = RecordingChoices(path)
     choices.set(TRACK, 5284269)
     restored = RecordingChoices(path)
-    assert restored.get(replace(TRACK, position=100, state="paused")) == 5284269
+    assert restored.get(replace(TRACK, position=100, state="paused")) == "netease:5284269"
     for track in [replace(TRACK, artist="Someone else"), replace(TRACK, duration=250), replace(TRACK, album="Live")]:
         assert restored.get(track) is None
     restored.set(TRACK, None)
@@ -89,9 +95,9 @@ def test_picker_keeps_lyrics_and_commits_only_successful_current_selection(tmp_p
     def fetch(*_):
         calls.append("search")
         return RAW
-    def selected(song_id, token):
+    def selected(song_id, track, token):
         calls.append(song_id)
-        return replace(RAW, source=f"NetEase https://music.163.com/song?id={song_id}")
+        return replace(RAW, source=f"NetEase https://music.163.com/song?id={song_id.split(':')[1]}")
     path = tmp_path / "choices.json"
     worker = LyricSession(Event(), language="original", fetch=fetch,
                           choices=RecordingChoices(path), selected_fetch=selected,
@@ -121,15 +127,15 @@ def test_picker_keeps_lyrics_and_commits_only_successful_current_selection(tmp_p
         assert worker.raw_cache[TRACK.key] is RAW
         assert settle(worker, updates)["status"] == "ready"
         assert updates[-1]["selection_revision"] == 1
-        assert calls == ["search", 5284269]
+        assert calls == ["search", "netease:5284269"]
         # A fresh session reads the saved choice and bypasses candidate search.
         restored = RecordingChoices(path)
-        assert restored.get(TRACK) == 5284269
+        assert restored.get(TRACK) == "netease:5284269"
         worker.raw_cache.clear()
         worker.update_track(None, 2)
         worker.update_track(TRACK, 3)
         assert settle(worker, updates)["status"] == "ready"
-        assert calls == ["search", 5284269, 5284269]
+        assert calls == ["search", "netease:5284269", "netease:5284269"]
         worker.configure("original", 3, generation=3, forget=True)
         assert settle(worker, updates)["status"] == "ready"
         assert RecordingChoices(path).get(TRACK) is None
@@ -141,7 +147,7 @@ def test_picker_keeps_lyrics_and_commits_only_successful_current_selection(tmp_p
 def picker_session(tmp_path):
     worker = LyricSession(Event(), language="original", fetch=lambda *_: RAW,
                           choices=RecordingChoices(tmp_path / "choices.json"),
-                          selected_fetch=lambda song_id, _: replace(RAW, source=f"NetEase https://music.163.com/song?id={song_id}"))
+                          selected_fetch=lambda song_id, track, _: replace(RAW, source=f"NetEase https://music.163.com/song?id={song_id.split(':')[1]}"))
     worker.pool.shutdown()
     worker.pool = ControlledPool()
     worker.discovery_pool.shutdown()
@@ -172,12 +178,12 @@ def test_latest_switch_wins_and_track_change_cannot_save_old_choice(picker_sessi
     worker.configure("original", 2, generation=1, choice_request_id=1, choice_id=2)
     assert token.is_set()
     assert settle(worker, updates)["lyrics"]["source"].endswith("id=2")
-    assert worker.choices.get(TRACK) == 2 and worker.selection_revision == 1
+    assert worker.choices.get(TRACK) == "netease:2" and worker.selection_revision == 1
     worker.configure("original", 3, generation=1, choice_request_id=2, choice_id=1)
     worker.tick(updates.append)
     worker.update_track(replace(TRACK, title="Another song"), 2)
     settle(worker, updates)
-    assert worker.choices.get(TRACK) == 2
+    assert worker.choices.get(TRACK) == "netease:2"
 
 
 def test_opening_picker_does_not_cancel_an_inflight_switch(picker_session):
@@ -189,7 +195,7 @@ def test_opening_picker_does_not_cancel_an_inflight_switch(picker_session):
     worker.configure("original", 2, generation=1, discover=True)
     assert not token.is_set()
     assert settle(worker, updates)["lyrics"]["source"].endswith("id=2")
-    assert worker.choices.get(TRACK) == 2
+    assert worker.choices.get(TRACK) == "netease:2"
 
 
 def test_discovery_is_cached_and_does_not_hide_lyrics_on_failure(picker_session):

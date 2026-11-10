@@ -160,7 +160,8 @@ struct LiveMusicState: Sendable {
         case "lyrics":
             guard event.generation == generation, let identity, identity == event.track,
                   phase == .live, let update = event.lyric, update.requestID == lyricRequestID else { return }
-            lyric = update
+            // Keep successful lyrics readable while an explicit refresh is pending.
+            if update.status != .loading || lyric?.lyrics == nil { lyric = update }
         case "recordings":
             guard event.generation == generation, let identity, identity == event.track,
                   phase == .live, let update = event.recordings, update.requestID == lyricRequestID else { return }

@@ -342,6 +342,60 @@ The user expanded the scope after Stage 4 to control Apple Music from this app.
   Keyboard focus initially reaches Automatic; arrow navigation could not be
   verified because automated key input dismissed the transient popover.
 
+## Artwork-colored motion — 0.4.5
+
+- Replaced the enlarged blurred cover with a dedicated full-window background.
+  ImageIO downsamples artwork to 32 pixels before four alpha-weighted regional
+  averages are calculated off the main thread. Saturation and brightness are
+  bounded, including very dark saturated artwork and transparent images.
+- Four overlapping radial gradients drift on 30–51-second cycles beneath a dark
+  overlay, stronger toward the lyrics. Colors crossfade over 1.2 seconds. Teal
+  accents and the album-cover presentation remain unchanged.
+- A separate 30 Hz timeline animates only while playing and the window is visible.
+  Its monotonic clock freezes on pause, minimization, hiding, or full occlusion,
+  then resumes from the same position. Reduce Motion uses a static composition
+  and immediate palette changes. No artwork sampling happens on animation ticks.
+- The previous palette remains while the next artwork loads. Missing/invalid
+  artwork and disconnect use a neutral palette. Track/artwork task identity and
+  cancellation prevent superseded palette requests from updating the view.
+- All 38 Swift tests passed, including image decoding/fallbacks, brightness bounds,
+  regional hue preservation, cancelled requests, and freeze/resume timing. Live
+  review covered the paused 曖昧 cover, compact/default layouts, animated demo
+  colors, and the missing-artwork fallback. Reduce Motion and occlusion are wired
+  to system signals; their full system-level behavior was not manually exercised.
+
+## Sources, persistence, and identity — 0.4.6
+
+- Automatic lookup now uses NetEase, LrcAPI, then LRCLIB. Later timed results may
+  improve earlier plain lyrics. LrcAPI searches its public JSON endpoint and checks
+  normalized title and duration within two seconds; unresolved artist names also
+  require matching album metadata. No artist-wide aliases are learned.
+- The compact upward Recording picker includes NetEase and LrcAPI alternatives,
+  capped at 30 total with five visible rows. Provider-qualified recording IDs avoid
+  collisions. Existing numeric saved choices load as NetEase references and are
+  written in the new format on the next save. Current LRCLIB results remain pinned.
+- Successful raw lyrics and versioned pronunciation persist in Application Support
+  using SQLite. Reads/writes run on workers; the bounded cache holds at most 1,000
+  recording entries and about 100 MiB of payload. Retry bypasses both cache layers;
+  failed refreshes keep a previous successful result. Corrupt or unavailable storage
+  becomes a cache miss rather than a playback failure. The terminal shares the cache.
+- Native diagnostics and worker stderr go to Application Support/Logs/app.log;
+  terminal diagnostics use cli.log. Each rotates at 2 MiB with four backups. Entries
+  are bounded and omit lyrics, artwork, credentials, and playback polling. Help's
+  Open Logs Folder command reveals this directory.
+- An original teal music-note/lyric-lines icon is drawn by scripts/render-icon.swift.
+  The build renders all iconset sizes, packages AppIcon.icns, sets the bundle icon,
+  and signs the resulting app.
+- Live provider-chain lookup for 忽然 / Li Zhi / 你好,鄭州 returned 12 timed LrcAPI
+  lines for the 126.853-second recording in approximately 2.7 seconds. A fresh lyric
+  session then loaded the raw lyrics and pronunciation from disk with network access
+  disabled. All 209 Python and 41 Swift tests passed, covering source precedence, reference migration,
+  cache refresh/eviction/corruption, cancellation, and log rotation.
+- Final on-screen verification was blocked by computer control returning
+  cgWindowNotFound for Lyrics Pro and Finder. The icon image was rendered and
+  inspected directly; live Dock/Finder presentation and the updated picker still
+  need inspection when the desktop is accessible.
+
 ## Stage 5 — Polish and completion
 
 Tune visuals against the reference. Check keyboard use, accessibility, reduced

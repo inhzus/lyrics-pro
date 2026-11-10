@@ -3,6 +3,21 @@ import Testing
 @testable import LyricsPro
 
 struct LyricProtocolTests {
+    @Test func providerQualifiedIDsAvoidCollisionsAndAllowLrcAPISources() throws {
+        let candidates: [[String: Any]] = ["netease:1", "lrcapi:1"].map { reference in
+            ["recording_id": reference, "title": "忽然", "artists": ["李志"], "album": "你好,郑州", "duration": 126.853]
+        }
+        let payload: [String: Any] = ["request_id": 2, "status": "ready", "candidates": candidates,
+            "selected_id": "lrcapi:1", "source": "LrcAPI", "manual": true, "switching": false,
+            "message": "", "selection_revision": 1]
+        let update = try JSONDecoder().decode(RecordingUpdate.self, from: JSONSerialization.data(withJSONObject: payload))
+        #expect(update.isValid && update.selectedID == "lrcapi:1")
+        #expect(update.candidates.map(\.sourceName) == ["NetEase", "LrcAPI"])
+        #expect(!RecordingCandidate.validReference("lrcapi:https://example.com"))
+        let lyrics = LiveLyrics(lines: [], source: "LrcAPI https://api.lrc.cx/jsonapi?title=test#1", synced: false, instrumental: false)
+        #expect(lyrics.sourceURL?.host == "api.lrc.cx")
+    }
+
     @Test func recordingAlternativesValidateIndependentlyOfLyrics() throws {
         let candidate: [String: Any] = ["song_id": 5284269, "title": "故乡", "artists": ["罗大佑"],
                                         "album": "新乐园", "duration": 277.676]
@@ -13,7 +28,7 @@ struct LyricProtocolTests {
             return try JSONDecoder().decode(RecordingUpdate.self, from: JSONSerialization.data(withJSONObject: payload))
         }
         let valid = try decode([candidate])
-        #expect(valid.isValid && valid.candidates.first?.id == 5284269)
+        #expect(valid.isValid && valid.candidates.first?.id == "netease:5284269")
         #expect(valid.manual == false)
         #expect(try decode([]).isValid)
         #expect(try !decode([], status: "unknown").isValid)

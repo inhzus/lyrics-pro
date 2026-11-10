@@ -10,6 +10,8 @@ from .lyrics import LyricsProvider
 from .models import LookupCancelled, LookupFailure
 from .music import MusicError, read_playback
 from .pronunciation import Romanizer, choose_language
+from .lyrics_cache import LyricsCache
+from .diagnostics import setup, event
 
 
 def safe_text(value: str) -> str:
@@ -35,6 +37,7 @@ def run(language: str):
     cancelled = Event()
     provider = LyricsProvider(cancelled=cancelled)
     romanizer = Romanizer()
+    disk_cache = LyricsCache()
     cache = {}
     pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix="lyrics")
     current_key, follower, pending = None, None, None
@@ -43,8 +46,22 @@ def run(language: str):
     attempts, retry_at, finished = 0, 0, False
 
     def load(track, selected):
-        lyrics = provider.lookup(track)
-        return romanizer.annotate(lyrics, selected) if lyrics else None
+        key = disk_cache.key(track)
+        lyrics = disk_cache.get(key)
+        if lyrics is None:
+            lyrics = provider.lookup(track)
+            if lyrics and not cancelled.is_set():
+                disk_cache.put(key, lyrics)
+        if not lyrics:
+            return None
+        if selected is None:
+            return lyrics
+        annotated = disk_cache.annotated(lyrics, selected)
+        if annotated is None:
+            annotated = romanizer.annotate(lyrics, selected)
+            if not cancelled.is_set():
+                disk_cache.put_annotation(lyrics, selected, annotated)
+        return annotated
 
     emit("Lyrics Pro — following Music. Ctrl-C to exit; no AI services are used.")
     try:
@@ -131,6 +148,8 @@ def run(language: str):
 
 
 def main():
+    setup()
+    event("cli_start")
     parser = argparse.ArgumentParser(description="Follow macOS Music with local Jyutping or Taiwanese Hokkien pronunciation.")
     parser.add_argument("--language", choices=("auto", "cantonese", "hokkien"), default="auto")
     args = parser.parse_args()
@@ -140,3 +159,5 @@ def main():
         run(args.language)
     except BrokenPipeError:
         pass
+    finally:
+        event("cli_stop")

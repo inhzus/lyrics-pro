@@ -8,6 +8,12 @@ from lyrics_pro.models import LookupCancelled, LookupFailure, LyricLine, Lyrics,
 
 
 TRACK = Playback("playing", "浮誇", "Eason Chan", "U87", 284)
+
+
+@pytest.fixture(autouse=True)
+def isolate_new_provider(monkeypatch):
+    monkeypatch.setattr("lyrics_pro.lyrics.LrcAPIProvider.lookup", lambda *_: None)
+
 NE_TIMED = Lyrics((LyricLine("primary", 10),), "NetEase", True)
 NE_PLAIN = Lyrics((LyricLine("primary"),), "NetEase", False)
 NE_INSTRUMENTAL = Lyrics((), "NetEase", False, instrumental=True)

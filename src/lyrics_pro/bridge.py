@@ -16,6 +16,8 @@ from .artwork import read_artwork
 from .music import MusicCancelled, MusicError, read_playback
 from .lyric_session import LANGUAGES, LyricSession
 from .playback_control import control_playback, valid_command
+from .recording_ref import recording_ref
+from .diagnostics import event
 
 
 class Bridge:
@@ -37,6 +39,7 @@ class Bridge:
         self.pending = None
         self.artwork_finished = False
         self.denied = False
+        self.last_diagnostic_error = None
         self.pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix="artwork")
         self.lyrics = lyrics if lyrics is not None else LyricSession(cancelled, language=language)
 
@@ -58,6 +61,7 @@ class Bridge:
                 result.update(ok=False, code=error.code, message=str(error))
             except Exception:
                 result.update(ok=False, code="control_failed", message="Music could not complete the control.")
+            event("control_result", command_id=command_id, ok=result["ok"], code=result.get("code", ""))
             control_results.append(result)
             self.completed_control_id = max(self.completed_control_id, command_id)
         try:
@@ -85,7 +89,7 @@ class Bridge:
                     self.lyrics.configure(command["language"], command["request_id"],
                                           retry=command["command"] == "retry_lyrics",
                                           generation=command.get("generation"),
-                                          **({"choice_id": command["song_id"], "choice_request_id": command["choice_request_id"]}
+                                          **({"choice_id": command.get("recording_id", command.get("song_id")), "choice_request_id": command["choice_request_id"]}
                                              if command["command"] == "choose_recording" else
                                              {"discover": True} if command["command"] == "list_recordings" else
                                              {"forget": True} if command["command"] == "forget_recording" else {}))
@@ -109,6 +113,10 @@ class Bridge:
         try:
             track = self.reader(cancelled=self.cancelled, permission_owner="Lyrics Pro")
         except MusicError as error:
+            diagnostic = (error.code, str(error))
+            if diagnostic != self.last_diagnostic_error:
+                event("music_error", code=error.code, error=str(error))
+                self.last_diagnostic_error = diagnostic
             # Invalidate all in-flight work and remove stale metadata on disconnect.
             if self.key is not None:
                 self.generation += 1
@@ -120,10 +128,13 @@ class Bridge:
             for result in control_results:
                 self.send("control_result", **result)
             return
+        self.last_diagnostic_error = None
         if track.key != self.key:
             self.key = track.key
             self.generation += 1
             self.artwork_finished = False
+            event("track_changed", title=track.title, artist=track.artist, album=track.album,
+                  duration=track.duration)
         self.send("playback", playback=asdict(track), completed_control_id=sampled_control_id)
         for result in control_results:
             self.send("control_result", **result)
@@ -182,7 +193,7 @@ def read_commands(stream, commands, cancelled):
                             and type(message.get("request_id")) is int and message["request_id"] >= 0
                             and (message["command"] == "language" or type(message.get("generation")) is int)
                             and (message["command"] != "choose_recording" or
-                                 (type(message.get("song_id")) is int and message["song_id"] > 0
+                                 (recording_ref(message.get("recording_id", message.get("song_id"))) is not None
                                   and type(message.get("choice_request_id")) is int and message["choice_request_id"] >= 0))):
                         commands.put(message)
                 elif message.get("command") in {"retry", "shutdown"}:
@@ -197,6 +208,9 @@ def read_commands(stream, commands, cancelled):
 
 
 def main():
+    from .diagnostics import setup
+    setup(bridge=True)
+    event("worker_start")
     parser = argparse.ArgumentParser()
     parser.add_argument("--language", choices=sorted(LANGUAGES), default="auto")
     args = parser.parse_args()
@@ -220,6 +234,7 @@ def main():
         pass
     finally:
         worker.close()
+        event("worker_stop")
 
 
 if __name__ == "__main__":

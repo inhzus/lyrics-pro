@@ -40,7 +40,7 @@ private struct RecordingOptionsView: View {
     let accent: Color
     let availableHeight: CGFloat
     let dismiss: () -> Void
-    @FocusState private var focusedRow: Int?
+    @FocusState private var focusedRow: String?
     private var update: RecordingUpdate? { connection.state.recordings }
     private var candidates: [RecordingCandidate] { update?.candidates ?? [] }
     private var hasUnlistedCurrent: Bool {
@@ -70,7 +70,7 @@ private struct RecordingOptionsView: View {
             .buttonStyle(RecordingRowStyle())
             .focusable()
             .focusEffectDisabled()
-            .focused($focusedRow, equals: 0)
+            .focused($focusedRow, equals: "automatic")
             Divider()
             if update?.switching == true {
                 HStack(spacing: 7) {
@@ -114,7 +114,7 @@ private struct RecordingOptionsView: View {
                                     .focusEffectDisabled()
                                     .focused($focusedRow, equals: candidate.id)
                                     .id(candidate.id)
-                                    .help("\(candidate.title) — \(candidate.artists.joined(separator: " & "))\n\(candidate.album) · \(MusicSnapshot.timeLabel(candidate.duration)) · NetEase")
+                                    .help("\(candidate.title) — \(candidate.artists.joined(separator: " & "))\n\(candidate.album) · \(MusicSnapshot.timeLabel(candidate.duration)) · \(candidate.sourceName)")
                                     .accessibilityLabel("\(candidate.title), \(candidate.artists.joined(separator: " & ")), \(candidate.album), \(MusicSnapshot.timeLabel(candidate.duration))")
                                     .accessibilityAddTraits(update?.selectedID == candidate.id ? .isSelected : [])
                             }
@@ -122,7 +122,7 @@ private struct RecordingOptionsView: View {
                     }
                     .frame(height: min(CGFloat(min(5, rowCount)) * 64, max(0, availableHeight - headerHeight)))
                     .onChange(of: focusedRow) { _, id in
-                        if let id, id != 0 { proxy.scrollTo(id) }
+                        if let id, id != "automatic" { proxy.scrollTo(id) }
                     }
                 }
             } else if update?.status == "ready" {
@@ -138,16 +138,16 @@ private struct RecordingOptionsView: View {
         .frame(width: 300)
         .task {
             await Task.yield()
-            focusedRow = 0
+            focusedRow = "automatic"
         }
         .onMoveCommand { direction in
-            let ids = [0] + candidates.map(\.id)
-            let current = ids.firstIndex(of: focusedRow ?? 0) ?? 0
+            let ids = ["automatic"] + candidates.map(\.id)
+            let current = ids.firstIndex(of: focusedRow ?? "automatic") ?? 0
             if direction == .down { focusedRow = ids[min(ids.count - 1, current + 1)] }
             if direction == .up { focusedRow = ids[max(0, current - 1)] }
         }
         .onKeyPress(.return) {
-            if focusedRow == 0 { connection.forgetRecording() }
+            if focusedRow == "automatic" { connection.forgetRecording() }
             else if let candidate = candidates.first(where: { $0.id == focusedRow }) { choose(candidate) }
             return .handled
         }
@@ -171,7 +171,7 @@ private struct RecordingOptionsView: View {
                     Text(MusicSnapshot.timeLabel(candidate.duration)).font(.system(size: 11)).monospacedDigit()
                 }
                 Text(candidate.artists.joined(separator: " & ")).font(.system(size: 11)).lineLimit(1)
-                Text("\(candidate.album.isEmpty ? "Unknown album" : candidate.album) · NetEase")
+                Text("\(candidate.album.isEmpty ? "Unknown album" : candidate.album) · \(candidate.sourceName)")
                     .font(.system(size: 11)).foregroundStyle(.secondary).lineLimit(1)
             }
         }

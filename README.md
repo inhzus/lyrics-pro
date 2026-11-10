@@ -30,7 +30,7 @@ changes, limited to 4 MiB per image, and cached for at most eight tracks in memo
 Missing, oversized, or unreadable artwork uses a placeholder. The worker uses
 temporary files only while extracting artwork and removes them afterwards.
 
-Lyrics use the existing NetEase → LRCLIB pipeline. The pronunciation picker remembers
+Lyrics use the NetEase → LrcAPI → LRCLIB pipeline. The pronunciation picker remembers
 **Auto / Cantonese · Jyutping / Hokkien · Tâi-lô / Original only** across launches.
 Auto uses the artist-based guesses described below; it is not language detection.
 Unknown artists show original lyrics until you choose a language. Pronunciation runs
@@ -67,8 +67,13 @@ timed/untimed labels appear above the lyrics. The circular retry button fetches 
 song again without restarting the Music connection. Loading, no match, instrumental,
 and error states have separate messages. Transient failures receive three lookup
 attempts; Try again resets them. Changing language reuses raw lyrics already fetched.
-Raw lyrics (16 tracks) and annotations (32 track/language pairs) are cached in memory
-only; quitting clears them. Track and language changes discard stale results.
+Raw lyrics and pronunciation also persist in a bounded SQLite cache under
+`~/Library/Application Support/Lyrics Pro/lyrics-cache.sqlite3`, shared with the terminal
+client. Successful cached results work after restart and offline; errors and missing
+results are not persisted. The cache holds up to 1,000 recordings and approximately
+100 MiB of payload, evicting least-recently-used entries. Pronunciation is keyed by
+content, language, and engine version. Retry bypasses memory and disk caches;
+failed refreshes retain usable cached lyrics. Track and language changes discard stale results.
 Language changes and lyric retries preserve manual browsing and restore the browsed
 row where possible. The bottom-right pronunciation capsule has a checked menu of full
 language names. Hovering a clickable lyric softly highlights its lyrics and pronunciation;
@@ -77,10 +82,12 @@ communicates playback state without a separate Playing/Paused label. The header
 shows connection issues only.
 
 The **Recording** capsule beside pronunciation opens a compact, scrollable picker
-showing at most five rows at once, with up to 30 eligible NetEase alternatives.
+showing at most five rows at once, with up to 30 eligible NetEase and LrcAPI alternatives.
 Each row includes title, artist, album, duration, and source. Matching keeps the same
-normalized title and duration within two seconds. Verified NetEase and LRCLIB matches
-remain preferred; if neither succeeds, the app automatically tries up to three ranked
+normalized title and duration within two seconds. Automatic lookup prefers **NetEase,
+then LrcAPI, then LRCLIB**. A later timed result can improve an earlier plain-text result.
+LrcAPI artist-name differences require matching album information as well. If the
+providers cannot resolve the recording, the app automatically tries up to three ranked
 NetEase candidates. Automatic choices do not create saved mappings or artist aliases.
 Alternatives load in the background, and switching keeps current lyrics visible
 until replacement lyrics and pronunciation are ready. Failed switches leave the
@@ -88,13 +95,20 @@ previous selection intact. Successful manual choices are remembered for the exac
 Apple Music title/artist/album/duration. **Automatic** in the picker clears a manual
 override after successfully loading the automatic result.
 Up to 256 choices persist locally in
-`~/Library/Application Support/Lyrics Pro/recording-choices.json`; lyrics themselves
-remain memory-only. No additional service or AI is used. The duplicate pronunciation
+`~/Library/Application Support/Lyrics Pro/recording-choices.json`. Recording IDs include
+their provider; existing NetEase-only choices load automatically. No AI is used. The duplicate pronunciation
 label above the source has been removed; selection remains in the bottom-right footer.
 
 Use **Lyrics Pro → Reconnect to Music** to restart the worker. **Preview → Display**
 switches between Live Music and the original Stage 1 demos. Demo lyrics and progress
 remain explicitly labeled and are unrelated to the currently playing song.
+
+**Help → Open Logs Folder** opens `~/Library/Application Support/Lyrics Pro/Logs`.
+The app writes `app.log`, including worker diagnostics; the terminal writes `cli.log`.
+Each rolls at 2 MiB with four backups. Logs include lookup timings, track metadata,
+cache activity, selections, and failures, but not lyric bodies, artwork, or credentials.
+Storage failures do not prevent lyric lookup. The app icon is an original vector
+drawing in `scripts/render-icon.swift`, rendered into a complete `.icns` during build.
 
 Allow Music Automation access if macOS prompts. If denied, enable Music for Lyrics
 Pro under System Settings → Privacy & Security → Automation, then choose
@@ -104,7 +118,7 @@ worker and in-flight scripts. Worker crashes show a reconnect action.
 
 The green window button enters fullscreen. The **Preview** menu provides compact
 and default window sizes, preserving the current display (exit fullscreen first).
-Use the MacBook Pro's built-in display for interactive checks.
+Use the rightmost monitor for interactive checks.
 
 The build is locally ad-hoc signed, not notarized for distribution. The bundle
 includes Apple's [Automation usage description](https://developer.apple.com/documentation/bundleresources/information-property-list/nsappleeventsusagedescription).
@@ -153,13 +167,15 @@ and exits. If local pronunciation is currently being computed, it finishes first
   Searches are bounded to 30 songs per query, 20 albums per query, three matching
   album lookups, and three lyric candidates per phase. Song IDs are deduplicated.
 - Use NetEase timed lyrics or an explicit instrumental result immediately. If
-  NetEase has no match, only plain lyrics, or a request error, try LRCLIB in the
-  same lookup round. LRCLIB uses metadata lookup followed by title searches with
+  NetEase has no match, only plain lyrics, or a request error, try LrcAPI and then
+  LRCLIB in the same lookup round. LrcAPI searches original/simplified titles,
+  validates duration, and requires matching artist credits or an exact album match.
+  LRCLIB uses metadata lookup followed by title searches with
   Chinese spelling variants, validates the artist and ±2-second duration limit,
   and prefers the matching album. Each title search examines at most 20 results.
-- Prefer a matching timed LRCLIB result over plain NetEase lyrics; otherwise
+- Prefer a matching timed fallback result over plain NetEase lyrics; otherwise
   retain valid NetEase plain lyrics. Plain lyrics print once. The selected source
-  and link are displayed. There are no other lyrics providers, and timed lyrics
+  and link are displayed. These are the three lyric providers; timed lyrics
   can still be inaccurate for an edition.
 - Cantonese uses ToJyutping on the full original line, supporting simplified and
   traditional characters with sentence context. Only unresolved Han characters
@@ -167,8 +183,8 @@ and exits. If local pronunciation is currently being computed, it finishes first
 - Hokkien defaults to southern Taiwanese Tâi-lô with tone numbers and no tone
   sandhi. Local dictionary output is guidance, not a transcription of a singer's
   exact pronunciation. Unavailable Han readings appear as `[字: ?]`.
-- Original lyrics and timestamps are preserved. Selected lyrics, their source,
-  and readings are cached only in memory; restarting clears the cache. Transient
+- Original lyrics and timestamps are preserved. Successful lyrics, their source,
+  and readings persist in the Application Support cache described above. Transient
   failures are not cached as missing lyrics.
 - Network requests contain song metadata, not audio. No audio is captured.
 - The installed engines and their dictionaries are used as published; no models
@@ -182,7 +198,7 @@ and exits. If local pronunciation is currently being computed, it finishes first
 - **Music closed/stopped:** open Music and play a song; the CLI keeps waiting.
 - **Network failure:** requests use IPv4 because it worked in the feasibility
   check where other requests timed out. Fallback is attempted before retrying
-  NetEase. If neither service provides usable lyrics, transient failures receive
+  NetEase. If no service provides usable lyrics, transient failures receive
   at most three lookup rounds per track, with backoff. After that, restart to
   retry the same song. Ctrl-C cancels requests without starting a fallback.
 - **No matching lyrics:** the song may be absent, metadata may differ, or the

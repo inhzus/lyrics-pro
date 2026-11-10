@@ -17,6 +17,9 @@ struct LyricsProApp: App {
         .windowResizability(.contentMinSize)
         .commands {
             CommandGroup(replacing: .newItem) {}
+            CommandGroup(replacing: .help) {
+                Button("Open Logs Folder") { AppLog.shared.openFolder() }
+            }
             CommandGroup(after: .appSettings) {
                 Button("Reconnect to Music") { delegate.connection.reconnect() }
                     .disabled(delegate.connection.restarting)

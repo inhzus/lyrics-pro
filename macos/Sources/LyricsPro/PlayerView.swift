@@ -66,20 +66,10 @@ struct PlayerView: View {
     }
 
     private var background: some View {
-        GeometryReader { geometry in
-            ZStack {
-                Color(red: 0.055, green: 0.08, blue: 0.10)
-                cover
-                    .frame(width: max(geometry.size.width, geometry.size.height) * 1.3)
-                    .blur(radius: 100)
-                    .opacity(0.40)
-                    .position(x: geometry.size.width * 0.35, y: geometry.size.height * 0.65)
-                LinearGradient(colors: [.black.opacity(0.05), .black.opacity(0.40)], startPoint: .topLeading, endPoint: .bottomTrailing)
-            }
-            .clipped()
-        }
-        .ignoresSafeArea()
-        .accessibilityHidden(true)
+        ArtworkBackground(artwork: connection.state.artwork, generation: connection.state.generation,
+                          loading: snapshot?.hasTrack == true && !connection.state.artworkReceived,
+                          connected: connection.state.phase == .live,
+                          playing: connection.presentation.playing, demo: demo)
     }
 
     private var header: some View {
