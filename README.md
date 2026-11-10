@@ -6,7 +6,7 @@ or Taiwanese Hokkien Tâi-lô pronunciation.
 **[Download for macOS](https://github.com/inhzus/lyrics-pro/releases/latest)** ·
 Apple Silicon (M1 or newer) · macOS 15+
 
-![Lyrics Pro showing album artwork, synchronized lyrics, and Cantonese Jyutping pronunciation](docs/images/lyrics-pro.png)
+![Lyrics Pro showing album artwork, synchronized lyrics, and Cantonese Jyutping pronunciation](docs/images/lyrics-pro.jpg)
 
 ## Features
 
