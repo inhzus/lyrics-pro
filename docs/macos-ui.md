@@ -1,0 +1,282 @@
+# Native macOS UI checkpoints
+
+## Agreed behavior
+
+A personal Finder-launchable SwiftUI companion, inspired by the supplied Apple
+Music screenshot: artwork and song metadata on the left, lyrics with a separate
+pronunciation line on the right, and a dark blurred artwork background. Window
+defaults to 1280 × 800, with a minimum content size of 900 × 600 and native fullscreen.
+
+Apple Music remains the player. Lyrics Pro follows timed lyrics, allows manual
+browsing, and offers Resume following. The playback-control increment adds
+play/pause, previous/next, timeline seeking, and click-to-seek lyrics. Word-level
+karaoke timing, AI services, and extra lyrics providers remain outside this scope.
+
+Implement and verify **one stage at a time, then pause for user feedback**.
+
+## Stage 1 — Visual shell
+
+Implemented in `macos/`, built by `scripts/build-macos.fish` into
+`dist/Lyrics Pro.app`. Native SwiftUI, Swift Package Manager, macOS 15+; no external
+Swift packages or Xcode project. The script resolves paths relative to itself and
+ad-hoc signs the app bundle.
+
+- Original vector cover and sample lyrics, explicitly labeled as demo content.
+- Static highlighted line and progress indicator; no Music access or networking.
+- Selectable Cantonese, Hokkien, long/mixed text, and missing-artwork scenarios.
+- Scrollable, selectable lyric text with separate pronunciation and wrapped lines.
+- Repeat builds update the local app; quit the preview before rebuilding it.
+
+Verified on this Mac (macOS 27.0.1, Apple Silicon, Swift 6.4 Command Line Tools):
+
+- Release build and repeat build succeed; bundle signature and Info.plist validate.
+- App launches through macOS application services without a terminal window.
+- Default size, compact size, and native fullscreen visually inspected.
+- All four demo scenarios inspected; Chinese, English, and pronunciation wrap
+  without horizontal clipping. Manual scrolling and text selection work.
+- The Preview menu provides compact/default size presets; exit fullscreen first.
+- Rechecked sample switching, long-text scrolling, and both size presets on the
+  MacBook Pro's built-in Retina display. Presets resize in place and retain the
+  current display; the app is left there for review. Use this display for subsequent
+  interactive checks, as requested.
+- Existing Python suite: **119 passed**.
+
+The SDK's new `State` macro lacks a plugin in this Command Line Tools installation.
+A type alias explicitly uses the established `State` property wrapper instead.
+The linker emits two missing Command Line Tools search-directory warnings; linking,
+signing, and launching succeed. macOS 15 is the deployment target, but testing was
+performed on this Mac rather than on macOS 15 itself.
+
+**Stage 1 complete and approved.**
+
+## Stage 2 — Live Music connection
+
+Launch the repository's `.venv/bin/python` as a worker from the app. Exchange
+newline-delimited JSON over stdin/stdout, keeping diagnostics on stderr. Reuse
+half-second playback polling. Read artwork on track changes with a timeout and
+session cache; fall back to a placeholder. Tag asynchronous work with track identity
+and generation. Keep work off the UI thread. Add the Automation usage description
+and verify permission attribution from Finder. Handle missing environment, closed
+Music, permission denial, and worker failure. Quit without orphaned subprocesses.
+
+Implemented and verified on 2026-11-10:
+
+- Live mode is the default; the original demos remain selectable separately.
+- Bundled `Backend.json` records absolute project/Python paths. No shell or local
+  server is launched. Missing paths show setup instructions; Reconnect restarts the
+  connection. The existing terminal entrypoint is unchanged.
+- Worker polls every 0.5 seconds and extracts current-track artwork on one separate
+  thread. Images are limited to 4 MiB and cached for eight tracks for the session.
+  Temporary extraction files are removed after reads. Missing/error artwork uses a
+  placeholder; reconnect retries it. No new network service is used.
+- Protocol v1: each event has `version`, `type`, `generation`, and `track` (null or
+  `[title, artist, album, roundedDuration]`). `playback` events carry the existing
+  playback fields; `artwork` carries a base64 `image` or null; `status` carries
+  `code` and `message`; `ready` confirms startup. Commands accept `retry` and
+  `shutdown`. EOF/SIGTERM also shuts down. Stdout is JSON only; stderr is diagnostics.
+- Track generations reject stale A→B→A artwork. Native connection session IDs reject
+  output from replaced workers. Pipe reads deliver partial chunks immediately rather
+  than waiting to fill a buffer. Artwork does not block metadata polling.
+- GUI quit/window close waits for bounded worker shutdown off the main thread.
+  Worker scripts are cancelled and reaped; group cleanup covers unexpected crashes.
+- **137 Python tests and 7 Swift Testing tests passed.** Run Swift tests with
+  `swift test --package-path macos --configuration release --disable-xctest` because
+  this Command Line Tools installation has Swift Testing but not XCTest.
+- Live check: `No Fear in My Heart` / `朴树` / `猎户星座`, paused at 67.95 seconds of
+  386.81 seconds. UI displayed matching metadata, `1:07 / 6:26`, and actual artwork.
+  Pause stayed stable. Seek, resume, stopped/closed, denied-permission recovery, and
+  rapid track switches were exercised with deterministic tests, without changing the
+  user's Music playback during validation.
+- System Settings → Privacy & Security → Automation showed **Lyrics Pro → Music on**,
+  confirming app attribution. No privacy settings were modified by the agent.
+- Actual GUI quit left no worker; an injected worker crash cleared stale UI and
+  showed Reconnect. Reconnect restored one worker and the actual cover. The crashed
+  process group was gone. Interactive review uses the MacBook Pro built-in display.
+
+**Stage 2 complete and approved.**
+
+## Stage 3 — Lyrics and pronunciation
+
+Connect the existing NetEase → LRCLIB pipeline, ToJyutping, and Taibun. Preserve
+matching, retries, and stale-result protection. Worker commands: language, retry,
+shutdown. Events: playback, artwork, lyrics, status. Add a remembered Auto /
+Cantonese / Hokkien / Original only picker (Auto default). Cache raw lyrics by
+track and annotations by track plus language. Show source, loading, unavailable,
+instrumental, unsynchronized, and error states. Add retry without restarting.
+
+Pause after live songs and mocked failure cases pass, including the existing CLI suite.
+
+Implemented and verified on 2026-11-10:
+
+- Live lyrics and pronunciation are displayed in a manually scrollable list. The
+  native picker persists Auto, Cantonese, Hokkien, or Original only in UserDefaults.
+  Auto clearly identifies artist-based guesses; unknown artists retain original
+  lyrics. The provider's original text, timestamps, and source are preserved.
+- Local ToJyutping and Taibun run on one lyric worker thread, separate from artwork
+  extraction and Music polling. No new provider or AI service was added. The existing
+  terminal CLI, alias matching, duration checks, and fallback order are unchanged.
+- A bounded session cache holds 16 raw tracks and 32 annotated track/language pairs.
+  Language changes reuse raw lookups already in progress. Track changes cancel old
+  requests; generation plus native request revision rejects stale results, including
+  A→B→A and rapid language reversals. A failed pronunciation engine still permits
+  switching to Original only without another network lookup.
+- Loading, ready, untimed, instrumental, no match, and failed lookup states are
+  distinct. Retry lyrics invalidates the current track's caches without restarting
+  Music polling. Transient failures retry up to three rounds with 2/4-second delays.
+  Network work cancels on track changes and app shutdown. Responses are size-limited.
+- Protocol v1 adds `lyrics` events carrying a `lyric` object: `request_id`, requested
+  `language`, nullable `selected_language`, `reason`, `status`, `message`, and nullable
+  `lyrics` (lines, source, synced, instrumental). Commands `language` and `retry_lyrics`
+  carry language and increasing request ID; retry also carries the viewed generation.
+  The preferred language is passed to the worker on launch. Native pipe writes run
+  off the main thread and safely handle a worker exiting during a command.
+- **153 Python tests and 12 Swift Testing tests passed**, including CLI regressions,
+  real local pronunciation, async lifecycle, cache bounds, preference persistence,
+  and mocked unavailable/instrumental/plain/error behavior. Release build, signature,
+  and plist checks passed.
+- Real provider probes: Eason Chan's **浮誇** returned 51 timed rows from NetEase
+  (47 nonempty pronunciation rows); Wu Bai & China Blue's **空襲警報** returned 35
+  timed rows with Hokkien pronunciation through the new lyric session. These were
+  read-only provider checks, without selecting different songs in Music.
+- GUI check on the built-in Retina display: the current **Banana Co / Radiohead**
+  recording loaded timed NetEase lyrics and actual artwork, remaining paused at
+  `0:20 / 2:21`. Cantonese and Hokkien overrides produced readings for Chinese credit
+  text; Original only removed them. Default/compact wrapping and manual scrolling
+  were checked. Hokkien selection survived quit/relaunch. Retry restored the same
+  lyric source without disrupting metadata; GUI quit left no lyric worker.
+- During review, Music changed to **断肠诗 / 伍佰 & China Blue / 树枝孤鸟**. The app
+  picked up the new track, cover, advancing playback time, and timed NetEase lyrics
+  automatically. Auto selected Hokkien and displayed local Tâi-lô beneath the text.
+  Taibun's unresolved characters remain visible as `[字: ?]`. Auto was restored for
+  review, and the Window menu confirmed the app was on the built-in Retina display.
+- Automatic highlighting/scrolling remains Stage 4. No playback commands or
+  click-to-seek controls were added. Local dictionary readings remain guidance;
+  the app does not claim to reproduce a singer's exact pronunciation.
+
+**Stage 3 complete. Stage 4 also incorporates the requested header refinements.**
+
+## Stage 4 — Following and manual browsing
+
+Highlight the latest timestamp at or before playback position. Smoothly center a
+new active line, not every poll. User scrolling pauses centering while highlighting
+continues; Resume following or changing songs restores it. Follow seeks in Music,
+freeze on pause, and render untimed lyrics as a normal list. Highlight whole lines.
+
+Pause after seeks, repeated timestamps, gaps, track switches, and manual browsing
+are verified without unwanted scroll jumps.
+
+Implemented on 2026-11-10:
+
+- Playing/Paused is non-interactive text centered beneath the progress bar between
+  the timestamps, with no duplicate in the header. The timeline's accessibility
+  description includes this state. Connection-error labels remain in the header.
+  The pronunciation control is a translucent
+  capsule with an icon, short mode name, chevron, hover/focus feedback, and checked
+  language choices. Reconnect moved to the Lyrics Pro application menu; demos moved
+  to Preview → Display. Existing language preferences are retained.
+- A pure Swift timeline uses the latest timestamp at or before Music's position,
+  with binary search and deterministic handling of duplicate timestamps. Blank
+  timed rows clear highlighting; no timing is fabricated for untimed lyrics.
+  Original text and pronunciation retain their content and layout when highlighted.
+- A separate following state preserves manual browsing through language changes,
+  retry, and resizing. Native scroll phases distinguish user input from automatic
+  animation. Resume following recenters the current row; new tracks and reconnects
+  reset to following. Repeated half-second snapshots do not retrigger scrolling.
+- Active rows use bright white text and teal pronunciation; surrounding rows remain
+  readable. Scrolling takes 0.3 seconds, with immediate initial positioning and no
+  animation under Reduce Motion. First/last rows have centering space; tall measured
+  rows align to their top. Text remains selectable and does not seek playback.
+- **153 Python tests and 20 Swift tests passed.** The eight new following tests cover
+  boundaries, gaps, repeated/unsorted timestamps, untimed data, late arrival, pauses,
+  forward/backward seeks, manual/resume transitions, reloads, and track generations.
+- Swift Testing's automatic plugin discovery failed in this Command Line Tools
+  installation. `fish scripts/test-macos.fish` resolves the active toolchain and
+  explicitly loads its TestingMacros plugin when available. Tests then pass;
+  the pre-existing missing linker search-directory warnings remain harmless.
+- Live review on the MacBook Pro built-in Retina display verified initial positioning
+  during **蝴蝶 / David Tao**, automatic transition to **光之翼 / 王菲**, advancing
+  selected rows and scrolling, manual browsing without snap-back, and Resume
+  following. **再見二丁目 / Miriam Yeung** verified continuing following with LRCLIB
+  lyrics, a later paused state at `2:59`, language changes, retry, and compact layout.
+  No Music playback commands were issued during these checks.
+- Manual browsing survived Original → Cantonese conversion and a real lyric retry;
+  the retry restored the same scroll position. The corrected language menu remained
+  open while playback advanced and displayed its selection checkmark. Native status
+  labels were inspected in both Playing and Paused states.
+- Final release build, bundle signature, and plist checks passed. The relocated
+  Reconnect command restored the current paused song with one worker; Preview lists
+  Live Music and all four demos. During the last default-size adjustment, computer
+  inspection began returning `cgWindowNotFound`, including after rebinding/resetting
+  the inspection session. The app and its worker remained running. Earlier built-in
+  display checks passed, but the final window placement could not be reverified.
+
+**Stage 4 complete; pause for feedback before Stage 5 polish and distribution.**
+
+## Playback-control increment — 0.4.1
+
+The user expanded the scope after Stage 4 to control Apple Music from this app.
+
+- Previous, play/pause, and next sit beneath the timeline; the muted state label
+  remains between timestamps. The timeline supports click/drag and native keyboard
+  and accessibility adjustment. Dragging previews locally and commits on release.
+- Timed, nonblank lyric rows seek and resume following after acknowledgement.
+  Untimed text stays selectable; timed rows offer Copy lyric. Timeline seeks retain
+  browsing mode, and seeks preserve Music's playing/paused state.
+- Protocol v1 adds `playback_control` commands (`command_id`, `action`, `generation`,
+  `track`, optional `position`) and `control_result` events (`command_id`, `ok`,
+  optional `code`/`message`). Lyrics request revisions remain independent.
+  The worker serializes commands and refreshes playback before acknowledging them.
+  It checks generation and track identity; the fixed JXA script checks the live
+  identity again immediately before acting. Duplicate IDs and stale requests cannot
+  repeat an action. Commands are never automatically retried.
+- Controls disable while pending or disconnected and cannot operate in demos.
+  Four-second script timeouts and a ten-second UI acknowledgement timeout release
+  pending state. Control errors appear below the buttons without clearing lyrics.
+- Live testing found Music rounds seek positions to single precision. Lyric seeks
+  land 20 ms inside the line, avoiding a paused highlight on the previous row.
+  Music also restarts on Previous when past the beginning, so the script sets the
+  position to zero before issuing Previous to select the previous song in one click.
+- **173 Python and 26 Swift tests passed.** Release build, signature verification,
+  and plist validation passed. Live checks on the built-in display confirmed
+  play/pause, timeline dragging, lyric seeking while paused, corrected lyric
+  highlighting, Next, and one-click Previous from mid-track. Default and compact
+  layouts were inspected. No pronunciation preference was changed.
+- UI inspection temporarily failed with `cgWindowNotFound` after relaunch, then
+  recovered. Physical scroll/drag checks on the final display layout encountered
+  `windowNotFoundAtPosition`; final manual-browse-to-seek interaction was therefore
+  not reverified end-to-end. Following state and command acknowledgement behavior
+  are covered by Swift tests; the existing Stage 4 manual-scroll behavior is retained.
+
+## Responsive controls — 0.4.2
+
+- Playback commands run on a separate serial executor; the bridge continues polling
+  and processing lyrics while Apple Music handles an action. Playback events include
+  `completed_control_id`, captured before sampling, so an older read cannot confirm
+  or undo a newer request. Results remain serialized on the bridge's main loop.
+- A pure presentation/intent state machine separates confirmed Music snapshots from
+  immediate play/pause and seek feedback. One monotonic clock drives timeline time
+  and lyric highlighting at 10 Hz while playing; paused time stays fixed.
+- One command is in flight. Unsent seeks and play/pause intents each retain only the
+  latest choice, ordered by the user's latest action. Next/Previous accept one skip
+  until the track changes, fails, or times out. Other controls and lyric browsing
+  remain available, and a pending command no longer dims the player.
+- Lyric clicks immediately seek visually and resume following; slider seeking keeps
+  browsing mode. Track changes and demo switches discard old-track previews and
+  queued actions. Disconnect clears all intent state. Failures restore confirmed
+  values without overriding newer intents, and a ten-second deadline bounds pending
+  confirmation. Commands are never automatically retried.
+- After one second, a small Updating Music indicator provides feedback. Script and
+  shutdown cancellation remain bounded. No lyric timing offset or provider changes
+  are included in this increment.
+- **175 Python tests and 31 Swift tests passed**, including blocked command polling,
+  cancellation, pre-completion sample revisions, rapid play/pause, repeated seeks,
+  stale confirmations, timeout/failure recovery, track transitions, and skip guards.
+
+## Stage 5 — Polish and completion
+
+Tune visuals against the reference. Check keyboard use, accessibility, reduced
+motion, cold launches, permission recovery, worker restart, offline behavior, and
+shutdown. Run Python and Swift behavioral tests. Document setup and troubleshooting;
+deliver the local app and a zipped build. Python remains repository-dependent;
+moving the repository requires rebuilding. Self-contained distribution, Developer
+ID signing, and notarization remain deferred.

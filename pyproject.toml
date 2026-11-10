@@ -1,0 +1,19 @@
+[project]
+name = "lyrics-pro"
+version = "0.1.0"
+description = "Follow macOS Music with locally romanized Cantonese and Hokkien lyrics"
+requires-python = ">=3.11"
+dependencies = ["ToJyutping==3.2.0", "taibun==1.1.8"]
+
+[project.scripts]
+lyrics-pro = "lyrics_pro.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = ["pytest>=8,<10"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key><string>LyricsPro</string>
+    <key>CFBundleIdentifier</key><string>com.lyricspro.local</string>
+    <key>CFBundleName</key><string>Lyrics Pro</string>
+    <key>CFBundleDisplayName</key><string>Lyrics Pro</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>0.4.2</string>
+    <key>CFBundleVersion</key><string>6</string>
+    <key>LSMinimumSystemVersion</key><string>15.0</string>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSAppleEventsUsageDescription</key><string>Lyrics Pro reads the current song, playback time, and artwork from Music, and lets you play, pause, seek, and change songs using its playback controls.</string>
+</dict>
+</plist>
