@@ -40,7 +40,7 @@ struct PlayerView: View {
             ZStack {
                 background
                 VStack(spacing: 0) {
-                    header(lyricsLeading: inset + artworkSide + gap, trailingInset: inset)
+                    header(trailingInset: inset)
                     HStack(spacing: gap) {
                         albumPanel(side: artworkSide)
                             .frame(width: artworkSide)
@@ -73,7 +73,7 @@ struct PlayerView: View {
                           playing: connection.presentation.playing, demo: demo)
     }
 
-    private func header(lyricsLeading: CGFloat, trailingInset: CGFloat) -> some View {
+    private func header(trailingInset: CGFloat) -> some View {
         HStack(spacing: 0) {
             HStack(spacing: 9) {
                 Image(systemName: "waveform")
@@ -82,11 +82,18 @@ struct PlayerView: View {
                     .font(.system(size: 13, weight: .semibold))
                     .foregroundStyle(.white.opacity(0.80))
             }
-            .frame(width: lyricsLeading - 24, alignment: .leading)
+            Spacer()
             if demo == nil && connection.state.phase == .live {
-                LiveLyricsHeader(connection: connection)
+                Button { connection.retryLyrics() } label: {
+                    Image(systemName: "arrow.clockwise")
+                        .font(.system(size: 13, weight: .medium))
+                        .frame(width: 30, height: 30)
+                        .background(.white.opacity(0.06), in: Circle())
+                }
+                .buttonStyle(.plain)
+                .accessibilityLabel("Retry lyrics")
+                .help("Look up lyrics again")
             } else {
-                Spacer()
                 Text(demo != nil ? "Demo · \(song.rawValue)" : status)
                     .font(.system(size: 12, weight: .medium))
                     .foregroundStyle(.white.opacity(0.55))
@@ -207,6 +214,8 @@ struct PlayerView: View {
             if demo != nil {
                 Image(systemName: "sparkle").foregroundStyle(song.accent.opacity(0.65))
                 Text("Original demo lyrics & artwork")
+            } else if connection.state.phase == .live {
+                LyricSourceLabel(connection: connection)
             }
             Spacer()
             if demo != nil {

@@ -432,8 +432,8 @@ The user expanded the scope after Stage 4 to control Apple Music from this app.
 
 ## Expanded lyric viewport — 0.5.1
 
-- Source/timing information and retry now share the top header, aligned with the
-  lyric column. Reducing the body inset adds 68 points to the live lyric viewport
+- Source/timing information now sits at the bottom left, with retry in the top
+  header. Reducing the body inset adds 68 points to the live lyric viewport
   while preserving artwork placement and font sizes. Normal timed rows follow at
   45% of the viewport; oversized rows still align to the top.
 - Removed the live metadata caption and music-note icon from the bottom left.

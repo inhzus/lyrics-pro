@@ -73,37 +73,24 @@ struct LiveLyricsView: View {
     }
 }
 
-/// Shares the app's top header, leaving the full right-hand body for lyrics.
-struct LiveLyricsHeader: View {
+struct LyricSourceLabel: View {
     @ObservedObject var connection: MusicConnection
 
     var body: some View {
-        HStack(spacing: 16) {
-            if let lyrics = connection.state.lyric?.lyrics {
-                HStack(spacing: 7) {
-                    if let url = lyrics.sourceURL {
-                        Link(lyrics.sourceName, destination: url)
-                            .help("Open the lyric source")
-                    } else {
-                        Text(lyrics.sourceName)
-                    }
-                    Text("·")
-                    Text(lyrics.instrumental ? "Instrumental" : (lyrics.synced ? "Timed lyrics" : "Untimed lyrics"))
+        if let lyrics = connection.state.lyric?.lyrics {
+            HStack(spacing: 7) {
+                if let url = lyrics.sourceURL {
+                    Link(lyrics.sourceName, destination: url)
+                        .help("Open the lyric source")
+                } else {
+                    Text(lyrics.sourceName)
                 }
-                .font(.system(size: 11))
-                .foregroundStyle(.white.opacity(0.50))
-                .lineLimit(1)
+                Text("·")
+                Text(lyrics.instrumental ? "Instrumental" : (lyrics.synced ? "Timed lyrics" : "Untimed lyrics"))
             }
-            Spacer(minLength: 0)
-            Button { connection.retryLyrics() } label: {
-                Image(systemName: "arrow.clockwise")
-                    .font(.system(size: 13, weight: .medium))
-                    .frame(width: 30, height: 30)
-                    .background(.white.opacity(0.06), in: Circle())
-            }
-            .buttonStyle(.plain)
-            .accessibilityLabel("Retry lyrics")
-            .help("Look up lyrics again")
+            .font(.system(size: 11))
+            .foregroundStyle(.white.opacity(0.50))
+            .lineLimit(1)
         }
     }
 }
