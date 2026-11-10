@@ -124,6 +124,11 @@ nonfatal. Cache I/O stays on workers; native logging uses its serial queue.
 
 ## UI behavior and live verification
 
+- Align the source label/retry control with the app title in the top header, and
+  let lyrics fill the body beneath it. Keep artwork placement and lyric font sizes
+  stable. Live mode has no bottom-left metadata caption or music-note icon.
+- Follow normal timed rows at 45% of the lyric viewport height; align rows taller
+  than the viewport to the top. Keep sufficient first/last-row scroll padding.
 - Keep timed highlighting tied to the shared playback clock. Manual browsing
   pauses scrolling, not highlighting; Resume following or a new song restores
   following. Blank timestamps clear the highlight during musical gaps.

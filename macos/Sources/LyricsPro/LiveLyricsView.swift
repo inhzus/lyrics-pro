@@ -11,33 +11,7 @@ struct LiveLyricsView: View {
     private var update: LyricUpdate? { connection.state.lyric }
 
     var body: some View {
-        VStack(alignment: .leading, spacing: 18) {
-            HStack(spacing: 16) {
-                if let lyrics = update?.lyrics {
-                    HStack(spacing: 7) {
-                        if let url = lyrics.sourceURL {
-                            Link(lyrics.sourceName, destination: url)
-                                .help("Open the lyric source")
-                        } else {
-                            Text(lyrics.sourceName)
-                        }
-                        Text("·")
-                        Text(lyrics.instrumental ? "Instrumental" : (lyrics.synced ? "Timed lyrics" : "Untimed lyrics"))
-                    }
-                    .font(.system(size: 11))
-                    .foregroundStyle(.white.opacity(0.50))
-                }
-                Spacer(minLength: 0)
-                Button { connection.retryLyrics() } label: {
-                    Image(systemName: "arrow.clockwise")
-                        .font(.system(size: 13, weight: .medium))
-                        .frame(width: 30, height: 30)
-                        .background(.white.opacity(0.06), in: Circle())
-                }
-                .buttonStyle(.plain)
-                .accessibilityLabel("Retry lyrics")
-                .help("Look up lyrics again")
-            }
+        Group {
             if let update, (update.status == .ready || update.status == .plain), let lyrics = update.lyrics {
                 FollowingLyricsView(lyrics: lyrics, generation: connection.state.generation,
                                     requestID: update.requestID, recordingRevision: update.selectionRevision ?? 0,
@@ -96,6 +70,41 @@ struct LiveLyricsView: View {
             Spacer()
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .leading)
+    }
+}
+
+/// Shares the app's top header, leaving the full right-hand body for lyrics.
+struct LiveLyricsHeader: View {
+    @ObservedObject var connection: MusicConnection
+
+    var body: some View {
+        HStack(spacing: 16) {
+            if let lyrics = connection.state.lyric?.lyrics {
+                HStack(spacing: 7) {
+                    if let url = lyrics.sourceURL {
+                        Link(lyrics.sourceName, destination: url)
+                            .help("Open the lyric source")
+                    } else {
+                        Text(lyrics.sourceName)
+                    }
+                    Text("·")
+                    Text(lyrics.instrumental ? "Instrumental" : (lyrics.synced ? "Timed lyrics" : "Untimed lyrics"))
+                }
+                .font(.system(size: 11))
+                .foregroundStyle(.white.opacity(0.50))
+                .lineLimit(1)
+            }
+            Spacer(minLength: 0)
+            Button { connection.retryLyrics() } label: {
+                Image(systemName: "arrow.clockwise")
+                    .font(.system(size: 13, weight: .medium))
+                    .frame(width: 30, height: 30)
+                    .background(.white.opacity(0.06), in: Circle())
+            }
+            .buttonStyle(.plain)
+            .accessibilityLabel("Retry lyrics")
+            .help("Look up lyrics again")
+        }
     }
 }
 

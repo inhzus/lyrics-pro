@@ -40,10 +40,11 @@ struct PlayerView: View {
             ZStack {
                 background
                 VStack(spacing: 0) {
-                    header
+                    header(lyricsLeading: inset + artworkSide + gap, trailingInset: inset)
                     HStack(spacing: gap) {
                         albumPanel(side: artworkSide)
                             .frame(width: artworkSide)
+                            .padding(.top, 20)
                         Group {
                             if demo != nil {
                                 lyricsPanel(fontSize: compact ? 30 : 38)
@@ -57,7 +58,7 @@ struct PlayerView: View {
                         .frame(maxWidth: .infinity, maxHeight: .infinity)
                     }
                     .padding(.horizontal, inset)
-                    .padding(.top, 28)
+                    .padding(.top, 8)
                     .padding(.bottom, 24)
                     footer
                 }
@@ -72,15 +73,20 @@ struct PlayerView: View {
                           playing: connection.presentation.playing, demo: demo)
     }
 
-    private var header: some View {
-        HStack(spacing: 9) {
-            Image(systemName: "waveform")
-                .foregroundStyle(song.accent)
-            Text("Lyrics Pro")
-                .font(.system(size: 13, weight: .semibold))
-                .foregroundStyle(.white.opacity(0.80))
-            Spacer()
-            if demo != nil || connection.state.phase != .live {
+    private func header(lyricsLeading: CGFloat, trailingInset: CGFloat) -> some View {
+        HStack(spacing: 0) {
+            HStack(spacing: 9) {
+                Image(systemName: "waveform")
+                    .foregroundStyle(song.accent)
+                Text("Lyrics Pro")
+                    .font(.system(size: 13, weight: .semibold))
+                    .foregroundStyle(.white.opacity(0.80))
+            }
+            .frame(width: lyricsLeading - 24, alignment: .leading)
+            if demo == nil && connection.state.phase == .live {
+                LiveLyricsHeader(connection: connection)
+            } else {
+                Spacer()
                 Text(demo != nil ? "Demo · \(song.rawValue)" : status)
                     .font(.system(size: 12, weight: .medium))
                     .foregroundStyle(.white.opacity(0.55))
@@ -88,7 +94,7 @@ struct PlayerView: View {
             }
         }
         .padding(.leading, 24)
-        .padding(.trailing, 24)
+        .padding(.trailing, trailingInset)
         .frame(height: 48)
     }
 
@@ -198,8 +204,10 @@ struct PlayerView: View {
 
     private var footer: some View {
         HStack(spacing: 7) {
-            Image(systemName: demo != nil ? "sparkle" : "music.note").foregroundStyle(song.accent.opacity(0.65))
-            Text(demo != nil ? "Original demo lyrics & artwork" : "Live metadata & artwork from Apple Music")
+            if demo != nil {
+                Image(systemName: "sparkle").foregroundStyle(song.accent.opacity(0.65))
+                Text("Original demo lyrics & artwork")
+            }
             Spacer()
             if demo != nil {
                 Text("Demo content · Switch to Live Music for your song")

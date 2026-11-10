@@ -59,7 +59,8 @@ struct FollowingLyricsView: View {
                         }
                     }
                     .frame(maxWidth: .infinity, alignment: .leading)
-                    .padding(.vertical, following.timeline.isTimed ? viewport.size.height / 2 : 18)
+                    .padding(.top, following.timeline.isTimed ? viewport.size.height * 0.45 : 18)
+                    .padding(.bottom, following.timeline.isTimed ? viewport.size.height * 0.55 : 18)
                     .padding(.trailing, 16)
                 }
                 .coordinateSpace(name: "lyricsViewport")
@@ -134,9 +135,9 @@ struct FollowingLyricsView: View {
 
     private func scroll(to row: Int?, proxy: ScrollViewProxy, viewport: CGSize, animated: Bool) {
         guard let row else { return }
-        let center = following.isFollowing && following.timeline.isTimed && (heights[row] ?? 0) <= viewport.height
+        let followAnchor = following.isFollowing && following.timeline.isTimed && (heights[row] ?? 0) <= viewport.height
         withAnimation(animated && !reduceMotion ? .easeInOut(duration: 0.3) : nil) {
-            proxy.scrollTo(row, anchor: center ? .center : .top)
+            proxy.scrollTo(row, anchor: followAnchor ? UnitPoint(x: 0.5, y: 0.45) : .top)
         }
     }
 

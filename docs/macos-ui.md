@@ -430,6 +430,24 @@ The user expanded the scope after Stage 4 to control Apple Music from this app.
   is not available in this workspace. Developer ID/notarization, Intel builds,
   older macOS, and automatic updates are deferred.
 
+## Expanded lyric viewport — 0.5.1
+
+- Source/timing information and retry now share the top header, aligned with the
+  lyric column. Reducing the body inset adds 68 points to the live lyric viewport
+  while preserving artwork placement and font sizes. Normal timed rows follow at
+  45% of the viewport; oversized rows still align to the top.
+- Removed the live metadata caption and music-note icon from the bottom left.
+  Demo attribution and bottom-right recording/pronunciation controls remain.
+- All 42 Swift tests passed. The installed build was checked on the rightmost
+  display at compact, default, and full-screen sizes. Live playback advanced the
+  highlight and scroll position; manual browsing, Resume following, paused lyric
+  seeking, and the upward recording picker worked. The long/mixed-text demo
+  wrapped correctly. Original paused playback was restored at 155.924 seconds.
+- Loading/error/plain protocol states and untimed following are covered by existing
+  tests; error and untimed layouts were not separately exercised live. The README's
+  single screenshot now shows the expanded layout. Published 0.5.0 assets remain
+  unchanged.
+
 ## Remaining polish
 
 Continue checking keyboard use, accessibility, reduced motion, and first-launch
