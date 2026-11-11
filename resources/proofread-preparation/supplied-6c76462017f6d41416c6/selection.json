@@ -1,0 +1,43 @@
+{
+  "selected": {
+    "song_id": 14668213,
+    "title": "港邊男兒",
+    "artists": [
+      "盧廣仲"
+    ],
+    "album": "慢靈魂(平裝版)",
+    "duration": 285.293333,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrclib:14668213",
+      "duration": 285.293333,
+      "ready": false,
+      "coverage": 0.5476190476190477,
+      "exact_fraction": 0.35714285714285715,
+      "summary": {
+        "repeat": 10,
+        "unresolved": 19,
+        "approximate": 8,
+        "exact": 5,
+        "gap": 3
+      }
+    },
+    {
+      "recording_id": "lrclib:29677620",
+      "duration": 285.0,
+      "ready": false,
+      "coverage": 0.5476190476190477,
+      "exact_fraction": 0.35714285714285715,
+      "summary": {
+        "repeat": 10,
+        "unresolved": 19,
+        "approximate": 8,
+        "exact": 5,
+        "gap": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "牽阮的手 淋著小雨                                  牽阮的手 跟你腳步",
+      "spelling": "khan gún ê tshiú  lâm tio̍h sió hōo    khan gún ê tshiú tuè lí kha-pōo",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "牽你的手 走咱的路                           牽你的手 不驚艱苦",
+      "spelling": "khan lí ê tshiú  kiânn lán ê lōo    khan lí ê tshiú  m̄-kiann kan-khóo",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "牽阮的手 淋著小雨                                  牽阮的手 跟你腳步",
+      "spelling": "khan gún ê tshiú  lâm tio̍h sió hōo    khan gún ê tshiú tuè lí kha-pōo",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "牽你的手 走咱的路                           牽你的手 不驚艱苦",
+      "spelling": "khan lí ê tshiú  kiânn lán ê lōo    khan lí ê tshiú  m̄-kiann kan-khóo",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "雖然路途 有風有雨                            我也甘願 受盡苦楚",
+      "spelling": "sui-liân lōo tôo ū hong ū hōo        guá iā kam-guān siū tsīn khóo-tshóo",
+      "source_lines": [
+        13,
+        14
+      ],
+      "parts": [
+        {
+          "text": "雖然路途 有風有雨",
+          "spelling": "sui-liân lōo tôo ū hong ū hōo"
+        },
+        {
+          "text": "我也甘願 受盡苦楚",
+          "spelling": "guá iā kam-guān siū tsīn khóo-tshóo"
+        }
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "希望甲你 白頭偕老                            牽阮的手 走咱的路",
+      "spelling": "hi-bāng kah lí  pe̍h-thioh kài-ló    khan gún ê tshiú  kiânn lán ê lōo",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "牽阮的手 淋著小雨                                  牽阮的手 跟你腳步",
+      "spelling": "khan gún ê tshiú  lâm tio̍h sió hōo    khan gún ê tshiú tuè lí kha-pōo",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "牽你的手 走咱的路                           牽你的手 不驚艱苦",
+      "spelling": "khan lí ê tshiú  kiânn lán ê lōo    khan lí ê tshiú  m̄-kiann kan-khóo",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "雖然路途 有風有雨                            我也甘願 受盡苦楚",
+      "spelling": "sui-liân lōo tôo ū hong ū hōo        guá iā kam-guān siū tsīn khóo-tshóo",
+      "source_lines": [
+        25,
+        26
+      ],
+      "parts": [
+        {
+          "text": "雖然路途 有風有雨",
+          "spelling": "sui-liân lōo tôo ū hong ū hōo"
+        },
+        {
+          "text": "我也甘願 受盡苦楚",
+          "spelling": "guá iā kam-guān siū tsīn khóo-tshóo"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "希望甲你 白頭偕老                             牽阮的手 走咱的路",
+      "spelling": "hi-bāng kah lí  pe̍h-thioh kài-ló    khan gún ê tshiú  kiânn lán ê lōo",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "雖然路途 有風有雨                            我也甘願 受盡苦楚",
+      "spelling": "sui-liân lōo tôo ū hong ū hōo        guá iā kam-guān siū tsīn khóo-tshóo",
+      "source_lines": [
+        31,
+        32
+      ],
+      "parts": [
+        {
+          "text": "雖然路途 有風有雨",
+          "spelling": "sui-liân lōo tôo ū hong ū hōo"
+        },
+        {
+          "text": "我也甘願 受盡苦楚",
+          "spelling": "guá iā kam-guān siū tsīn khóo-tshóo"
+        }
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "希望甲你 白頭偕老                            牽阮的手 走咱的路",
+      "spelling": "hi-bāng kah lí  pe̍h-thioh kài-ló    khan gún ê tshiú  kiânn lán ê lōo",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "牽阮的手 走咱的路",
+      "spelling": "khan gún ê tshiú  kiânn lán ê lōo",
+      "source_lines": [
+        37,
+        38
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

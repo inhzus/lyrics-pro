@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 168252,
+      "title": "疼惜",
+      "artists": [
+        "萧煌奇"
+      ],
+      "album": "思念会惊",
+      "duration": 312.45,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

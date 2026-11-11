@@ -1,0 +1,501 @@
+{
+  "schema_version": 1,
+  "id": "supplied-97d3299cc8a386a03961",
+  "revision": "1",
+  "title": "雙面人",
+  "title_aliases": [],
+  "artist": "伍佰 & China Blue",
+  "album": "双面人",
+  "duration": 281.053,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:156505",
+    "timing_source": "NetEase https://music.163.com/song?id=156505",
+    "manual_source": "resources/lyrics-spelling/雙面人-伍佰",
+    "audio_verified": false,
+    "agent_review": "Explicitly reviewed supplied phrase grouping, sequence, repetitions and wording differences. Keep source words/readings; preserve every provider timestamp. No audio verification.",
+    "input_sha256": {
+      "original": "2598a2f2b74a3821ac3a0d97fd08b8daf3f1c0b851dab51e25591fff44282b6e",
+      "manual": "9040ba412a78b17f0e65d9f9056a60c20f3f1d0d0565898613e3724c054cb974",
+      "timed": "71d792f3a9acd4275e13f516077471f2dcd9b1ee177e011249288c0c018fdc7d"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "credit": 3,
+      "exact": 12,
+      "approximate": 22,
+      "gap": 2
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作词 : 伍佰",
+        "status": "credit",
+        "text": "作词 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 1.0,
+        "online_text": "作曲 : 伍佰",
+        "status": "credit",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 2.0,
+        "online_text": "编曲 : 伍佰 & China Blue",
+        "status": "credit",
+        "text": "编曲 : 伍佰 & China Blue",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 29.66,
+        "online_text": "我已不在相信你无论你多客气",
+        "status": "exact",
+        "text": "我已不在相信你 無論你多客氣",
+        "spelling": "guá í put-tsāi siong-sìn lí bô-lūn lí tuā kheh-khì",
+        "manual_id": "line-3:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 35.12,
+        "online_text": "安怎来表示我要斩断咱情谊",
+        "status": "exact",
+        "text": "安怎來表示 我要斬斷咱情誼",
+        "spelling": "an-tsuánn lâi piáu-sī guá beh tsám tn̄g lán tsîng-gî",
+        "manual_id": "line-6:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 41.19,
+        "online_text": "心情是不得已无法度原谅你",
+        "status": "approximate",
+        "text": "心情是不得已 無法度原諒妳",
+        "spelling": "sim-tsîng sī put tio̍h kī bô-huat-tōo guân liōng lí",
+        "manual_id": "line-9:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 46.68,
+        "online_text": "穿着伊的面皮害我当作伊是你",
+        "status": "exact",
+        "text": "穿著伊的面皮 害我當作伊是你",
+        "spelling": "tshīng tio̍h i ê bīn-phuê hāi guá tòng-tsuè i sī lí",
+        "manual_id": "line-12:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 51.62,
+        "online_text": "你是双面人",
+        "status": "approximate",
+        "text": "妳是雙面人",
+        "spelling": "lí sī siang bīn lâng",
+        "manual_id": "line-15:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 57.19,
+        "online_text": "做着两个梦",
+        "status": "approximate",
+        "text": "做著兩個夢",
+        "spelling": "tsuè tio̍h nn̄g-ê bāng",
+        "manual_id": "line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 62.92,
+        "online_text": "一个为自己",
+        "status": "approximate",
+        "text": "一個為自己",
+        "spelling": "tsi̍t ê uî tsū-kí",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 68.76,
+        "online_text": "一个骗别人",
+        "status": "approximate",
+        "text": "一個騙別人",
+        "spelling": "tsi̍t ê phiàn pa̍t lâng",
+        "manual_id": "line-18:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 74.92,
+        "online_text": "若无你那拢抹歹势",
+        "status": "approximate",
+        "text": "若無妳那攏抹歹勢",
+        "spelling": "ná bô lí ná lóng bē pháinn-sè",
+        "manual_id": "line-21:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 78.17,
+        "online_text": "你说着白贼的情话",
+        "status": "exact",
+        "text": "你說著白賊的情話",
+        "spelling": "lí kóng tio̍h pe̍h-tsha̍t ê tsîng uē",
+        "manual_id": "line-21:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 80.82,
+        "online_text": "将我当作你的手中傀儡",
+        "status": "approximate",
+        "text": "將我當作妳的手中傀儡",
+        "spelling": "tsiòng guá tòng-tsò lí ê tshiú-tiong ka-lé",
+        "manual_id": "line-24:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 83.59,
+        "online_text": "牵线弄体随你所要我当作是应该",
+        "status": "exact",
+        "text": "牽線弄體 隨你所要 我當作是應該",
+        "spelling": "khan suànn lāng thé suî lí sóo beh guá tòng-tsuè sī ing-kai",
+        "manual_id": "line-27:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 92.21,
+        "online_text": "我是憨甲好跳海",
+        "status": "exact",
+        "text": "我是憨甲好跳海~",
+        "spelling": "guá sī gōng kah hó thiàu-hái~",
+        "manual_id": "line-30:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 98.82,
+        "online_text": "说话拢开叉脚踏抹得地",
+        "status": "exact",
+        "text": "說話攏開叉 腳踏抹得地",
+        "spelling": "kóng-uē lóng khui-tshe kha ta̍h bē tio̍h tē",
+        "manual_id": "line-33:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 104.4,
+        "online_text": "信心若铣子弹去不再回",
+        "status": "approximate",
+        "text": "信心若銑子 彈去不再回",
+        "spelling": "sìn-sim ná thih tsí tuânn khì put tsài huê",
+        "manual_id": "line-36:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 110.17,
+        "online_text": "说话拢开叉脚踏抹得地",
+        "status": "exact",
+        "text": "說話攏開叉 腳踏抹得地",
+        "spelling": "kóng-uē lóng khui-tshe kha ta̍h bē tio̍h tē",
+        "manual_id": "line-39:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 115.98,
+        "online_text": "气拢随你激戏拢搬你的",
+        "status": "approximate",
+        "text": "氣攏隨妳激 戲攏搬妳的",
+        "spelling": "khì lóng suî lí kik hì lóng puann lí ê",
+        "manual_id": "line-42:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 120.9,
+        "online_text": "你是双面人",
+        "status": "approximate",
+        "text": "妳是雙面人",
+        "spelling": "lí sī siang bīn lâng",
+        "manual_id": "line-45:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 126.59,
+        "online_text": "做着两个梦",
+        "status": "approximate",
+        "text": "做著兩個夢",
+        "spelling": "tsò tio̍h nn̄g-ê bāng",
+        "manual_id": "line-45:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 132.36,
+        "online_text": "一个为自己",
+        "status": "approximate",
+        "text": "一個為自己",
+        "spelling": "tsi̍t ê uî tsū-kí",
+        "manual_id": "line-48:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 138.18,
+        "online_text": "一个骗别人",
+        "status": "approximate",
+        "text": "一個騙別人",
+        "spelling": "tsi̍t ê phiàn pa̍t lâng",
+        "manual_id": "line-48:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 140.59,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 205.91,
+        "online_text": "若无你那拢抹歹势",
+        "status": "approximate",
+        "text": "若無妳那攏抹歹勢",
+        "spelling": "ná bô lí hiâ lóng bē pháinn-sè",
+        "manual_id": "line-51:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 209.08,
+        "online_text": "你展开悲恋的姿势",
+        "status": "approximate",
+        "text": "妳展開悲戀的姿勢",
+        "spelling": "lí tián-khui pi luân ê tsu-sè",
+        "manual_id": "line-51:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 27,
+        "time": 211.6,
+        "online_text": "乎我当作你是为我付出",
+        "status": "approximate",
+        "text": "乎我當作妳是為我付出",
+        "spelling": "honnh guá tòng-tsò lí sī uî guá hù-tshut",
+        "manual_id": "line-54:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 28,
+        "time": 214.27,
+        "online_text": "迷魂玉体青春美丽我当作是意爱",
+        "status": "exact",
+        "text": "迷魂玉體 青春美麗 我當作是意愛",
+        "spelling": "bê-hûn gio̍k-thé tshing-tshun bí-lē guá tòng-tsuè sī ì-ài",
+        "manual_id": "line-57:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 29,
+        "time": 223.21,
+        "online_text": "乎我怀疑你我到底互相谁较正当",
+        "status": "exact",
+        "text": "乎我懷疑你我到底互相誰較正當",
+        "spelling": "honnh guá huâi-gî lí guá tàu-té hōo siong siáng khah tsìng-tong",
+        "manual_id": "line-60:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 30,
+        "time": 228.02,
+        "online_text": "你是双面人",
+        "status": "approximate",
+        "text": "妳是雙面人",
+        "spelling": "lí sī siang bīn lâng",
+        "manual_id": "line-63:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 31,
+        "time": 234.07,
+        "online_text": "做着两个梦",
+        "status": "approximate",
+        "text": "做著兩個夢",
+        "spelling": "tsò tio̍h nn̄g-ê bāng",
+        "manual_id": "line-63:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 32,
+        "time": 239.87,
+        "online_text": "一个为自己",
+        "status": "approximate",
+        "text": "一個為自己",
+        "spelling": "tsi̍t ê uî tsū-kí",
+        "manual_id": "line-66:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 33,
+        "time": 245.68,
+        "online_text": "一个骗别人",
+        "status": "approximate",
+        "text": "一個騙別人",
+        "spelling": "tsi̍t ê phiàn pa̍t lâng",
+        "manual_id": "line-66:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 34,
+        "time": 251.38,
+        "online_text": "你是双面人",
+        "status": "approximate",
+        "text": "妳是雙面人",
+        "spelling": "lí sī siang bīn lâng",
+        "manual_id": "line-69:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 35,
+        "time": 257.16,
+        "online_text": "你是双面人",
+        "status": "approximate",
+        "text": "妳是雙面人",
+        "spelling": "lí sī siang bīn lâng",
+        "manual_id": "line-69:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 36,
+        "time": 263.17,
+        "online_text": "双面人",
+        "status": "exact",
+        "text": "雙面人",
+        "spelling": "siang bīn lâng",
+        "manual_id": "line-69:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 37,
+        "time": 268.95,
+        "online_text": "双面人",
+        "status": "exact",
+        "text": "雙面人",
+        "spelling": "siang bīn lâng",
+        "manual_id": "line-69:3",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 38,
+        "time": 274.61,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

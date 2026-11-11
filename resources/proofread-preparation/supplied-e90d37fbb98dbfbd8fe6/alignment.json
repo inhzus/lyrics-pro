@@ -1,0 +1,398 @@
+{
+  "recording_id": "netease:490182972",
+  "timing_source": "NetEase https://music.163.com/song?id=490182972",
+  "manual_source": "User-supplied resources/lyrics-spelling/再會-Ripple",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 8,
+    "repeat": 16,
+    "gap": 4
+  },
+  "review_row_count": 8,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-3:0",
+    "line-6:0",
+    "line-12:0",
+    "line-27:0",
+    "line-30:0",
+    "line-36:0",
+    "line-39:0",
+    "line-63:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : Deng Guang Xian",
+      "match_text": "作词 : Deng Guang Xian",
+      "text": "作词 : Deng Guang Xian",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : Deng Guang Xian/Zhuang Jian Long",
+      "match_text": "作曲 : Deng Guang Xian/Zhuang Jian Long",
+      "text": "作曲 : Deng Guang Xian/Zhuang Jian Long",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 15.71,
+      "online_text": "汝扂扂 越头飘撇的去",
+      "match_text": "汝扂扂 越头飘撇的去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 23.53,
+      "online_text": "无理由 较输毋捌来斗阵",
+      "match_text": "无理由 较输毋捌来斗阵",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 31.53,
+      "online_text": "花离枝 是欲对佗位去",
+      "match_text": "花离枝 是欲对佗位去",
+      "text": "花離枝 是欲對佗位去",
+      "spelling": "hue lī ki sī bē uì tó-uī khì",
+      "manual_id": "line-9:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 39.36,
+      "online_text": "只賰阮 知影心内的酸甘甜",
+      "match_text": "只賰阮 知影心内的酸甘甜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 47.22,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 7,
+      "time": 62.73,
+      "online_text": "雨 落袂停 伫彼年的寒天",
+      "match_text": "雨 落袂停 伫彼年的寒天",
+      "text": "雨 落袂停 佇彼年的寒天",
+      "spelling": "hōo lo̍h-buē-thîng tī hit nî ê kuânn-thinn",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 70.48,
+      "online_text": "欲 来离开 是怎样的心情",
+      "match_text": "欲 来离开 是怎样的心情",
+      "text": "欲 來離開 是怎樣的心情",
+      "spelling": "bē lâi lī-khui sī tsuánn-iūnn ê sim-tsîng",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 78.21,
+      "online_text": "目屎滴 掰袂離",
+      "match_text": "目屎滴 掰袂離",
+      "text": "目屎滴 掰袂離",
+      "spelling": "ba̍k-sái tih pué buē lī",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 85.96,
+      "online_text": "毋甘愿 想过去",
+      "match_text": "毋甘愿 想过去",
+      "text": "毋甘願 想過去",
+      "spelling": "m̄-kam-guān siūnn kuè-khì",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 95.72,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 12,
+      "time": 110.16,
+      "online_text": "汝扂扂 越头飘撇的去",
+      "match_text": "汝扂扂 越头飘撇的去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 117.58,
+      "online_text": "无理由 较输毋捌来斗阵",
+      "match_text": "无理由 较输毋捌来斗阵",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 125.96,
+      "online_text": "花离枝 是欲对佗位去",
+      "match_text": "花离枝 是欲对佗位去",
+      "text": "花離枝 是欲對佗位去",
+      "spelling": "hue lī ki sī bē uì tó-uī khì",
+      "manual_id": "line-9:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 133.43,
+      "online_text": "只賰阮 知影心内的酸甘甜",
+      "match_text": "只賰阮 知影心内的酸甘甜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 140.41,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 17,
+      "time": 157.31,
+      "online_text": "话 放袂记 犹原汝伫身边",
+      "match_text": "话 放袂记 犹原汝伫身边",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 164.61,
+      "online_text": "花 落土时 一切重新开始",
+      "match_text": "花 落土时 一切重新开始",
+      "text": "花 落土時 一切重新開始",
+      "spelling": "hue lo̍h thóo sî it-tshè tiông-sin khai-sí",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 172.68,
+      "online_text": "拆分开 心稀微",
+      "match_text": "拆分开 心稀微",
+      "text": "拆分開 心稀微",
+      "spelling": "thiah hun-khui sim hi-bî",
+      "manual_id": "line-45:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 180.51,
+      "online_text": "有缘份 通相见",
+      "match_text": "有缘份 通相见",
+      "text": "有緣份 通相見",
+      "spelling": "ū iân-hūn thàng sann-kinn",
+      "manual_id": "line-48:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 240.08,
+      "online_text": "雨 落袂停 伫彼年的寒天",
+      "match_text": "雨 落袂停 伫彼年的寒天",
+      "text": "雨 落袂停 佇彼年的寒天",
+      "spelling": "hōo lo̍h-buē-thîng tī hit nî ê kuânn-thinn",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 247.23,
+      "online_text": "欲 来离开 是怎样的心情",
+      "match_text": "欲 来离开 是怎样的心情",
+      "text": "欲 來離開 是怎樣的心情",
+      "spelling": "bē lâi lī-khui sī tsuánn-iūnn ê sim-tsîng",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 255.58,
+      "online_text": "目屎滴 掰袂離",
+      "match_text": "目屎滴 掰袂離",
+      "text": "目屎滴 掰袂離",
+      "spelling": "ba̍k-sái tih pué buē lī",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 263.11,
+      "online_text": "毋甘愿 想过去",
+      "match_text": "毋甘愿 想过去",
+      "text": "毋甘願 想過去",
+      "spelling": "m̄-kam-guān siūnn kuè-khì",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 270.93,
+      "online_text": "话 放袂记 犹原汝伫身边",
+      "match_text": "话 放袂记 犹原汝伫身边",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 279.41,
+      "online_text": "花 落土时 一切重新开始",
+      "match_text": "花 落土时 一切重新开始",
+      "text": "花 落土時 一切重新開始",
+      "spelling": "hue lo̍h thóo sî it-tshè tiông-sin khai-sí",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 287.08,
+      "online_text": "拆分开 心稀微",
+      "match_text": "拆分开 心稀微",
+      "text": "拆分開 心稀微",
+      "spelling": "thiah hun-khui sim hi-bî",
+      "manual_id": "line-45:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 294.08,
+      "online_text": "有缘份 通相见",
+      "match_text": "有缘份 通相见",
+      "text": "有緣份 通相見",
+      "spelling": "ū iân-hūn thàng sann-kinn",
+      "manual_id": "line-48:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 304.01,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "de897d8105ea5767fdfa8c6ac908fc3fad006e8efe2d1bdc054005e01aa86432",
+    "manual": "e889bcda8aa920da6184afcb7282a5fb88614275c9801e99e5b42f43a2a1bba9",
+    "timed": "b4b3a1a96eea4f93c24b48d91e63d11becae93bf98a2e66b834b01655a8efb20"
+  }
+}

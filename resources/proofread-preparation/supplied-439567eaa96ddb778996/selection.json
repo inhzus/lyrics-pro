@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "song_id": "1444719870",
+    "title": "自作多情",
+    "artists": [
+      "江蕙"
+    ],
+    "album": "爱作梦的鱼",
+    "duration": 239.867,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1444719870",
+      "duration": 239.867,
+      "ready": false,
+      "coverage": 0.21212121212121213,
+      "exact_fraction": 0.21212121212121213,
+      "summary": {
+        "unresolved": 26,
+        "repeat": 7
+      }
+    }
+  ]
+}

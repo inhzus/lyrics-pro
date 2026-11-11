@@ -1,0 +1,241 @@
+{
+  "recording_id": "netease:31830687",
+  "timing_source": "NetEase https://music.163.com/song?id=31830687",
+  "manual_source": "User-supplied resources/lyrics-spelling/蝴蝶-川秋沙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "exact": 14,
+    "gap": 3,
+    "approximate": 1
+  },
+  "review_row_count": 1,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 47.48,
+      "online_text": "叶 落入窗外 雾雺雺",
+      "match_text": "叶 落入窗外 雾雺雺",
+      "text": "葉 落入窗外 霧雺雺",
+      "spelling": "hio̍h lo̍h-li̍p thang-guā bū bông bông",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 55.14,
+      "online_text": "春日迟迟 雨绵绵",
+      "match_text": "春日迟迟 雨绵绵",
+      "text": "春日遲遲 雨綿綿",
+      "spelling": "tshun-li̍t tî tî hōo mî mî",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 63.03,
+      "online_text": "妳 站在窗边 睨睨看",
+      "match_text": "妳 站在窗边 睨睨看",
+      "text": "妳 站在窗邊 睨睨看",
+      "spelling": "lí khiā tī thang pinn gîn gîn khuànn",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 70.91,
+      "online_text": "雨过天青 虹彩昼",
+      "match_text": "雨过天青 虹彩昼",
+      "text": "雨過天青 虹彩晝",
+      "spelling": "hōo kuè thian tshing khīng tshái tàu",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 78.39,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 126.13,
+      "online_text": "花 开在心房 茂离离",
+      "match_text": "花 开在心房 茂离离",
+      "text": "花 開在心房 茂離離",
+      "spelling": "hue khui teh sim-pâng ōm lī-lī",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 133.9,
+      "online_text": "昨日寒冰 融春水",
+      "match_text": "昨日寒冰 融春水",
+      "text": "昨日寒冰 融春水",
+      "spelling": "tsa-li̍t hân ping iông tshun tsuí",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 141.69,
+      "online_text": "妳 打开心门 髻头鬃",
+      "match_text": "妳 打开心门 髻头鬃",
+      "text": "妳 打開心門 髻頭鬃",
+      "spelling": "lí phah-khui sim mn̂g kuè thâu-tsang",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 149.64,
+      "online_text": "蛹破蝶飞 种种去",
+      "match_text": "蛹破蝶飞 种种去",
+      "text": "蛹破蝶飛 種種去",
+      "spelling": "ióng phuà ia̍h pue tsióng-tsióng khì",
+      "manual_id": "line-22:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 158.03,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 10,
+      "time": 158.89,
+      "online_text": "手牵妳 人相偎",
+      "match_text": "手牵妳 人相偎",
+      "text": "手牽妳 人相偎",
+      "spelling": "tshiú-khan lí lâng siong uá",
+      "manual_id": "line-25:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 166.72,
+      "online_text": "舞步过 万花丛",
+      "match_text": "舞步过 万花丛",
+      "text": "舞步過 萬花叢",
+      "spelling": "bú-pōo kuè bān-hue tsâng",
+      "manual_id": "line-28:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 174.54,
+      "online_text": "飞入情 爱酸涩",
+      "match_text": "飞入情 爱酸涩",
+      "text": "飛入情 愛酸澀",
+      "spelling": "pue li̍p tsîng ài sng siap",
+      "manual_id": "line-31:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 182.31,
+      "online_text": "甘苦命 无牵挂",
+      "match_text": "甘苦命 无牵挂",
+      "text": "甘苦命 無牽掛",
+      "spelling": "kam-khóo miā bô sia̍p-kuà",
+      "manual_id": "line-34:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 187.87,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 15,
+      "time": 188.55,
+      "online_text": "贪恋之间 袂记得痛",
+      "match_text": "贪恋之间 袂记得痛",
+      "text": "貪戀之間 袂記得痛",
+      "spelling": "tham-luân tsi-kan buē-kì-tit thiànn",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 196.29,
+      "online_text": "一瞬光景 甘要永远",
+      "match_text": "一瞬光景 甘要永远",
+      "text": "一瞬光景 甘要永遠",
+      "spelling": "tsi̍t sut kng-kíng kam beh íng-uán",
+      "manual_id": "line-40:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 204.28,
+      "online_text": "艳衫化作 蝴蝶",
+      "match_text": "艳衫化作 蝴蝶",
+      "text": "艷衫化作 蝴蝶",
+      "spelling": "kiam sam huà-tsuè ôo-tia̍p",
+      "manual_id": "line-43:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.833333
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "535e6f63b53bd5b6da3d8202bcecd6c4bd12b9f096929fd50203ff3ad7c14235",
+    "manual": "9c9493619ad423c896094e2697ef3bcf3b4066a9b649192a8cf76e6ef0887dc3",
+    "timed": "24823fce116edca8609f26713044555397b0f86af1165b5e4234413d58de1816"
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "recording_id": "netease:168392",
+  "timing_source": "NetEase https://music.163.com/song?id=168392",
+  "manual_source": "User-supplied resources/lyrics-spelling/板橋純情曲-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "gap": 10,
+    "unresolved": 29
+  },
+  "review_row_count": 29,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-37:0"
+  ],
+  "unused_repeat_ids": [
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 武雄",
+      "match_text": "作词 : 武雄",
+      "text": "作词 : 武雄",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 0.02,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 0.05,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 16.0,
+      "online_text": "带你心飞",
+      "match_text": "带你心飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 23.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 24.1,
+      "online_text": "一段故事一阵风",
+      "match_text": "一段故事一阵风",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 6,
+      "time": 30.55,
+      "online_text": "有人讲初恋 拢是特别憨",
+      "match_text": "有人讲初恋 拢是特别憨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 7,
+      "time": 37.13,
+      "online_text": "明明想念搁袂去",
+      "match_text": "明明想念搁袂去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 8,
+      "time": 43.55,
+      "online_text": "又期待伊会来梦中",
+      "match_text": "又期待伊会来梦中",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 9,
+      "time": 49.76,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 10,
+      "time": 50.87,
+      "online_text": "两人隔开一条河",
+      "match_text": "两人隔开一条河",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 11,
+      "time": 57.1,
+      "online_text": "才知影初恋 总是无奈何",
+      "match_text": "才知影初恋 总是无奈何",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 12,
+      "time": 63.84,
+      "online_text": "渡过往事来看你",
+      "match_text": "渡过往事来看你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 13,
+      "time": 70.28,
+      "online_text": "你的形影已经拢找无",
+      "match_text": "你的形影已经拢找无",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 14,
+      "time": 76.36,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 15,
+      "time": 77.61,
+      "online_text": "板桥的风啊继续吹",
+      "match_text": "板桥的风啊继续吹",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 83.75,
+      "online_text": "吹过咱细汉对面彼片初恋地",
+      "match_text": "吹过咱细汉对面彼片初恋地",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 90.68,
+      "online_text": "一条黄昏的环河路",
+      "match_text": "一条黄昏的环河路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 96.84,
+      "online_text": "有咱轻声的对话",
+      "match_text": "有咱轻声的对话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 100.29,
+      "online_text": "有咱青春的表白",
+      "match_text": "有咱青春的表白",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 106.95,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 21,
+      "time": 107.65,
+      "online_text": "一场往事一帖药",
+      "match_text": "一场往事一帖药",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 113.76,
+      "online_text": "初恋梦大汗 化成一板桥",
+      "match_text": "初恋梦大汗 化成一板桥",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 120.52,
+      "online_text": "想着过去心会痛",
+      "match_text": "想着过去心会痛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 126.97,
+      "online_text": "惦风中一直摇啊摇",
+      "match_text": "惦风中一直摇啊摇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 134.72,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 26,
+      "time": 136.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 27,
+      "time": 160.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 28,
+      "time": 161.3,
+      "online_text": "板桥的风啊继续吹",
+      "match_text": "板桥的风啊继续吹",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 167.18,
+      "online_text": "吹过咱细汉对面彼片初恋地",
+      "match_text": "吹过咱细汉对面彼片初恋地",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 174.37,
+      "online_text": "一条黄昏的环河路",
+      "match_text": "一条黄昏的环河路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 180.4,
+      "online_text": "有咱轻声的对话",
+      "match_text": "有咱轻声的对话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 183.61,
+      "online_text": "有咱青春的表白",
+      "match_text": "有咱青春的表白",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 188.11,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 34,
+      "time": 190.76,
+      "online_text": "一场往事一帖药",
+      "match_text": "一场往事一帖药",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 197.16,
+      "online_text": "初恋梦大汗 化成一板桥",
+      "match_text": "初恋梦大汗 化成一板桥",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 204.0,
+      "online_text": "想着过去心会痛",
+      "match_text": "想着过去心会痛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 210.32,
+      "online_text": "惦风中一直摇啊摇",
+      "match_text": "惦风中一直摇啊摇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 217.38,
+      "online_text": "想着初恋一直笑",
+      "match_text": "想着初恋一直笑",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-37:0"
+    },
+    {
+      "source_row": 39,
+      "time": 223.62,
+      "online_text": "难忘的板桥",
+      "match_text": "难忘的板桥",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-37:0"
+    },
+    {
+      "source_row": 40,
+      "time": 233.42,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "bcc5c73f59ca5f02c659805afcdc3fffdae2535afa9d81ffa4744d59b1da831f",
+    "manual": "b03c167e18105d287821e1055103e060987798ff27b8e73e3f75fabc27315293",
+    "timed": "968690f9cc0ca145b465ae22821859eaa59043607d86d5fc706deb6475771f20"
+  }
+}

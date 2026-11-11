@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 399367440,
+      "title": "灯光下",
+      "artists": [
+        "夕阳武士"
+      ],
+      "album": "日出",
+      "duration": 247.0,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

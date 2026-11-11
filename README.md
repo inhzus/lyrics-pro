@@ -14,6 +14,7 @@ Apple Silicon (M1 or newer) · macOS 15+
 - Local pronunciation with no AI service, account, or API key.
 - Play/pause, previous/next, timeline seeking, and click-to-seek lyric lines.
 - Alternative recording selection and offline access to previously cached lyrics.
+- 64 bundled proofread resources with supplied spelling for matching recordings.
 
 ## Install
 
@@ -32,7 +33,7 @@ See [installation details](packaging/Install.txt) for more help.
 ## Use
 
 - **Pronunciation:** choose Cantonese, Hokkien, or original lyrics using the
-  bottom-right menu. Auto uses a proofread song's language when available,
+  bottom-right menu. Auto uses a proofread song's supplied spelling when available,
   otherwise guesses from the artist; choose manually if it is wrong.
 - **Wrong recording:** open **Recording** beside the pronunciation menu and choose
   a lyrics source. **Proofread** is a separate offline option when the title and
@@ -45,9 +46,9 @@ See [installation details](packaging/Install.txt) for more help.
 
 Lyrics come from NetEase Cloud Music, with LrcAPI and LRCLIB fallbacks. Coverage
 and timing vary by recording. An internet connection is needed for uncached lyrics.
-Pronunciation is dictionary-based guidance; Hokkien uses southern Taiwanese Tâi-lô.
-The approximately 6:54 recording of **少年吔，安啦** includes offline, manually
-proofread lyrics and supplied spelling, marked **Proofread** in the footer.
+Generated pronunciation is dictionary-based guidance; Hokkien uses southern Taiwanese Tâi-lô.
+Selected recordings include offline, manually proofread lyrics and supplied
+spelling, marked **Proofread** in the footer.
 The app sends song metadata to lyric providers, not audio.
 
 ## Build from source
@@ -82,5 +83,5 @@ Press Ctrl-C to exit.
 Pronunciation uses [ToJyutping](https://github.com/CanCLID/ToJyutping) and
 [Taibun](https://github.com/andreihar/taibun). Third-party license notices are
 included in the app.
-The bundled proofread song credits 關德樂 for its supplied romanization;
+Bundled transcriptions retain their [supplied credits](packaging/Proofread-content.txt);
 song text and transcription are not covered by the application's MIT license.

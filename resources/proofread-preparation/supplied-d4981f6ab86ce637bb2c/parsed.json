@@ -1,0 +1,279 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "不知明哪載 是啥麼天氣",
+      "spelling": "m̄ tsai bîn-á-tsài sī siánn-mih thinn-khì",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "甲你做的魚網 甘有準備",
+      "spelling": "kā lí tsò ê hî-bāng kam-ū tsún-pī",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "我若抓無魚 怎樣保護你",
+      "spelling": "guá ná liàu bô hî tsuánn-iūnn pó-hōo lí",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "怎樣為你 扛起這片天",
+      "spelling": "tsuánn-iūnn uî lí giâ khí tsit phinn thinn",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "不知後個月 厝內甘有米",
+      "spelling": "m̄ tsai āu kò gue̍h tshù-lāi kam-ū bí",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "載咱這支船 欲開去叨位",
+      "spelling": "tsài lán tsit tshiah tsûn beh khui khì tó-uī",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "看你甲子兒 惦惦來睏去",
+      "spelling": "khuànn lí kā kiánn lî tiām-tiām lâi khùn-khì",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "猶原是目周金金的暗暝",
+      "spelling": "iû-guân sī ba̍k-tsiu kim-kim ê àm-mî",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "等待春燕一天返來對阮啼",
+      "spelling": "tán-thāi tshun ian tsi̍t kang tńg-lâi tuì gún thî",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "對阮唱著一首希望的歌詩",
+      "spelling": "tuì gún tshiùnn-tio̍h tsi̍t siú hi-bāng ê kua-si",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "沒啥麼好失去 沒啥麼好稀微",
+      "spelling": "bô siánn-mih hó sit-khì bô siánn-mih hó hi-bî",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "至少還有恁置我身邊",
+      "spelling": "tsì-tsió iáu-ū lin tì guá sin-pinn",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "不管魚網若破你會跟我追",
+      "spelling": "m̄-kuán hî-bāng ná phuà lí ē tè guá tui",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "就算追到沒人熟識的海埂",
+      "spelling": "tio̍h-sǹg tui-kàu bô-lâng si̍k-sāi ê hái huānn khinn",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "我還有一口氣 路慢慢行出去",
+      "spelling": "guá iáu-ū tsi̍t kháu-khuì lōo bān-bān kiânn tshut-khì",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "不驚波浪會怎樣來創治",
+      "spelling": "m̄-kiann pho-lōng ē tsuánn-iūnn lâi tshòng-tī",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "風雨若無大 船仔會擱開",
+      "spelling": "hong-hōo ná-bô tuā tsûn-á ē koh khui",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "開往幸福 沒需要外多錢",
+      "spelling": "khui-óng hīng-hok bô su-iàu guā tsuē tsînn",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "買會到大魚 買不到勇氣",
+      "spelling": "bé ē tio̍h tuā hî bé-buē-tio̍h ióng-khì",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "也對歇睏一咧 喘一口氣",
+      "spelling": "ia̍h tio̍h hioh-khùn tsit-ê tshuán tsit kháu-khuì",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "等待春燕一天返來對阮啼",
+      "spelling": "tán-thāi tshun ian tsi̍t kang tńg-lâi tuì gún thî",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "對阮唱著一首希望的歌詩",
+      "spelling": "tuì gún tshiùnn-tio̍h tsi̍t siú hi-bāng ê kua-si",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "沒啥麼好失去 沒啥麼好稀微",
+      "spelling": "bô siánn-mih hó sit-khì bô siánn-mih hó hi-bî",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "至少還有恁置我身邊",
+      "spelling": "tsì-tsió iáu-ū lin tì guá sin-pinn",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "不管魚網若破你會跟我追",
+      "spelling": "m̄-kuán hî-bāng ná phuà lí ē tè guá tui",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "就算追到沒人知影咱名字",
+      "spelling": "tio̍h-sǹg tui-kàu bô-lâng tsai-iánn lán miâ-lī",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "我還有一口氣 路慢慢行出去",
+      "spelling": "guá iáu-ū tsi̍t kháu-khì lōo bān-bān kiânn tshut-khì",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "不驚波浪會怎樣來創治",
+      "spelling": "m̄-kiann pho-lōng ē tsuánn-iūnn lâi tshòng-tī",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "我還有一口氣 收著恁的安慰",
+      "spelling": "guá iáu-ū tsi̍t kháu-khuì siu-tio̍h lin ê an-uì",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "甲阮牽著希望 看好天",
+      "spelling": "kā gún khan-tio̍h hi-bāng khuànn hó-thinn",
+      "source_lines": [
+        88,
+        89
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

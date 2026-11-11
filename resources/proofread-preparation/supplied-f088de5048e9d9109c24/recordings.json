@@ -1,0 +1,60 @@
+{
+  "candidates": [
+    {
+      "song_id": "1445522122",
+      "title": "月落",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "甲你揽牢牢",
+      "duration": 257.267,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1519546915",
+      "title": "月落",
+      "artists": [
+        "脱景麟"
+      ],
+      "album": "国韵潮声",
+      "duration": 268.543,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1338633101",
+      "title": "月落",
+      "artists": [
+        "常静"
+      ],
+      "album": "入梦",
+      "duration": 569.5,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1512575880",
+      "title": "月落",
+      "artists": [
+        "办桌二人组"
+      ],
+      "album": "永远的情歌",
+      "duration": 208.32,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1123513278",
+      "title": "月落",
+      "artists": [
+        "办桌二人组"
+      ],
+      "album": "永远的情歌",
+      "duration": 208.32,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

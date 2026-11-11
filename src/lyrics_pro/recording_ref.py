@@ -7,12 +7,14 @@ def recording_ref(value):
     if type(value) is int and value > 0:
         return f"netease:{value}"
     if isinstance(value, str) and len(value) <= 220:
-        if re.fullmatch(r"netease:[1-9]\d*|(?:lrcapi|proofread):[A-Za-z0-9_-]{1,180}", value):
+        if re.fullmatch(r"(?:netease|lrclib):[1-9]\d*|(?:lrcapi|proofread):[A-Za-z0-9_-]{1,180}", value):
             return value
     return None
 
 
 def source_ref(source):
+    if re.fullmatch(r"LRCLIB https://lrclib.net/api/get/[1-9]\d*", source):
+        return recording_ref("lrclib:" + source.rsplit("/", 1)[1])
     if source.startswith("NetEase https://music.163.com/song?"):
         value = parse_qs(urlparse(source.split(" ", 1)[1]).query).get("id", [""])[0]
         return recording_ref("netease:" + value)

@@ -1,0 +1,327 @@
+{
+  "recording_id": "lrcapi:1444711770",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E7%A5%9D%E7%A6%8F&artist=%E6%B1%9F%E8%95%99&album=%E7%88%B1%E7%9D%80%E5%95%8A#1444711770",
+  "manual_source": "User-supplied resources/lyrics-spelling/祝福-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "exact": 4,
+    "repeat": 14,
+    "unresolved": 6
+  },
+  "review_row_count": 6,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-25:0",
+    "line-28:0",
+    "line-49:0",
+    "line-52:0",
+    "line-61:0",
+    "line-64:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 29.99,
+      "online_text": "三月的窗邊 幸福的香味",
+      "match_text": "三月的窗邊 幸福的香味",
+      "text": "三月的窗邊　幸福的香味",
+      "spelling": "sann gue̍h ê thang pinn hīng-hok ê phang-bī",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 36.93,
+      "online_text": "阮躲置有你的情境",
+      "match_text": "阮躲置有你的情境",
+      "text": "阮躲置有你的情境",
+      "spelling": "gún bih tì ū lí ê tsîng-kíng",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 43.97,
+      "online_text": "離開已經彼多年 攏無你的消息",
+      "match_text": "離開已經彼多年 攏無你的消息",
+      "text": "離開已經彼多年　攏無你的消息",
+      "spelling": "lī-khui í-king hiah-tsuē nî lóng bô lí ê siau-sit",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 51.06,
+      "online_text": "你咁有找到你的春天",
+      "match_text": "你咁有找到你的春天",
+      "text": "你咁有找到你的春天",
+      "spelling": "lí kam ū tshuē-tio̍h lí ê tshun-thinn",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 57.35,
+      "online_text": "花開已經過時 不通擱再等你",
+      "match_text": "花開已經過時 不通擱再等你",
+      "text": "花開已經過時　不通擱再等你",
+      "spelling": "hue-khui í-king kuè-sî m̄-thang koh-tsài tán lí",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 64.23,
+      "online_text": "阮親像袂開的花蕊",
+      "match_text": "阮親像袂開的花蕊",
+      "text": "阮親像袂開的花蕊",
+      "spelling": "gún tshin-tshiūnn buē-khui ê hue-luí",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 71.25,
+      "online_text": "青春已經褪了色 還沒人來同情",
+      "match_text": "青春已經褪了色 還沒人來同情",
+      "text": "青春已經褪了色　還沒人來同情",
+      "spelling": "tshing-tshun í-king thuè liáu sik iáu bô-lâng lâi tông-tsîng",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 78.44,
+      "online_text": "若愛你 哪通怨恨你",
+      "match_text": "若愛你 哪通怨恨你",
+      "text": "若愛你　哪通怨恨你",
+      "spelling": "ná ài lí ná thàng uàn-hūn lí",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 87.1,
+      "online_text": "祝福你 平平安安 事事項項順著你的心",
+      "match_text": "祝福你 平平安安 事事項項順著你的心",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 94.86,
+      "online_text": "愛你的人惦身邊照顧你",
+      "match_text": "愛你的人惦身邊照顧你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 101.07,
+      "online_text": "祝福我 平平靜靜 一人惦在秋雨的窗邊",
+      "match_text": "祝福我 平平靜靜 一人惦在秋雨的窗邊",
+      "text": "祝福我　平平靜靜　一人惦在秋雨的窗邊",
+      "spelling": "tsiok-hok guá pîng-pîng-tsīng-tsīng tsi̍t lâng tiām tsāi tshiu hōo ê thang pinn",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 108.21,
+      "online_text": "若是寂寞的時 會凍不想你",
+      "match_text": "若是寂寞的時 會凍不想你",
+      "text": "若是寂寞的時　會凍不想你",
+      "spelling": "nā-sī siok-bo̍k ê sî ē-tàng m̄-siūnn lí",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 139.68,
+      "online_text": "花開已經過時 不通擱再等你",
+      "match_text": "花開已經過時 不通擱再等你",
+      "text": "花開已經過時　不通擱再等你",
+      "spelling": "hue-khui í-king kuè-sî m̄-thang koh-tsài tán lí",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 146.75,
+      "online_text": "阮親像袂開的花蕊",
+      "match_text": "阮親像袂開的花蕊",
+      "text": "阮親像袂開的花蕊",
+      "spelling": "gún tshin-tshiūnn buē-khui ê hue-luí",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 153.41,
+      "online_text": "青春已經褪了色 還沒人來同情",
+      "match_text": "青春已經褪了色 還沒人來同情",
+      "text": "青春已經褪了色　還沒人來同情",
+      "spelling": "tshing-tshun í-king thuè liáu sik iáu bô-lâng lâi tông-tsîng",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 161.03,
+      "online_text": "若愛你 哪通怨恨你",
+      "match_text": "若愛你 哪通怨恨你",
+      "text": "若愛你　哪通怨恨你",
+      "spelling": "ná ài lí ná thàng uàn-hūn lí",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 169.31,
+      "online_text": "祝福你 平平安安 事事項項順著你的心",
+      "match_text": "祝福你 平平安安 事事項項順著你的心",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 176.97,
+      "online_text": "愛你的人惦身邊照顧你",
+      "match_text": "愛你的人惦身邊照顧你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 183.19,
+      "online_text": "祝福我 平平靜靜 一人惦在秋雨的窗邊",
+      "match_text": "祝福我 平平靜靜 一人惦在秋雨的窗邊",
+      "text": "祝福我　平平靜靜　一人惦在秋雨的窗邊",
+      "spelling": "tsiok-hok guá pîng-pîng-tsīng-tsīng tsi̍t lâng tiām tsāi tshiu hōo ê thang pinn",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 190.69,
+      "online_text": "若是寂寞的時 會凍不想你",
+      "match_text": "若是寂寞的時 會凍不想你",
+      "text": "若是寂寞的時　會凍不想你",
+      "spelling": "nā-sī siok-bo̍k ê sî ē-tàng m̄-siūnn lí",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 196.59,
+      "online_text": "祝福你 平平安安 事事項項順著你的心",
+      "match_text": "祝福你 平平安安 事事項項順著你的心",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 204.42,
+      "online_text": "愛你的人惦身邊照顧你",
+      "match_text": "愛你的人惦身邊照顧你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 210.33,
+      "online_text": "祝福我 平平靜靜 一人惦在秋雨的窗邊",
+      "match_text": "祝福我 平平靜靜 一人惦在秋雨的窗邊",
+      "text": "祝福我　平平靜靜　一人惦在秋雨的窗邊",
+      "spelling": "tsiok-hok guá pîng-pîng-tsīng-tsīng tsi̍t lâng tiām tsāi tshiu hōo ê thang pinn",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 218.38,
+      "online_text": "若是寂寞的時 會凍不想你",
+      "match_text": "若是寂寞的時 會凍不想你",
+      "text": "若是寂寞的時　會凍不想你",
+      "spelling": "nā-sī siok-bo̍k ê sî ē-tàng m̄-siūnn lí",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "79585d15d4f731ebb4e4197ec7dae2e0e44df13e6c333878db49d05e0b9368da",
+    "manual": "73ccb4b6d6109462c3b8d1ad1ee16bed111faaa5d8120cd5e6f58a38dee3c0cf",
+    "timed": "07eb8742f283da5d5dcd3e9084d4a6b099d5a3426fd95b45640f518090cc2eba"
+  }
+}

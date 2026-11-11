@@ -1,0 +1,325 @@
+{
+  "recording_id": "netease:412951427",
+  "timing_source": "NetEase https://music.163.com/song?id=412951427",
+  "manual_source": "User-supplied resources/lyrics-spelling/卡歸去-張三李四",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "repeat": 8,
+    "unresolved": 13
+  },
+  "review_row_count": 13,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-4:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-25:0",
+    "line-31:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-52:0",
+    "line-55:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 馬卲權/黃昺翔/張錫安",
+      "match_text": "作词 : 馬卲權/黃昺翔/張錫安",
+      "text": "作词 : 馬卲權/黃昺翔/張錫安",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 李百罡",
+      "match_text": "作曲 : 李百罡",
+      "text": "作曲 : 李百罡",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 10.59,
+      "online_text": "心愛的人 藏咧心肝 思念",
+      "match_text": "心愛的人 藏咧心肝 思念",
+      "text": "心愛的人 藏咧心肝 思念",
+      "spelling": "sim-ài ê lâng tshàng leh sim-kuann su-liām",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 20.41,
+      "online_text": "笑袂出來 哭袂出聲 就親像戇人",
+      "match_text": "笑袂出來 哭袂出聲 就親像戇人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 31.14,
+      "online_text": "糖甘蜜甜 鹹酸苦澀 思念",
+      "match_text": "糖甘蜜甜 鹹酸苦澀 思念",
+      "text": "糖甘蜜甜 鹹酸苦澀 思念",
+      "spelling": "thn̂g-kam bi̍t tinn kiâm sng khóo-siap su-liām",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 40.98,
+      "online_text": "日思夜夢 愈囥愈芳 攏是你的形影",
+      "match_text": "日思夜夢 愈囥愈芳 攏是你的形影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 51.61,
+      "online_text": "望你轉來",
+      "match_text": "望你轉來",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 61.88,
+      "online_text": "是我最愛",
+      "match_text": "是我最愛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 69.92,
+      "online_text": "一場夢 一場夢 無交代半句就離開",
+      "match_text": "一場夢 一場夢 無交代半句就離開",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 79.98,
+      "online_text": "一个人 一个人 又閣想你想甲欲死",
+      "match_text": "一个人 一个人 又閣想你想甲欲死",
+      "text": "一個人 一個人 又閣想你想甲欲死",
+      "spelling": "tsi̍t ê lâng tsi̍t ê lâng iū-koh siūnn lí siūnn kah bē sí",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 89.72,
+      "online_text": "若無你 若無你 欲按怎好好過日子",
+      "match_text": "若無你 若無你 欲按怎好好過日子",
+      "text": "若無你 若無你 欲按怎好好過日子",
+      "spelling": "ná bô lí ná bô lí bē án-tsuánn hó hó kuè li̍t-tsí",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 100.02,
+      "online_text": "想你 想你 放袂記較規氣",
+      "match_text": "想你 想你 放袂記較規氣",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 113.22,
+      "online_text": "心愛的人 藏咧心肝 思念",
+      "match_text": "心愛的人 藏咧心肝 思念",
+      "text": "心愛的人 藏咧心肝 思念",
+      "spelling": "sim-ài ê lâng tshàng leh sim-kuann su-liām",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 124.53,
+      "online_text": "笑袂出來 哭袂出聲 就親像戇人",
+      "match_text": "笑袂出來 哭袂出聲 就親像戇人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 134.49,
+      "online_text": "糖甘蜜甜 鹹酸苦澀 思念",
+      "match_text": "糖甘蜜甜 鹹酸苦澀 思念",
+      "text": "糖甘蜜甜 鹹酸苦澀 思念",
+      "spelling": "thn̂g-kam bi̍t tinn kiâm sng khóo-siap su-liām",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 144.18,
+      "online_text": "日思夜夢 愈囥愈芳 攏是你的形影",
+      "match_text": "日思夜夢 愈囥愈芳 攏是你的形影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 155.26,
+      "online_text": "望你轉來",
+      "match_text": "望你轉來",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 165.53,
+      "online_text": "是我最愛",
+      "match_text": "是我最愛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 172.84,
+      "online_text": "一場夢 一場夢 無交代半句就離開",
+      "match_text": "一場夢 一場夢 無交代半句就離開",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 183.52,
+      "online_text": "一个人 一个人 又閣想你想甲欲死",
+      "match_text": "一个人 一个人 又閣想你想甲欲死",
+      "text": "一個人 一個人 又閣想你想甲欲死",
+      "spelling": "tsi̍t ê lâng tsi̍t ê lâng iū-koh siūnn lí siūnn kah bē sí",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 193.64,
+      "online_text": "若無你 若無你 欲按怎好好過日子",
+      "match_text": "若無你 若無你 欲按怎好好過日子",
+      "text": "若無你 若無你 欲按怎好好過日子",
+      "spelling": "ná bô lí ná bô lí bē án-tsuánn hó hó kuè li̍t-tsí",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 204.09,
+      "online_text": "想你 想你 放袂記較規氣",
+      "match_text": "想你 想你 放袂記較規氣",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 213.77,
+      "online_text": "想你 想你 放袂記較規氣",
+      "match_text": "想你 想你 放袂記較規氣",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "4565b6ecd6073e6c20ff4825e5d504547c30346b094ba6c9302a20baa5ecd95d",
+    "manual": "c954036a9191802d59c2d9f940847a3e93de4c82d48a8410e804718b6fe9fadf",
+    "timed": "a6031c4ba4726120f98a521ec1be0bf2e9a364eaba38c7f23afb2945849f4c58"
+  }
+}

@@ -1,0 +1,794 @@
+{
+  "recording_id": "netease:543798023",
+  "timing_source": "NetEase https://music.163.com/song?id=543798023",
+  "manual_source": "User-supplied resources/lyrics-spelling/無法無天-草屯囝仔",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "unresolved": 41,
+    "approximate": 9,
+    "repeat": 4
+  },
+  "review_row_count": 50,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-22:0",
+    "line-28:0",
+    "line-34:0",
+    "line-37:0",
+    "line-40:0",
+    "line-70:0",
+    "line-73:0",
+    "line-79:0",
+    "line-88:0",
+    "line-91:0",
+    "line-94:0",
+    "line-97:0",
+    "line-100:0",
+    "line-103:0",
+    "line-121:0"
+  ],
+  "unused_repeat_ids": [
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-55:0",
+    "line-58:0",
+    "line-61:0",
+    "line-67:0",
+    "line-115:0",
+    "line-124:0",
+    "line-127:0",
+    "line-133:0",
+    "line-136:0",
+    "line-139:0",
+    "line-145:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [
+    {
+      "source_rows": [
+        32,
+        33
+      ],
+      "phrase": "現馬"
+    }
+  ],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 16.78,
+      "online_text": "乌暗社会 侬心险恶",
+      "match_text": "乌暗社会 侬心险恶",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 1,
+      "time": 18.95,
+      "online_text": "路拢是金钱制造",
+      "match_text": "路拢是金钱制造",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 2,
+      "time": 20.56,
+      "online_text": "汝无资格讲话 人生反常",
+      "match_text": "汝无资格讲话 人生反常",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 22.83,
+      "online_text": "毋知会行到啥物地步",
+      "match_text": "毋知会行到啥物地步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 24.45,
+      "online_text": "恁拢 臆袂着",
+      "match_text": "恁拢 臆袂着",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 25.87,
+      "online_text": "是啥侬摕着开山 向汝面前冲",
+      "match_text": "是啥侬摕着开山 向汝面前冲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 27.79,
+      "online_text": "讲话毋通伤氅犭肖",
+      "match_text": "讲话毋通伤氅犭肖",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 29.66,
+      "online_text": "后一个着换汝倒棺材中",
+      "match_text": "后一个着换汝倒棺材中",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 31.58,
+      "online_text": "无办法表达我的心内话",
+      "match_text": "无办法表达我的心内话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 34.59,
+      "online_text": "身伫这社会 存在这问题",
+      "match_text": "身伫这社会 存在这问题",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 36.49,
+      "online_text": "啥侬喝可怜 义气拼乌白",
+      "match_text": "啥侬喝可怜 义气拼乌白",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-19:0"
+    },
+    {
+      "source_row": 11,
+      "time": 38.53,
+      "online_text": "All in否运埋土底",
+      "match_text": "All in否运埋土底",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-19:0"
+    },
+    {
+      "source_row": 12,
+      "time": 40.31,
+      "online_text": "出门拖名字 欲招会我看汝阁毋够格",
+      "match_text": "出门拖名字 欲招会我看汝阁毋够格",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 43.58,
+      "online_text": "轮仔六发六声 简单血洗予汝坠轮回",
+      "match_text": "轮仔六发六声 简单血洗予汝坠轮回",
+      "text": "輪仔六發六聲簡單血洗乎你墮輪迴",
+      "spelling": "lián-á la̍k huat la̍k siann kán-tan hueh sé hōo lí tuī lûn-huê",
+      "manual_id": "line-25:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.733333
+    },
+    {
+      "source_row": 14,
+      "time": 47.68,
+      "online_text": "共我正面冲突 铳管向汝咙喉搢",
+      "match_text": "共我正面冲突 铳管向汝咙喉搢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 51.92,
+      "online_text": "啥物江湖道义 一切拢是看钱面",
+      "match_text": "啥物江湖道义 一切拢是看钱面",
+      "text": "什麼江湖道義 一切都是看錢面",
+      "spelling": "siánn-mih kang-ôo tō-gī it-tshè lóng sī khuànn tsînn bīn",
+      "manual_id": "line-31:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.769231
+    },
+    {
+      "source_row": 16,
+      "time": 55.62,
+      "online_text": "论岁 论辈 我袂插潲汝",
+      "match_text": "论岁 论辈 我袂插潲汝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 57.67,
+      "online_text": "诈天 诈地 犹伫讨情义",
+      "match_text": "诈天 诈地 犹伫讨情义",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 59.62,
+      "online_text": "一门 一摆 注定汝生死",
+      "match_text": "一门 一摆 注定汝生死",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 61.58,
+      "online_text": "这场战争早着响起丧钟",
+      "match_text": "这场战争早着响起丧钟",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 63.69,
+      "online_text": "挺我的侬 共我出来削 （共我出来削）",
+      "match_text": "挺我的侬 共我出来削 （共我出来削）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 67.56,
+      "online_text": "铁仔摸软仔看啥侬疼 （我看啥侬疼）",
+      "match_text": "铁仔摸软仔看啥侬疼 （我看啥侬疼）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 71.49,
+      "online_text": "胜者为王 无法无天 （无法无天）",
+      "match_text": "胜者为王 无法无天 （无法无天）",
+      "text": "勝者為王 無法無天(無法無天)",
+      "spelling": "sìng tsiá uī-ông bô huat bô thinn (bô huat bô thinn)",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 75.54,
+      "online_text": "胜者为王 铳下留慈悲 （铳下留慈悲）",
+      "match_text": "胜者为王 铳下留慈悲 （铳下留慈悲）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 80.1,
+      "online_text": "挺我的侬 共我出来削 （共我出来削）",
+      "match_text": "挺我的侬 共我出来削 （共我出来削）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 83.6,
+      "online_text": "铁仔摸软仔看啥侬疼 （我看啥侬疼）",
+      "match_text": "铁仔摸软仔看啥侬疼 （我看啥侬疼）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 87.57,
+      "online_text": "胜者为王 无法无天 （无法无天）",
+      "match_text": "胜者为王 无法无天 （无法无天）",
+      "text": "勝者為王 無法無天(無法無天)",
+      "spelling": "sìng tsiá uī-ông bô huat bô thinn (bô huat bô thinn)",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 91.61,
+      "online_text": "胜者为王 铳下留慈悲 （恁爸予汝死）",
+      "match_text": "胜者为王 铳下留慈悲 （恁爸予汝死）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 95.5,
+      "online_text": "看下暗是啥侬上趒",
+      "match_text": "看下暗是啥侬上趒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 98.05,
+      "online_text": "怹捎着做伙来佚陶",
+      "match_text": "怹捎着做伙来佚陶",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 99.93,
+      "online_text": "曳我兄弟 准备予死",
+      "match_text": "曳我兄弟 准备予死",
+      "text": "帶我兄弟 準備呼死",
+      "spelling": "tuà guá hiann-tī tsún-pī hoo sí",
+      "manual_id": "line-76:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 31,
+      "time": 102.15,
+      "online_text": "是啥侬的事志 欲共阮比拼",
+      "match_text": "是啥侬的事志 欲共阮比拼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 104.24,
+      "online_text": "铁仔 木棒 全部家私 传遘拢招着",
+      "match_text": "铁仔 木棒 全部家私 传遘拢招着",
+      "text": "鐵仔 木棒 全部傢私 傳到攏招對 現馬",
+      "spelling": "thih-á bo̍k-pāng tsuân-pōo ke si thuân-kàu lóng tsiau tio̍h hiàn-bé",
+      "manual_id": "line-82:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment",
+        "phrase_crosses_source_boundary"
+      ],
+      "similarity": 0.714286
+    },
+    {
+      "source_row": 33,
+      "time": 107.65,
+      "online_text": "现马 入囝 拖板 全部闪开 一门共刁落",
+      "match_text": "现马 入囝 拖板 全部闪开 一门共刁落",
+      "text": "入子 拖板 全部散開 一門尬刁落",
+      "spelling": "li̍p tsí thua pán tsuân-pōo suànn-khui tsi̍t mn̂g kā tiau lo̍h",
+      "manual_id": "line-85:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment",
+        "phrase_crosses_source_boundary"
+      ],
+      "similarity": 0.714286
+    },
+    {
+      "source_row": 34,
+      "time": 111.63,
+      "online_text": "对方倒落 继续追击 下暗着欲削遘赢",
+      "match_text": "对方倒落 继续追击 下暗着欲削遘赢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 115.68,
+      "online_text": "全部束落 正经事志 唱赌顺紲喝输赢",
+      "match_text": "全部束落 正经事志 唱赌顺紲喝输赢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 119.58,
+      "online_text": "是啥侬咧喝（啥侬咧喝）",
+      "match_text": "是啥侬咧喝（啥侬咧喝）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 122.44,
+      "online_text": "是啥侬咧看 （啥侬咧看）",
+      "match_text": "是啥侬咧看 （啥侬咧看）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 123.76,
+      "online_text": "是啥侬咧掣 （啥侬咧掣）",
+      "match_text": "是啥侬咧掣 （啥侬咧掣）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 125.83,
+      "online_text": "是啥侬咧吊水 （啥侬咧吊水）",
+      "match_text": "是啥侬咧吊水 （啥侬咧吊水）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 127.93,
+      "online_text": "人性贪婪欲治无药通医",
+      "match_text": "人性贪婪欲治无药通医",
+      "text": "人性貪婪要治無藥通醫",
+      "spelling": "lîn-sìng tham-luân beh tī bô io̍h thàng i",
+      "manual_id": "line-106:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 41,
+      "time": 130.24,
+      "online_text": "点起箬仔麻痺全部神经",
+      "match_text": "点起箬仔麻痺全部神经",
+      "text": "點起葉子麻痺全部神經",
+      "spelling": "tiám khí hio̍h-á bâ-pì tsuân-pōo sîn-king",
+      "manual_id": "line-109:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 42,
+      "time": 132.26,
+      "online_text": "亲像蛾仔一直爬满全身",
+      "match_text": "亲像蛾仔一直爬满全身",
+      "text": "親像蛾仔一致爬滿全身",
+      "spelling": "tshin-tshiūnn ia̍h-á it tì pê buán tsuân-sin",
+      "manual_id": "line-112:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 43,
+      "time": 134.15,
+      "online_text": "这场战争早着想起丧钟",
+      "match_text": "这场战争早着想起丧钟",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 136.1,
+      "online_text": "我奸恁娘 恁目珠内拢无道义",
+      "match_text": "我奸恁娘 恁目珠内拢无道义",
+      "text": "我幹恁尼娘目珠內毫無道義",
+      "spelling": "guá kàn lin nî niâ ba̍k-tsiu lāi hô bô tō-gī",
+      "manual_id": "line-118:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 45,
+      "time": 138.9,
+      "online_text": "我奸恁娘 恁目珠内只有家己",
+      "match_text": "我奸恁娘 恁目珠内只有家己",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 144.09,
+      "online_text": "挺我的侬 共我出来削 （共我出来削）",
+      "match_text": "挺我的侬 共我出来削 （共我出来削）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 147.63,
+      "online_text": "铁仔摸软仔看啥侬疼 （我看啥侬疼）",
+      "match_text": "铁仔摸软仔看啥侬疼 （我看啥侬疼）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 48,
+      "time": 151.55,
+      "online_text": "胜者为王 无法无天 （无法无天）",
+      "match_text": "胜者为王 无法无天 （无法无天）",
+      "text": "勝者為王 無法無天(無法無天)",
+      "spelling": "sìng tsiá uī-ông bô huat bô thinn (bô huat bô thinn)",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 49,
+      "time": 155.68,
+      "online_text": "胜者为王 铳下留慈悲 （铳下留慈悲）",
+      "match_text": "胜者为王 铳下留慈悲 （铳下留慈悲）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 50,
+      "time": 160.05,
+      "online_text": "挺我的侬 共我出来削 （共我出来削）",
+      "match_text": "挺我的侬 共我出来削 （共我出来削）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 51,
+      "time": 163.68,
+      "online_text": "铁仔摸软仔看啥侬疼 （我看啥侬疼）",
+      "match_text": "铁仔摸软仔看啥侬疼 （我看啥侬疼）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 52,
+      "time": 167.54,
+      "online_text": "胜者为王 无法无天 （无法无天）",
+      "match_text": "胜者为王 无法无天 （无法无天）",
+      "text": "勝者為王 無法無天(無法無天)",
+      "spelling": "sìng tsiá uī-ông bô huat bô thinn (bô huat bô thinn)",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 53,
+      "time": 171.48,
+      "online_text": "胜者为王 铳下留慈悲 （恁爸予汝死）",
+      "match_text": "胜者为王 铳下留慈悲 （恁爸予汝死）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "ae0c6cbc9e8663ead2b0d9980d07913425e2365595b0d4b1f97aa403ce04c065",
+    "manual": "fda543d6d9f8c08755ddc1f9ff11f7ab189699ef6d0523e0bb9e7ace971b2e0b",
+    "timed": "5ac323b00cb8faf8493d3ea218e8b8d036e5b285cced9fefecf9232551ceb1fd"
+  }
+}

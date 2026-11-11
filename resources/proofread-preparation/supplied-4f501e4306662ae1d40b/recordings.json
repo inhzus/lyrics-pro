@@ -1,0 +1,71 @@
+{
+  "candidates": [
+    {
+      "song_id": 29948165,
+      "title": "阿嬤的話",
+      "artists": [
+        "蕭煌奇"
+      ],
+      "album": "跨世紀金曲精選",
+      "duration": 314.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 31210654,
+      "title": "阿嬤的話",
+      "artists": [
+        "蕭煌奇"
+      ],
+      "album": "真‧情‧歌",
+      "duration": 311.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 11039915,
+      "title": "阿嬤的話",
+      "artists": [
+        "Ricky Hsiao"
+      ],
+      "album": "黑色吉他",
+      "duration": 284.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 11748760,
+      "title": "阿嬤的話",
+      "artists": [
+        "蕭煌奇"
+      ],
+      "album": "黑色吉他",
+      "duration": 284.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 37076354,
+      "title": "阿嬤的話",
+      "artists": [
+        "Ricky Hsiao"
+      ],
+      "album": "黑色吉他",
+      "duration": 314.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 39749739,
+      "title": "阿嬤的話",
+      "artists": [
+        "蕭煌奇"
+      ],
+      "album": "2015 KKBOX 十二月份 台語單曲月榜 TOP 100",
+      "duration": 285.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 350180,
+    "title": "風尾",
+    "artists": [
+      "川秋沙"
+    ],
+    "album": "人造沙洲",
+    "duration": 323.893,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:350180",
+      "duration": 323.893,
+      "ready": false,
+      "coverage": 0.8073394495412844,
+      "exact_fraction": 0.5714285714285714,
+      "summary": {
+        "credit": 2,
+        "repeat": 4,
+        "exact": 4,
+        "approximate": 4,
+        "unresolved": 2
+      }
+    }
+  ]
+}

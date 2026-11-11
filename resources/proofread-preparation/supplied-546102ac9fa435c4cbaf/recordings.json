@@ -1,0 +1,186 @@
+{
+  "candidates": [
+    {
+      "song_id": 28793580,
+      "title": "黑鸟",
+      "artists": [
+        "the Huiting 陳惠婷"
+      ],
+      "album": "21克",
+      "duration": 285.884,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1461118891,
+      "title": "黑鸟",
+      "artists": [
+        "满江"
+      ],
+      "album": "进化论",
+      "duration": 302.266,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3385132339,
+      "title": "黑鳥",
+      "artists": [
+        "SleeppyDio",
+        "Sleeppuppy"
+      ],
+      "album": "念欲",
+      "duration": 110.909,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1907801103,
+      "title": "黑鸟",
+      "artists": [
+        "洛天依Official",
+        "乐正绫"
+      ],
+      "album": "我界 Memento",
+      "duration": 244.66,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2720122577,
+      "title": "黑鸟",
+      "artists": [
+        "唐汉霄"
+      ],
+      "album": "黑鸟",
+      "duration": 228.658,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 28793580,
+      "title": "黑鸟",
+      "artists": [
+        "the Huiting 陳惠婷"
+      ],
+      "album": "21克",
+      "duration": 285.884,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1461118891,
+      "title": "黑鸟",
+      "artists": [
+        "满江"
+      ],
+      "album": "进化论",
+      "duration": 302.266,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3385132339,
+      "title": "黑鳥",
+      "artists": [
+        "SleeppyDio",
+        "Sleeppuppy"
+      ],
+      "album": "念欲",
+      "duration": 110.909,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1907801103,
+      "title": "黑鸟",
+      "artists": [
+        "洛天依Official",
+        "乐正绫"
+      ],
+      "album": "我界 Memento",
+      "duration": 244.66,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2720122577,
+      "title": "黑鸟",
+      "artists": [
+        "唐汉霄"
+      ],
+      "album": "黑鸟",
+      "duration": 228.658,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1907801103,
+      "title": "黑鸟",
+      "artists": [
+        "洛天依Official",
+        "乐正绫"
+      ],
+      "album": "我界 Memento",
+      "duration": 244.66,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1461118891,
+      "title": "黑鸟",
+      "artists": [
+        "满江"
+      ],
+      "album": "进化论",
+      "duration": 302.266,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 28793580,
+      "title": "黑鸟",
+      "artists": [
+        "the Huiting 陳惠婷"
+      ],
+      "album": "21克",
+      "duration": 285.884,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1620827203",
+      "title": "黑鸟",
+      "artists": [
+        "陈建玮"
+      ],
+      "album": "古伦美亚",
+      "duration": 272.14,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "893705655",
+      "title": "黑鸟",
+      "artists": [
+        "the Huiting 陈惠婷"
+      ],
+      "album": "21克",
+      "duration": 285.813,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1704814743",
+      "title": "黑鸟",
+      "artists": [
+        "林陶添"
+      ],
+      "album": "繁星夜空",
+      "duration": 67.9,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

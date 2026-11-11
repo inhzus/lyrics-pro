@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": "1532278960",
+      "title": "海岛悲歌",
+      "artists": [
+        "一步乐团"
+      ],
+      "album": "刺鸟",
+      "duration": 194.013,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

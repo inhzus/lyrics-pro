@@ -1,0 +1,71 @@
+{
+  "candidates": [
+    {
+      "song_id": 2625874776,
+      "title": "甲你攬牢牢",
+      "artists": [
+        "小凤凤"
+      ],
+      "album": "小凤凤福建经典金曲, Vol. 8",
+      "duration": 284.84,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1849013033,
+      "title": "甲你揽牢牢",
+      "artists": [
+        "刘婉滢"
+      ],
+      "album": "欢喜自由飞",
+      "duration": 269.906,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2610501699,
+      "title": "甲你揽牢牢",
+      "artists": [
+        "涂愛真"
+      ],
+      "album": "情人的关怀",
+      "duration": 283.346,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 248804,
+      "title": "甲你揽牢牢",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "甲你揽牢牢",
+      "duration": 282.067,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 5234474,
+      "title": "甲你揽牢牢",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "跨世纪金曲精选",
+      "duration": 282.067,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 5235475,
+      "title": "甲你揽牢牢",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "为日本加油",
+      "duration": 282.067,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "id": "supplied-80720d5040239781e18b",
+  "revision": "1",
+  "title": "嘿! 朋友",
+  "artist": "夕陽武士",
+  "album": "日出",
+  "duration": 139.5,
+  "language": "supplied",
+  "attribution": "User-provided transcription. ",
+  "alignment": {
+    "recording_id": "netease:399366484",
+    "timing_source": "NetEase https://music.163.com/song?id=399366484",
+    "manual_source": "User-supplied resources/lyrics-spelling/嘿! 朋友-夕陽武士",
+    "audio_verified": false,
+    "strict_complete": true,
+    "ambiguous_sequence_alignment": false,
+    "summary": {
+      "credit": 1,
+      "exact": 10,
+      "gap": 1
+    },
+    "review_row_count": 0,
+    "unmatched_manual_ids": [],
+    "unused_repeat_ids": [],
+    "duplicate_timestamp_values": [],
+    "boundary_warnings": [],
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作词 : 黄圣峰 / 作曲 : 王立 / 制作人 : 夕阳武士 / 编曲人 : 夕阳武士 / 录音工程师 : 陈莹哲 / 混音工程师 : 陈莹哲",
+        "match_text": "作词 : 黄圣峰 / 作曲 : 王立 / 制作人 : 夕阳武士 / 编曲人 : 夕阳武士 / 录音工程师 : 陈莹哲 / 混音工程师 : 陈莹哲",
+        "text": "作词 : 黄圣峰 / 作曲 : 王立 / 制作人 : 夕阳武士 / 编曲人 : 夕阳武士 / 录音工程师 : 陈莹哲 / 混音工程师 : 陈莹哲",
+        "spelling": "",
+        "manual_id": null,
+        "status": "credit",
+        "review": []
+      },
+      {
+        "source_row": 1,
+        "time": 36.88,
+        "online_text": "嘿 我的好朋友为啥物会目屎流",
+        "match_text": "嘿 我的好朋友为啥物会目屎流",
+        "text": "嘿 我的好朋友為啥物會目屎流",
+        "spelling": "heh guá ê hó-pîng-iú uī-siánn-mi̍h ē ba̍k-sái lâu",
+        "manual_id": "line-1:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 2,
+        "time": 43.39,
+        "online_text": "是啥物代志 乎你艰苦",
+        "match_text": "是啥物代志 乎你艰苦",
+        "text": "是啥物代誌 乎你艱苦",
+        "spelling": "sī siánn-mi̍h tāi-tsì hô lí kan-khóo",
+        "manual_id": "line-4:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 3,
+        "time": 50.45,
+        "online_text": "嘿 我的好朋友为得啥遮尔满足",
+        "match_text": "嘿 我的好朋友为得啥遮尔满足",
+        "text": "嘿 我的好朋友為得啥遮爾滿足",
+        "spelling": "heh guá ê hó-pîng-iú uī-tio̍h siánn tsiah-nī buán-tsiok",
+        "manual_id": "line-7:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 4,
+        "time": 57.21,
+        "online_text": "是啥物原因 乎你快乐",
+        "match_text": "是啥物原因 乎你快乐",
+        "text": "是啥物原因 乎你快樂",
+        "spelling": "sī siánn-mi̍h guân-in hô lí khuài-lo̍k",
+        "manual_id": "line-10:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 5,
+        "time": 64.17,
+        "online_text": "将你的伤心 囥伫昨日 好好迎接 新的快乐",
+        "match_text": "将你的伤心 囥伫昨日 好好迎接 新的快乐",
+        "text": "將你的傷心 囥佇昨日 好好迎接 新的快樂",
+        "spelling": "tsiòng lí ê siong-sim khǹg tī tso̍h-li̍t hó hó gîng-tsiap sin ê khuài-lo̍k",
+        "manual_id": "line-13:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 6,
+        "time": 70.93,
+        "online_text": "不用烦恼 我会陪你 啉酒到透早",
+        "match_text": "不用烦恼 我会陪你 啉酒到透早",
+        "text": "不用煩惱 我會陪你 啉酒到透早",
+        "spelling": "m̄-bián huân-ló guá ē puê lí lim tsiú kàu thàu-tsá",
+        "manual_id": "line-16:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 7,
+        "time": 78.13,
+        "online_text": "悲伤的心 总是难免 这款滋味 总是会过",
+        "match_text": "悲伤的心 总是难免 这款滋味 总是会过",
+        "text": "悲傷的心 總是難免 這款滋味 總是會過",
+        "spelling": "pi-siong ê sim tsóng-sī lân-bián tsit-khuán tsu-bī tsóng-sī ē kuè",
+        "manual_id": "line-19:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 8,
+        "time": 85.71,
+        "online_text": "若是不爽 欢迎找我",
+        "match_text": "若是不爽 欢迎找我",
+        "text": "若是不爽 歡迎找我",
+        "spelling": "nā-sī buē sóng huan-gîng tshuē guá",
+        "manual_id": "line-22:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 9,
+        "time": 92.67,
+        "online_text": "若是孤单 欢迎找我",
+        "match_text": "若是孤单 欢迎找我",
+        "text": "若是孤單 歡迎找我",
+        "spelling": "nā-sī koo-tuann huan-gîng tshuē guá",
+        "manual_id": "line-25:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 10,
+        "time": 99.68,
+        "online_text": "若是艰苦 欢迎找我",
+        "match_text": "若是艰苦 欢迎找我",
+        "text": "若是艱苦 歡迎找我",
+        "spelling": "nā-sī kan-khóo huan-gîng tshuē guá",
+        "manual_id": "line-28:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 11,
+        "time": 104.1,
+        "online_text": "",
+        "match_text": "",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "status": "gap",
+        "review": []
+      }
+    ],
+    "input_sha256": {
+      "original_source": "05a65935b3684546c4ff6250181987e20a53679352a1ee365a32328826c0cf00",
+      "manual": "b2605eb8defa1158483886d968c15e97382ff6770f16ba6e9e098e5dc7c699c5",
+      "timed": "c955d01c99c767695d6d2bd3f03dfc0ab658461c97f7fcc931c14c4d854ba386"
+    }
+  }
+}

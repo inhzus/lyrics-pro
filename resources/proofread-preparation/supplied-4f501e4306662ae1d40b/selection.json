@@ -1,0 +1,54 @@
+{
+  "selected": {
+    "song_id": 11748760,
+    "title": "阿嬤的話",
+    "artists": [
+      "蕭煌奇"
+    ],
+    "album": "黑色吉他",
+    "duration": 284.0,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "lrclib:11748760",
+      "duration": 284.0,
+      "ready": false,
+      "coverage": 0.5555555555555556,
+      "exact_fraction": 0.5555555555555556,
+      "summary": {
+        "exact": 10,
+        "unresolved": 16,
+        "repeat": 10,
+        "gap": 2
+      }
+    },
+    {
+      "recording_id": "lrclib:29948165",
+      "duration": 314.0,
+      "ready": false,
+      "coverage": 0.5555555555555556,
+      "exact_fraction": 0.5555555555555556,
+      "summary": {
+        "exact": 10,
+        "unresolved": 16,
+        "repeat": 10,
+        "gap": 2
+      }
+    },
+    {
+      "recording_id": "lrclib:31210654",
+      "duration": 311.0,
+      "ready": false,
+      "coverage": 0.5555555555555556,
+      "exact_fraction": 0.5555555555555556,
+      "summary": {
+        "exact": 10,
+        "unresolved": 16,
+        "repeat": 10,
+        "gap": 2
+      }
+    }
+  ]
+}

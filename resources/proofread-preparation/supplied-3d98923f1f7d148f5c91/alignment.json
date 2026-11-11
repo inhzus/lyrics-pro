@@ -1,0 +1,388 @@
+{
+  "recording_id": "lrcapi:1001038634",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E5%8F%B0%E5%8C%97%E5%8F%B0%E5%8C%97&artist=%E8%AC%9D%E5%92%8C%E5%BC%A6&album=%E4%B8%8D%E9%9C%80%E8%A6%81%E8%A3%85%E4%B9%96#1001038634",
+  "manual_source": "User-supplied resources/lyrics-spelling/台北台北-謝和弦",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "unresolved": 17,
+    "exact": 1,
+    "repeat": 8,
+    "approximate": 1
+  },
+  "review_row_count": 18,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-7:0",
+    "line-13:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-31:0",
+    "line-37:0",
+    "line-40:0",
+    "line-46:0",
+    "line-52:0",
+    "line-58:0",
+    "line-61:0",
+    "line-64:0",
+    "line-70:0",
+    "line-76:0",
+    "line-79:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 24.0,
+      "online_text": "還記得那當準 聽到林強的向前走",
+      "match_text": "還記得那當準 聽到林強的向前走",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 28.68,
+      "online_text": "阮來到台北車站",
+      "match_text": "阮來到台北車站",
+      "text": "阮來到台北車站",
+      "spelling": "gún lâi kàu Tâi-pak tshia-tsām",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 32.834,
+      "online_text": "聽人講啥咪好康的攏底這 甘有真正 甘有影",
+      "match_text": "聽人講啥咪好康的攏底這 甘有真正 甘有影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 43.288,
+      "online_text": "在台北整牙當 對狼在摸弄拉",
+      "match_text": "在台北整牙當 對狼在摸弄拉",
+      "text": "在台北整牙當 對狼在摸弄拉",
+      "spelling": "tī Tâi-pak kui â tang tuì lâng teh boo lōng là",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 47.671,
+      "online_text": "回去故鄉 阿爸甲阮講 猴嗯這安呢",
+      "match_text": "回去故鄉 阿爸甲阮講 猴嗯這安呢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 53.307,
+      "online_text": "伊講 林北太久沒甲你教訓 你不知林北鞋子穿幾號",
+      "match_text": "伊講 林北太久沒甲你教訓 你不知林北鞋子穿幾號",
+      "text": "伊講 林北太久沒甲你教訓 你不知林北鞋子穿幾號",
+      "spelling": "i kóng lîm pē siunn kú bô kā lí kà-sī lí m̄-tsai lîm pē ê-á tshīng kuí hō",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 62.58,
+      "online_text": "台北 台北 你甘有聽到 阮鄉下囝仔的心聲",
+      "match_text": "台北 台北 你甘有聽到 阮鄉下囝仔的心聲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 72.049,
+      "online_text": "台北 台北 台北 台北 阮毋驚吃苦 也認真打拼",
+      "match_text": "台北 台北 台北 台北 阮毋驚吃苦 也認真打拼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 81.759,
+      "online_text": "台北 台北 你甘有聽到 阮鄉下囝仔的心聲",
+      "match_text": "台北 台北 你甘有聽到 阮鄉下囝仔的心聲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 90.422,
+      "online_text": "阮為著啥 是為著啥",
+      "match_text": "阮為著啥 是為著啥",
+      "text": "阮為著啥 是為著啥",
+      "spelling": "gún uī-tio̍h siánn sī uī-tio̍h siánn",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 95.241,
+      "online_text": "是為著厝內有等阮回去的爸爸媽媽",
+      "match_text": "是為著厝內有等阮回去的爸爸媽媽",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 104.284,
+      "online_text": "擱有阿公阿嬤 老朋友老親戚",
+      "match_text": "擱有阿公阿嬤 老朋友老親戚",
+      "text": "擱有阿公阿嬤 老朋友老親戚",
+      "spelling": "koh ū a-kong a-má láu pîng-iú láu tshin-tshik",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 114.309,
+      "online_text": "請恁就耐心等待 阮成功的那一天",
+      "match_text": "請恁就耐心等待 阮成功的那一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 139.213,
+      "online_text": "還記得那當準 聽到林強的向前走",
+      "match_text": "還記得那當準 聽到林強的向前走",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 144.062,
+      "online_text": "阮來到台北的台北車站",
+      "match_text": "阮來到台北的台北車站",
+      "text": "阮來到台北ㄟ台北車站",
+      "spelling": "gún lâi kàu Tâi-pak ê Tâi-pak tshia-tsām",
+      "manual_id": "line-43:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 15,
+      "time": 148.007,
+      "online_text": "聽人講啥咪好康的攏底這 甘有真正 甘有影",
+      "match_text": "聽人講啥咪好康的攏底這 甘有真正 甘有影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 158.373,
+      "online_text": "在台北整牙當 對狼在摸弄拉",
+      "match_text": "在台北整牙當 對狼在摸弄拉",
+      "text": "在台北整牙當 對狼在摸弄拉",
+      "spelling": "tī Tâi-pak kui â tang tuì lâng teh boo lōng là",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 162.919,
+      "online_text": "回去故鄉 阿爸甲阮講 猴嗯這安呢",
+      "match_text": "回去故鄉 阿爸甲阮講 猴嗯這安呢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 167.751,
+      "online_text": "伊講 林北太久沒甲你教訓 你不知林北鞋子穿幾號",
+      "match_text": "伊講 林北太久沒甲你教訓 你不知林北鞋子穿幾號",
+      "text": "伊講 林北太久沒甲你教訓 你不知林北鞋子穿幾號",
+      "spelling": "i kóng lîm pē siunn kú bô kā lí kà-sī lí m̄-tsai lîm pē ê-á tshīng kuí hō",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 177.819,
+      "online_text": "台北 台北 你甘有聽到 阮鄉下囝仔的心聲",
+      "match_text": "台北 台北 你甘有聽到 阮鄉下囝仔的心聲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 187.275,
+      "online_text": "台北 台北 台北 台北 阮毋驚吃苦 也認真打拼",
+      "match_text": "台北 台北 台北 台北 阮毋驚吃苦 也認真打拼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 196.967,
+      "online_text": "台北 台北 你甘有聽到 阮鄉下囝仔的心聲",
+      "match_text": "台北 台北 你甘有聽到 阮鄉下囝仔的心聲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 205.779,
+      "online_text": "阮為著啥 是為著啥",
+      "match_text": "阮為著啥 是為著啥",
+      "text": "阮為著啥 是為著啥",
+      "spelling": "gún uī-tio̍h siánn sī uī-tio̍h siánn",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 210.436,
+      "online_text": "是為著厝內有等阮回去的爸爸媽媽",
+      "match_text": "是為著厝內有等阮回去的爸爸媽媽",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 219.448,
+      "online_text": "擱有阿公阿嬤 老朋友老親戚",
+      "match_text": "擱有阿公阿嬤 老朋友老親戚",
+      "text": "擱有阿公阿嬤 老朋友老親戚",
+      "spelling": "koh ū a-kong a-má láu pîng-iú láu tshin-tshik",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 229.578,
+      "online_text": "請恁就耐心等待 阮成功的那一天",
+      "match_text": "請恁就耐心等待 阮成功的那一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 248.857,
+      "online_text": "請恁就耐心等待 阮成功的那一天",
+      "match_text": "請恁就耐心等待 阮成功的那一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "5b711cba0092ef35dbe9428d4bce4c5534df6c238e96a904dc190e61cfe80294",
+    "manual": "4ad54b0a8c15f886b221def7eeb696af9b2db387ea97934b97945be10f3ff3db",
+    "timed": "388e88eb8d0a891ebfa58d7c6b957282478be1faab232e8d16f95439b0f2a41d"
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "recording_id": "netease:248804",
+  "timing_source": "NetEase https://music.163.com/song?id=248804",
+  "manual_source": "User-supplied resources/lyrics-spelling/甲你攬牢牢-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "unresolved": 33
+  },
+  "review_row_count": 33,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-10:0",
+    "line-28:0",
+    "line-43:0"
+  ],
+  "unused_repeat_ids": [
+    "line-7:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-40:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 江蕙",
+      "match_text": "作词 : 江蕙",
+      "text": "作词 : 江蕙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 江蕙",
+      "match_text": "作曲 : 江蕙",
+      "text": "作曲 : 江蕙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 39.69,
+      "online_text": "我欲共汝揽牢牢",
+      "match_text": "我欲共汝揽牢牢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 3,
+      "time": 45.26,
+      "online_text": "因为惊汝半暝啊 爬起来哭",
+      "match_text": "因为惊汝半暝啊 爬起来哭",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 4,
+      "time": 52.44,
+      "online_text": "共汝揽咧心肝头",
+      "match_text": "共汝揽咧心肝头",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 58.29,
+      "online_text": "予汝对人生袂佫茫渺渺",
+      "match_text": "予汝对人生袂佫茫渺渺",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 65.5,
+      "online_text": "我欲共汝揽牢牢",
+      "match_text": "我欲共汝揽牢牢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 70.99,
+      "online_text": "毋免惊惊 惊见笑",
+      "match_text": "毋免惊惊 惊见笑",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 78.04,
+      "online_text": "世事予侬 想袂晓",
+      "match_text": "世事予侬 想袂晓",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 9,
+      "time": 83.9,
+      "online_text": "需要一个肩胛头",
+      "match_text": "需要一个肩胛头",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 10,
+      "time": 91.15,
+      "online_text": "我欲共汝揽牢牢",
+      "match_text": "我欲共汝揽牢牢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 96.64,
+      "online_text": "予我陪汝唱共调",
+      "match_text": "予我陪汝唱共调",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 103.24,
+      "online_text": "分担汝的忧 汝的愁佮汝的哭",
+      "match_text": "分担汝的忧 汝的愁佮汝的哭",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 110.24,
+      "online_text": "哭完心事着无了了",
+      "match_text": "哭完心事着无了了",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 116.62,
+      "online_text": "我欲共汝揽牢牢",
+      "match_text": "我欲共汝揽牢牢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 122.1,
+      "online_text": "予汝袂惊袂佫吼",
+      "match_text": "予汝袂惊袂佫吼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 128.76,
+      "online_text": "往事放予空",
+      "match_text": "往事放予空",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 131.64,
+      "online_text": "人生啊 则有望",
+      "match_text": "人生啊 则有望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 135.66,
+      "online_text": "予我陪汝渡难关",
+      "match_text": "予我陪汝渡难关",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 168.07,
+      "online_text": "我欲共汝揽牢牢",
+      "match_text": "我欲共汝揽牢牢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 173.72,
+      "online_text": "毋免惊惊 惊见笑",
+      "match_text": "毋免惊惊 惊见笑",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 180.52,
+      "online_text": "世事予侬 想袂晓",
+      "match_text": "世事予侬 想袂晓",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 186.06,
+      "online_text": "汝需要一个肩胛头",
+      "match_text": "汝需要一个肩胛头",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 193.51,
+      "online_text": "我欲共汝揽牢牢",
+      "match_text": "我欲共汝揽牢牢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 198.73,
+      "online_text": "予我陪汝唱共调",
+      "match_text": "予我陪汝唱共调",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 205.29,
+      "online_text": "分担汝的忧 汝的愁佮汝的哭",
+      "match_text": "分担汝的忧 汝的愁佮汝的哭",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 212.73,
+      "online_text": "哭完心事着无了了",
+      "match_text": "哭完心事着无了了",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 218.88,
+      "online_text": "我欲共汝揽牢牢",
+      "match_text": "我欲共汝揽牢牢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 224.53,
+      "online_text": "予汝袂惊袂佫吼",
+      "match_text": "予汝袂惊袂佫吼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 231.01,
+      "online_text": "往事放予空",
+      "match_text": "往事放予空",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 234.18,
+      "online_text": "人生啊 则有望",
+      "match_text": "人生啊 则有望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 238.13,
+      "online_text": "予我陪汝渡难关",
+      "match_text": "予我陪汝渡难关",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 243.65,
+      "online_text": "往事放予空",
+      "match_text": "往事放予空",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 246.82,
+      "online_text": "人生啊 则有望",
+      "match_text": "人生啊 则有望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 252.59,
+      "online_text": "予我共汝揽恒恒",
+      "match_text": "予我共汝揽恒恒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "d1f073af611922e68c7361d8c8e6d0cecb7cded54714186a91963dca8e31b575",
+    "manual": "1d7c89a1f5d0c5ec5ff0960783ad3c40861751a6d0bda95e429b89f838e23dc9",
+    "timed": "5d763b1da6cff992aa803f5856bef2a3e186276f05da3de1db6f97fa1a57e465"
+  }
+}

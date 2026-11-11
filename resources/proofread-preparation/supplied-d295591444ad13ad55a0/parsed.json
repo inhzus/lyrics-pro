@@ -1,0 +1,235 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "叫著我 叫著我",
+      "spelling": "kiò tio̍h guá kiò tio̍h guá",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "黃昏的故鄉不時地叫我",
+      "spelling": "hông-hun ê kòo-hiong put-sî tē kiò guá",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "叫我這個苦命的身軀",
+      "spelling": "kiò guá tsit-ê khóo-miā ê sin-khu",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "流浪的人無厝的渡鳥",
+      "spelling": "liû-lōng ê lâng bô tshù ê tōo-tsiáu",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "孤單若來到異鄉",
+      "spelling": "koo-tuann ná lâi kàu ī-hiong",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "不時也會念家鄉",
+      "spelling": "put-sî iā ē liām kòo-hiong",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "今日又是會聽見著喔～",
+      "spelling": "kim ji̍t iū sī ē thiann-kìnn tio̍h ooh～",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "親像塊叫我的",
+      "spelling": "tshin-tshiūnn tè kiò guá ê",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "叫著我 叫著我",
+      "spelling": "kiò tio̍h guá kiò tio̍h guá",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "黃昏的故鄉不時地叫我",
+      "spelling": "hông-hun ê kòo-hiong put-sî tē kiò guá",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "懷念彼時故鄉的形影",
+      "spelling": "huâi-liām hit sî kòo-hiong ê hîng-iánn",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "月光不時照落的山河",
+      "spelling": "ge̍h-kng put-sî tsiò lo̍h ê suann-hô",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "彼邊山 彼條溪水",
+      "spelling": "hit pîng suann  hit tiâu khue-tsuí",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "永遠抱著咱的夢",
+      "spelling": "íng-uán phō tio̍h lán ê bāng",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "今夜又是來夢著伊喔～",
+      "spelling": "kim-iā iū sī lâi bāng tio̍h i ooh～",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "親像塊等我的",
+      "spelling": "tshin-tshiūnn tè tán guá ê",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "叫著我 叫著我",
+      "spelling": "kiò tio̍h guá kiò tio̍h guá",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "黃昏的故鄉不時地叫我",
+      "spelling": "hông-hun ê kòo-hiong put-sî tē kiò guá",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "含著悲哀也有帶目屎",
+      "spelling": "hâm tio̍h pi-ai iā ū tài ba̍k-sái",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "盼我倒去的聲叫無停",
+      "spelling": "ǹg guá tńg-khì ê siann kiò bô-thîng",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "白雲啊～你若要去",
+      "spelling": "pe̍h-hûn ah～lí ná beh khì",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "請你帶著我心情",
+      "spelling": "tshiánn lí tuà tio̍h guá sim-tsîng",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "送去乎伊我的阿母喔～",
+      "spelling": "sàng-khì honnh i guá ê a-bú ooh～",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "不時在叫我的",
+      "spelling": "put sî beh kiò guá ê",
+      "source_lines": [
+        72,
+        73
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：文夏    作曲：董事長樂團  & 文夏  客語拼音：關德樂"
+    }
+  ],
+  "notes": [
+    {
+      "line": 75,
+      "text": "Note:  Since this live version isn’t quite as crisp as the actual album version, I’ve included a separate version of the song below for your listening pleasure."
+    }
+  ],
+  "reasons": [
+    "source_note_requires_review:75"
+  ]
+}

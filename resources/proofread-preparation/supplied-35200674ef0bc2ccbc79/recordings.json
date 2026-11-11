@@ -1,0 +1,650 @@
+{
+  "candidates": [
+    {
+      "song_id": 3437948528,
+      "title": "小人物",
+      "artists": [
+        "辉子"
+      ],
+      "album": "雾中人",
+      "duration": 222.089,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1410021043,
+      "title": "小人物",
+      "artists": [
+        "赵雷"
+      ],
+      "album": "小人物",
+      "duration": 252.074,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1452441327,
+      "title": "小人物",
+      "artists": [
+        "幼稚园杀手",
+        "幸存者联盟"
+      ],
+      "album": "适者生存",
+      "duration": 234.826,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3360920633,
+      "title": "小人物",
+      "artists": [
+        "讲者"
+      ],
+      "album": "都市洪流",
+      "duration": 212.722,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1333345612,
+      "title": "小人物",
+      "artists": [
+        "艾热 AIR"
+      ],
+      "album": "AIR·艾热",
+      "duration": 218.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 440411566,
+      "title": "小人物",
+      "artists": [
+        "金玟岐"
+      ],
+      "album": "完美世界",
+      "duration": 249.075,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1937143761,
+      "title": "小人物",
+      "artists": [
+        "西西弗Sisyphe"
+      ],
+      "album": "事情就是这样",
+      "duration": 314.4,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31273782,
+      "title": "小人物",
+      "artists": [
+        "陈慧敏"
+      ],
+      "album": "小人物",
+      "duration": 236.291,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30967791,
+      "title": "小人物",
+      "artists": [
+        "金玟岐"
+      ],
+      "album": "小人物",
+      "duration": 253.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1978446947,
+      "title": "小人物",
+      "artists": [
+        "UncleP"
+      ],
+      "album": "小人物",
+      "duration": 175.821,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2108201130,
+      "title": "小人物",
+      "artists": [
+        "Dj狗峰Remix",
+        "DJ小谭",
+        "油壶"
+      ],
+      "album": "经典",
+      "duration": 128.236,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2106413779,
+      "title": "小人物",
+      "artists": [
+        "Spy4"
+      ],
+      "album": "小人物",
+      "duration": 145.563,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3459607604,
+      "title": "小人物",
+      "artists": [
+        "用户6270900391"
+      ],
+      "album": "小人物",
+      "duration": 179.613,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1345950710,
+      "title": "小人物",
+      "artists": [
+        "何苦苦"
+      ],
+      "album": "如果快乐太难，那我祝你平安。",
+      "duration": 261.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3437948528,
+      "title": "小人物",
+      "artists": [
+        "辉子"
+      ],
+      "album": "雾中人",
+      "duration": 222.089,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1410021043,
+      "title": "小人物",
+      "artists": [
+        "赵雷"
+      ],
+      "album": "小人物",
+      "duration": 252.074,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1452441327,
+      "title": "小人物",
+      "artists": [
+        "幼稚园杀手",
+        "幸存者联盟"
+      ],
+      "album": "适者生存",
+      "duration": 234.826,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3360920633,
+      "title": "小人物",
+      "artists": [
+        "讲者"
+      ],
+      "album": "都市洪流",
+      "duration": 212.722,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1333345612,
+      "title": "小人物",
+      "artists": [
+        "艾热 AIR"
+      ],
+      "album": "AIR·艾热",
+      "duration": 218.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 440411566,
+      "title": "小人物",
+      "artists": [
+        "金玟岐"
+      ],
+      "album": "完美世界",
+      "duration": 249.075,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1937143761,
+      "title": "小人物",
+      "artists": [
+        "西西弗Sisyphe"
+      ],
+      "album": "事情就是这样",
+      "duration": 314.4,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31273782,
+      "title": "小人物",
+      "artists": [
+        "陈慧敏"
+      ],
+      "album": "小人物",
+      "duration": 236.291,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30967791,
+      "title": "小人物",
+      "artists": [
+        "金玟岐"
+      ],
+      "album": "小人物",
+      "duration": 253.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1978446947,
+      "title": "小人物",
+      "artists": [
+        "UncleP"
+      ],
+      "album": "小人物",
+      "duration": 175.821,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2108201130,
+      "title": "小人物",
+      "artists": [
+        "Dj狗峰Remix",
+        "DJ小谭",
+        "油壶"
+      ],
+      "album": "经典",
+      "duration": 128.236,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2106413779,
+      "title": "小人物",
+      "artists": [
+        "Spy4"
+      ],
+      "album": "小人物",
+      "duration": 145.563,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3459607604,
+      "title": "小人物",
+      "artists": [
+        "用户6270900391"
+      ],
+      "album": "小人物",
+      "duration": 179.613,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1345950710,
+      "title": "小人物",
+      "artists": [
+        "何苦苦"
+      ],
+      "album": "如果快乐太难，那我祝你平安。",
+      "duration": 261.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3437948528,
+      "title": "小人物",
+      "artists": [
+        "辉子"
+      ],
+      "album": "雾中人",
+      "duration": 222.089,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1410021043,
+      "title": "小人物",
+      "artists": [
+        "赵雷"
+      ],
+      "album": "小人物",
+      "duration": 252.074,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1452441327,
+      "title": "小人物",
+      "artists": [
+        "幼稚园杀手",
+        "幸存者联盟"
+      ],
+      "album": "适者生存",
+      "duration": 234.826,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31273782,
+      "title": "小人物",
+      "artists": [
+        "陈慧敏"
+      ],
+      "album": "小人物",
+      "duration": 236.291,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3360920633,
+      "title": "小人物",
+      "artists": [
+        "讲者"
+      ],
+      "album": "都市洪流",
+      "duration": 212.722,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1937143761,
+      "title": "小人物",
+      "artists": [
+        "西西弗Sisyphe"
+      ],
+      "album": "事情就是这样",
+      "duration": 314.4,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3352948780,
+      "title": "小人物",
+      "artists": [
+        "扎华尔"
+      ],
+      "album": "怒吼",
+      "duration": 206.13,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1333345612,
+      "title": "小人物",
+      "artists": [
+        "艾热 AIR"
+      ],
+      "album": "AIR·艾热",
+      "duration": 218.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 440411566,
+      "title": "小人物",
+      "artists": [
+        "金玟岐"
+      ],
+      "album": "完美世界",
+      "duration": 249.075,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2106413779,
+      "title": "小人物",
+      "artists": [
+        "Spy4"
+      ],
+      "album": "小人物",
+      "duration": 145.563,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1978446947,
+      "title": "小人物",
+      "artists": [
+        "UncleP"
+      ],
+      "album": "小人物",
+      "duration": 175.821,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1202154072",
+      "title": "小人物",
+      "artists": [
+        "台客电力公司"
+      ],
+      "album": "台客电力公司",
+      "duration": 226.368,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1759514478",
+      "title": "小人物",
+      "artists": [
+        "邓力源"
+      ],
+      "album": "生命中的光",
+      "duration": 205.794,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1541167344",
+      "title": "小人物",
+      "artists": [
+        "侯安晓"
+      ],
+      "album": "小人物 - Single",
+      "duration": 158.036,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1710823701",
+      "title": "小人物",
+      "artists": [
+        "百页与好心人"
+      ],
+      "album": "那晚做了几个梦",
+      "duration": 173.712,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1591108228",
+      "title": "小人物",
+      "artists": [
+        "李小沐"
+      ],
+      "album": "小人物 - Single",
+      "duration": 250.948,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1493252988",
+      "title": "小人物",
+      "artists": [
+        "Lam1Hey"
+      ],
+      "album": "小人物 (《林日曦细声讲悲但真》原声碟) - EP",
+      "duration": 251.126,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1720166142",
+      "title": "小人物",
+      "artists": [
+        "消灾咒Liberspell"
+      ],
+      "album": "没有敌人",
+      "duration": 234.024,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1633368123",
+      "title": "小人物",
+      "artists": [
+        "From12X"
+      ],
+      "album": "From12X",
+      "duration": 192.887,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1592081829",
+      "title": "小人物",
+      "artists": [
+        "Ian"
+      ],
+      "album": "小人物 - Single",
+      "duration": 207.243,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1185044951",
+      "title": "小人物",
+      "artists": [
+        "目思者"
+      ],
+      "album": "小人物",
+      "duration": 319.304,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18065512,
+      "title": "小人物",
+      "artists": [
+        "艾热"
+      ],
+      "album": "AIR·艾热",
+      "duration": 218.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16386081,
+      "title": "小人物",
+      "artists": [
+        "赵雷"
+      ],
+      "album": "小人物",
+      "duration": 252.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16843746,
+      "title": "小人物",
+      "artists": [
+        "艾热"
+      ],
+      "album": "中国新说唱 第9期",
+      "duration": 216.006531,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 14826993,
+      "title": "小人物",
+      "artists": [
+        "艾熱AIR"
+      ],
+      "album": "Air·艾熱",
+      "duration": 218.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 13782491,
+      "title": "小人物",
+      "artists": [
+        "金玟岐"
+      ],
+      "album": "完美世界",
+      "duration": 249.066667,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 13749684,
+      "title": "小人物",
+      "artists": [
+        "趙雷"
+      ],
+      "album": "小人物",
+      "duration": 252.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 36935325,
+      "title": "小人物",
+      "artists": [
+        "lei zhao"
+      ],
+      "album": "小人物 - single",
+      "duration": 252.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 35729249,
+      "title": "小人物",
+      "artists": [
+        "赵雷"
+      ],
+      "album": "小人物 - Single",
+      "duration": 252.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 27075622,
+      "title": "小人物",
+      "artists": [
+        "赵雷"
+      ],
+      "album": "小人物",
+      "duration": 328.4636729,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

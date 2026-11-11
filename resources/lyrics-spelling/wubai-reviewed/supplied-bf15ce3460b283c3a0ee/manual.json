@@ -1,0 +1,258 @@
+{
+  "recording_id": "netease:452614918",
+  "source": "User-supplied resources/lyrics-spelling/15 － 何時再見夢中人-伍佰",
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "渺然的                青春時                       曾經放浪的秋天",
+      "spelling": "biáu liân ê        tshing-tshun sî        tsan kinn hòng íng ê tshiu-thinn",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "渺然的",
+          "spelling": "biáu liân ê"
+        },
+        {
+          "text": "青春時",
+          "spelling": "tshing-tshun sî"
+        },
+        {
+          "text": "曾經放浪的秋天",
+          "spelling": "tsan kinn hòng íng ê tshiu-thinn"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "黯然的             野花時            懷念綻紅的胭脂",
+      "spelling": "àm liân ê        iá-hue sî        huâi-liām zhàn hóng ê ian-tsi",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "黯然的",
+          "spelling": "àm liân ê"
+        },
+        {
+          "text": "野花時",
+          "spelling": "iá-hue sî"
+        },
+        {
+          "text": "懷念綻紅的胭脂",
+          "spelling": "huâi-liām zhàn hóng ê ian-tsi"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "疲累啊              愛人啊            走找心愛已經十年",
+      "spelling": "phî luī ah        ài lîn ah        tsáu tshuē sim-ài í-king tsa̍p nî",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "疲累啊",
+          "spelling": "phî luī ah"
+        },
+        {
+          "text": "愛人啊",
+          "spelling": "ài lîn ah"
+        },
+        {
+          "text": "走找心愛已經十年",
+          "spelling": "tsáu tshuē sim-ài í-king tsa̍p nî"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "妳在海角亦是天邊                                  咁知我深深思念妳",
+      "spelling": "lí tī hái-kak ia̍h sī thinn-pinn            kam tsai guá tshim tshim su-liām lí",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "妳在海角亦是天邊",
+          "spelling": "lí tī hái-kak ia̍h sī thinn-pinn"
+        },
+        {
+          "text": "咁知我深深思念妳",
+          "spelling": "kam tsai guá tshim tshim su-liām lí"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "因為妳是我生命的勇氣",
+      "spelling": "in-uī lí sī guá sing miā ê ióng-khì",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "因為妳是我生命的勇氣",
+          "spelling": "in-uī lí sī guá sing miā ê ióng-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "吹熄吧                 火已虛               等待早時少寒意",
+      "spelling": "tshue sit pa        hué í hi            tán-thāi tsá-sî siàu hân ì",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "吹熄吧",
+          "spelling": "tshue sit pa"
+        },
+        {
+          "text": "火已虛",
+          "spelling": "hué í hi"
+        },
+        {
+          "text": "等待早時少寒意",
+          "spelling": "tán-thāi tsá-sî siàu hân ì"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "飄飄然                       黃昏時                  駿馬已經骨如枝",
+      "spelling": "phiau phiau liân    hông-hun sî        jùnmǎ í-king kut jû ki",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "飄飄然",
+          "spelling": "phiau phiau liân"
+        },
+        {
+          "text": "黃昏時",
+          "spelling": "hông-hun sî"
+        },
+        {
+          "text": "駿馬已經骨如枝",
+          "spelling": "jùnmǎ í-king kut jû ki"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "猖狂的                       淚滿墘                     茫茫前路佗位去",
+      "spelling": "tshiang-kông ê        luī buán kînn        bông bông tsiân lōo tó-uī khì",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "猖狂的",
+          "spelling": "tshiang-kông ê"
+        },
+        {
+          "text": "淚滿墘",
+          "spelling": "luī buán kînn"
+        },
+        {
+          "text": "茫茫前路佗位去",
+          "spelling": "bông bông tsiân lōo tó-uī khì"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "恨自已              失意志            才來乎妳來離開",
+      "spelling": "hūn ka-kī        sit ì-tsì            tsiah lâi honnh lí lâi lî-khui",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "恨自已",
+          "spelling": "hūn ka-kī"
+        },
+        {
+          "text": "失意志",
+          "spelling": "sit ì-tsì"
+        },
+        {
+          "text": "才來乎妳來離開",
+          "spelling": "tsiah lâi honnh lí lâi lî-khui"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "妳在海角亦是天邊                                  咁知我深深思念妳",
+      "spelling": "lí tī hái-kak ia̍h sī thinn-pinn            kam tsai guá tshim tshim su-liām lí",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "妳在海角亦是天邊",
+          "spelling": "lí tī hái-kak ia̍h sī thinn-pinn"
+        },
+        {
+          "text": "咁知我深深思念妳",
+          "spelling": "kam tsai guá tshim tshim su-liām lí"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "因為妳是我生命的勇氣",
+      "spelling": "in-uī lí sī guá sing miā ê ióng-khì",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "因為妳是我生命的勇氣",
+          "spelling": "in-uī lí sī guá sing miā ê ióng-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "美麗的            夢中人                      何時再見我的伊",
+      "spelling": "bí-lē ê            bāng-tiong jîn        hô-sî tsài-kìnn guá ê i",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "美麗的",
+          "spelling": "bí-lē ê"
+        },
+        {
+          "text": "夢中人",
+          "spelling": "bāng-tiong jîn"
+        },
+        {
+          "text": "何時再見我的伊",
+          "spelling": "hô-sî tsài-kìnn guá ê i"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": 3328906611,
+      "title": "深海的你",
+      "artists": [
+        "杨弘毅"
+      ],
+      "album": "深海的你",
+      "duration": 202.152,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2714776104,
+      "title": "深海的你",
+      "artists": [
+        "李等待"
+      ],
+      "album": "见你一面",
+      "duration": 200.574,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1753652742",
+      "title": "深海的你",
+      "artists": [
+        "拍谢少年"
+      ],
+      "album": "海口味",
+      "duration": 236.485,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": 21416385,
+      "title": "深海的你",
+      "artists": [
+        "拍謝少年"
+      ],
+      "album": "No Nukes! Long Play! 不核作 - 臺灣獨立音樂反核輯",
+      "duration": 237.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

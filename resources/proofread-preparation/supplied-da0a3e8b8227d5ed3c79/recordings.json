@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": 478203273,
+      "title": "臭小子",
+      "artists": [
+        "孩子王"
+      ],
+      "album": "最窘丸",
+      "duration": 239.496,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1230303045",
+      "title": "臭小子",
+      "artists": [
+        "孩子王"
+      ],
+      "album": "最窘丸",
+      "duration": 239.454,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1791118998",
+      "title": "臭小子",
+      "artists": [
+        "吴剑云"
+      ],
+      "album": "臭小子 - Single",
+      "duration": 192.07,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1718485185",
+      "title": "臭小子",
+      "artists": [
+        "吴霏"
+      ],
+      "album": "臭小子 - Single",
+      "duration": 259.765,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,30 @@
+{
+  "selected": {
+    "song_id": 168248,
+    "title": "阿爸的虱目魚",
+    "artists": [
+      "萧煌奇"
+    ],
+    "album": "思念会惊",
+    "duration": 266.173,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:168248",
+      "duration": 266.173,
+      "ready": false,
+      "coverage": 0.7962962962962963,
+      "exact_fraction": 0.6481481481481481,
+      "summary": {
+        "credit": 2,
+        "exact": 33,
+        "unresolved": 11,
+        "approximate": 8,
+        "repeat": 2,
+        "gap": 1
+      }
+    }
+  ]
+}

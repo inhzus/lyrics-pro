@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": "1078890486",
+      "title": "美丽七贤暝",
+      "artists": [
+        "张三李四"
+      ],
+      "album": "张三李四",
+      "duration": 230.103,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

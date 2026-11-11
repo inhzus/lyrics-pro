@@ -1,0 +1,245 @@
+{
+  "recording_id": "netease:31830689",
+  "timing_source": "NetEase https://music.163.com/song?id=31830689",
+  "manual_source": "User-supplied resources/lyrics-spelling/蛹-川秋沙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "exact": 7,
+    "approximate": 1,
+    "gap": 2,
+    "repeat": 7,
+    "unresolved": 1
+  },
+  "review_row_count": 2,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 31.07,
+      "online_text": "雨水滴 叶垂垂",
+      "match_text": "雨水滴 叶垂垂",
+      "text": "雨水滴 葉垂垂",
+      "spelling": "hōo-tsuí tih hio̍h duî-duî",
+      "manual_id": "line-3:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 44.6,
+      "online_text": "躲在窗门后的妳 甘想过",
+      "match_text": "躲在窗门后的妳 甘想过",
+      "text": "躲在窗門後的妳 甘想過",
+      "spelling": "bih teh thang-mn̂g āu ê lí kam siūnn kuè",
+      "manual_id": "line-6:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 2,
+      "time": 61.67,
+      "online_text": "花开时 欲缀伊",
+      "match_text": "花开时 欲缀伊",
+      "text": "花開時 欲綴伊",
+      "spelling": "hue khui sî beh tuè i",
+      "manual_id": "line-9:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 75.15,
+      "online_text": "按算做伙规世人 袂当放",
+      "match_text": "按算做伙规世人 袂当放",
+      "text": "按算做伙規世人 袂當放",
+      "spelling": "àn-sǹg tsò-hué kui-sì-lâng buē-tàng pàng",
+      "manual_id": "line-12:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 91.19,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 94.33,
+      "online_text": "花落离枝 哪系叫唤欸通返来",
+      "match_text": "花落离枝 哪系叫唤欸通返来",
+      "text": "花落離枝 哪系叫喚欸通返來",
+      "spelling": "hue lo̍h lī ki ná sī kiò huah eh thàng tńg-lâi",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 105.73,
+      "online_text": "付出所有过重沉入海峡",
+      "match_text": "付出所有过重沉入海峡",
+      "text": "付出所有過重沉入海峽",
+      "spelling": "hù-tshut sóo-iú kuè-tāng tîm li̍p hái-kiap",
+      "manual_id": "line-18:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 114.36,
+      "online_text": "层层拖",
+      "match_text": "层层拖",
+      "text": "層層拖",
+      "spelling": "tîng tîng thua",
+      "manual_id": "line-21:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 124.97,
+      "online_text": "痴情绝人 思念化作硬硬空壳",
+      "match_text": "痴情绝人 思念化作硬硬空壳",
+      "text": "癡情絕人 思念化作硬硬空殼",
+      "spelling": "tshi-tsua̍t tse̍h lâng su-liām huà-tsuè tīng tīng khang-khak",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 136.42,
+      "online_text": "掠准袂当歇喘当作爱阿",
+      "match_text": "掠准袂当歇喘当作爱阿",
+      "text": "掠準袂當歇喘當作愛阿",
+      "spelling": "lia̍h-tsún bē-tàng hioh-tshuán tòng-tsuè ài ah",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 144.98,
+      "online_text": "蛹内缚",
+      "match_text": "蛹内缚",
+      "text": "蛹內縛",
+      "spelling": "niû lāi pa̍k",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 153.29,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 12,
+      "time": 186.77,
+      "online_text": "花落离枝 哪系叫唤欸通返来",
+      "match_text": "花落离枝 哪系叫唤欸通返来",
+      "text": "花落離枝 哪系叫喚欸通返來",
+      "spelling": "hue lo̍h lī ki ná sī kiò huah eh thàng tńg-lâi",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 198.05,
+      "online_text": "目眶红红看你走入暗角",
+      "match_text": "目眶红红看你走入暗角",
+      "text": "目眶紅紅看你走入暗角",
+      "spelling": "ba̍k-khoo âng âng khuànn lí tsáu-li̍p àm kak",
+      "manual_id": "line-36:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 205.59,
+      "online_text": "伫这望",
+      "match_text": "伫这望",
+      "text": "佇這望",
+      "spelling": "tī tsia bāng",
+      "manual_id": "line-39:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 217.09,
+      "online_text": "痴情绝人 思念化作硬硬空壳",
+      "match_text": "痴情绝人 思念化作硬硬空壳",
+      "text": "癡情絕人 思念化作硬硬空殼",
+      "spelling": "tshi-tsua̍t tse̍h lâng su-liām huà-tsuè tīng tīng khang-khak",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 228.73,
+      "online_text": "交缠情意越深越缭越絚",
+      "match_text": "交缠情意越深越缭越絚",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 237.31,
+      "online_text": "蛹内缚",
+      "match_text": "蛹内缚",
+      "text": "蛹內縛",
+      "spelling": "niû lāi pa̍k",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "4a185d583471a874b9360b471425095a239eac822de0ee27672f2ecb66109aa5",
+    "manual": "5f383236e57ce154477ab6102cf6b97b79c8ef7690de73bc74405be9e2ca8547",
+    "timed": "8ff6bc56091dcb88a0eb6f8e1e1fe86398647ff0f254d44459c58a11b637c7c2"
+  }
+}

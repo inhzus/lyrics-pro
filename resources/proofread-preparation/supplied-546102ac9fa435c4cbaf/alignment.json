@@ -1,0 +1,1049 @@
+{
+  "recording_id": "lrcapi:1620827203",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E9%BB%91%E9%B3%A5&artist=%E9%99%B3%E5%BB%BA%E7%91%8B&album=%E5%8F%A4%E4%BC%A6%E7%BE%8E%E4%BA%9A#1620827203",
+  "manual_source": "User-supplied resources/lyrics-spelling/黑鳥-陳建瑋",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "unresolved": 64,
+    "repeat": 6,
+    "exact": 5,
+    "approximate": 1
+  },
+  "review_row_count": 65,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-31:0",
+    "line-40:0",
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0",
+    "line-70:0"
+  ],
+  "unused_repeat_ids": [
+    "line-16:0",
+    "line-19:0",
+    "line-28:0",
+    "line-55:0",
+    "line-58:0",
+    "line-67:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 11.989,
+      "online_text": "黑雲天",
+      "match_text": "黑雲天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 1,
+      "time": 14.171,
+      "online_text": "毋知到底啥原因",
+      "match_text": "毋知到底啥原因",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 2,
+      "time": 17.457,
+      "online_text": "總是雄雄出現",
+      "match_text": "總是雄雄出現",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 3,
+      "time": 19.64,
+      "online_text": "阻擋咱路程",
+      "match_text": "阻擋咱路程",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 4,
+      "time": 25.108,
+      "online_text": "雨在嚷",
+      "match_text": "雨在嚷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 5,
+      "time": 27.279,
+      "online_text": "一雙翅仔飛袂行",
+      "match_text": "一雙翅仔飛袂行",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 6,
+      "time": 30.576,
+      "online_text": "我是惦在空中",
+      "match_text": "我是惦在空中",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 7,
+      "time": 32.759,
+      "online_text": "打拚的鳥仔",
+      "match_text": "打拚的鳥仔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 8,
+      "time": 36.021,
+      "online_text": "賣笑我",
+      "match_text": "賣笑我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-13:0"
+    },
+    {
+      "source_row": 9,
+      "time": 42.413,
+      "online_text": "憨憨唱台語",
+      "match_text": "憨憨唱台語",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-13:0"
+    },
+    {
+      "source_row": 10,
+      "time": 48.125,
+      "online_text": "若是",
+      "match_text": "若是",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 48.998,
+      "online_text": "全世界的人",
+      "match_text": "全世界的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 51.688,
+      "online_text": "攏唱咱的歌",
+      "match_text": "攏唱咱的歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 52.821,
+      "online_text": "黑人白人",
+      "match_text": "黑人白人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 54.133,
+      "online_text": "攏知咱的文化",
+      "match_text": "攏知咱的文化",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 55.236,
+      "online_text": "我不管路有多難走",
+      "match_text": "我不管路有多難走",
+      "text": "我不管路有多難走",
+      "spelling": "guá m̄-kuán lōo ū guā pháinn kiânn",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 59.727,
+      "online_text": "我的膽是鐵打",
+      "match_text": "我的膽是鐵打",
+      "text": "我的膽是鐵打",
+      "spelling": "guá ê tánn sī thih-tá",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 62.159,
+      "online_text": "全世界的人",
+      "match_text": "全世界的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 63.2,
+      "online_text": "都唱咱的歌",
+      "match_text": "都唱咱的歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 65.113,
+      "online_text": "好人歹人",
+      "match_text": "好人歹人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-31:0"
+    },
+    {
+      "source_row": 20,
+      "time": 66.463,
+      "online_text": "大家都攏免驚啦",
+      "match_text": "大家都攏免驚啦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-31:0"
+    },
+    {
+      "source_row": 21,
+      "time": 68.645,
+      "online_text": "給我一個舞台",
+      "match_text": "給我一個舞台",
+      "text": "給我一個舞台",
+      "spelling": "hōo guá tsi̍t ê bú-tâi",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 72.402,
+      "online_text": "我會飛得很高",
+      "match_text": "我會飛得很高",
+      "text": "我會飛得很高",
+      "spelling": "guá ē pue-kah tsin kuân",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 91.772,
+      "online_text": "Ah",
+      "match_text": "Ah",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 98.332,
+      "online_text": "留聲機",
+      "match_text": "留聲機",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-40:0"
+    },
+    {
+      "source_row": 25,
+      "time": 100.526,
+      "online_text": "唱著滿山的春色",
+      "match_text": "唱著滿山的春色",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-40:0"
+    },
+    {
+      "source_row": 26,
+      "time": 103.812,
+      "online_text": "那是我的阿公",
+      "match_text": "那是我的阿公",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-43:0"
+    },
+    {
+      "source_row": 27,
+      "time": 106.453,
+      "online_text": "青春的熱情",
+      "match_text": "青春的熱情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-43:0"
+    },
+    {
+      "source_row": 28,
+      "time": 110.36,
+      "online_text": "收音機",
+      "match_text": "收音機",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-46:0"
+    },
+    {
+      "source_row": 29,
+      "time": 113.634,
+      "online_text": "唱著浪子的心情",
+      "match_text": "唱著浪子的心情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-46:0"
+    },
+    {
+      "source_row": 30,
+      "time": 116.868,
+      "online_text": "那是我的爸爸",
+      "match_text": "那是我的爸爸",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-49:0"
+    },
+    {
+      "source_row": 31,
+      "time": 118.737,
+      "online_text": "打拼的勇氣",
+      "match_text": "打拼的勇氣",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-49:0"
+    },
+    {
+      "source_row": 32,
+      "time": 122.945,
+      "online_text": "賣笑我",
+      "match_text": "賣笑我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-52:0"
+    },
+    {
+      "source_row": 33,
+      "time": 129.242,
+      "online_text": "堅持唱台語",
+      "match_text": "堅持唱台語",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-52:0"
+    },
+    {
+      "source_row": 34,
+      "time": 137.446,
+      "online_text": "若是",
+      "match_text": "若是",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 138.537,
+      "online_text": "全世界的人",
+      "match_text": "全世界的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 140.732,
+      "online_text": "攏唱咱的歌",
+      "match_text": "攏唱咱的歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 142.141,
+      "online_text": "黑人白人",
+      "match_text": "黑人白人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 143.573,
+      "online_text": "攏知咱的文化",
+      "match_text": "攏知咱的文化",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 145.122,
+      "online_text": "我不管路有多難走",
+      "match_text": "我不管路有多難走",
+      "text": "我不管路有多難走",
+      "spelling": "guá m̄-kuán lōo ū guā pháinn kiânn",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 149.018,
+      "online_text": "我的膽是鐵打",
+      "match_text": "我的膽是鐵打",
+      "text": "我的膽是鐵打",
+      "spelling": "guá ê tánn sī thih-tá",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 41,
+      "time": 151.145,
+      "online_text": "全世界的人",
+      "match_text": "全世界的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 152.748,
+      "online_text": "都唱咱的歌",
+      "match_text": "都唱咱的歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 153.839,
+      "online_text": "好人歹人",
+      "match_text": "好人歹人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-70:0"
+    },
+    {
+      "source_row": 44,
+      "time": 154.931,
+      "online_text": "大家都攏免驚啦",
+      "match_text": "大家都攏免驚啦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-70:0"
+    },
+    {
+      "source_row": 45,
+      "time": 158.112,
+      "online_text": "給我一個舞台",
+      "match_text": "給我一個舞台",
+      "text": "給我一個舞台",
+      "spelling": "hōo guá tsi̍t ê bú-tâi",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 46,
+      "time": 161.386,
+      "online_text": "我會飛得真高",
+      "match_text": "我會飛得真高",
+      "text": "我會飛得真高",
+      "spelling": "guá ē pue-kah tsin kuân",
+      "manual_id": "line-76:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 47,
+      "time": 167.401,
+      "online_text": "我會飛過大海 Oh",
+      "match_text": "我會飛過大海 Oh",
+      "text": "我會飛過大海",
+      "spelling": "guá ē pue-kuè tuā-hái",
+      "manual_id": "line-79:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 48,
+      "time": 178.278,
+      "online_text": "Hey yeah",
+      "match_text": "Hey yeah",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 49,
+      "time": 184.17,
+      "online_text": "Oh",
+      "match_text": "Oh",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 50,
+      "time": 187.768,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 51,
+      "time": 190.597,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 52,
+      "time": 194.228,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 53,
+      "time": 197.098,
+      "online_text": "這是我的舞台",
+      "match_text": "這是我的舞台",
+      "text": "這是我的舞台",
+      "spelling": "tsit sī lán ê bú-tâi",
+      "manual_id": "line-82:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 54,
+      "time": 200.372,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 55,
+      "time": 202.566,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 56,
+      "time": 205.852,
+      "online_text": "Oh",
+      "match_text": "Oh",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 57,
+      "time": 206.717,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 58,
+      "time": 209.509,
+      "online_text": "自由自在的舞台",
+      "match_text": "自由自在的舞台",
+      "text": "自由自在的舞台",
+      "spelling": "tsū-iû tsū-tsāi ê bú-tâi",
+      "manual_id": "line-85:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 59,
+      "time": 212.795,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 60,
+      "time": 215.14,
+      "online_text": "Oh-oh-oh-oh-oh",
+      "match_text": "Oh-oh-oh-oh-oh",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 61,
+      "time": 215.895,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 62,
+      "time": 217.578,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 63,
+      "time": 221.932,
+      "online_text": "這是我的舞台",
+      "match_text": "這是我的舞台",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 64,
+      "time": 225.183,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 65,
+      "time": 227.37,
+      "online_text": "Ah",
+      "match_text": "Ah",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 66,
+      "time": 227.841,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 67,
+      "time": 231.115,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 68,
+      "time": 236.386,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 69,
+      "time": 239.66,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 70,
+      "time": 243.377,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 71,
+      "time": 246.197,
+      "online_text": "這是我的舞台",
+      "match_text": "這是我的舞台",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 72,
+      "time": 249.297,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 73,
+      "time": 252.792,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 74,
+      "time": 255.789,
+      "online_text": "(La-la-la-la-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 75,
+      "time": 258.778,
+      "online_text": "這是咱的舞台",
+      "match_text": "這是咱的舞台",
+      "text": "這是咱的舞台",
+      "spelling": "tsit sī lán ê bú-tâi",
+      "manual_id": "line-88:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "4b5a31f1449d10d203b58f901949ecee8804c2659b530418b1b1df75dea0798a",
+    "manual": "faaa6bfbd0d0e71009680edafcb3c6ec4b35ec5aa53dd36cd8cb011f7a3bda45",
+    "timed": "206b0d6a13b4dc1a41a438b2bf275c45e65131048d306f7d4a0e916a6fcd3ecf"
+  }
+}

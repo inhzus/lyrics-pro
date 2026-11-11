@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": 156526,
+      "title": "莎哟娜啦",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "双面人",
+      "duration": 266.426,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 5348002,
+      "title": "莎哟娜啦",
+      "artists": [
+        "金元萱"
+      ],
+      "album": "极度魅力",
+      "duration": 286.333,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 524913596,
+      "title": "莎喲娜啦",
+      "artists": [
+        "随性乐团"
+      ],
+      "album": "噴射時代",
+      "duration": 237.747,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2146646987,
+      "title": "莎哟娜啦",
+      "artists": [
+        "榕城金城武"
+      ],
+      "album": "快乐时光",
+      "duration": 313.968,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,50 @@
+{
+  "selected": {
+    "song_id": 248689,
+    "title": "炮仔声",
+    "artists": [
+      "江蕙"
+    ],
+    "album": "江蕙10年‧典藏精选",
+    "duration": 287.24,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "netease:248689",
+      "duration": 287.24,
+      "ready": false,
+      "coverage": 0.030303030303030304,
+      "exact_fraction": 0.0,
+      "summary": {
+        "approximate": 1,
+        "unresolved": 32,
+        "gap": 2
+      }
+    },
+    {
+      "recording_id": "netease:249109",
+      "duration": 287.24,
+      "ready": false,
+      "coverage": 0.030303030303030304,
+      "exact_fraction": 0.0,
+      "summary": {
+        "approximate": 1,
+        "unresolved": 32,
+        "gap": 2
+      }
+    },
+    {
+      "recording_id": "netease:28038101",
+      "duration": 242.04,
+      "ready": false,
+      "coverage": 0.030303030303030304,
+      "exact_fraction": 0.0,
+      "summary": {
+        "approximate": 1,
+        "unresolved": 32
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 2706343913,
+      "title": "台湾囝仔",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "我是男子汉",
+      "duration": 266.92,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

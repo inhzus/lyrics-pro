@@ -4,6 +4,10 @@ Use this guide when a user supplies manually proofread lyrics and their associat
 spelling (romanization), and asks for a timed version for listening review.
 This is an agent workflow and an offline prototype, not an installed app feature.
 
+For the supplied collection, use [the batch preparation workflow](proofread-collection.md).
+The tested extraction of this prototype is [scripts/proofread_alignment.py](../scripts/proofread_alignment.py);
+the embedded version below remains the reference for the original one-song experiment.
+
 ## Authority and scope
 
 1. **The user supplies the authoritative words and spelling.** Keep them paired.

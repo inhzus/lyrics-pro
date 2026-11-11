@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 28661105,
+      "title": "你给人嘿",
+      "artists": [
+        "陈建玮"
+      ],
+      "album": "30出头",
+      "duration": 196.626,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

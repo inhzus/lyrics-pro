@@ -1,0 +1,207 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "甘有聽到怪手的聲　                                     那是在拆咱的厝",
+      "spelling": "kam ū thiann-tio̍h kuài-tshiú ê siann    ná sī teh thiah lán ê tshù",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "甘有聽到怪手的聲",
+          "spelling": "kam ū thiann-tio̍h kuài-tshiú ê siann"
+        },
+        {
+          "text": "那是在拆咱的厝",
+          "spelling": "ná sī teh thiah lán ê tshù"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "甘有聽到咱的夢　                               破碎的聲",
+      "spelling": "kam ū thiann-tio̍h lán ê bāng        phuà-tshuì ê siann",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "甘有聽到咱的夢",
+          "spelling": "kam ū thiann-tio̍h lán ê bāng"
+        },
+        {
+          "text": "破碎的聲",
+          "spelling": "phuà-tshuì ê siann"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "甘有看到子彈的影　                                    那是要取阮性命",
+      "spelling": "kam ū khuànn-tio̍h tshìng-tsí ê iánn    ná sī beh khi gún sìnn-miā",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "甘有看到子彈的影",
+          "spelling": "kam ū khuànn-tio̍h tshìng-tsí ê iánn"
+        },
+        {
+          "text": "那是要取阮性命",
+          "spelling": "ná sī beh khi gún sìnn-miā"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "這個所在已經沒希望　                     核電廠趕快爆炸",
+      "spelling": "tsit-ê sóo-tsāi í-king bô hi-bāng    hi̍k-tiān tshiúnn kuánn-kín po̍k-tsà",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "這個所在已經沒希望",
+          "spelling": "tsit-ê sóo-tsāi í-king bô hi-bāng"
+        },
+        {
+          "text": "核電廠趕快爆炸",
+          "spelling": "hi̍k-tiān tshiúnn kuánn-kín po̍k-tsà"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "眼前是絕望的寒冬　                                我已經沒半項",
+      "spelling": "gán-tsiân sī tsua̍t-bōng ê hân-tang    guá í-king bô puànn hāng",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "眼前是絕望的寒冬",
+          "spelling": "gán-tsiân sī tsua̍t-bōng ê hân-tang"
+        },
+        {
+          "text": "我已經沒半項",
+          "spelling": "guá í-king bô puànn hāng"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "破碎的夢　                          畫面漸漸無聲",
+      "spelling": "phuà-tshuì ê bāng            uē-bīn tsiām tsiām bô-siann",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "破碎的夢",
+          "spelling": "phuà-tshuì ê bāng"
+        },
+        {
+          "text": "畫面漸漸無聲",
+          "spelling": "uē-bīn tsiām tsiām bô-siann"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "絕望的寒冬　                             我已經沒半項",
+      "spelling": "tsua̍t-bōng ê hân-tang            guá í-king bô puànn hāng",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "絕望的寒冬",
+          "spelling": "tsua̍t-bōng ê hân-tang"
+        },
+        {
+          "text": "我已經沒半項",
+          "spelling": "guá í-king bô puànn hāng"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "破碎的夢　                          甘說你攏沒感覺",
+      "spelling": "phuà-tshuì ê bāng            kam kóng lí lóng bô kám-kak",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "破碎的夢",
+          "spelling": "phuà-tshuì ê bāng"
+        },
+        {
+          "text": "甘說你攏沒感覺",
+          "spelling": "kam kóng lí lóng bô kám-kak"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "我只是想要保護屬於我的東西（絕望的寒冬　我已經沒半項）",
+      "spelling": "guá tsí-sī siūnn beh pó-hōo sio̍k-î guá ê mi̍h-kiānn (tsua̍t-bōng ê    guá í-king bô puànn hāng)",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "我只是想要一點尊嚴和權利而已（破碎的夢　畫面漸漸無聲）",
+      "spelling": "guá tsí-sī siūnn beh tsi̍t tiám tsun-giâm kah khuân-lī niā-niā(phuà-tshuì ê bāng  uē-bīn tsiām tsiām bô-siann)",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "我只是想要抱著希望過生活（絕望的寒冬　我已經沒半項）",
+      "spelling": "guá tsí-sī siūnn beh phō tio̍h hi-bāng kuè sing-ua̍h (hi-bāng ê hân-tang   guá í-king puànn hāng)",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "我只是想要自由地說一句話（破碎的夢）",
+      "spelling": "guá tsí-sī siūnn beh tsū-iû tē kóng tsi̍t kù uē (phò-tshuì ê bāng)",
+      "source_lines": [
+        36,
+        37
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：楊大正　作曲：楊大正    台語拼音：關德樂"
+    }
+  ],
+  "notes": [
+    {
+      "line": 39,
+      "text": "Note:  This song is super quick, and because of this, it is very possible that there are a few minor errors scattered throughout.  I welcome any corrections on this one."
+    }
+  ],
+  "reasons": [
+    "source_note_requires_review:39"
+  ]
+}

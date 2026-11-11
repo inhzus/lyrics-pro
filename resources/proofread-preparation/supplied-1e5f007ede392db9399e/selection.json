@@ -1,0 +1,36 @@
+{
+  "selected": {
+    "song_id": "1547228036",
+    "title": "人生",
+    "artists": [
+      "灭火器"
+    ],
+    "album": "进击下半场",
+    "duration": 188.467,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1547228036",
+      "duration": 188.467,
+      "ready": true,
+      "coverage": 1.0,
+      "exact_fraction": 1.0,
+      "summary": {
+        "exact": 2,
+        "repeat": 20
+      }
+    },
+    {
+      "recording_id": "lrcapi:572183193",
+      "duration": 195.013,
+      "ready": false,
+      "coverage": 0.0,
+      "exact_fraction": 0.0,
+      "summary": {
+        "unresolved": 26
+      }
+    }
+  ]
+}

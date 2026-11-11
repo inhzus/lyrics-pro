@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 311952,
+      "title": "歌仔戏",
+      "artists": [
+        "秀兰玛雅"
+      ],
+      "album": "梦中的形影",
+      "duration": 234.413,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1510912560",
+      "title": "歌仔戏",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "众神护台湾 (黑胶版)",
+      "duration": 198.907,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "842352308",
+      "title": "歌仔戏",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "众神护台湾",
+      "duration": 198.907,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

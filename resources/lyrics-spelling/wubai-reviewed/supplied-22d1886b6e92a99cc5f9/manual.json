@@ -1,0 +1,413 @@
+{
+  "recording_id": "netease:449769014",
+  "source": "User-supplied resources/lyrics-spelling/蹦孔-伍佰",
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "這邊來 嘛毋是                                彼邊去 嘛毋是",
+      "spelling": "tsit-pîng lâi mah m̄ sī                  hit pîng khì mah m̄ sī",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "這邊來 嘛毋是",
+          "spelling": "tsit-pîng lâi mah m̄ sī"
+        },
+        {
+          "text": "彼邊去 嘛毋是",
+          "spelling": "hit pîng khì mah m̄ sī"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "倒頭栽 嘛毋是                                沈落去 嘛毋是",
+      "spelling": "tò-thâu-tsai mah m̄ sī                  tîm lo̍h-khì mah m̄ sī",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "倒頭栽 嘛毋是",
+          "spelling": "tò-thâu-tsai mah m̄ sī"
+        },
+        {
+          "text": "沈落去 嘛毋是",
+          "spelling": "tîm lo̍h-khì mah m̄ sī"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "講過來 嘛毋是                                講過去 嘛毋是",
+      "spelling": "kóng kuè-lâi mah m̄ sī                kóng kuè-khì mah m̄ sī",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "講過來 嘛毋是",
+          "spelling": "kóng kuè-lâi mah m̄ sī"
+        },
+        {
+          "text": "講過去 嘛毋是",
+          "spelling": "kóng kuè-khì mah m̄ sī"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "安怎講 透袂利                                一直來 袂付飼",
+      "spelling": "an-tsuánn kóng thàu bē lī         it-ti̍t lâi bē hù tshī",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "安怎講 透袂利",
+          "spelling": "an-tsuánn kóng thàu bē lī"
+        },
+        {
+          "text": "一直來 袂付飼",
+          "spelling": "it-ti̍t lâi bē hù tshī"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "磞孔看出嘛有媠                                                 毋知影這馬是佗位",
+      "spelling": "pho̍k khang khuànn-tshut mah ū suí         m̄ tsai-iánn tsit-má sī tó-uī",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "磞孔看出嘛有媠",
+          "spelling": "pho̍k khang khuànn-tshut mah ū suí"
+        },
+        {
+          "text": "毋知影這馬是佗位",
+          "spelling": "m̄ tsai-iánn tsit-má sī tó-uī"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "磞孔看入來嘛有媠                                            毋知影這馬去佗位",
+      "spelling": "pho̍k khang khuànn ji̍p-lâi mah ū suí        m̄ tsai-iánn tsit-má khì tó-uī",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "磞孔看入來嘛有媠",
+          "spelling": "pho̍k khang khuànn ji̍p-lâi mah ū suí"
+        },
+        {
+          "text": "毋知影這馬去佗位",
+          "spelling": "m̄ tsai-iánn tsit-má khì tó-uī"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "媠      媠     媠      媠",
+      "spelling": "suí    suí    suí    suí",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "媠",
+          "spelling": "suí"
+        },
+        {
+          "text": "媠",
+          "spelling": "suí"
+        },
+        {
+          "text": "媠",
+          "spelling": "suí"
+        },
+        {
+          "text": "媠",
+          "spelling": "suí"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "討返來 嘛毋是                                   還返去 嘛毋是",
+      "spelling": "thó tńg lâi mah m̄ sī                       hîng tńg khì mah m̄ sī",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "討返來 嘛毋是",
+          "spelling": "thó tńg lâi mah m̄ sī"
+        },
+        {
+          "text": "還返去 嘛毋是",
+          "spelling": "hîng tńg khì mah m̄ sī"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "忘袂記 嘛毋是                                   煞煞去 嘛毋是",
+      "spelling": "bōng buē kì mah m̄ sī                    suah suah kì mah m̄ sī",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "忘袂記 嘛毋是",
+          "spelling": "bōng buē kì mah m̄ sī"
+        },
+        {
+          "text": "煞煞去 嘛毋是",
+          "spelling": "suah suah kì mah m̄ sī"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "講袂清 看袂明                                          明毋通 通毋到",
+      "spelling": "kóng buē tshing khuànn buē bîng    bîng bô-thang thang bô kàu",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "講袂清 看袂明",
+          "spelling": "kóng buē tshing khuànn buē bîng"
+        },
+        {
+          "text": "明毋通 通毋到",
+          "spelling": "bîng bô-thang thang bô kàu"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "到佗位 位佇佗                                    佗是遮 誰是我",
+      "spelling": "kàu tó-uī  uī tī tó                              tó sī jia  siánn sī guá",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "到佗位 位佇佗",
+          "spelling": "kàu tó-uī  uī tī tó"
+        },
+        {
+          "text": "佗是遮 誰是我",
+          "spelling": "tó sī jia  siánn sī guá"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "磞孔看出嘛有媠                                                毋知影這馬是佗位",
+      "spelling": "pho̍k khang khuànn-tshut mah ū suí        m̄ tsai-iánn tsit-má sī tó-uī",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "磞孔看出嘛有媠",
+          "spelling": "pho̍k khang khuànn-tshut mah ū suí"
+        },
+        {
+          "text": "毋知影這馬是佗位",
+          "spelling": "m̄ tsai-iánn tsit-má sī tó-uī"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "磞孔看入來嘛有媠                                             毋知影這馬去佗位",
+      "spelling": "pho̍k khang khuànn ji̍p-lâi mah ū suí        m̄ tsai-iánn tsit-má khì tó-uī",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "磞孔看入來嘛有媠",
+          "spelling": "pho̍k khang khuànn ji̍p-lâi mah ū suí"
+        },
+        {
+          "text": "毋知影這馬去佗位",
+          "spelling": "m̄ tsai-iánn tsit-má khì tó-uī"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "磞孔看出嘛有媠                                                 毋知影這馬是佗位",
+      "spelling": "pho̍k khang khuànn-tshut mah ū suí          m̄ tsai-iánn tsit-má sī tó-uī",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "磞孔看出嘛有媠",
+          "spelling": "pho̍k khang khuànn-tshut mah ū suí"
+        },
+        {
+          "text": "毋知影這馬是佗位",
+          "spelling": "m̄ tsai-iánn tsit-má sī tó-uī"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "磞孔看入來嘛有媠                                             毋知影這馬去佗位",
+      "spelling": "pho̍k khang khuànn ji̍p-lâi mah ū suí         m̄ tsai-iánn tsit-má khì tó-uī",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "磞孔看入來嘛有媠",
+          "spelling": "pho̍k khang khuànn ji̍p-lâi mah ū suí"
+        },
+        {
+          "text": "毋知影這馬去佗位",
+          "spelling": "m̄ tsai-iánn tsit-má khì tó-uī"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "春夏秋冬置那在踅                                             攏總和我沒關係",
+      "spelling": "tshun-hā tshiu-tang tì hiâ teh se̍h                lóng-tsáng hām guá bô-kuan-hē",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "春夏秋冬置那在踅",
+          "spelling": "tshun-hā tshiu-tang tì hiâ teh se̍h"
+        },
+        {
+          "text": "攏總和我沒關係",
+          "spelling": "lóng-tsáng hām guá bô-kuan-hē"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "春夏秋冬置那在踅                                             攏總和我沒關係",
+      "spelling": "tshun-hā tshiu-tang tì hiâ teh se̍h                lóng-tsáng hām guá bô-kuan-hē",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "春夏秋冬置那在踅",
+          "spelling": "tshun-hā tshiu-tang tì hiâ teh se̍h"
+        },
+        {
+          "text": "攏總和我沒關係",
+          "spelling": "lóng-tsáng hām guá bô-kuan-hē"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "磞孔看出嘛有媠                                                 毋知影這馬是佗位",
+      "spelling": "pho̍k khang khuànn-tshut mah ū suí         m̄ tsai-iánn tsit-má sī tó-uī",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "磞孔看出嘛有媠",
+          "spelling": "pho̍k khang khuànn-tshut mah ū suí"
+        },
+        {
+          "text": "毋知影這馬是佗位",
+          "spelling": "m̄ tsai-iánn tsit-má sī tó-uī"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "磞孔看入來嘛有媠                                             毋知影這馬去佗位",
+      "spelling": "pho̍k khang khuànn ji̍p-lâi mah ū suí        m̄ tsai-iánn tsit-má khì tó-uī",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "磞孔看入來嘛有媠",
+          "spelling": "pho̍k khang khuànn ji̍p-lâi mah ū suí"
+        },
+        {
+          "text": "毋知影這馬去佗位",
+          "spelling": "m̄ tsai-iánn tsit-má khì tó-uī"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "磞孔看出嘛有媠                                                 毋知影這馬是佗位",
+      "spelling": "pho̍k khang khuànn-tshut mah ū suí         m̄ tsai-iánn tsit-má sī tó-uī",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "磞孔看出嘛有媠",
+          "spelling": "pho̍k khang khuànn-tshut mah ū suí"
+        },
+        {
+          "text": "毋知影這馬是佗位",
+          "spelling": "m̄ tsai-iánn tsit-má sī tó-uī"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "磞孔看入來嘛有媠                                             毋知影這馬去佗位",
+      "spelling": "pho̍k khang khuànn ji̍p-lâi mah ū suí        m̄ tsai-iánn tsit-má khì tó-uī",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "磞孔看入來嘛有媠",
+          "spelling": "pho̍k khang khuànn ji̍p-lâi mah ū suí"
+        },
+        {
+          "text": "毋知影這馬去佗位",
+          "spelling": "m̄ tsai-iánn tsit-má khì tó-uī"
+        }
+      ]
+    }
+  ]
+}

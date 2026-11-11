@@ -38,7 +38,7 @@ def decode(payload):
         if (not isinstance(proofread, dict)
                 or any(not isinstance(proofread.get(k), str) or not proofread[k]
                        for k in ("asset_id", "revision", "language", "attribution"))
-                or proofread["language"] not in ("hokkien", "cantonese")):
+                or proofread["language"] not in ("hokkien", "cantonese", "supplied")):
             raise ValueError("Invalid proofread metadata")
         proofread = Proofread(**{k: proofread[k] for k in ("asset_id", "revision", "language", "attribution")})
     reference = obj.get("recording_id")

@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "song_id": 19363164,
+    "title": "倒退嚕",
+    "artists": [
+      "董事長樂團"
+    ],
+    "album": "臺灣加油！",
+    "duration": 219.413333,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrclib:19363164",
+      "duration": 219.413333,
+      "ready": false,
+      "coverage": 0.3346456692913386,
+      "exact_fraction": 0.0,
+      "summary": {
+        "unresolved": 19,
+        "approximate": 10,
+        "gap": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "candidates": [
+    {
+      "song_id": 353114,
+      "title": "馨满义竹(乡亲传唱版)",
+      "artists": [
+        "打狗乱歌团"
+      ],
+      "album": "大员一家农出来",
+      "duration": 339.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 353114,
+      "title": "馨满义竹(乡亲传唱版)",
+      "artists": [
+        "打狗乱歌团"
+      ],
+      "album": "大员一家农出来",
+      "duration": 339.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 353114,
+      "title": "馨满义竹(乡亲传唱版)",
+      "artists": [
+        "打狗乱歌团"
+      ],
+      "album": "大员一家农出来",
+      "duration": 339.0,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": [
+    {
+      "provider": "lrclib",
+      "error": "LRCLIB network request failed: curl: (28) SSL connection timeout",
+      "retryable": true
+    }
+  ]
+}

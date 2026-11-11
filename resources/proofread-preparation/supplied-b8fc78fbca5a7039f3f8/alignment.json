@@ -1,0 +1,500 @@
+{
+  "recording_id": "lrclib:29267021",
+  "timing_source": "LRCLIB https://lrclib.net/api/get/29267021",
+  "manual_source": "User-supplied resources/lyrics-spelling/對我打-董事長樂團",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "exact": 5,
+    "unresolved": 17,
+    "approximate": 2,
+    "repeat": 6,
+    "gap": 3
+  },
+  "review_row_count": 24,
+  "unmatched_manual_ids": [
+    "line-4:0",
+    "line-28:0",
+    "line-28:1"
+  ],
+  "unused_repeat_ids": [
+    "line-7:0",
+    "line-7:1",
+    "line-7:2",
+    "line-10:0",
+    "line-10:1",
+    "line-13:0",
+    "line-13:1",
+    "line-13:2",
+    "line-16:0",
+    "line-16:1",
+    "line-16:2",
+    "line-19:0",
+    "line-19:1",
+    "line-19:2",
+    "line-31:0",
+    "line-31:1",
+    "line-31:2",
+    "line-34:0",
+    "line-34:1",
+    "line-37:0",
+    "line-37:1",
+    "line-37:2",
+    "line-40:0",
+    "line-40:1",
+    "line-40:2",
+    "line-43:0",
+    "line-43:1",
+    "line-43:2",
+    "line-49:0",
+    "line-49:1",
+    "line-52:0",
+    "line-52:1",
+    "line-52:2",
+    "line-55:0",
+    "line-55:1",
+    "line-55:2",
+    "line-58:0",
+    "line-58:1",
+    "line-58:2"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 53.28,
+      "online_text": "做雞著愛筅",
+      "match_text": "做雞著愛筅",
+      "text": "做雞著愛筅",
+      "spelling": "tsò ke tio̍h ài tshíng",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 55.94,
+      "online_text": "做人著愛反",
+      "match_text": "做人著愛反",
+      "text": "做人著愛反",
+      "spelling": "tsò lâng tio̍h ài píng",
+      "manual_id": "line-1:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 58.46,
+      "online_text": "拍過難關 拍出熱情",
+      "match_text": "拍過難關 拍出熱情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 3,
+      "time": 61.16,
+      "online_text": "拍出咱的前程",
+      "match_text": "拍出咱的前程",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 4,
+      "time": 63.99,
+      "online_text": "人 一世人",
+      "match_text": "人 一世人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 69.23,
+      "online_text": "風景 無仝款",
+      "match_text": "風景 無仝款",
+      "text": "無仝款",
+      "spelling": "bô kâng-khuán",
+      "manual_id": "line-7:3",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 6,
+      "time": 74.46,
+      "online_text": "春夏秋冬 一冬兩冬 愛做就愛動",
+      "match_text": "春夏秋冬 一冬兩冬 愛做就愛動",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 79.77,
+      "online_text": "天地無限 回頭是岸 鼓聲一直響",
+      "match_text": "天地無限 回頭是岸 鼓聲一直響",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 85.15,
+      "online_text": "天搖地動 風吹草動 屈勢攏相仝",
+      "match_text": "天搖地動 風吹草動 屈勢攏相仝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 90.56,
+      "online_text": "心內有夢 天下無雙 鼓聲繼續響",
+      "match_text": "心內有夢 天下無雙 鼓聲繼續響",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 95.0,
+      "online_text": "綴我拍",
+      "match_text": "綴我拍",
+      "text": "綴我拍",
+      "spelling": "tuè guá phah",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 98.88,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 12,
+      "time": 106.67,
+      "online_text": "鼓聲有夠猛",
+      "match_text": "鼓聲有夠猛",
+      "text": "鼓聲有夠猛",
+      "spelling": "kóo-siann ū kàu bíng",
+      "manual_id": "line-25:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 109.14,
+      "online_text": "氣勢像海湧",
+      "match_text": "氣勢像海湧",
+      "text": "氣勢像海湧",
+      "spelling": "khì-sè tshiūnn hái-íng",
+      "manual_id": "line-25:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 111.8,
+      "online_text": "拍較大聲 拍出個性",
+      "match_text": "拍較大聲 拍出個性",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 114.58,
+      "online_text": "拍出咱的光榮",
+      "match_text": "拍出咱的光榮",
+      "text": "拍出咱的光榮",
+      "spelling": "phah tshut lán ê kong-îng",
+      "manual_id": "line-28:2",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 117.25,
+      "online_text": "人 一世人",
+      "match_text": "人 一世人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 122.43,
+      "online_text": "風景 家己揀",
+      "match_text": "風景 家己揀",
+      "text": "家己揀",
+      "spelling": "ka-kī kíng",
+      "manual_id": "line-31:3",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 18,
+      "time": 127.7,
+      "online_text": "春夏秋冬 一冬兩冬 愛做就愛動",
+      "match_text": "春夏秋冬 一冬兩冬 愛做就愛動",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 133.16,
+      "online_text": "天地無限 回頭是岸 鼓聲一直響",
+      "match_text": "天地無限 回頭是岸 鼓聲一直響",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 138.51,
+      "online_text": "天搖地動 風吹草動 屈勢攏相仝",
+      "match_text": "天搖地動 風吹草動 屈勢攏相仝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 143.87,
+      "online_text": "心內有夢 天下無雙 鼓聲繼續響",
+      "match_text": "心內有夢 天下無雙 鼓聲繼續響",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 148.51,
+      "online_text": "綴我拍",
+      "match_text": "綴我拍",
+      "text": "綴我拍",
+      "spelling": "tuè guá phah",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 152.77,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 24,
+      "time": 181.06,
+      "online_text": "春夏秋冬 一冬兩冬 愛做就愛動",
+      "match_text": "春夏秋冬 一冬兩冬 愛做就愛動",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 186.48,
+      "online_text": "天地無限 回頭是岸 鼓聲一直響",
+      "match_text": "天地無限 回頭是岸 鼓聲一直響",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 191.79,
+      "online_text": "天搖地動 風吹草動 屈勢攏相仝",
+      "match_text": "天搖地動 風吹草動 屈勢攏相仝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 197.17,
+      "online_text": "心內有夢 天下無雙 鼓聲繼續響",
+      "match_text": "心內有夢 天下無雙 鼓聲繼續響",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 201.9,
+      "online_text": "綴我拍",
+      "match_text": "綴我拍",
+      "text": "綴我拍",
+      "spelling": "tuè guá phah",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 207.23,
+      "online_text": "綴我拍",
+      "match_text": "綴我拍",
+      "text": "綴我拍",
+      "spelling": "tuè guá phah",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 212.41,
+      "online_text": "綴我拍",
+      "match_text": "綴我拍",
+      "text": "綴我拍",
+      "spelling": "tuè guá phah",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 217.81,
+      "online_text": "綴我拍",
+      "match_text": "綴我拍",
+      "text": "綴我拍",
+      "spelling": "tuè guá phah",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 221.29,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "f0bf7c64463a47ab628c40ee8c16f1617d89c973851b0cebc4d4317972933ba0",
+    "manual": "c116e6e57c20175dd04561120266fa0f77c7ada2073eae06afb207725b98a15e",
+    "timed": "1e3d99b8ffe46d56a9daab9a52d33e91b922b2853d40451974d643c8fec38fba"
+  }
+}

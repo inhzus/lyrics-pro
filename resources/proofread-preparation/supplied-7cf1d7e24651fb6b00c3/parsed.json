@@ -1,0 +1,213 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "直直的身軀翅仔葉                      紅紅的花蕊火在燒",
+      "spelling": "ti̍t ti̍t ê sin-khu si̍t-á hio̍h        âng âng ê hue-luí hué leh sio",
+      "source_lines": [
+        1,
+        2
+      ],
+      "parts": [
+        {
+          "text": "直直的身軀翅仔葉",
+          "spelling": "ti̍t ti̍t ê sin-khu si̍t-á hio̍h"
+        },
+        {
+          "text": "紅紅的花蕊火在燒",
+          "spelling": "âng âng ê hue-luí hué leh sio"
+        }
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "陪阮大漢唱驪歌                                    看汝細漢賴賴趖",
+      "spelling": "puê gún tuā-hàn tshiùnn lí ko         khuànn lí sè-hàn luā luā sô",
+      "source_lines": [
+        4,
+        5
+      ],
+      "parts": [
+        {
+          "text": "陪阮大漢唱驪歌",
+          "spelling": "puê gún tuā-hàn tshiùnn lí ko"
+        },
+        {
+          "text": "看汝細漢賴賴趖",
+          "spelling": "khuànn lí sè-hàn luā luā sô"
+        }
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "日頭若越大伊越愛                   咱坐佇樹跤等風來",
+      "spelling": "ji̍t-thâu ná lú tuā i lú ài        lán tsē tī tshiū-kha tán hong lâi",
+      "source_lines": [
+        7,
+        8
+      ],
+      "parts": [
+        {
+          "text": "日頭若越大伊越愛",
+          "spelling": "ji̍t-thâu ná lú tuā i lú ài"
+        },
+        {
+          "text": "咱坐佇樹跤等風來",
+          "spelling": "lán tsē tī tshiū-kha tán hong lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "汝若有閒來台南                        伊徛佇路邊排規排",
+      "spelling": "lí ná ū îng-lâi Tâi-lâm            i khiā tī lōo-pinn pâi kui pâi",
+      "source_lines": [
+        10,
+        11
+      ],
+      "parts": [
+        {
+          "text": "汝若有閒來台南",
+          "spelling": "lí ná ū îng-lâi Tâi-lâm"
+        },
+        {
+          "text": "伊徛佇路邊排規排",
+          "spelling": "i khiā tī lōo-pinn pâi kui pâi"
+        }
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "一個城市會當藏若濟夢?                                      一欉樹仔會當陪幾代人?",
+      "spelling": "tsi̍t ê siânn-tshī ē-tang tsn̄g ná tsè bāng？    tsi̍t tsâng tshiū-á ē-tang puê kuí tāi lâng？",
+      "source_lines": [
+        13,
+        14
+      ],
+      "parts": [
+        {
+          "text": "一個城市會當藏若濟夢?",
+          "spelling": "tsi̍t ê siânn-tshī ē-tang tsn̄g ná tsè bāng？"
+        },
+        {
+          "text": "一欉樹仔會當陪幾代人?",
+          "spelling": "tsi̍t tsâng tshiū-á ē-tang puê kuí tāi lâng？"
+        }
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "鳳凰花飛阿飛汝欲共阮帶去佗",
+      "spelling": "hōng-hông hue pue a pue lí beh kāng gún tuà khì tui",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "紅若火 一著起來熱袂退",
+      "spelling": "âng ná hué tsi̍t tio̍h khí-lâi jua̍h bē thuè",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "鳳凰花飛啊飛汝欲共阮帶去佗",
+      "spelling": "hōng-hông hue pue a pue lí beh kāng gún tuà khì tui",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "紅的雪     佇阮夢中硞硞綴",
+      "spelling": "âng ê seh    tī gún bāng-tiong khok khok tuè",
+      "source_lines": [
+        25,
+        26
+      ],
+      "parts": [
+        {
+          "text": "紅的雪",
+          "spelling": "âng ê seh"
+        },
+        {
+          "text": "佇阮夢中硞硞綴",
+          "spelling": "tī gún bāng-tiong khok khok tuè"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "一個城市會當藏若濟夢?                                      一欉樹仔會當陪幾代人?",
+      "spelling": "tsi̍t ê siânn-tshī ē-tang tsn̄g ná tsè bāng？    tsi̍t tsâng tshiū-á ē-tang puê kuí tāi lâng？",
+      "source_lines": [
+        28,
+        29
+      ],
+      "parts": [
+        {
+          "text": "一個城市會當藏若濟夢?",
+          "spelling": "tsi̍t ê siânn-tshī ē-tang tsn̄g ná tsè bāng？"
+        },
+        {
+          "text": "一欉樹仔會當陪幾代人?",
+          "spelling": "tsi̍t tsâng tshiū-á ē-tang puê kuí tāi lâng？"
+        }
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "鳳凰花飛阿飛汝欲共阮帶去佗",
+      "spelling": "hōng-hông hue pue a pue lí beh kāng gún tuà khì tui",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "紅若火 一著起來熱袂退",
+      "spelling": "âng ná hué tsi̍t tio̍h khí-lâi jua̍h bē thuè",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "鳳凰花飛啊飛汝欲共阮帶去佗",
+      "spelling": "hōng-hông hue pue a pue lí beh kāng gún tuà khì tui",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "紅的雪    佇阮夢中硞硞綴",
+      "spelling": "âng ê seh    tī gún bāng-tiong khok khok tuè",
+      "source_lines": [
+        40,
+        41
+      ],
+      "parts": [
+        {
+          "text": "紅的雪",
+          "spelling": "âng ê seh"
+        },
+        {
+          "text": "佇阮夢中硞硞綴",
+          "spelling": "tī gún bāng-tiong khok khok tuè"
+        }
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

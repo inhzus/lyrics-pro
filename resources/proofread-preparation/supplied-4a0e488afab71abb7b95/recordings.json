@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 2704743631,
+      "title": "开播",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "爱情广播电台",
+      "duration": 75.893,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

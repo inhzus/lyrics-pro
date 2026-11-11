@@ -1,0 +1,541 @@
+{
+  "recording_id": "netease:526468653",
+  "timing_source": "NetEase https://music.163.com/song?id=526468653",
+  "manual_source": "User-supplied resources/lyrics-spelling/一隻雞-美秀集團",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "unresolved": 29,
+    "gap": 5,
+    "exact": 1,
+    "approximate": 1
+  },
+  "review_row_count": 31,
+  "unmatched_manual_ids": [
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-28:0",
+    "line-34:0",
+    "line-37:0"
+  ],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-19:0",
+    "line-22:0",
+    "line-40:0",
+    "line-43:0",
+    "line-46:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 狗柏",
+      "match_text": "作词 : 狗柏",
+      "text": "作词 : 狗柏",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 狗柏",
+      "match_text": "作曲 : 狗柏",
+      "text": "作曲 : 狗柏",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 4.32,
+      "online_text": "一只鸡展他的翅一直想欲飞",
+      "match_text": "一只鸡展他的翅一直想欲飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 11.32,
+      "online_text": "但系伊系一只鸡",
+      "match_text": "但系伊系一只鸡",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 18.26,
+      "online_text": "提着阿母啊的情批",
+      "match_text": "提着阿母啊的情批",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 25.03,
+      "online_text": "系按怎一直跋落地",
+      "match_text": "系按怎一直跋落地",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 31.62,
+      "online_text": "阿母啊 我袂晓讲话",
+      "match_text": "阿母啊 我袂晓讲话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 7,
+      "time": 39.53,
+      "online_text": "讲细汉时你教我的话",
+      "match_text": "讲细汉时你教我的话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 8,
+      "time": 46.54,
+      "online_text": "请你予我 搁一摆机会",
+      "match_text": "请你予我 搁一摆机会",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 9,
+      "time": 53.6,
+      "online_text": "予我对你唱出心内话",
+      "match_text": "予我对你唱出心内话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 10,
+      "time": 59.98,
+      "online_text": "阿母啊 我想袂飞",
+      "match_text": "阿母啊 我想袂飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-13:0"
+    },
+    {
+      "source_row": 11,
+      "time": 67.74,
+      "online_text": "飞转去囝仔时两三岁",
+      "match_text": "飞转去囝仔时两三岁",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-13:0"
+    },
+    {
+      "source_row": 12,
+      "time": 74.88,
+      "online_text": "揣我彼时迸见的红花",
+      "match_text": "揣我彼时迸见的红花",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-16:0"
+    },
+    {
+      "source_row": 13,
+      "time": 81.97,
+      "online_text": "种伫你天边的心肝底",
+      "match_text": "种伫你天边的心肝底",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-16:0"
+    },
+    {
+      "source_row": 14,
+      "time": 89.82,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 15,
+      "time": 117.18,
+      "online_text": "一只鸡展他的翅一直想欲飞",
+      "match_text": "一只鸡展他的翅一直想欲飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 124.61,
+      "online_text": "但系伊系一只鸡",
+      "match_text": "但系伊系一只鸡",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 131.33,
+      "online_text": "提着阿母啊的情批",
+      "match_text": "提着阿母啊的情批",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 137.99,
+      "online_text": "系按怎一直跋落地",
+      "match_text": "系按怎一直跋落地",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 144.5,
+      "online_text": "啊 啊",
+      "match_text": "啊 啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 151.56,
+      "online_text": "啊 啊",
+      "match_text": "啊 啊",
+      "text": "啊～～ 啊～～",
+      "spelling": "ah～～ah～～",
+      "manual_id": "line-25:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 160.05,
+      "online_text": "迸见的藏伫心肝底",
+      "match_text": "迸见的藏伫心肝底",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-28:0"
+    },
+    {
+      "source_row": 22,
+      "time": 166.61,
+      "online_text": "当作痛的有啥关系",
+      "match_text": "当作痛的有啥关系",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-28:0"
+    },
+    {
+      "source_row": 23,
+      "time": 174.38,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 24,
+      "time": 187.97,
+      "online_text": "干 我台湾人袂晓讲台湾话",
+      "match_text": "干 我台湾人袂晓讲台湾话",
+      "text": "(幹 我台灣人袂曉講台灣話)",
+      "spelling": "(kàn guá tâi-uân-lâng bē-hiáu kóng tâi-uân-uē)",
+      "manual_id": "line-31:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 25,
+      "time": 192.71,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 26,
+      "time": 222.3,
+      "online_text": "一只鸡跋伫深谷底",
+      "match_text": "一只鸡跋伫深谷底",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-34:0"
+    },
+    {
+      "source_row": 27,
+      "time": 229.44,
+      "online_text": "到死亦系一只鸡",
+      "match_text": "到死亦系一只鸡",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-34:0"
+    },
+    {
+      "source_row": 28,
+      "time": 236.32,
+      "online_text": "魂系一直飞",
+      "match_text": "魂系一直飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-37:0"
+    },
+    {
+      "source_row": 29,
+      "time": 239.86,
+      "online_text": "魂系一直飞",
+      "match_text": "魂系一直飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-37:0"
+    },
+    {
+      "source_row": 30,
+      "time": 250.71,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 31,
+      "time": 278.58,
+      "online_text": "亦未脚踏实地",
+      "match_text": "亦未脚踏实地",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 282.07,
+      "online_text": "你就想欲飞",
+      "match_text": "你就想欲飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 285.61,
+      "online_text": "亦未脚踏实地",
+      "match_text": "亦未脚踏实地",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 289.06,
+      "online_text": "你就想欲飞",
+      "match_text": "你就想欲飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 292.69,
+      "online_text": "亦未脚踏实地",
+      "match_text": "亦未脚踏实地",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 296.21,
+      "online_text": "你就想欲飞",
+      "match_text": "你就想欲飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 302.72,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "ee50790795475131d37134777fade73235554f39679f94620caedabbfcde56e8",
+    "manual": "2f3d52cea3ce37ba6a50676bf1e827d40f1ed1a300ae38787f3006466117b4e9",
+    "timed": "d4ee53b0da6dbd914dbb3a35bfd348178f347f7aa1ae5c1027644649ff998c11"
+  }
+}

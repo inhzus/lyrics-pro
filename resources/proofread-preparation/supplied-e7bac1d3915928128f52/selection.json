@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "song_id": 399367436,
+    "title": "面对",
+    "artists": [
+      "夕阳武士"
+    ],
+    "album": "日出",
+    "duration": 202.5,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:399367436",
+      "duration": 202.5,
+      "ready": false,
+      "coverage": 0.48,
+      "exact_fraction": 0.48,
+      "summary": {
+        "credit": 3,
+        "unresolved": 13,
+        "repeat": 12
+      }
+    }
+  ]
+}

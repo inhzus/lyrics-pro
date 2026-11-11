@@ -1,0 +1,227 @@
+{
+  "recording_id": "netease:2706345336",
+  "timing_source": "NetEase https://music.163.com/song?id=2706345336",
+  "manual_source": "User-supplied resources/lyrics-spelling/歹逗陣-男子漢樂團",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "unresolved": 12
+  },
+  "review_row_count": 12,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0"
+  ],
+  "unused_repeat_ids": [
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0",
+    "line-58:0",
+    "line-61:0",
+    "line-64:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 狗斌",
+      "match_text": "作词 : 狗斌",
+      "text": "作词 : 狗斌",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 狗斌",
+      "match_text": "作曲 : 狗斌",
+      "text": "作曲 : 狗斌",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 17.58,
+      "online_text": "歹逗阵",
+      "match_text": "歹逗阵",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 18.03,
+      "online_text": "词／曲：狗斌",
+      "match_text": "词／曲：狗斌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 28.98,
+      "online_text": "朋友那会这歹逗阵  躲伫厝是底冲啥咪",
+      "match_text": "朋友那会这歹逗阵  躲伫厝是底冲啥咪",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 66.72,
+      "online_text": "朋友那会这无趣味  甲你相邀煞来装一枯脸",
+      "match_text": "朋友那会这无趣味  甲你相邀煞来装一枯脸",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 89.76,
+      "online_text": "朋友那会这歹逗阵  为了一句讲话无心",
+      "match_text": "朋友那会这歹逗阵  为了一句讲话无心",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 122.55,
+      "online_text": "朋友那会这无趣味  随便就来打坏感情",
+      "match_text": "朋友那会这无趣味  随便就来打坏感情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 130.02,
+      "online_text": "我呒是计较啥咪  嘛呒是为着甲己",
+      "match_text": "我呒是计较啥咪  嘛呒是为着甲己",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 137.1,
+      "online_text": "作夥七逃博感情  你那会这歹逗阵",
+      "match_text": "作夥七逃博感情  你那会这歹逗阵",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 142.44,
+      "online_text": "这歹逗阵  你那会这歹逗阵  来啦朋友咱作夥来饮",
+      "match_text": "这歹逗阵  你那会这歹逗阵  来啦朋友咱作夥来饮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 147.84,
+      "online_text": "这歹逗阵  你那会这歹逗阵  甘讲一定要搏心机",
+      "match_text": "这歹逗阵  你那会这歹逗阵  甘讲一定要搏心机",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 160.08,
+      "online_text": "这歹逗阵  你那会这歹逗阵  来啦朋友咱是兄弟",
+      "match_text": "这歹逗阵  你那会这歹逗阵  来啦朋友咱是兄弟",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 168.9,
+      "online_text": "这歹逗阵  你那会这歹逗阵  因为兄弟阮安怎拢甲你挺",
+      "match_text": "这歹逗阵  你那会这歹逗阵  因为兄弟阮安怎拢甲你挺",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "3ecebcedfc77416420461846ba626d067687c0c72f7788bca8ea24b44a232660",
+    "manual": "f22490e3c62e87fdd66ff04d208e71e179f583a592fdb8d7a9799b860dcd0a28",
+    "timed": "dab944198af892d376f543bbc951daee8cbf91341ff0b1f298308bb9bb23a265"
+  }
+}

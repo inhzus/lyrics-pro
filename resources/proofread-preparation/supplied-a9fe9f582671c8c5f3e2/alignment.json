@@ -1,0 +1,415 @@
+{
+  "recording_id": "netease:68875",
+  "timing_source": "NetEase https://music.163.com/song?id=68875",
+  "manual_source": "User-supplied resources/lyrics-spelling/出運-陳雷",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 1,
+    "unresolved": 28
+  },
+  "review_row_count": 28,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-3:0",
+    "line-6:0",
+    "line-9:0",
+    "line-12:0",
+    "line-15:0",
+    "line-18:0",
+    "line-21:0",
+    "line-24:0",
+    "line-27:0",
+    "line-30:0",
+    "line-33:0",
+    "line-36:0",
+    "line-39:0",
+    "line-42:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "编曲 : 尤景仰",
+      "match_text": "编曲 : 尤景仰",
+      "text": "编曲 : 尤景仰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 13.6,
+      "online_text": "一时风 驶一时船",
+      "match_text": "一时风 驶一时船",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 2,
+      "time": 20.91,
+      "online_text": "一咧人 一款的命运",
+      "match_text": "一咧人 一款的命运",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 27.61,
+      "online_text": "我可比 海上的帆船",
+      "match_text": "我可比 海上的帆船",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 34.0,
+      "online_text": "要去叼位 无人关心无人问",
+      "match_text": "要去叼位 无人关心无人问",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 40.95,
+      "online_text": "窗门外 风雨冷酸酸",
+      "match_text": "窗门外 风雨冷酸酸",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 47.75,
+      "online_text": "尚惊耽误心爱你的青春",
+      "match_text": "尚惊耽误心爱你的青春",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 54.42,
+      "online_text": "人讲三年一运 好歹照轮",
+      "match_text": "人讲三年一运 好歹照轮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 61.01,
+      "online_text": "认真打拼的人 一定会出运",
+      "match_text": "认真打拼的人 一定会出运",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 68.48,
+      "online_text": "拼出运啊拼出运",
+      "match_text": "拼出运啊拼出运",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 71.54,
+      "online_text": "想着前途半暝呒敢困",
+      "match_text": "想着前途半暝呒敢困",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 78.5,
+      "online_text": "拼出运啊拼出运",
+      "match_text": "拼出运啊拼出运",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 81.62,
+      "online_text": "呒惊离离落落的命运",
+      "match_text": "呒惊离离落落的命运",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 102.89,
+      "online_text": "一时风 驶一时船",
+      "match_text": "一时风 驶一时船",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 109.23,
+      "online_text": "一咧人 一款的命运",
+      "match_text": "一咧人 一款的命运",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 115.98,
+      "online_text": "我可比 海上的帆船",
+      "match_text": "我可比 海上的帆船",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 122.37,
+      "online_text": "要去叼位 无人关心无人问",
+      "match_text": "要去叼位 无人关心无人问",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 128.76,
+      "online_text": "窗门外 风雨冷酸酸",
+      "match_text": "窗门外 风雨冷酸酸",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 135.76,
+      "online_text": "尚惊耽误心爱你的青春",
+      "match_text": "尚惊耽误心爱你的青春",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 142.66,
+      "online_text": "人讲三年一运 好歹照轮",
+      "match_text": "人讲三年一运 好歹照轮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 149.36,
+      "online_text": "认真打拼的人 一定会出运",
+      "match_text": "认真打拼的人 一定会出运",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 156.78,
+      "online_text": "拼出运啊拼出运",
+      "match_text": "拼出运啊拼出运",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 159.95,
+      "online_text": "想着前途半暝呒敢困",
+      "match_text": "想着前途半暝呒敢困",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 166.8,
+      "online_text": "拼出运啊拼出运",
+      "match_text": "拼出运啊拼出运",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 170.02,
+      "online_text": "呒惊离离落落的命运",
+      "match_text": "呒惊离离落落的命运",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 186.94,
+      "online_text": "拼出运啊拼出运",
+      "match_text": "拼出运啊拼出运",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 190.31,
+      "online_text": "想着前途半暝呒敢困",
+      "match_text": "想着前途半暝呒敢困",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 196.75,
+      "online_text": "拼出运啊拼出运",
+      "match_text": "拼出运啊拼出运",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 199.87,
+      "online_text": "呒惊离离落落的命运",
+      "match_text": "呒惊离离落落的命运",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "f2278807d27ebf977d97485d0306b6ccc7803ceddf6112326abe085ae2d43d29",
+    "manual": "031af5bb6b24be92dcbaef9e844bac12aeeadfdbfb8e693fd772a469e31f2899",
+    "timed": "280a23495273c67a1df05138edcf4100a460c41c6eed61f5602c84c1c7488d5d"
+  }
+}

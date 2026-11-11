@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 28528285,
+    "title": "命运点歌",
+    "artists": [
+      "萧煌奇"
+    ],
+    "album": "上水的花",
+    "duration": 326.866,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:28528285",
+      "duration": 326.866,
+      "ready": false,
+      "coverage": 0.5135135135135135,
+      "exact_fraction": 0.2702702702702703,
+      "summary": {
+        "credit": 2,
+        "unresolved": 18,
+        "approximate": 9,
+        "repeat": 10
+      }
+    }
+  ]
+}

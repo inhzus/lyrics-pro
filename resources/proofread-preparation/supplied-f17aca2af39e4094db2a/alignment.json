@@ -1,0 +1,396 @@
+{
+  "recording_id": "lrcapi:1230303049",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E4%BA%8C%E5%8D%81%E5%9B%9B&artist=%E5%AD%A9%E5%AD%90%E7%8E%8B&album=%E6%9C%80%E7%AA%98%E4%B8%B8#1230303049",
+  "manual_source": "User-supplied resources/lyrics-spelling/二十四-孩子王",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "approximate": 5,
+    "unresolved": 21
+  },
+  "review_row_count": 26,
+  "unmatched_manual_ids": [
+    "line-9:0"
+  ],
+  "unused_repeat_ids": [
+    "line-15:0",
+    "line-18:0",
+    "line-21:0",
+    "line-24:0",
+    "line-27:0",
+    "line-30:0",
+    "line-33:0",
+    "line-36:0",
+    "line-39:0",
+    "line-42:0",
+    "line-45:0",
+    "line-48:0",
+    "line-51:0",
+    "line-54:0",
+    "line-57:0",
+    "line-60:0",
+    "line-63:0",
+    "line-66:0",
+    "line-69:0",
+    "line-72:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 32.88,
+      "online_text": "在二十四這冬 橐袋仔還是空空",
+      "match_text": "在二十四這冬 橐袋仔還是空空",
+      "text": "在二十四這年 口袋還是空空",
+      "spelling": "tī jī tsa̍p sì tsit thàng lak-tē-á iā-sī khang khang",
+      "manual_id": "line-3:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 1,
+      "time": 40.45,
+      "online_text": "舊年生日願望 心內真多的不甘",
+      "match_text": "舊年生日願望 心內真多的不甘",
+      "text": "去年生日願望 心內很多的不甘",
+      "spelling": "kū-nî senn-ji̍t guān-bōng sim-lāi tsin tsē ê m̄ kam",
+      "manual_id": "line-6:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.846154
+    },
+    {
+      "source_row": 2,
+      "time": 48.0,
+      "online_text": "春夏過又到秋冬 阮閣咧四界探",
+      "match_text": "春夏過又到秋冬 阮閣咧四界探",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 55.61,
+      "online_text": "會曉的无半項 已經有人做狀元",
+      "match_text": "會曉的无半項 已經有人做狀元",
+      "text": "會曉的沒半項 已經有人做狀元",
+      "spelling": "ē hiáu ê bô puànn hāng í-king ū lâng tsuè tsiōng-guân",
+      "manual_id": "line-12:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 4,
+      "time": 78.63,
+      "online_text": "在這二十幾冬 抓袂住的時間",
+      "match_text": "在這二十幾冬 抓袂住的時間",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 86.08,
+      "online_text": "今年生日願望 袂當後悔一世人",
+      "match_text": "今年生日願望 袂當後悔一世人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 93.59,
+      "online_text": "春夏過又到秋冬 該還的嘛還完",
+      "match_text": "春夏過又到秋冬 該還的嘛還完",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 101.32,
+      "online_text": "就算不會半項 嘛欲繼續做眠夢",
+      "match_text": "就算不會半項 嘛欲繼續做眠夢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 108.88,
+      "online_text": "眠夢阿眠夢 阮攏袂怨嘆",
+      "match_text": "眠夢阿眠夢 阮攏袂怨嘆",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 116.52,
+      "online_text": "眠夢阿眠夢 阮攏歡喜甘願",
+      "match_text": "眠夢阿眠夢 阮攏歡喜甘願",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 124.1,
+      "online_text": "這是阮欲行的路 不管有多少阻擋",
+      "match_text": "這是阮欲行的路 不管有多少阻擋",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 134.16,
+      "online_text": "拳頭掐著嘛要一直向前衝",
+      "match_text": "拳頭掐著嘛要一直向前衝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 139.39,
+      "online_text": "這是阮欲行的路 不管有多少痛苦",
+      "match_text": "這是阮欲行的路 不管有多少痛苦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 149.41,
+      "online_text": "喙根咬來嘛要一直向前衝",
+      "match_text": "喙根咬來嘛要一直向前衝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 190.5,
+      "online_text": "在這二十幾冬 抓袂住的時間",
+      "match_text": "在這二十幾冬 抓袂住的時間",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 196.91,
+      "online_text": "今年生日願望 袂當後悔一世人",
+      "match_text": "今年生日願望 袂當後悔一世人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 203.09,
+      "online_text": "春夏過又到秋冬 該還的嘛還完",
+      "match_text": "春夏過又到秋冬 該還的嘛還完",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 209.52,
+      "online_text": "就算不會半項 嘛欲繼續做眠夢",
+      "match_text": "就算不會半項 嘛欲繼續做眠夢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 215.96,
+      "online_text": "眠夢阿眠夢 阮攏袂怨嘆",
+      "match_text": "眠夢阿眠夢 阮攏袂怨嘆",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 222.18,
+      "online_text": "眠夢阿眠夢 阮攏歡喜甘願",
+      "match_text": "眠夢阿眠夢 阮攏歡喜甘願",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 228.46,
+      "online_text": "這是阮欲行的路 不管有多少阻擋",
+      "match_text": "這是阮欲行的路 不管有多少阻擋",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 236.56,
+      "online_text": "拳頭掐著嘛要一直向前衝",
+      "match_text": "拳頭掐著嘛要一直向前衝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 241.13,
+      "online_text": "這是阮欲行的路 不管有多少痛苦",
+      "match_text": "這是阮欲行的路 不管有多少痛苦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 249.22,
+      "online_text": "喙根咬來嘛要一直向前衝",
+      "match_text": "喙根咬來嘛要一直向前衝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 253.17,
+      "online_text": "有覺悟就不通閣再耽誤",
+      "match_text": "有覺悟就不通閣再耽誤",
+      "text": "有覺悟 就不要再耽誤",
+      "spelling": "ū kak-ngōo tio̍h m̄-thang koh-tsài tam-gōo",
+      "manual_id": "line-75:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.842105
+    },
+    {
+      "source_row": 25,
+      "time": 258.12,
+      "online_text": "勇敢行向決定的路",
+      "match_text": "勇敢行向決定的路",
+      "text": "勇敢走向決定的路",
+      "spelling": "ióng-kám kiânn-hiòng kuat-tīng ê lōo",
+      "manual_id": "line-78:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.875
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "60e4e377f32552e7235a20a5110d6314dbc7b4ee721e6a8ec3331720b7d35f98",
+    "manual": "fb34a335a2c69bd03b911f34ab9f804d024c03f5d373b80733a8ed5f05218c48",
+    "timed": "ece9485b4297355da650b2625358237a4dc1065a46407a7bebef407e42f6f0df"
+  }
+}

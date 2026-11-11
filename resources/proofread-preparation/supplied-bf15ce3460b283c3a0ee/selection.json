@@ -1,0 +1,41 @@
+{
+  "selected": {
+    "song_id": 452614918,
+    "title": "何时再见梦中人",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "圣石传说 电影原声带",
+    "duration": 231.573,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:452614918",
+      "duration": 231.573,
+      "ready": false,
+      "coverage": 0.36363636363636365,
+      "exact_fraction": 0.22727272727272727,
+      "summary": {
+        "credit": 2,
+        "unresolved": 14,
+        "exact": 5,
+        "approximate": 3,
+        "gap": 1
+      }
+    },
+    {
+      "recording_id": "netease:157024",
+      "duration": 231.573,
+      "ready": false,
+      "coverage": 0.2748091603053435,
+      "exact_fraction": 0.0,
+      "summary": {
+        "credit": 2,
+        "approximate": 5,
+        "unresolved": 7
+      }
+    }
+  ]
+}

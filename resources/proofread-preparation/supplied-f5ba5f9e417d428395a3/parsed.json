@@ -1,0 +1,454 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "再會啦我的朋友                                 佇分開的這个下晡",
+      "spelling": "tsài-huē lah guá ê pîng-iú              tī hun-khui tsit-ê ē-poo",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "再會啦我的朋友",
+          "spelling": "tsài-huē lah guá ê pîng-iú"
+        },
+        {
+          "text": "佇分開的這个下晡",
+          "spelling": "tī hun-khui tsit-ê ē-poo"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "你我攏忍不住目箍紅                                        心內誠實寂寞",
+      "spelling": "lí guá lóng jím-put-tsū ba̍k-khoo âng        sim-lāi tsiânn-si̍t siok-bo̍k",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "你我攏忍不住目箍紅",
+          "spelling": "lí guá lóng jím-put-tsū ba̍k-khoo âng"
+        },
+        {
+          "text": "心內誠實寂寞",
+          "spelling": "sim-lāi tsiânn-si̍t siok-bo̍k"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "踮遮短短的生活中                               受著恁的照顧",
+      "spelling": "liam jia té té sing-ua̍h tiong            siū-tio̍h lín ê tsiàu-kòo",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "踮遮短短的生活中",
+          "spelling": "liam jia té té sing-ua̍h tiong"
+        },
+        {
+          "text": "受著恁的照顧",
+          "spelling": "siū-tio̍h lín ê tsiàu-kòo"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "這段情我會一直囥佇心中",
+      "spelling": "tsit tuānn tsîng guá ē it-ti̍t khǹg tī sim-tiong",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "飛行機猶未離開                              已經開始思念恁",
+      "spelling": "pue-lîng-ki iáu-bē lī-khui            í-king khai-sí su-liām lín",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "飛行機猶未離開",
+          "spelling": "pue-lîng-ki iáu-bē lī-khui"
+        },
+        {
+          "text": "已經開始思念恁",
+          "spelling": "í-king khai-sí su-liām lín"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "飛行機頂頭的廣播                                    講台北咧落雨",
+      "spelling": "pue-lîng-ki tíng-thâu ê kóng-pòo        kóng tâi-pak leh lo̍h hōo",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "飛行機頂頭的廣播",
+          "spelling": "pue-lîng-ki tíng-thâu ê kóng-pòo"
+        },
+        {
+          "text": "講台北咧落雨",
+          "spelling": "kóng tâi-pak leh lo̍h hōo"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "踮遮短短的生活中                               受著恁的照顧",
+      "spelling": "liam jia té té sing-ua̍h tiong            siū-tio̍h lín ê tsiàu-kòo",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "踮遮短短的生活中",
+          "spelling": "liam jia té té sing-ua̍h tiong"
+        },
+        {
+          "text": "受著恁的照顧",
+          "spelling": "siū-tio̍h lín ê tsiàu-kòo"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "互相祝福                                  期待再相逢",
+      "spelling": "hōo-siong tsiok-hō                kî-thāi tsài siong-hông",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "互相祝福",
+          "spelling": "hōo-siong tsiok-hō"
+        },
+        {
+          "text": "期待再相逢",
+          "spelling": "kî-thāi tsài siong-hông"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "啊～ 又閣來到人生的雙叉路",
+      "spelling": "ah～ iū-koh lâi kàu lîn-sing ê siang-tshe lōo",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "面對分開總是會寂寞",
+      "spelling": "bīn-tuì hun-khui tsóng-sī ē siok-bo̍k",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "人海茫茫來來去去                                  請毋通傷悲",
+      "spelling": "lîn-hái bâng bâng lâi lâi khì khì        tshiánn m̄-thang siong pi",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "人海茫茫來來去去",
+          "spelling": "lîn-hái bâng bâng lâi lâi khì khì"
+        },
+        {
+          "text": "請毋通傷悲",
+          "spelling": "tshiánn m̄-thang siong pi"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "有一工 我一定會閣轉去",
+      "spelling": "ū tsi̍t kang  guá it-tīng ē koh tńg-khì",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "我會寫一條歌                   後一擺唱予恁聽",
+      "spelling": "guá ē siá tsi̍t tiâu kua    āu tsi̍t pái tshiùnn hōo lín thiann",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "我會寫一條歌",
+          "spelling": "guá ē siá tsi̍t tiâu kua"
+        },
+        {
+          "text": "後一擺唱予恁聽",
+          "spelling": "āu tsi̍t pái tshiùnn hōo lín thiann"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "相逢的時陣                      恁會看見                     閣較好的我",
+      "spelling": "siong-hông ê sî-tsūn    lín ē khuànn-kìnn    koh-khah hó ê guá",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "相逢的時陣",
+          "spelling": "siong-hông ê sî-tsūn"
+        },
+        {
+          "text": "恁會看見",
+          "spelling": "lín ē khuànn-kìnn"
+        },
+        {
+          "text": "閣較好的我",
+          "spelling": "koh-khah hó ê guá"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "這條歌                  是屬佇咱的歌",
+      "spelling": "tse tiâu kua        sī sio̍k tī lán ê kua",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "這條歌",
+          "spelling": "tse tiâu kua"
+        },
+        {
+          "text": "是屬佇咱的歌",
+          "spelling": "sī sio̍k tī lán ê kua"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "屬佇彼一年              你我做陣                行過的性命",
+      "spelling": "sio̍k tī hit tsi̍t nî    lí guá tsuè tīn        kiânn-kuè ê sìnn-miā",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "屬佇彼一年",
+          "spelling": "sio̍k tī hit tsi̍t nî"
+        },
+        {
+          "text": "你我做陣",
+          "spelling": "lí guá tsuè tīn"
+        },
+        {
+          "text": "行過的性命",
+          "spelling": "kiânn-kuè ê sìnn-miā"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "我有寫一條歌                    我這馬唱予恁聽",
+      "spelling": "guá ū siá tsi̍t tiâu kua    guá tsit-má tshiùnn hōo lín thiann",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "我有寫一條歌",
+          "spelling": "guá ū siá tsi̍t tiâu kua"
+        },
+        {
+          "text": "我這馬唱予恁聽",
+          "spelling": "guá tsit-má tshiùnn hōo lín thiann"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "熟似的海岸                     思念的人                  我已經轉來到遮",
+      "spelling": "si̍k-sāi ê hái-huānn     su-liām ê lâng        guá í-king tńg-lâi kàu jia",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "熟似的海岸",
+          "spelling": "si̍k-sāi ê hái-huānn"
+        },
+        {
+          "text": "思念的人",
+          "spelling": "su-liām ê lâng"
+        },
+        {
+          "text": "我已經轉來到遮",
+          "spelling": "guá í-king tńg-lâi kàu jia"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "這條歌                   是屬佇咱的歌",
+      "spelling": "tsi̍t tiâu kua        sī sio̍k tī lán ê kua",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "這條歌",
+          "spelling": "tsi̍t tiâu kua"
+        },
+        {
+          "text": "是屬佇咱的歌",
+          "spelling": "sī sio̍k tī lán ê kua"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "屬佇彼一年             你我做陣                  行過的性命",
+      "spelling": "sio̍k tī hit tsi̍t nî    lí guá tsuè tīn        kiânn-kuè ê sìnn-miā",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "屬佇彼一年",
+          "spelling": "sio̍k tī hit tsi̍t nî"
+        },
+        {
+          "text": "你我做陣",
+          "spelling": "lí guá tsuè tīn"
+        },
+        {
+          "text": "行過的性命",
+          "spelling": "kiânn-kuè ê sìnn-miā"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "這是我寫的歌                我這馬唱予恁聽",
+      "spelling": "tsit sī guá siá ê kua    guá tsit-má tshiùnn hōo lín thiann",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "這是我寫的歌",
+          "spelling": "tsit sī guá siá ê kua"
+        },
+        {
+          "text": "我這馬唱予恁聽",
+          "spelling": "guá tsit-má tshiùnn hōo lín thiann"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "熟似的海岸                     思念的人                  我已經轉來到遮",
+      "spelling": "si̍k-sāi ê hái-huānn     su-liām ê lâng        guá í-king tńg-lâi kàu jia",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "熟似的海岸",
+          "spelling": "si̍k-sāi ê hái-huānn"
+        },
+        {
+          "text": "思念的人",
+          "spelling": "su-liām ê lâng"
+        },
+        {
+          "text": "我已經轉來到遮",
+          "spelling": "guá í-king tńg-lâi kàu jia"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "這條歌                  是屬佇咱的歌",
+      "spelling": "tsi̍t tiâu kua        sī sio̍k tī lán ê kua",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "這條歌",
+          "spelling": "tsi̍t tiâu kua"
+        },
+        {
+          "text": "是屬佇咱的歌",
+          "spelling": "sī sio̍k tī lán ê kua"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "屬佇彼一年             你我做陣                  行過的性命",
+      "spelling": "sio̍k tī hit tsi̍t nî    lí guá tsuè tīn        kiânn-kuè ê sìnn-miā",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "屬佇彼一年",
+          "spelling": "sio̍k tī hit tsi̍t nî"
+        },
+        {
+          "text": "你我做陣",
+          "spelling": "lí guá tsuè tīn"
+        },
+        {
+          "text": "行過的性命",
+          "spelling": "kiânn-kuè ê sìnn-miā"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：楊大正   作曲：楊大正  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

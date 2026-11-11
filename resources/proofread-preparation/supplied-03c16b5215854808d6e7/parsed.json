@@ -1,0 +1,236 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "是誰人這麼想不開                                              是誰人整天歹看面",
+      "spelling": "sī siánn-lâng tsiah-nī siūnn buē khui          sī siánn-lâng kui-kang pháinn khuànn bīn",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "是誰人這麼想不開",
+          "spelling": "sī siánn-lâng tsiah-nī siūnn buē khui"
+        },
+        {
+          "text": "是誰人整天歹看面",
+          "spelling": "sī siánn-lâng kui-kang pháinn khuànn bīn"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "越想越多想不開                                        越來越壞的心情",
+      "spelling": "lú siūnn lú tsuē siūnn bē khui            lú lâi lú pháinn ê sim-tsîng",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "越想越多想不開",
+          "spelling": "lú siūnn lú tsuē siūnn bē khui"
+        },
+        {
+          "text": "越來越壞的心情",
+          "spelling": "lú lâi lú pháinn ê sim-tsîng"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "世界要跟你車拼                                   但是你這國有我",
+      "spelling": "sè-kài beh kā lí tshia-piànn            tān-sī lí tsit kok ū guá",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "世界要跟你車拼",
+          "spelling": "sè-kài beh kā lí tshia-piànn"
+        },
+        {
+          "text": "但是你這國有我",
+          "spelling": "tān-sī lí tsit kok ū guá"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "喔喔 OK 啦 喔喔 OK 啦",
+      "spelling": "ooh ooh OK là  ooh ooh OK là",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "衰尾 我不驚 失敗 嘛不算啥",
+      "spelling": "sue-bué  guá m̄ kiann  sit-pāi  mah bô sǹg siánn",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "去凶改運尚厲害                                    感冒頭痛袂擱來",
+      "spelling": "khì siong kái-ūn siōng lī-hāi            kám-mōo thâu-thiànn buē kok lâi",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "去凶改運尚厲害",
+          "spelling": "khì siong kái-ūn siōng lī-hāi"
+        },
+        {
+          "text": "感冒頭痛袂擱來",
+          "spelling": "kám-mōo thâu-thiànn buē kok lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "別人叫你憨大呆                                 你的心情阮了解",
+      "spelling": "pa̍t-lâng kiò lí gōng tuā tai            lí ê sim-tsîng gún liáu-kái",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "別人叫你憨大呆",
+          "spelling": "pa̍t-lâng kiò lí gōng tuā tai"
+        },
+        {
+          "text": "你的心情阮了解",
+          "spelling": "lí ê sim-tsîng gún liáu-kái"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "人生沒蝦米輸贏                                      重要是不要孤單",
+      "spelling": "lîn-sing bô-siánn-mi̍h su-iânn            tiōng-iàu sī m̄-tàng koo-tuann",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "人生沒蝦米輸贏",
+          "spelling": "lîn-sing bô-siánn-mi̍h su-iânn"
+        },
+        {
+          "text": "重要是不要孤單",
+          "spelling": "tiōng-iàu sī m̄-tàng koo-tuann"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "喔喔 OK 啦 喔喔 OK 啦",
+      "spelling": "ooh ooh OK là  ooh ooh OK là",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "衰尾 我不驚 失敗 哪有啥",
+      "spelling": "sue-bué  guá m̄ kiann  sit-pāi  kám ū siánn",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "喔喔 OK 啦 喔喔 OK 啦",
+      "spelling": "ooh ooh OK là  ooh ooh OK là",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "放輕鬆才快活 失敗 嘛不算啥",
+      "spelling": "pàng khin-sang  tsiah khuìnn-ua̍h sit-pāi mah bô sǹg siánn",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "頭殼歹去賭性命 誰想開誰人快活",
+      "spelling": "thâu-khak pháinn-khì tóo sìnn-miā  siáng siūnn khui siánn-lâng khuìnn-ua̍h",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "喔喔 OK 啦 喔喔 OK 啦",
+      "spelling": "ooh ooh OK là  ooh ooh OK là",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "衰尾 我不驚 失敗 哪有啥",
+      "spelling": "sue-bué  guá m̄ kiann  sit-pāi  kám ū siánn",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "喔喔 OK 啦 喔喔 OK 啦",
+      "spelling": "ooh ooh OK là  ooh ooh OK là",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "放輕鬆才快活 失敗 嘛不算啥",
+      "spelling": "sue-bué  guá m̄ kiann  sit-pāi  kám ū siánn",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "OK OK OK OK OK OK OK OK 啦",
+      "spelling": "OK OK OK OK OK OK OK OK là",
+      "source_lines": [
+        54,
+        55
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：阿信   作曲：阿信  台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

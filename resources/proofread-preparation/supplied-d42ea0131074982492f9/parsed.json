@@ -1,0 +1,187 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "野草無花嘛會當活　暗暝無月還有燈影",
+      "spelling": "iá-tsháu bô hue mā ē-tàng ua̍h àm-mî bô gue̍h iáu-ū ting iánn",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "若會當將情字參破　心剩一半　甲誰換",
+      "spelling": "ná ē-tàng tsiòng tsîng jī tsham phuà sim tshun tsi̍t puànn kā siáng uānn",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "傷心雷雨怎樣閃避　癡情目屎奈擦袂乾",
+      "spelling": "siong-sim luî hōo tsuánn-iūnn siám-phiah tshi-tsîng ba̍k-sái nāi tshit buē-ta",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "往事若移巢的螞蟻　思念請你放阮煞",
+      "spelling": "óng-sū ná suá siū ê káu-hiā su-liām tshiánn lí pàng gún suah",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "莎喲娜啦　明知空咒誓並無算啥",
+      "spelling": "sá io nā là miâ tsai khang tsiù-tsuā pīng bô sǹg siánn",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "為怎樣我　割情線像割性命",
+      "spelling": "uî-tsuánn-iūnn guá kuah tsîng suànn tshiūnn kuah sìnn-miā",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "莎喲娜啦　麥講賣想甘就袂心痛",
+      "spelling": "sá io nā là mái kóng mái siūnn kam tio̍h buē sim-thiànn",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "愛凝情磨誰知影",
+      "spelling": "ài gîng tsîng thua tsai-iánn",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "怨嘆當初無斟酌看　未來安怎甘著認命",
+      "spelling": "uàn-thàn tong-tshoo bô tsim-tsiok khuànn bī-lâi an-tsuánn kam tio̍h jīn-miā",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "若會當將緣分參破　心剩一半　甲誰換",
+      "spelling": "ná ē-tàng tsiòng iân hun tsham phuà sim tshun tsi̍t puànn kā siáng uānn",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "傷心雷雨怎樣閃避　癡情目屎奈擦袂乾",
+      "spelling": "siong-sim luî hōo tsuánn-iūnn siám-phiah tshi-tsîng ba̍k-sái nāi tshit buē-ta",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "往事若移巢的螞蟻　思念請你放阮煞",
+      "spelling": "óng-sū ná suá siū ê káu-hiā su-liām tshiánn lí pàng gún suah",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "莎喲娜啦　明知空咒誓並無算啥",
+      "spelling": "sá io nā là miâ tsai khang tsiù-tsuā pīng bô sǹg siánn",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "為怎樣我　割情線像割性命",
+      "spelling": "uî-tsuánn-iūnn guá kuah tsîng suànn tshiūnn kuah sìnn-miā",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "莎喲娜啦　麥講賣想甘就袂心痛",
+      "spelling": "sá io nā là mái kóng mái siūnn kam tio̍h buē sim-thiànn",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "愛凝情磨誰知影",
+      "spelling": "ài gîng tsîng thua tsai-iánn",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "莎喲娜啦　要叫阮怎樣袂想你啊",
+      "spelling": "sá io nā là ài kiò gún tsuánn-iūnn buē siūnn lí ah",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "不驚孤單　只驚你心內無我",
+      "spelling": "m̄-kiann koo-tuann tsí kiann lí sim-lāi bô guá",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "莎喲娜啦　麥猜麥問甘就袂心痛",
+      "spelling": "sá io nā là mái ioh mái mn̄g kam tio̍h buē sim-thiànn",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "阮的心你甘知影",
+      "spelling": "gún ê sim lí kam tsai-iánn",
+      "source_lines": [
+        58,
+        59
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

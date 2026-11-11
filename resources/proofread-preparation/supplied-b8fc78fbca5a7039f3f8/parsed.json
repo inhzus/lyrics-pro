@@ -1,0 +1,449 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "做雞著愛筅    做人著愛反",
+      "spelling": "tsò ke tio̍h ài tshíng  tsò lâng tio̍h ài píng",
+      "source_lines": [
+        1,
+        2
+      ],
+      "parts": [
+        {
+          "text": "做雞著愛筅",
+          "spelling": "tsò ke tio̍h ài tshíng"
+        },
+        {
+          "text": "做人著愛反",
+          "spelling": "tsò lâng tio̍h ài píng"
+        }
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "拍過難關  拍出熱情  拍出咱的前程",
+      "spelling": "phah-kuè lân-kuan phah tshut lia̍t-tsîng  phah tshut lán ê tsiân-tîng",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "人  一世人  風景  無仝款",
+      "spelling": "lâng  tsi̍t-sì-lâng  hong-kíng  bô kâng-khuán",
+      "source_lines": [
+        7,
+        8
+      ],
+      "parts": [
+        {
+          "text": "人",
+          "spelling": "lâng"
+        },
+        {
+          "text": "一世人",
+          "spelling": "tsi̍t-sì-lâng"
+        },
+        {
+          "text": "風景",
+          "spelling": "hong-kíng"
+        },
+        {
+          "text": "無仝款",
+          "spelling": "bô kâng-khuán"
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "春夏秋冬 一冬兩冬  愛做就愛動",
+      "spelling": "tshun hā tshiu tang tsi̍t tang nn̄g tang  ài tsò tio̍h ài tāng",
+      "source_lines": [
+        10,
+        11
+      ],
+      "parts": [
+        {
+          "text": "春夏秋冬 一冬兩冬",
+          "spelling": "tshun hā tshiu tang tsi̍t tang nn̄g tang"
+        },
+        {
+          "text": "愛做就愛動",
+          "spelling": "ài tsò tio̍h ài tāng"
+        }
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "天地無限  回頭是岸  鼓聲一直響",
+      "spelling": "thinn-tē bû hān  huê-thâu sī gān  kóo-siann it-ti̍t hiáng",
+      "source_lines": [
+        13,
+        14
+      ],
+      "parts": [
+        {
+          "text": "天地無限",
+          "spelling": "thinn-tē bû hān"
+        },
+        {
+          "text": "回頭是岸",
+          "spelling": "huê-thâu sī gān"
+        },
+        {
+          "text": "鼓聲一直響",
+          "spelling": "kóo-siann it-ti̍t hiáng"
+        }
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "天搖地動  風吹草動  屈勢攏相仝",
+      "spelling": "thinn iô tē-tāng  hong-tshue-tsháu-tāng  khut-sè lóng sio-kâng",
+      "source_lines": [
+        16,
+        17
+      ],
+      "parts": [
+        {
+          "text": "天搖地動",
+          "spelling": "thinn iô tē-tāng"
+        },
+        {
+          "text": "風吹草動",
+          "spelling": "hong-tshue-tsháu-tāng"
+        },
+        {
+          "text": "屈勢攏相仝",
+          "spelling": "khut-sè lóng sio-kâng"
+        }
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "心內有夢  天下無雙  鼓聲繼續響",
+      "spelling": "sim-lāi ū bāng  thian-hā bô siang  kóo-siann kè-sio̍k hiáng",
+      "source_lines": [
+        19,
+        20
+      ],
+      "parts": [
+        {
+          "text": "心內有夢",
+          "spelling": "sim-lāi ū bāng"
+        },
+        {
+          "text": "天下無雙",
+          "spelling": "thian-hā bô siang"
+        },
+        {
+          "text": "鼓聲繼續響",
+          "spelling": "kóo-siann kè-sio̍k hiáng"
+        }
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "綴我拍",
+      "spelling": "tuè guá phah",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "鼓聲有夠猛  氣勢像海湧",
+      "spelling": "kóo-siann ū kàu bíng  khì-sè tshiūnn hái-íng",
+      "source_lines": [
+        25,
+        26
+      ],
+      "parts": [
+        {
+          "text": "鼓聲有夠猛",
+          "spelling": "kóo-siann ū kàu bíng"
+        },
+        {
+          "text": "氣勢像海湧",
+          "spelling": "khì-sè tshiūnn hái-íng"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "拍較大聲  拍出個性  拍出咱的光榮",
+      "spelling": "phah khah tuā-siann  phah tshut kò-sìng  phah tshut lán ê kong-îng",
+      "source_lines": [
+        28,
+        29
+      ],
+      "parts": [
+        {
+          "text": "拍較大聲",
+          "spelling": "phah khah tuā-siann"
+        },
+        {
+          "text": "拍出個性",
+          "spelling": "phah tshut kò-sìng"
+        },
+        {
+          "text": "拍出咱的光榮",
+          "spelling": "phah tshut lán ê kong-îng"
+        }
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "人  一世人  風景  家己揀",
+      "spelling": "lâng  tsi̍t-sì-lâng  hong-kíng  ka-kī kíng",
+      "source_lines": [
+        31,
+        32
+      ],
+      "parts": [
+        {
+          "text": "人",
+          "spelling": "lâng"
+        },
+        {
+          "text": "一世人",
+          "spelling": "tsi̍t-sì-lâng"
+        },
+        {
+          "text": "風景",
+          "spelling": "hong-kíng"
+        },
+        {
+          "text": "家己揀",
+          "spelling": "ka-kī kíng"
+        }
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "春夏秋冬 一冬兩冬  愛做就愛動",
+      "spelling": "tshun hā tshiu tang tsi̍t tang nn̄g tang  ài tsò tio̍h ài tāng",
+      "source_lines": [
+        34,
+        35
+      ],
+      "parts": [
+        {
+          "text": "春夏秋冬 一冬兩冬",
+          "spelling": "tshun hā tshiu tang tsi̍t tang nn̄g tang"
+        },
+        {
+          "text": "愛做就愛動",
+          "spelling": "ài tsò tio̍h ài tāng"
+        }
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "天地無限  回頭是岸  鼓聲一直響",
+      "spelling": "thinn-tē bû hān  huê-thâu sī gān  kóo-siann it-ti̍t hiáng",
+      "source_lines": [
+        37,
+        38
+      ],
+      "parts": [
+        {
+          "text": "天地無限",
+          "spelling": "thinn-tē bû hān"
+        },
+        {
+          "text": "回頭是岸",
+          "spelling": "huê-thâu sī gān"
+        },
+        {
+          "text": "鼓聲一直響",
+          "spelling": "kóo-siann it-ti̍t hiáng"
+        }
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "天搖地動  風吹草動  屈勢攏相仝",
+      "spelling": "thinn iô tē-tāng  hong-tshue-tsháu-tāng  khut-sè lóng sio-kâng",
+      "source_lines": [
+        40,
+        41
+      ],
+      "parts": [
+        {
+          "text": "天搖地動",
+          "spelling": "thinn iô tē-tāng"
+        },
+        {
+          "text": "風吹草動",
+          "spelling": "hong-tshue-tsháu-tāng"
+        },
+        {
+          "text": "屈勢攏相仝",
+          "spelling": "khut-sè lóng sio-kâng"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "心內有夢  天下無雙  鼓聲繼續響",
+      "spelling": "sim-lāi ū bāng  thian-hā bô siang  kóo-siann kè-sio̍k hiáng",
+      "source_lines": [
+        43,
+        44
+      ],
+      "parts": [
+        {
+          "text": "心內有夢",
+          "spelling": "sim-lāi ū bāng"
+        },
+        {
+          "text": "天下無雙",
+          "spelling": "thian-hā bô siang"
+        },
+        {
+          "text": "鼓聲繼續響",
+          "spelling": "kóo-siann kè-sio̍k hiáng"
+        }
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "綴我拍",
+      "spelling": "tuè guá phah",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "春夏秋冬 一冬兩冬  愛做就愛動",
+      "spelling": "tshun hā tshiu tang tsi̍t tang nn̄g tang  ài tsò tio̍h ài tāng",
+      "source_lines": [
+        49,
+        50
+      ],
+      "parts": [
+        {
+          "text": "春夏秋冬 一冬兩冬",
+          "spelling": "tshun hā tshiu tang tsi̍t tang nn̄g tang"
+        },
+        {
+          "text": "愛做就愛動",
+          "spelling": "ài tsò tio̍h ài tāng"
+        }
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "天地無限  回頭是岸  鼓聲一直響",
+      "spelling": "thinn-tē bû hān  huê-thâu sī gān  kóo-siann it-ti̍t hiáng",
+      "source_lines": [
+        52,
+        53
+      ],
+      "parts": [
+        {
+          "text": "天地無限",
+          "spelling": "thinn-tē bû hān"
+        },
+        {
+          "text": "回頭是岸",
+          "spelling": "huê-thâu sī gān"
+        },
+        {
+          "text": "鼓聲一直響",
+          "spelling": "kóo-siann it-ti̍t hiáng"
+        }
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "天搖地動  風吹草動  屈勢攏相仝",
+      "spelling": "thinn iô tē-tāng  hong-tshue-tsháu-tāng  khut-sè lóng sio-kâng",
+      "source_lines": [
+        55,
+        56
+      ],
+      "parts": [
+        {
+          "text": "天搖地動",
+          "spelling": "thinn iô tē-tāng"
+        },
+        {
+          "text": "風吹草動",
+          "spelling": "hong-tshue-tsháu-tāng"
+        },
+        {
+          "text": "屈勢攏相仝",
+          "spelling": "khut-sè lóng sio-kâng"
+        }
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "心內有夢  天下無雙  鼓聲繼續響",
+      "spelling": "sim-lāi ū bāng  thian-hā bô siang  kóo-siann kè-sio̍k hiáng",
+      "source_lines": [
+        58,
+        59
+      ],
+      "parts": [
+        {
+          "text": "心內有夢",
+          "spelling": "sim-lāi ū bāng"
+        },
+        {
+          "text": "天下無雙",
+          "spelling": "thian-hā bô siang"
+        },
+        {
+          "text": "鼓聲繼續響",
+          "spelling": "kóo-siann kè-sio̍k hiáng"
+        }
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "綴我拍",
+      "spelling": "tuè guá phah",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "綴我拍",
+      "spelling": "tuè guá phah",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "綴我拍",
+      "spelling": "tuè guá phah",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "綴我拍",
+      "spelling": "tuè guá phah",
+      "source_lines": [
+        70,
+        71
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

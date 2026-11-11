@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 461811476,
+      "title": "再会吧！青春",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "再会吧！青春",
+      "duration": 333.815,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

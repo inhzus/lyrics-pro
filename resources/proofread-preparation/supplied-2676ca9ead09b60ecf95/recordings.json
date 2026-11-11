@@ -1,0 +1,29 @@
+{
+  "candidates": [
+    {
+      "song_id": 161137,
+      "title": "雪中花",
+      "artists": [
+        "王识贤",
+        "孙淑媚"
+      ],
+      "album": "男人泪",
+      "duration": 248.733,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 5261205,
+      "title": "雪中花",
+      "artists": [
+        "孙淑媚",
+        "王识贤"
+      ],
+      "album": "台语原情歌",
+      "duration": 248.733,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

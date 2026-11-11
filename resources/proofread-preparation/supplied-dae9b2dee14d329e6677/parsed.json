@@ -1,0 +1,501 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "不知　是對或是不對　        不知　是好或是不好",
+      "spelling": "m̄ tsai  sī tio̍h ia̍h-sī m̄-tio̍h          m̄ tsai    sī hó ia̍h-sī m̄ hó",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "不知你　                 甘會笑阮憨",
+      "spelling": "m̄ tsai lí                 kam ē tshiò gún gōng",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "不知你",
+          "spelling": "m̄ tsai lí"
+        },
+        {
+          "text": "甘會笑阮憨",
+          "spelling": "kam ē tshiò gún gōng"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "夏天　西北雨的下午　        想你　不知影你在哪",
+      "spelling": "jua̍h-thinn  sai-pak hōo ê ē-ngóo    siūnn lí  m̄ tsai-iánn lí tī tó",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "真希望　                看到你的笑容",
+      "spelling": "tsin hi-bāng                khuànn tio̍h lí ê tshiò-iông",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "真希望",
+          "spelling": "tsin hi-bāng"
+        },
+        {
+          "text": "看到你的笑容",
+          "spelling": "khuànn tio̍h lí ê tshiò-iông"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "你的溫暖充滿著阮孤單的心臟",
+      "spelling": "lí ê un-luán tshiong-buán tio̍h gún koo-tuann ê sim-tsōng",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "我不能繼續再等待　        想要對你說",
+      "spelling": "guá bē-tàng kè-sio̍k tsài tán-thāi    siūnn beh tuì lí kóng",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "我不能繼續再等待",
+          "spelling": "guá bē-tàng kè-sio̍k tsài tán-thāi"
+        },
+        {
+          "text": "想要對你說",
+          "spelling": "siūnn beh tuì lí kóng"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "乎你想　        乎你猜　        是誰人整眠煩惱",
+      "spelling": "honnh lí siūnn        honnh lí ioh        sī siánn-lâng kui bîn huân-ló",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "乎你想",
+          "spelling": "honnh lí siūnn"
+        },
+        {
+          "text": "乎你猜",
+          "spelling": "honnh lí ioh"
+        },
+        {
+          "text": "是誰人整眠煩惱",
+          "spelling": "sī siánn-lâng kui bîn huân-ló"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "煩惱著　        無情的風",
+      "spelling": "huân-ló tio̍h        bô tsîng ê hong",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "煩惱著",
+          "spelling": "huân-ló tio̍h"
+        },
+        {
+          "text": "無情的風",
+          "spelling": "bô tsîng ê hong"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "無情的雨　        阻礙咱的路",
+      "spelling": "bô tsîng ê hōo        tsóo-gāi lán ê lōo",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "無情的雨",
+          "spelling": "bô tsîng ê hōo"
+        },
+        {
+          "text": "阻礙咱的路",
+          "spelling": "tsóo-gāi lán ê lōo"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "甲你疼　        甲你惜　        甲你捧在我雙手中",
+      "spelling": "kah lí thiànn        kah lí sioh        kah lí phâng tiàm guá siang-tshiú tiong",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "甲你疼",
+          "spelling": "kah lí thiànn"
+        },
+        {
+          "text": "甲你惜",
+          "spelling": "kah lí sioh"
+        },
+        {
+          "text": "甲你捧在我雙手中",
+          "spelling": "kah lí phâng tiàm guá siang-tshiú tiong"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "我一生唯一的希望　        要給你快樂　        好或不好",
+      "spelling": "guá it-sing uî-it ê hi-bāng        beh hōo lí khuài-lo̍k        hó ia̍h m̄ hó",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "我一生唯一的希望",
+          "spelling": "guá it-sing uî-it ê hi-bāng"
+        },
+        {
+          "text": "要給你快樂",
+          "spelling": "beh hōo lí khuài-lo̍k"
+        },
+        {
+          "text": "好或不好",
+          "spelling": "hó ia̍h m̄ hó"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "日子　有甜也有艱苦　        有你　有我互相照顧",
+      "spelling": "ji̍t-tsí      ū tinn iā ū kan-khóo        ū lí      ū guá hōo siùnn tsiàu-kòo",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "想要聽　        你心內的感想",
+      "spelling": "siūnn beh thiann    lí sim-lāi ê kám-sióng",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "想要聽",
+          "spelling": "siūnn beh thiann"
+        },
+        {
+          "text": "你心內的感想",
+          "spelling": "lí sim-lāi ê kám-sióng"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "親愛　你甘有聽阮講　        親愛　到底是好不好",
+      "spelling": "tshin-ài  lí kam ū thiann gún kóng    tshin-ài tàu-té sī hó m̄ hó",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "甘講你驚阮沒信用　        還是你擱有苦衷",
+      "spelling": "kam kóng lí kiann gún bô sìn-iōng    iáu sī lí koh ū khóo-tsiong",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "甘講你驚阮沒信用",
+          "spelling": "kam kóng lí kiann gún bô sìn-iōng"
+        },
+        {
+          "text": "還是你擱有苦衷",
+          "spelling": "iáu sī lí koh ū khóo-tsiong"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "你的溫暖充滿著阮孤單的心臟",
+      "spelling": "lí ê un-luán tshiong-buán tio̍h gún koo-tuann ê sim-tsōng",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "我等待不能再繼續　        想要對你說",
+      "spelling": "guá tán-thāi bē-tàng kè-sio̍k        siūnn beh tuì lí kóng",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "我等待不能再繼續",
+          "spelling": "guá tán-thāi bē-tàng kè-sio̍k"
+        },
+        {
+          "text": "想要對你說",
+          "spelling": "siūnn beh tuì lí kóng"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "乎你想　        乎你猜　        是誰人整眠煩惱",
+      "spelling": "honnh lí siūnn        honnh lí ioh        sī siánn-lâng kui bîn huân-ló",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "乎你想",
+          "spelling": "honnh lí siūnn"
+        },
+        {
+          "text": "乎你猜",
+          "spelling": "honnh lí ioh"
+        },
+        {
+          "text": "是誰人整眠煩惱",
+          "spelling": "sī siánn-lâng kui bîn huân-ló"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "煩惱著　        無情的風",
+      "spelling": "huân-ló tio̍h        bô tsîng ê hong",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "煩惱著",
+          "spelling": "huân-ló tio̍h"
+        },
+        {
+          "text": "無情的風",
+          "spelling": "bô tsîng ê hong"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "無情的雨　        阻礙咱的路",
+      "spelling": "bô tsîng ê hōo        tsóo-gāi lán ê lōo",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "無情的雨",
+          "spelling": "bô tsîng ê hōo"
+        },
+        {
+          "text": "阻礙咱的路",
+          "spelling": "tsóo-gāi lán ê lōo"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "甲你疼　        甲你惜　        甲你捧在我雙手中",
+      "spelling": "kah lí thiànn        kah lí sioh        kah lí phâng tiàm guá siang-tshiú tiong",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "甲你疼",
+          "spelling": "kah lí thiànn"
+        },
+        {
+          "text": "甲你惜",
+          "spelling": "kah lí sioh"
+        },
+        {
+          "text": "甲你捧在我雙手中",
+          "spelling": "kah lí phâng tiàm guá siang-tshiú tiong"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "我一生唯一的希望　        要給你快樂　        好或不好",
+      "spelling": "guá it-sing uî-it ê hi-bāng        beh hōo lí khuài-lo̍k        hó ia̍h m̄ hó",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "我一生唯一的希望",
+          "spelling": "guá it-sing uî-it ê hi-bāng"
+        },
+        {
+          "text": "要給你快樂",
+          "spelling": "beh hōo lí khuài-lo̍k"
+        },
+        {
+          "text": "好或不好",
+          "spelling": "hó ia̍h m̄ hó"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "乎你想　        乎你猜　        是誰人整眠煩惱",
+      "spelling": "honnh lí siūnn        honnh lí ioh        sī siánn-lâng kui bîn huân-ló",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "乎你想",
+          "spelling": "honnh lí siūnn"
+        },
+        {
+          "text": "乎你猜",
+          "spelling": "honnh lí ioh"
+        },
+        {
+          "text": "是誰人整眠煩惱",
+          "spelling": "sī siánn-lâng kui bîn huân-ló"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "煩惱著　        無情的風",
+      "spelling": "huân-ló tio̍h        bô tsîng ê hong",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "煩惱著",
+          "spelling": "huân-ló tio̍h"
+        },
+        {
+          "text": "無情的風",
+          "spelling": "bô tsîng ê hong"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "無情的雨　        阻礙咱的路",
+      "spelling": "bô tsîng ê hōo        tsóo-gāi lán ê lōo",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "無情的雨",
+          "spelling": "bô tsîng ê hōo"
+        },
+        {
+          "text": "阻礙咱的路",
+          "spelling": "tsóo-gāi lán ê lōo"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "甲你疼　        甲你惜　        甲你捧在我雙手中",
+      "spelling": "kah lí thiànn        kah lí sioh        kah lí phâng tiàm guá siang-tshiú tiong",
+      "source_lines": [
+        78,
+        79
+      ],
+      "parts": [
+        {
+          "text": "甲你疼",
+          "spelling": "kah lí thiànn"
+        },
+        {
+          "text": "甲你惜",
+          "spelling": "kah lí sioh"
+        },
+        {
+          "text": "甲你捧在我雙手中",
+          "spelling": "kah lí phâng tiàm guá siang-tshiú tiong"
+        }
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "我一生唯一的希望　        要給你快樂　        好或不好",
+      "spelling": "guá it-sing uî-it ê hi-bāng        beh hōo lí khuài-lo̍k        hó ia̍h m̄ hó",
+      "source_lines": [
+        81,
+        82
+      ],
+      "parts": [
+        {
+          "text": "我一生唯一的希望",
+          "spelling": "guá it-sing uî-it ê hi-bāng"
+        },
+        {
+          "text": "要給你快樂",
+          "spelling": "beh hōo lí khuài-lo̍k"
+        },
+        {
+          "text": "好或不好",
+          "spelling": "hó ia̍h m̄ hó"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：阿信　作曲： 五月天  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

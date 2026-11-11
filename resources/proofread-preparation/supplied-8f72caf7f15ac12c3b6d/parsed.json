@@ -1,0 +1,184 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "彼個少年ㄟ 你底想啥  這迤那迤攏嘸上班",
+      "spelling": "hit-ê siàu-liân leh  lí té siūnn siánn  tsia sio hiâ sio lóng m̄ siōng-pan",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "落底仔若空空 我看你要吃啥",
+      "spelling": "lo̍h té á ná khang khang  guá khuànn lí ài tsia̍h siánn",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "彼個少年ㄟ 你底衝啥  社會黑暗啊路歹走",
+      "spelling": "hit-ê siàu-liân leh  lí té tshiong siánn siā-huē oo-àm ah lōo pháinn kiânn",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "彼個少年ㄟ 你底衝啥",
+          "spelling": "hit-ê siàu-liân leh"
+        },
+        {
+          "text": "社會黑暗啊路歹走",
+          "spelling": "lí té tshiong siánn siā-huē oo-àm ah lōo pháinn kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "正當的頭路 你甘有影做不合",
+      "spelling": "tsìng-tong ê thâu-lōo  lí kam ū iánn tsò bē ha̍h",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "生活總是嘛要過 嘸通歸工肖想作頭家",
+      "spelling": "sing-ua̍h tsóng-sī mā ài kuè  m̄-thàng kui kang siàu siūnn tsò thâu-ke",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "趁今嘛少年哪嘸打拼",
+      "spelling": "thàn jim mā siàu-liân ná m̄-phah-piànn",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "吃老你是欲安怎 四界借錢渡生活 了然啦",
+      "spelling": "tsia̍h láu lí sī beh an-tsuánn  sì-kè tsioh tsînn tōo sing-ua̍h liáu-liân là",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "彼個少年ㄟ 你是底想啥 七仔一個擱過一個",
+      "spelling": "hit-ê siàu-liân leh  lí sī té siūnn siánn  tshit-á tsi̍t ê goh kuè tsi̍t ê",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "玩甲這多你攏嘸驚會得病",
+      "spelling": "sńg kah tsia tsē lí lóng m̄-kiann ē tio̍h-pēnn",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "彼個少年ㄟ 你底衝三小啦",
+      "spelling": "hit-ê siàu-liân leh  lí té tshiong sánn-siâu là",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "三更半暝煞攏不睏",
+      "spelling": "sann-kenn-puànn-mê suah lóng bô khùn",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "吸那種咪件甘有影卡快活",
+      "spelling": "suh tsióng mi kiānn kam ū iánn khá khuìnn-ua̍h",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "身體總是嘛愛顧 嘸通歸工暝夢做皇帝",
+      "spelling": "sin-thé tsóng-sī mah ài-kòo  m̄-thàng kui kang mî bāng tsò hông-tè",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "你今嘛少年就虛累累",
+      "spelling": "lí jim mā siàu-liân tio̍h hi leī-leī",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "以後吃老欲安怎 艱苦不只你一個 想看嘜",
+      "spelling": "í-āu tsia̍h láu beh an-tsuánn  kan-khóo put-tsí lí tsi̍t ê siūnn khuànn mái",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "生活總是嘛要過 嘸通歸工肖想作頭家",
+      "spelling": "sing-ua̍h tsóng-sī mā ài kuè  m̄-thàng kui kang siàu siūnn tsò thâu-ke",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "趁今嘛少年哪嘸打拼 吃老你是欲安怎",
+      "spelling": "thàn jim mā siàu-liân ná m̄-phah-piànn  tsia̍h láu lí sī beh an-tsuánn",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "四界借錢渡生活 了然啦",
+      "spelling": "sì-kè tsioh tsînn tōo sing-ua̍h liáu-liân là",
+      "source_lines": [
+        54,
+        55
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳永吉   作曲：吳永吉   台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

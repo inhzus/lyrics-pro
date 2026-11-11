@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": "1393950633",
+      "title": "五条港边",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "台南",
+      "duration": 228.573,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1393950633",
+      "title": "五条港边",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "台南",
+      "duration": 228.573,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

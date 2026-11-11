@@ -1,0 +1,205 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "女：也香香　也甜甜　也有少年時　青春的記持",
+      "spelling": "iā phang-phang iā tinn-tinn iā ū siàu-liân-sî tshing-tshun ê kì-tî",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "也酸酸　也冰冰　也親像愛情　難忘的滋味",
+      "spelling": "iā sng sng iā ping ping iā tshin-tshiūnn ài-tsîng lân-bông ê tsu-bī",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "男：上溫柔　上纏綿　上界得人意　初戀彼當時",
+      "spelling": "siōng un-liû siōng tînn mî siōng kài tik lâng ì tshoo-luân hit tang-sî",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "想著伊　夢著伊　心涼脾肚開　五種的氣味",
+      "spelling": "siūnn-tio̍h i bāng-tio̍h i sim-liâng pî thóo khui ngōo tsióng ê khì-bī",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "女：愛玉甲檸檬一旦若分開　有聽過人講叫病相思",
+      "spelling": "ò-giô kā lê-bóng it-tàn ná hun-khui ū thiann-kuè lâng kóng kiò pīnn siunn-si",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "男：若無你呀你　心花袂開　做什麼攏無元氣",
+      "spelling": "ná-bô lí ia lí sim-hue-buē-khui tsuè siánn-mih lóng bô guân-khì",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "女：愛不是好聽話講歸暝　真情話也不免三五字",
+      "spelling": "ài m̄ sī hó-thiann-uē kóng kui-mî tsin tsîng uē iā m̄-bián sann gōo lī",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "男：我願意陪伴惦你身邊　做一對上適配人人欣羨的伴侶",
+      "spelling": "guá guān-ì puê-phuānn tiām lí sin-pinn tsuè tsi̍t tuì siōng su phuè lâng-lâng him-siān ê phuānn li",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "女：夢成雙咱兩人攏有意　這段情就不通擱躊躇",
+      "spelling": "bāng sîng-siang lán nn̄g-lâng lóng ú-ì tsit tuānn tsîng tio̍h m̄-thàng koh tiû-tû",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "男：只要你陪伴惦阮身邊",
+      "spelling": "tsí-iàu lí puê-phuānn tiām gún sin-pinn",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "女：愛玉檸檬就是兩個有情人",
+      "spelling": "ò-giô lê-bóng tio̍h-sī nn̄g-ê ū tsîng-lâng",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "合：愛的名字",
+      "spelling": "ài ê miâ-lī",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "女：也香香　也甜甜　也有少年時　青春的記持",
+      "spelling": "iā phang-phang iā tinn-tinn iā ū siàu-liân-sî tshing-tshun ê kì-tî",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "男：想著伊　夢著伊　心涼脾肚開　五種的氣味",
+      "spelling": "siūnn-tio̍h i bāng-tio̍h i sim-liâng pî thóo khui ngōo tsióng ê khì-bī",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "女：愛玉甲檸檬一旦若分開　有聽過人講叫病相思",
+      "spelling": "ò-giô kā lê-bóng it-tàn ná hun-khui ū thiann-kuè lâng kóng kiò pīnn siunn-si",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "男：若無你呀你　心花袂開　做什麼攏無元氣",
+      "spelling": "ná-bô lí ia lí sim-hue-buē-khui tsuè siánn-mih lóng bô guân-khì",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "女：愛不是好聽話講歸暝　真情話也不免三五字",
+      "spelling": "ài m̄ sī hó-thiann-uē kóng kui-mî tsin tsîng uē iā m̄-bián sann gōo lī",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "男：我願意陪伴惦你身邊　做一對上適配人人欣羨的伴侶",
+      "spelling": "guá guān-ì puê-phuānn tiām lí sin-pinn tsuè tsi̍t tuì siōng su phuè lâng-lâng him-siān ê phuānn li",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "女：夢成雙咱兩人攏有意　這段情就不通擱躊躇",
+      "spelling": "bāng sîng-siang lán nn̄g-lâng lóng ú-ì tsit tuānn tsîng tio̍h m̄-thàng koh tiû-tû",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "男：只要你陪伴惦阮身邊",
+      "spelling": "tsí-iàu lí puê-phuānn tiām gún sin-pinn",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "女：愛玉檸檬就是兩個有情人",
+      "spelling": "ò-giô lê-bóng tio̍h-sī nn̄g-ê ū tsîng-lâng",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "合：愛的名字",
+      "spelling": "ài ê miâ-lī",
+      "source_lines": [
+        64,
+        65
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

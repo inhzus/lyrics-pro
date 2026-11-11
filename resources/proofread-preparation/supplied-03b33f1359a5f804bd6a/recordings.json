@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 386007,
+      "title": "金多虾",
+      "artists": [
+        "五月天"
+      ],
+      "album": "知足 最真杰作选",
+      "duration": 118.425,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

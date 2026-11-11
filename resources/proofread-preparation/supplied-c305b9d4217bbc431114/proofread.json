@@ -1,0 +1,222 @@
+{
+  "recording_id": "netease:248711",
+  "source": "User-supplied resources/lyrics-spelling/老樂師-江蕙",
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "真多人呵咾阮的歌喉",
+      "spelling": "tsin tsē lâng o-ló gún ê kua âu",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "不過伊的名字　真少人介紹",
+      "spelling": "put-kò i ê miâ-lī tsin tsió lâng kài-siāu",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "西裝青青　皮鞋金海結啊頭",
+      "spelling": "se-tsong tshinn tshinn phuê-ê kim hái kat ah thâu",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "大場小場　隨傳隨到",
+      "spelling": "tuā tiûnn sè tiûnn suî thuân suî kàu",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "伊的功夫講起來真正摮",
+      "spelling": "i ê kang-hu kóng-khí-lâi tsin-tsiànn kau",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "青菜教阮幾落招學不了",
+      "spelling": "tshinn-tshài kà gún kuí lo̍h tsiau o̍h-bē-liáu",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "生命的曲調　愈彈心愈透",
+      "spelling": "sìnn-miā ê khik-tiāu lú tuânn sim lú thàu",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "伊講椅仔　愛坐會著",
+      "spelling": "i kóng í-á ài tsē ē tio̍h",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "阮唱歌伊伴奏　一支吉他彈到老",
+      "spelling": "gún tshiùnn-kua i phuānn-tsàu tsi̍t ki gì-tà tuânn-kàu láu",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "惦惦坐咧舞台背後　上驚彈不對人生的調",
+      "spelling": "tiām-tiām tsē leh bú-tâi puē-āu siōng kiann tuânn m̄-tio̍h lîn-sing ê tiâu",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "若不是伊伴奏　阮袂唱甲目屎流",
+      "spelling": "ná m̄ sī i phuānn-tsàu gún buē tshiùnn kā ba̍k-sái lâu",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "惦惦坐咧掌聲背後　無人知影伊外重要",
+      "spelling": "tiām-tiām tsē leh tsióng siann puē-āu bô-lâng tsai-iánn i guā tiōng-iàu",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "真材實料免甲人搶風頭",
+      "spelling": "tsin tsâi si̍t liāu bián kā lâng tshiúnn hong-thâu",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "表演是伊的目標　未無聊",
+      "spelling": "piáu-ián sī i ê bo̍k-piau buē bô-liâu",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "生命的曲調　愈彈心愈透",
+      "spelling": "sìnn-miā ê khik-tiāu lú tuânn sim lú thàu",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "無做主角　伊嘛無計較",
+      "spelling": "bô tsuè tsú-kak i mā bô kè-kàu",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "阮唱歌伊伴奏　一支吉他彈到老",
+      "spelling": "gún tshiùnn-kua i phuānn-tsàu tsi̍t ki gì-tà tuânn-kàu láu",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "惦惦坐咧舞台背後　上驚彈不對人生的調",
+      "spelling": "tiām-tiām tsē leh bú-tâi puē-āu siōng kiann tuânn m̄-tio̍h lîn-sing ê tiâu",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "若不是伊伴奏　阮袂唱甲目屎流",
+      "spelling": "ná m̄ sī i phuānn-tsàu gún buē tshiùnn kā ba̍k-sái lâu",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "惦惦坐咧掌聲背後　無人知影伊外重要",
+      "spelling": "tiām-tiām tsē leh tsióng siann puē-āu bô-lâng tsai-iánn i guā tiōng-iàu",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "阮唱歌伊伴奏　一支吉他彈到老",
+      "spelling": "gún tshiùnn-kua i phuānn-tsàu tsi̍t ki gì-tà tuânn-kàu láu",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "惦惦坐咧舞台背後　上驚彈不對人生的調",
+      "spelling": "tiām-tiām tsē leh bú-tâi puē-āu siōng kiann tuânn m̄-tio̍h lîn-sing ê tiâu",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "若不是伊伴奏　阮袂唱甲目屎流",
+      "spelling": "ná m̄ sī i phuānn-tsàu gún buē tshiùnn kā ba̍k-sái lâu",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "惦惦坐咧掌聲背後　無人知影伊外重要",
+      "spelling": "tiām-tiām tsē leh tsióng siann puē-āu bô-lâng tsai-iánn i guā tiōng-iàu",
+      "source_lines": [
+        70,
+        71
+      ]
+    }
+  ]
+}

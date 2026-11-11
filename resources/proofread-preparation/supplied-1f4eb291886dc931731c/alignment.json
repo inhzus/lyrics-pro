@@ -1,0 +1,315 @@
+{
+  "recording_id": "netease:28661105",
+  "timing_source": "NetEase https://music.163.com/song?id=28661105",
+  "manual_source": "User-supplied resources/lyrics-spelling/你給人嘿-陳建瑋",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "unresolved": 3,
+    "exact": 9,
+    "repeat": 8,
+    "approximate": 3
+  },
+  "review_row_count": 6,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-19:0",
+    "line-55:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0.999,
+      "online_text": "陈建玮-你给人嘿",
+      "match_text": "陈建玮-你给人嘿",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 21.15,
+      "online_text": "我无咧酒醉乌白花嘛毋是头眩假坦白",
+      "match_text": "我无咧酒醉乌白花嘛毋是头眩假坦白",
+      "text": "我無咧酒醉烏白花 嘛毋是頭眩假坦白",
+      "spelling": "guá bô leh tsiú-tsuì oo pe̍h hue mā m̄ sī thâu-hîn ké thán-pi̍k",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 29.02,
+      "online_text": "有一寡铓角爱你讲详细趁无风无雨月光暝",
+      "match_text": "有一寡铓角爱你讲详细趁无风无雨月光暝",
+      "text": "有一寡鋩角愛你講詳細 趁無風無雨月光暝",
+      "spelling": "ū tsi̍t-kuá mê-kak ài lí kóng siông-suè thàn bô-hong bô-hōo ge̍h-kng mê",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 37.07,
+      "online_text": "你身边胡蝇颺颺飞飞袂到你的心肝底",
+      "match_text": "你身边胡蝇颺颺飞飞袂到你的心肝底",
+      "text": "你身邊胡蠅颺颺飛 飛袂到你的心肝底",
+      "spelling": "lí sin-pinn hôo-sîn iānn iānn pue pue-bē-kàu lí ê sim-kuann té",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 44.908,
+      "online_text": "为啥物对阮放电使目尾阁定定咧招阮入来坐",
+      "match_text": "为啥物对阮放电使目尾阁定定咧招阮入来坐",
+      "text": "為啥物對我放電使目尾 閣定定咧招阮入來坐",
+      "spelling": "uī-siánn-mi̍h tuì gún pàng tiān sái ba̍k-bué koh tiānn-tiānn leh tsio gún ji̍p-lâi tsē",
+      "manual_id": "line-10:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.947368
+    },
+    {
+      "source_row": 5,
+      "time": 54.58,
+      "online_text": "无闲的城市内五色的人一蕊蕊挤烧的仝款的梦",
+      "match_text": "无闲的城市内五色的人一蕊蕊挤烧的仝款的梦",
+      "text": "無閒的城市內五色的人 一蕊蕊擠燒的仝款的夢",
+      "spelling": "bô-îng ê siânn-tshī lāi ngóo-sik ê lâng tsi̍t luí luí kheh sio ê kâng-khuán ê bāng",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 62.109,
+      "online_text": "你讲我橐袋仔虽然空空心内有轻重",
+      "match_text": "你讲我橐袋仔虽然空空心内有轻重",
+      "text": "你講我橐袋仔雖然空空 心內有輕重",
+      "spelling": "lí kóng guá lok tē-á sui-jiân khang khang sim-lāi ū khin-tāng",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 69.916,
+      "online_text": "两个人散步佇爱情的路哪会到最后賰我一个",
+      "match_text": "两个人散步佇爱情的路哪会到最后賰我一个",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 77.967,
+      "online_text": "哎哟你共阮骗你共人嚇",
+      "match_text": "哎哟你共阮骗你共人嚇",
+      "text": "哎喲 你共阮騙 你共人嚇",
+      "spelling": "ai-iō lí kā gún pián lí kā lâng heh",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 91.669,
+      "online_text": "差不多佇咧一礼拜前我拄着一位标致的媠姑娘仔",
+      "match_text": "差不多佇咧一礼拜前我拄着一位标致的媠姑娘仔",
+      "text": "差不多 佇咧一禮拜前 我拄著一位標緻的惰姑娘仔",
+      "spelling": "tsha-put-to tī leh tsi̍t lé-pài tsiân guá tú-tio̍h tsi̍t-uī phiau-tì ê suí koo-niû-á",
+      "manual_id": "line-25:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.952381
+    },
+    {
+      "source_row": 10,
+      "time": 97.223,
+      "online_text": "伊讲我人趣味阁敖唱歌想欲佮我做伙",
+      "match_text": "伊讲我人趣味阁敖唱歌想欲佮我做伙",
+      "text": "伊講我人趣味 閣敖唱歌 想欲佮我做伙",
+      "spelling": "i kóng guá lâng tshù-bī koh kau tshiùnn-kua siūnn-beh ka̍h guá tsò-hué",
+      "manual_id": "line-28:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 101.774,
+      "online_text": "但是但是想袂到",
+      "match_text": "但是但是想袂到",
+      "text": "但是 但是想袂到",
+      "spelling": "tān-sī tān-sī siūnn-bē-kàu",
+      "manual_id": "line-31:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 105.526,
+      "online_text": "这马的姑娘仔哪会遮尔水性杨花才做伙无两工尔尔",
+      "match_text": "这马的姑娘仔哪会遮尔水性杨花才做伙无两工尔尔",
+      "text": "這馬的姑娘仔 哪會遮爾水性楊花 才做伙無兩工爾爾",
+      "spelling": "tsit-má ê tsu-niû á ná ē tsiah-nī tsuí-sìng hiâu hue tsiah tsò-hué bô nn̄g kang nía nía",
+      "manual_id": "line-34:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 111.182,
+      "online_text": "伊就缀着驶跑车的富二代走去啊",
+      "match_text": "伊就缀着驶跑车的富二代走去啊",
+      "text": "伊就綴著駛跑車的富二代走去啊",
+      "spelling": "i tio̍h tuè-tio̍h sái pháu-tshia ê pù lī tāi tsáu-khì ah",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 115.584,
+      "online_text": "啊我毋甘愿我毋甘愿啊",
+      "match_text": "啊我毋甘愿我毋甘愿啊",
+      "text": "啊 我毋甘願 我毋甘願啊",
+      "spelling": "ah guá m̄-kam-guān guá m̄-kam-guān ah",
+      "manual_id": "line-40:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 123.138,
+      "online_text": "你身边胡蝇颺颺飞飞袂到你的心肝底",
+      "match_text": "你身边胡蝇颺颺飞飞袂到你的心肝底",
+      "text": "你身邊胡蠅颺颺飛 飛袂到你的心肝底",
+      "spelling": "lí sin-pinn hôo-sîn iānn iānn pue pue-bē-kàu lí ê sim-kuann té",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 131.41,
+      "online_text": "为啥物对阮放电使目尾阁偏偏欲招阮入来坐",
+      "match_text": "为啥物对阮放电使目尾阁偏偏欲招阮入来坐",
+      "text": "為啥物對我放電使目尾 閣偏偏欲招阮入來坐",
+      "spelling": "uī-siánn-mi̍h tuì gún pàng tiān sái ba̍k-bué koh tiānn-tiānn leh tsiau gún ji̍p-lâi tsē",
+      "manual_id": "line-46:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.947368
+    },
+    {
+      "source_row": 17,
+      "time": 139.998,
+      "online_text": "无闲的城市内五色的人一蕊蕊挤烧的仝款的梦",
+      "match_text": "无闲的城市内五色的人一蕊蕊挤烧的仝款的梦",
+      "text": "無閒的城市內五色的人 一蕊蕊擠燒的仝款的夢",
+      "spelling": "bô-îng ê siânn-tshī lāi ngóo-sik ê lâng tsi̍t luí luí kheh sio ê kâng-khuán ê bāng",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 148.49,
+      "online_text": "你讲我橐袋仔虽然空空心内有轻重",
+      "match_text": "你讲我橐袋仔虽然空空心内有轻重",
+      "text": "你講我橐袋仔雖然空空 心內有輕重",
+      "spelling": "lí kóng guá lok tē-á sui-jiân khang khang sim-lāi ū khin-tāng",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 156.57,
+      "online_text": "两个人散步佇爱情的路哪会到最后賰我一个",
+      "match_text": "两个人散步佇爱情的路哪会到最后賰我一个",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 163.964,
+      "online_text": "哎哟你共阮骗你共人嚇",
+      "match_text": "哎哟你共阮骗你共人嚇",
+      "text": "哎喲 你共阮騙 你共人嚇",
+      "spelling": "ai-iō lí kā gún pián lí kā lâng heh",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 175.33,
+      "online_text": "天顶的月娘遐尔圆照着我寂寞的心情",
+      "match_text": "天顶的月娘遐尔圆照着我寂寞的心情",
+      "text": "天頂的月娘遐爾圓 照著我寂寞的心情",
+      "spelling": "thinn-tíng ê gue̍h-niû hiah-nī înn tsiàu-tio̍h guá siok-bo̍k ê sim-tsîng",
+      "manual_id": "line-61:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 183.43,
+      "online_text": "纯情的男儿煞来予人骗只好当这段情是笑诙",
+      "match_text": "纯情的男儿煞来予人骗只好当这段情是笑诙",
+      "text": "純情的男兒煞來予人騙 只好當這段情是笑詼",
+      "spelling": "sûn-tsîng ê lâm-jî suah lâi hōo lâng pián tsí-hó tong tsit tuānn tsîng sī tshiò-khue",
+      "manual_id": "line-64:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "d8d9d351d39dcb0c2f2ad921e50364d24ddd5b61f94e8993ba92c49336976820",
+    "manual": "2dd399debc08d5d0f2cb918e36989d21c73ae0aca953219c11d0ce8aa24b4bd5",
+    "timed": "7ff9cb5756f528ab67704b80ed9059e1500e9772e6fec5defad642be459c14f1"
+  }
+}

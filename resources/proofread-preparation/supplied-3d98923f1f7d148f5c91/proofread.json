@@ -1,0 +1,249 @@
+{
+  "recording_id": "lrcapi:1001038634",
+  "source": "User-supplied resources/lyrics-spelling/台北台北-謝和弦",
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "還記得那當準 聽到林強ㄟ向前走",
+      "spelling": "ia̍h kì-tit hit tang tsún thiann-tio̍h lîm tshiâng ê hiòng-tsiân kiânn",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "阮來到台北車站",
+      "spelling": "gún lâi kàu Tâi-pak tshia-tsām",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "聽人講啥咪好康ㄟ攏底這 甘有真正 甘有影",
+      "spelling": "thiann lâng kóng siánn-mih hó khang ê lóng tí tsia kam ū tsin-tsiànn kam ū iánn",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "在台北整牙當 對狼在摸弄拉",
+      "spelling": "tī Tâi-pak kui â tang tuì lâng teh boo lōng là",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "返去故鄉 阿爸甲阮講 猴嗯這安呢",
+      "spelling": "tńg-khì kòo-hiong a-pa kā gún kóng kâu m̄ tsiah an-ne",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "伊講 林北太久沒甲你教訓 你不知林北鞋子穿幾號",
+      "spelling": "i kóng lîm pē siunn kú bô kā lí kà-sī lí m̄-tsai lîm pē ê-á tshīng kuí hō",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "台北 台北 你甘有聽到 阮鄉下囝仔ㄟ心聲",
+      "spelling": "Tâi-pak Tâi-pak lí kam ū thiann-tio̍h gún tsng-kha kín-á ê sim-siann",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "台北 台北 台北 台北 阮不驚吃苦 也認真打拼",
+      "spelling": "Tâi-pak Tâi-pak Tâi-pak Tâi-pak gún m̄-kiann tsia̍h-khóo iā līn-tsin phah-piànn",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "台北 台北 你甘有聽到 阮鄉下囝仔ㄟ心聲",
+      "spelling": "Tâi-pak Tâi-pak lí kam ū thiann-tio̍h gún tsng-kha kín-á ê sim-siann",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "阮為著啥 是為著啥",
+      "spelling": "gún uī-tio̍h siánn sī uī-tio̍h siánn",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "是為著厝內有等阮返去的爸爸媽媽",
+      "spelling": "sī uī-tio̍h tshù-lāi ū tán gún tńg-khì ê pâ pâ má má",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "擱有阿公阿嬤 老朋友老親戚",
+      "spelling": "koh ū a-kong a-má láu pîng-iú láu tshin-tshik",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "請恁就耐心等待 阮成功ㄟ那一天",
+      "spelling": "tshiánn lín tio̍h nāi-sim tán-thāi gún sîng-kong ê hit tsi̍t kang",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "還記得那當準 聽到林強ㄟ向前走",
+      "spelling": "ia̍h kì-tit hit tang tsún thiann-tio̍h lîm tshiâng ê hiòng-tsiân kiânn",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "阮來到台北ㄟ台北車站",
+      "spelling": "gún lâi kàu Tâi-pak ê Tâi-pak tshia-tsām",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "聽人講啥咪好康ㄟ攏底這 甘有真正 甘有影",
+      "spelling": "thiann lâng kóng siánn-mih hó khang ê lóng tí tsia kam ū tsin-tsiànn kam ū iánn",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "在台北整牙當 對狼在摸弄拉",
+      "spelling": "tī Tâi-pak kui â tang tuì lâng teh boo lōng là",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "返去故鄉 阿爸甲阮講 猴嗯這安呢",
+      "spelling": "tńg-khì kòo-hiong a-pa kā gún kóng kâu m̄ tsiah an-ne",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "伊講 林北太久沒甲你教訓 你不知林北鞋子穿幾號",
+      "spelling": "i kóng lîm pē siunn kú bô kā lí kà-sī lí m̄-tsai lîm pē ê-á tshīng kuí hō",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "台北 台北 你甘有聽到 阮鄉下囝仔ㄟ心聲",
+      "spelling": "Tâi-pak Tâi-pak lí kam ū thiann-tio̍h gún tsng-kha kín-á ê sim-siann",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "台北 台北 台北 台北 阮不驚吃苦 也認真打拼",
+      "spelling": "Tâi-pak Tâi-pak Tâi-pak Tâi-pak gún m̄-kiann tsia̍h-khóo iā līn-tsin phah-piànn",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "台北 台北 你甘有聽到 阮鄉下囝仔ㄟ心聲",
+      "spelling": "Tâi-pak Tâi-pak lí kam ū thiann-tio̍h gún tsng-kha kín-á ê sim-siann",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "阮為著啥 是為著啥",
+      "spelling": "gún uī-tio̍h siánn sī uī-tio̍h siánn",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "是為著厝內有等阮返去的爸爸媽媽",
+      "spelling": "sī uī-tio̍h tshù-lāi ū tán gún tńg-khì ê pâ pâ má má",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "擱有阿公阿嬤 老朋友老親戚",
+      "spelling": "koh ū a-kong a-má láu pîng-iú láu tshin-tshik",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "請恁就耐心等待 阮成功ㄟ那一天",
+      "spelling": "tshiánn lín tio̍h nāi-sim tán-thāi gún sîng-kong ê hit tsi̍t kang",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "請恁就耐心等待 阮成功ㄟ那一天",
+      "spelling": "tshiánn lín tio̍h nāi-sim tán-thāi gún sîng-kong ê hit tsi̍t kang",
+      "source_lines": [
+        79,
+        80
+      ]
+    }
+  ]
+}

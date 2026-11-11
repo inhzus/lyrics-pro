@@ -1,0 +1,410 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "妳甘知相思                   是什麼滋味",
+      "spelling": "lí kam tsai siunn-si    sī siánn tsu-bī",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "妳甘知相思",
+          "spelling": "lí kam tsai siunn-si"
+        },
+        {
+          "text": "是什麼滋味",
+          "spelling": "sī siánn tsu-bī"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "有一點苦澀摻著甘甜",
+      "spelling": "ū tsi̍t-kuá khóo siap tsham tio̍h kam-tinn",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "像你頭髮的味道                      也親像無糖的咖啡",
+      "spelling": "siōng lí thâu-mn̂g ê bī        iā tshin-tshiūnn bô thn̂g ê ka-pi",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "像你頭髮的味道",
+          "spelling": "siōng lí thâu-mn̂g ê bī"
+        },
+        {
+          "text": "也親像無糖的咖啡",
+          "spelling": "iā tshin-tshiūnn bô thn̂g ê ka-pi"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "妳不知道阮的憂           愁攏是因為妳",
+      "spelling": "lí m̄ tsai gún ê iu        tshiû lóng sī in-uī lí",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "妳不知道阮的憂",
+          "spelling": "lí m̄ tsai gún ê iu"
+        },
+        {
+          "text": "愁攏是因為妳",
+          "spelling": "tshiû lóng sī in-uī lí"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "沒妳的人生                   能夠有什麼意義",
+      "spelling": "bē lí ê lîn-sing            ē-tàng ū siánn ì-gī",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "沒妳的人生",
+          "spelling": "bē lí ê lîn-sing"
+        },
+        {
+          "text": "能夠有什麼意義",
+          "spelling": "ē-tàng ū siánn ì-gī"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "反正走到哪裡攏是空虛",
+      "spelling": "huînn-ti̍t kiânn-kàu tó-uī lóng sī khang-hi",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "想妳生氣的臉                      希望妳就在身軀邊",
+      "spelling": "siūnn lí siū-khì ê bīn        hi-bāng lí tō tī sin-khu-pinn",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "想妳生氣的臉",
+          "spelling": "siūnn lí siū-khì ê bīn"
+        },
+        {
+          "text": "希望妳就在身軀邊",
+          "spelling": "hi-bāng lí tō tī sin-khu-pinn"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "妳不知道阮的憂愁攏是因為妳",
+      "spelling": "lí m̄ tsai gún ê iu-tshiû lóng sī in-uī lí",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "我怨嘆自己軟弱沒志氣                                       不敢來面對妳",
+      "spelling": "guá uàn-thàn ka-kī nńg-tsiánn bô tsì-khì    m̄ kánn lâi bīn-tuì lí",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "我怨嘆自己軟弱沒志氣",
+          "spelling": "guá uàn-thàn ka-kī nńg-tsiánn bô tsì-khì"
+        },
+        {
+          "text": "不敢來面對妳",
+          "spelling": "m̄ kánn lâi bīn-tuì lí"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "看到妳連話攏說袂出嘴",
+      "spelling": "khuànn-tio̍h lí liân uē lóng kóng buē tshut tshuì",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "欲安怎乎妳了解阮的心意",
+      "spelling": "beh an-tsuánn honnh lí liáu-kái gún ê sim-ì",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "在這個城市寂寞的冬天",
+      "spelling": "tī tsi̍t ê  siânn-tshī siok-bo̍k ê kuânn-thinn",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "日也思          夜也夢          歸頭殼攏是妳",
+      "spelling": "ji̍t iā su        iā iā bāng    kui thâu khak lóng sī lí",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "日也思",
+          "spelling": "ji̍t iā su"
+        },
+        {
+          "text": "夜也夢",
+          "spelling": "iā iā bāng"
+        },
+        {
+          "text": "歸頭殼攏是妳",
+          "spelling": "kui thâu khak lóng sī lí"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "窗外月光伴阮無眠",
+      "spelling": "thang-guā gue̍h-kng phuānn gún bô-bîn",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "電話那頭傳來妳的聲音",
+      "spelling": "tiān-uē hit-thâu thuân-lâi lí ê siann-im",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "要對妳說的話                    阮還是講袂出嘴",
+      "spelling": "beh tuì lí kóng ê uē        gún iáu sī kóng buē tshut tshuì",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "要對妳說的話",
+          "spelling": "beh tuì lí kóng ê uē"
+        },
+        {
+          "text": "阮還是講袂出嘴",
+          "spelling": "gún iáu sī kóng buē tshut tshuì"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "窗外月光                             也在笑阮無勇氣",
+      "spelling": "thang-guā gue̍h-kng        iā leh tshiò gún bô ióng-khì",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "窗外月光",
+          "spelling": "thang-guā gue̍h-kng"
+        },
+        {
+          "text": "也在笑阮無勇氣",
+          "spelling": "iā leh tshiò gún bô ióng-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "電話這頭出現我的聲音",
+      "spelling": "tiān-uē tse thâu tshut-hiān guá ê siann-im",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "我說這城市寂寞的冬天",
+      "spelling": "guá kóng tse siânn-tshī siok-bo̍k ê kuânn-thinn",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "阮憂愁是因為妳",
+      "spelling": "gún iu-tshiû sī in-uī lí",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "欲安怎乎妳了解阮的心意",
+      "spelling": "beh an-tsuánn honnh lí liáu-kái gún ê sim-ì",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "在這個城市寂寞的冬天",
+      "spelling": "tī tsi̍t ê siânn-tshī siok-bo̍k ê kuânn-thinn",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "日也思          夜也夢          歸頭殼攏是妳",
+      "spelling": "ji̍t iā su        iā iā bāng    kui thâu khak lóng sī lí",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "日也思",
+          "spelling": "ji̍t iā su"
+        },
+        {
+          "text": "夜也夢",
+          "spelling": "iā iā bāng"
+        },
+        {
+          "text": "歸頭殼攏是妳",
+          "spelling": "kui thâu khak lóng sī lí"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "窗外月光伴阮無眠 電話那頭傳來妳的聲音",
+      "spelling": "thang-guā gue̍h-kng phuānn gún bô-bîn",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "電話那頭傳來妳的聲音",
+      "spelling": "tiān-uē hit-thâu thuân-lâi lí ê siann-im",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "要對妳說的話                    阮還是講袂出嘴",
+      "spelling": "beh tuì lí kóng ê uē        gún iáu sī kóng buē tshut tshuì",
+      "source_lines": [
+        78,
+        79
+      ],
+      "parts": [
+        {
+          "text": "要對妳說的話",
+          "spelling": "beh tuì lí kóng ê uē"
+        },
+        {
+          "text": "阮還是講袂出嘴",
+          "spelling": "gún iáu sī kóng buē tshut tshuì"
+        }
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "窗外月光                             也在笑阮無勇氣",
+      "spelling": "thang-guā gue̍h-kng        iā leh tshiò gún bô ióng-khì",
+      "source_lines": [
+        81,
+        82
+      ],
+      "parts": [
+        {
+          "text": "窗外月光",
+          "spelling": "thang-guā gue̍h-kng"
+        },
+        {
+          "text": "也在笑阮無勇氣",
+          "spelling": "iā leh tshiò gún bô ióng-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "電話這頭出現我的聲音",
+      "spelling": "tiān-uē tse thâu tshut-hiān guá ê siann-im",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "我說這城市寂寞的冬天",
+      "spelling": "guá kóng tse siânn-tshī siok-bo̍k ê kuânn-thinn",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "阮憂愁是因為妳",
+      "spelling": "gún iu-tshiû sī in-uī lí",
+      "source_lines": [
+        90,
+        91
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：楊大正　作曲：楊大正    台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

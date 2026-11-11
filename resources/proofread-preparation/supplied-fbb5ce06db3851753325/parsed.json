@@ -1,0 +1,399 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "看著你甲別人行　我知影我無算啥",
+      "spelling": "khuànn-tio̍h lí kah pa̍t-lâng kiânn  guá tsai-iánn guá bô sǹg siánn",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "一杯一杯甲吞落喉",
+      "spelling": "tsi̍t pue tsi̍t pue kah thun lo̍h-âu",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "我嘸是你的  你嘛嘸是我的",
+      "spelling": "guá m̄ sī lí ê  lí mā m̄-sī guá ê",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "我嘸是你的",
+          "spelling": "guá m̄ sī lí ê"
+        },
+        {
+          "text": "你嘛嘸是我的",
+          "spelling": "lí mā m̄-sī guá ê"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "傷好以後咱麥擱相找",
+      "spelling": "siunn hó í-āu lán mái koh sio-tshuē",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "看著恁攬做伙行　我心內開始滴血",
+      "spelling": "khuànn-tio̍h lín lám tsò-hué kiânn guá sim-lāi khai-sí tih-hueh",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "甘講這是我命中註定",
+      "spelling": "kam kóng tse sī guá miā-tiong tsù-tīng",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "我嘸是伊的影  你對我嘛無算啥",
+      "spelling": "guá m̄-sī i ê iánn  lí tuì guá m̄ bô sǹg siánn",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "我嘸是伊的影",
+          "spelling": "guá m̄-sī i ê iánn"
+        },
+        {
+          "text": "你對我嘛無算啥",
+          "spelling": "lí tuì guá m̄ bô sǹg siánn"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "若有困難你才會找我",
+      "spelling": "nā-ū khùn-lân lí tsiah ē tshuē guá",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "若是會凍放水流  我嘛袂佇便所哮",
+      "spelling": "nā sī ē-tàng pàng tsuí-lâu  guá mā bē tī piān sóo háu",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "若是會凍放水流",
+          "spelling": "nā sī ē-tàng pàng tsuí-lâu"
+        },
+        {
+          "text": "我嘛袂佇便所哮",
+          "spelling": "guá mā bē tī piān sóo háu"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "若是會凍甲你留  嘛袂看你一擺就醉一擺",
+      "spelling": "nā sī ē-tàng kah lí lâu  mā bē khuànn lí tsi̍t pái tio̍h tsuì tsi̍t pái",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "若是會凍甲你留",
+          "spelling": "nā sī ē-tàng kah lí lâu"
+        },
+        {
+          "text": "嘛袂看你一擺就醉一擺",
+          "spelling": "mā bē khuànn lí tsi̍t pái tio̍h tsuì tsi̍t pái"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "看著恁攬做伙行　我心內開始滴血",
+      "spelling": "khuànn-tio̍h lín lám tsò-hué kiânn guá sim-lāi khai-sí tih-hueh",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "甘講這是我命中註定",
+      "spelling": "kam kóng tse sī guá miā-tiong tsù-tīng",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "我嘸是伊的影  你對我嘛無算啥",
+      "spelling": "guá m̄-sī i ê iánn  lí tuì guá m̄ bô sǹg siánn",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "我嘸是伊的影",
+          "spelling": "guá m̄-sī i ê iánn"
+        },
+        {
+          "text": "你對我嘛無算啥",
+          "spelling": "lí tuì guá m̄ bô sǹg siánn"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "若有困難你才會找我",
+      "spelling": "nā-ū khùn-lân lí tsiah ē tshuē guá",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "若是會凍放水流  我嘛袂佇便所哮",
+      "spelling": "nā sī ē-tàng pàng tsuí-lâu  guá mā bē tī piān sóo háu",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "若是會凍放水流",
+          "spelling": "nā sī ē-tàng pàng tsuí-lâu"
+        },
+        {
+          "text": "我嘛袂佇便所哮",
+          "spelling": "guá mā bē tī piān sóo háu"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "若是會凍甲你留  嘛袂看你一擺就醉一擺",
+      "spelling": "nā sī ē-tàng kah lí lâu  mā bē khuànn lí tsi̍t pái tio̍h tsuì tsi̍t pái",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "若是會凍甲你留",
+          "spelling": "nā sī ē-tàng kah lí lâu"
+        },
+        {
+          "text": "嘛袂看你一擺就醉一擺",
+          "spelling": "mā bē khuànn lí tsi̍t pái tio̍h tsuì tsi̍t pái"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "卒啦  卒啦  嘸通叫我的名  驚乎別人知影",
+      "spelling": "tsut là  tsut là  m̄-thàng kiò guá ê miâ  kiann honnh pa̍t-lâng tsai-iánn",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "卒啦",
+          "spelling": "tsut là"
+        },
+        {
+          "text": "卒啦",
+          "spelling": "tsut là"
+        },
+        {
+          "text": "嘸通叫我的名",
+          "spelling": "m̄-thàng kiò guá ê miâ"
+        },
+        {
+          "text": "驚乎別人知影",
+          "spelling": "kiann honnh pa̍t-lâng tsai-iánn"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "卒啦  卒啦  叫袂出你的名  無需要人來苦憐我",
+      "spelling": "tsut là  tsut là  kiò bē tshut lí ê miâ  bô su-iàu lâng lâi khó-liân guá",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "卒啦",
+          "spelling": "tsut là"
+        },
+        {
+          "text": "卒啦",
+          "spelling": "tsut là"
+        },
+        {
+          "text": "叫袂出你的名",
+          "spelling": "kiò bē tshut lí ê miâ"
+        },
+        {
+          "text": "無需要人來苦憐我",
+          "spelling": "bô su-iàu lâng lâi khó-liân guá"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "啊  卒啦  啊  卒啦  啊  卒啦",
+      "spelling": "ah tsut là ah tsut là ah tsut là",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "外表是男子漢  其實是卒啦",
+      "spelling": "guā-piáu sī lâm-tsú-hàn   kî-si̍t sī tsut là",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "外表是男子漢",
+          "spelling": "guā-piáu sī lâm-tsú-hàn"
+        },
+        {
+          "text": "其實是卒啦",
+          "spelling": "kî-si̍t sī tsut là"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "外表親像男子漢  其實是一箍卒啦",
+      "spelling": "guā-piáu tshin-tshiūnn lâm-tsú-hàn  kî-si̍t sī tsi̍t-khoo tsut là",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "外表親像男子漢",
+          "spelling": "guā-piáu tshin-tshiūnn lâm-tsú-hàn"
+        },
+        {
+          "text": "其實是一箍卒啦",
+          "spelling": "kî-si̍t sī tsi̍t-khoo tsut là"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "到底我欲等到民國幾年",
+      "spelling": "tàu-té guá beh tán-kàu bîn-kok kuí nî",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "到底我欲等到民國幾年",
+      "spelling": "tàu-té guá beh tán-kàu bîn-kok kuí nî",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "到底我欲等到欲等到民國幾年",
+      "spelling": "tàu-té guá beh tán-kàu beh tán-kàu bîn-kok kuí nî",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "你才會離開伊的常身邊",
+      "spelling": "lí tsiah ē lī-khui i ê sin-pinn",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "到底我欲等到民國幾年",
+      "spelling": "tàu-té guá beh tán-kàu bîn-kok kuí nî",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "到底我欲等到民國幾年",
+      "spelling": "tàu-té guá beh tán-kàu bîn-kok kuí nî",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "到底我欲等到欲等到民國幾年",
+      "spelling": "tàu-té guá beh tán-kàu beh tán-kàu bîn-kok kuí nî",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "你才會轉來轉來轉來阮身邊",
+      "spelling": "lí tsiah ē tńg-lâi tńg-lâi tńg-lâi gún sin-pinn",
+      "source_lines": [
+        87,
+        88
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳永吉   作曲：吳永吉  台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

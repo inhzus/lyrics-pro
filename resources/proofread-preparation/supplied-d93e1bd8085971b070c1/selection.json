@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 412951428,
+    "title": "欧吉桑乎乾啦",
+    "artists": [
+      "张三李四"
+    ],
+    "album": "张三李四",
+    "duration": 256.719,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:412951428",
+      "duration": 256.719,
+      "ready": false,
+      "coverage": 0.9130434782608695,
+      "exact_fraction": 0.9130434782608695,
+      "summary": {
+        "credit": 4,
+        "unresolved": 2,
+        "exact": 7,
+        "repeat": 14,
+        "gap": 1
+      }
+    }
+  ]
+}

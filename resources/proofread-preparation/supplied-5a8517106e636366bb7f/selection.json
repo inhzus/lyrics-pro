@@ -1,0 +1,25 @@
+{
+  "selected": {
+    "song_id": "1459926669",
+    "title": "咱是好兄弟",
+    "artists": [
+      "黄明志"
+    ],
+    "album": "亚洲通缉",
+    "duration": 219.173,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1459926669",
+      "duration": 219.173,
+      "ready": true,
+      "coverage": 1.0,
+      "exact_fraction": 1.0,
+      "summary": {
+        "repeat": 33
+      }
+    }
+  ]
+}

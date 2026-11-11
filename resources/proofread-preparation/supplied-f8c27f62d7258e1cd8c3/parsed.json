@@ -1,0 +1,203 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "經過人生春風秋雨　繁華以後是寂寞",
+      "spelling": "king-kuè lîn-sing tshun-hong tshiu hōo huân-huâ í-āu sī siok-bo̍k",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "踮在未來的雙岔路　是按怎攏無找著　幸福　快樂",
+      "spelling": "giam tsāi bī-lâi ê siang-tshe-lōo sī án-tsuánn lóng bô tshuē-tio̍h hīng-hok khuài-lo̍k",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "總是習慣從人群中　一個人悄悄溜走",
+      "spelling": "zǒng shì xíguàn cóng rénqún zhōng yīgèrén qiāoqiāo liū zǒu",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "儘管身邊都是朋友　卻還是難免會有　感傷　落寞",
+      "spelling": "jǐnguǎn shēnbiān dōu shì péngyǒu què háishì nánmiǎn huì yǒu gǎnshāng luòmò",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "每個女人心裡都有　都有一個夢",
+      "spelling": "měi gè nǚrén xīnlǐ dōu yǒu dōu yǒu yīgè mèng",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "跟愛的人陪著到永久",
+      "spelling": "gēn ài de rén péizhe dào yǒngjiǔ",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "但是緣分總有錯誤　起起落落",
+      "spelling": "tān-sī iân hun tsóng ū tshò-ngōo khí-khí-lo̍h-lo̍h",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "跳袂離開命運這條河",
+      "spelling": "thiàu buē lī-khui miā-ūn tsit tiâu hô",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "悲歡離合的感情路　青春到這無結局",
+      "spelling": "pi-huan-lī-ha̍p ê kám-tsîng lōo tshing-tshun kàu tsia bô kiat-kio̍k",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "袂當越頭的單行道　人生到底欲去佗　找無　退路",
+      "spelling": "buē-tàng ua̍t-thâu ê tan-hîng-tō lîn-sing tàu-té beh khì tó tshuē bô thè lōo",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "每個女人心裡都有　都有一個夢",
+      "spelling": "měi gè nǚrén xīnlǐ dōu yǒu dōu yǒu yīgè mèng",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "跟愛的人陪著到永久",
+      "spelling": "gēn ài de rén péizhe dào yǒngjiǔ",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "但是緣分總有錯誤　起起落落",
+      "spelling": "tān-sī iân hun tsóng ū tshò-ngōo khí-khí-lo̍h-lo̍h",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "跳袂離開命運這條河",
+      "spelling": "thiàu buē lī-khui miā-ūn tsit tiâu hô",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "人生是一條單行道　你著看斟酌",
+      "spelling": "lîn-sing sī tsi̍t tiâu tan-hîng-tō lí tio̍h khuànn tsim-tsiok",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "沿路風景愛放慢腳步",
+      "spelling": "iân-lōo hong-kíng ài pàng bān kha-pōo",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "這一條路走到最後　留下什麼",
+      "spelling": "zhè yītiáo lù zǒu dào zuìhòu liú xià shénme",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "這才發現簡單才快樂",
+      "spelling": "zhè cái fāxiàn jiǎndān cái kuàilè",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "靜靜的夜看著天空　越看越心事重重",
+      "spelling": "jìng jìng de yè kànzhe tiānkōng yuè kàn yuè xīn chóng chóng zhòng",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "過盡千帆只剩虛空　終於在多年以後",
+      "spelling": "guò jǐn qiānfān zhǐ shèng xūkōng zhōngyú zài duōnián yǐhòu",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "懂了　算了　走了　放了",
+      "spelling": "dǒngle suànle zǒule fàngle",
+      "source_lines": [
+        63,
+        64
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [
+    {
+      "line": 1,
+      "text": "Note: Words in bold/italics are in Chinese."
+    }
+  ],
+  "reasons": [
+    "source_note_requires_review:1"
+  ]
+}

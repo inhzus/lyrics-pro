@@ -1,0 +1,302 @@
+{
+  "recording_id": "netease:157178",
+  "source": "User-supplied resources/lyrics-spelling/萬丈深坑-伍佰",
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "嘜給我檔咧                          乎我來                      跳落去萬丈深坑",
+      "spelling": "mái kā guá kóng leh        honnh guá lâi        thiàu lo̍h khì tn̄g tshim-khenn",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "嘜給我檔咧",
+          "spelling": "mái kā guá kóng leh"
+        },
+        {
+          "text": "乎我來",
+          "spelling": "honnh guá lâi"
+        },
+        {
+          "text": "跳落去萬丈深坑",
+          "spelling": "thiàu lo̍h khì tn̄g tshim-khenn"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "一片黑暗                       乎我來                      分不清是非萬項",
+      "spelling": "tsi̍t phìnn oo-àm        honnh guá lâi        pun bē tshing sī hui bān-hāng",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "一片黑暗",
+          "spelling": "tsi̍t phìnn oo-àm"
+        },
+        {
+          "text": "乎我來",
+          "spelling": "honnh guá lâi"
+        },
+        {
+          "text": "分不清是非萬項",
+          "spelling": "pun bē tshing sī hui bān-hāng"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "搥著心肝                           安怎來                     受到這般拖磨",
+      "spelling": "tuî tio̍h sim-kuann        an-tsuánn lâi         siū-tio̍h tsit-puann thua-buà",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "搥著心肝",
+          "spelling": "tuî tio̍h sim-kuann"
+        },
+        {
+          "text": "安怎來",
+          "spelling": "an-tsuánn lâi"
+        },
+        {
+          "text": "受到這般拖磨",
+          "spelling": "siū-tio̍h tsit-puann thua-buà"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "飛落之間                       會凍來            享受到空白的夢",
+      "spelling": "hui lo̍h tsi-kan            ē gàn lâi        hiáng-siū tio̍h khàng-pe̍h ê bāng",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "飛落之間",
+          "spelling": "hui lo̍h tsi-kan"
+        },
+        {
+          "text": "會凍來",
+          "spelling": "ē gàn lâi"
+        },
+        {
+          "text": "享受到空白的夢",
+          "spelling": "hiáng-siū tio̍h khàng-pe̍h ê bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "到今嘛還未落地                               出口已經不見",
+      "spelling": "tio̍h jim mah iáu buē lo̍h tē        tshut-kháu í-king bô khuàinn",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "到今嘛還未落地",
+          "spelling": "tio̍h jim mah iáu buē lo̍h tē"
+        },
+        {
+          "text": "出口已經不見",
+          "spelling": "tshut-kháu í-king bô khuàinn"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "我的性命一生是現在尚精采",
+      "spelling": "guá ê sìng miā li̍t sing sī hiān tsāi siōng tsing tshái",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "嘜給我檔咧                          乎我來                      跳落去萬丈深坑",
+      "spelling": "mái kā guá kóng leh        honnh guá lâi        thiàu lo̍h khì tn̄g tshim-khenn",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "嘜給我檔咧",
+          "spelling": "mái kā guá kóng leh"
+        },
+        {
+          "text": "乎我來",
+          "spelling": "honnh guá lâi"
+        },
+        {
+          "text": "跳落去萬丈深坑",
+          "spelling": "thiàu lo̍h khì tn̄g tshim-khenn"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "一片黑暗                       乎我來                      分不清是非萬項",
+      "spelling": "tsi̍t phìnn oo-àm        honnh guá lâi        pun bē tshing sī hui bān-hāng",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "一片黑暗",
+          "spelling": "tsi̍t phìnn oo-àm"
+        },
+        {
+          "text": "乎我來",
+          "spelling": "honnh guá lâi"
+        },
+        {
+          "text": "分不清是非萬項",
+          "spelling": "pun bē tshing sī hui bān-hāng"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "搥著心肝                           安怎來                     受到這般拖磨",
+      "spelling": "tuî tio̍h sim-kuann        an-tsuánn lâi         siū-tio̍h tsit-puann thua-buà",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "搥著心肝",
+          "spelling": "tuî tio̍h sim-kuann"
+        },
+        {
+          "text": "安怎來",
+          "spelling": "an-tsuánn lâi"
+        },
+        {
+          "text": "受到這般拖磨",
+          "spelling": "siū-tio̍h tsit-puann thua-buà"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "飛落之間                       會凍來            享受到空白的夢",
+      "spelling": "hui lo̍h tsi-kan            ē gàn lâi        hiáng-siū tio̍h khàng-pe̍h ê bāng",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "飛落之間",
+          "spelling": "hui lo̍h tsi-kan"
+        },
+        {
+          "text": "會凍來",
+          "spelling": "ē gàn lâi"
+        },
+        {
+          "text": "享受到空白的夢",
+          "spelling": "hiáng-siū tio̍h khàng-pe̍h ê bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "到今嘛還未落地                              出口已經不見",
+      "spelling": "tio̍h jim mah iáu buē lo̍h tē        tshut-kháu í-king bô khuàinn",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "到今嘛還未落地",
+          "spelling": "tio̍h jim mah iáu buē lo̍h tē"
+        },
+        {
+          "text": "出口已經不見",
+          "spelling": "tshut-kháu í-king bô khuàinn"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "我的性命一生是現在尚精采",
+      "spelling": "guá ê sìng miā li̍t sing sī hiān tsāi siōng tsing tshái",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "到今嘛還未落地                               出口已經不見",
+      "spelling": "tio̍h jim mah iáu buē lo̍h tē        tshut-kháu í-king bô khuàinn",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "到今嘛還未落地",
+          "spelling": "tio̍h jim mah iáu buē lo̍h tē"
+        },
+        {
+          "text": "出口已經不見",
+          "spelling": "tshut-kháu í-king bô khuàinn"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "我的性命一生是現在尚精采",
+      "spelling": "guá ê sìng miā li̍t sing sī hiān tsāi siōng tsing tshái",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "到今嘛還未落地                               出口已經不見",
+      "spelling": "tio̍h jim mah iáu buē lo̍h tē        tshut-kháu í-king bô khuàinn",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "到今嘛還未落地",
+          "spelling": "tio̍h jim mah iáu buē lo̍h tē"
+        },
+        {
+          "text": "出口已經不見",
+          "spelling": "tshut-kháu í-king bô khuàinn"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "現在我的性命一生尚精采",
+      "spelling": "sing sī guá ê sìng miā li̍t sing siōng tsing tshái",
+      "source_lines": [
+        48,
+        49
+      ]
+    }
+  ]
+}

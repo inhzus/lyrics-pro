@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": "1444711765",
+      "title": "爱着啊",
+      "artists": [
+        "江蕙 & 陈子鸿"
+      ],
+      "album": "爱着啊",
+      "duration": 247.16,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1756073616",
+      "title": "爱着啊",
+      "artists": [
+        "豪记之星"
+      ],
+      "album": "情歌对唱4 - EP",
+      "duration": 243.8,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1444711765",
+      "title": "爱着啊",
+      "artists": [
+        "江蕙 & 陈子鸿"
+      ],
+      "album": "爱着啊",
+      "duration": 247.16,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1756073616",
+      "title": "爱着啊",
+      "artists": [
+        "豪记之星"
+      ],
+      "album": "情歌对唱4 - EP",
+      "duration": 243.8,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": 3442262898,
+      "title": "梦中央",
+      "artists": [
+        "山笑"
+      ],
+      "album": "梦中央",
+      "duration": 101.6,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3442262898,
+      "title": "梦中央",
+      "artists": [
+        "山笑"
+      ],
+      "album": "梦中央",
+      "duration": 101.6,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3442262898,
+      "title": "梦中央",
+      "artists": [
+        "山笑"
+      ],
+      "album": "梦中央",
+      "duration": 101.6,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1445521619",
+      "title": "梦中央",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "当时欲嫁",
+      "duration": 265.24,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

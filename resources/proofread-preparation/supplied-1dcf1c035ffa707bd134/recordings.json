@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 1324519874,
+      "title": "倒退嚕",
+      "artists": [
+        "陳益強"
+      ],
+      "album": "做人敢敢來",
+      "duration": 282.893,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1480112115,
+      "title": "倒退嚕",
+      "artists": [
+        "黄克林"
+      ],
+      "album": "黃克林 倒退嚕",
+      "duration": 276.4,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 19363164,
+      "title": "倒退嚕",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "臺灣加油！",
+      "duration": 219.413333,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

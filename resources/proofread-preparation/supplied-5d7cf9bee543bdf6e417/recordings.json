@@ -1,0 +1,71 @@
+{
+  "candidates": [
+    {
+      "song_id": 2704742687,
+      "title": "人间条件",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "爱情广播电台",
+      "duration": 324.336,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1689992286",
+      "title": "人间条件",
+      "artists": [
+        "灭火器"
+      ],
+      "album": "人间条件 - Single",
+      "duration": 228.307,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1689536432",
+      "title": "人间条件",
+      "artists": [
+        "灭火器"
+      ],
+      "album": "家和万事兴",
+      "duration": 228.307,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1689992286",
+      "title": "人间条件",
+      "artists": [
+        "灭火器"
+      ],
+      "album": "人间条件 - Single",
+      "duration": 228.307,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1689536432",
+      "title": "人间条件",
+      "artists": [
+        "灭火器"
+      ],
+      "album": "家和万事兴",
+      "duration": 228.307,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 11530839,
+      "title": "人間條件",
+      "artists": [
+        "Fire EX."
+      ],
+      "album": "家和萬事興",
+      "duration": 228.307,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,634 @@
+{
+  "recording_id": "netease:28528284",
+  "timing_source": "NetEase https://music.163.com/song?id=28528284",
+  "manual_source": "User-supplied resources/lyrics-spelling/感謝你愛我-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 8,
+    "gap": 8,
+    "exact": 7,
+    "approximate": 6,
+    "repeat": 18
+  },
+  "review_row_count": 14,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-28:0",
+    "line-37:0",
+    "line-70:0",
+    "line-79:0",
+    "line-94:0",
+    "line-103:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 胡如虹",
+      "match_text": "作词 : 胡如虹",
+      "text": "作词 : 胡如虹",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 0.535,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 1.07,
+      "online_text": "感谢你爱我（Thank You For Loving Me） - 萧煌奇",
+      "match_text": "感谢你爱我（Thank You For Loving Me） - 萧煌奇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 10.17,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 4,
+      "time": 24.41,
+      "online_text": "我爱你每一天泡的黑咖啡",
+      "match_text": "我爱你每一天泡的黑咖啡",
+      "text": "我愛你每一天泡的黑咖啡",
+      "spelling": "guá ài lí muí tsi̍t kang phàu ê oo ka-pi",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 29.21,
+      "online_text": "苦苦的黑咖啡烧烧呀饮落去",
+      "match_text": "苦苦的黑咖啡烧烧呀饮落去",
+      "text": "苦苦的黑咖啡燒燒呀飲落去",
+      "spelling": "khóo khóo ê oo ka-pi sio sio ah lím lo̍h-khì",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 34.3,
+      "online_text": "呒免加糖就有一种的香甜",
+      "match_text": "呒免加糖就有一种的香甜",
+      "text": "嘸免加糖就有一種的香甜",
+      "spelling": "m̄-bián ka thn̂g tio̍h ū tsi̍t tsióng ê phang-tinn",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 7,
+      "time": 41.97,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 8,
+      "time": 43.69,
+      "online_text": "你常常笑我一个人不知按怎过",
+      "match_text": "你常常笑我一个人不知按怎过",
+      "text": "你常常笑我一個人不知按怎過",
+      "spelling": "lí tiānn-tiānn tshiò guá tsi̍t ê lâng m̄ tsai án-tsuánn kuè",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 49.49,
+      "online_text": "拢抹会甲自己照顾好好势",
+      "match_text": "拢抹会甲自己照顾好好势",
+      "text": "攏抹會甲自己照顧好好勢",
+      "spelling": "lóng buē-hiáu ka ka-kī tsiàu-kòo hó-hó sè",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 54.86,
+      "online_text": "若是没你日子一定真坏过",
+      "match_text": "若是没你日子一定真坏过",
+      "text": "若是沒你日子一定真壞過",
+      "spelling": "nā-sī bô lí li̍t-tsí it-tīng tsin pháinn-kuè",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 62.39,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 12,
+      "time": 64.28,
+      "online_text": "感谢你爱我 陪伴我 对我的鼓励",
+      "match_text": "感谢你爱我 陪伴我 对我的鼓励",
+      "text": "感謝你愛我 陪伴我 對我的鼓勵",
+      "spelling": "kám-siā lí ài guá puê-phuānn guá tuì guá ê kóo-lē",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 70.19,
+      "online_text": "你对我的感情 我知影无底找",
+      "match_text": "你对我的感情 我知影无底找",
+      "text": "你對我的感情 我知影無底找",
+      "spelling": "lí tuì guá ê kám-tsîng guá tsai-iánn bô té tshuē",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 75.65,
+      "online_text": "将来一定会还你几落倍",
+      "match_text": "将来一定会还你几落倍",
+      "text": "將來一定會還你幾落倍",
+      "spelling": "tsiong-lâi it-tīng ē hîng lí kuí lo̍h puē",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 80.61,
+      "online_text": "只爱你一个",
+      "match_text": "只爱你一个",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 84.73,
+      "online_text": "感谢你爱我 相信我 甲我这速配",
+      "match_text": "感谢你爱我 相信我 甲我这速配",
+      "text": "感謝你愛我 相信我 甲我這速配",
+      "spelling": "kám-siā lí ài guá siong-sìn guá kā guá tsiah sut phuè",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 90.52,
+      "online_text": "两个人会作夥 拢是前世爱过",
+      "match_text": "两个人会作夥 拢是前世爱过",
+      "text": "兩個人會作夥 攏是前世愛過",
+      "spelling": "nn̄g-ê lâng ē tsò-hué lóng sī tsîng-sì ài kuè",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 95.97,
+      "online_text": "要感谢天地搁赐乎咱机会",
+      "match_text": "要感谢天地搁赐乎咱机会",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 103.69,
+      "online_text": "乎咱头发作阵白",
+      "match_text": "乎咱头发作阵白",
+      "text": "乎咱頭髮作陣白",
+      "spelling": "hòo lán thâu-mn̂g tsuè tīn pe̍h",
+      "manual_id": "line-40:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 20,
+      "time": 107.34,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 21,
+      "time": 126.12,
+      "online_text": "两个人要作夥要有进有退",
+      "match_text": "两个人要作夥要有进有退",
+      "text": "兩個人要作夥要有進有退",
+      "spelling": "nn̄g-ê lâng ē tsò-hué ài ū tsìn ū thuè",
+      "manual_id": "line-43:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 131.59,
+      "online_text": "我甘愿听你的 接受你的控制",
+      "match_text": "我甘愿听你的 接受你的控制",
+      "text": "我甘願聽你的 接受你的控制",
+      "spelling": "guá kam-guān thiann lí ê tsiap-siū lí ê khòng-tsè",
+      "manual_id": "line-46:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 136.27,
+      "online_text": "免搁甲你两个直咧觅相找",
+      "match_text": "免搁甲你两个直咧觅相找",
+      "text": "免擱甲你兩個直咧覓相找",
+      "spelling": "bián koh kā lí nn̄g-ê ti̍t leh pí sio-tshuē",
+      "manual_id": "line-49:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.818182
+    },
+    {
+      "source_row": 24,
+      "time": 143.4,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 25,
+      "time": 145.7,
+      "online_text": "爱不是比赛看谁人卡讲情话",
+      "match_text": "爱不是比赛看谁人卡讲情话",
+      "text": "愛不是比賽看誰人卡摮講情話",
+      "spelling": "ài m̄ sī pí-sài khuànn siánn-lâng khá kóng tsîng uē",
+      "manual_id": "line-52:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.96
+    },
+    {
+      "source_row": 26,
+      "time": 151.94,
+      "online_text": "嘛呒免去计较谁付出卡多",
+      "match_text": "嘛呒免去计较谁付出卡多",
+      "text": "嘛嘸免去計較誰付出卡多",
+      "spelling": "mā m̄ bián khì kè-kàu siánn hù-tshut khá tsē",
+      "manual_id": "line-55:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 27,
+      "time": 156.75,
+      "online_text": "我若呒你日子呒知按那过",
+      "match_text": "我若呒你日子呒知按那过",
+      "text": "我若嘸你日子嘸知按那過",
+      "spelling": "guá ná bô lí li̍t-tsí m̄ tsai àn ná kuè",
+      "manual_id": "line-58:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.818182
+    },
+    {
+      "source_row": 28,
+      "time": 163.46,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 29,
+      "time": 166.21,
+      "online_text": "感谢你爱我 陪伴我 对我的鼓励",
+      "match_text": "感谢你爱我 陪伴我 对我的鼓励",
+      "text": "感謝你愛我 陪伴我 對我的鼓勵",
+      "spelling": "kám-siā lí ài guá puê-phuānn guá tuì guá ê kóo-lē",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 172.29,
+      "online_text": "你对我的感情 我知影无底找",
+      "match_text": "你对我的感情 我知影无底找",
+      "text": "你對我的感情 我知影無底找",
+      "spelling": "lí tuì guá ê kám-tsîng guá tsai-iánn bô té tshuē",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 177.93,
+      "online_text": "将来一定会还你几落倍",
+      "match_text": "将来一定会还你几落倍",
+      "text": "將來一定會還你幾落倍",
+      "spelling": "tsiong-lâi it-tīng ē hîng lí kuí lo̍h puē",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 182.82,
+      "online_text": "只爱你一个",
+      "match_text": "只爱你一个",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 186.82,
+      "online_text": "感谢你爱我 相信我 甲我这速配",
+      "match_text": "感谢你爱我 相信我 甲我这速配",
+      "text": "感謝你愛我 相信我 甲我這速配",
+      "spelling": "kám-siā lí ài guá siong-sìn guá kā guá tsiah sut phuè",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 192.66,
+      "online_text": "两个人会作夥 拢是前世爱过",
+      "match_text": "两个人会作夥 拢是前世爱过",
+      "text": "兩個人會作夥 攏是前世愛過",
+      "spelling": "nn̄g-ê lâng ē tsò-hué lóng sī tsîng-sì ài kuè",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 198.13,
+      "online_text": "要感谢天地搁赐乎咱机会",
+      "match_text": "要感谢天地搁赐乎咱机会",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 205.95,
+      "online_text": "这世人够作夥",
+      "match_text": "这世人够作夥",
+      "text": "這世人夠作夥",
+      "spelling": "tsit-sì-lâng ko tsò-hué",
+      "manual_id": "line-82:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 211.54,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 38,
+      "time": 228.06,
+      "online_text": "感谢你爱我 陪伴我 对我的鼓励",
+      "match_text": "感谢你爱我 陪伴我 对我的鼓励",
+      "text": "感謝你愛我 陪伴我 對我的鼓勵",
+      "spelling": "kám-siā lí ài guá puê-phuānn guá tuì guá ê kóo-lē",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 233.42,
+      "online_text": "你对我的感情 我知影无底找",
+      "match_text": "你对我的感情 我知影无底找",
+      "text": "你對我的感情 我知影無底找",
+      "spelling": "lí tuì guá ê kám-tsîng guá tsai-iánn bô té tshuē",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 238.98,
+      "online_text": "将来一定会还你几落倍",
+      "match_text": "将来一定会还你几落倍",
+      "text": "將來一定會還你幾落倍",
+      "spelling": "tsiong-lâi it-tīng ē hîng lí kuí lo̍h puē",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 41,
+      "time": 243.99,
+      "online_text": "只爱你一个",
+      "match_text": "只爱你一个",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 248.27,
+      "online_text": "感谢你爱我 相信我 甲我这速配",
+      "match_text": "感谢你爱我 相信我 甲我这速配",
+      "text": "感謝你愛我 相信我 甲我這速配",
+      "spelling": "kám-siā lí ài guá siong-sìn guá kā guá tsiah sut phuè",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 43,
+      "time": 254.0,
+      "online_text": "两个人会作夥 拢是前世爱过",
+      "match_text": "两个人会作夥 拢是前世爱过",
+      "text": "兩個人會作夥 攏是前世愛過",
+      "spelling": "nn̄g-ê lâng ē tsò-hué lóng sī tsîng-sì ài kuè",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 44,
+      "time": 259.3,
+      "online_text": "要感谢天地搁赐乎咱机会",
+      "match_text": "要感谢天地搁赐乎咱机会",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 267.22,
+      "online_text": "这世人够作夥",
+      "match_text": "这世人够作夥",
+      "text": "這世人夠作夥",
+      "spelling": "tsit-sì-lâng ko tsò-hué",
+      "manual_id": "line-82:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 46,
+      "time": 273.21,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 47,
+      "time": 277.61,
+      "online_text": "这世人够作夥",
+      "match_text": "这世人够作夥",
+      "text": "這世人夠作夥",
+      "spelling": "tsit-sì-lâng ko tsò-hué",
+      "manual_id": "line-82:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 48,
+      "time": 295.866,
+      "online_text": "人声 : Hsiao Huang Chi",
+      "match_text": "人声 : Hsiao Huang Chi",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "ce951c12ee6d09648aa510cb4d47145195830b2a0d64ffb43856fbfe377835d6",
+    "manual": "2acc6013aba8b3591a6b49fc2fc06c270352f72ac5bfed6c1df210b921992d5f",
+    "timed": "264d84cbd1fd373236f85576f89a4c17eca9d9f1c895b926aa42ccf74dc3a25d"
+  }
+}

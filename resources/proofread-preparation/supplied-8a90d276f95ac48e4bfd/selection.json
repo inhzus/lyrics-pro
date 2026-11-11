@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 28528289,
+    "title": "饮水思源",
+    "artists": [
+      "萧煌奇"
+    ],
+    "album": "上水的花",
+    "duration": 262.733,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:28528289",
+      "duration": 262.733,
+      "ready": false,
+      "coverage": 0.8058823529411765,
+      "exact_fraction": 0.6896551724137931,
+      "summary": {
+        "credit": 2,
+        "exact": 7,
+        "approximate": 4,
+        "repeat": 13,
+        "unresolved": 5
+      }
+    }
+  ]
+}

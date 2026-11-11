@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 449769019,
+      "title": "仝款的月娘",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "钉子花",
+      "duration": 273.336,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1878510256,
+      "title": "仝款的月娘",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "月来月爱你",
+      "duration": 273.336,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1979541941,
+      "title": "仝款的月娘",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "在月光下唱情歌",
+      "duration": 273.336,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

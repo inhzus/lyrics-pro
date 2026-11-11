@@ -1,0 +1,628 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "是啥時有咚咚猜",
+      "spelling": "sī siánn-sî ū tôm tôm tshai",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "大家相招做伙來",
+      "spelling": "ta̍k-ke sio-tsio tsò-hué lâi",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "今日這攤咱攏當作迎冠軍欸時在演",
+      "spelling": "kim-li̍t tsit thuann lán lóng tòng-tsuè ngiâ kuan-kun ê sî teh puann",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "轎班欸腳步靠頭籤轎棍打訊號",
+      "spelling": "kiō pan ê kha-pōo kōo thâu tshiam kiō kùn phah sìn-hō",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "有小法也有畫臉扛神將廟會趴踢歐奶隆",
+      "spelling": "ū sió huat mā ū uē bīn kng sîn tsiòng biō ē pa thi au nai liông",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "賜我一個能夠幫神明服務欸機會",
+      "spelling": "sù guá tsi̍t ê ē-tàng pang sîn-bîng ho̍k-bū ê ki-huē",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "我就是嘻哈8+9我驕傲",
+      "spelling": "guá tio̍h-sī si-hā 8+9 guá kiau-ngōo",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "搖勒搖勒搖 阮是廟口男子漢",
+      "spelling": "iô li̍k iô li̍k iô gún sī biō-tiânn lâm-tsú-hàn",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "咚猜 我在咚咚猜",
+      "spelling": "tôm tshai guá teh tôm tôm tshai",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "我帶你來鑽轎腳",
+      "spelling": "guá tshuā lí lâi nǹg kiō kha",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "保恁身體健康 萬事平安 發發發發發",
+      "spelling": "pó lin sin-thé kiān-khong bān-sū pîng-an fa fa fa fa fa",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "搖勒搖勒搖 阮是廟口男子漢",
+      "spelling": "iô li̍k iô li̍k iô gún sī biō-tiânn lâm-tsú-hàn",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "咚猜 我在咚咚猜",
+      "spelling": "tôm tshai guá teh tôm tôm tshai",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "我帶你來鑽轎腳",
+      "spelling": "guá tshuā lí lâi nǹg kiō kha",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "保恁身體健康 萬事平安 發發發發發",
+      "spelling": "pó lin sin-thé kiān-khong bān-sū pîng-an fa fa fa fa fa",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "咱若出門大家都在笑 大家都叫咱 8+9",
+      "spelling": "lán ná tshut-mn̂g ta̍k-ke lóng ti tshiò ta̍k-ke lóng kiò lán 8+9",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "我最愛聽慢搖 hiphop真的不好聽",
+      "spelling": "guá siōng ài thiann bān iô hip hop tsin ê bô hó thiann",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "我說讚的沒在鬧 這是我心聲",
+      "spelling": "guá kóng tsán ê bô ti nāu tsit sī guá ê sim-siann",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "8+9咱驕傲 我們真的沒搖頭",
+      "spelling": "8+9 lán kiau-ngōo lán tsin ê bô iô-thâu",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "雖然個性很衝 但我愛我的水老婆",
+      "spelling": "sui-liân kò-sìng tsin tshiong nā guá ài guá ê tsuí bóo",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "這個文化我來背 男生女生都愛",
+      "spelling": "tsit-ê bûn-huà guá lâi phāinn tsa-poo tsa-bóo lóng ài",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "8+9是我 走過你家你也是拜",
+      "spelling": "8+9 sī guá kiânn-kuè lí ka lí mā ai pài",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "搖勒搖勒搖 阮是廟口男子漢",
+      "spelling": "iô li̍k iô li̍k iô gún sī biō-tiânn lâm-tsú-hàn",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "咚猜 我在咚咚猜",
+      "spelling": "tôm tshai guá teh tôm tôm tshai",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "我帶你來鑽轎腳",
+      "spelling": "guá tshuā lí lâi nǹg kiō kha",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "保恁身體健康 萬事平安 發發發發發",
+      "spelling": "pó lin sin-thé kiān-khong bān-sū pîng-an fa fa fa fa fa",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "搖勒搖勒搖 阮是廟口男子漢",
+      "spelling": "iô li̍k iô li̍k iô gún sī biō-tiânn lâm-tsú-hàn",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "咚猜 我在咚咚猜",
+      "spelling": "tôm tshai guá teh tôm tôm tshai",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "我帶你來鑽轎腳",
+      "spelling": "guá tshuā lí lâi nǹg kiō kha",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "保恁身體健康 萬事平安 發發發發發",
+      "spelling": "pó lin sin-thé kiān-khong bān-sū pîng-an fa fa fa fa fa",
+      "source_lines": [
+        112,
+        113
+      ]
+    },
+    {
+      "id": "line-115",
+      "text": "我說他們 是說我學歷不夠高 遇到事情找人灣",
+      "spelling": "guá kóng in sī kóng guá ha̍k-li̍k bô-kàu kuân gū-tio̍h tāi-tsì tshuē lâng uan",
+      "source_lines": [
+        115,
+        116
+      ]
+    },
+    {
+      "id": "line-118",
+      "text": "雖然菸酒檳榔攏總來 但拍謝 我在讀法律碩士班",
+      "spelling": "sui-liân hun-tsiú pin-nn̂g lóng-tsóng lâi nā pháinn-sè guá tsāi tha̍k huat-lu̍t sik-sū-pan",
+      "source_lines": [
+        118,
+        119
+      ]
+    },
+    {
+      "id": "line-121",
+      "text": "有義氣是基本 身軀內住在地魂",
+      "spelling": "ū gī-khì sī ki-pún tng-khu lāi tuà-tsāi tē hûn",
+      "source_lines": [
+        121,
+        122
+      ]
+    },
+    {
+      "id": "line-124",
+      "text": "最喜歡吃米粉 義大利麵不合阮",
+      "spelling": "siōng kah-ì tsia̍h bí-hún ì-tāi-lī-mī bô ka̍h gún",
+      "source_lines": [
+        124,
+        125
+      ]
+    },
+    {
+      "id": "line-127",
+      "text": "8+9名俗擱勇 但我感覺驕傲 讓我超級快樂",
+      "spelling": "8+9 miâ sio̍k koh ióng nā guá kám-kak kiau-ngōo hōo guá tshiau-kip khuài-lo̍k",
+      "source_lines": [
+        127,
+        128
+      ]
+    },
+    {
+      "id": "line-130",
+      "text": "阮是8 + 9 他都叫阮是8 + 9",
+      "spelling": "gún sī 8 + 9 i lóng kiò gún sī 8 + 9",
+      "source_lines": [
+        130,
+        131
+      ]
+    },
+    {
+      "id": "line-133",
+      "text": "8 + 9的腳步 背著文化開始要衝",
+      "spelling": "8 + 9 ê kha-pōo phāinn-tio̍h bûn-huà khai-sí beh tshiong",
+      "source_lines": [
+        133,
+        134
+      ]
+    },
+    {
+      "id": "line-136",
+      "text": "懶得多說 這阮的驕傲",
+      "spelling": "lán tio̍h ke kóng tsit gún ê kiau-ngōo",
+      "source_lines": [
+        136,
+        137
+      ]
+    },
+    {
+      "id": "line-139",
+      "text": "別跟我囉嗦 阮將傳統傳承落",
+      "spelling": "mài kā guá lo-so gún tsiòng thn̂g tsiòng thuân sîn lo̍h",
+      "source_lines": [
+        139,
+        140
+      ]
+    },
+    {
+      "id": "line-142",
+      "text": "hip hop沒人聽 開電台台灣之聲",
+      "spelling": "hip hop bô lâng thiann khui tiān-tâi tâi-uân tsi siann",
+      "source_lines": [
+        142,
+        143
+      ]
+    },
+    {
+      "id": "line-145",
+      "text": "立勝站在這 有8 + 9就有我的影",
+      "spelling": "li̍p sìng khiā tī tsia ū 8 + 9 tio̍h ū guá ê iánn",
+      "source_lines": [
+        145,
+        146
+      ]
+    },
+    {
+      "id": "line-148",
+      "text": "一樣腳步 阮依然扛轎",
+      "spelling": "kāng-khuán kha-pōo gún i-jiân kng-kiō",
+      "source_lines": [
+        148,
+        149
+      ]
+    },
+    {
+      "id": "line-151",
+      "text": "你們人是在哪 趕緊跟我來扛轎搖勒搖",
+      "spelling": "lín lâng lâng sī tē tuē kuánn-kín tuè guá lâi kng-kiō iô li̍k iô",
+      "source_lines": [
+        151,
+        152
+      ]
+    },
+    {
+      "id": "line-154",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "source_lines": [
+        154,
+        155
+      ]
+    },
+    {
+      "id": "line-157",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "source_lines": [
+        157,
+        158
+      ]
+    },
+    {
+      "id": "line-160",
+      "text": "搖勒搖勒搖 阮是廟口男子漢",
+      "spelling": "iô li̍k iô li̍k iô gún sī biō-tiânn lâm-tsú-hàn",
+      "source_lines": [
+        160,
+        161
+      ]
+    },
+    {
+      "id": "line-163",
+      "text": "咚猜 我在咚咚猜",
+      "spelling": "tôm tshai guá teh tôm tôm tshai",
+      "source_lines": [
+        163,
+        164
+      ]
+    },
+    {
+      "id": "line-166",
+      "text": "我帶你來鑽轎腳",
+      "spelling": "guá tshuā lí lâi nǹg kiō kha",
+      "source_lines": [
+        166,
+        167
+      ]
+    },
+    {
+      "id": "line-169",
+      "text": "保恁身體健康 萬事平安 發發發發發",
+      "spelling": "pó lin sin-thé kiān-khong bān-sū pîng-an fa fa fa fa fa",
+      "source_lines": [
+        169,
+        170
+      ]
+    },
+    {
+      "id": "line-172",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "source_lines": [
+        172,
+        173
+      ]
+    },
+    {
+      "id": "line-175",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "source_lines": [
+        175,
+        176
+      ]
+    },
+    {
+      "id": "line-178",
+      "text": "搖勒搖勒搖 阮是廟口男子漢",
+      "spelling": "iô li̍k iô li̍k iô gún sī biō-tiânn lâm-tsú-hàn",
+      "source_lines": [
+        178,
+        179
+      ]
+    },
+    {
+      "id": "line-181",
+      "text": "咚猜 我在咚咚猜",
+      "spelling": "tôm tshai guá teh tôm tôm tshai",
+      "source_lines": [
+        181,
+        182
+      ]
+    },
+    {
+      "id": "line-184",
+      "text": "我帶你來鑽轎腳",
+      "spelling": "guá tshuā lí lâi nǹg kiō kha",
+      "source_lines": [
+        184,
+        185
+      ]
+    },
+    {
+      "id": "line-187",
+      "text": "保恁身體健康 萬事平安 發發發發發",
+      "spelling": "pó lin sin-thé kiān-khong bān-sū pîng-an fa fa fa fa fa",
+      "source_lines": [
+        187,
+        188
+      ]
+    },
+    {
+      "id": "line-190",
+      "text": "兄弟扛下去扛下去 去扛下去 去扛下去",
+      "spelling": "hiann-tī kng lo̍h-khì kng lo̍h-khì kng lo̍h-khì kng lo̍h-khì",
+      "source_lines": [
+        190,
+        191
+      ]
+    },
+    {
+      "id": "line-193",
+      "text": "兄弟扛下去扛下去 去扛下去 去扛下去",
+      "spelling": "hiann-tī kng lo̍h-khì kng lo̍h-khì kng lo̍h-khì kng lo̍h-khì",
+      "source_lines": [
+        193,
+        194
+      ]
+    },
+    {
+      "id": "line-196",
+      "text": "兄弟扛下去扛下去 去扛下去 去扛下去",
+      "spelling": "hiann-tī kng lo̍h-khì kng lo̍h-khì kng lo̍h-khì kng lo̍h-khì",
+      "source_lines": [
+        196,
+        197
+      ]
+    },
+    {
+      "id": "line-199",
+      "text": "兄弟扛下去扛下去 去扛下去 去扛下去",
+      "spelling": "hiann-tī kng lo̍h-khì kng lo̍h-khì kng lo̍h-khì kng lo̍h-khì",
+      "source_lines": [
+        199,
+        200
+      ]
+    },
+    {
+      "id": "line-202",
+      "text": "扛扛扛扛扛扛扛扛扛扛 恭迎聖駕",
+      "spelling": "kng kng kng kng kng kng kng kng kng kng kiong gêng sìng kà",
+      "source_lines": [
+        202,
+        203
+      ]
+    },
+    {
+      "id": "line-205",
+      "text": "扛扛扛扛扛扛扛扛扛扛 恭迎聖駕",
+      "spelling": "kng kng kng kng kng kng kng kng kng kng kiong gêng sìng kà",
+      "source_lines": [
+        205,
+        206
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

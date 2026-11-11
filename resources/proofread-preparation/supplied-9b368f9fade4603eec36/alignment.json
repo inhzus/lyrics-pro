@@ -1,0 +1,604 @@
+{
+  "recording_id": "netease:161277",
+  "timing_source": "NetEase https://music.163.com/song?id=161277",
+  "manual_source": "User-supplied resources/lyrics-spelling/愛到無命不知驚-王識賢",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "unresolved": 43
+  },
+  "review_row_count": 43,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0",
+    "line-58:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 27.64,
+      "online_text": "消失的热情",
+      "match_text": "消失的热情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 30.27,
+      "online_text": "冷淡的温存",
+      "match_text": "冷淡的温存",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 2,
+      "time": 34.23,
+      "online_text": "我惦黑暗的空气中",
+      "match_text": "我惦黑暗的空气中",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 36.95,
+      "online_text": "走找最后的可能",
+      "match_text": "走找最后的可能",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 41.07,
+      "online_text": "吵闹的声音",
+      "match_text": "吵闹的声音",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 43.8,
+      "online_text": "无聊的剧情",
+      "match_text": "无聊的剧情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 47.66,
+      "online_text": "一段感情渐渐变化",
+      "match_text": "一段感情渐渐变化",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 50.58,
+      "online_text": "事到如今我才知样",
+      "match_text": "事到如今我才知样",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 54.35,
+      "online_text": "是不是爱到无命不知惊",
+      "match_text": "是不是爱到无命不知惊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 57.85,
+      "online_text": "撕开伤痕才知痛",
+      "match_text": "撕开伤痕才知痛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 61.33,
+      "online_text": "写满温柔的笑容",
+      "match_text": "写满温柔的笑容",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 64.73,
+      "online_text": "是美丽的背叛",
+      "match_text": "是美丽的背叛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 68.05,
+      "online_text": "是不是冻过霜雪不知寒",
+      "match_text": "是不是冻过霜雪不知寒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 71.42,
+      "online_text": "失去了后才知输赢",
+      "match_text": "失去了后才知输赢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 75.23,
+      "online_text": "原来今生的孤单",
+      "match_text": "原来今生的孤单",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 78.45,
+      "online_text": "直咱初见面的时",
+      "match_text": "直咱初见面的时",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 80.85,
+      "online_text": "就已经注定",
+      "match_text": "就已经注定",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 99.85,
+      "online_text": "消失的热情",
+      "match_text": "消失的热情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 102.83,
+      "online_text": "冷淡的温存",
+      "match_text": "冷淡的温存",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 106.47,
+      "online_text": "我惦黑暗的空气中",
+      "match_text": "我惦黑暗的空气中",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 108.94,
+      "online_text": "走找最后的可能",
+      "match_text": "走找最后的可能",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 112.44,
+      "online_text": "吵闹的声音",
+      "match_text": "吵闹的声音",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 115.84,
+      "online_text": "无聊的剧情",
+      "match_text": "无聊的剧情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 119.3,
+      "online_text": "一段感情渐渐变化",
+      "match_text": "一段感情渐渐变化",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 122.52,
+      "online_text": "事到如今我才知样",
+      "match_text": "事到如今我才知样",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 126.29,
+      "online_text": "是不是爱到无命不知惊",
+      "match_text": "是不是爱到无命不知惊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 129.7,
+      "online_text": "撕开伤痕才知痛",
+      "match_text": "撕开伤痕才知痛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 133.38,
+      "online_text": "写满温柔的笑容",
+      "match_text": "写满温柔的笑容",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 136.3,
+      "online_text": "是美丽的背叛",
+      "match_text": "是美丽的背叛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 139.93,
+      "online_text": "是不是冻过霜雪不知寒",
+      "match_text": "是不是冻过霜雪不知寒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 143.72,
+      "online_text": "失去了后才知输赢",
+      "match_text": "失去了后才知输赢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 147.37,
+      "online_text": "原来今生的孤单",
+      "match_text": "原来今生的孤单",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 150.37,
+      "online_text": "直咱初见面的时",
+      "match_text": "直咱初见面的时",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 152.57,
+      "online_text": "就已经注定",
+      "match_text": "就已经注定",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 157.17,
+      "online_text": "是不是爱到无命不知惊",
+      "match_text": "是不是爱到无命不知惊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 160.99,
+      "online_text": "撕开伤痕才知痛",
+      "match_text": "撕开伤痕才知痛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 164.4,
+      "online_text": "写满温柔的笑容",
+      "match_text": "写满温柔的笑容",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 167.19,
+      "online_text": "是美丽的背叛",
+      "match_text": "是美丽的背叛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 170.7,
+      "online_text": "是不是冻过霜雪不知寒",
+      "match_text": "是不是冻过霜雪不知寒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 174.28,
+      "online_text": "失去了后才知输赢",
+      "match_text": "失去了后才知输赢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 178.18,
+      "online_text": "原来今生的孤单",
+      "match_text": "原来今生的孤单",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 181.09,
+      "online_text": "直咱初见面的时",
+      "match_text": "直咱初见面的时",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 183.73,
+      "online_text": "就已经注定",
+      "match_text": "就已经注定",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "5109d9d4d4143c16fbb76700e88cf53a49ee73517dcc167ae9d88bdd67147bd9",
+    "manual": "c8afdb12ef5d400ec57f09e6089cfe574948069e8ac78aa7df81cee31b1b8eaf",
+    "timed": "396b16261c2d743ac51829a4462d2fc58df58f4bd9b63a9d00f442151f0a09ea"
+  }
+}

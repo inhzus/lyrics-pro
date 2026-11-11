@@ -1,0 +1,57 @@
+{
+  "selected": {
+    "song_id": 18267561,
+    "title": "恨世生",
+    "artists": [
+      "伍佰"
+    ],
+    "album": "伍佰的Live",
+    "duration": 200.225669,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "lrclib:18267561",
+      "duration": 200.225669,
+      "ready": false,
+      "coverage": 0.8160919540229885,
+      "exact_fraction": 0.8,
+      "summary": {
+        "unresolved": 2,
+        "exact": 2,
+        "approximate": 3,
+        "repeat": 18,
+        "gap": 2
+      }
+    },
+    {
+      "recording_id": "lrclib:30831672",
+      "duration": 200.0,
+      "ready": false,
+      "coverage": 0.8160919540229885,
+      "exact_fraction": 0.8,
+      "summary": {
+        "unresolved": 2,
+        "exact": 2,
+        "approximate": 3,
+        "repeat": 18,
+        "gap": 2
+      }
+    },
+    {
+      "recording_id": "lrclib:31154799",
+      "duration": 200.0,
+      "ready": false,
+      "coverage": 0.8160919540229885,
+      "exact_fraction": 0.8,
+      "summary": {
+        "unresolved": 2,
+        "exact": 2,
+        "approximate": 3,
+        "repeat": 18,
+        "gap": 2
+      }
+    }
+  ]
+}

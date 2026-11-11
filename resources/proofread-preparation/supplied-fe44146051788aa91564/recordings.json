@@ -1,0 +1,215 @@
+{
+  "candidates": [
+    {
+      "song_id": 3456670927,
+      "title": "劝世歌",
+      "artists": [
+        "郑祁"
+      ],
+      "album": "狂歌行",
+      "duration": 234.01,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 520242603,
+      "title": "劝世歌",
+      "artists": [
+        "柯智豪",
+        "杨秀卿"
+      ],
+      "album": "血观音 电影原声带",
+      "duration": 166.8,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2630869259,
+      "title": "劝世歌",
+      "artists": [
+        "黃楊先女"
+      ],
+      "album": "《角头》原声带",
+      "duration": 123.5,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 4872688,
+      "title": "劝世歌",
+      "artists": [
+        "刘玲玲"
+      ],
+      "album": "12蓮花 原著電影原聲帶 (Original Motion Picture Soundtrack)",
+      "duration": 135.601,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2117778015,
+      "title": "劝世歌",
+      "artists": [
+        "卓依婷"
+      ],
+      "album": "卓依婷 永垂不朽经典老歌 (精选 3 闽南语)",
+      "duration": 242.602,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2663425651,
+      "title": "劝世歌",
+      "artists": [
+        "邓丽君"
+      ],
+      "album": "轰动闽南语歌曲",
+      "duration": 153.453,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 571545110,
+      "title": "劝世歌",
+      "artists": [
+        "刘福助"
+      ],
+      "album": "台湾歌谣 (3)",
+      "duration": 248.506,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 188978,
+      "title": "劝世歌",
+      "artists": [
+        "赵传"
+      ],
+      "album": "黑暗的英雄",
+      "duration": 159.864,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2049998412,
+      "title": "劝世歌",
+      "artists": [
+        "李小珍"
+      ],
+      "album": "潮州精选, Vol. 2",
+      "duration": 204.173,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1415437700,
+      "title": "劝世歌",
+      "artists": [
+        "杨贵媚"
+      ],
+      "album": "蕃薯浇米 电影原声带",
+      "duration": 91.513,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2158347512,
+      "title": "劝世歌",
+      "artists": [
+        "邓丽君"
+      ],
+      "album": "难忘初恋情人",
+      "duration": 153.453,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1399140341,
+      "title": "劝世歌",
+      "artists": [
+        "邓丽君"
+      ],
+      "album": "邓丽君金唱片",
+      "duration": 165.92,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3316800981,
+      "title": "劝世歌",
+      "artists": [
+        "童欣"
+      ],
+      "album": "童欣的怀念老歌",
+      "duration": 256.026,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5275757,
+      "title": "劝世歌",
+      "artists": [
+        "群星"
+      ],
+      "album": "台湾乡土情",
+      "duration": 225.6,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2630868856,
+      "title": "劝世歌",
+      "artists": [
+        "黃楊先女"
+      ],
+      "album": "《角头-大桥头》电影音乐原声带",
+      "duration": 123.5,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 484058584,
+      "title": "劝世歌",
+      "artists": [
+        "新韵传音"
+      ],
+      "album": "劝世歌",
+      "duration": 1579.235,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30780055,
+      "title": "劝世歌",
+      "artists": [
+        "梅花三姐妹"
+      ],
+      "album": "台语最新专辑3",
+      "duration": 224.84,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 412951592,
+      "title": "劝世歌",
+      "artists": [
+        "陈建玮"
+      ],
+      "album": "古伦美亚",
+      "duration": 122.045,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 34014446,
+      "title": "劝世歌",
+      "artists": [
+        "邓丽君"
+      ],
+      "album": "闽南语经典102",
+      "duration": 156.48,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

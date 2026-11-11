@@ -1,0 +1,457 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "當我心情若壞",
+      "spelling": "tong guá sim-tsîng ná pháinn",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "你一隻菸推過來",
+      "spelling": "lí tsi̍t khi hun thu kò-lâi",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "肩膀頭拍拍 對我講一切都是世間欸無奈",
+      "spelling": "king-kah-thâu tah-tah tuì guá kóng it-tshè lóng sī sè-kan ê bô-nāi",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "阮 唱著這首歌",
+      "spelling": "gún tshiùnn-tio̍h tsit tiâu kua",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "滄桑欸人生感謝有你來作伴",
+      "spelling": "tshong-song ê lîn-sing kám-siā ū lí lâi tsuè-phuānn",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "做伙出生入死一遍擱一遍",
+      "spelling": "tsò-hué tshut-sing li̍p sí tsi̍t pái koh tsi̍t pái",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "阮欸江湖 用這首歌來表態",
+      "spelling": "gún ê kang-ôo iōng tsit tiâu kua lâi piáu-thài",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "瀟灑欸阮",
+      "spelling": "phiau-phiat ê gún",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "阮欸心 阮欸情",
+      "spelling": "gún ê sim gún ê tsîng",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "別肖想別人來掀動",
+      "spelling": "mài siàu siūnn pa̍t-lâng lâi sian tōng",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "做伙走過欸路",
+      "spelling": "tsò-hué kiânn-kuè ê lōo",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "阮將沒後悔留下欸錯誤",
+      "spelling": "gún tsiòng buē hiō-hué lâu-lo̍h ê tshò-gōo",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "潮起潮落 好兄弟你有心事對我說",
+      "spelling": "tiâu khí tiâu lo̍h hó hiann-tī lí ū sim-sū tuì guá kóng",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "讓阮變成更掘強",
+      "spelling": "hōo gún piàn-sîng lú ku̍t kiông",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "走闖冷血欸江湖",
+      "spelling": "tsáu tsông líng-hueh ê kang-ôo",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "阮相挺過少年時欸衝繃",
+      "spelling": "gún siòng thīn kuè siàu-liân-sî ê tshiong bong",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "把生死交惦槍下",
+      "spelling": "kā senn-sí ka tiām tshiunn hā",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "友情歲月刻著阮欸名",
+      "spelling": "iú-tsîng suè-gua̍t khik-siong gún ê miâ",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "瀟灑浮沈欸生命",
+      "spelling": "phiau-phiat phû-tîm ê sìnn-miā",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "人海茫茫阮合相近",
+      "spelling": "jîn-hái bâng bâng gún ha̍h sio-uá",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "今夜 阮將阮欸青春",
+      "spelling": "kim-iā gún tsiòng gún ê tshing-tshun",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "寫作詩來聽",
+      "spelling": "siá tsò si lâi thiann",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "阮互相提醒 惦低這條路頂",
+      "spelling": "gún hōo-siong thê-tshínn tiām ti tsit tiâu lōo-tíng",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "阮跳脫生死 衝過多少風浪",
+      "spelling": "gún thiàu-thuat senn-sí tshiong-kuè guā-tsē hong-íng",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "阮不同姓 不同人生 不同個性塊灰",
+      "spelling": "gún bô-kâng sènn bô-kâng lâng-senn bô-kâng kò-sìng tè hue",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "但做同款夥 同款進退 同款垃圾工作",
+      "spelling": "tān tsò kāng-khuán hué kāng-khuán tsìn-thè kāng-khuán pùn-sò kang-khuè",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "阮重情 重義 但沒重粉味",
+      "spelling": "gún tiōng tsîng tiōng-gī tān bô tiōng hún-bī",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "阮小心 看事面 腳踩江湖時",
+      "spelling": "gún sè-lī khuànn sè biān kha ta̍h kang-ôo sî",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "我一直都把你當成兄弟來看待",
+      "spelling": "guá it-ti̍t lóng kā lí tong-tsuè hiann-tī lâi khuànn-thāi",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "我知 我都知道",
+      "spelling": "guá tsai guá lóng tsai-iánn",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "阮同厝內什麼代誌你著甭放在心裡",
+      "spelling": "gún kāng tshù-lāi siánn-mih tāi-tsì lí-tio̍h mài khǹg sim-lāi",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "一步走 我跟你走",
+      "spelling": "tsi̍t pōo kiânn guá tuè lí kiânn",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "掛槍砲賓士開著走",
+      "spelling": "kuà tshiunn phàu pin-sū khui-tio̍h kiânn",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "當阮瀟灑講著要漂白欸話",
+      "spelling": "tong gún phiau-phiat kóng-tio̍h ài phiau pe̍h ê uē",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "當初看我笑虧現在卻落魄塊灰",
+      "spelling": "tong-tshoo khuànn guá tshiò khui tsit-má suah lo̍k-phik lo̍k-hue",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "江湖 這兩是人欸江湖",
+      "spelling": "kang-ôo tse sī nn̄g ê lâng ê kang-ôo",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "艱苦 但阮不會為了錢煩惱",
+      "spelling": "kan-khóo tān gún bē uī-tio̍h kim tsînn huân-ló",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "阮沒過發誓 發誓也沒卡咒",
+      "spelling": "gún bô kuè tsiù-tsuā tsiù-tsuā mā bô khah tsuā",
+      "source_lines": [
+        112,
+        113
+      ]
+    },
+    {
+      "id": "line-115",
+      "text": "阮之間沒哩在比誰卡兇",
+      "spelling": "gún tsi-kan bô-li tī pí siánn khah tshiah",
+      "source_lines": [
+        115,
+        116
+      ]
+    },
+    {
+      "id": "line-118",
+      "text": "感情好到親像山",
+      "spelling": "kám-kàu hó-tio̍h tshin-tshiūnn suann",
+      "source_lines": [
+        118,
+        119
+      ]
+    },
+    {
+      "id": "line-121",
+      "text": "潮起潮落 好兄弟你有心事對我說",
+      "spelling": "tiâu khí tiâu lo̍h hó hiann-tī lí ū sim-sū tuì guá kóng",
+      "source_lines": [
+        121,
+        122
+      ]
+    },
+    {
+      "id": "line-124",
+      "text": "讓阮變成更掘強",
+      "spelling": "hōo gún piàn-sîng lú ku̍t kiông",
+      "source_lines": [
+        124,
+        125
+      ]
+    },
+    {
+      "id": "line-127",
+      "text": "走闖冷血欸江湖",
+      "spelling": "tsáu tsông líng-hueh ê kang-ôo",
+      "source_lines": [
+        127,
+        128
+      ]
+    },
+    {
+      "id": "line-130",
+      "text": "阮相挺過少年時欸衝繃",
+      "spelling": "gún siòng thīn kuè siàu-liân-sî ê tshiong bong",
+      "source_lines": [
+        130,
+        131
+      ]
+    },
+    {
+      "id": "line-133",
+      "text": "把生死交惦槍下",
+      "spelling": "kā senn-sí ka tiām tshiunn hā",
+      "source_lines": [
+        133,
+        134
+      ]
+    },
+    {
+      "id": "line-136",
+      "text": "友情歲月刻著阮欸名",
+      "spelling": "iú-tsîng suè-gua̍t khik-siong gún ê miâ",
+      "source_lines": [
+        136,
+        137
+      ]
+    },
+    {
+      "id": "line-139",
+      "text": "瀟灑浮沈欸生命",
+      "spelling": "phiau-phiat phû-tîm ê sìnn-miā",
+      "source_lines": [
+        139,
+        140
+      ]
+    },
+    {
+      "id": "line-142",
+      "text": "人海茫茫阮合相近",
+      "spelling": "jîn-hái bâng bâng gún ha̍h sio-uá",
+      "source_lines": [
+        142,
+        143
+      ]
+    },
+    {
+      "id": "line-145",
+      "text": "今夜 阮將阮欸青春",
+      "spelling": "kim-iā gún tsiòng gún ê tshing-tshun",
+      "source_lines": [
+        145,
+        146
+      ]
+    },
+    {
+      "id": "line-148",
+      "text": "寫作詩來聽",
+      "spelling": "siá tsò si lâi thiann",
+      "source_lines": [
+        148,
+        149
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

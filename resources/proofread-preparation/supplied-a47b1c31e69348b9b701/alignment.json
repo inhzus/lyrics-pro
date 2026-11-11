@@ -1,0 +1,650 @@
+{
+  "recording_id": "netease:168251",
+  "timing_source": "NetEase https://music.163.com/song?id=168251",
+  "manual_source": "User-supplied resources/lyrics-spelling/幸福在叫我-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "exact": 35,
+    "approximate": 4,
+    "gap": 5,
+    "unresolved": 3,
+    "repeat": 2
+  },
+  "review_row_count": 7,
+  "unmatched_manual_ids": [
+    "line-73:0"
+  ],
+  "unused_repeat_ids": [
+    "line-37:0",
+    "line-85:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作词 : 巫宇轩",
+      "match_text": "作词 : 巫宇轩",
+      "text": "作词 : 巫宇轩",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 15.0,
+      "online_text": "伴奏着吉他声 唱出阮心内的歌",
+      "match_text": "伴奏着吉他声 唱出阮心内的歌",
+      "text": "伴奏著吉他聲　唱出阮心內的歌",
+      "spelling": "phuānn-tsàu-tio̍h gì-tà siann tshiùnn-tshut gún sim-lāi ê kua",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 20.67,
+      "online_text": "这几年来感谢你的陪伴",
+      "match_text": "这几年来感谢你的陪伴",
+      "text": "這幾年來感謝你的陪伴",
+      "spelling": "tsit kuí nî lâi kám-siā lí ê puê-phuānn",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 25.47,
+      "online_text": "做阮的方向盘 乎阮一个靠岸",
+      "match_text": "做阮的方向盘 乎阮一个靠岸",
+      "text": "做阮的方向盤　乎我一個靠岸",
+      "spelling": "tsò gún ê hong-hiòng-puânn hōo guá tsi̍t ê khò-huānn",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 5,
+      "time": 31.85,
+      "online_text": "失望的雨有厝瓦通遮",
+      "match_text": "失望的雨有厝瓦通遮",
+      "text": "失望的雨有厝瓦通遮",
+      "spelling": "sit-bāng ê hōo ū tshù-hiā thàng jia",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 37.34,
+      "online_text": "看着你的背影 有时阵犹原会惊",
+      "match_text": "看着你的背影 有时阵犹原会惊",
+      "text": "看著你的背影 有時陣猶原會驚",
+      "spelling": "khuànn-tio̍h lí ê puē-iánn ū-sî-tsūn iû-guân ē kiann",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 43.17,
+      "online_text": "不知甘会是阮在作梦",
+      "match_text": "不知甘会是阮在作梦",
+      "text": "不知甘會是阮在作夢",
+      "spelling": "m̄ tsai kam-ē sī gún leh tsuè-bāng",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 47.71,
+      "online_text": "谁叫你遐迷人 温柔体贴",
+      "match_text": "谁叫你遐迷人 温柔体贴",
+      "text": "誰叫你遐迷人 溫柔體貼",
+      "spelling": "siáng kiò lí tshiâ bê lâng un-liû thé-thiap",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 54.89,
+      "online_text": "亲像载着希望的船只",
+      "match_text": "亲像载着希望的船只",
+      "text": "親像載著希望的船隻",
+      "spelling": "tshin-tshiūnn tsáinn-tio̍h hi-bāng ê tsûn-tsiah",
+      "manual_id": "line-22:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 60.68,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 11,
+      "time": 63.79,
+      "online_text": "像我顸颟煮呷 无外豪额 嘛无介高大",
+      "match_text": "像我顸颟煮呷 无外豪额 嘛无介高大",
+      "text": "像我頇顢煮呷　無外豪額　嘛無介高大",
+      "spelling": "tshiūnn guá han-bān tsú tsiah bô guā hô gia̍h mā bô kài kuân-tuā",
+      "manual_id": "line-25:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 69.45,
+      "online_text": "讲济笑亏 亦无人爱听",
+      "match_text": "讲济笑亏 亦无人爱听",
+      "text": "講濟笑虧　亦無人愛聽",
+      "spelling": "kóng tsuè tshiò khui ia̍h bô-lâng ài thiann",
+      "manual_id": "line-28:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 74.36,
+      "online_text": "只是你知影 爱你的心肝",
+      "match_text": "只是你知影 爱你的心肝",
+      "text": "只是你知影　愛你的心肝",
+      "spelling": "tsí-sī lí tsai-iánn ài lí ê sim-kuann",
+      "manual_id": "line-31:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 80.82,
+      "online_text": "绝对无人会当揣我拚输赢",
+      "match_text": "绝对无人会当揣我拚输赢",
+      "text": "絕對無人會當揣我拚輸贏",
+      "spelling": "tsua̍t-tuì bô-lâng ē-tàng tshuē guá piànn su-iânn",
+      "manual_id": "line-34:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 88.87,
+      "online_text": "我听到天在笑我 笑我这个憨人",
+      "match_text": "我听到天在笑我 笑我这个憨人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 95.47,
+      "online_text": "像你这款的伴 还在等啥",
+      "match_text": "像你这款的伴 还在等啥",
+      "text": "像你這款的伴　還在等啥",
+      "spelling": "tshiūnn lí tsit-khuán ê phuānn iáu leh tán siánn",
+      "manual_id": "line-40:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 100.51,
+      "online_text": "对熟悉你彼天 就跛落痴情的网",
+      "match_text": "对熟悉你彼天 就跛落痴情的网",
+      "text": "對熟悉你彼天　就跛落癡情的網",
+      "spelling": "tuì si̍k-sāi lí hit kang tio̍h phuà lo̍h tshi-tsîng ê bāng",
+      "manual_id": "line-43:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 106.42,
+      "online_text": "后半世人阮的希望请你斟酌听",
+      "match_text": "后半世人阮的希望请你斟酌听",
+      "text": "後半世人阮的希望請你斟酌聽",
+      "spelling": "āu puànn sè-lâng gún ê hi-bāng tshiánn lí tsim-tsiok thiann",
+      "manual_id": "line-46:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 112.23,
+      "online_text": "不管花开花谢 无论秋冬春夏",
+      "match_text": "不管花开花谢 无论秋冬春夏",
+      "text": "不管花開花謝　無論秋冬春夏",
+      "spelling": "m̄-kuán hue khui hue siā bô-lūn tshiu-tang tshun hā",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 117.96,
+      "online_text": "心意绝袂变卦 坚定如山",
+      "match_text": "心意绝袂变卦 坚定如山",
+      "text": "心意絕袂變卦 堅定如山",
+      "spelling": "sim-ì tsua̍t buē piàn-kuà kian-tīng lû-suann",
+      "manual_id": "line-52:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 123.34,
+      "online_text": "猫头鸪在唤声 躲置树顶睛睛在看",
+      "match_text": "猫头鸪在唤声 躲置树顶睛睛在看",
+      "text": "貓頭鴣在喚聲　躲置樹頂睛睛在看",
+      "spelling": "niau-thâu koo leh huà siann bih tì tshiū tíng gíng gíng leh khuànn",
+      "manual_id": "line-55:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 129.52,
+      "online_text": "幸福在叫我 牵着你来行",
+      "match_text": "幸福在叫我 牵着你来行",
+      "text": "幸福在叫我 牽著你來行",
+      "spelling": "hīng-hok leh kiò guá khan-tio̍h lí lâi kiânn",
+      "manual_id": "line-58:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 137.1,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 24,
+      "time": 140.7,
+      "online_text": "爱情的尾班车 到站的钟一直响",
+      "match_text": "爱情的尾班车 到站的钟一直响",
+      "text": "愛情的尾班車　到站的鐘一直響",
+      "spelling": "ài-tsîng ê bué-pan-tshia kàu tsām ê tsing it-ti̍t hiáng",
+      "manual_id": "line-61:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 145.97,
+      "online_text": "后壁的路叫同齐打拚",
+      "match_text": "后壁的路叫同齐打拚",
+      "text": "後壁的路叫同齊打拚",
+      "spelling": "āu-piah ê lōo kiò tâng tsê phah-piànn",
+      "manual_id": "line-64:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 152.18,
+      "online_text": "今后是一家人 相依相偎",
+      "match_text": "今后是一家人 相依相偎",
+      "text": "今後是一家人　相依相偎",
+      "spelling": "kim-āu sī tsi̍t ke lâng siò-i siò-uá",
+      "manual_id": "line-67:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 157.87,
+      "online_text": "人生的担两个人来担",
+      "match_text": "人生的担两个人来担",
+      "text": "人生的擔兩個人來擔",
+      "spelling": "lîn-sing ê tann nn̄g-ê lâng lâi tann",
+      "manual_id": "line-70:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 163.95,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 29,
+      "time": 172.28,
+      "online_text": "咸酸苦� 滋味层层叠",
+      "match_text": "咸酸苦� 滋味层层叠",
+      "text": "鹹酸苦汫 滋味層層疊",
+      "spelling": "kiâm sng khóo tsiánn tsu-bī tîng tîng tha̍h",
+      "manual_id": "line-76:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.941176
+    },
+    {
+      "source_row": 30,
+      "time": 177.1,
+      "online_text": "只有你知影 守着咱的青春梦",
+      "match_text": "只有你知影 守着咱的青春梦",
+      "text": "只有你知影　守著咱的青春夢",
+      "spelling": "tsí-ū lí tsai-iánn siú-tio̍h lán ê tshing-tshun bāng",
+      "manual_id": "line-79:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 183.47,
+      "online_text": "绝对无人会当比我卡憨胆",
+      "match_text": "绝对无人会当比我卡憨胆",
+      "text": "絕對無人會當比我卡憨膽",
+      "spelling": "tsua̍t-tuì bô-lâng ē-tàng pí guá khá gōng tám",
+      "manual_id": "line-82:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 191.46,
+      "online_text": "我听到天在笑我 笑我这个憨人",
+      "match_text": "我听到天在笑我 笑我这个憨人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 197.82,
+      "online_text": "犁头惦惦在拚 无怨无声",
+      "match_text": "犁头惦惦在拚 无怨无声",
+      "text": "犁頭惦惦在拚 無怨無聲",
+      "spelling": "lê-thâu tiām-tiām leh piànn bô-uàn bô-siann",
+      "manual_id": "line-88:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 203.66,
+      "online_text": "想欲乎你好命 不免烦恼安怎讨呷",
+      "match_text": "想欲乎你好命 不免烦恼安怎讨呷",
+      "text": "想欲乎你好命　不免煩惱安怎討呷",
+      "spelling": "siūnn-bē hōo lí hó-miā m̄-bián huân-ló an-tsuánn thó tsiah",
+      "manual_id": "line-91:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 209.3,
+      "online_text": "会当过着平凡无欠安稳的生活",
+      "match_text": "会当过着平凡无欠安稳的生活",
+      "text": "會當過著平凡無欠安穩的生活",
+      "spelling": "ē-tàng kuè-tio̍h pîng-huân bô-khiàm an-ún ê sing-ua̍h",
+      "manual_id": "line-94:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 214.69,
+      "online_text": "不管花开花谢 无论秋冬春夏",
+      "match_text": "不管花开花谢 无论秋冬春夏",
+      "text": "不管花開花謝　無論秋冬春夏",
+      "spelling": "m̄-kuán hue khui hue siā bô-lūn tshiu-tang tshun hā",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 220.89,
+      "online_text": "只要有你作伴 我拢袂惊",
+      "match_text": "只要有你作伴 我拢袂惊",
+      "text": "只要有妳作伴　我攏袂驚",
+      "spelling": "tsí-iàu ū lí tsuè-phuānn guá lóng buē kiann",
+      "manual_id": "line-100:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 38,
+      "time": 226.25,
+      "online_text": "燕仔含土做壁 躲置厝脚睛睛在看",
+      "match_text": "燕仔含土做壁 躲置厝脚睛睛在看",
+      "text": "燕仔含土做壁　躲置厝腳睛睛在看",
+      "spelling": "ìnn-á kâm thóo tsuè piah bih tì tshù kha gíng gíng leh khuànn",
+      "manual_id": "line-103:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 232.5,
+      "online_text": "甘是在叫我 幸福家己写",
+      "match_text": "甘是在叫我 幸福家己写",
+      "text": "甘是在叫我 幸福家己寫",
+      "spelling": "kam sī leh kiò guá hīng-hok ka-kī siá",
+      "manual_id": "line-106:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 239.38,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 41,
+      "time": 252.48,
+      "online_text": "听到天在赞声 唱着欢喜的歌",
+      "match_text": "听到天在赞声 唱着欢喜的歌",
+      "text": "聽到天在贊聲　唱著歡喜的歌",
+      "spelling": "thiann-tio̍h thinn leh tsàn-siann tshiùnn-tio̍h huann-hí ê kua",
+      "manual_id": "line-109:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 258.09,
+      "online_text": "姻缘簿牵红线 结着你我",
+      "match_text": "姻缘簿牵红线 结着你我",
+      "text": "姻緣簿牽紅線　結著你我",
+      "spelling": "in-iân phōo khan âng suànn kat-tio̍h lí guá",
+      "manual_id": "line-112:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 43,
+      "time": 263.06,
+      "online_text": "新娘花双手捧 美丽合影笑容满满",
+      "match_text": "新娘花双手捧 美丽合影笑容满满",
+      "text": "新娘花雙手捧　美麗合影笑容滿滿",
+      "spelling": "sin-niû hue siang-tshiú phâng bí-lē ha̍p-iánn tshiò-iông muá-muá",
+      "manual_id": "line-115:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 44,
+      "time": 269.45,
+      "online_text": "无惊无惶共行共命安定的心晟",
+      "match_text": "无惊无惶共行共命安定的心晟",
+      "text": "無驚無惶共行共命安定的心晟",
+      "spelling": "bô-kiann bô-hiânn kāng kiânn kāng miā an-tīng ê sim tshiânn",
+      "manual_id": "line-118:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 45,
+      "time": 274.78,
+      "online_text": "不管天边海角 无论庄脚都城",
+      "match_text": "不管天边海角 无论庄脚都城",
+      "text": "不管天邊海角　無論庄腳都城",
+      "spelling": "m̄-kuán thinn-pinn hái-kak bô-lūn tsng kha too-siânn",
+      "manual_id": "line-121:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 46,
+      "time": 281.1,
+      "online_text": "只要有你作伴 厝就置彼",
+      "match_text": "只要有你作伴 厝就置彼",
+      "text": "只要有妳作伴　厝就置彼",
+      "spelling": "tsí-iàu ū lí tsuè-phuānn tshù tio̍h tì hia",
+      "manual_id": "line-124:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 47,
+      "time": 286.2,
+      "online_text": "鸳鸯双双相带 泅置被单睛睛在看",
+      "match_text": "鸳鸯双双相带 泅置被单睛睛在看",
+      "text": "鴛鴦雙雙相帶　泅置被單睛睛在看",
+      "spelling": "uan-iunn siang siang sio-tuà siû tì phuē tuann gíng gíng leh khuànn",
+      "manual_id": "line-127:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 48,
+      "time": 293.87,
+      "online_text": "幸福在叫我 甲你疼命命",
+      "match_text": "幸福在叫我 甲你疼命命",
+      "text": "幸福在叫我 甲你疼命命",
+      "spelling": "hīng-hok leh kiò guá kā lí thiànn miā miā",
+      "manual_id": "line-130:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 49,
+      "time": 302.93,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 50,
+      "time": 319.93,
+      "online_text": "人声 : Hsiao Huang Chi",
+      "match_text": "人声 : Hsiao Huang Chi",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "bdbc750f096c3ade10b46a4c07d93f9dd6483fe678d34065c3919cd01c048511",
+    "manual": "218b90fa00597e838e2ea6df3dc38065199fe818aa05cc7896d9b0cfbfba3701",
+    "timed": "974f4081148defcdaec13dd1e3886cb68725f04120362cd90505924794048dd7"
+  }
+}

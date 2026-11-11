@@ -1,0 +1,205 @@
+{
+  "recording_id": "netease:2706345335",
+  "timing_source": "NetEase https://music.163.com/song?id=2706345335",
+  "manual_source": "User-supplied resources/lyrics-spelling/無緣的人-男子漢樂團",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 4,
+    "unresolved": 8,
+    "repeat": 1
+  },
+  "review_row_count": 8,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0",
+    "line-58:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 宏大/狗斌",
+      "match_text": "作词 : 宏大/狗斌",
+      "text": "作词 : 宏大/狗斌",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 宏大",
+      "match_text": "作曲 : 宏大",
+      "text": "作曲 : 宏大",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 18.72,
+      "online_text": "无缘的人",
+      "match_text": "无缘的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 18.96,
+      "online_text": "词：宏大／狗斌",
+      "match_text": "词：宏大／狗斌",
+      "text": "词：宏大／狗斌",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 4,
+      "time": 19.29,
+      "online_text": "曲：宏大",
+      "match_text": "曲：宏大",
+      "text": "曲：宏大",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 19.47,
+      "online_text": "找一个所在 惦惦啊想甘有未来",
+      "match_text": "找一个所在 惦惦啊想甘有未来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 32.52,
+      "online_text": "已经无可能 这款解释甘袂太硬",
+      "match_text": "已经无可能 这款解释甘袂太硬",
+      "text": "已經無可能　這款解釋甘袂太硬",
+      "spelling": "í-king bô-khó-lîng tsit-khuán kái-sue kam buē siunn ngē",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 69.33,
+      "online_text": "我甲你走同一边但是你牵的人是伊",
+      "match_text": "我甲你走同一边但是你牵的人是伊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 137.19,
+      "online_text": "惦惦呒敢说出嘴只有目屎流袂离",
+      "match_text": "惦惦呒敢说出嘴只有目屎流袂离",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 148.35,
+      "online_text": "无缘的人去爱别人 说这多拢嘛无采工",
+      "match_text": "无缘的人去爱别人 说这多拢嘛无采工",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 151.95,
+      "online_text": "是安怎你拢无所谓我真心换绝情",
+      "match_text": "是安怎你拢无所谓我真心换绝情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 157.23,
+      "online_text": "无缘的人去爱别人 说这多拢嘛无采工",
+      "match_text": "无缘的人去爱别人 说这多拢嘛无采工",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 210.33,
+      "online_text": "为啥咪欲离开放阮空伤悲 啊～ 啊～",
+      "match_text": "为啥咪欲离开放阮空伤悲 啊～ 啊～",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "f2ef88bf4d022d839b496c6fe8f9c32795af32c3444a8c3b9b50bd47dadac3de",
+    "manual": "dbd8730a28a4599e831f4a5b4f9df557f31322f2d79dcc29793df9826ee352ac",
+    "timed": "520522d9b9bcc3cb3b3ab9925a3627a408366271a3f971e4c0afe70fb9b7f24b"
+  }
+}

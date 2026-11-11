@@ -1,0 +1,479 @@
+{
+  "candidates": [
+    {
+      "song_id": 239196,
+      "title": "最爱的人",
+      "artists": [
+        "黄小琥"
+      ],
+      "album": "简单/不简单",
+      "duration": 250.133,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2692741882,
+      "title": "最爱的人",
+      "artists": [
+        "O v O"
+      ],
+      "album": "方大同AI和Demo集",
+      "duration": 59.419,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 103926,
+      "title": "最爱的人",
+      "artists": [
+        "姜育恒"
+      ],
+      "album": "女人的选择",
+      "duration": 260.466,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 249140,
+      "title": "最爱的人",
+      "artists": [
+        "江蕙",
+        "王建杰"
+      ],
+      "album": "10个爱人(跨世纪对唱)",
+      "duration": 245.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 406475321,
+      "title": "最爱的人",
+      "artists": [
+        "李千娜",
+        "王大文"
+      ],
+      "album": "说实话",
+      "duration": 198.91,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 248954,
+      "title": "最爱的人",
+      "artists": [
+        "江蕙",
+        "王建杰"
+      ],
+      "album": "台湾红歌星6",
+      "duration": 245.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1962359620,
+      "title": "最愛的人",
+      "artists": [
+        "纪明阳"
+      ],
+      "album": "雙立體 發燒琴王 1",
+      "duration": 229.16,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1412058399,
+      "title": "最愛的人",
+      "artists": [
+        "林翠萍"
+      ],
+      "album": "水潑落地難收回 (台語懷念金曲輯)",
+      "duration": 226.602,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 35497370,
+      "title": "最爱的人",
+      "artists": [
+        "林翠萍"
+      ],
+      "album": "立体演唱会11",
+      "duration": 235.64,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 239196,
+      "title": "最爱的人",
+      "artists": [
+        "黄小琥"
+      ],
+      "album": "简单/不简单",
+      "duration": 250.133,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2692741882,
+      "title": "最爱的人",
+      "artists": [
+        "O v O"
+      ],
+      "album": "方大同AI和Demo集",
+      "duration": 59.419,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 103926,
+      "title": "最爱的人",
+      "artists": [
+        "姜育恒"
+      ],
+      "album": "女人的选择",
+      "duration": 260.466,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 249140,
+      "title": "最爱的人",
+      "artists": [
+        "江蕙",
+        "王建杰"
+      ],
+      "album": "10个爱人(跨世纪对唱)",
+      "duration": 245.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 406475321,
+      "title": "最爱的人",
+      "artists": [
+        "李千娜",
+        "王大文"
+      ],
+      "album": "说实话",
+      "duration": 198.91,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 248954,
+      "title": "最爱的人",
+      "artists": [
+        "江蕙",
+        "王建杰"
+      ],
+      "album": "台湾红歌星6",
+      "duration": 245.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1962359620,
+      "title": "最愛的人",
+      "artists": [
+        "纪明阳"
+      ],
+      "album": "雙立體 發燒琴王 1",
+      "duration": 229.16,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1412058399,
+      "title": "最愛的人",
+      "artists": [
+        "林翠萍"
+      ],
+      "album": "水潑落地難收回 (台語懷念金曲輯)",
+      "duration": 226.602,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 35497370,
+      "title": "最爱的人",
+      "artists": [
+        "林翠萍"
+      ],
+      "album": "立体演唱会11",
+      "duration": 235.64,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 239196,
+      "title": "最爱的人",
+      "artists": [
+        "黄小琥"
+      ],
+      "album": "简单/不简单",
+      "duration": 250.133,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2692741882,
+      "title": "最爱的人",
+      "artists": [
+        "O v O"
+      ],
+      "album": "方大同AI和Demo集",
+      "duration": 59.419,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1631084059",
+      "title": "最爱的人",
+      "artists": [
+        "清溪之星"
+      ],
+      "album": "大清溪年度畅销金曲 1",
+      "duration": 232.8,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1780500990",
+      "title": "最爱的人",
+      "artists": [
+        "麦振鸿"
+      ],
+      "album": "麦振鸿仙侠音乐系列: 《聊斋奇女子》",
+      "duration": 163.557,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1725966799",
+      "title": "最爱的人",
+      "artists": [
+        "王子鸣"
+      ],
+      "album": "最爱的人 - Single",
+      "duration": 220.493,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1630144699",
+      "title": "最爱的人",
+      "artists": [
+        "清溪大乐队"
+      ],
+      "album": "大清溪超立体雷射演奏会 7",
+      "duration": 228.173,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "955723331",
+      "title": "最爱的人",
+      "artists": [
+        "李钟情"
+      ],
+      "album": "丽风新秀: 龙虎榜(之二)",
+      "duration": 174.373,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1645019030",
+      "title": "最爱的人",
+      "artists": [
+        "林翠萍"
+      ],
+      "album": "水泼落地难收回 (台语怀念金曲辑)",
+      "duration": 226.603,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1706005401",
+      "title": "最爱的人",
+      "artists": [
+        "霜霜"
+      ],
+      "album": "最爱的人 - EP",
+      "duration": 295.692,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1048871586",
+      "title": "最爱的人",
+      "artists": [
+        "翁立友"
+      ],
+      "album": "我问天",
+      "duration": 288.773,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "957632959",
+      "title": "最爱的人",
+      "artists": [
+        "姚乙"
+      ],
+      "album": "难忘的歌曲(之二): 唱不完的情歌/最爱的人",
+      "duration": 177.053,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "540287934",
+      "title": "最爱的人",
+      "artists": [
+        "黄小琥"
+      ],
+      "album": "简单不简单",
+      "duration": 250.133,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1631084059",
+      "title": "最爱的人",
+      "artists": [
+        "清溪之星"
+      ],
+      "album": "大清溪年度畅销金曲 1",
+      "duration": 232.8,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1780500990",
+      "title": "最爱的人",
+      "artists": [
+        "麦振鸿"
+      ],
+      "album": "麦振鸿仙侠音乐系列: 《聊斋奇女子》",
+      "duration": 163.557,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1725966799",
+      "title": "最爱的人",
+      "artists": [
+        "王子鸣"
+      ],
+      "album": "最爱的人 - Single",
+      "duration": 220.493,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1630144699",
+      "title": "最爱的人",
+      "artists": [
+        "清溪大乐队"
+      ],
+      "album": "大清溪超立体雷射演奏会 7",
+      "duration": 228.173,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "955723331",
+      "title": "最爱的人",
+      "artists": [
+        "李钟情"
+      ],
+      "album": "丽风新秀: 龙虎榜(之二)",
+      "duration": 174.373,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1645019030",
+      "title": "最爱的人",
+      "artists": [
+        "林翠萍"
+      ],
+      "album": "水泼落地难收回 (台语怀念金曲辑)",
+      "duration": 226.603,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1706005401",
+      "title": "最爱的人",
+      "artists": [
+        "霜霜"
+      ],
+      "album": "最爱的人 - EP",
+      "duration": 295.692,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1048871586",
+      "title": "最爱的人",
+      "artists": [
+        "翁立友"
+      ],
+      "album": "我问天",
+      "duration": 288.773,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "957632959",
+      "title": "最爱的人",
+      "artists": [
+        "姚乙"
+      ],
+      "album": "难忘的歌曲(之二): 唱不完的情歌/最爱的人",
+      "duration": 177.053,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "540287934",
+      "title": "最爱的人",
+      "artists": [
+        "黄小琥"
+      ],
+      "album": "简单不简单",
+      "duration": 250.133,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30921555,
+      "title": "最爱的人",
+      "artists": [
+        "李千娜"
+      ],
+      "album": "说实话",
+      "duration": 199.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16367538,
+      "title": "最爱的人",
+      "artists": [
+        "翁立友"
+      ],
+      "album": "我问天",
+      "duration": 290.104667,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": [
+    {
+      "provider": "lrclib",
+      "error": "LRCLIB network request failed: curl: (28) Operation timed out after 15006 milliseconds with 0 bytes received",
+      "retryable": true
+    }
+  ]
+}

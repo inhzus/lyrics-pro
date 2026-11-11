@@ -1,0 +1,83 @@
+{
+  "candidates": [
+    {
+      "song_id": 386860,
+      "title": "雨眠",
+      "artists": [
+        "五月天"
+      ],
+      "album": "爱情万岁",
+      "duration": 222.773,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2635546743,
+      "title": "雨眠",
+      "artists": [
+        "Hea2t"
+      ],
+      "album": "雨眠",
+      "duration": 132.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1954420351,
+      "title": "雨眠",
+      "artists": [
+        "尹昔眠",
+        "小田音乐社"
+      ],
+      "album": "雨眠",
+      "duration": 225.437,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2681722063,
+      "title": "雨眠",
+      "artists": [
+        "逆时针向"
+      ],
+      "album": "雨眠",
+      "duration": 172.125,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1465724483,
+      "title": "雨眠",
+      "artists": [
+        "水禹"
+      ],
+      "album": "雨眠",
+      "duration": 214.44,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2685914233,
+      "title": "雨眠",
+      "artists": [
+        "不是雨天不起床"
+      ],
+      "album": "夜色",
+      "duration": 194.959,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3454576213,
+      "title": "雨眠",
+      "artists": [
+        "林子宸"
+      ],
+      "album": "暴雨",
+      "duration": 181.173,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

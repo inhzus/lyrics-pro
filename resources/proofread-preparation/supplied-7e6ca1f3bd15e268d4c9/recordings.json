@@ -1,0 +1,462 @@
+{
+  "candidates": [
+    {
+      "song_id": 2063486972,
+      "title": "序曲",
+      "artists": [
+        "刀郎"
+      ],
+      "album": "山歌寥哉",
+      "duration": 281.247,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1350263437,
+      "title": "序曲",
+      "artists": [
+        "陈力"
+      ],
+      "album": "红楼梦87原版电视剧主题歌曲",
+      "duration": 171.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 28828064,
+      "title": "序曲",
+      "artists": [
+        "栾凯"
+      ],
+      "album": "大羽华裳",
+      "duration": 368.533,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1951775856,
+      "title": "序曲",
+      "artists": [
+        "李子卿"
+      ],
+      "album": "梵高先生",
+      "duration": 272.064,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2602691260,
+      "title": "序曲",
+      "artists": [
+        "张渠"
+      ],
+      "album": "华章",
+      "duration": 196.264,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 68087,
+      "title": "序曲",
+      "artists": [
+        "陈勋奇"
+      ],
+      "album": "天下无双 电影原声大碟",
+      "duration": 63.573,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 33054308,
+      "title": "序曲",
+      "artists": [
+        "陈致逸"
+      ],
+      "album": "京城81号 电影原声带",
+      "duration": 143.568,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 415593514,
+      "title": "序曲",
+      "artists": [
+        "Sam Cardon",
+        "Overwatch",
+        "Blizzard Entertainment"
+      ],
+      "album": "经典《守望先锋》典藏音乐集",
+      "duration": 114.32,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1304301628,
+      "title": "序曲",
+      "artists": [
+        "中国交响乐团"
+      ],
+      "album": "沙家浜交响音乐",
+      "duration": 831.085,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 354823,
+      "title": "序曲",
+      "artists": [
+        "凤凰传奇"
+      ],
+      "album": "月亮之上",
+      "duration": 55.066,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1996268497,
+      "title": "序曲",
+      "artists": [
+        "音阙诗听"
+      ],
+      "album": "一",
+      "duration": 118.8,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 571338095,
+      "title": "序曲",
+      "artists": [
+        "李海鹰",
+        "广州交响乐团",
+        "中央人民广播电台少年广播合唱团",
+        "星海音乐学院声乐系合唱团",
+        "陈昱霖"
+      ],
+      "album": "我们的孙中山",
+      "duration": 339.498,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2621268556,
+      "title": "序曲",
+      "artists": [
+        "灰澈"
+      ],
+      "album": "序曲",
+      "duration": 168.38,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1194938500",
+      "title": "序曲",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "旧年",
+      "duration": 555.64,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "883503270",
+      "title": "序曲",
+      "artists": [
+        "野见祐二"
+      ],
+      "album": "猫的报恩 动画电影原声带",
+      "duration": 31.533,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1470376415",
+      "title": "序曲",
+      "artists": [
+        "张琪 & 谢雷"
+      ],
+      "album": "湖边春情",
+      "duration": 149.453,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1449276610",
+      "title": "序曲",
+      "artists": [
+        "天空之城音乐制作"
+      ],
+      "album": "电影《寒单》原声音乐",
+      "duration": 77.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1626337152",
+      "title": "序曲",
+      "artists": [
+        "中央乐团合唱队"
+      ],
+      "album": "沙家浜",
+      "duration": 368.133,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1648843620",
+      "title": "序曲",
+      "artists": [
+        "中央乐团交响乐队、合唱队"
+      ],
+      "album": "沙家浜-交响音乐",
+      "duration": 831.053,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1469194417",
+      "title": "序曲",
+      "artists": [
+        "伍思凯"
+      ],
+      "album": "分享II",
+      "duration": 35.409,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1301165676",
+      "title": "序曲",
+      "artists": [
+        "鲍比达"
+      ],
+      "album": "夜半歌声 (电影原声带)",
+      "duration": 104.065,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5532499,
+      "title": "序曲",
+      "artists": [
+        "JS"
+      ],
+      "album": "This Is Love",
+      "duration": 52.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29567549,
+      "title": "序曲",
+      "artists": [
+        "坂本真綾"
+      ],
+      "album": "宇宙の記憶",
+      "duration": 355.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29359296,
+      "title": "序曲",
+      "artists": [
+        "黄舒骏"
+      ],
+      "album": "我是谁？",
+      "duration": 90.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 32775020,
+      "title": "序曲",
+      "artists": [
+        "張雨生"
+      ],
+      "album": "帶我去月球",
+      "duration": 66.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31194206,
+      "title": "序曲",
+      "artists": [
+        "Nobuo Uematsu"
+      ],
+      "album": "Final Fantasy VI: Original Soundtrack Remaster Version",
+      "duration": 288.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31688118,
+      "title": "序曲",
+      "artists": [
+        "張雨生"
+      ],
+      "album": "創作專輯",
+      "duration": 67.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31762626,
+      "title": "序曲",
+      "artists": [
+        "张雨生"
+      ],
+      "album": "创作专辑",
+      "duration": 68.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 19522832,
+      "title": "序曲",
+      "artists": [
+        "植松伸夫"
+      ],
+      "album": "Finest Fantasy for Advance - Final Fantasy IV V VI OST (Disc 5)",
+      "duration": 290.08,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 19576875,
+      "title": "序曲",
+      "artists": [
+        "Van Ness Wu"
+      ],
+      "album": "身體會唱歌",
+      "duration": 69.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 21043743,
+      "title": "序曲",
+      "artists": [
+        "陳建年"
+      ],
+      "album": "大地",
+      "duration": 206.189792,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17740142,
+      "title": "序曲",
+      "artists": [
+        "植松伸夫"
+      ],
+      "album": "Finest Box: Finest FANTASY For ADVANCE",
+      "duration": 290.08,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17459693,
+      "title": "序曲",
+      "artists": [
+        "植松伸夫"
+      ],
+      "album": "Final Fantasy Ⅵ - Original Sound Version",
+      "duration": 288.531156,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17795339,
+      "title": "序曲",
+      "artists": [
+        "陰陽座"
+      ],
+      "album": "陰陽大全",
+      "duration": 99.2,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18453843,
+      "title": "序曲",
+      "artists": [
+        "Nobuo Uematsu"
+      ],
+      "album": "FINAL FANTASY VI オリジナル・サウンド・バージョン [Disc 2]",
+      "duration": 288.496327,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18588236,
+      "title": "序曲",
+      "artists": [
+        "陰陽座"
+      ],
+      "album": "魔王戴天",
+      "duration": 99.28,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16401636,
+      "title": "序曲",
+      "artists": [
+        "植松伸夫"
+      ],
+      "album": "ファイナルファンタジー VI: オリジナル・サウンド・ヴァージョン",
+      "duration": 288.4666669,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17234238,
+      "title": "序曲",
+      "artists": [
+        "植松伸夫"
+      ],
+      "album": "FINAL FANTASY VI ORIGINAL SOUND VERSION [Disc 2]",
+      "duration": 290.08,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16187383,
+      "title": "序曲",
+      "artists": [
+        "陳建年"
+      ],
+      "album": "海洋",
+      "duration": 110.497959,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 14709287,
+      "title": "序曲",
+      "artists": [
+        "Maaya Sakamoto"
+      ],
+      "album": "宇宙の記憶",
+      "duration": 355.213056,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 13799161,
+      "title": "序曲",
+      "artists": [
+        "陳建年"
+      ],
+      "album": "海洋",
+      "duration": 108.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

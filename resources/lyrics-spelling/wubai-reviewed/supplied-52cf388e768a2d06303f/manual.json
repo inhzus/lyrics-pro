@@ -1,0 +1,388 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "袂後悔啦袂後悔啦                              這次絕對袂後悔",
+      "spelling": "bē hiō-hué là bē hiō-hué là            tsit-pái tsua̍t-tuì bē hiō-hué",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "袂後悔啦袂後悔啦",
+          "spelling": "bē hiō-hué là bē hiō-hué là"
+        },
+        {
+          "text": "這次絕對袂後悔",
+          "spelling": "tsit-pái tsua̍t-tuì bē hiō-hué"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "婀娜的身軀風情美麗                               溫柔的頭毛隨風在飛",
+      "spelling": "bû nā ê sin-khu hong-tsîng bí-lē       un-jiû ê thâu-mn̂g suî-hong teh pue",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "婀娜的身軀風情美麗",
+          "spelling": "bû nā ê sin-khu hong-tsîng bí-lē"
+        },
+        {
+          "text": "溫柔的頭毛隨風在飛",
+          "spelling": "un-jiû ê thâu-mn̂g suî-hong teh pue"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "哎喲喂啊哎喲喂啊                        鼻甲我心花開",
+      "spelling": "ai-iō-uê ah ai-iō-uê ah               phīnn kah guá sim-hue-khui",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "哎喲喂啊哎喲喂啊",
+          "spelling": "ai-iō-uê ah ai-iō-uê ah"
+        },
+        {
+          "text": "鼻甲我心花開",
+          "spelling": "phīnn kah guá sim-hue-khui"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "歸個心變甲荒荒廢廢                                     一個人完全有魂無體",
+      "spelling": "kui-ê sim pìnn-kah hng hng huè huè     tsi̍t ê uân-tsuân ū hûn bô thé",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "歸個心變甲荒荒廢廢",
+          "spelling": "kui-ê sim pìnn-kah hng hng huè huè"
+        },
+        {
+          "text": "一個人完全有魂無體",
+          "spelling": "tsi̍t ê uân-tsuân ū hûn bô thé"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "沒人格啦沒人格啦                        我是失去了控制",
+      "spelling": "bô lîn-ke là bô lîn-ke là             guá sī sit-khì liáu khòng-tsè",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "沒人格啦沒人格啦",
+          "spelling": "bô lîn-ke là bô lîn-ke là"
+        },
+        {
+          "text": "我是失去了控制",
+          "spelling": "guá sī sit-khì liáu khòng-tsè"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "煞到你                        煞到你",
+      "spelling": "sannh tio̍h lí            sannh tio̍h lí",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "煞到你",
+          "spelling": "sannh tio̍h lí"
+        },
+        {
+          "text": "煞到你",
+          "spelling": "sannh tio̍h lí"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "沒問題啦沒問題啦                          這次絕對沒問題",
+      "spelling": "bô būn-tê là bô būn-tê là            tsit-pái tsua̍t-tuì bô būn-tê",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "沒問題啦沒問題啦",
+          "spelling": "bô būn-tê là bô būn-tê là"
+        },
+        {
+          "text": "這次絕對沒問題",
+          "spelling": "tsit-pái tsua̍t-tuì bô būn-tê"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "神祕的聲音說話驕傲                              迷人的笑容皮肉幼白",
+      "spelling": "sîn-pì ê siann-im kóng-uē sáng-sè    bê-lâng ê tshiò-iông phuê-bah iù pe̍h",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "神祕的聲音說話驕傲",
+          "spelling": "sîn-pì ê siann-im kóng-uē sáng-sè"
+        },
+        {
+          "text": "迷人的笑容皮肉幼白",
+          "spelling": "bê-lâng ê tshiò-iông phuê-bah iù pe̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "哎喲喂啊哎喲喂啊                  眼到我心花開",
+      "spelling": "ai-iō-uê ah ai-iō-uê ah          ba̍k tio̍h guá sim-hue-khui",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "哎喲喂啊哎喲喂啊",
+          "spelling": "ai-iō-uê ah ai-iō-uê ah"
+        },
+        {
+          "text": "眼到我心花開",
+          "spelling": "ba̍k tio̍h guá sim-hue-khui"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "我袂來對妳空嘴薄舌                                       我現在所有隴總給妳",
+      "spelling": "guá bē lâi tuì lí khàng tshuì po̍h tsi̍h        guá hiān tsāi sóo-ū lóng tsóng hōo lí",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "我袂來對妳空嘴薄舌",
+          "spelling": "guá bē lâi tuì lí khàng tshuì po̍h tsi̍h"
+        },
+        {
+          "text": "我現在所有隴總給妳",
+          "spelling": "guá hiān tsāi sóo-ū lóng tsóng hōo lí"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "沒性地啦沒性地啦                  要安怎樣隴沒關係",
+      "spelling": "bô sìng-tē là bô sìng-tē là    beh an-tsuánn iūnn lóng bô kuan-hē",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "沒性地啦沒性地啦",
+          "spelling": "bô sìng-tē là bô sìng-tē là"
+        },
+        {
+          "text": "要安怎樣隴沒關係",
+          "spelling": "beh an-tsuánn iūnn lóng bô kuan-hē"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "煞到你                        煞到你",
+      "spelling": "sannh tio̍h lí            sannh tio̍h lí",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "煞到你",
+          "spelling": "sannh tio̍h lí"
+        },
+        {
+          "text": "煞到你",
+          "spelling": "sannh tio̍h lí"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "做水災啦做水災啦                                 我的感情大風颱",
+      "spelling": "tsò-tsuí tsai là tsò-tsuí tsai là             guá ê kám-tsîng tuā hong-thai",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "做水災啦做水災啦",
+          "spelling": "tsò-tsuí tsai là tsò-tsuí tsai là"
+        },
+        {
+          "text": "我的感情大風颱",
+          "spelling": "guá ê kám-tsîng tuā hong-thai"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "跟著妳腳步風雨邊來                                    看著妳走路心脾開懷",
+      "spelling": "tuè tio̍h lí kha-pōo hong-hōo da lâi        khuànn-tio̍h lí kiânn-lōo sim pî khai-huâi",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "跟著妳腳步風雨邊來",
+          "spelling": "tuè tio̍h lí kha-pōo hong-hōo da lâi"
+        },
+        {
+          "text": "看著妳走路心脾開懷",
+          "spelling": "khuànn-tio̍h lí kiânn-lōo sim pî khai-huâi"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "哎喲喂啊哎喲喂啊                      行到我心花開",
+      "spelling": "ai-iō-uê ah ai-iō-uê ah             kiân-kàu guá sim-hue-khui",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "哎喲喂啊哎喲喂啊",
+          "spelling": "ai-iō-uê ah ai-iō-uê ah"
+        },
+        {
+          "text": "行到我心花開",
+          "spelling": "kiân-kàu guá sim-hue-khui"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "頭前的小姐要去佗位                                 妳慢慢走我馬上來去",
+      "spelling": "thâu-tsîng ê sió-tsiá beh khì tó-uī        lí bān bān kiânn guá liâm-mi lâi-khì",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "頭前的小姐要去佗位",
+          "spelling": "thâu-tsîng ê sió-tsiá beh khì tó-uī"
+        },
+        {
+          "text": "妳慢慢走我馬上來去",
+          "spelling": "lí bān bān kiânn guá liâm-mi lâi-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "稍等一下稍等一下                           全世界只愛妳一個",
+      "spelling": "sió tán-tsi̍t-ē sió tán-tsi̍t-ē            tsuân-sè-kài tsí ài lí tsi̍t ê",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "稍等一下稍等一下",
+          "spelling": "sió tán-tsi̍t-ē sió tán-tsi̍t-ē"
+        },
+        {
+          "text": "全世界只愛妳一個",
+          "spelling": "tsuân-sè-kài tsí ài lí tsi̍t ê"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "煞到你                        煞到你",
+      "spelling": "sannh tio̍h lí            sannh tio̍h lí",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "煞到你",
+          "spelling": "sannh tio̍h lí"
+        },
+        {
+          "text": "煞到你",
+          "spelling": "sannh tio̍h lí"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "煞到你                        煞到你～～",
+      "spelling": "sannh tio̍h lí            sannh tio̍h lí",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "煞到你",
+          "spelling": "sannh tio̍h lí"
+        },
+        {
+          "text": "煞到你～～",
+          "spelling": "sannh tio̍h lí"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "煞到你",
+      "spelling": "sannh tio̍h lí",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "煞到你",
+          "spelling": "sannh tio̍h lí"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：伍佰   作曲：伍佰  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

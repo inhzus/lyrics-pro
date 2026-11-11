@@ -1,0 +1,408 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "青春的一切 攏竟然是完全的思念",
+      "spelling": "tshing-tshun ê it-tshè lóng kìng-liân sī uân-tsuân ê su-liām",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "青春的一切 攏竟然是完全的思念",
+          "spelling": "tshing-tshun ê it-tshè lóng kìng-liân sī uân-tsuân ê su-liām"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "妳是日時喝的水妳是我暗時作的夢",
+      "spelling": "lí sī ji̍t-sî lim ê tsuí lí sī guá àm-sî tsoh ê bāng",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "妳是日時喝的水妳是我暗時作的夢",
+          "spelling": "lí sī ji̍t-sî lim ê tsuí lí sī guá àm-sî tsoh ê bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "戀愛的主題 不一定是離合甲悲歡",
+      "spelling": "luân-ài ê tsú-tê bô-it-tīng sī lî-ha̍p kah pi-huan",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "戀愛的主題 不一定是離合甲悲歡",
+          "spelling": "luân-ài ê tsú-tê bô-it-tīng sī lî-ha̍p kah pi-huan"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "也有永遠的戀情甲永遠相愛的兩個人",
+      "spelling": "mā ū íng-uán ê luân-tsîng kah íng-uán siong-ài ê nn̄g-ê lâng",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "也有永遠的戀情甲永遠相愛的兩個人",
+          "spelling": "mā ū íng-uán ê luân-tsîng kah íng-uán siong-ài ê nn̄g-ê lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "我嘛有想過 妳我不是完全沒希望",
+      "spelling": "guá mah ū siūnn kuè lí guá m̄ sī uân-tsuân bô hi-bāng",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "我嘛有想過 妳我不是完全沒希望",
+          "spelling": "guá mah ū siūnn kuè lí guá m̄ sī uân-tsuân bô hi-bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "我是水底的石頭妳是月藏在雲中間",
+      "spelling": "guá sī tsuí-té ê tsio̍h-thâu lí sī gue̍h tshàng tī hûn tiong-kan",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "我是水底的石頭妳是月藏在雲中間",
+          "spelling": "guá sī tsuí-té ê tsio̍h-thâu lí sī gue̍h tshàng tī hûn tiong-kan"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "想要來挽回 對妳說出完全的抱歉",
+      "spelling": "siūnn-beh lâi bán-huê tuì lí kóng-tshut uân-tsuân ê phō-khiàm",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "想要來挽回 對妳說出完全的抱歉",
+          "spelling": "siūnn-beh lâi bán-huê tuì lí kóng-tshut uân-tsuân ê phō-khiàm"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "一定是我來誤解妳一定不是妳欲要一個人",
+      "spelling": "it-tīng sī guá lâi gōo-kái lí it-tīng m̄ sī lí beh ài tsi̍t ê lâng",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "一定是我來誤解妳一定不是妳欲要一個人",
+          "spelling": "it-tīng sī guá lâi gōo-kái lí it-tīng m̄ sī lí beh ài tsi̍t ê lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "是妳的風颱心情 好壞不定 話講顛倒反",
+      "spelling": "sī lí ê hong-thai sim-tsîng hó pháinn bô-tīng uē-kóng tian tò píng",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "是妳的風颱心情 好壞不定 話講顛倒反",
+          "spelling": "sī lí ê hong-thai sim-tsîng hó pháinn bô-tīng uē-kóng tian tò píng"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "說你要來離開我結果是欲要我隨妳行",
+      "spelling": "kóng lí beh lâi lī-khui guá kiat kó sī beh ài guá tuè lí kiânn",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "說你要來離開我結果是欲要我隨妳行",
+          "spelling": "kóng lí beh lâi lī-khui guá kiat kó sī beh ài guá tuè lí kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "是妳的風颱心情 好壞不定 我又沒耐心",
+      "spelling": "sī lí ê hong-thai sim-tsîng hó pháinn bô-tīng guá koh bô nāi-sim",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "是妳的風颱心情 好壞不定 我又沒耐心",
+          "spelling": "sī lí ê hong-thai sim-tsîng hó pháinn bô-tīng guá koh bô nāi-sim"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "我是一個大憨人代誌未凍想到這多項",
+      "spelling": "guá sī tsi̍t ê tuā gōng lâng tāi tsì buē tàng siūnn-tio̍h tsiah tsē hāng",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "我是一個大憨人代誌未凍想到這多項",
+          "spelling": "guá sī tsi̍t ê tuā gōng lâng tāi tsì buē tàng siūnn-tio̍h tsiah tsē hāng"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "安呢對妳來表白 甘是太超過 若是沒超過",
+      "spelling": "an neh tuì lí lâi piáu-pe̍h kam sī siunn tshiau-kuè ná sī bô tshiau-kuè",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "安呢對妳來表白 甘是太超過",
+          "spelling": "an neh tuì lí lâi piáu-pe̍h kam sī siunn tshiau-kuè"
+        },
+        {
+          "text": "若是沒超過",
+          "spelling": "ná sī bô tshiau-kuè"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "跟我說妳到底在佗",
+      "spelling": "kā guá kóng lí tàu-té tī tué",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "跟我說妳到底在佗",
+          "spelling": "kā guá kóng lí tàu-té tī tué"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "我嘛有想過 妳我不是完全沒希望",
+      "spelling": "guá mah ū siūnn kuè lí guá m̄ sī uân-tsuân bô hi-bāng",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "我嘛有想過 妳我不是完全沒希望",
+          "spelling": "guá mah ū siūnn kuè lí guá m̄ sī uân-tsuân bô hi-bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "雖然緣份已經盡 對你的愛 如今續未完",
+      "spelling": "sui-jiân iân-hūn í-king tsīn tuì lí ê ài lû-kim suà buē uân",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "雖然緣份已經盡 對你的愛 如今續未完",
+          "spelling": "sui-jiân iân-hūn í-king tsīn tuì lí ê ài lû-kim suà buē uân"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "想要來挽回 對你說出完全的抱歉",
+      "spelling": "siūnn-beh lâi bán-huê tuì lí kóng-tshut uân-tsuân ê phō-khiàm",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "想要來挽回 對你說出完全的抱歉",
+          "spelling": "siūnn-beh lâi bán-huê tuì lí kóng-tshut uân-tsuân ê phō-khiàm"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "只是時間過這久妳可能也熟悉到別人",
+      "spelling": "tsí-sī sî-kan kuè tsia kú lí khó-lîng iā si̍k-sāi tio̍h pa̍t-lâng",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "只是時間過這久妳可能也熟悉到別人",
+          "spelling": "tsí-sī sî-kan kuè tsia kú lí khó-lîng iā si̍k-sāi tio̍h pa̍t-lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "是妳的風颱心情 好壞不定 話講顛倒反",
+      "spelling": "sī lí ê hong-thai sim-tsîng hó pháinn bô-tīng uē-kóng tian tò píng",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "是妳的風颱心情 好壞不定 話講顛倒反",
+          "spelling": "sī lí ê hong-thai sim-tsîng hó pháinn bô-tīng uē-kóng tian tò píng"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "說你要來離開我結果是欲要我隨妳行",
+      "spelling": "kóng lí beh lâi lī-khui guá kiat kó sī beh ài guá tuè lí kiânn",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "說你要來離開我結果是欲要我隨妳行",
+          "spelling": "kóng lí beh lâi lī-khui guá kiat kó sī beh ài guá tuè lí kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "是妳的風颱心情 好壞不定 我又沒耐心",
+      "spelling": "sī lí ê hong-thai sim-tsîng hó pháinn bô-tīng guá koh bô nāi-sim",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "是妳的風颱心情 好壞不定 我又沒耐心",
+          "spelling": "sī lí ê hong-thai sim-tsîng hó pháinn bô-tīng guá koh bô nāi-sim"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "我是一個大憨人代誌未凍想到這多項",
+      "spelling": "guá sī tsi̍t ê tuā gōng lâng tāi tsì buē tàng siūnn-tio̍h tsiah tsē hāng",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "我是一個大憨人代誌未凍想到這多項",
+          "spelling": "guá sī tsi̍t ê tuā gōng lâng tāi tsì buē tàng siūnn-tio̍h tsiah tsē hāng"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "安呢對妳來表白 甘是太超過 若是沒超過",
+      "spelling": "an neh tuì lí lâi piáu-pe̍h kam sī siunn tshiau-kuè ná sī bô tshiau-kuè",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "安呢對妳來表白 甘是太超過",
+          "spelling": "an neh tuì lí lâi piáu-pe̍h kam sī siunn tshiau-kuè"
+        },
+        {
+          "text": "若是沒超過",
+          "spelling": "ná sī bô tshiau-kuè"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "跟我說妳到底在佗",
+      "spelling": "kā guá kóng lí tàu-té tī tué",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "跟我說妳到底在佗",
+          "spelling": "kā guá kóng lí tàu-té tī tué"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "安呢對妳來表白 甘是太超過 若是太超過",
+      "spelling": "an neh tuì lí lâi piáu-pe̍h kam sī siunn tshiau-kuè ná sī siunn tshiau-kuè",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "安呢對妳來表白 甘是太超過",
+          "spelling": "an neh tuì lí lâi piáu-pe̍h kam sī siunn tshiau-kuè"
+        },
+        {
+          "text": "若是太超過",
+          "spelling": "ná sī siunn tshiau-kuè"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "莫怪講你會來甲我切",
+      "spelling": "bo̍k-kuài kóng lí ē lâi kah guá tshè",
+      "source_lines": [
+        78,
+        79
+      ],
+      "parts": [
+        {
+          "text": "莫怪講你會來甲我切",
+          "spelling": "bo̍k-kuài kóng lí ē lâi kah guá tshè"
+        }
+      ]
+    }
+  ],
+  "repairs": [],
+  "notes": []
+}

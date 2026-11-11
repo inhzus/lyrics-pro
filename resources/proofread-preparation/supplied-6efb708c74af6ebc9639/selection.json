@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 31830689,
+    "title": "蛹",
+    "artists": [
+      "川秋沙"
+    ],
+    "album": "白噪音",
+    "duration": 275.0,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:31830689",
+      "duration": 275.0,
+      "ready": false,
+      "coverage": 0.9375,
+      "exact_fraction": 0.875,
+      "summary": {
+        "exact": 7,
+        "approximate": 1,
+        "gap": 2,
+        "repeat": 7,
+        "unresolved": 1
+      }
+    }
+  ]
+}

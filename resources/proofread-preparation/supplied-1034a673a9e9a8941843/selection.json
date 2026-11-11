@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 156526,
+    "title": "莎哟娜啦",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "双面人",
+    "duration": 266.426,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:156526",
+      "duration": 266.426,
+      "ready": false,
+      "coverage": 0.8461538461538461,
+      "exact_fraction": 0.5384615384615384,
+      "summary": {
+        "credit": 3,
+        "approximate": 4,
+        "exact": 3,
+        "repeat": 4,
+        "unresolved": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 28528287,
+    "title": "无人熟识的彼个人",
+    "artists": [
+      "萧煌奇"
+    ],
+    "album": "上水的花",
+    "duration": 288.733,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:28528287",
+      "duration": 288.733,
+      "ready": false,
+      "coverage": 0.8333333333333334,
+      "exact_fraction": 0.8333333333333334,
+      "summary": {
+        "credit": 2,
+        "repeat": 33,
+        "unresolved": 7,
+        "exact": 2
+      }
+    }
+  ]
+}

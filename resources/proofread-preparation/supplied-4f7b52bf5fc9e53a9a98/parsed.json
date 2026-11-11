@@ -1,0 +1,541 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "看 按 吶再打 電話都接不完",
+      "spelling": "khuànn àn nā ka khà tiān-uē lóng tsiap-bē-suah",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "看 按 吶再打 若出事情打給我",
+      "spelling": "khuànn àn nā ka khà ná tshut tāi-tsì khà hōo guá",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "咱的兄弟在哪 喊聲 相挺一通電話",
+      "spelling": "lán ê hiann-tī tī tuē huah siann siòng thīn tsi̍t thong tiān-uē",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "咱的兄弟在哪 喊聲 阿是要打了沒",
+      "spelling": "lán ê hiann-tī tī tuē huah siann ah sī beh khà-liáu bô",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "什麼事情 我都能聽你說",
+      "spelling": "siánn-mih tāi-tsì guá lóng lîng thiann lí kóng",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "早時晚時 我都陪你說",
+      "spelling": "tsá-sî àm-sî guá lóng puê lí kóng",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "不管何時 心情哪壞我來陪你爽",
+      "spelling": "m̄-kuán hô-sî sim-tsîng ná pháinn guá lâi puê lí sóng",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "兄弟朋友一通電話 我來聽你講",
+      "spelling": "hiann-tī pîng-iú tsi̍t thong tiān-uē guá lâi thiann lí kóng",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "我生氣 因為電話你沒打",
+      "spelling": "guá siū-khì in-uī tiān-uē lí bô khà",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "要派對 七辣電話我來接",
+      "spelling": "beh phà-tì tshit la tiān-uē guá lâi tsiap",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "幾個錢 今晚這攤我來付",
+      "spelling": "kuí-ê tsînn kim-àm tsit thuann guá lâi hù",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "要哪 要哪 喂 等等看怎樣在打",
+      "spelling": "beh tuē beh tuē gui tiam mi khuànn an-na koh khà",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "在哪在哪 兄弟無聊電話打打 出來 喝一杯",
+      "spelling": "tī tuē tī tuē hiann-tī bô-liâu tiān-uē khà khà tshut-lâi lim tsi̍t pue",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "ㄧ通電話 無聊咱來亂逛",
+      "spelling": "tsi̍t thong tiān-uē bô-liâu lâi o͘ se̍h",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "亂逛亂逛 在忙也沒啥關係",
+      "spelling": "o͘ se̍h o͘ se̍h tsāi bô-îng iā bô siánn kuan-hē",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "關係 只要 兄弟給我一通電話",
+      "spelling": "kuan-hē tsí-iàu hiann-tī hōo guá tsi̍t thong tiān-uē",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "電話開機都是為了咱的兄弟",
+      "spelling": "tiān-uē khui-ki lóng sī uī-tio̍h lán ê hiann-tī",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "若要吃要涼趴七辣咱不會輸你們",
+      "spelling": "nā-beh tsia̍h beh liâng phak tshit la lán bē su lín",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "若有什麼事情我打電話叫人替你處理",
+      "spelling": "nā-ū siánn-mih tāi-tsì guá khà tiān-uē kiò lâng thè lí tshú-lí",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "出去 就是 為了 兄弟 就是 義氣",
+      "spelling": "tshut-khì tio̍h-sī uī-tio̍h hiann-tī tio̍h-sī gī-khì",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "看 按 吶再打 電話都接不完",
+      "spelling": "khuànn àn nā ka khà tiān-uē lóng tsiap-bē-suah",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "看 按 吶再打 若出事情打給我",
+      "spelling": "khuànn àn nā ka khà ná tshut tāi-tsì khà hōo guá",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "咱的兄弟在哪 喊聲 相挺一通電話",
+      "spelling": "lán ê hiann-tī tī tuē huah siann siòng thīn tsi̍t thong tiān-uē",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "咱的兄弟在哪 喊聲 阿是要打了沒",
+      "spelling": "lán ê hiann-tī tī tuē huah siann ah sī beh khà-liáu bô",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "打給我 像風 隨到 咻咻咻",
+      "spelling": "khà kā guá tshiūnn hong suî-kàu siuh siuh siuh",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "七仔打給我 隆要討 啾啾啾",
+      "spelling": "tshit-á khà hōo kā guá lóng beh tshiùnn tshiùnn tshiùnn",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "若要社會事 我到就 嘟嘟嘟嘟",
+      "spelling": "nā-beh siā-huē sū guá kàu tio̍h tū tū tū tū",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "帶著我的手機仔在 身軀邊",
+      "spelling": "tsah-tio̍h guá ê tshiú-ki-á tsāi sin-khu-pinn",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "不是為了 生意 是為了 兄弟",
+      "spelling": "m̄ sī uī-tio̍h sing-lí sī uī-tio̍h hiann-tī",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "我欸兄弟全世界最有義氣",
+      "spelling": "guá ê hiann-tī tsuân sè-kài siōng ū gī-khì",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "不管好事壞事 我不能 沒你",
+      "spelling": "m̄-kuán hó-sū pháinn-sū guá bē-sái bô lí",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "看怎樣再擱打 我的電話為你帶",
+      "spelling": "khuànn an-na tsài ka khà guá ê tiān-uē uî lí tsah",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "我說看怎樣再擱打 兄弟我在等你打",
+      "spelling": "guá kóng khuànn an-na tsài ka khà hiann-tī guá tī tán lí khà",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "Hotline bling hotline bling 就是跟你",
+      "spelling": "Hotline bling hotline bling tio̍h-sī kā lí",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "24小時我 為你開機",
+      "spelling": "lī tsa̍p sì tiám-tsing guá uî lí khui-ki",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "讓他們知道 我跟你就一陣",
+      "spelling": "hōo in tsai-iánn guá kā lí tio̍h tsi̍t tīn",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "絕對沒人比咱 這陣同心",
+      "spelling": "tsua̍t-tuì bô lâng pí lán tsit tīn kāng-sim",
+      "source_lines": [
+        112,
+        113
+      ]
+    },
+    {
+      "id": "line-115",
+      "text": "看 按 吶再打 電話都接不完",
+      "spelling": "khuànn àn nā ka khà tiān-uē lóng tsiap-bē-suah",
+      "source_lines": [
+        115,
+        116
+      ]
+    },
+    {
+      "id": "line-118",
+      "text": "看 按 吶再打 若出事情打給我",
+      "spelling": "khuànn àn nā ka khà ná tshut tāi-tsì khà hōo guá",
+      "source_lines": [
+        118,
+        119
+      ]
+    },
+    {
+      "id": "line-121",
+      "text": "咱的兄弟在哪 喊聲 相挺一通電話",
+      "spelling": "lán ê hiann-tī tī tuē huah siann siòng thīn tsi̍t thong tiān-uē",
+      "source_lines": [
+        121,
+        122
+      ]
+    },
+    {
+      "id": "line-124",
+      "text": "咱的兄弟在哪 喊聲 阿是要打了沒",
+      "spelling": "lán ê hiann-tī tī tuē huah siann ah sī beh khà-liáu bô",
+      "source_lines": [
+        124,
+        125
+      ]
+    },
+    {
+      "id": "line-127",
+      "text": "我欸兄弟 電話為你開機",
+      "spelling": "guá ê hiann-tī tiān-uē uî lí khui-ki",
+      "source_lines": [
+        127,
+        128
+      ]
+    },
+    {
+      "id": "line-130",
+      "text": "當阮自己 不管什麼事情",
+      "spelling": "tǹg gún ka-kī m̄-kuán siánn-mih tāi-tsì",
+      "source_lines": [
+        130,
+        131
+      ]
+    },
+    {
+      "id": "line-133",
+      "text": "你要哪去 怎樣我也陪你",
+      "spelling": "lí beh tó khì án-tsuánn guá mā puê lí",
+      "source_lines": [
+        133,
+        134
+      ]
+    },
+    {
+      "id": "line-136",
+      "text": "就算不識字 號碼 我知是你",
+      "spelling": "tio̍h-sǹg m̄ pat-jī hō-bé guá tsai sī lí",
+      "source_lines": [
+        136,
+        137
+      ]
+    },
+    {
+      "id": "line-139",
+      "text": "喂 你 在哪裡 喂 甘 有喘氣",
+      "spelling": "ueh lí tī tó-uī ueh kam ū tshuán-khuì",
+      "source_lines": [
+        139,
+        140
+      ]
+    },
+    {
+      "id": "line-142",
+      "text": "這 妹 仔很水 喂喂喂 你甘有要跟",
+      "spelling": "tsia muē á tsin tsuí ueh ueh ueh lí kam ū beh tuē",
+      "source_lines": [
+        142,
+        143
+      ]
+    },
+    {
+      "id": "line-145",
+      "text": "沒緊沒攤咱等等看 怎樣再打 要幹嘛",
+      "spelling": "bô kin bô thuann lán tíng-tíng khuànn àn nā ka khà beh tshòng",
+      "source_lines": [
+        145,
+        146
+      ]
+    },
+    {
+      "id": "line-148",
+      "text": "我沒想法咱等等看 怎樣再打 要去哪",
+      "spelling": "guá bô siūnn-huat lán tíng-tíng khuànn àn nā ka khà beh khì tó",
+      "source_lines": [
+        148,
+        149
+      ]
+    },
+    {
+      "id": "line-151",
+      "text": "想好地點咱等等看 怎樣再打",
+      "spelling": "siūnn hó tē-tiám lán tíng-tíng khuànn àn nā ka khà",
+      "source_lines": [
+        151,
+        152
+      ]
+    },
+    {
+      "id": "line-154",
+      "text": "兄弟電話 等你下一通",
+      "spelling": "hiann-tī tiān-uē tán lí ē-tsi̍t-thong",
+      "source_lines": [
+        154,
+        155
+      ]
+    },
+    {
+      "id": "line-157",
+      "text": "餓 我來幫你買便當 若無聊",
+      "spelling": "gō guá lâi pang lí bé piān-tong ná bô-liâu",
+      "source_lines": [
+        157,
+        158
+      ]
+    },
+    {
+      "id": "line-160",
+      "text": "欲出門咱作伙衝 說不完",
+      "spelling": "beh tshut-mn̂g lán tsò-hué tshiong kóng-bē-liáu",
+      "source_lines": [
+        160,
+        161
+      ]
+    },
+    {
+      "id": "line-163",
+      "text": "沒緊你說等多 久久",
+      "spelling": "bô kin lí kóng tán guā kú kú",
+      "source_lines": [
+        163,
+        164
+      ]
+    },
+    {
+      "id": "line-166",
+      "text": "我等你打 嘟嘟 阮家樓下相遇",
+      "spelling": "guá tán lí khà tū tū gún ka lâu-kha sio-tú",
+      "source_lines": [
+        166,
+        167
+      ]
+    },
+    {
+      "id": "line-169",
+      "text": "看 按 吶再打 電話都接不完",
+      "spelling": "khuànn àn nā ka khà tiān-uē lóng tsiap-bē-suah",
+      "source_lines": [
+        169,
+        170
+      ]
+    },
+    {
+      "id": "line-172",
+      "text": "看 按 吶再打 若出事情打給我",
+      "spelling": "khuànn àn nā ka khà ná tshut tāi-tsì khà hōo guá",
+      "source_lines": [
+        172,
+        173
+      ]
+    },
+    {
+      "id": "line-175",
+      "text": "咱的兄弟在哪 喊聲 相挺一通電話",
+      "spelling": "lán ê hiann-tī tī tuē huah siann siòng thīn tsi̍t thong tiān-uē",
+      "source_lines": [
+        175,
+        176
+      ]
+    },
+    {
+      "id": "line-178",
+      "text": "咱的兄弟在哪 喊聲 阿是要打了沒",
+      "spelling": "lán ê hiann-tī tī tuē huah siann ah sī beh khà-liáu bô",
+      "source_lines": [
+        178,
+        179
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:73,74",
+    "ambiguous_pair:74,76"
+  ]
+}

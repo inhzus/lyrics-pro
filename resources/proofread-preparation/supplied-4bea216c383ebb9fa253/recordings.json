@@ -1,0 +1,171 @@
+{
+  "candidates": [
+    {
+      "song_id": 25896958,
+      "title": "人生舞台",
+      "artists": [
+        "陈川州",
+        "黄立斌"
+      ],
+      "album": "苦恋",
+      "duration": 206.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1918590545,
+      "title": "人生舞台",
+      "artists": [
+        "王姐姐"
+      ],
+      "album": "快手热门BGM",
+      "duration": 62.206,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 336236,
+      "title": "人生舞台",
+      "artists": [
+        "詹雅雯"
+      ],
+      "album": "詹雅雯 (人生舞台 專輯 11)",
+      "duration": 239.49,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 147071,
+      "title": "人生舞台",
+      "artists": [
+        "沈文程"
+      ],
+      "album": "云中月",
+      "duration": 200.666,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1379548022,
+      "title": "人生舞台",
+      "artists": [
+        "唐尼"
+      ],
+      "album": "唐尼 第二十七集",
+      "duration": 187.742,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2134478980,
+      "title": "人生舞台",
+      "artists": [
+        "洪婷"
+      ],
+      "album": "人生舞台",
+      "duration": 243.2,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 236422,
+      "title": "人生舞台",
+      "artists": [
+        "古璇"
+      ],
+      "album": "往事只能回味",
+      "duration": 199.836,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2610308251,
+      "title": "人生舞台",
+      "artists": [
+        "石一"
+      ],
+      "album": "不挽留",
+      "duration": 217.12,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 161030,
+      "title": "人生舞台",
+      "artists": [
+        "翁立友"
+      ],
+      "album": "不能讲的秘密",
+      "duration": 280.026,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 34033004,
+      "title": "人生舞台",
+      "artists": [
+        "沈文程"
+      ],
+      "album": "1992-1994台语畅销总排行",
+      "duration": 200.84,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1609615508",
+      "title": "人生舞台",
+      "artists": [
+        "李玲玉"
+      ],
+      "album": "甜歌OK (上)",
+      "duration": 214.587,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "994480844",
+      "title": "人生舞台",
+      "artists": [
+        "翁立友"
+      ],
+      "album": "不能讲的秘密",
+      "duration": 280.027,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1677675230",
+      "title": "人生舞台",
+      "artists": [
+        "曾心梅"
+      ],
+      "album": "无情放袂记 (曾心梅台语原声典藏专辑1)",
+      "duration": 208.304,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1386386166",
+      "title": "人生舞台",
+      "artists": [
+        "曾心梅"
+      ],
+      "album": "爱你这呢深 (金曲歌后曾心梅原声典藏专辑3)",
+      "duration": 207.427,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31317400,
+      "title": "人生舞台",
+      "artists": [
+        "沈文程"
+      ],
+      "album": "鄉城台語精選, Vol. 1",
+      "duration": 201.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

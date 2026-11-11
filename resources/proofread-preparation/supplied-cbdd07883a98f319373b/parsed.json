@@ -1,0 +1,377 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "手拿著一支昨暝點的薰                                     長長的薰屎                   掉落眠床",
+      "spelling": "tshiú gia̍h tio̍h tsi̍t ki tsa-mê tiám ê hun    tn̂g tn̂g ê hun sái    lak lo̍h bîn-tshn̂g",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "手拿著一支昨暝點的薰",
+          "spelling": "tshiú gia̍h tio̍h tsi̍t ki tsa-mê tiám ê hun"
+        },
+        {
+          "text": "長長的薰屎",
+          "spelling": "tn̂g tn̂g ê hun sái"
+        },
+        {
+          "text": "掉落眠床",
+          "spelling": "lak lo̍h bîn-tshn̂g"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "是安怎                   夜那這麼長",
+      "spelling": "sī an-tsuánn        iā nà tsiah-nī tn̂g",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "是安怎",
+          "spelling": "sī an-tsuánn"
+        },
+        {
+          "text": "夜那這麼長",
+          "spelling": "iā nà tsiah-nī tn̂g"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "手拿著一支昨暝點的薰                                     邊啊的查某                 困甲足溫馴",
+      "spelling": "tshiú gia̍h tio̍h tsi̍t ki tsa-mê tiám ê hun    pinn ah ê tsa-bóo    khùn kah tsiok un sûn",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "手拿著一支昨暝點的薰",
+          "spelling": "tshiú gia̍h tio̍h tsi̍t ki tsa-mê tiám ê hun"
+        },
+        {
+          "text": "邊啊的查某",
+          "spelling": "pinn ah ê tsa-bóo"
+        },
+        {
+          "text": "困甲足溫馴",
+          "spelling": "khùn kah tsiok un sûn"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "是安怎                   路那這呢遠",
+      "spelling": "sī an-tsuánn        lōo nà tsiah-nī hn̄g",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "是安怎",
+          "spelling": "sī an-tsuánn"
+        },
+        {
+          "text": "路那這呢遠",
+          "spelling": "lōo nà tsiah-nī hn̄g"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "誰人知影                     日子是什麼",
+      "spelling": "tsiâ lâng tsai-iánn    ji̍t-tsí sī siánn-mih",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "誰人知影",
+          "spelling": "tsiâ lâng tsai-iánn"
+        },
+        {
+          "text": "日子是什麼",
+          "spelling": "ji̍t-tsí sī siánn-mih"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "我干單知影古意真歹過日子",
+      "spelling": "guá kan tan tsai-iánn kóo-ì tsin pháinn-kuè ji̍t-tsí",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "誰人知影                     講來是欲去佗為",
+      "spelling": "tsiâ lâng tsai-iánn    kóng-lâi sī beh khì tó uî",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "誰人知影",
+          "spelling": "tsiâ lâng tsai-iánn"
+        },
+        {
+          "text": "講來是欲去佗為",
+          "spelling": "kóng-lâi sī beh khì tó uî"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "我干單知影男子漢賭的是一口氣",
+      "spelling": "guá kan tan tsai-iánn lâm-tsú-hàn tóo ê sī tsi̍t kháu-khuì",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "手拿著一支擱在點的薰                                     試看嘛                        手盤是硬亦軟",
+      "spelling": "tshiú gia̍h tio̍h tsi̍t ki tsa-mê tiám ê hun    tshì khuànn mah    tshiú puânn sī tīng ia̍h nńg",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "手拿著一支擱在點的薰",
+          "spelling": "tshiú gia̍h tio̍h tsi̍t ki tsa-mê tiám ê hun"
+        },
+        {
+          "text": "試看嘛",
+          "spelling": "tshì khuànn mah"
+        },
+        {
+          "text": "手盤是硬亦軟",
+          "spelling": "tshiú puânn sī tīng ia̍h nńg"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "管太伊                 什麼澎泡的痕",
+      "spelling": "kuán thài i        siánn-mih phênn phā ê hûn",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "管太伊",
+          "spelling": "kuán thài i"
+        },
+        {
+          "text": "什麼澎泡的痕",
+          "spelling": "siánn-mih phênn phā ê hûn"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "我不知影                 什麼是回頭                             為著朋友絕對愛對甲到",
+      "spelling": "guá m̄ tsai-iánn    siánn-mih sī huê-thâu        uī-tio̍h pîng-iú tsua̍t-tuì ài tuì kap kàu",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "我不知影",
+          "spelling": "guá m̄ tsai-iánn"
+        },
+        {
+          "text": "什麼是回頭",
+          "spelling": "siánn-mih sī huê-thâu"
+        },
+        {
+          "text": "為著朋友絕對愛對甲到",
+          "spelling": "uī-tio̍h pîng-iú tsua̍t-tuì ài tuì kap kàu"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "我不知影                 青春當時會變老",
+      "spelling": "guá m̄ tsai-iánn    tshing-tshun tang sî ē piàn láu",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "我不知影",
+          "spelling": "guá m̄ tsai-iánn"
+        },
+        {
+          "text": "青春當時會變老",
+          "spelling": "tshing-tshun tang sî ē piàn láu"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "干單知影男子漢無應該目屎流",
+      "spelling": "kan tan tsai-iánn lâm-tsú-hàn bô ing-kai ba̍k-sái-lâu",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "我敢用性命                            去交換一個知己",
+      "spelling": "guá kánn iōng sìnn-miā    khì kau-uānn tsi̍t ê ti-kí",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "我敢用性命",
+          "spelling": "guá kánn iōng sìnn-miā"
+        },
+        {
+          "text": "去交換一個知己",
+          "spelling": "khì kau-uānn tsi̍t ê ti-kí"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "橫直人肉鹹鹹　                                 社會講的是道義",
+      "spelling": "huâinn-ti̍t lâng bah kiâm kiâm    siā-huē kóng ê sī tō-gī",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "橫直人肉鹹鹹",
+          "spelling": "huâinn-ti̍t lâng bah kiâm kiâm"
+        },
+        {
+          "text": "社會講的是道義",
+          "spelling": "siā-huē kóng ê sī tō-gī"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "我有氣魄　               甘願剖腹來相見",
+      "spelling": "guá ū khì-phik        kam-guān phuà-pak lâi sio-kìnn",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "我有氣魄",
+          "spelling": "guá ū khì-phik"
+        },
+        {
+          "text": "甘願剖腹來相見",
+          "spelling": "kam-guān phuà-pak lâi sio-kìnn"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "但是知己啊知己   　     你到底是在佗位",
+      "spelling": "tān-sī ti-kí ah               lí tàu-té sī tī tó-uī",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "但是知己啊知己",
+          "spelling": "tān-sī ti-kí ah"
+        },
+        {
+          "text": "你到底是在佗位",
+          "spelling": "lí tàu-té sī tī tó-uī"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "手拿著一支最後點的煙",
+      "spelling": "tshiú gia̍h tio̍h tsi̍t ki tsuè-āu tiám ê hun",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "火若消熄　               天若光",
+      "spelling": "hué ná siau sit        thinn ná kng",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "火若消熄",
+          "spelling": "hué ná siau sit"
+        },
+        {
+          "text": "天若光",
+          "spelling": "thinn ná kng"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "那親像　                   一生的命運",
+      "spelling": "nà tshin-tshiūnn    it-sing ê miā-ūn",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "那親像",
+          "spelling": "nà tshin-tshiūnn"
+        },
+        {
+          "text": "一生的命運",
+          "spelling": "it-sing ê miā-ūn"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "手拿著一支昨暝點的薰 ～～～",
+      "spelling": "tshiú gia̍h tio̍h tsi̍t ki tsa-mê tiám ê hun",
+      "source_lines": [
+        63,
+        64
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：陳世杰   作曲：伍佰  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

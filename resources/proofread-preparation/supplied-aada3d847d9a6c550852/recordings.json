@@ -1,0 +1,207 @@
+{
+  "candidates": [
+    {
+      "song_id": 1399891888,
+      "title": "BG",
+      "artists": [
+        "Falamensia"
+      ],
+      "album": "BG",
+      "duration": 230.4,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1878692768,
+      "title": "B.G",
+      "artists": [
+        "Tank Freeza"
+      ],
+      "album": "B.G",
+      "duration": 148.297,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1468357782,
+      "title": "B.G",
+      "artists": [
+        "Tris DaFinesse"
+      ],
+      "album": "B.G",
+      "duration": 240.065,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 34722373,
+      "title": "B.G",
+      "artists": [
+        "Alonzo",
+        "Dr Beriz"
+      ],
+      "album": "Capo Dei Capi",
+      "duration": 227.787,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1352702774,
+      "title": "B.G",
+      "artists": [
+        "M-Lito"
+      ],
+      "album": "Night Soldiers",
+      "duration": 371.612,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1350553061,
+      "title": "B.G",
+      "artists": [
+        "M-Lito"
+      ],
+      "album": "The Best Of, Vol. 1",
+      "duration": 371.612,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1970748787,
+      "title": "B.G",
+      "artists": [
+        "Felpera13",
+        "CamelDiseaseBoy",
+        "ProdBySib",
+        "Mano Roger"
+      ],
+      "album": "Sangue",
+      "duration": 138.397,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2087207568,
+      "title": "B.G",
+      "artists": [
+        "Zius Lit"
+      ],
+      "album": "ReZero",
+      "duration": 222.74,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2758250763,
+      "title": "B.G",
+      "artists": [
+        "Sanchezs Diego"
+      ],
+      "album": "RICH OFF PAIN",
+      "duration": 119.849,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1354749829,
+      "title": "B.G",
+      "artists": [
+        "M-Lito"
+      ],
+      "album": "Labyrinth der Töne, Vol. 5 - Deep & Tech-House Music",
+      "duration": 371.612,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2670757027,
+      "title": "B.G",
+      "artists": [
+        "Big Bleezy"
+      ],
+      "album": "Love & Hate",
+      "duration": 224.745,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1586151320",
+      "title": "B.G",
+      "artists": [
+        "Tank Freeza"
+      ],
+      "album": "B.G - Single",
+      "duration": 148.297,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1554831644",
+      "title": "B.G",
+      "artists": [
+        "Tsuneo Imahori"
+      ],
+      "album": "Gungrave Original Soundtrack Uno Righthead",
+      "duration": 232.667,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16489197,
+      "title": "B.G",
+      "artists": [
+        "Alonzo"
+      ],
+      "album": "3:48",
+      "duration": 228.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16435290,
+      "title": "B.G",
+      "artists": [
+        "Alonzo"
+      ],
+      "album": "Capo Dei Capi",
+      "duration": 227.733333,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 24881172,
+      "title": "B.G",
+      "artists": [
+        "Alonzo"
+      ],
+      "album": "Capo Dei Capi, Volume 1",
+      "duration": 230.064,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 34312549,
+      "title": "B. G.",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "你袂了解",
+      "duration": 257.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 33932880,
+      "title": "B.G",
+      "artists": [
+        "Alonzo"
+      ],
+      "album": "Capo Dei Capi, Volume 1",
+      "duration": 228.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

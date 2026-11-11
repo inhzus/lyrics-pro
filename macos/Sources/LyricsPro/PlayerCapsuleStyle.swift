@@ -12,7 +12,7 @@ struct PronunciationMenu: View {
     var body: some View {
         Menu {
             Picker("Pronunciation", selection: Binding(get: { language }, set: select)) {
-                ForEach(PronunciationLanguage.allCases, id: \.self) { option in
+                ForEach(PronunciationLanguage.choices, id: \.self) { option in
                     Text(option.label).tag(option)
                 }
             }
@@ -39,7 +39,7 @@ struct PronunciationMenu: View {
         .focused($focused)
         .onHover { hovering = $0 }
         .accessibilityLabel("Pronunciation: \(language.label)")
-        .help("Auto uses a proofread song's language when available, otherwise guesses from the artist. Choose a language to override it.")
+        .help("Auto uses supplied spelling when available, otherwise guesses from the artist. Choose a language to override it.")
     }
 }
 

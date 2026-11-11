@@ -1,0 +1,506 @@
+{
+  "recording_id": "lrclib:11748760",
+  "timing_source": "LRCLIB https://lrclib.net/api/get/11748760",
+  "manual_source": "User-supplied resources/lyrics-spelling/阿嬤的話-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "exact": 10,
+    "unresolved": 16,
+    "repeat": 10,
+    "gap": 2
+  },
+  "review_row_count": 16,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-46:0",
+    "line-58:0",
+    "line-61:0",
+    "line-64:0",
+    "line-73:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 22.04,
+      "online_text": "在細漢的時陣 阮阿嬤對我尚好",
+      "match_text": "在細漢的時陣 阮阿嬤對我尚好",
+      "text": "在細漢的時陣阮阿嬤對我尚好",
+      "spelling": "tsāi sè-hàn ê sî-tsūn gún a-má tuì guá siōng hó",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 27.3,
+      "online_text": "甲尚好的東西攏會留乎我",
+      "match_text": "甲尚好的東西攏會留乎我",
+      "text": "甲尚好的東西攏會留乎我",
+      "spelling": "kā siōng hó ê mi̍h-kiānn lóng-ē lâu hōo guá",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 32.74,
+      "online_text": "伊嘛定定帶我去幼稚園看人在七桃",
+      "match_text": "伊嘛定定帶我去幼稚園看人在七桃",
+      "text": "伊嘛定定帶我去幼稚園看人在七桃",
+      "spelling": "i mā tiānn-tiānn tshuā guá khì iù-tsí ián khuànn-lâng teh tshit thô",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 37.52,
+      "online_text": "看人在辦公伙兒 看人在覓相找",
+      "match_text": "看人在辦公伙兒 看人在覓相找",
+      "text": "看人在辦公伙兒　看人在覓相找",
+      "spelling": "khuànn-lâng teh pān-kong hue-ah khuànn-lâng teh be sio tshuē",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 43.97,
+      "online_text": "伊定定跟阮說 叫阮著要好好仔讀冊",
+      "match_text": "伊定定跟阮說 叫阮著要好好仔讀冊",
+      "text": "伊定定跟阮說　叫阮著要好好仔讀冊",
+      "spelling": "i tiānn-tiānn kā gún kóng kiò gún tio̍h-ài hó-hó á tha̍k tsheh",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 49.81,
+      "online_text": "嘸通大漢像恁老爸仔彼呢啊狼狽哦",
+      "match_text": "嘸通大漢像恁老爸仔彼呢啊狼狽哦",
+      "text": "嘸通大漢像恁老爸仔彼呢啊狼狽哦",
+      "spelling": "m̄-thang tuā-hàn tshiūnn lí lāu-pē á hiah-ni ah lông-puē hioh",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 54.93,
+      "online_text": "在彼個時陣 阮攏聽攏嘸",
+      "match_text": "在彼個時陣 阮攏聽攏嘸",
+      "text": "在彼個時陣　阮攏聽攏嘸",
+      "spelling": "tī hit-ê sî-tsūn gún lóng thiann lóng bô",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 60.92,
+      "online_text": "阿嬤 妳到底是在講什麼",
+      "match_text": "阿嬤 妳到底是在講什麼",
+      "text": "阿嬤　妳到底是在講什麼",
+      "spelling": "ah-má lí tàu-té sī tī leh kóng siánn-huè",
+      "manual_id": "line-22:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 65.93,
+      "online_text": "大漢了後 才知影阿嬤的話",
+      "match_text": "大漢了後 才知影阿嬤的話",
+      "text": "大漢了後　才知影阿嬤的話",
+      "spelling": "tuā-hàn liáu-āu tsiah tsai-iánn ah-má ê uē",
+      "manual_id": "line-25:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 70.91,
+      "online_text": "我會甲永遠永遠放塊心肝底",
+      "match_text": "我會甲永遠永遠放塊心肝底",
+      "text": "我會甲永遠永遠放塊心肝底",
+      "spelling": "guá ē kā íng-uán íng-uán khǹg tè sim-kuann té",
+      "manual_id": "line-28:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 77.34,
+      "online_text": "想到一步一步的過去",
+      "match_text": "想到一步一步的過去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 82.18,
+      "online_text": "定定攏會乎人真難忘",
+      "match_text": "定定攏會乎人真難忘",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 88.2,
+      "online_text": "時間一分一秒塊過去",
+      "match_text": "時間一分一秒塊過去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 92.88,
+      "online_text": "在阮的心內定定攏會想到伊",
+      "match_text": "在阮的心內定定攏會想到伊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 104.78,
+      "online_text": "阿嬤妳今嘛在叨位",
+      "match_text": "阿嬤妳今嘛在叨位",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 109.95,
+      "online_text": "阮在叫妳妳甘有聽到",
+      "match_text": "阮在叫妳妳甘有聽到",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 115.34,
+      "online_text": "阮的認真甲阮的成功 妳甘有看到",
+      "match_text": "阮的認真甲阮的成功 妳甘有看到",
+      "text": "阮的認真甲阮的成功　妳甘有看到",
+      "spelling": "gún ê līn-tsin kā gún ê sîng-kong lí kam-ū khuànn-tio̍h",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 120.89,
+      "online_text": "阮在叫妳 妳知影沒",
+      "match_text": "阮在叫妳 妳知影沒",
+      "text": "阮在叫妳　妳知影沒",
+      "spelling": "gún te kiò lí lí tsai-iánn bô",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 127.14,
+      "online_text": "阿嬤妳今嘛過的好麼",
+      "match_text": "阿嬤妳今嘛過的好麼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 131.91,
+      "online_text": "甘有人塊甲妳照顧",
+      "match_text": "甘有人塊甲妳照顧",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 137.39,
+      "online_text": "希望後世人阮擱會凍來乎妳疼",
+      "match_text": "希望後世人阮擱會凍來乎妳疼",
+      "text": "希望後世人阮擱會凍來乎妳疼",
+      "spelling": "hi-bāng āu-sì-lâng gún koh ē-tàng lâi hōo lí thiànn",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 142.96,
+      "online_text": "作妳永遠的孫仔",
+      "match_text": "作妳永遠的孫仔",
+      "text": "作妳永遠的孫仔",
+      "spelling": "tsò lí íng-uán ê sun-á",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 150.02,
+      "online_text": "擱叫妳一聲阿嬤",
+      "match_text": "擱叫妳一聲阿嬤",
+      "text": "擱叫妳一聲阿嬤",
+      "spelling": "koh kiò lí tsi̍t siann ah-má",
+      "manual_id": "line-55:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 157.59,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 24,
+      "time": 179.42,
+      "online_text": "想到一步一步的過去",
+      "match_text": "想到一步一步的過去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 184.14,
+      "online_text": "定定攏會乎人真難忘",
+      "match_text": "定定攏會乎人真難忘",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 190.48,
+      "online_text": "時間一分一秒塊過去",
+      "match_text": "時間一分一秒塊過去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 194.94,
+      "online_text": "在阮的心內定定攏會想到伊",
+      "match_text": "在阮的心內定定攏會想到伊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 206.98,
+      "online_text": "阿嬤妳今嘛在叨位",
+      "match_text": "阿嬤妳今嘛在叨位",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 211.84,
+      "online_text": "阮在叫妳妳甘有聽到",
+      "match_text": "阮在叫妳妳甘有聽到",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 217.44,
+      "online_text": "阮的認真甲阮的成功 妳甘有看到",
+      "match_text": "阮的認真甲阮的成功 妳甘有看到",
+      "text": "阮的認真甲阮的成功　妳甘有看到",
+      "spelling": "gún ê līn-tsin kā gún ê sîng-kong lí kam-ū khuànn-tio̍h",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 222.89,
+      "online_text": "阮在叫妳 妳知影沒",
+      "match_text": "阮在叫妳 妳知影沒",
+      "text": "阮在叫妳　妳知影沒",
+      "spelling": "gún te kiò lí lí tsai-iánn bô",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 229.19,
+      "online_text": "阿嬤妳今嘛過的好麼",
+      "match_text": "阿嬤妳今嘛過的好麼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 234.05,
+      "online_text": "甘有人塊甲妳照顧",
+      "match_text": "甘有人塊甲妳照顧",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 239.34,
+      "online_text": "希望後世人阮擱會凍來乎妳疼",
+      "match_text": "希望後世人阮擱會凍來乎妳疼",
+      "text": "希望後世人阮擱會凍來乎妳疼",
+      "spelling": "hi-bāng āu-sì-lâng gún koh ē-tàng lâi hōo lí thiànn",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 244.81,
+      "online_text": "作妳永遠的孫仔",
+      "match_text": "作妳永遠的孫仔",
+      "text": "作妳永遠的孫仔",
+      "spelling": "tsò lí íng-uán ê sun-á",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 252.13,
+      "online_text": "擱叫妳一聲 阿嬤",
+      "match_text": "擱叫妳一聲 阿嬤",
+      "text": "擱叫妳一聲阿嬤",
+      "spelling": "koh kiò lí tsi̍t siann ah-má",
+      "manual_id": "line-55:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 260.06,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "65f88aa29010939533407fd64932f70a683483cfcc5ea20c6438c502061afc1b",
+    "manual": "4a49c76a03744c41cb74dba49d32f177a118f8645eda6c73c93158dd838d8e9e",
+    "timed": "83d538947a0aceda303e8b0b801cb47989324df811e0adc5453775b08868b250"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "candidates": [
+    {
+      "song_id": 248687,
+      "title": "故乡的歌",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "江蕙10年‧典藏精选",
+      "duration": 252.027,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 106791,
+      "title": "故乡的歌",
+      "artists": [
+        "简广易"
+      ],
+      "album": "牧民新歌",
+      "duration": 212.733,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3440278239,
+      "title": "故乡的歌",
+      "artists": [
+        "马泽宇"
+      ],
+      "album": "故乡的歌",
+      "duration": 202.9,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1954047151,
+      "title": "故乡的歌",
+      "artists": [
+        "简广易",
+        "阎惠昌",
+        "中国音乐学院民族乐团",
+        "苏椿"
+      ],
+      "album": "牧民新歌",
+      "duration": 212.733,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1985363869,
+      "title": "故乡的歌",
+      "artists": [
+        "姜丽娜"
+      ],
+      "album": "至爱.故乡的歌",
+      "duration": 313.547,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1300592631,
+      "title": "故乡的歌",
+      "artists": [
+        "浦原"
+      ],
+      "album": "网络新歌速递100%(Ⅲ)",
+      "duration": 250.54,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 451569143,
+      "title": "故乡的歌",
+      "artists": [
+        "金鹰",
+        "吕学东"
+      ],
+      "album": "吕学东作品集",
+      "duration": 314.709,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1923809188,
+      "title": "故乡的歌",
+      "artists": [
+        "陈秀莲",
+        "王留根"
+      ],
+      "album": "中华民族经典音乐作品集萃（三）",
+      "duration": 136.177,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1894136674,
+      "title": "故乡的歌",
+      "artists": [
+        "钱伟",
+        "朱家珍"
+      ],
+      "album": "美术电影歌曲",
+      "duration": 135.81,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1839461649,
+      "title": "故乡的歌",
+      "artists": [
+        "隆布"
+      ],
+      "album": "故乡的歌",
+      "duration": 268.199,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

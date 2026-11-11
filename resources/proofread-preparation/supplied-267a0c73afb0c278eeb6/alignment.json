@@ -1,0 +1,383 @@
+{
+  "recording_id": "netease:449769017",
+  "timing_source": "NetEase https://music.163.com/song?id=449769017",
+  "manual_source": "User-supplied resources/lyrics-spelling/放浪舞者-伍佰",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "repeat": 6,
+    "exact": 11,
+    "approximate": 1,
+    "unresolved": 6
+  },
+  "review_row_count": 18,
+  "unmatched_manual_ids": [
+    "line-36:1",
+    "line-42:1"
+  ],
+  "unused_repeat_ids": [
+    "line-15:0",
+    "line-15:1",
+    "line-30:0",
+    "line-30:1",
+    "line-33:0",
+    "line-33:1",
+    "line-36:0",
+    "line-39:0",
+    "line-39:1",
+    "line-42:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 伍佰",
+      "match_text": "作词 : 伍佰",
+      "text": "作词 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 伍佰",
+      "match_text": "作曲 : 伍佰",
+      "text": "作曲 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 43.21,
+      "online_text": "踏着轻松的舞步",
+      "match_text": "踏着轻松的舞步",
+      "text": "踏著輕鬆的舞步",
+      "spelling": "ta̍h tio̍h khin-sang ê bú-pōo",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 47.2,
+      "online_text": "无通讲阮爱放浪",
+      "match_text": "无通讲阮爱放浪",
+      "text": "無通講阮愛放浪",
+      "spelling": "m thang kóng gún ài hòng lōng",
+      "manual_id": "line-3:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 51.16,
+      "online_text": "阮嘛有阮的前途",
+      "match_text": "阮嘛有阮的前途",
+      "text": "阮嘛有阮的前途",
+      "spelling": "gún mah ū gún ê tsiân-tôo",
+      "manual_id": "line-6:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 55.2,
+      "online_text": "佮你无仝款的路",
+      "match_text": "佮你无仝款的路",
+      "text": "佮你無仝款的路",
+      "spelling": "kah lí bô kâng-khuán ê loo",
+      "manual_id": "line-6:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 59.14,
+      "online_text": "看着我脚手有风",
+      "match_text": "看着我脚手有风",
+      "text": "看著我腳手有風",
+      "spelling": "khuànn tio̍h guá kha tshiú ū hong",
+      "manual_id": "line-9:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 63.13,
+      "online_text": "眼神嘛袂来迷茫",
+      "match_text": "眼神嘛袂来迷茫",
+      "text": "眼神嘛袂來迷汒",
+      "spelling": "gán-sîn mah bē lâi bî bong",
+      "manual_id": "line-9:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 8,
+      "time": 67.08,
+      "online_text": "踅得头壳嘛会楞",
+      "match_text": "踅得头壳嘛会楞",
+      "text": "踅得頭殼嘛會楞",
+      "spelling": "se̍h tio̍h thâu-khak mah ē gông",
+      "manual_id": "line-12:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 71.26,
+      "online_text": "只是阮无共你讲",
+      "match_text": "只是阮无共你讲",
+      "text": "只是阮無共你講",
+      "spelling": "tsí-sī gún bô kāng lí kóng",
+      "manual_id": "line-12:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 75.47,
+      "online_text": "一心欲飞去 远远的单纯世界",
+      "match_text": "一心欲飞去 远远的单纯世界",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 83.4,
+      "online_text": "我的汗那流 生命精彩",
+      "match_text": "我的汗那流 生命精彩",
+      "text": "我的汗那流 生命精彩",
+      "spelling": "guá a kuānn ná lâu miā tsing-tshái",
+      "manual_id": "line-15:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 91.32,
+      "online_text": "柔软的身躯刚强",
+      "match_text": "柔软的身躯刚强",
+      "text": "柔軟的身軀剛強",
+      "spelling": "jiû-nńg a sin-khu kong-kiông",
+      "manual_id": "line-18:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 95.04,
+      "online_text": "扭掠的肢体非常",
+      "match_text": "扭掠的肢体非常",
+      "text": "扭掠的肢體非常",
+      "spelling": "liú-lia̍h a tsi-thé hui-siông",
+      "manual_id": "line-18:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 99.04,
+      "online_text": "将所有人的目光",
+      "match_text": "将所有人的目光",
+      "text": "將所有人的目光",
+      "spelling": "tsiang sóo-iú lâng a ba̍k-kng",
+      "manual_id": "line-21:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 103.11,
+      "online_text": "挫出伊心内软弱",
+      "match_text": "挫出伊心内软弱",
+      "text": "挫出伊心內軟弱",
+      "spelling": "tshò tshut i sim-lāi luán-lio̍h",
+      "manual_id": "line-21:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 139.14,
+      "online_text": "踏着轻松的舞步",
+      "match_text": "踏着轻松的舞步",
+      "text": "踏著輕鬆的舞步",
+      "spelling": "ta̍h tio̍h khin-sang ê bú-pōo",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 143.15,
+      "online_text": "无通讲阮爱放浪",
+      "match_text": "无通讲阮爱放浪",
+      "text": "無通講阮愛放浪",
+      "spelling": "m thang kóng gún ài hòng lōng",
+      "manual_id": "line-3:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 147.05,
+      "online_text": "我速度无影无踪",
+      "match_text": "我速度无影无踪",
+      "text": "我速度無影無蹤",
+      "spelling": "guá sok-tōo bû-iánn bû-tsong",
+      "manual_id": "line-27:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 151.06,
+      "online_text": "要揣阮无仝的路",
+      "match_text": "要揣阮无仝的路",
+      "text": "要揣阮無仝的路",
+      "spelling": "beh tshuē gún bô kāng a lōo",
+      "manual_id": "line-27:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 155.51,
+      "online_text": "一心欲飞去 远远的单纯世界",
+      "match_text": "一心欲飞去 远远的单纯世界",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 163.27,
+      "online_text": "我的汗那流 生命精彩",
+      "match_text": "我的汗那流 生命精彩",
+      "text": "我的汗那流 生命精彩",
+      "spelling": "guá a kuānn ná lâu miā tsing-tshái",
+      "manual_id": "line-15:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 171.19,
+      "online_text": "所以欲叫我 按怎来对你讲起",
+      "match_text": "所以欲叫我 按怎来对你讲起",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 179.15,
+      "online_text": "我继续来踏着 这人生的舞步",
+      "match_text": "我继续来踏着 这人生的舞步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 187.45,
+      "online_text": "所以欲叫我 按怎来对你讲起",
+      "match_text": "所以欲叫我 按怎来对你讲起",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 195.26,
+      "online_text": "我继续来踏着 这放浪的舞步",
+      "match_text": "我继续来踏着 这放浪的舞步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "7313c303fcaf64df70b09259ccc05b15435355341c7bdd68e5e26b9608493491",
+    "manual": "e43a588af627ca5212e008c08a881149ce6eb5a51476c0c2c24aad31302ca11f",
+    "timed": "e7489e0434015fc751c08e66a8dcbfab28ee7d2fa35ea618297f079da8d8a520"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "大腸麵線         臭豆腐     碗稞甜不辣",
+      "spelling": "tuā-tn̂g mī-suànn    tshàu-tāu-hū    uánn kué thia̋n-pú-lah",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "大腸麵線",
+          "spelling": "tuā-tn̂g mī-suànn"
+        },
+        {
+          "text": "臭豆腐",
+          "spelling": "tshàu-tāu-hū"
+        },
+        {
+          "text": "碗稞甜不辣",
+          "spelling": "uánn kué thia̋n-pú-lah"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "筒仔米糕         蚵仔煎米粉湯         藥燉排骨    蜜酥雞排",
+      "spelling": "tâng-á-bí-ko        ô-á-tsian bí-hún thng        io̍h tūn pâi     bi̍t soo ke-pâi",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "筒仔米糕",
+          "spelling": "tâng-á-bí-ko"
+        },
+        {
+          "text": "蚵仔煎米粉湯",
+          "spelling": "ô-á-tsian bí-hún thng"
+        },
+        {
+          "text": "藥燉排骨",
+          "spelling": "io̍h tūn pâi"
+        },
+        {
+          "text": "蜜酥雞排",
+          "spelling": "bi̍t soo ke-pâi"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "珍珠奶茶         木瓜牛奶         小籠湯包         東山鴨頭",
+      "spelling": "tsin-tsu ling-tê        bo̍k-kue gû-lin    siáu lông thng pau    tong-san ah thâu",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "珍珠奶茶",
+          "spelling": "tsin-tsu ling-tê"
+        },
+        {
+          "text": "木瓜牛奶",
+          "spelling": "bo̍k-kue gû-lin"
+        },
+        {
+          "text": "小籠湯包",
+          "spelling": "siáu lông thng pau"
+        },
+        {
+          "text": "東山鴨頭",
+          "spelling": "tong-san ah thâu"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "魯肉飯         牛肉麵         肉粽肉圓         四神湯",
+      "spelling": "lóo-bah-pn̄g        gû-bah mī        bah-tsàng bah-uân    sù-sîn-thng",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "魯肉飯",
+          "spelling": "lóo-bah-pn̄g"
+        },
+        {
+          "text": "牛肉麵",
+          "spelling": "gû-bah mī"
+        },
+        {
+          "text": "肉粽肉圓",
+          "spelling": "bah-tsàng bah-uân"
+        },
+        {
+          "text": "四神湯",
+          "spelling": "sù-sîn-thng"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：杜文祥&吳永吉   作曲：古經文  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

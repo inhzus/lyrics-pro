@@ -1,0 +1,51 @@
+{
+  "selected": {
+    "song_id": 70100,
+    "title": "欢喜就好",
+    "artists": [
+      "陈雷"
+    ],
+    "album": "欢喜就好",
+    "duration": 207.826,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:70100",
+      "duration": 207.826,
+      "ready": false,
+      "coverage": 0.78125,
+      "exact_fraction": 0.78125,
+      "summary": {
+        "credit": 2,
+        "repeat": 25,
+        "unresolved": 7,
+        "gap": 1
+      }
+    },
+    {
+      "recording_id": "netease:69470",
+      "duration": 207.827,
+      "ready": false,
+      "coverage": 0.3203125,
+      "exact_fraction": 0.4,
+      "summary": {
+        "credit": 2,
+        "unresolved": 12,
+        "repeat": 8
+      }
+    },
+    {
+      "recording_id": "netease:2610606625",
+      "duration": 206.333,
+      "ready": false,
+      "coverage": 0.0,
+      "exact_fraction": 0.0,
+      "summary": {
+        "credit": 2,
+        "unresolved": 32
+      }
+    }
+  ]
+}

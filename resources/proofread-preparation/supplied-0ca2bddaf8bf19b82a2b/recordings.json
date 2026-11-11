@@ -1,0 +1,338 @@
+{
+  "candidates": [
+    {
+      "song_id": 36587024,
+      "title": "老朋友",
+      "artists": [
+        "迪克牛仔"
+      ],
+      "album": "老朋友",
+      "duration": 238.629,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1329647723,
+      "title": "老朋友",
+      "artists": [
+        "丛铭君"
+      ],
+      "album": "老朋友",
+      "duration": 216.833,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3403923921,
+      "title": "老朋友",
+      "artists": [
+        "黄奇斌"
+      ],
+      "album": "虚华的梦想是一支刀",
+      "duration": 270.401,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2129208336,
+      "title": "老朋友",
+      "artists": [
+        "刘宇宁"
+      ],
+      "album": "《紫川·光明三杰》影视原声专辑",
+      "duration": 224.285,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3327458879,
+      "title": "老朋友",
+      "artists": [
+        "贾真Jahgen",
+        "KITO"
+      ],
+      "album": "Motion Music",
+      "duration": 158.026,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1495837999,
+      "title": "老朋友",
+      "artists": [
+        "旅行团乐队"
+      ],
+      "album": "似你似我",
+      "duration": 241.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 26599028,
+      "title": "老朋友",
+      "artists": [
+        "王强"
+      ],
+      "album": "分手情歌",
+      "duration": 230.373,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1386887688,
+      "title": "老朋友",
+      "artists": [
+        "六哲",
+        "秀才",
+        "马俊杰"
+      ],
+      "album": "大男人",
+      "duration": 224.849,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 71704,
+      "title": "老朋友",
+      "artists": [
+        "陈星"
+      ],
+      "album": "思乡酒",
+      "duration": 227.944,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 163124,
+      "title": "老朋友",
+      "artists": [
+        "王强"
+      ],
+      "album": "秋天不回来",
+      "duration": 230.329,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 366827,
+      "title": "老朋友",
+      "artists": [
+        "ManhanD"
+      ],
+      "album": "Life Goes On & On",
+      "duration": 258.986,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 210289,
+      "title": "老朋友",
+      "artists": [
+        "蔡淳佳"
+      ],
+      "album": "有一天我会",
+      "duration": 231.414,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 85821,
+      "title": "老朋友",
+      "artists": [
+        "高明骏"
+      ],
+      "album": "话说从头",
+      "duration": 257.826,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1851674457,
+      "title": "老朋友",
+      "artists": [
+        "家豪"
+      ],
+      "album": "想你快乐",
+      "duration": 274.076,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3397825257,
+      "title": "老朋友",
+      "artists": [
+        "克拉块儿"
+      ],
+      "album": "老朋友",
+      "duration": 238.701,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 60113,
+      "title": "老朋友",
+      "artists": [
+        "阿牛"
+      ],
+      "album": "无尾熊抱抱",
+      "duration": 234.684,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1393950640",
+      "title": "老朋友",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "台南",
+      "duration": 250.573,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1741594763",
+      "title": "老朋友",
+      "artists": [
+        "噢勒阿惹组合"
+      ],
+      "album": "恋歌 - EP",
+      "duration": 317.31,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1682578411",
+      "title": "老朋友",
+      "artists": [
+        "阿疯"
+      ],
+      "album": "寻你 - Single",
+      "duration": 282.527,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1641635615",
+      "title": "老朋友",
+      "artists": [
+        "陈星"
+      ],
+      "album": "老朋友",
+      "duration": 212.16,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1720488352",
+      "title": "老朋友",
+      "artists": [
+        "六哲, 秀才 & 马俊杰"
+      ],
+      "album": "大男人",
+      "duration": 224.85,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1652076131",
+      "title": "老朋友",
+      "artists": [
+        "放松的节拍 & 最佳夜晚背景"
+      ],
+      "album": "梦幻低保真 - 最舒缓低保真节拍,适合睡觉、学习、放松下的钢琴和器乐低保真音乐,梦境气氛,舒缓的卧室氛围",
+      "duration": 189.5,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1732207775",
+      "title": "老朋友",
+      "artists": [
+        "宋晓峰"
+      ],
+      "album": "老朋友 - EP",
+      "duration": 194.643,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1540555676",
+      "title": "老朋友",
+      "artists": [
+        "旅行团乐队"
+      ],
+      "album": "似你似我",
+      "duration": 241.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16834157,
+      "title": "老朋友",
+      "artists": [
+        "邰正宵"
+      ],
+      "album": "歌曲MV下载 QQ：398839136",
+      "duration": 257.5263749,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 15697198,
+      "title": "老朋友",
+      "artists": [
+        "邰正宵"
+      ],
+      "album": "俘虏",
+      "duration": 257.4889728,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29233325,
+      "title": "老朋友",
+      "artists": [
+        "摩登兄弟刘宇宁"
+      ],
+      "album": "《紫川·光明三杰》影视原声专辑",
+      "duration": 224.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 38244559,
+      "title": "老朋友",
+      "artists": [
+        "黃奇斌"
+      ],
+      "album": "老朋友",
+      "duration": 270.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 38342629,
+      "title": "老朋友",
+      "artists": [
+        "黃奇斌"
+      ],
+      "album": "虛華的夢想是一支刀",
+      "duration": 270.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 40169066,
+      "title": "老朋友",
+      "artists": [
+        "邰正宵"
+      ],
+      "album": "俘虏 Samuel Tai Captive 1997",
+      "duration": 257.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

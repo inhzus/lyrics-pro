@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": "716535134",
+      "title": "统皮",
+      "artists": [
+        "冠宇"
+      ],
+      "album": "单飞",
+      "duration": 206.024,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "716535134",
+      "title": "统皮",
+      "artists": [
+        "冠宇"
+      ],
+      "album": "单飞",
+      "duration": 206.024,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

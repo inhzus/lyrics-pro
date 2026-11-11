@@ -1,0 +1,25 @@
+{
+  "selected": {
+    "song_id": "1445522132",
+    "title": "甜蜜的世界",
+    "artists": [
+      "江蕙"
+    ],
+    "album": "甲你揽牢牢",
+    "duration": 219.24,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1445522132",
+      "duration": 219.24,
+      "ready": false,
+      "coverage": 0.0,
+      "exact_fraction": 0.0,
+      "summary": {
+        "unresolved": 51
+      }
+    }
+  ]
+}

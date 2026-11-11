@@ -1,0 +1,543 @@
+{
+  "recording_id": "netease:399366483",
+  "timing_source": "NetEase https://music.163.com/song?id=399366483",
+  "manual_source": "User-supplied resources/lyrics-spelling/彼時的青春-夕陽武士",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 3,
+    "unresolved": 9,
+    "approximate": 1,
+    "exact": 4,
+    "repeat": 23,
+    "gap": 2
+  },
+  "review_row_count": 10,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-37:0",
+    "line-67:0",
+    "line-79:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 黄圣峰",
+      "match_text": "作词 : 黄圣峰",
+      "text": "作词 : 黄圣峰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 0.128,
+      "online_text": "作曲 : 王立",
+      "match_text": "作曲 : 王立",
+      "text": "作曲 : 王立",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 0.256,
+      "online_text": "制作人 : 夕阳武士",
+      "match_text": "制作人 : 夕阳武士",
+      "text": "制作人 : 夕阳武士",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 0.384,
+      "online_text": "编曲人 : 夕阳武士",
+      "match_text": "编曲人 : 夕阳武士",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 0.512,
+      "online_text": "录音工程师 : 陈莹哲",
+      "match_text": "录音工程师 : 陈莹哲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 0.64,
+      "online_text": "混音工程师 : 陈莹哲",
+      "match_text": "混音工程师 : 陈莹哲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 0.77,
+      "online_text": "想到读册时咱轻轻松松的笑声",
+      "match_text": "想到读册时咱轻轻松松的笑声",
+      "text": "想到讀冊時咱輕輕鬆鬆的笑聲",
+      "spelling": "siūnn-tio̍h tha̍k-tsheh sî lán khin-khin-sang-sang ê tshiò-siann",
+      "manual_id": "line-1:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 7,
+      "time": 7.01,
+      "online_text": "大汉了后你煞无缘故搬离开遮",
+      "match_text": "大汉了后你煞无缘故搬离开遮",
+      "text": "大漢了後你煞無緣故搬離開遮",
+      "spelling": "tuā-hàn liáu āu lí suah bô-iân kòo puann lī-khui jia",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 12.95,
+      "online_text": "较早这条路是咱下课时常会经过的路",
+      "match_text": "较早这条路是咱下课时常会经过的路",
+      "text": "較早這條路是咱下課時常會經過的路",
+      "spelling": "khah-tsá tsit tiâu lōo sī lán hā-khò sî-siông ē king-kuè ê lōo",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 18.8,
+      "online_text": "四界拢是咱的声音",
+      "match_text": "四界拢是咱的声音",
+      "text": "四界攏是咱的聲音",
+      "spelling": "sì-kè lóng sī lán ê siann-im",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 24.91,
+      "online_text": "经过了几年这条路也已经变无仝",
+      "match_text": "经过了几年这条路也已经变无仝",
+      "text": "經過了幾年這條路也已經變無仝",
+      "spelling": "king-kuè liáu kuí nî tsit tiâu lōo iā í-king piàn bô-kâng",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 30.44,
+      "online_text": "但是生活仝款是一工过一工",
+      "match_text": "但是生活仝款是一工过一工",
+      "text": "但是生活仝款是一工過一工",
+      "spelling": "tān-sī sing-ua̍h kâng-khuán sī tsi̍t kang kuè tsi̍t kang",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 36.84,
+      "online_text": "怀念着过去阁如何 日子也是按呢的过",
+      "match_text": "怀念着过去阁如何 日子也是按呢的过",
+      "text": "懷念著過去閣如何 日子也是按呢的過",
+      "spelling": "huâi-liām tio̍h kuè-khì koh lû-hô li̍t-tsí iā-sī án-ne ê kuè",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 42.78,
+      "online_text": "阁卡按怎嘛是袂变",
+      "match_text": "阁卡按怎嘛是袂变",
+      "text": "閣卡按怎嘛是袂變",
+      "spelling": "koh khá án-tsuánn mā sī buē piàn",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 48.82,
+      "online_text": "茫茫的人海中想欲将你揣",
+      "match_text": "茫茫的人海中想欲将你揣",
+      "text": "茫茫的人海中想欲將你揣",
+      "spelling": "bâng bâng ê lîn hái-tiong siūnn-beh tsiòng lí tshuē",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 53.86,
+      "online_text": "只是毋知按怎揣",
+      "match_text": "只是毋知按怎揣",
+      "text": "只是毋知按怎揣",
+      "spelling": "tsí-sī m̄ tsai án-tsuánn tshuē",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 59.8,
+      "online_text": "微微的风对面吹 想着你讲一句话",
+      "match_text": "微微的风对面吹 想着你讲一句话",
+      "text": "微微的風對面吹 想著你講一句話",
+      "spelling": "bî bî ê hong tuì-bīn tshue siūnn-tio̍h lí kóng tsi̍t kù uē",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 65.69,
+      "online_text": "勇敢去面对孤单的人 看起来让你真欣羡",
+      "match_text": "勇敢去面对孤单的人 看起来让你真欣羡",
+      "text": "勇敢去面對孤單的人 看起來讓你真欣羨",
+      "spelling": "ióng-kám khì bīn-tuì koo-tuann ê lâng khuànn khí-lâi hōo lí tsin him-siān",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 71.74,
+      "online_text": "其实我无想遮济",
+      "match_text": "其实我无想遮济",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 74.82,
+      "online_text": "因为我看着你上简单的美丽",
+      "match_text": "因为我看着你上简单的美丽",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 78.87,
+      "online_text": "彼时的青春嘛无底揣",
+      "match_text": "彼时的青春嘛无底揣",
+      "text": "彼時的青春嘛無底揣",
+      "spelling": "hit-sî ê tshing-tshun mā bô té tshuē",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 85.0,
+      "online_text": "经过了几年 这条路也已经变无仝",
+      "match_text": "经过了几年 这条路也已经变无仝",
+      "text": "經過了幾年這條路也已經變無仝",
+      "spelling": "king-kuè liáu kuí nî tsit tiâu lōo iā í-king piàn bô-kâng",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 90.53,
+      "online_text": "但是生活仝款是一工过一工",
+      "match_text": "但是生活仝款是一工过一工",
+      "text": "但是生活仝款是一工過一工",
+      "spelling": "tān-sī sing-ua̍h kâng-khuán sī tsi̍t kang kuè tsi̍t kang",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 96.82,
+      "online_text": "怀念着过去阁如何 日子也是按呢的过",
+      "match_text": "怀念着过去阁如何 日子也是按呢的过",
+      "text": "懷念著過去閣如何 日子也是按呢的過",
+      "spelling": "huâi-liām tio̍h kuè-khì koh lû-hô li̍t-tsí iā-sī án-ne ê kuè",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 102.81,
+      "online_text": "阁卡按怎嘛是袂变",
+      "match_text": "阁卡按怎嘛是袂变",
+      "text": "閣卡按怎嘛是袂變",
+      "spelling": "koh khá án-tsuánn mā sī buē piàn",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 108.97,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 26,
+      "time": 144.84,
+      "online_text": "茫茫的人海中想欲将你揣",
+      "match_text": "茫茫的人海中想欲将你揣",
+      "text": "茫茫的人海中想欲將你揣",
+      "spelling": "bâng bâng ê lîn hái-tiong siūnn-beh tsiòng lí tshuē",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 149.86,
+      "online_text": "只是毋知按怎揣",
+      "match_text": "只是毋知按怎揣",
+      "text": "只是毋知按怎揣",
+      "spelling": "tsí-sī m̄ tsai án-tsuánn tshuē",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 155.8,
+      "online_text": "微微的风对面吹 想着你讲一句话",
+      "match_text": "微微的风对面吹 想着你讲一句话",
+      "text": "微微的風對面吹 想著你講一句話",
+      "spelling": "bî bî ê hong tuì-bīn tshue siūnn-tio̍h lí kóng tsi̍t kù uē",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 161.73,
+      "online_text": "勇敢去面对孤单的人 看起来让你真欣羡",
+      "match_text": "勇敢去面对孤单的人 看起来让你真欣羡",
+      "text": "勇敢去面對孤單的人 看起來讓你真欣羨",
+      "spelling": "ióng-kám khì bīn-tuì koo-tuann ê lâng khuànn khí-lâi hōo lí tsin him-siān",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 167.91,
+      "online_text": "其实我无想遮济",
+      "match_text": "其实我无想遮济",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 170.64,
+      "online_text": "因为我看着你上简单的美丽",
+      "match_text": "因为我看着你上简单的美丽",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 174.61,
+      "online_text": "彼时的青春嘛无底揣",
+      "match_text": "彼时的青春嘛无底揣",
+      "text": "彼時的青春嘛無底揣",
+      "spelling": "hit-sî ê tshing-tshun mā bô té tshuē",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 178.07,
+      "online_text": "微微的风对面吹 想着你讲一句话",
+      "match_text": "微微的风对面吹 想着你讲一句话",
+      "text": "微微的風對面吹 想著你講一句話",
+      "spelling": "bî bî ê hong tuì-bīn tshue siūnn-tio̍h lí kóng tsi̍t kù uē",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 183.04,
+      "online_text": "勇敢去面对孤单的人 看起来让你真欣羡",
+      "match_text": "勇敢去面对孤单的人 看起来让你真欣羡",
+      "text": "勇敢去面對孤單的人 看起來讓你真欣羨",
+      "spelling": "ióng-kám khì bīn-tuì koo-tuann ê lâng khuànn khí-lâi hōo lí tsin him-siān",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 188.82,
+      "online_text": "其实我无想遮济",
+      "match_text": "其实我无想遮济",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 191.7,
+      "online_text": "因为我看着你上简单的美丽",
+      "match_text": "因为我看着你上简单的美丽",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 195.81,
+      "online_text": "彼时的青春嘛无底揣",
+      "match_text": "彼时的青春嘛无底揣",
+      "text": "彼時的青春嘛無底揣",
+      "spelling": "hit-sî ê tshing-tshun mā bô té tshuē",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 204.59,
+      "online_text": "行着这条路将怀念囥心底",
+      "match_text": "行着这条路将怀念囥心底",
+      "text": "行著這條路將懷念囥心底",
+      "spelling": "kiânn-tio̍h tsit tiâu lōo tsiong huâi-liām khǹg sim té",
+      "manual_id": "line-85:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 212.21,
+      "online_text": "经过了几年 这条路也已经变无仝",
+      "match_text": "经过了几年 这条路也已经变无仝",
+      "text": "經過了幾年這條路也已經變無仝",
+      "spelling": "king-kuè liáu kuí nî tsit tiâu lōo iā í-king piàn bô-kâng",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 217.99,
+      "online_text": "但是生活仝款是一工过一工",
+      "match_text": "但是生活仝款是一工过一工",
+      "text": "但是生活仝款是一工過一工",
+      "spelling": "tān-sī sing-ua̍h kâng-khuán sī tsi̍t kang kuè tsi̍t kang",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 41,
+      "time": 225.5,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "0624db7af9d40a5d1fbe59f00ad8e7a5b3e2be7489b617057eef678ba0cb3d37",
+    "manual": "ec610e14fab93508170ae887354ccadc6e0fa532ddb29ca23e8956dfd9446ef8",
+    "timed": "7a01b077845724bc9c4e19de0dc8dfdf351d89098a817a409d617bdb4627ebf5"
+  }
+}

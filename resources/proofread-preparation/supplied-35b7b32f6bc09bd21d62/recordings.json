@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": "1510912565",
+      "title": "快乐种田人",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "众神护台湾 (黑胶版)",
+      "duration": 170.907,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "842352313",
+      "title": "快乐种田人",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "众神护台湾",
+      "duration": 170.907,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

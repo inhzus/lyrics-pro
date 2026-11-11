@@ -1,0 +1,326 @@
+{
+  "candidates": [
+    {
+      "song_id": 336875,
+      "title": "摇婴仔歌",
+      "artists": [
+        "张杏月"
+      ],
+      "album": "梦中人",
+      "duration": 277.666,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5267327,
+      "title": "摇婴仔歌",
+      "artists": [
+        "李泰祥"
+      ],
+      "album": "欢乐中国节",
+      "duration": 274.76,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1304401909,
+      "title": "摇婴仔歌",
+      "artists": [
+        "微风乐集",
+        "A萌闽南语合唱团"
+      ],
+      "album": "A萌闽南语合唱团",
+      "duration": 212.819,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 117259,
+      "title": "摇婴仔歌",
+      "artists": [
+        "李泰祥"
+      ],
+      "album": "乡(乡土.民谣)",
+      "duration": 274.76,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 82663,
+      "title": "摇婴仔歌",
+      "artists": [
+        "范李彬"
+      ],
+      "album": "关山月",
+      "duration": 283.293,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1412653266,
+      "title": "搖嬰仔歌",
+      "artists": [
+        "洪荣宏"
+      ],
+      "album": "洪榮宏 的新老歌, Vol. 1 - 愛的一生",
+      "duration": 209.173,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1973557952,
+      "title": "摇婴仔歌",
+      "artists": [
+        "大象合唱团"
+      ],
+      "album": "台湾童谣精选1",
+      "duration": 137.337,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1350330868,
+      "title": "摇婴仔歌",
+      "artists": [
+        "古典天团"
+      ],
+      "album": "古典音乐合集（2）",
+      "duration": 130.272,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1431999676,
+      "title": "搖嬰仔歌",
+      "artists": [
+        "黄韵龄"
+      ],
+      "album": "台灣歌謠鄉土情",
+      "duration": 338.964,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 26494182,
+      "title": "摇婴仔歌",
+      "artists": [
+        "最好的时光三重奏"
+      ],
+      "album": "旧情绵绵",
+      "duration": 322.466,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1956541512,
+      "title": "摇婴仔歌",
+      "artists": [
+        "新时代轻音乐团"
+      ],
+      "album": "思古幽情 (立体声音乐)",
+      "duration": 150.026,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1965145459,
+      "title": "摇婴仔歌",
+      "artists": [
+        "原野三重唱"
+      ],
+      "album": "台湾民谣, Vol. 2",
+      "duration": 235.826,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1866426908,
+      "title": "摇婴仔歌",
+      "artists": [
+        "幸福男聲合唱團"
+      ],
+      "album": "青春舞曲 (世界民谣集Vol.2)",
+      "duration": 260.358,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1386832772,
+      "title": "搖嬰仔歌",
+      "artists": [
+        "郭香兰",
+        "金澎"
+      ],
+      "album": "台灣兒歌與民謠之旅 (第一集)",
+      "duration": 235.232,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1328348619,
+      "title": "搖嬰仔歌",
+      "artists": [
+        "環球合唱團"
+      ],
+      "album": "杯底不可飼金魚 (中國民謠)",
+      "duration": 263.506,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1882010294,
+      "title": "摇婴仔歌",
+      "artists": [
+        "陈云山"
+      ],
+      "album": "尘旅 (经典吉他民谣演奏)",
+      "duration": 170.839,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1858543322,
+      "title": "搖嬰仔歌",
+      "artists": [
+        "原野三重唱"
+      ],
+      "album": "自然的美声 (伍)",
+      "duration": 238.24,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2639936424,
+      "title": "摇婴仔歌",
+      "artists": [
+        "许惠钧 (Hui-Chun Hsu)"
+      ],
+      "album": "经典童谣乐园 孩子的钢琴摇篮曲",
+      "duration": 227.493,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2121112304,
+      "title": "搖嬰仔歌",
+      "artists": [
+        "透鳴"
+      ],
+      "album": "读梳",
+      "duration": 314.468,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 574908337,
+      "title": "摇婴仔歌",
+      "artists": [
+        "喜从天降"
+      ],
+      "album": "畅游童谣一",
+      "duration": 143.751,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "702818679",
+      "title": "摇婴仔歌",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "真的假的",
+      "duration": 175.907,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1630326246",
+      "title": "摇婴仔歌",
+      "artists": [
+        "新时代轻音乐团"
+      ],
+      "album": "思古幽情 (立体声音乐)",
+      "duration": 150.027,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1440164143",
+      "title": "摇婴仔歌",
+      "artists": [
+        "环球合唱团"
+      ],
+      "album": "杯底不可饲金鱼 (中国民谣)",
+      "duration": 263.507,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1579763121",
+      "title": "摇婴仔歌",
+      "artists": [
+        "幸福男声合唱团"
+      ],
+      "album": "青春舞曲 (世界民谣集Vol.2)",
+      "duration": 260.358,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1677487444",
+      "title": "摇婴仔歌",
+      "artists": [
+        "乡城儿童合唱团"
+      ],
+      "album": "小毛驴 (童谣世界6)",
+      "duration": 153.5,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1694157404",
+      "title": "摇婴仔歌",
+      "artists": [
+        "张杏月"
+      ],
+      "album": "梦中人",
+      "duration": 277.667,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1330908898",
+      "title": "摇婴仔歌",
+      "artists": [
+        "李泰祥"
+      ],
+      "album": "乡土.民谣 第二辑",
+      "duration": 282.709,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1635102919",
+      "title": "摇婴仔歌",
+      "artists": [
+        "原野三重唱"
+      ],
+      "album": "台湾民谣, Vol. 2",
+      "duration": 235.827,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1347807532",
+      "title": "摇婴仔歌",
+      "artists": [
+        "李泰祥"
+      ],
+      "album": "乡 乡土.民谣",
+      "duration": 274.8,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

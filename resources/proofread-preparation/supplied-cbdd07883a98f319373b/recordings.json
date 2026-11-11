@@ -1,0 +1,138 @@
+{
+  "candidates": [
+    {
+      "song_id": 28274207,
+      "title": "点烟",
+      "artists": [
+        "伍佰"
+      ],
+      "album": "《少年吔，安啦！》电影原声带",
+      "duration": 340.466,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 156594,
+      "title": "点烟",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "爱你伍佰年",
+      "duration": 340.985,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 318542,
+      "title": "点烟",
+      "artists": [
+        "于台烟"
+      ],
+      "album": "崩溃",
+      "duration": 267.852,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 156992,
+      "title": "点烟",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "电影歌曲典藏1992-2000",
+      "duration": 340.985,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2015971558,
+      "title": "点烟",
+      "artists": [
+        "Joey",
+        "上课打瞌睡"
+      ],
+      "album": "mixtape vol.2",
+      "duration": 207.943,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 41500540,
+      "title": "点烟",
+      "artists": [
+        "紫小俊Zat"
+      ],
+      "album": "点烟",
+      "duration": 220.249,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2611628501,
+      "title": "点烟",
+      "artists": [
+        "精神小伙"
+      ],
+      "album": "十一年",
+      "duration": 166.208,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2719083724,
+      "title": "点烟",
+      "artists": [
+        "柳絮行"
+      ],
+      "album": "点烟",
+      "duration": 208.272,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3346917609,
+      "title": "点菸",
+      "artists": [
+        "黄木杉"
+      ],
+      "album": "",
+      "duration": 260.458,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2148175591,
+      "title": "点烟",
+      "artists": [
+        "胖妹"
+      ],
+      "album": "草原",
+      "duration": 68.048,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1857492903,
+      "title": "點菸",
+      "artists": [
+        "3ATK"
+      ],
+      "album": "《随你》广播剧原声带",
+      "duration": 73.059,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3346913232,
+      "title": "点菸",
+      "artists": [
+        "黄木杉"
+      ],
+      "album": "",
+      "duration": 302.532,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

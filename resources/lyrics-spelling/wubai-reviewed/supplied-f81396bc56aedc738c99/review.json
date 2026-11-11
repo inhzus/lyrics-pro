@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "id": "supplied-f81396bc56aedc738c99",
+  "revision": "1",
+  "title": "種子",
+  "title_aliases": [],
+  "source_path": "resources/lyrics-spelling/種子-伍佰",
+  "approved": true,
+  "audio_verified": false,
+  "recording": {
+    "reference": "netease:449769021",
+    "duration": 317.371,
+    "album": "钉子花",
+    "title": "种子",
+    "artist": "伍佰 & China Blue"
+  },
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂",
+  "reason": "Join supplied columns and repeated groups; retain 註定 at both corresponding events.",
+  "source_spelling_notes": [],
+  "assignments": [
+    {
+      "source_row": 0,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 1,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 2,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:0",
+        "line-3:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 3,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-6:0",
+        "line-6:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 4,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-9:0",
+        "line-9:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 5,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-12:0",
+        "line-12:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 6,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:0",
+        "line-15:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 7,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-18:0",
+        "line-18:1",
+        "line-18:2",
+        "line-18:3"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 8,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-21:0",
+        "line-21:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 9,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-24:0",
+        "line-24:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 10,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-27:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 11,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-30:0",
+        "line-30:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 12,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-33:0"
+      ],
+      "reason": "Join supplied columns and repeated groups; retain 註定 at both corresponding events."
+    },
+    {
+      "source_row": 13,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-36:0",
+        "line-36:1",
+        "line-36:2"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 14,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-39:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 15,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-42:0",
+        "line-42:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 16,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-45:0",
+        "line-45:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 17,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-48:0",
+        "line-48:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 18,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-51:0",
+        "line-51:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 19,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-54:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 20,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-57:0",
+        "line-57:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 21,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-60:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 22,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-27:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 23,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-30:0",
+        "line-30:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 24,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-33:0"
+      ],
+      "reason": "Join supplied columns and repeated groups; retain 註定 at both corresponding events."
+    },
+    {
+      "source_row": 25,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-36:0",
+        "line-36:1",
+        "line-36:2"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 26,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-39:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    }
+  ],
+  "input_sha256": {
+    "original": "f63a61a2cc516086675e1e0fcbd10eadacf2e6a9651baba7abd389a76d6ea789",
+    "manual": "60ec334759c157200276bc0604a63ff989bff51b5bbc4855d5ea6f18ca4d025e",
+    "timed": "1d1af5f779c6c66588854fe0900acfcbb16e916244b8512a0cdc5cf6cdc4cb2e"
+  }
+}

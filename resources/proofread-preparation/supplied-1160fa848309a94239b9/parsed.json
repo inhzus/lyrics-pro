@@ -1,0 +1,223 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "緊來坐 來坐攏是人客 遮有賣 幸福快樂誠濟",
+      "spelling": "kín lâi tsē lâi tsē lóng sī lâng-kheh jia ū buē hīng-hok khuài-lo̍k tsiânn tsuē",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "酒一杯 啊保證開心花 不信將你的鞋褪落來博杯 喂",
+      "spelling": "tsiú tsi̍t pue ah pó-tsìng khui-sim hue m̄ sìn tsiòng lí ê ê thǹg lo̍h lâi phuah pue ueh",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "咱大家 身份無分懸低 心內話 毋通藏佇心底",
+      "spelling": "lán ta̍k-ke sin-hūn bô hun kuân-kē sim-lāi-uē m̄-thang tshàng tī sim té",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "我奉陪 踮飄撇的天地 揣一條歌啦 咱做伙來Ｋ",
+      "spelling": "guá hōng-puê liam phiau-phiat ê thinn-tē tshuē tsi̍t tiâu kua là lán tsò-hué lâi K",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "有緣千里燒酒乾一杯 無緣啉落朋友加一個",
+      "spelling": "ū-iân tshian-lí sio-tsiú kan tsi̍t pue bô-iân lim lo̍h pîng-iú ke tsi̍t ê",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "盡量啉啦論杯無論歲 啉就啉 莫擱四界花",
+      "spelling": "tsīn-liōng lim là lūn pue bô-lūn huè lim tio̍h lim mài koh sì-kè hue",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "酒無啉 欲如何來交陪 歌無Ｋ 對不起咱社會",
+      "spelling": "tsiú bô lim beh lû-hô lâi kau-puê kua bô K tuì-put-khí lán siā-huē",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "請大家 有閒較捷來坐 有情人千里相會 乾杯萬萬歲",
+      "spelling": "tshiánn ta̍k-ke ū îng khah tsia̍p lâi tsē ū-tsîng lâng tshian-lí siong-huē kan-pue bān-bān suè",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "緊來坐 來坐攏是人客 遮有賣 幸福快樂誠濟",
+      "spelling": "kín lâi tsē lâi tsē lóng sī lâng-kheh jia ū buē hīng-hok khuài-lo̍k tsiânn tsuē",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "酒一杯 啊保證開心花 不信將你的鞋褪落來博杯 喂",
+      "spelling": "tsiú tsi̍t pue ah pó-tsìng khui-sim hue m̄ sìn tsiòng lí ê ê thǹg lo̍h lâi phuah pue ueh",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "咱大家 身份無分懸低 心內話 毋通藏佇心底",
+      "spelling": "lán ta̍k-ke sin-hūn bô hun kuân-kē sim-lāi-uē m̄-thang tshàng tī sim té",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "我奉陪 踮飄撇的天地 揣一條歌啦 咱做伙來Ｋ",
+      "spelling": "guá hōng-puê liam phiau-phiat ê thinn-tē tshuē tsi̍t tiâu kua là lán tsò-hué lâi K",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "有緣千里燒酒乾一杯 無緣啉落朋友加一個",
+      "spelling": "ū-iân tshian-lí sio-tsiú kan tsi̍t pue bô-iân lim lo̍h pîng-iú ke tsi̍t ê",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "盡量啉啦論杯無論歲 啉就啉 莫擱四界花",
+      "spelling": "tsīn-liōng lim là lūn pue bô-lūn huè lim tio̍h lim mài koh sì-kè hue",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "酒無啉 欲如何來交陪 歌無Ｋ 對不起咱社會",
+      "spelling": "tsiú bô lim beh lû-hô lâi kau-puê kua bô K tuì-put-khí lán siā-huē",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "請大家 有閒較捷來坐 有情人千里相會 乾杯萬萬歲",
+      "spelling": "tshiánn ta̍k-ke ū îng khah tsia̍p lâi tsē ū-tsîng lâng tshian-lí siong-huē kan-pue bān-bān suè",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "有緣千里燒酒乾一杯 無緣啉落朋友加一個",
+      "spelling": "ū-iân tshian-lí sio-tsiú kan tsi̍t pue bô-iân lim lo̍h pîng-iú ke tsi̍t ê",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "盡量啉啦論杯無論歲 啉就啉 莫擱四界花",
+      "spelling": "tsīn-liōng lim là lūn pue bô-lūn huè lim tio̍h lim mài koh sì-kè hue",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "無問題 來卡拉做陣Ｋ 孤一個 的人生無及格",
+      "spelling": "bô būn-tê lâi kha-lá tsò-tīn K koo tsi̍t ê ê lîn-sing bô ki̍p-keh",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "一句話 啊朋友無嫌濟 一條歌摧落 唱予大聲免歹勢",
+      "spelling": "tsi̍t kù uē ah pîng-iú bô hiâm tsuè tsi̍t tiâu kua tshui lo̍h tshiùnn hōo tuā-siann bián pháinn-sè",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "酒無啉 欲如何來交陪 歌無Ｋ 對不起咱社會",
+      "spelling": "tsiú bô lim beh lû-hô lâi kau-puê kua bô K tuì-put-khí lán siā-huē",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "請大家 有閒較捷來坐 有情人千里相會 乾杯萬萬歲",
+      "spelling": "tshiánn ta̍k-ke ū îng khah tsia̍p lâi tsē ū-tsîng lâng tshian-lí siong-huē kan-pue bān-bān suè",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "有情人千里相會 乾杯萬萬歲",
+      "spelling": "ū-tsîng lâng tshian-lí siong-huē kan-pue bān-bān suè",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "有情人千里相會 乾啦",
+      "spelling": "ū-tsîng lâng tshian-lí siong-huē kan là",
+      "source_lines": [
+        70,
+        71
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

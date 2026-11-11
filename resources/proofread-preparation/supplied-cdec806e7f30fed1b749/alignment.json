@@ -1,0 +1,889 @@
+{
+  "recording_id": "netease:39224836",
+  "timing_source": "NetEase https://music.163.com/song?id=39224836",
+  "manual_source": "User-supplied resources/lyrics-spelling/老厝邊-台客電力公司",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 44,
+    "approximate": 14,
+    "exact": 5
+  },
+  "review_row_count": 58,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-39:0",
+    "line-42:0",
+    "line-45:0",
+    "line-48:0",
+    "line-66:0",
+    "line-69:0",
+    "line-72:0",
+    "line-75:0",
+    "line-78:0",
+    "line-81:0",
+    "line-84:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 柯大堡",
+      "match_text": "作词 : 柯大堡",
+      "text": "作词 : 柯大堡",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 柯大堡",
+      "match_text": "作曲 : 柯大堡",
+      "text": "作曲 : 柯大堡",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 15.46,
+      "online_text": "（食饱未）",
+      "match_text": "（食饱未）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 16.47,
+      "online_text": "（犹未呢）",
+      "match_text": "（犹未呢）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 17.45,
+      "online_text": "（来阮遐食饭啊）",
+      "match_text": "（来阮遐食饭啊）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 18.41,
+      "online_text": "（免啦免啦，按呢会共汝麻烦）",
+      "match_text": "（免啦免啦，按呢会共汝麻烦）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 19.63,
+      "online_text": "（袂啦，咱做伙）",
+      "match_text": "（袂啦，咱做伙）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 20.58,
+      "online_text": "（毋是啦，我转去食着好啦）",
+      "match_text": "（毋是啦，我转去食着好啦）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 21.68,
+      "online_text": "（三八啊，咱家己侬，汝是……）",
+      "match_text": "（三八啊，咱家己侬，汝是……）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 37.49,
+      "online_text": "上好料毋免看功夫 来阮遐着有",
+      "match_text": "上好料毋免看功夫 来阮遐着有",
+      "text": "上好料毋免看功夫 來阮遐就有",
+      "spelling": "siōng-hó liāu m̄-bián khuànn kang-hu lâi gún hiâ tio̍h ū",
+      "manual_id": "line-3:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 10,
+      "time": 40.97,
+      "online_text": "食饱佫唱歌兼跳舞喔",
+      "match_text": "食饱佫唱歌兼跳舞喔",
+      "text": "食飽擱唱歌兼跳舞喔",
+      "spelling": "tsia̍h-pá koh tshiùnn-kua kiam thiàu-bú ooh",
+      "manual_id": "line-6:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 11,
+      "time": 44.89,
+      "online_text": "免惊会毋捌 以早的朋友",
+      "match_text": "免惊会毋捌 以早的朋友",
+      "text": "免驚會毋捌 啊以早的朋友",
+      "spelling": "bián-kiann ē m̄ bat ah í-tsá ê pîng-iú",
+      "manual_id": "line-9:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.952381
+    },
+    {
+      "source_row": 12,
+      "time": 48.44,
+      "online_text": "开讲咱厝边 往过的故事",
+      "match_text": "开讲咱厝边 往过的故事",
+      "text": "開講咱厝邊 往過的故事",
+      "spelling": "khai-káng lán tshù-pinn íng-kuè ê kòo-sū",
+      "manual_id": "line-12:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 55.85,
+      "online_text": "勇伯啊 怹囝敖读书啊 事业嘛诚敖舞",
+      "match_text": "勇伯啊 怹囝敖读书啊 事业嘛诚敖舞",
+      "text": "勇伯啊怹囝敖讀書啊 事業嘛真敖舞",
+      "spelling": "ióng peh ah in kiánn gâu tha̍k-tsu ah sū-gia̍p mā tsin gâu bú",
+      "manual_id": "line-15:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.933333
+    },
+    {
+      "source_row": 14,
+      "time": 59.88,
+      "online_text": "牵予怹老爸啊 一只Benz喔",
+      "match_text": "牵予怹老爸啊 一只Benz喔",
+      "text": "牽予怹老爸啊一隻Benz喔",
+      "spelling": "khan hōo in lāu-pē ah tsi̍t tsiah Benz ooh",
+      "manual_id": "line-18:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 63.7,
+      "online_text": "啊顶个月 佫起新厝",
+      "match_text": "啊顶个月 佫起新厝",
+      "text": "啊頂個月 擱起新厝",
+      "spelling": "ah tíng kò ge̍h koh khí sin-tshù",
+      "manual_id": "line-21:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 16,
+      "time": 65.33,
+      "online_text": "阮伫路呢 相拄 笑讲当初煞无侬看伊有",
+      "match_text": "阮伫路呢 相拄 笑讲当初煞无侬看伊有",
+      "text": "阮佇路哩相拄 笑講當初煞無人看伊有",
+      "spelling": "gún tī lōo lí sio-tú tshiò kóng tong-tshoo sannh bô-lâng khuànn i ū",
+      "manual_id": "line-24:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 17,
+      "time": 71.19,
+      "online_text": "（勇伯啊！诚久无看呢！）",
+      "match_text": "（勇伯啊！诚久无看呢！）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 72.76,
+      "online_text": "（喔！汝转来呢！）",
+      "match_text": "（喔！汝转来呢！）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 73.65,
+      "online_text": "（喔～气色遮好！诚好诚好！）",
+      "match_text": "（喔～气色遮好！诚好诚好！）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 74.88,
+      "online_text": "（ 嘿啊嘿啊！啊汝咧？汝好无？）",
+      "match_text": "（ 嘿啊嘿啊！啊汝咧？汝好无？）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 75.88,
+      "online_text": "（OK，袂䆀袂䆀，嘿啊。）",
+      "match_text": "（OK，袂䆀袂䆀，嘿啊。）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 76.87,
+      "online_text": "（ 好好！诚好诚好！）",
+      "match_text": "（ 好好！诚好诚好！）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 77.67,
+      "online_text": "（来阮兜食饭啊！做伙做伙乎！）",
+      "match_text": "（来阮兜食饭啊！做伙做伙乎！）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 78.95,
+      "online_text": "鸭咪仔怹大姊 落尾啊嫁去洛杉矶",
+      "match_text": "鸭咪仔怹大姊 落尾啊嫁去洛杉矶",
+      "text": "鴨咪仔怹大姊 落尾啊嫁去洛杉磯",
+      "spelling": "ah-bî-á in tuā-tsí lo̍h-bué ah kè khì lo̍k sam ki",
+      "manual_id": "line-27:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.928571
+    },
+    {
+      "source_row": 25,
+      "time": 82.36,
+      "online_text": "听讲怹翁是趁了诚济钱喔",
+      "match_text": "听讲怹翁是趁了诚济钱喔",
+      "text": "聽講怹翁是趁了誠濟錢喔",
+      "spelling": "thiann-kóng in ang sī thàn liáu tsiânn tsē tsînn ooh",
+      "manual_id": "line-30:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 86.15,
+      "online_text": "等一个金孙等半年啊 见无一面",
+      "match_text": "等一个金孙等半年啊 见无一面",
+      "text": "等一個金孫等半年啊 見無一面",
+      "spelling": "tán tsi̍t ê kim-sun tán puànn-nî ah kiàn bô tsi̍t-bīn",
+      "manual_id": "line-33:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 27,
+      "time": 89.72,
+      "online_text": "䞐怹老母啊佮伊咧厝哩",
+      "match_text": "䞐怹老母啊佮伊咧厝哩",
+      "text": "賰怹老母啊佮伊底厝裡",
+      "spelling": "tshun in lāu-bú ah kah i té tshù lí",
+      "manual_id": "line-36:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 28,
+      "time": 93.88,
+      "online_text": "（鸭咪仔！）",
+      "match_text": "（鸭咪仔！）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 94.95,
+      "online_text": "（ 汝啥侬？）",
+      "match_text": "（ 汝啥侬？）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 95.54,
+      "online_text": "（恁母啊伫歇睏喔！）",
+      "match_text": "（恁母啊伫歇睏喔！）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 96.19,
+      "online_text": "（喔！汝转来啰？）",
+      "match_text": "（喔！汝转来啰？）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 96.82,
+      "online_text": "（嘘，莫共吵莫共吵！ ）",
+      "match_text": "（嘘，莫共吵莫共吵！ ）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 97.42,
+      "online_text": "（下暗曳伊来阮兜食饭乎！ ）",
+      "match_text": "（下暗曳伊来阮兜食饭乎！ ）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 98.82,
+      "online_text": "（有啦，阮灶骹许号….）",
+      "match_text": "（有啦，阮灶骹许号….）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 99.84,
+      "online_text": "（嘿！免煮免煮！先按呢！）",
+      "match_text": "（嘿！免煮免煮！先按呢！）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 101.22,
+      "online_text": "唱咱的Melody 汝心凉脾肚开",
+      "match_text": "唱咱的Melody 汝心凉脾肚开",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 104.85,
+      "online_text": "老朋友来斗阵 是欢喜的事志",
+      "match_text": "老朋友来斗阵 是欢喜的事志",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 108.55,
+      "online_text": "唱咱的Melody 汝心凉脾肚开",
+      "match_text": "唱咱的Melody 汝心凉脾肚开",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 112.35,
+      "online_text": "烦恼共放予去啊 腹内是全趣味",
+      "match_text": "烦恼共放予去啊 腹内是全趣味",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 116.05,
+      "online_text": "予咱 好过日喔",
+      "match_text": "予咱 好过日喔",
+      "text": "予咱～好過日哦",
+      "spelling": "hōo lán ～ hó-kuè li̍t oh",
+      "manual_id": "line-51:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 41,
+      "time": 138.61,
+      "online_text": "离家多年的关心 嘛袂走精",
+      "match_text": "离家多年的关心 嘛袂走精",
+      "text": "離家多年啊的關心 嘛袂走精",
+      "spelling": "lī-ka to-nî ah ê kuan-sim mā buē tsáu-tsing",
+      "manual_id": "line-54:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.956522
+    },
+    {
+      "source_row": 42,
+      "time": 141.45,
+      "online_text": "天下间着是台湾上惜情",
+      "match_text": "天下间着是台湾上惜情",
+      "text": "天下間就是台灣上惜情哦",
+      "spelling": "thian-hā kan tio̍h-sī Tâi-uân siōng sioh tsîng oh",
+      "manual_id": "line-57:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 43,
+      "time": 146.07,
+      "online_text": "街仔头 巷仔尾 厝边若亲情遐尔亲",
+      "match_text": "街仔头 巷仔尾 厝边若亲情遐尔亲",
+      "text": "街仔頭 巷仔尾 厝邊若親戚彼呢親",
+      "spelling": "ke-á-thâu hāng-á bué tshù pinn ná tshin-tsiânn hiah-nī tshin",
+      "manual_id": "line-60:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.785714
+    },
+    {
+      "source_row": 44,
+      "time": 149.72,
+      "online_text": "定定嘛喝欲办一桌请汝",
+      "match_text": "定定嘛喝欲办一桌请汝",
+      "text": "定定嘛喝欲辦一桌請你",
+      "spelling": "tiānn-tiānn mā huah buē pān tsi̍t toh tshiánn lí",
+      "manual_id": "line-63:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 45,
+      "time": 153.61,
+      "online_text": "唱咱的Melody 汝心凉脾肚开",
+      "match_text": "唱咱的Melody 汝心凉脾肚开",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 157.27,
+      "online_text": "老朋友来斗阵 是欢喜的事志",
+      "match_text": "老朋友来斗阵 是欢喜的事志",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 161.0,
+      "online_text": "唱咱的Melody 汝心凉脾肚开",
+      "match_text": "唱咱的Melody 汝心凉脾肚开",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 48,
+      "time": 164.72,
+      "online_text": "烦恼共放予去啊 腹内是全趣味",
+      "match_text": "烦恼共放予去啊 腹内是全趣味",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 49,
+      "time": 168.58,
+      "online_text": "唱咱的Melody 汝心凉脾肚开",
+      "match_text": "唱咱的Melody 汝心凉脾肚开",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 50,
+      "time": 172.16,
+      "online_text": "老朋友来斗阵 是欢喜的事志",
+      "match_text": "老朋友来斗阵 是欢喜的事志",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 51,
+      "time": 176.02,
+      "online_text": "唱咱的Melody 汝心凉脾肚开",
+      "match_text": "唱咱的Melody 汝心凉脾肚开",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 52,
+      "time": 179.58,
+      "online_text": "自今仔日开始 世界的大门开",
+      "match_text": "自今仔日开始 世界的大门开",
+      "text": "自今仔日開始 世界的大門開",
+      "spelling": "tsū kin-á-ji̍t khai-sí sè-kài ê tuā-mn̂g khui",
+      "manual_id": "line-87:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 53,
+      "time": 183.58,
+      "online_text": "予咱 行出来去喔",
+      "match_text": "予咱 行出来去喔",
+      "text": "予咱～行出來去喔",
+      "spelling": "hōo lán ~ kiânn tshut-lâi khì ooh",
+      "manual_id": "line-90:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 54,
+      "time": 205.85,
+      "online_text": "（勇伯啊！ ）",
+      "match_text": "（勇伯啊！ ）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 55,
+      "time": 207.6,
+      "online_text": "（啊？）",
+      "match_text": "（啊？）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 56,
+      "time": 208.09,
+      "online_text": "（啊侬食饭饱拢伫咧跳舞，汝佫坐伫遐？ ）",
+      "match_text": "（啊侬食饭饱拢伫咧跳舞，汝佫坐伫遐？ ）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 57,
+      "time": 209.98,
+      "online_text": "（坐伤久啊，骹麻……）",
+      "match_text": "（坐伤久啊，骹麻……）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 58,
+      "time": 211.87,
+      "online_text": "（哈？）",
+      "match_text": "（哈？）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 59,
+      "time": 212.66,
+      "online_text": "（骹麻去啦！）",
+      "match_text": "（骹麻去啦！）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 60,
+      "time": 213.76,
+      "online_text": "（按呢喔？）",
+      "match_text": "（按呢喔？）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 61,
+      "time": 214.43,
+      "online_text": "（啊我共你扶，共你扶）",
+      "match_text": "（啊我共你扶，共你扶）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 62,
+      "time": 215.79,
+      "online_text": "（喔！谢谢，谢谢！）",
+      "match_text": "（喔！谢谢，谢谢！）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 63,
+      "time": 216.74,
+      "online_text": "（嘿～行较慢，行较慢咧！）",
+      "match_text": "（嘿～行较慢，行较慢咧！）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 64,
+      "time": 217.88,
+      "online_text": "（ 乎～险仔袂行路！）",
+      "match_text": "（ 乎～险仔袂行路！）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "640611649408119d1c673ec210fb635709064fd3337dfe5890d122fff0c7aa5a",
+    "manual": "202ddca02937220af0758e42a82f45e0abb09db62fb4b1c09f8a5ecb51615535",
+    "timed": "61c21b0e26fcd89aa31c22d130df0a2b1614a72d9028590e25687f6d6afc25f5"
+  }
+}

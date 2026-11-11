@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 69184,
+      "title": "飘浪的人",
+      "artists": [
+        "陈雷"
+      ],
+      "album": "人在江湖",
+      "duration": 233.106,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1936162986,
+      "title": "飄浪的人",
+      "artists": [
+        "陳玉雙"
+      ],
+      "album": "情難忘意難忘 (台語專輯)",
+      "duration": 226.866,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2730683279,
+      "title": "飘浪的人",
+      "artists": [
+        "幸运空气"
+      ],
+      "album": "日头落山",
+      "duration": 267.428,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

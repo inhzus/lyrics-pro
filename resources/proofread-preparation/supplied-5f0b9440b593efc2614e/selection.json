@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "song_id": "1230303046",
+    "title": "走钟",
+    "artists": [
+      "孩子王"
+    ],
+    "album": "最窘丸",
+    "duration": 273.321,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1230303046",
+      "duration": 273.321,
+      "ready": false,
+      "coverage": 0.7222222222222222,
+      "exact_fraction": 0.7222222222222222,
+      "summary": {
+        "repeat": 26,
+        "unresolved": 10
+      }
+    }
+  ]
+}

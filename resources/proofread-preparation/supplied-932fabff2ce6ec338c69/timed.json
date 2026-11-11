@@ -1,0 +1,56 @@
+{
+  "recording_id": "netease:350182",
+  "source": "NetEase https://music.163.com/song?id=350182",
+  "lines": [
+    {
+      "time": 0,
+      "text": "作词 : 川秋沙",
+      "kind": "credit"
+    },
+    {
+      "time": 1.0,
+      "text": "作曲 : 川秋沙",
+      "kind": "credit"
+    },
+    {
+      "time": 86.58,
+      "text": "那丛盛开的花朵 闻到我们思念的气味",
+      "kind": "lyric"
+    },
+    {
+      "time": 101.39,
+      "text": "阵阵淡淡的香味 那段冲动过后的空虚",
+      "kind": "lyric"
+    },
+    {
+      "time": 115.36,
+      "text": "是光线太过迷濛 青春的日子就像梦",
+      "kind": "lyric"
+    },
+    {
+      "time": 130.99,
+      "text": "过去还是那么深 牵绊我现在的日子",
+      "kind": "lyric"
+    },
+    {
+      "time": 175.4,
+      "text": "怨妒少年时的面容 美丽单纯又倔强",
+      "kind": "lyric"
+    },
+    {
+      "time": 190.32,
+      "text": "是否花开正不对时 怨叹又稀嘘",
+      "kind": "lyric"
+    },
+    {
+      "time": 207.35,
+      "text": "昨日之时 含苞待放 明日之时 凋谢欲落",
+      "kind": "lyric"
+    },
+    {
+      "time": 222.34,
+      "text": "花开花落 春风秋雨 人海茫茫 浮浮沉沉",
+      "kind": "lyric"
+    }
+  ]
+}

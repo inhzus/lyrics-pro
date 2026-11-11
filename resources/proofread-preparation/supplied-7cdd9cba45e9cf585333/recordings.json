@@ -1,0 +1,29 @@
+{
+  "candidates": [
+    {
+      "song_id": 1389914027,
+      "title": "慶端陽",
+      "artists": [
+        "金澎",
+        "江欣子",
+        "七仙女合唱團"
+      ],
+      "album": "歡喜台灣節1",
+      "duration": 246.026,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 32710778,
+      "title": "慶端陽",
+      "artists": [
+        "黑名單工作室"
+      ],
+      "album": "抓狂歌",
+      "duration": 290.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

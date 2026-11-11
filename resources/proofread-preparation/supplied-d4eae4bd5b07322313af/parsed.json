@@ -1,0 +1,456 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "拜勒請                     眾神明                      下凡塵",
+      "spelling": "pài leh tshiánn     tsiòng-sîn bîng        hā-huān tîn",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "拜勒請",
+          "spelling": "pài leh tshiánn"
+        },
+        {
+          "text": "眾神明",
+          "spelling": "tsiòng-sîn bîng"
+        },
+        {
+          "text": "下凡塵",
+          "spelling": "hā-huān tîn"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "金身顯現在壇前~                                         庇佑弟子保安寧",
+      "spelling": "kim-sin hiánn hiān tsāi tuânn tsiân      pì-iū tē-tsú pó an-lîng",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "金身顯現在壇前~",
+          "spelling": "kim-sin hiánn hiān tsāi tuânn tsiân"
+        },
+        {
+          "text": "庇佑弟子保安寧",
+          "spelling": "pì-iū tē-tsú pó an-lîng"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "法鼓啊                  神兵呦                   展神通",
+      "spelling": "huat kóo ah        sîn-ping yōu        tián sîn thong",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "法鼓啊",
+          "spelling": "huat kóo ah"
+        },
+        {
+          "text": "神兵呦",
+          "spelling": "sîn-ping yōu"
+        },
+        {
+          "text": "展神通",
+          "spelling": "tián sîn thong"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "消災解厄有庇蔭~                      萬事祈求皆有應",
+      "spelling": "siau-tsai kái-eh ū tì-ìm          bān-sū kî-kiû kai ū ìn",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "消災解厄有庇蔭~",
+          "spelling": "siau-tsai kái-eh ū tì-ìm"
+        },
+        {
+          "text": "萬事祈求皆有應",
+          "spelling": "bān-sū kî-kiû kai ū ìn"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "拜請玄壇諸猛將                                              衛國金剛龍樹王",
+      "spelling": "pài tshiánn siat tuânn tsu bíng-tsiòng    uē kok kim kong liông tshiū ông",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "拜請玄壇諸猛將",
+          "spelling": "pài tshiánn siat tuânn tsu bíng-tsiòng"
+        },
+        {
+          "text": "衛國金剛龍樹王",
+          "spelling": "uē kok kim kong liông tshiū ông"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "北極真武大將軍                                 儒家一切頭如雲",
+      "spelling": "pak-ki̍k tsin bú tuā tsiong-kun     lû-ka it-tshè thâu ná hûn",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "北極真武大將軍",
+          "spelling": "pak-ki̍k tsin bú tuā tsiong-kun"
+        },
+        {
+          "text": "儒家一切頭如雲",
+          "spelling": "lû-ka it-tshè thâu ná hûn"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "普猛將軍大菩薩                                         三世張公下玄壇",
+      "spelling": "phóo bíng tsiong-kun tāi phôo-sat       sann sè tiunn kong hā hiân tuânn",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "普猛將軍大菩薩",
+          "spelling": "phóo bíng tsiong-kun tāi phôo-sat"
+        },
+        {
+          "text": "三世張公下玄壇",
+          "spelling": "sann sè tiunn kong hā hiân tuânn"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "觀音水府威顯現                                  泗洲佛祖座九堂",
+      "spelling": "kuan-im tsuí hú ui hián-hiān        sì tsiu pu̍t-tsóo tsō kiú tông",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "觀音水府威顯現",
+          "spelling": "kuan-im tsuí hú ui hián-hiān"
+        },
+        {
+          "text": "泗洲佛祖座九堂",
+          "spelling": "sì tsiu pu̍t-tsóo tsō kiú tông"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "清水泰山全下降                                            八台金光六天王",
+      "spelling": "tshing-tsuí thài-san tsuân hā-kàng         pat tâi kim-kng la̍k thian-ông",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "清水泰山全下降",
+          "spelling": "tshing-tsuí thài-san tsuân hā-kàng"
+        },
+        {
+          "text": "八台金光六天王",
+          "spelling": "pat tâi kim-kng la̍k thian-ông"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "香山雪山二大聖                                      金珠銀珠吐珠郎",
+      "spelling": "hiong-san suat-suann jī tāi-sìng        kim tsu gîn tsu thóo tsu lông",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "香山雪山二大聖",
+          "spelling": "hiong-san suat-suann jī tāi-sìng"
+        },
+        {
+          "text": "金珠銀珠吐珠郎",
+          "spelling": "kim tsu gîn tsu thóo tsu lông"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "都天元帥統天兵                                                    哪吒殺鬼虎珈羅",
+      "spelling": "to thinn guân-suè tháng thinn phiann          tó tsha sat kuí hóo jiā luó",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "都天元帥統天兵",
+          "spelling": "to thinn guân-suè tháng thinn phiann"
+        },
+        {
+          "text": "哪吒殺鬼虎珈羅",
+          "spelling": "tó tsha sat kuí hóo jiā luó"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "三世諸佛全下降                                      十方一切降道場",
+      "spelling": "sann-sè tsu pu̍t tsuân hā-kàng           si̍p hong it-tshè kàng tō-tiûnn",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "三世諸佛全下降",
+          "spelling": "sann-sè tsu pu̍t tsuân hā-kàng"
+        },
+        {
+          "text": "十方一切降道場",
+          "spelling": "si̍p hong it-tshè kàng tō-tiûnn"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "法門弟子專拜請                                              玄壇猛將降臨來",
+      "spelling": "huat-mn̂g tē-tsú tsuan pài tshiánn         hiân tuânn bíng tsiong tshiánn lîm lâi",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "法門弟子專拜請",
+          "spelling": "huat-mn̂g tē-tsú tsuan pài tshiánn"
+        },
+        {
+          "text": "玄壇猛將降臨來",
+          "spelling": "hiân tuânn bíng tsiong tshiánn lîm lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "神兵火急如律令                              神兵火急如律令",
+      "spelling": "sîn-ping hué-kip jû lu̍t līng         sîn-ping hué-kip jû lu̍t līng",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "神兵火急如律令",
+          "spelling": "sîn-ping hué-kip jû lu̍t līng"
+        },
+        {
+          "text": "神兵火急如律令",
+          "spelling": "sîn-ping hué-kip jû lu̍t līng"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "拜勒請                         眾神明                       下凡塵",
+      "spelling": "pài lehtshiánn          tsiòng-sîn bîng        hā-huān tîn",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "拜勒請",
+          "spelling": "pài lehtshiánn"
+        },
+        {
+          "text": "眾神明",
+          "spelling": "tsiòng-sîn bîng"
+        },
+        {
+          "text": "下凡塵",
+          "spelling": "hā-huān tîn"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "金身顯現在壇前~                                          庇佑弟子保安寧",
+      "spelling": "kim-sin hiánn hiān tsāi tuânn tsiân       pì-iū tē-tsú pó an-lîng",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "金身顯現在壇前~",
+          "spelling": "kim-sin hiánn hiān tsāi tuânn tsiân"
+        },
+        {
+          "text": "庇佑弟子保安寧",
+          "spelling": "pì-iū tē-tsú pó an-lîng"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "法鼓啊                  神兵呦                    展神通",
+      "spelling": "huat kóo ah        sîn-ping yōu         tián sîn thong",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "法鼓啊",
+          "spelling": "huat kóo ah"
+        },
+        {
+          "text": "神兵呦",
+          "spelling": "sîn-ping yōu"
+        },
+        {
+          "text": "展神通",
+          "spelling": "tián sîn thong"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "消災解厄有庇蔭~                    萬事祈求皆有應",
+      "spelling": "siau-tsai kái-eh ū tì-ìm        bān-sū kî-kiû kai ū ìm",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "消災解厄有庇蔭~",
+          "spelling": "siau-tsai kái-eh ū tì-ìm"
+        },
+        {
+          "text": "萬事祈求皆有應",
+          "spelling": "bān-sū kî-kiû kai ū ìm"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "拜勒請                      眾神明                       下凡塵",
+      "spelling": "pài leh tshiánn      tsiòng-sîn bîng        hā-huān tîn",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "拜勒請",
+          "spelling": "pài leh tshiánn"
+        },
+        {
+          "text": "眾神明",
+          "spelling": "tsiòng-sîn bîng"
+        },
+        {
+          "text": "下凡塵",
+          "spelling": "hā-huān tîn"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "金身顯現在壇前~                                           庇佑弟子保安寧",
+      "spelling": "kim-sin hiánn hiān tsāi tuânn tsiân        pì-iū tē-tsú pó an-lîng",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "金身顯現在壇前~",
+          "spelling": "kim-sin hiánn hiān tsāi tuânn tsiân"
+        },
+        {
+          "text": "庇佑弟子保安寧",
+          "spelling": "pì-iū tē-tsú pó an-lîng"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "法鼓啊                  神兵呦                     展神通",
+      "spelling": "huat kóo ah        sîn-ping yōu          tián sîn thong",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "法鼓啊",
+          "spelling": "huat kóo ah"
+        },
+        {
+          "text": "神兵呦",
+          "spelling": "sîn-ping yōu"
+        },
+        {
+          "text": "展神通",
+          "spelling": "tián sîn thong"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "消災解厄有庇蔭~                      萬事祈求皆有應",
+      "spelling": "siau-tsai kái-eh ū tì-ìm           bān-sū kî-kiû kai ū ìn",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "消災解厄有庇蔭~",
+          "spelling": "siau-tsai kái-eh ū tì-ìm"
+        },
+        {
+          "text": "萬事祈求皆有應",
+          "spelling": "bān-sū kî-kiû kai ū ìn"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳永吉&玄壇猛將   作曲：吳永吉  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "recording_id": "netease:386177",
+  "timing_source": "NetEase https://music.163.com/song?id=386177",
+  "manual_source": "User-supplied resources/lyrics-spelling/垃圾車-五月天",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 3,
+    "exact": 18,
+    "repeat": 9,
+    "unresolved": 17
+  },
+  "review_row_count": 35,
+  "unmatched_manual_ids": [
+    "line-33:0",
+    "line-33:1"
+  ],
+  "unused_repeat_ids": [
+    "line-15:1",
+    "line-15:2",
+    "line-18:0",
+    "line-18:1",
+    "line-21:1",
+    "line-21:2",
+    "line-24:0",
+    "line-36:1",
+    "line-36:2",
+    "line-39:0",
+    "line-39:1",
+    "line-42:1",
+    "line-42:2",
+    "line-45:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "编曲 : 五月天",
+      "match_text": "编曲 : 五月天",
+      "text": "编曲 : 五月天",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作词 : 五月天 阿信",
+      "match_text": "作词 : 五月天 阿信",
+      "text": "作词 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "作曲 : 五月天 阿信",
+      "match_text": "作曲 : 五月天 阿信",
+      "text": "作曲 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 30.81,
+      "online_text": "虽然你脾气坏",
+      "match_text": "虽然你脾气坏",
+      "text": "雖然你脾氣壞",
+      "spelling": "sui-liân lí phî-khì pháinn",
+      "manual_id": "line-3:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 33.29,
+      "online_text": "对待朋友又差",
+      "match_text": "对待朋友又差",
+      "text": "對待朋友又差",
+      "spelling": "tuì-thāi pîng-iú koh tsha",
+      "manual_id": "line-3:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 35.51,
+      "online_text": "凸槌又更爱牵拖",
+      "match_text": "凸槌又更爱牵拖",
+      "text": "凸槌又更愛牽拖",
+      "spelling": "khok thuî iū ài khan-thua",
+      "manual_id": "line-3:2",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 40.06,
+      "online_text": "佳在你遇到我",
+      "match_text": "佳在你遇到我",
+      "text": "佳在你遇到我",
+      "spelling": "ka tsāi lí gū-tio̍h guá",
+      "manual_id": "line-6:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 42.13,
+      "online_text": "不爱计较的我",
+      "match_text": "不爱计较的我",
+      "text": "不愛計較的我",
+      "spelling": "bô ài kè-kàu ê guá",
+      "manual_id": "line-6:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 44.25,
+      "online_text": "算你坏人有好命",
+      "match_text": "算你坏人有好命",
+      "text": "算你壞人有好命",
+      "spelling": "sǹg lí pháinn-lâng ū hó-miā",
+      "manual_id": "line-6:2",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 48.04,
+      "online_text": "我走路你坐车",
+      "match_text": "我走路你坐车",
+      "text": "我走路你坐車",
+      "spelling": "guá kiânn-lōo lí tsē-tshia",
+      "manual_id": "line-9:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 50.95,
+      "online_text": "你吃饭我洗碗",
+      "match_text": "你吃饭我洗碗",
+      "text": "你吃飯我洗碗",
+      "spelling": "lí tsia̍h-pn̄g guá sé-uán",
+      "manual_id": "line-9:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 52.97,
+      "online_text": "你被欺负我拼命",
+      "match_text": "你被欺负我拼命",
+      "text": "你被欺負我拼命",
+      "spelling": "lí hōo khi-hū guá piànn-miā",
+      "manual_id": "line-9:2",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 57.49,
+      "online_text": "若为了爽到你",
+      "match_text": "若为了爽到你",
+      "text": "若為了爽到你",
+      "spelling": "ná uī-tio̍h sóng tio̍h lí",
+      "manual_id": "line-12:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 59.67,
+      "online_text": "可以艰苦到我",
+      "match_text": "可以艰苦到我",
+      "text": "可以艱苦到我",
+      "spelling": "ē-sái kan-khóo tio̍h guá",
+      "manual_id": "line-12:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 61.89,
+      "online_text": "因为 咱缘分不可散",
+      "match_text": "因为 咱缘分不可散",
+      "text": "因為咱緣分不可散",
+      "spelling": "in-uī lán iân hun m̄ thang suánn",
+      "manual_id": "line-12:2",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 65.83,
+      "online_text": "有你 我才未孤单",
+      "match_text": "有你 我才未孤单",
+      "text": "有你我才未孤單",
+      "spelling": "ū lí guá tsiah buē koo-tuann",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 69.32,
+      "online_text": "有你的陪伴 我才有靠山",
+      "match_text": "有你的陪伴 我才有靠山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 74.05,
+      "online_text": "你若不爽 我是你的垃圾车",
+      "match_text": "你若不爽 我是你的垃圾车",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 79.57,
+      "online_text": "每天 听你的心声",
+      "match_text": "每天 听你的心声",
+      "text": "每天聽你的心聲",
+      "spelling": "ta̍k-kang thiann lí ê sim-siann",
+      "manual_id": "line-18:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 83.93,
+      "online_text": "有你 我才未孤单",
+      "match_text": "有你 我才未孤单",
+      "text": "有你我才未孤單",
+      "spelling": "ū lí guá tsiah buē koo-tuann",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 87.04,
+      "online_text": "有你的陪伴 我才有靠山",
+      "match_text": "有你的陪伴 我才有靠山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 91.65,
+      "online_text": "你若欢喜 我是你的垃圾车",
+      "match_text": "你若欢喜 我是你的垃圾车",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 97.21,
+      "online_text": "每天 为你唱歌",
+      "match_text": "每天 为你唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 119.92,
+      "online_text": "爱情有影伤肝",
+      "match_text": "爱情有影伤肝",
+      "text": "愛情有影傷肝",
+      "spelling": "ài-tsîng ū-iánn siunn kuann",
+      "manual_id": "line-27:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 121.93,
+      "online_text": "想到我就会惊",
+      "match_text": "想到我就会惊",
+      "text": "想到我就會驚",
+      "spelling": "siūnn-tio̍h guá tio̍h ē kiann",
+      "manual_id": "line-27:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 124.19,
+      "online_text": "亲像热天洗温泉",
+      "match_text": "亲像热天洗温泉",
+      "text": "親像熱天洗溫泉",
+      "spelling": "tshin-tshiūnn jua̍h-thinn sé un-tsuânn",
+      "manual_id": "line-27:2",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 128.65,
+      "online_text": "头晕目暗的我",
+      "match_text": "头晕目暗的我",
+      "text": "頭暈目暗的我",
+      "spelling": "thâu-hîn ba̍k àm ê guá",
+      "manual_id": "line-30:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 130.79,
+      "online_text": "爱到整身躯汗",
+      "match_text": "爱到整身躯汗",
+      "text": "愛到整身軀汗",
+      "spelling": "ài-tio̍h kui sin-khu kuānn",
+      "manual_id": "line-30:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 133.07,
+      "online_text": "我 欢喜又搁甘愿 给你快活",
+      "match_text": "我 欢喜又搁甘愿 给你快活",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 139.53,
+      "online_text": "有你 我才未孤单",
+      "match_text": "有你 我才未孤单",
+      "text": "有你我才未孤單",
+      "spelling": "ū lí guá tsiah buē koo-tuann",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 142.72,
+      "online_text": "有你的陪伴 我才有靠山",
+      "match_text": "有你的陪伴 我才有靠山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 147.26,
+      "online_text": "你若不爽 我是你的垃圾车",
+      "match_text": "你若不爽 我是你的垃圾车",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 152.74,
+      "online_text": "每天 听你的心声",
+      "match_text": "每天 听你的心声",
+      "text": "每天聽你的心聲",
+      "spelling": "ta̍k-kang thiann lí ê sim-siann",
+      "manual_id": "line-18:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 157.12,
+      "online_text": "有你 我才未孤单",
+      "match_text": "有你 我才未孤单",
+      "text": "有你我才未孤單",
+      "spelling": "ū lí guá tsiah buē koo-tuann",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 160.51,
+      "online_text": "有你的陪伴 我才有靠山",
+      "match_text": "有你的陪伴 我才有靠山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 165.1,
+      "online_text": "你若欢喜 我是你的垃圾车",
+      "match_text": "你若欢喜 我是你的垃圾车",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 170.53,
+      "online_text": "每天 为你唱歌",
+      "match_text": "每天 为你唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 192.84,
+      "online_text": "有你 我才未孤单",
+      "match_text": "有你 我才未孤单",
+      "text": "有你我才未孤單",
+      "spelling": "ū lí guá tsiah buē koo-tuann",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 196.04,
+      "online_text": "有你的陪伴 我才有靠山",
+      "match_text": "有你的陪伴 我才有靠山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 200.49,
+      "online_text": "你若不爽 我是你的垃圾车",
+      "match_text": "你若不爽 我是你的垃圾车",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 206.16,
+      "online_text": "每天 听你的心声",
+      "match_text": "每天 听你的心声",
+      "text": "每天聽你的心聲",
+      "spelling": "ta̍k-kang thiann lí ê sim-siann",
+      "manual_id": "line-18:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 41,
+      "time": 210.39,
+      "online_text": "有你 我才未孤单",
+      "match_text": "有你 我才未孤单",
+      "text": "有你我才未孤單",
+      "spelling": "ū lí guá tsiah buē koo-tuann",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 213.79,
+      "online_text": "有你的陪伴 我才有靠山",
+      "match_text": "有你的陪伴 我才有靠山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 218.23,
+      "online_text": "你若欢喜 我是你的垃圾车",
+      "match_text": "你若欢喜 我是你的垃圾车",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 223.95,
+      "online_text": "每天 为你唱歌",
+      "match_text": "每天 为你唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 232.84,
+      "online_text": "为你唱歌",
+      "match_text": "为你唱歌",
+      "text": "為你唱歌",
+      "spelling": "uî lí tshiùnn-kua",
+      "manual_id": "line-48:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 46,
+      "time": 237.68,
+      "online_text": "la la la",
+      "match_text": "la la la",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "a6c1ab68b2823e7eccd0322cf96154f7835db41bb597bf7a858ee0b1dd14de39",
+    "manual": "aff2ce102f740c0c141c1811f5216fb51c4ef9117c30df152644139bc2ec4222",
+    "timed": "b554029fac72b29a90953abb00cf24040fbc320026f3fa77d7ceee3250b9cf5d"
+  }
+}

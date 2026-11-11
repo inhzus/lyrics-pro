@@ -1,0 +1,649 @@
+{
+  "recording_id": "netease:399366485",
+  "timing_source": "NetEase https://music.163.com/song?id=399366485",
+  "manual_source": "User-supplied resources/lyrics-spelling/分手信-夕陽武士",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 5,
+    "unresolved": 40,
+    "repeat": 2
+  },
+  "review_row_count": 40,
+  "unmatched_manual_ids": [
+    "line-3:0",
+    "line-6:0"
+  ],
+  "unused_repeat_ids": [
+    "line-9:0",
+    "line-12:0",
+    "line-18:0",
+    "line-21:0",
+    "line-24:0",
+    "line-27:0",
+    "line-30:0",
+    "line-33:0",
+    "line-39:0",
+    "line-42:0",
+    "line-45:0",
+    "line-48:0",
+    "line-51:0",
+    "line-54:0",
+    "line-57:0",
+    "line-60:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 黄圣峰",
+      "match_text": "作词 : 黄圣峰",
+      "text": "作词 : 黄圣峰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 0.158,
+      "online_text": "作曲 : 王立",
+      "match_text": "作曲 : 王立",
+      "text": "作曲 : 王立",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 0.316,
+      "online_text": "制作人 : 夕阳武士",
+      "match_text": "制作人 : 夕阳武士",
+      "text": "制作人 : 夕阳武士",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 0.474,
+      "online_text": "编曲人 : 夕阳武士",
+      "match_text": "编曲人 : 夕阳武士",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 0.632,
+      "online_text": "录音工程师 : 陈莹哲",
+      "match_text": "录音工程师 : 陈莹哲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 0.79,
+      "online_text": "混音工程师 : 陈莹哲",
+      "match_text": "混音工程师 : 陈莹哲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 0.951,
+      "online_text": "分手信-夕阳武士",
+      "match_text": "分手信-夕阳武士",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 1.741,
+      "online_text": "词：夕阳武士",
+      "match_text": "词：夕阳武士",
+      "text": "词：夕阳武士",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 8,
+      "time": 1.9609999999999999,
+      "online_text": "曲：夕阳武士",
+      "match_text": "曲：夕阳武士",
+      "text": "曲：夕阳武士",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 9,
+      "time": 28.693,
+      "online_text": "点完最后的一根烟",
+      "match_text": "点完最后的一根烟",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-3:0"
+    },
+    {
+      "source_row": 10,
+      "time": 32.53,
+      "online_text": "是时候说再会",
+      "match_text": "是时候说再会",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-3:0"
+    },
+    {
+      "source_row": 11,
+      "time": 35.542,
+      "online_text": "开始到结束",
+      "match_text": "开始到结束",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-6:0"
+    },
+    {
+      "source_row": 12,
+      "time": 37.272,
+      "online_text": "不知你心中在想什么",
+      "match_text": "不知你心中在想什么",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-6:0"
+    },
+    {
+      "source_row": 13,
+      "time": 42.112,
+      "online_text": "你说你总是看不到",
+      "match_text": "你说你总是看不到",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 45.372,
+      "online_text": "看不到咱两人的未来",
+      "match_text": "看不到咱两人的未来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 49.132,
+      "online_text": "只要用心去看",
+      "match_text": "只要用心去看",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 50.932,
+      "online_text": "好的事情一定会随咱走",
+      "match_text": "好的事情一定会随咱走",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 57.522,
+      "online_text": "只是需要改变",
+      "match_text": "只是需要改变",
+      "text": "只是需要改變",
+      "spelling": "tsí-sī su-iàu kái-piàn",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 63.452,
+      "online_text": "心中的白贼话",
+      "match_text": "心中的白贼话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 66.892,
+      "online_text": "害我走不过",
+      "match_text": "害我走不过",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 70.201,
+      "online_text": "眼前的分离",
+      "match_text": "眼前的分离",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 72.301,
+      "online_text": "我没勇气面对",
+      "match_text": "我没勇气面对",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 76.921,
+      "online_text": "将酒饮下去",
+      "match_text": "将酒饮下去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 80.421,
+      "online_text": "用酒来麻痹",
+      "match_text": "用酒来麻痹",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 83.771,
+      "online_text": "我没流目屎",
+      "match_text": "我没流目屎",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 85.821,
+      "online_text": "看完这张分手信",
+      "match_text": "看完这张分手信",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 102.902,
+      "online_text": "你说你总是看不到",
+      "match_text": "你说你总是看不到",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 106.232,
+      "online_text": "看不到咱两人的未来",
+      "match_text": "看不到咱两人的未来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 109.952,
+      "online_text": "只要用心去看",
+      "match_text": "只要用心去看",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 111.702,
+      "online_text": "好的事情一定会随咱走",
+      "match_text": "好的事情一定会随咱走",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 118.276,
+      "online_text": "只是需要改变",
+      "match_text": "只是需要改变",
+      "text": "只是需要改變",
+      "spelling": "tsí-sī su-iàu kái-piàn",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 124.386,
+      "online_text": "心中的白贼话",
+      "match_text": "心中的白贼话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 127.786,
+      "online_text": "害我走不过",
+      "match_text": "害我走不过",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 131.66,
+      "online_text": "眼前的分离",
+      "match_text": "眼前的分离",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 133.146,
+      "online_text": "我没勇气面对",
+      "match_text": "我没勇气面对",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 137.866,
+      "online_text": "将酒饮下去",
+      "match_text": "将酒饮下去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 141.236,
+      "online_text": "用酒来麻痹",
+      "match_text": "用酒来麻痹",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 144.616,
+      "online_text": "我没流目屎",
+      "match_text": "我没流目屎",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 146.666,
+      "online_text": "看完这张分手信",
+      "match_text": "看完这张分手信",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 164.86,
+      "online_text": "心中的白贼话",
+      "match_text": "心中的白贼话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 168.36,
+      "online_text": "害我走不过",
+      "match_text": "害我走不过",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 171.72,
+      "online_text": "眼前的分离",
+      "match_text": "眼前的分离",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 173.68,
+      "online_text": "我没勇气面对",
+      "match_text": "我没勇气面对",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 178.42,
+      "online_text": "将酒饮下去",
+      "match_text": "将酒饮下去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 181.79,
+      "online_text": "用酒来麻痹",
+      "match_text": "用酒来麻痹",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 185.16,
+      "online_text": "我没流目屎",
+      "match_text": "我没流目屎",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 187.14,
+      "online_text": "看完这张分手信",
+      "match_text": "看完这张分手信",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "d36b3b66599c97a82156fe93623314a7aa0aa840e2218d7331b14770e4a8d642",
+    "manual": "154d681a6919fda79438c785b0657530b12eecbae56558d4a1e22f9f1ea48a3c",
+    "timed": "e03d50a7ed3c85aada5f57a87c3c25fcd5203b585daf056609d49d7248ff3f02"
+  }
+}

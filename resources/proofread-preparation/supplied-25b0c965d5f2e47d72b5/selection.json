@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 168394,
+    "title": "爱你一世人",
+    "artists": [
+      "萧煌奇"
+    ],
+    "album": "真·情·歌",
+    "duration": 255.64,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:168394",
+      "duration": 255.64,
+      "ready": false,
+      "coverage": 0.05128205128205128,
+      "exact_fraction": 0.05128205128205128,
+      "summary": {
+        "credit": 2,
+        "gap": 9,
+        "unresolved": 37,
+        "exact": 2
+      }
+    }
+  ]
+}

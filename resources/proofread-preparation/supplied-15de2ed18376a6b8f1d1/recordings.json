@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 543798586,
+      "title": "牵手未来",
+      "artists": [
+        "李娅莎"
+      ],
+      "album": "希望‧幸福",
+      "duration": 243.533,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 543798586,
+      "title": "牵手未来",
+      "artists": [
+        "李娅莎"
+      ],
+      "album": "希望‧幸福",
+      "duration": 243.533,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 543798586,
+      "title": "牵手未来",
+      "artists": [
+        "李娅莎"
+      ],
+      "album": "希望‧幸福",
+      "duration": 243.533,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

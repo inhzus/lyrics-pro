@@ -1,0 +1,566 @@
+{
+  "recording_id": "netease:28528287",
+  "timing_source": "NetEase https://music.163.com/song?id=28528287",
+  "manual_source": "User-supplied resources/lyrics-spelling/無人熟識的彼個人-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "repeat": 33,
+    "unresolved": 7,
+    "exact": 2
+  },
+  "review_row_count": 7,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-7:0",
+    "line-31:0",
+    "line-58:0",
+    "line-82:0",
+    "line-109:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 施立",
+      "match_text": "作词 : 施立",
+      "text": "作词 : 施立",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 24.21,
+      "online_text": "电车来来去去 身边的人过去",
+      "match_text": "电车来来去去 身边的人过去",
+      "text": "電車來來去去 身邊的人過去",
+      "spelling": "tiān-tshia lâi-lâi-khì-khì sin-pinn ê lâng kuè-khì",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 29.03,
+      "online_text": "伊弹着老吉他伴奏情歌",
+      "match_text": "伊弹着老吉他伴奏情歌",
+      "text": "伊彈著老吉他伴奏情歌",
+      "spelling": "i tuânn-tio̍h láu gì-tà phuānn-tsàu tsîng-kua",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 33.27,
+      "online_text": "已经过时的歌 猷原扰乱心肝",
+      "match_text": "已经过时的歌 猷原扰乱心肝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 38.21,
+      "online_text": "目屎啊惦惦流落惊人看 拨乎乾",
+      "match_text": "目屎啊惦惦流落惊人看 拨乎乾",
+      "text": "目屎啊惦惦流落驚人看 撥乎乾",
+      "spelling": "ba̍k-sái ah tiām tiām lâu lo̍h kiann lâng khuànn pué hoo ta",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 51.76,
+      "online_text": "伊想起 抹栋 完成的梦",
+      "match_text": "伊想起 抹栋 完成的梦",
+      "text": "伊想起 抹棟 完成的夢",
+      "spelling": "i siūnn-khí buē-tàng uân-sîng ê bāng",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 56.22,
+      "online_text": "流浪的 歌声 海角天涯",
+      "match_text": "流浪的 歌声 海角天涯",
+      "text": "流浪的 歌聲 海角天涯",
+      "spelling": "liû-lōng ê kua-siann hái-kak thian-gâi",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 60.74,
+      "online_text": "敢有人 听到 伊的孤单",
+      "match_text": "敢有人 听到 伊的孤单",
+      "text": "敢有人 聽到 伊的孤單",
+      "spelling": "kám ū lâng thiann-tio̍h i ê koo-tuann",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 65.23,
+      "online_text": "伤心的 名字 到底叫啥",
+      "match_text": "伤心的 名字 到底叫啥",
+      "text": "傷心的 名字 到底叫啥",
+      "spelling": "siong-sim ê miâ-jī tàu-té kiò siánn",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 69.33,
+      "online_text": "无人熟识的彼个人 无人知影",
+      "match_text": "无人熟识的彼个人 无人知影",
+      "text": "無人熟識的彼個人 無人知影",
+      "spelling": "bô-lâng si̍k-sāi ê hit-ê lâng bô-lâng tsai-iánn",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 73.81,
+      "online_text": "伊心内 藏着外济无奈",
+      "match_text": "伊心内 藏着外济无奈",
+      "text": "伊心內 藏著外濟無奈",
+      "spelling": "i sim-lāi tshàng-tio̍h guā-tsuē bô-nāi",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 78.67,
+      "online_text": "人海茫茫 找无一个岸",
+      "match_text": "人海茫茫 找无一个岸",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 82.78,
+      "online_text": "一阵风 一粒风中的沙",
+      "match_text": "一阵风 一粒风中的沙",
+      "text": "一陣風 一粒風中的沙",
+      "spelling": "tsi̍t tsūn hong tsi̍t lia̍p hong-tiong ê sua",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 87.27,
+      "online_text": "无人熟识的彼个人 无人心疼",
+      "match_text": "无人熟识的彼个人 无人心疼",
+      "text": "無人熟識的彼個人 無人心疼",
+      "spelling": "bô-lâng si̍k-sāi ê hit-ê lâng bô-lâng sim-thiànn",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 91.75,
+      "online_text": "歌声内 藏着外济悲哀",
+      "match_text": "歌声内 藏着外济悲哀",
+      "text": "歌聲內 藏著外濟悲哀",
+      "spelling": "kua-siann lāi tshàng-tio̍h guā-tsuē pi-ai",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 96.59,
+      "online_text": "幸福无望 若是你同款",
+      "match_text": "幸福无望 若是你同款",
+      "text": "幸福無望 若是你同款",
+      "spelling": "hīng-hok bô-bāng nā-sī lí kāng-khuán",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 100.64,
+      "online_text": "一条歌 陪伴过路的人",
+      "match_text": "一条歌 陪伴过路的人",
+      "text": "一條歌 陪伴過路的人",
+      "spelling": "tsi̍t tiâu kua puê-phuānn kuè-lōo ê lâng",
+      "manual_id": "line-46:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 105.19,
+      "online_text": "一条歌 送乎过路的人",
+      "match_text": "一条歌 送乎过路的人",
+      "text": "一條歌 送乎過路的人",
+      "spelling": "tsi̍t tiâu kua sàng hoo kuè-lōo ê lâng",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 127.54,
+      "online_text": "电车来来去去 身边的人过去",
+      "match_text": "电车来来去去 身边的人过去",
+      "text": "電車來來去去 身邊的人過去",
+      "spelling": "tiān-tshia lâi-lâi-khì-khì sin-pinn ê lâng kuè-khì",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 132.49,
+      "online_text": "伊弹着老吉他伴奏情歌",
+      "match_text": "伊弹着老吉他伴奏情歌",
+      "text": "伊彈著老吉他伴奏情歌",
+      "spelling": "i tuânn-tio̍h láu gì-tà phuānn-tsàu tsîng-kua",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 136.61,
+      "online_text": "已经过时的歌 猷原扰乱心肝",
+      "match_text": "已经过时的歌 猷原扰乱心肝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 141.3,
+      "online_text": "目屎啊 惦惦流落 无声",
+      "match_text": "目屎啊 惦惦流落 无声",
+      "text": "目屎啊惦惦流落 無聲",
+      "spelling": "ba̍k-sái ah tiām tiām lâu lo̍h bô-siann",
+      "manual_id": "line-61:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 150.43,
+      "online_text": "伊想起 抹栋 完成的梦",
+      "match_text": "伊想起 抹栋 完成的梦",
+      "text": "伊想起 抹棟 完成的夢",
+      "spelling": "i siūnn-khí buē-tàng uân-sîng ê bāng",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 154.96,
+      "online_text": "流浪的 歌声 海角天涯",
+      "match_text": "流浪的 歌声 海角天涯",
+      "text": "流浪的 歌聲 海角天涯",
+      "spelling": "liû-lōng ê kua-siann hái-kak thian-gâi",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 159.36,
+      "online_text": "敢有人 听到 伊的孤单",
+      "match_text": "敢有人 听到 伊的孤单",
+      "text": "敢有人 聽到 伊的孤單",
+      "spelling": "kám ū lâng thiann-tio̍h i ê koo-tuann",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 163.82,
+      "online_text": "伤心的 名字 到底叫啥",
+      "match_text": "伤心的 名字 到底叫啥",
+      "text": "傷心的 名字 到底叫啥",
+      "spelling": "siong-sim ê miâ-jī tàu-té kiò siánn",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 167.89,
+      "online_text": "无人熟识的彼个人 无人知影伊心内 藏着外济无奈",
+      "match_text": "无人熟识的彼个人 无人知影伊心内 藏着外济无奈",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 177.73,
+      "online_text": "人海茫茫 找无一个岸一阵风 一粒风中的沙",
+      "match_text": "人海茫茫 找无一个岸一阵风 一粒风中的沙",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 186.44,
+      "online_text": "无人熟识的彼个人 无人心疼",
+      "match_text": "无人熟识的彼个人 无人心疼",
+      "text": "無人熟識的彼個人 無人心疼",
+      "spelling": "bô-lâng si̍k-sāi ê hit-ê lâng bô-lâng sim-thiànn",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 190.88,
+      "online_text": "歌声内 藏着外济悲哀",
+      "match_text": "歌声内 藏着外济悲哀",
+      "text": "歌聲內 藏著外濟悲哀",
+      "spelling": "kua-siann lāi tshàng-tio̍h guā-tsuē pi-ai",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 195.7,
+      "online_text": "幸福无望 若是你同款",
+      "match_text": "幸福无望 若是你同款",
+      "text": "幸福無望 若是你同款",
+      "spelling": "hīng-hok bô-bāng nā-sī lí kāng-khuán",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 199.75,
+      "online_text": "一条歌 陪伴过路的人",
+      "match_text": "一条歌 陪伴过路的人",
+      "text": "一條歌 陪伴過路的人",
+      "spelling": "tsi̍t tiâu kua puê-phuānn kuè-lōo ê lâng",
+      "manual_id": "line-46:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 204.49,
+      "online_text": "一条歌 送乎过路的人",
+      "match_text": "一条歌 送乎过路的人",
+      "text": "一條歌 送乎過路的人",
+      "spelling": "tsi̍t tiâu kua sàng hoo kuè-lōo ê lâng",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 224.61,
+      "online_text": "无人熟识的彼个人 无人知影",
+      "match_text": "无人熟识的彼个人 无人知影",
+      "text": "無人熟識的彼個人 無人知影",
+      "spelling": "bô-lâng si̍k-sāi ê hit-ê lâng bô-lâng tsai-iánn",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 228.96,
+      "online_text": "伊心内 藏着外济无奈",
+      "match_text": "伊心内 藏着外济无奈",
+      "text": "伊心內 藏著外濟無奈",
+      "spelling": "i sim-lāi tshàng-tio̍h guā-tsuē bô-nāi",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 233.96,
+      "online_text": "人海茫茫 找无一个岸",
+      "match_text": "人海茫茫 找无一个岸",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 237.87,
+      "online_text": "一阵风 一粒风中的沙",
+      "match_text": "一阵风 一粒风中的沙",
+      "text": "一陣風 一粒風中的沙",
+      "spelling": "tsi̍t tsūn hong tsi̍t lia̍p hong-tiong ê sua",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 242.35,
+      "online_text": "无人熟识的彼个人 无人心疼",
+      "match_text": "无人熟识的彼个人 无人心疼",
+      "text": "無人熟識的彼個人 無人心疼",
+      "spelling": "bô-lâng si̍k-sāi ê hit-ê lâng bô-lâng sim-thiànn",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 246.78,
+      "online_text": "歌声内 藏着外济悲哀",
+      "match_text": "歌声内 藏着外济悲哀",
+      "text": "歌聲內 藏著外濟悲哀",
+      "spelling": "kua-siann lāi tshàng-tio̍h guā-tsuē pi-ai",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 251.73,
+      "online_text": "幸福无望 若是你同款",
+      "match_text": "幸福无望 若是你同款",
+      "text": "幸福無望 若是你同款",
+      "spelling": "hīng-hok bô-bāng nā-sī lí kāng-khuán",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 41,
+      "time": 255.75,
+      "online_text": "一条歌 陪伴过路的人",
+      "match_text": "一条歌 陪伴过路的人",
+      "text": "一條歌 陪伴過路的人",
+      "spelling": "tsi̍t tiâu kua puê-phuānn kuè-lōo ê lâng",
+      "manual_id": "line-46:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 260.65,
+      "online_text": "一条歌 送乎过路的人",
+      "match_text": "一条歌 送乎过路的人",
+      "text": "一條歌 送乎過路的人",
+      "spelling": "tsi̍t tiâu kua sàng hoo kuè-lōo ê lâng",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 43,
+      "time": 283.73,
+      "online_text": "人声 : Hsiao Huang Chi",
+      "match_text": "人声 : Hsiao Huang Chi",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "8041c52cf2fb208961ecd1b34d1ec9b7375052caae50b06fa0d1e116beb08907",
+    "manual": "284d943d7dba0e9d6a74d12ad918ef35f1cf6e7f6cd00edf698f57d2ff57e888",
+    "timed": "fde23fd53f1f4d4a3a902041bdbe7d6fd9cc509c34e5954aeb4cb11155dd40dc"
+  }
+}

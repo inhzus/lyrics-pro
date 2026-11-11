@@ -1,0 +1,483 @@
+{
+  "recording_id": "netease:249193",
+  "timing_source": "NetEase https://music.163.com/song?id=249193",
+  "manual_source": "User-supplied resources/lyrics-spelling/擔輸贏-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 25,
+    "repeat": 6,
+    "gap": 2
+  },
+  "review_row_count": 25,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-43:0",
+    "line-46:0",
+    "line-55:0",
+    "line-58:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 潘协庆",
+      "match_text": "作词 : 潘协庆",
+      "text": "作词 : 潘协庆",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 潘协庆",
+      "match_text": "作曲 : 潘协庆",
+      "text": "作曲 : 潘协庆",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 16.78,
+      "online_text": "是你无了解　还是你装不知",
+      "match_text": "是你无了解　还是你装不知",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 24.08,
+      "online_text": "谁人才是我心爱",
+      "match_text": "谁人才是我心爱",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 31.47,
+      "online_text": "委曲吞腹内　换你幸福的未来",
+      "match_text": "委曲吞腹内　换你幸福的未来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 37.96,
+      "online_text": "不管别人　讲阮不应该",
+      "match_text": "不管别人　讲阮不应该",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 45.65,
+      "online_text": "不是你不爱我　只是你软心肝",
+      "match_text": "不是你不爱我　只是你软心肝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 53.19,
+      "online_text": "所以阮只好看破",
+      "match_text": "所以阮只好看破",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 59.6,
+      "online_text": "当初若不是我　不忍心",
+      "match_text": "当初若不是我　不忍心",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 64.32,
+      "online_text": "看你受折磨　哪会通　行离开脚",
+      "match_text": "看你受折磨　哪会通　行离开脚",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 73.75,
+      "online_text": "一只伞三人举　我甘愿孤单",
+      "match_text": "一只伞三人举　我甘愿孤单",
+      "text": "一隻傘三人舉　我甘願孤單",
+      "spelling": "tsi̍t ki suànn sann lâng gia̍h guá kam-guān koo-tuann",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 77.49,
+      "online_text": "好坏阮嘛没怨命　犹在心疼痛",
+      "match_text": "好坏阮嘛没怨命　犹在心疼痛",
+      "text": "好壞阮嘛沒怨命　猶在心疼痛",
+      "spelling": "hó-pháinn gún mā bô uàn miā iu tsāi sim thàng-thiànn",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 88.16,
+      "online_text": "就算雨落袂煞　目屎擦乎干",
+      "match_text": "就算雨落袂煞　目屎擦乎干",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 91.97,
+      "online_text": "缘份早有天注定",
+      "match_text": "缘份早有天注定",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 96.57,
+      "online_text": "敢爱　咱就要担输赢",
+      "match_text": "敢爱　咱就要担输赢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 104.62,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 16,
+      "time": 118.97,
+      "online_text": "是你无了解　还是你装不知",
+      "match_text": "是你无了解　还是你装不知",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 126.2,
+      "online_text": "谁人才是我心爱",
+      "match_text": "谁人才是我心爱",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 133.57,
+      "online_text": "委曲吞腹内　换你幸福的未来",
+      "match_text": "委曲吞腹内　换你幸福的未来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 140.17,
+      "online_text": "不管别人　讲阮不应该",
+      "match_text": "不管别人　讲阮不应该",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 147.86,
+      "online_text": "不是你不爱我　只是你软心肝",
+      "match_text": "不是你不爱我　只是你软心肝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 155.45,
+      "online_text": "所以阮只好看破",
+      "match_text": "所以阮只好看破",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 161.76,
+      "online_text": "当初若不是我　不忍心",
+      "match_text": "当初若不是我　不忍心",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 166.32,
+      "online_text": "看你受折磨　哪会通　行离开脚",
+      "match_text": "看你受折磨　哪会通　行离开脚",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 175.78,
+      "online_text": "一只伞三人举　我甘愿孤单",
+      "match_text": "一只伞三人举　我甘愿孤单",
+      "text": "一隻傘三人舉　我甘願孤單",
+      "spelling": "tsi̍t ki suànn sann lâng gia̍h guá kam-guān koo-tuann",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 179.62,
+      "online_text": "好坏阮嘛没怨命　犹在心疼痛",
+      "match_text": "好坏阮嘛没怨命　犹在心疼痛",
+      "text": "好壞阮嘛沒怨命　猶在心疼痛",
+      "spelling": "hó-pháinn gún mā bô uàn miā iu tsāi sim thàng-thiànn",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 190.27,
+      "online_text": "就算雨落袂煞　目屎擦乎干",
+      "match_text": "就算雨落袂煞　目屎擦乎干",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 194.16,
+      "online_text": "缘份早有天注定",
+      "match_text": "缘份早有天注定",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 198.78,
+      "online_text": "敢爱　咱就要担输赢",
+      "match_text": "敢爱　咱就要担输赢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 206.64,
+      "online_text": "一只伞三人举　我甘愿孤单",
+      "match_text": "一只伞三人举　我甘愿孤单",
+      "text": "一隻傘三人舉　我甘願孤單",
+      "spelling": "tsi̍t ki suànn sann lâng gia̍h guá kam-guān koo-tuann",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 210.63,
+      "online_text": "好坏阮嘛没怨命　犹在心疼痛",
+      "match_text": "好坏阮嘛没怨命　犹在心疼痛",
+      "text": "好壞阮嘛沒怨命　猶在心疼痛",
+      "spelling": "hó-pháinn gún mā bô uàn miā iu tsāi sim thàng-thiànn",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 221.24,
+      "online_text": "就算雨落袂煞　目屎擦乎干",
+      "match_text": "就算雨落袂煞　目屎擦乎干",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 225.11,
+      "online_text": "缘份早有天注定",
+      "match_text": "缘份早有天注定",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 229.78,
+      "online_text": "敢爱　咱就要担输赢",
+      "match_text": "敢爱　咱就要担输赢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 238.02,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "d7793de7c70952ee089a809cf34b73b3a6cbd9f1bb539cf4f86ddcdd68f5f6c5",
+    "manual": "a2157464602b6a386e7c1f23ddfd4ae099c41a75dd6e6f0aaf308cca78304bc2",
+    "timed": "554c613bbf3df6bb51425e8af9b8f75196ea4f4c4263efe8a66726af6dbc51d5"
+  }
+}

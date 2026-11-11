@@ -1,0 +1,126 @@
+{
+  "candidates": [
+    {
+      "song_id": 31830687,
+      "title": "蝴蝶",
+      "artists": [
+        "川秋沙"
+      ],
+      "album": "白噪音",
+      "duration": 275.0,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 294118,
+      "title": "蝴蝶",
+      "artists": [
+        "坣娜"
+      ],
+      "album": "别恋",
+      "duration": 226.84,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2684491242,
+      "title": "蝴蝶",
+      "artists": [
+        "龙道一Dragon One"
+      ],
+      "album": "已前",
+      "duration": 195.245,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 150561,
+      "title": "蝴蝶",
+      "artists": [
+        "陶喆"
+      ],
+      "album": "黑色柳丁",
+      "duration": 283.2,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 299652,
+      "title": "蝴蝶",
+      "artists": [
+        "王菲"
+      ],
+      "album": "只爱陌生人",
+      "duration": 237.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2604527599,
+      "title": "蝴蝶",
+      "artists": [
+        "洛天依Official"
+      ],
+      "album": "再生",
+      "duration": 216.104,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2122864219,
+      "title": "蝴蝶",
+      "artists": [
+        "Sasablue"
+      ],
+      "album": "蝴蝶",
+      "duration": 208.234,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2658398715,
+      "title": "蝴蝶",
+      "artists": [
+        "王一珩OneSD"
+      ],
+      "album": "蝴蝶",
+      "duration": 286.116,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5265452,
+      "title": "蝴蝶",
+      "artists": [
+        "Smile. DK"
+      ],
+      "album": "野狼王的士高",
+      "duration": 180.746,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 93188,
+      "title": "蝴蝶",
+      "artists": [
+        "胡彦斌"
+      ],
+      "album": "音乐密码",
+      "duration": 268.12,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2095180264,
+      "title": "蝴蝶",
+      "artists": [
+        "张真源"
+      ],
+      "album": "蝴蝶",
+      "duration": 289.007,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

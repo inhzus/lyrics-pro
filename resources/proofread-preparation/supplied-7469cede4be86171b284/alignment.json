@@ -1,0 +1,332 @@
+{
+  "recording_id": "netease:31830686",
+  "timing_source": "NetEase https://music.163.com/song?id=31830686",
+  "manual_source": "User-supplied resources/lyrics-spelling/大稻埕-川秋沙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "exact": 9,
+    "approximate": 3,
+    "repeat": 8,
+    "unresolved": 4
+  },
+  "review_row_count": 7,
+  "unmatched_manual_ids": [
+    "line-61:0",
+    "line-64:0"
+  ],
+  "unused_repeat_ids": [],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 32.23,
+      "online_text": "散步淡水河 青春走跑找他的前途",
+      "match_text": "散步淡水河 青春走跑找他的前途",
+      "text": "散步淡水河 青春走跑找他的前途",
+      "spelling": "sàn-pōo Tām-tsuí-hô tshing-tshun tsáu tsông tshuē ê tsiân-tôo",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 40.21,
+      "online_text": "那惊找无路 义气风华顺自己的脚步",
+      "match_text": "那惊找无路 义气风华顺自己的脚步",
+      "text": "那驚找無路 義氣風華順自己的腳步",
+      "spelling": "ná-kiann tshuē bô-lōo gī-khì hong Huà sūn ka-kī ê kha-pōo",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 48.11,
+      "online_text": "厝内序大人 要他卖搁想空想缝",
+      "match_text": "厝内序大人 要他卖搁想空想缝",
+      "text": "厝內序大人 要他賣擱想空想縫",
+      "spelling": "tshù-lāi sī-tuā-lâng kiò i mài-koh siūnn khàng siūnn pâng",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 3,
+      "time": 56.13,
+      "online_text": "郁卒无底放 无采工",
+      "match_text": "郁卒无底放 无采工",
+      "text": "鬱卒無底放 無採工",
+      "spelling": "ut-tsut bô-té pàng bô-tshái kang",
+      "manual_id": "line-10:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 4,
+      "time": 80.3,
+      "online_text": "散步淡水河 失志的人花落却无结果",
+      "match_text": "散步淡水河 失志的人花落却无结果",
+      "text": "散步淡水河 失志的人花落卻無結果",
+      "spelling": "sàn-pōo Tām-tsuí-hô sit-tsì ê lâng hue lo̍h suah bô kiat-kó",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 88.12,
+      "online_text": "阵阵无情雨 淋在肩胛听别人在发落",
+      "match_text": "阵阵无情雨 淋在肩胛听别人在发落",
+      "text": "陣陣無情雨 淋在肩胛聽別人在發落",
+      "spelling": "tsūn tsūn bô-tsîng hōo lâm tī king-kah thiann pa̍t-lâng teh hua̍t-lo̍h",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 96.11,
+      "online_text": "春风少年郎 总是希望有自己的那天",
+      "match_text": "春风少年郎 总是希望有自己的那天",
+      "text": "春風少年郎 總是希望有自己的那天",
+      "spelling": "tshun-hong siàu-liân lâng tsóng-sī hi-bāng ū tsū-kí ê hit-kang",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 104.13,
+      "online_text": "郁卒无底放 走西东",
+      "match_text": "郁卒无底放 走西东",
+      "text": "鬱卒無底放 走西東",
+      "spelling": "ut-tsut bô-té pàng kiânn sai tang",
+      "manual_id": "line-22:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 111.21,
+      "online_text": "风吹阿 也是回来大稻埕",
+      "match_text": "风吹阿 也是回来大稻埕",
+      "text": "風吹阿 也是回來大稻埕",
+      "spelling": "hong-tshue ah iā-sī tńg-lâi Tuā-tiū-tiânn",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 120.21,
+      "online_text": "怨天怨地哪是自己拖磨",
+      "match_text": "怨天怨地哪是自己拖磨",
+      "text": "怨天怨地哪是自己拖磨",
+      "spelling": "uàn-thinn uàn-tē ná sī tsū-kí thua-buà",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 127.19,
+      "online_text": "风吹阿 也是念念大稻埕",
+      "match_text": "风吹阿 也是念念大稻埕",
+      "text": "風吹阿 也是念念大稻埕",
+      "spelling": "hong-tshue ah iā-sī liām liām Tuā-tiū-tiânn",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 136.19,
+      "online_text": "也望水流抹去自己心疼",
+      "match_text": "也望水流抹去自己心疼",
+      "text": "也望水流抹去自己心疼",
+      "spelling": "iā bāng tsuí-lâu buah khì tsū-kí sim-thiànn",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 160.22,
+      "online_text": "散步淡水河 日头落山再会咱的偎靠",
+      "match_text": "散步淡水河 日头落山再会咱的偎靠",
+      "text": "散步淡水河 日頭落山再會咱的偎靠",
+      "spelling": "sàn-pōo Tām-tsuí-hô li̍t-thâu lo̍h-suann tsài-huē lán ê uá kōo",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 168.05,
+      "online_text": "声声欸奈何 社会总是使人未当快乐",
+      "match_text": "声声欸奈何 社会总是使人未当快乐",
+      "text": "聲聲欸奈何 社會總是使人未當快樂",
+      "spelling": "siann siann tan nāi-hô siā-huē tsóng-sī sú-lâng buē tàng khuài-lo̍k",
+      "manual_id": "line-40:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 176.04,
+      "online_text": "孤影阮一人 茫茫路途命运搁来戏弄",
+      "match_text": "孤影阮一人 茫茫路途命运搁来戏弄",
+      "text": "孤影阮一人 茫茫路途命運擱來戲弄",
+      "spelling": "koo iánn gún tsi̍t lâng bâng bâng lōo tôo miā-ūn koh lâi hì-lāng",
+      "manual_id": "line-43:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.933333
+    },
+    {
+      "source_row": 15,
+      "time": 183.98,
+      "online_text": "郁卒无底放 甘有望",
+      "match_text": "郁卒无底放 甘有望",
+      "text": "鬱卒無底放 甘有望",
+      "spelling": "ut-tsut bô-té pàng kam ū bāng",
+      "manual_id": "line-46:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 191.23,
+      "online_text": "风吹阿 也是回来大稻埕",
+      "match_text": "风吹阿 也是回来大稻埕",
+      "text": "風吹阿 也是回來大稻埕",
+      "spelling": "hong-tshue ah iā-sī tńg-lâi Tuā-tiū-tiânn",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 200.14,
+      "online_text": "怨天怨地哪是自己拖磨",
+      "match_text": "怨天怨地哪是自己拖磨",
+      "text": "怨天怨地哪是自己拖磨",
+      "spelling": "uàn-thinn uàn-tē ná sī tsū-kí thua-buà",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 207.12,
+      "online_text": "风吹阿 也是念念大稻埕",
+      "match_text": "风吹阿 也是念念大稻埕",
+      "text": "風吹阿 也是念念大稻埕",
+      "spelling": "hong-tshue ah iā-sī liām liām Tuā-tiū-tiânn",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 216.18,
+      "online_text": "也望水流抹去自己心疼",
+      "match_text": "也望水流抹去自己心疼",
+      "text": "也望水流抹去自己心疼",
+      "spelling": "iā bāng tsuí-lâu buah khì tsū-kí sim-thiànn",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 223.49,
+      "online_text": "风遮大",
+      "match_text": "风遮大",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-61:0"
+    },
+    {
+      "source_row": 21,
+      "time": 232.17,
+      "online_text": "吹过心头酸涩",
+      "match_text": "吹过心头酸涩",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-61:0"
+    },
+    {
+      "source_row": 22,
+      "time": 239.21,
+      "online_text": "未来啊",
+      "match_text": "未来啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-64:0"
+    },
+    {
+      "source_row": 23,
+      "time": 248.29,
+      "online_text": "理想捶着心肝",
+      "match_text": "理想捶着心肝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-64:0"
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "e382313fec0d720c21e7a16257564b67719dcd0b3c0b719ae2456e6316bc4de0",
+    "manual": "bf940a4f92d5eda60385c6e3d13295f085782e79340f2441ac2837be79711cc8",
+    "timed": "acb14aaf75862d34f8efe60a386502cf6f7cf6a666827e880e12bcae0ae50a13"
+  }
+}

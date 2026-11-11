@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 865040271,
+      "title": "叨位是你的厝",
+      "artists": [
+        "浅堤"
+      ],
+      "album": "汤与海",
+      "duration": 298.125,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

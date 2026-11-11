@@ -1,0 +1,115 @@
+{
+  "candidates": [
+    {
+      "song_id": 18637308,
+      "title": "為什麼(今日的愛情)",
+      "artists": [
+        "五月天"
+      ],
+      "album": "十萬青年站出來 Live全記錄",
+      "duration": 130.493333,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 20550117,
+      "title": "為什麼(今日的愛情)",
+      "artists": [
+        "五月天"
+      ],
+      "album": "你要去哪裏live全記錄",
+      "duration": 173.44,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 16907359,
+      "title": "為什麼(今日的愛情)",
+      "artists": [
+        "五月天"
+      ],
+      "album": "十萬青年站出來 live",
+      "duration": 130.493333,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 14671959,
+      "title": "為什麼{今日的愛情}",
+      "artists": [
+        "五月天"
+      ],
+      "album": "愛情萬歲",
+      "duration": 113.066667,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 23091297,
+      "title": "為什麼 (今日的愛情)",
+      "artists": [
+        "五月天"
+      ],
+      "album": "你要去哪裡",
+      "duration": 173.44,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 10764316,
+      "title": "為什麼 [今日的愛情]",
+      "artists": [
+        "Mayday"
+      ],
+      "album": "愛情萬歲",
+      "duration": 113.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 33599155,
+      "title": "為什麼(今日的愛情)",
+      "artists": [
+        "五月天"
+      ],
+      "album": "五月天十萬青年站出來LIVE巡迴演唱會全紀錄",
+      "duration": 131.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 36430900,
+      "title": "為什麼 (今日的愛情)",
+      "artists": [
+        "Mayday"
+      ],
+      "album": "你要去哪裡",
+      "duration": 173.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 25765385,
+      "title": "為什麼 (今日的愛情)",
+      "artists": [
+        "五月天"
+      ],
+      "album": "你要去哪里演唱會 CD2",
+      "duration": 173.44,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 38855478,
+      "title": "為什麼{今日的愛情}",
+      "artists": [
+        "五月天"
+      ],
+      "album": "五月天-愛情萬歲",
+      "duration": 113.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

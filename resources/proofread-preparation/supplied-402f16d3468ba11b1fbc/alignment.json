@@ -1,0 +1,363 @@
+{
+  "recording_id": "netease:399367441",
+  "timing_source": "NetEase https://music.163.com/song?id=399367441",
+  "manual_source": "User-supplied resources/lyrics-spelling/孤單夜曲-夕陽武士",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 3,
+    "unresolved": 17,
+    "repeat": 6
+  },
+  "review_row_count": 17,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-4:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-22:0",
+    "line-28:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-46:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 黄圣峰",
+      "match_text": "作词 : 黄圣峰",
+      "text": "作词 : 黄圣峰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 王立",
+      "match_text": "作曲 : 王立",
+      "text": "作曲 : 王立",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "制作人 : 夕阳武士",
+      "match_text": "制作人 : 夕阳武士",
+      "text": "制作人 : 夕阳武士",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 3.0,
+      "online_text": "编曲人 : 夕阳武士",
+      "match_text": "编曲人 : 夕阳武士",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 4.0,
+      "online_text": "录音工程师 : 陈莹哲",
+      "match_text": "录音工程师 : 陈莹哲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 5.0,
+      "online_text": "混音工程师 : 陈莹哲",
+      "match_text": "混音工程师 : 陈莹哲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 35.93,
+      "online_text": "昏暗的路灯 安静的夜景",
+      "match_text": "昏暗的路灯 安静的夜景",
+      "text": "昏暗的路燈 安靜的夜景",
+      "spelling": "hūn àm-iánn ê lōo-ting an-tsīng ê iā-kíng",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 49.46,
+      "online_text": "冷风伴花蕊 忧愁留予阮",
+      "match_text": "冷风伴花蕊 忧愁留予阮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 60.83,
+      "online_text": "月光下的暗暝 无缘故想起你",
+      "match_text": "月光下的暗暝 无缘故想起你",
+      "text": "月光下的暗暝 無緣故想起你",
+      "spelling": "gue̍h-kng hā ê àm-mî bô-iân kòo siūnn-khí lí",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 67.45,
+      "online_text": "倔强提袂出勇气来问你",
+      "match_text": "倔强提袂出勇气来问你",
+      "text": "倔強提袂出勇氣來問你",
+      "spelling": "khut-kiông thê buē tshut ióng-khì lâi mn̄g lí",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 74.09,
+      "online_text": "你过了如何 踮伫青份的所在",
+      "match_text": "你过了如何 踮伫青份的所在",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 83.34,
+      "online_text": "敢会孤单",
+      "match_text": "敢会孤单",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 87.37,
+      "online_text": "等待你转来 我所失去的笑容",
+      "match_text": "等待你转来 我所失去的笑容",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 93.48,
+      "online_text": "也会缀你转来 毋免阁藏咧心内",
+      "match_text": "也会缀你转来 毋免阁藏咧心内",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 115.18,
+      "online_text": "昏暗的路灯 安静的夜景",
+      "match_text": "昏暗的路灯 安静的夜景",
+      "text": "昏暗的路燈 安靜的夜景",
+      "spelling": "hūn àm-iánn ê lōo-ting an-tsīng ê iā-kíng",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 129.53,
+      "online_text": "冷风伴花蕊 忧愁留予阮",
+      "match_text": "冷风伴花蕊 忧愁留予阮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 168.21,
+      "online_text": "月光下的暗暝 无缘故想起你",
+      "match_text": "月光下的暗暝 无缘故想起你",
+      "text": "月光下的暗暝 無緣故想起你",
+      "spelling": "gue̍h-kng hā ê àm-mî bô-iân kòo siūnn-khí lí",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 174.87,
+      "online_text": "倔强提袂出勇气来问你",
+      "match_text": "倔强提袂出勇气来问你",
+      "text": "倔強提袂出勇氣來問你",
+      "spelling": "khut-kiông thê buē tshut ióng-khì lâi mn̄g lí",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 181.22,
+      "online_text": "你过了如何 踮伫青份的所在",
+      "match_text": "你过了如何 踮伫青份的所在",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 190.58,
+      "online_text": "敢会孤单",
+      "match_text": "敢会孤单",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 194.72,
+      "online_text": "等待你转来 我所失去的笑容",
+      "match_text": "等待你转来 我所失去的笑容",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 200.65,
+      "online_text": "也会缀你转来 毋免阁藏咧心内",
+      "match_text": "也会缀你转来 毋免阁藏咧心内",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 208.31,
+      "online_text": "你过了如何 踮伫青份的所在",
+      "match_text": "你过了如何 踮伫青份的所在",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 217.14,
+      "online_text": "敢会孤单",
+      "match_text": "敢会孤单",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 221.41,
+      "online_text": "等待你转来 我所失去的笑容",
+      "match_text": "等待你转来 我所失去的笑容",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 227.51,
+      "online_text": "也会缀你转来 毋免阁藏咧心内",
+      "match_text": "也会缀你转来 毋免阁藏咧心内",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "8adf7942d648f52b770dd91422c8274c4861143d5b557a95e69609f1501dfa84",
+    "manual": "20896547c7663e50de1005e314b094c9d0d8753b2397e44c81a6577359c91933",
+    "timed": "e7308336b849c7d33c59c81831f8f10cd2de5e5e2b2cede59dfe7ac66ac9755b"
+  }
+}

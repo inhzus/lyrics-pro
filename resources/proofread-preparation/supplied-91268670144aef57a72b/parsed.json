@@ -1,0 +1,486 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "古早古早　阮兜住在　今嘛的忠孝東路",
+      "spelling": "kóo-tsá kóo-tsá gún tau tuà-tī tsit-má ê tiong-hàu tang-lōo",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "食的是　浣沫仔滾蕃薯塊",
+      "spelling": "tsia̍h ê sī ān phe̍h á kún han-tsî khoo",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "穿的是　麵粉袋仔做的短褲",
+      "spelling": "tshīng ê sī mī-hún tē-á tsò ê té-khòo",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "出門步步就愛靠走路",
+      "spelling": "tshut-mn̂g pōo-pōo tio̍h ài kōo kiânn-lōo",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "三張犁走到火車頭",
+      "spelling": "sann tiunn lê kiânn-kàu hué-tshia-thâu",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "一蛇路就愛走歸甫",
+      "spelling": "tsi̍t tsuâ lōo tio̍h ài kiânn kui póo",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "忠孝東路喔",
+      "spelling": "tiong-hàu tang-lōo",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "夠卡過去　夠卡過去",
+      "spelling": "koh khá kuè-khì koh khá kuè-khì",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "夠卡過去夠卡過去",
+      "spelling": "koh khá kuè-khì koh khá kuè-khì",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "就是蒙仔甫",
+      "spelling": "tio̍h-sī bông á póo",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "彼時的生活實在有夠艱苦",
+      "spelling": "hit sî ê sing-ua̍h si̍t-tsāi ū-kàu kan-khóo",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "十二三歲就去吃頭路",
+      "spelling": "tsa̍p lī sann huè tio̍h khì tsiah thâu lōo",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "每天就給師傅洗內衫褲",
+      "spelling": "muí-kang tio̍h kā sai-hū sé lāi-sann-khòo",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "心內感覺實在無前途　心內感覺",
+      "spelling": "sim-lāi kám-kak si̍t-tsāi bô tsiân-tôo sim-lāi kám-kak",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "覺覺覺覺覺覺覺　覺覺無前途",
+      "spelling": "kak kak kak kak kak kak kak kak kak bô tsiân-tôo",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "一步一步一步一步咱的社會在起步",
+      "spelling": "tsi̍t pōo tsi̍t pōo tsi̍t pōo tsi̍t pōo lán ê siā-huē tī khí-pōo",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "技術隴靠阿啄仔來贊助",
+      "spelling": "ki-su̍t lóng kōo a-tok-á lâi tsàn-tsōo",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "大家持香在厝內拜耶穌",
+      "spelling": "ta̍k-ke ia hiunn tī tshù-lāi pài iâ-soo",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "阿凸呀阿凸呀阿里阿多",
+      "spelling": "a-tok-á tok-á lí ah tok",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "阿凸呀阿凸呀阿里阿多",
+      "spelling": "a-tok-á tok-á lí ah tok",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "愛國獎券一張賣五塊",
+      "spelling": "ài-kok tsióng-kuàn tsi̍t tiunn buē ngóo-kó͘",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "要車螺絲就去三重埔　中山北路",
+      "spelling": "beh tshia lô-si tio̍h khì sann-tîng-poo tiong-san pak lōo",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "隴是一陣　奇奇怪怪的查某",
+      "spelling": "lóng sī tsi̍t tīn kî-kî-kuài-kuài ê tsa-bóo",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "原來是美金比咱台幣卡大塊",
+      "spelling": "guân-lâi sī bí-kim pí lán tâi-phiò khá tuā-kó͘",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "原來是美金　金金金金金金金",
+      "spelling": "guân-lâi sī bí-kim kim kim kim kim kim kim kim",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "金金卡大塊",
+      "spelling": "kim kim khá tuā-kó͘",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "一一步步一步一步",
+      "spelling": "tsi̍t tsi̍t pōo pōo tsi̍t pōo tsi̍t pōo",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "一一步步一步一步",
+      "spelling": "tsi̍t tsi̍t pōo pōo tsi̍t pōo tsi̍t pōo",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "咱的社會在起步",
+      "spelling": "lán ê siā-huē tī khí-pōo",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "少年仔愛扒著坐HONDA",
+      "spelling": "siàu-liân-á ài pā tio̍h tsē HONDA",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "阿伯仔上班坐VESPA",
+      "spelling": "a-peh-á siōng-pan tsē VESPA",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "載雞載鴨是YAMAHA",
+      "spelling": "tsài ke tsài ah sī YAMAHA",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "好裕人漸漸在駛TOYOTA",
+      "spelling": "hó ia̍h lâng tsiām-tsiām tī sái TOYOTA",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "台灣錢淹腳目　日本人賺未煞",
+      "spelling": "Tâi-uân tsînn im kha ba̍k ji̍p-pún-lâng ah thàn buē suah",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "歸陣招來北投扒酒家",
+      "spelling": "kui-tīn tsio-lâi pak-tâu pā tsiú-ka",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "可憐的戀花再會吧　可憐的戀花",
+      "spelling": "khó-liân ê luân hue tsài-huē ba khó-liân ê luân hue",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "花花花花花花花　花花再會吧",
+      "spelling": "hue hue hue hue hue hue hue hue hue tsài-huē ba",
+      "source_lines": [
+        111,
+        112
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "忠孝東路　今嘛已經",
+      "spelling": "tiong-hàu tang-lōo tsit-má í-king",
+      "source_lines": [
+        114,
+        115
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "一坪三四十萬塊　阮兜今嘛已經真闊綽",
+      "spelling": "tsi̍t phîng sann sì tsa̍p bān kó͘ gún tau tsit-má í-king tsin khoh-tsō",
+      "source_lines": [
+        117,
+        118
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "正邊左邊隴總五十戶",
+      "spelling": "tsiànn pîng tò-pîng lóng tsóng gōo tsa̍p hōo",
+      "source_lines": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "四十九間在出租呀",
+      "spelling": "sì tsa̍p káu king tī tshut tsoo ah",
+      "source_lines": [
+        123,
+        124
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "四十九間在出租",
+      "spelling": "sì tsa̍p káu king tī tshut tsoo",
+      "source_lines": [
+        126,
+        127
+      ]
+    },
+    {
+      "id": "line-129",
+      "text": "為著每個月收厝稅",
+      "spelling": "uī-tio̍h muí kò ge̍h siu tshù-suè",
+      "source_lines": [
+        129,
+        130
+      ]
+    },
+    {
+      "id": "line-132",
+      "text": "愛請會計師來幫助",
+      "spelling": "ài tshiánn ē kè-su lâi pang-tsōo",
+      "source_lines": [
+        132,
+        133
+      ]
+    },
+    {
+      "id": "line-135",
+      "text": "如果政府那肯開放",
+      "spelling": "lû-kó tsìng-hú ná khíng khai-hòng",
+      "source_lines": [
+        135,
+        136
+      ]
+    },
+    {
+      "id": "line-138",
+      "text": "我買戰車來保護",
+      "spelling": "guá bué tsiàn-tshia lâi pó-hōo",
+      "source_lines": [
+        138,
+        139
+      ]
+    },
+    {
+      "id": "line-141",
+      "text": "但是這是IMPOSSIBLE",
+      "spelling": "tān-sī tse sī IMPOSSIBLE",
+      "source_lines": [
+        141,
+        142
+      ]
+    },
+    {
+      "id": "line-144",
+      "text": "看破保鏢著請成龍與藍波",
+      "spelling": "khuànn-phuà pó-pio tio̍h tshiánn chénglóng kah lân pho",
+      "source_lines": [
+        144,
+        145
+      ]
+    },
+    {
+      "id": "line-147",
+      "text": "看破保鏢著請　請請請請請請請",
+      "spelling": "khuànn-phuà pó-pio tio̍h tshiánn tshiánn tshiánn tshiánn tshiánn tshiánn tshiánn tshiánn tshiánn",
+      "source_lines": [
+        147,
+        148
+      ]
+    },
+    {
+      "id": "line-150",
+      "text": "成龍與藍波",
+      "spelling": "chénglóng kah lân pho",
+      "source_lines": [
+        150,
+        151
+      ]
+    },
+    {
+      "id": "line-153",
+      "text": "一一步步一步一步",
+      "spelling": "tsi̍t tsi̍t pōo pōo tsi̍t pōo tsi̍t pōo",
+      "source_lines": [
+        153,
+        154
+      ]
+    },
+    {
+      "id": "line-156",
+      "text": "一一步步一步一步",
+      "spelling": "tsi̍t tsi̍t pōo pōo tsi̍t pōo tsi̍t pōo",
+      "source_lines": [
+        156,
+        157
+      ]
+    },
+    {
+      "id": "line-159",
+      "text": "(忠孝東路夠卡過去　是蒙仔甫)",
+      "spelling": "tiong-hàu tang-lōo kàu khá kuè-khì sī bông á póo",
+      "source_lines": [
+        159,
+        160
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:70,72"
+  ]
+}

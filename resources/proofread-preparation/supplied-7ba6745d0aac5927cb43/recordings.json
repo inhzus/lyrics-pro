@@ -1,0 +1,362 @@
+{
+  "candidates": [
+    {
+      "song_id": 543798020,
+      "title": "放荡不羁",
+      "artists": [
+        "草屯囝仔",
+        "臭屁婴仔"
+      ],
+      "album": "囝仔",
+      "duration": 248.604,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 78889,
+      "title": "放荡不羁",
+      "artists": [
+        "杜德伟"
+      ],
+      "album": "天真",
+      "duration": 294.573,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3436743332,
+      "title": "放荡不羁",
+      "artists": [
+        "萍水相逢"
+      ],
+      "album": "放荡不羁",
+      "duration": 279.336,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3433329504,
+      "title": "放荡不羁",
+      "artists": [
+        "靓仔哦"
+      ],
+      "album": "我们俩，彼此的例外和偏爱",
+      "duration": 35.619,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1876233017,
+      "title": "放荡不羁",
+      "artists": [
+        "小皓"
+      ],
+      "album": "猪猪之歌",
+      "duration": 88.946,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2641429566,
+      "title": "放荡不羁",
+      "artists": [
+        "吉特妖精"
+      ],
+      "album": "动感光波（开车音乐）",
+      "duration": 132.571,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2617597737,
+      "title": "放荡不羁",
+      "artists": [
+        "李小峰"
+      ],
+      "album": "金麒麟 (秦腔)",
+      "duration": 383.317,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3362220395,
+      "title": "放荡不羁",
+      "artists": [
+        "我對伱不好嗎",
+        "奇衡三"
+      ],
+      "album": "放荡不羁",
+      "duration": 94.087,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1970304016,
+      "title": "放荡不羁",
+      "artists": [
+        "刘振明"
+      ],
+      "album": "白色云朵",
+      "duration": 56.575,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1960289875,
+      "title": "放荡不羁",
+      "artists": [
+        "阿飞"
+      ],
+      "album": "放荡不羁",
+      "duration": 90.648,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 543798020,
+      "title": "放荡不羁",
+      "artists": [
+        "草屯囝仔",
+        "臭屁婴仔"
+      ],
+      "album": "囝仔",
+      "duration": 248.604,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 78889,
+      "title": "放荡不羁",
+      "artists": [
+        "杜德伟"
+      ],
+      "album": "天真",
+      "duration": 294.573,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3436743332,
+      "title": "放荡不羁",
+      "artists": [
+        "萍水相逢"
+      ],
+      "album": "放荡不羁",
+      "duration": 279.336,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3433329504,
+      "title": "放荡不羁",
+      "artists": [
+        "靓仔哦"
+      ],
+      "album": "我们俩，彼此的例外和偏爱",
+      "duration": 35.619,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1876233017,
+      "title": "放荡不羁",
+      "artists": [
+        "小皓"
+      ],
+      "album": "猪猪之歌",
+      "duration": 88.946,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2641429566,
+      "title": "放荡不羁",
+      "artists": [
+        "吉特妖精"
+      ],
+      "album": "动感光波（开车音乐）",
+      "duration": 132.571,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2617597737,
+      "title": "放荡不羁",
+      "artists": [
+        "李小峰"
+      ],
+      "album": "金麒麟 (秦腔)",
+      "duration": 383.317,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3362220395,
+      "title": "放荡不羁",
+      "artists": [
+        "我對伱不好嗎",
+        "奇衡三"
+      ],
+      "album": "放荡不羁",
+      "duration": 94.087,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1970304016,
+      "title": "放荡不羁",
+      "artists": [
+        "刘振明"
+      ],
+      "album": "白色云朵",
+      "duration": 56.575,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1960289875,
+      "title": "放荡不羁",
+      "artists": [
+        "阿飞"
+      ],
+      "album": "放荡不羁",
+      "duration": 90.648,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 543798020,
+      "title": "放荡不羁",
+      "artists": [
+        "草屯囝仔",
+        "臭屁婴仔"
+      ],
+      "album": "囝仔",
+      "duration": 248.604,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 78889,
+      "title": "放荡不羁",
+      "artists": [
+        "杜德伟"
+      ],
+      "album": "天真",
+      "duration": 294.573,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3436743332,
+      "title": "放荡不羁",
+      "artists": [
+        "萍水相逢"
+      ],
+      "album": "放荡不羁",
+      "duration": 279.336,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3433329504,
+      "title": "放荡不羁",
+      "artists": [
+        "靓仔哦"
+      ],
+      "album": "我们俩，彼此的例外和偏爱",
+      "duration": 35.619,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1876233017,
+      "title": "放荡不羁",
+      "artists": [
+        "小皓"
+      ],
+      "album": "猪猪之歌",
+      "duration": 88.946,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2641429566,
+      "title": "放荡不羁",
+      "artists": [
+        "吉特妖精"
+      ],
+      "album": "动感光波（开车音乐）",
+      "duration": 132.571,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1269013228",
+      "title": "放荡不羁",
+      "artists": [
+        "草屯囝仔 & 臭屁婴仔"
+      ],
+      "album": "囝仔",
+      "duration": 247.151,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "152430453",
+      "title": "放荡不羁",
+      "artists": [
+        "杜德伟"
+      ],
+      "album": "天真",
+      "duration": 294.573,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1269013228",
+      "title": "放荡不羁",
+      "artists": [
+        "草屯囝仔 & 臭屁婴仔"
+      ],
+      "album": "囝仔",
+      "duration": 247.151,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "152430453",
+      "title": "放荡不羁",
+      "artists": [
+        "杜德伟"
+      ],
+      "album": "天真",
+      "duration": 294.573,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 8803841,
+      "title": "放蕩不羈",
+      "artists": [
+        "草屯囝仔"
+      ],
+      "album": "囝仔",
+      "duration": 247.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 8803840,
+      "title": "放蕩不羈",
+      "artists": [
+        "草屯囝仔 feat. 臭屁嬰仔"
+      ],
+      "album": "囝仔",
+      "duration": 247.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

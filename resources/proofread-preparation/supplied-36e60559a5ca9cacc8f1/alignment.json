@@ -1,0 +1,428 @@
+{
+  "recording_id": "lrcapi:1444711769",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E5%B9%B8%E7%A6%8F%E4%BA%BA%E7%94%9F&artist=%E6%B1%9F%E8%95%99&album=%E7%88%B1%E7%9D%80%E5%95%8A#1444711769",
+  "manual_source": "User-supplied resources/lyrics-spelling/幸福人生-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "unresolved": 28,
+    "repeat": 2
+  },
+  "review_row_count": 28,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-43:0",
+    "line-46:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 28.328,
+      "online_text": "做一個現代女性真光榮",
+      "match_text": "做一個現代女性真光榮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 33.009,
+      "online_text": "美男子攏嘛為伊真競爭",
+      "match_text": "美男子攏嘛為伊真競爭",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 2,
+      "time": 37.45,
+      "online_text": "有什麼背景 有什麼本領",
+      "match_text": "有什麼背景 有什麼本領",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 42.007,
+      "online_text": "到底伊靠啥吃穿啊",
+      "match_text": "到底伊靠啥吃穿啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 46.756,
+      "online_text": "聽人講現代流行的愛情",
+      "match_text": "聽人講現代流行的愛情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 51.22,
+      "online_text": "免註冊牽手來去蜜月旅行",
+      "match_text": "免註冊牽手來去蜜月旅行",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 55.805,
+      "online_text": "免啥人命令 免啥人公證",
+      "match_text": "免啥人命令 免啥人公證",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 60.325,
+      "online_text": "幸福就交託伊手頂",
+      "match_text": "幸福就交託伊手頂",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 65.921,
+      "online_text": "原來有人彼呢天真 彼呢逍遙",
+      "match_text": "原來有人彼呢天真 彼呢逍遙",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 71.456,
+      "online_text": "以為這是浪漫一生",
+      "match_text": "以為這是浪漫一生",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 76.0,
+      "online_text": "年久月深 才來發現 已經是浪費一生",
+      "match_text": "年久月深 才來發現 已經是浪費一生",
+      "text": "年久月深　才來發現　已經是浪費一生",
+      "spelling": "nî-kiú gue̍h tshim tsiah-lâi huat-hiān í-king sī lōng-huì it-sing",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 84.952,
+      "online_text": "有人問起阮的愛情 才知不幸",
+      "match_text": "有人問起阮的愛情 才知不幸",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 89.806,
+      "online_text": "怎樣甲人論行情",
+      "match_text": "怎樣甲人論行情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 93.475,
+      "online_text": "愛需要經營 嘛需要天來牽成",
+      "match_text": "愛需要經營 嘛需要天來牽成",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 99.155,
+      "online_text": "這才是幸福人生",
+      "match_text": "這才是幸福人生",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 126.656,
+      "online_text": "做一個現代女性真光榮",
+      "match_text": "做一個現代女性真光榮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 131.129,
+      "online_text": "美男子攏嘛為伊真競爭",
+      "match_text": "美男子攏嘛為伊真競爭",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 135.707,
+      "online_text": "有什麼背景 有什麼本領",
+      "match_text": "有什麼背景 有什麼本領",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 140.252,
+      "online_text": "到底伊靠啥吃穿啊",
+      "match_text": "到底伊靠啥吃穿啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 144.92,
+      "online_text": "聽人講現代流行的愛情",
+      "match_text": "聽人講現代流行的愛情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 149.5,
+      "online_text": "免註冊牽手來去蜜月旅行",
+      "match_text": "免註冊牽手來去蜜月旅行",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 153.973,
+      "online_text": "免啥人命令 免啥人公證",
+      "match_text": "免啥人命令 免啥人公證",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 158.654,
+      "online_text": "幸福就交託伊手頂",
+      "match_text": "幸福就交託伊手頂",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 164.02,
+      "online_text": "原來有人彼呢天真 彼呢逍遙",
+      "match_text": "原來有人彼呢天真 彼呢逍遙",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 169.75,
+      "online_text": "以為這是浪漫一生",
+      "match_text": "以為這是浪漫一生",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 174.35,
+      "online_text": "年久月深 才來發現 已經是浪費一生",
+      "match_text": "年久月深 才來發現 已經是浪費一生",
+      "text": "年久月深　才來發現　已經是浪費一生",
+      "spelling": "nî-kiú gue̍h tshim tsiah-lâi huat-hiān í-king sī lōng-huì it-sing",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 182.353,
+      "online_text": "有人問起阮的愛情 才知不幸",
+      "match_text": "有人問起阮的愛情 才知不幸",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 188.1,
+      "online_text": "怎樣甲人論行情",
+      "match_text": "怎樣甲人論行情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 191.8,
+      "online_text": "愛需要經營 嘛需要天來牽成",
+      "match_text": "愛需要經營 嘛需要天來牽成",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 197.55,
+      "online_text": "這才是幸福人生",
+      "match_text": "這才是幸福人生",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "c6436bbfd61c118f67191de894dfa0120f97b808b12301d44712561a486c892c",
+    "manual": "dac559cb2d1de7b7a3d3100d221622380f9d4645be9821bb1030953eb8d09935",
+    "timed": "34246bb72241429684646cd29941b1dc10ae81a629a0045b4cfbaa8d7ee59b38"
+  }
+}

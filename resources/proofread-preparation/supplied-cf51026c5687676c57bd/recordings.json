@@ -1,0 +1,160 @@
+{
+  "candidates": [
+    {
+      "song_id": 1856787985,
+      "title": "牛郎",
+      "artists": [
+        "陈丢丢"
+      ],
+      "album": "雨声",
+      "duration": 5.387,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2725443765,
+      "title": "牛郎",
+      "artists": [
+        "JK.Chen"
+      ],
+      "album": "聊斋志异民间传说知名人物录",
+      "duration": 236.121,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1856787985,
+      "title": "牛郎",
+      "artists": [
+        "陈丢丢"
+      ],
+      "album": "雨声",
+      "duration": 5.387,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2725443765,
+      "title": "牛郎",
+      "artists": [
+        "JK.Chen"
+      ],
+      "album": "聊斋志异民间传说知名人物录",
+      "duration": 236.121,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 171255,
+      "title": "牛郎",
+      "artists": [
+        "徐小明"
+      ],
+      "album": "完全歌集22首",
+      "duration": 181.509,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1493169295,
+      "title": "牛郎",
+      "artists": [
+        "刘拯"
+      ],
+      "album": "牛郎",
+      "duration": 238.55,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1294246331,
+      "title": "牛郎",
+      "artists": [
+        "nekofrida"
+      ],
+      "album": "牛郎",
+      "duration": 276.845,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2122204490,
+      "title": "牛郎",
+      "artists": [
+        "杨洋",
+        "崔璨（虚拟歌手）"
+      ],
+      "album": "王者风范",
+      "duration": 177.538,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1486283033,
+      "title": "牛郎",
+      "artists": [
+        "落红倚秋"
+      ],
+      "album": "牛郎【粤语老歌（七）】",
+      "duration": 198.106,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2725443765,
+      "title": "牛郎",
+      "artists": [
+        "JK.Chen"
+      ],
+      "album": "聊斋志异民间传说知名人物录",
+      "duration": 236.121,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1994036645,
+      "title": "牛郎",
+      "artists": [
+        "geegee7"
+      ],
+      "album": "Kick Start .v2",
+      "duration": 237.481,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1579931754",
+      "title": "牛郎",
+      "artists": [
+        "徐小明"
+      ],
+      "album": "完全歌集22首",
+      "duration": 181.509,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1804469809",
+      "title": "牛郎",
+      "artists": [
+        "徐小明"
+      ],
+      "album": "完全歌集22首",
+      "duration": 181.509,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1787596011",
+      "title": "牛郎",
+      "artists": [
+        "魏瑜遥, 周珊 & 吴亚玲"
+      ],
+      "album": "牛郎织女选场 (黄梅戏)",
+      "duration": 400.358,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

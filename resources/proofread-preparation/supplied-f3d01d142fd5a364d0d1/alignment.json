@@ -1,0 +1,765 @@
+{
+  "recording_id": "netease:28528288",
+  "timing_source": "NetEase https://music.163.com/song?id=28528288",
+  "manual_source": "User-supplied resources/lyrics-spelling/想要愛的人-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "exact": 3,
+    "approximate": 10,
+    "unresolved": 21,
+    "repeat": 19
+  },
+  "review_row_count": 34,
+  "unmatched_manual_ids": [
+    "line-10:0"
+  ],
+  "unused_repeat_ids": [
+    "line-28:0",
+    "line-31:0",
+    "line-46:0",
+    "line-49:0",
+    "line-58:0",
+    "line-61:0",
+    "line-64:0",
+    "line-82:0",
+    "line-85:0",
+    "line-94:0",
+    "line-97:0",
+    "line-106:0",
+    "line-109:0",
+    "line-112:0",
+    "line-124:0",
+    "line-136:0",
+    "line-139:0",
+    "line-142:0",
+    "line-145:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 何启弘",
+      "match_text": "作词 : 何启弘",
+      "text": "作词 : 何启弘",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 21.37,
+      "online_text": "咱电话讲抺煞 思念底拖沙",
+      "match_text": "咱电话讲抺煞 思念底拖沙",
+      "text": "咱電話講抺煞 思念底拖沙",
+      "spelling": "lán tiān-uē kóng buē suah su-liām té thua sua",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 26.15,
+      "online_text": "我的心你雄雄拿去一半",
+      "match_text": "我的心你雄雄拿去一半",
+      "text": "我的心妳雄雄拿去一半",
+      "spelling": "guá ê sim lí hiông-hiông the̍h-khì tsi̍t-puànn",
+      "manual_id": "line-4:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 4,
+      "time": 30.88,
+      "online_text": "唔知麦安怎 但是真快活",
+      "match_text": "唔知麦安怎 但是真快活",
+      "text": "唔知麥安怎 但是真快活",
+      "spelling": "m̄ tsai bē an-tsuánn tān-sī tsin khuìnn-ua̍h",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 35.68,
+      "online_text": "爱着你不免诅咒",
+      "match_text": "爱着你不免诅咒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 40.07,
+      "online_text": "我心内做风台 无人看ㄟ出来",
+      "match_text": "我心内做风台 无人看ㄟ出来",
+      "text": "我心內做風颱 無人看ㄟ出來",
+      "spelling": "guá sim-lāi tsuè hong-thai bô-lâng khuànn ê tshut-lâi",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 44.83,
+      "online_text": "查甫人的秘密只有你ㄟ知",
+      "match_text": "查甫人的秘密只有你ㄟ知",
+      "text": "查甫人的秘密只有妳ㄟ知",
+      "spelling": "tshâ poo lâng ê pì-bi̍t tsí-ū lí ê tsai",
+      "manual_id": "line-16:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 8,
+      "time": 49.61,
+      "online_text": "惦这个世界 有你才精彩",
+      "match_text": "惦这个世界 有你才精彩",
+      "text": "惦這個世界 有妳才精彩",
+      "spelling": "tiām tsit-ê sè-kài ū lí tsiah tsing-tshái",
+      "manual_id": "line-19:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 9,
+      "time": 54.43,
+      "online_text": "你乎我越来越爱",
+      "match_text": "你乎我越来越爱",
+      "text": "妳乎我越來越愛",
+      "spelling": "lí hōo guá lú lâi lú ài",
+      "manual_id": "line-22:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 10,
+      "time": 61.39,
+      "online_text": "我变作歹势ㄟ少年家",
+      "match_text": "我变作歹势ㄟ少年家",
+      "text": "我變作歹勢ㄟ少年家",
+      "spelling": "guá piàn-tsò pháinn-sè ê siàu-liân ke",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 65.85,
+      "online_text": "唔敢甲你坦白我心内话",
+      "match_text": "唔敢甲你坦白我心内话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 70.99,
+      "online_text": "惊乎你当作是笑亏",
+      "match_text": "惊乎你当作是笑亏",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 75.78,
+      "online_text": "惊无讲ㄟ无机会",
+      "match_text": "惊无讲ㄟ无机会",
+      "text": "驚無講ㄟ無機會",
+      "spelling": "kiann bô kóng ê bô ki-huē",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 81.62,
+      "online_text": "天地替咱合声",
+      "match_text": "天地替咱合声",
+      "text": "天地替咱合聲",
+      "spelling": "thinn-tē thè lán ha̍p siann",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 84.33,
+      "online_text": "伴奏咱爱的歌声",
+      "match_text": "伴奏咱爱的歌声",
+      "text": "伴奏咱愛的歌聲",
+      "spelling": "phuānn-tsàu lán ài ê kua-siann",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 86.61,
+      "online_text": "亲像是一部浪漫的电影",
+      "match_text": "亲像是一部浪漫的电影",
+      "text": "親像是一部浪漫的電影",
+      "spelling": "tshin-tshiūnn sī tsi̍t pōo lōng-bān ê tiān-iánn",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 91.22,
+      "online_text": "男主角是我 女主角请你来搬",
+      "match_text": "男主角是我 女主角请你来搬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 96.23,
+      "online_text": "幸福的结局等你来写",
+      "match_text": "幸福的结局等你来写",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 100.47,
+      "online_text": "唔惊冬天落雪",
+      "match_text": "唔惊冬天落雪",
+      "text": "唔驚冬天落雪",
+      "spelling": "m̄-kiann tang-thinn lo̍h-seh",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 103.19,
+      "online_text": "热天会汗流归暝",
+      "match_text": "热天会汗流归暝",
+      "text": "熱天會汗流歸暝",
+      "spelling": "jua̍h-thinn ē kuānn-lâu kui-mê",
+      "manual_id": "line-55:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 105.53,
+      "online_text": "我的心只对你坦白",
+      "match_text": "我的心只对你坦白",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 109.84,
+      "online_text": "想要爱的人 是你无别人",
+      "match_text": "想要爱的人 是你无别人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 115.01,
+      "online_text": "爱着你心情就轻松",
+      "match_text": "爱着你心情就轻松",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 127.66,
+      "online_text": "我目賙做水灾 乎你感动金害",
+      "match_text": "我目賙做水灾 乎你感动金害",
+      "text": "我目賙做水災 乎妳感動金害",
+      "spelling": "guá ba̍k-tsiu tsò tsuí-tsai hōo lí kám-tōng tsin hāi",
+      "manual_id": "line-67:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.916667
+    },
+    {
+      "source_row": 25,
+      "time": 131.89,
+      "online_text": "你哪想麦永远你就讲乎我灾",
+      "match_text": "你哪想麦永远你就讲乎我灾",
+      "text": "妳哪想麥永遠妳就講乎我災",
+      "spelling": "lí ná siūnn bē íng-uán lí tio̍h kóng hōo guá tsai",
+      "manual_id": "line-70:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 26,
+      "time": 136.64,
+      "online_text": "两人ㄟ世界 有你卡精彩",
+      "match_text": "两人ㄟ世界 有你卡精彩",
+      "text": "兩人ㄟ世界 有妳卡精彩",
+      "spelling": "nn̄g-lâng ê sè-kài ū lí khá tsing-tshái",
+      "manual_id": "line-73:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 27,
+      "time": 141.34,
+      "online_text": "我是你唯一的爱",
+      "match_text": "我是你唯一的爱",
+      "text": "我是妳唯一的愛",
+      "spelling": "guá sī lí uî-it-ê ài",
+      "manual_id": "line-76:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 28,
+      "time": 147.76,
+      "online_text": "我变作歹势ㄟ少年家",
+      "match_text": "我变作歹势ㄟ少年家",
+      "text": "我變作歹勢ㄟ少年家",
+      "spelling": "guá piàn-tsò pháinn-sè ê siàu-liân ke",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 152.55,
+      "online_text": "唔敢甲你坦白我心内话",
+      "match_text": "唔敢甲你坦白我心内话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 157.55,
+      "online_text": "惊乎你当作是笑亏",
+      "match_text": "惊乎你当作是笑亏",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 162.74,
+      "online_text": "惊无讲ㄟ无机会",
+      "match_text": "惊无讲ㄟ无机会",
+      "text": "驚無講ㄟ無機會",
+      "spelling": "kiann bô kóng ê bô ki-huē",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 168.59,
+      "online_text": "天地替咱合声",
+      "match_text": "天地替咱合声",
+      "text": "天地替咱合聲",
+      "spelling": "thinn-tē thè lán ha̍p siann",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 171.38,
+      "online_text": "伴奏咱爱的歌声",
+      "match_text": "伴奏咱爱的歌声",
+      "text": "伴奏咱愛的歌聲",
+      "spelling": "phuānn-tsàu lán ài ê kua-siann",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 173.67,
+      "online_text": "亲像是一部浪漫的电影",
+      "match_text": "亲像是一部浪漫的电影",
+      "text": "親像是一部浪漫的電影",
+      "spelling": "tshin-tshiūnn sī tsi̍t pōo lōng-bān ê tiān-iánn",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 178.4,
+      "online_text": "男主角是我 女主角请你来搬",
+      "match_text": "男主角是我 女主角请你来搬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 183.42,
+      "online_text": "幸福的结局等你来写",
+      "match_text": "幸福的结局等你来写",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 187.54,
+      "online_text": "唔惊冬天落雪",
+      "match_text": "唔惊冬天落雪",
+      "text": "唔驚冬天落雪",
+      "spelling": "m̄-kiann tang-thinn lo̍h-seh",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 190.16,
+      "online_text": "热天会汗流归暝",
+      "match_text": "热天会汗流归暝",
+      "text": "熱天會汗流歸暝",
+      "spelling": "jua̍h-thinn ē kuānn-lâu kui-mê",
+      "manual_id": "line-55:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 192.57,
+      "online_text": "我的心只对你坦白",
+      "match_text": "我的心只对你坦白",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 196.85,
+      "online_text": "想要爱的人 是你无别人",
+      "match_text": "想要爱的人 是你无别人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 202.18,
+      "online_text": "爱着你心情就轻松",
+      "match_text": "爱着你心情就轻松",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 218.35,
+      "online_text": "天地替咱合声",
+      "match_text": "天地替咱合声",
+      "text": "天地替咱合聲",
+      "spelling": "thinn-tē thè lán ha̍p siann",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 43,
+      "time": 220.72,
+      "online_text": "伴奏咱爱的歌声",
+      "match_text": "伴奏咱爱的歌声",
+      "text": "伴奏咱愛的歌聲",
+      "spelling": "phuānn-tsàu lán ài ê kua-siann",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 44,
+      "time": 223.05,
+      "online_text": "亲像是一部浪漫的电影",
+      "match_text": "亲像是一部浪漫的电影",
+      "text": "親像是一部浪漫的電影",
+      "spelling": "tshin-tshiūnn sī tsi̍t pōo lōng-bān ê tiān-iánn",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 45,
+      "time": 227.83,
+      "online_text": "男主角是我 女主角请你来搬",
+      "match_text": "男主角是我 女主角请你来搬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 232.62,
+      "online_text": "幸福的结局等你来写",
+      "match_text": "幸福的结局等你来写",
+      "text": "幸福的結局逗陣來寫",
+      "spelling": "hīng-hok ê kiat-kio̍k tàu-tīn lâi siá",
+      "manual_id": "line-127:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.777778
+    },
+    {
+      "source_row": 47,
+      "time": 236.76,
+      "online_text": "唔惊冬天落雪",
+      "match_text": "唔惊冬天落雪",
+      "text": "唔驚冬天落雪",
+      "spelling": "m̄-kiann tang-thinn lo̍h-seh",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 48,
+      "time": 239.49,
+      "online_text": "热天会汗流归暝",
+      "match_text": "热天会汗流归暝",
+      "text": "熱天會汗流歸暝",
+      "spelling": "jua̍h-thinn ē kuānn-lâu kui-mê",
+      "manual_id": "line-55:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 49,
+      "time": 241.89,
+      "online_text": "我的心只对你坦白",
+      "match_text": "我的心只对你坦白",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 50,
+      "time": 246.47,
+      "online_text": "想要爱的人 是你无别人",
+      "match_text": "想要爱的人 是你无别人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 51,
+      "time": 251.45,
+      "online_text": "爱着你心情就轻松",
+      "match_text": "爱着你心情就轻松",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 52,
+      "time": 255.98,
+      "online_text": "想要爱的人 是你无别人",
+      "match_text": "想要爱的人 是你无别人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 53,
+      "time": 260.8,
+      "online_text": "希望你嘛系爱阮 永远",
+      "match_text": "希望你嘛系爱阮 永远",
+      "text": "希望妳嘛係愛阮 永遠",
+      "spelling": "hi-bāng lí mā sī ài gún íng-uán",
+      "manual_id": "line-148:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.777778
+    },
+    {
+      "source_row": 54,
+      "time": 287.29,
+      "online_text": "人声 : Hsiao Huang Chi",
+      "match_text": "人声 : Hsiao Huang Chi",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "805370bc2db651b527a0709dbe6f360b6468c0b12723fa28331d6030493f8e77",
+    "manual": "91ab6cb307372458a301c2f8a47a087b6c3bd7968becf056422b51958c47bbd0",
+    "timed": "0bd6746511e4711915f927c1d8085b15d6d28ae2329b3f1e1d90e2ba93d7de0b"
+  }
+}

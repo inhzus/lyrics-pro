@@ -1,0 +1,424 @@
+{
+  "recording_id": "netease:412951593",
+  "timing_source": "NetEase https://music.163.com/song?id=412951593",
+  "manual_source": "User-supplied resources/lyrics-spelling/透早就出門-陳建瑋",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "approximate": 4,
+    "exact": 5,
+    "repeat": 8,
+    "unresolved": 10
+  },
+  "review_row_count": 14,
+  "unmatched_manual_ids": [
+    "line-31:0",
+    "line-34:0",
+    "line-64:0"
+  ],
+  "unused_repeat_ids": [
+    "line-28:0",
+    "line-52:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [
+    {
+      "source_rows": [
+        2,
+        3
+      ],
+      "phrase": "聲聲催著我"
+    },
+    {
+      "source_rows": [
+        4,
+        5
+      ],
+      "phrase": "早頓繼續吃"
+    }
+  ],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 武雄/陈达儒",
+      "match_text": "作词 : 武雄/陈达儒",
+      "text": "作词 : 武雄/陈达儒",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 陈建玮/苏桐",
+      "match_text": "作曲 : 陈建玮/苏桐",
+      "text": "作曲 : 陈建玮/苏桐",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 27.22,
+      "online_text": "听彼是谁的歌声",
+      "match_text": "听彼是谁的歌声",
+      "text": "聽 彼是誰的歌聲 聲聲催著我",
+      "spelling": "thiann hit sī siáng ê kua-siann siann siann tshui-tio̍h guá",
+      "manual_id": "line-1:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "phrase_crosses_source_boundary"
+      ],
+      "similarity": 0.736842
+    },
+    {
+      "source_row": 3,
+      "time": 30.6,
+      "online_text": "声声催着我起来洗嘴换困衫",
+      "match_text": "声声催着我起来洗嘴换困衫",
+      "text": "起來洗嘴換睏衫",
+      "spelling": "khí-lâi sé tshuì uānn khùn-sann",
+      "manual_id": "line-4:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "phrase_crosses_source_boundary"
+      ],
+      "similarity": 0.736842
+    },
+    {
+      "source_row": 4,
+      "time": 35.9,
+      "online_text": "我动作拢无拖沙",
+      "match_text": "我动作拢无拖沙",
+      "text": "我 動作攏無拖沙 早頓繼續吃",
+      "spelling": "guá tōng-tsò lóng bô thua-sua tsá-tǹg kè-sio̍k tsia̍h",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "phrase_crosses_source_boundary"
+      ],
+      "similarity": 0.736842
+    },
+    {
+      "source_row": 5,
+      "time": 39.45,
+      "online_text": "早顿继续吃发动我的铜管仔车",
+      "match_text": "早顿继续吃发动我的铜管仔车",
+      "text": "發動我的銅管仔車",
+      "spelling": "huat-tōng guá ê tâng-kóng á tshia",
+      "manual_id": "line-10:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "phrase_crosses_source_boundary"
+      ],
+      "similarity": 0.761905
+    },
+    {
+      "source_row": 6,
+      "time": 44.96,
+      "online_text": "大马路大塞车共款嘛爱行",
+      "match_text": "大马路大塞车共款嘛爱行",
+      "text": "大馬路 大塞車 共款嘛愛行",
+      "spelling": "tuā bé-lōo tuā that-tshia kāng-khuán mā ài kiânn",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 53.7,
+      "online_text": "有希望肯打拼吃苦我不惊",
+      "match_text": "有希望肯打拼吃苦我不惊",
+      "text": "有希望 肯打拼 吃苦我不驚",
+      "spelling": "ū hi-bāng khíng phah-piànn tsia̍h-khóo guá m̄-kiann",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 62.58,
+      "online_text": "透早就出门日头赤炎炎",
+      "match_text": "透早就出门日头赤炎炎",
+      "text": "透早就出門 日頭赤炎炎",
+      "spelling": "thàu-tsá tio̍h tshut-mn̂g ji̍t-thâu tshiah iām iām",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 67.0,
+      "online_text": "驶着一台老爷车冷气有够热",
+      "match_text": "驶着一台老爷车冷气有够热",
+      "text": "駛著一台老爺車 冷氣有夠熱",
+      "spelling": "sái-tio̍h tsi̍t tâi lāu-iâ-tshia líng-khì ū kàu jua̍h",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 71.36,
+      "online_text": "透早就出门有梦才大声",
+      "match_text": "透早就出门有梦才大声",
+      "text": "透早就出門 有夢才大聲",
+      "spelling": "thàu-tsá tio̍h tshut-mn̂g ū bāng tsiah tuā-siann",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 75.97,
+      "online_text": "唱着一条老情歌",
+      "match_text": "唱着一条老情歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 78.11,
+      "online_text": "世界上盖把就是我",
+      "match_text": "世界上盖把就是我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 100.42,
+      "online_text": "歌唱出咱的心声",
+      "match_text": "歌唱出咱的心声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-31:0"
+    },
+    {
+      "source_row": 14,
+      "time": 103.96,
+      "online_text": "天地彼呢大家己的路家己行",
+      "match_text": "天地彼呢大家己的路家己行",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-31:0"
+    },
+    {
+      "source_row": 15,
+      "time": 109.36,
+      "online_text": "叭时代彼此虚华",
+      "match_text": "叭时代彼此虚华",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-34:0"
+    },
+    {
+      "source_row": 16,
+      "time": 112.89,
+      "online_text": "不通怪运命命运的戏人在扮",
+      "match_text": "不通怪运命命运的戏人在扮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-34:0"
+    },
+    {
+      "source_row": 17,
+      "time": 118.04,
+      "online_text": "有好天无好额共款嘛爱行",
+      "match_text": "有好天无好额共款嘛爱行",
+      "text": "有好天 無好額 共款嘛愛行",
+      "spelling": "ū hó-thinn bô-hó gia̍h kāng-khuán mā ài kiânn",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 126.91,
+      "online_text": "无禁忌免惊惶无输我就赢",
+      "match_text": "无禁忌免惊惶无输我就赢",
+      "text": "無禁忌 免驚惶 無輸我就贏",
+      "spelling": "bô kìm khī bián-kiann hiânn bô-su guá tio̍h iânn",
+      "manual_id": "line-40:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 138.03,
+      "online_text": "透早就出门日头赤炎炎",
+      "match_text": "透早就出门日头赤炎炎",
+      "text": "透早就出門 日頭赤炎炎",
+      "spelling": "thàu-tsá tio̍h tshut-mn̂g ji̍t-thâu tshiah iām iām",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 142.47,
+      "online_text": "驶着一台老爷车冷气有够热",
+      "match_text": "驶着一台老爷车冷气有够热",
+      "text": "駛著一台老爺車 冷氣有夠熱",
+      "spelling": "sái-tio̍h tsi̍t tâi lāu-iâ-tshia líng-khì ū kàu jua̍h",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 146.96,
+      "online_text": "透早就出门有梦才大声",
+      "match_text": "透早就出门有梦才大声",
+      "text": "透早就出門 有夢才大聲",
+      "spelling": "thàu-tsá tio̍h tshut-mn̂g ū bāng tsiah tuā-siann",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 151.47,
+      "online_text": "唱着一条老情歌",
+      "match_text": "唱着一条老情歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 153.62,
+      "online_text": "世界上盖把就是我",
+      "match_text": "世界上盖把就是我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 173.8,
+      "online_text": "透早就出门日头赤炎炎",
+      "match_text": "透早就出门日头赤炎炎",
+      "text": "透早就出門 日頭赤炎炎",
+      "spelling": "thàu-tsá tio̍h tshut-mn̂g ji̍t-thâu tshiah iām iām",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 178.0,
+      "online_text": "驶着一台老爷车我嘛是少爷",
+      "match_text": "驶着一台老爷车我嘛是少爷",
+      "text": "駛著一台老爺車 我嘛是少爺",
+      "spelling": "sái-tio̍h tsi̍t tâi lāu-iâ-tshia guá mā sī siàu-iâ",
+      "manual_id": "line-58:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 182.42,
+      "online_text": "透早就出门有梦才大声",
+      "match_text": "透早就出门有梦才大声",
+      "text": "透早就出門 有夢才大聲",
+      "spelling": "thàu-tsá tio̍h tshut-mn̂g ū bāng tsiah tuā-siann",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 187.04,
+      "online_text": "唱着一条老情歌",
+      "match_text": "唱着一条老情歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-64:0"
+    },
+    {
+      "source_row": 28,
+      "time": 189.26,
+      "online_text": "世界第一名就是我",
+      "match_text": "世界第一名就是我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-64:0"
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "1e506aa9f89befc0b05dbdc3a6ad7fc6dd31359f03b6b68fe6337f3653977f85",
+    "manual": "ee2ec91294aa99e1c316080e1ab53f09c9843c7821470406cf4ea298df905442",
+    "timed": "ff070d47af7e7e560b0d406cfa767807bfe5b5fc6afd925d551593dfab4c5002"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 10910826,
+      "title": "老兮啊",
+      "artists": [
+        "謝銘祐"
+      ],
+      "album": "舊年",
+      "duration": 243.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

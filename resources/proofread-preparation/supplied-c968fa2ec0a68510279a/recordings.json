@@ -1,0 +1,60 @@
+{
+  "candidates": [
+    {
+      "song_id": 19464640,
+      "title": "浪子心",
+      "artists": [
+        "海来阿木"
+      ],
+      "album": "同名专辑",
+      "duration": 307.670204,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 21087940,
+      "title": "浪子心",
+      "artists": [
+        "海来阿木"
+      ],
+      "album": "西楼儿女",
+      "duration": 310.926508,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 23846428,
+      "title": "浪子心",
+      "artists": [
+        "海来阿木"
+      ],
+      "album": "浪子心",
+      "duration": 328.803265,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 12442008,
+      "title": "浪子心",
+      "artists": [
+        "海来阿木"
+      ],
+      "album": "浪子心",
+      "duration": 310.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 38909697,
+      "title": "浪子心",
+      "artists": [
+        "海来阿木"
+      ],
+      "album": "01.抖音快手热搜榜        354首",
+      "duration": 311.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

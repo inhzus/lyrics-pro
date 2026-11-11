@@ -1,0 +1,216 @@
+{
+  "recording_id": "lrclib:21416385",
+  "timing_source": "LRCLIB https://lrclib.net/api/get/21416385",
+  "manual_source": "User-supplied resources/lyrics-spelling/深海的你-拍謝少年",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "approximate": 10,
+    "unresolved": 2,
+    "gap": 1
+  },
+  "review_row_count": 12,
+  "unmatched_manual_ids": [
+    "line-13:0",
+    "line-19:0"
+  ],
+  "unused_repeat_ids": [],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 59.26,
+      "online_text": "你講心愛的老爸，按怎永遠攏袂覺醒",
+      "match_text": "你講心愛的老爸，按怎永遠攏袂覺醒",
+      "text": "你說親愛的老爸，安怎永遠攏抹覺醒",
+      "spelling": "lí kóng tshin-ài ê lāu-pē an-tsuánn íng-uán lóng buē kak-tshínn",
+      "manual_id": "line-1:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.733333
+    },
+    {
+      "source_row": 1,
+      "time": 66.75,
+      "online_text": "失去愛的滋味，是啥咪款的味",
+      "match_text": "失去愛的滋味，是啥咪款的味",
+      "text": "失去愛的滋味，是什麼款的味",
+      "spelling": "sit-khì ài ê tsu-bī sī siánn-mih khuán ê bī",
+      "manual_id": "line-4:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 2,
+      "time": 73.66,
+      "online_text": "你講心愛的阿母，按怎永遠看袂到你",
+      "match_text": "你講心愛的阿母，按怎永遠看袂到你",
+      "text": "你說心愛的阿母，安怎永遠看不到你",
+      "spelling": "lí kóng tshin-ài ê a-bú an-tsuánn íng-uán khuànn-buē-tio̍h lí",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 3,
+      "time": 81.12,
+      "online_text": "你的愛的滋味，是啥咪款的味",
+      "match_text": "你的愛的滋味，是啥咪款的味",
+      "text": "你的愛的滋味，是什麼款的味",
+      "spelling": "lí ê tshin-ài ê tsu-bī sī siánn-mih khuán ê bī",
+      "manual_id": "line-10:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 4,
+      "time": 88.05,
+      "online_text": "甘講今仔日咱的失志，有你會凍跟阮去",
+      "match_text": "甘講今仔日咱的失志，有你會凍跟阮去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 95.43,
+      "online_text": "怎樣厝內的散赤予你，當作生活的志氣",
+      "match_text": "怎樣厝內的散赤予你，當作生活的志氣",
+      "text": "怎樣厝內ㄟ散甲讓你，當作生活的志氣",
+      "spelling": "tsuánn-iūnn tshù-lāi ê sán tsiah hōo lí tòng-tsò sing-ua̍h ê tsì-khì",
+      "manual_id": "line-16:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8125
+    },
+    {
+      "source_row": 6,
+      "time": 102.62,
+      "online_text": "甘講今仔日咱的失意，有你會凍跟阮去",
+      "match_text": "甘講今仔日咱的失意，有你會凍跟阮去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 110.04,
+      "online_text": "親像細漢時我牽著妳，行過人生的海湧",
+      "match_text": "親像細漢時我牽著妳，行過人生的海湧",
+      "text": "親像細漢時我牽著妳，走過人生的海浪",
+      "spelling": "tshin-tshiūnn sè-hàn sî guá khan-tio̍h lí kiânn-kuè lîn-sing ê hái-íng",
+      "manual_id": "line-22:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 8,
+      "time": 180.7,
+      "online_text": "你咒誓永遠會陪伴在我身邊",
+      "match_text": "你咒誓永遠會陪伴在我身邊",
+      "text": "你發誓永遠會陪伴在我身邊",
+      "spelling": "lí tsiù-tsuā íng-uán ē puê-phuānn tī guá sin-pinn",
+      "manual_id": "line-25:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.916667
+    },
+    {
+      "source_row": 9,
+      "time": 187.9,
+      "online_text": "你會凍解決這款艱苦的日子",
+      "match_text": "你會凍解決這款艱苦的日子",
+      "text": "你ㄟ當解決這款艱苦的日子",
+      "spelling": "lí ê-tàng kái-kuat tsit-khuán kan-khóo ê li̍t-tsí",
+      "manual_id": "line-28:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 10,
+      "time": 195.61,
+      "online_text": "你向夢未來會過甲較好舒適",
+      "match_text": "你向夢未來會過甲較好舒適",
+      "text": "你願夢未來會過尬卡好舒適",
+      "spelling": "lí iūnn bāng bī-lâi ē kuè kā khá hó sù-sī",
+      "manual_id": "line-31:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 11,
+      "time": 202.62,
+      "online_text": "你會凍解決這款混亂的人生",
+      "match_text": "你會凍解決這款混亂的人生",
+      "text": "你ㄟ當解決這款混亂的人生",
+      "spelling": "lí ê-tàng kái-kuat tsit-khuán hūn-luān ê lîn-sing",
+      "manual_id": "line-34:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 12,
+      "time": 226.43,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "e6726295496f3cfc2851a51f03bdc989c5203078a67e99db4b25181ca39fdc61",
+    "manual": "350a88b6856d26ae882069859c61ca15c1542e2ffb8a81e3ce09c92308cd3ddf",
+    "timed": "5b77f2c53d4ff271cb67048dfa2e07505bade994416c759c355bd3d91e3c0086"
+  }
+}

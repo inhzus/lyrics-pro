@@ -1,0 +1,331 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "搬戲空         看戲憨         為著三餐叩叩闖",
+      "spelling": "puann hì khòng    khuànn hì gōng    uī-tio̍h sann tshan kòu kòu tsông",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "搬戲空",
+          "spelling": "puann hì khòng"
+        },
+        {
+          "text": "看戲憨",
+          "spelling": "khuànn hì gōng"
+        },
+        {
+          "text": "為著三餐叩叩闖",
+          "spelling": "uī-tio̍h sann tshan kòu kòu tsông"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "練武功                    爬練斗                            十八武藝攏會曉",
+      "spelling": "liān bú kong        pá liān táu                     tsa̍p-peh bú gē lóng ē-hiáu",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "練武功",
+          "spelling": "liān bú kong"
+        },
+        {
+          "text": "爬練斗",
+          "spelling": "pá liān táu"
+        },
+        {
+          "text": "十八武藝攏會曉",
+          "spelling": "tsa̍p-peh bú gē lóng ē-hiáu"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "身騎白馬走三關                                            改換素衣回中原",
+      "spelling": "sin khiâ pe̍h-bé tsáu-sam-kuan               kái-uānn sòo-i huê tiong guân",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "身騎白馬走三關",
+          "spelling": "sin khiâ pe̍h-bé tsáu-sam-kuan"
+        },
+        {
+          "text": "改換素衣回中原",
+          "spelling": "kái-uānn sòo-i huê tiong guân"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "陳三五結親緣                                                山伯英台真苦憐",
+      "spelling": "tân sann-gōo niû niâ kiat tshin iân        san-phik-ing-tâi tsin khó-liân",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "陳三五結親緣",
+          "spelling": "tân sann-gōo niû niâ kiat tshin iân"
+        },
+        {
+          "text": "山伯英台真苦憐",
+          "spelling": "san-phik-ing-tâi tsin khó-liân"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "都馬調                  七字仔                              南管北管攏愛管",
+      "spelling": "to má tiāu           tshit gī á                          lâm-kuán pak-kuán lóng ài kuán",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "都馬調",
+          "spelling": "to má tiāu"
+        },
+        {
+          "text": "七字仔",
+          "spelling": "tshit gī á"
+        },
+        {
+          "text": "南管北管攏愛管",
+          "spelling": "lâm-kuán pak-kuán lóng ài kuán"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "哭調仔                 乞食調                               亂彈一次你就著",
+      "spelling": "khàu tiāu á        khit-tsia̍h tiāu                 lān-thân tsi̍t pái lí tō tio̍h？",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "哭調仔",
+          "spelling": "khàu tiāu á"
+        },
+        {
+          "text": "乞食調",
+          "spelling": "khit-tsia̍h tiāu"
+        },
+        {
+          "text": "亂彈一次你就著",
+          "spelling": "lān-thân tsi̍t pái lí tō tio̍h？"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "身騎白馬走三關                                            改換素衣回中原",
+      "spelling": "sin khiâ pe̍h-bé tsáu-sam-kuan               kái-uānn sòo-i huê tiong guân",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "身騎白馬走三關",
+          "spelling": "sin khiâ pe̍h-bé tsáu-sam-kuan"
+        },
+        {
+          "text": "改換素衣回中原",
+          "spelling": "kái-uānn sòo-i huê tiong guân"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "陳三五娘結親緣                                            山伯英台真苦憐",
+      "spelling": "tân sann-gōo niû niâ kiat tshin iân        san-phik-ing-tâi tsin khó-liân",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "陳三五娘結親緣",
+          "spelling": "tân sann-gōo niû niâ kiat tshin iân"
+        },
+        {
+          "text": "山伯英台真苦憐",
+          "spelling": "san-phik-ing-tâi tsin khó-liân"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "瘋人瘋叮噹                                                    憨人憨八拜",
+      "spelling": "siáu lâng siáu tìng thōng                          gōng lâng gōng peh pài",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "瘋人瘋叮噹",
+          "spelling": "siáu lâng siáu tìng thōng"
+        },
+        {
+          "text": "憨人憨八拜",
+          "spelling": "gōng lâng gōng peh pài"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "轟動武林驚動萬教看啥最厲害",
+      "spelling": "hong-tōng bú-lîm kiáu-tōng bān kà khuànn siánn siōng lī-hāi",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "台頂搬戲人笑空                                            棚下才知憨",
+      "spelling": "tâi tíng puann-hì lâng tshiò khòng         pênn hā tsâi gōng",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "台頂搬戲人笑空",
+          "spelling": "tâi tíng puann-hì lâng tshiò khòng"
+        },
+        {
+          "text": "棚下才知憨",
+          "spelling": "pênn hā tsâi gōng"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "戲有劇本人生歹註文",
+      "spelling": "hì ū kio̍k-pún lîn-sing pháinn tsù bûn",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "身騎白馬啊走三關                                        改換素衣喔回中原",
+      "spelling": "sin khiâ pe̍h-bé tsáu-sam-kuan               kái-uānn sòo-i huê tiong guân",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "身騎白馬啊走三關",
+          "spelling": "sin khiâ pe̍h-bé tsáu-sam-kuan"
+        },
+        {
+          "text": "改換素衣喔回中原",
+          "spelling": "kái-uānn sòo-i huê tiong guân"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "身騎白馬走三關                                            改換素衣回中原",
+      "spelling": "sin khiâ pe̍h-bé tsáu-sam-kuan               kái-uānn sòo-i huê tiong guân",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "身騎白馬走三關",
+          "spelling": "sin khiâ pe̍h-bé tsáu-sam-kuan"
+        },
+        {
+          "text": "改換素衣回中原",
+          "spelling": "kái-uānn sòo-i huê tiong guân"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "陳三五娘結親緣                                            山伯英台真苦憐",
+      "spelling": "tân sann-gōo niû niâ kiat tshin iân        san-phik-ing-tâi tsin khó-liân",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "陳三五娘結親緣",
+          "spelling": "tân sann-gōo niû niâ kiat tshin iân"
+        },
+        {
+          "text": "山伯英台真苦憐",
+          "spelling": "san-phik-ing-tâi tsin khó-liân"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "身騎白馬走三關                                            改換素衣回中原",
+      "spelling": "sin khiâ pe̍h-bé tsáu-sam-kuan               kái-uānn sòo-i huê tiong guân",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "身騎白馬走三關",
+          "spelling": "sin khiâ pe̍h-bé tsáu-sam-kuan"
+        },
+        {
+          "text": "改換素衣回中原",
+          "spelling": "kái-uānn sòo-i huê tiong guân"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "陳三五娘結親緣                                            山伯英台真苦憐",
+      "spelling": "tân sann-gōo niû niâ kiat tshin iân        san-phik-ing-tâi tsin khó-liân",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "陳三五娘結親緣",
+          "spelling": "tân sann-gōo niû niâ kiat tshin iân"
+        },
+        {
+          "text": "山伯英台真苦憐",
+          "spelling": "san-phik-ing-tâi tsin khó-liân"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳永吉   作曲：吳永吉  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

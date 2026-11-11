@@ -1,0 +1,563 @@
+{
+  "recording_id": "netease:412951594",
+  "timing_source": "NetEase https://music.163.com/song?id=412951594",
+  "manual_source": "User-supplied resources/lyrics-spelling/傷心的我 傷心的歌-陳建瑋",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 3,
+    "unresolved": 19,
+    "repeat": 19,
+    "exact": 1
+  },
+  "review_row_count": 19,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-7:0",
+    "line-19:0",
+    "line-25:0",
+    "line-28:0",
+    "line-37:0",
+    "line-43:0",
+    "line-49:0",
+    "line-61:0",
+    "line-67:0",
+    "line-70:0",
+    "line-79:0",
+    "line-85:0",
+    "line-88:0",
+    "line-97:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 武雄",
+      "match_text": "作词 : 武雄",
+      "text": "作词 : 武雄",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 陈建玮",
+      "match_text": "作曲 : 陈建玮",
+      "text": "作曲 : 陈建玮",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "编曲 : 温奕哲",
+      "match_text": "编曲 : 温奕哲",
+      "text": "编曲 : 温奕哲",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 16.79,
+      "online_text": "山盟海誓原来是笑话",
+      "match_text": "山盟海誓原来是笑话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 22.26,
+      "online_text": "所以才彼呢仔假",
+      "match_text": "所以才彼呢仔假",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 25.62,
+      "online_text": "热恋的人每句拢讲甲惊天动地",
+      "match_text": "热恋的人每句拢讲甲惊天动地",
+      "text": "熱戀的人 每句攏講甲驚天動地",
+      "spelling": "jia̍t-luân ê lâng muí kù lóng kóng kā kiann-thinn-tāng-tē",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 34.51,
+      "online_text": "海誓山盟如何来证明",
+      "match_text": "海誓山盟如何来证明",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 39.85,
+      "online_text": "才是真爱的约定",
+      "match_text": "才是真爱的约定",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 43.21,
+      "online_text": "负心的人敢有谁有正经反省",
+      "match_text": "负心的人敢有谁有正经反省",
+      "text": "負心的人 敢有誰有正經反省",
+      "spelling": "hū-sim ê lâng kám ū siáng ū tsìng-king huán-síng",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 53.06,
+      "online_text": "你的爱已经是七月的冰",
+      "match_text": "你的爱已经是七月的冰",
+      "text": "你的愛 已經是 七月的冰",
+      "spelling": "lí ê ài í-king sī tshit gue̍h ê ping",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 57.09,
+      "online_text": "偏偏我爱你犹原是彼呢坚定",
+      "match_text": "偏偏我爱你犹原是彼呢坚定",
+      "text": "偏偏我愛你 猶原是 彼呢堅定",
+      "spelling": "phian-phian guá ài lí iu-guân sī hiah-ni kian-tīng",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 61.43,
+      "online_text": "当初美丽的咒诅是魍尬是臭弹",
+      "match_text": "当初美丽的咒诅是魍尬是臭弹",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 66.01,
+      "online_text": "是一支刺扎入心肝",
+      "match_text": "是一支刺扎入心肝",
+      "text": "是一支刺扎入心肝",
+      "spelling": "sī tsi̍t ki tshì tsat ji̍p sim-kuann",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 71.61,
+      "online_text": "海水无变干你的爱竟然先走山",
+      "match_text": "海水无变干你的爱竟然先走山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 79.27,
+      "online_text": "违背咱美丽的咒诅彼是算啥",
+      "match_text": "违背咱美丽的咒诅彼是算啥",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 85.21,
+      "online_text": "难道你将我当作憨囝",
+      "match_text": "难道你将我当作憨囝",
+      "text": "難道 你將我 當作憨囝",
+      "spelling": "kám-kóng lí tsiòng guá tòng-tsuè gōng kiánn",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 89.21,
+      "online_text": "石头无变烂咱的爱就找无靠岸",
+      "match_text": "石头无变烂咱的爱就找无靠岸",
+      "text": "石頭無變爛 咱的愛就找無靠岸",
+      "spelling": "tsio̍h-thâu bô piàn nuā lán ê ài tio̍h tshuē bô khò-huānn",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 96.85,
+      "online_text": "想着你美丽的咒诅我就刺厌",
+      "match_text": "想着你美丽的咒诅我就刺厌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 102.78,
+      "online_text": "放我一场双人的戏一个人扮你足敢",
+      "match_text": "放我一场双人的戏一个人扮你足敢",
+      "text": "放我一場雙人的戲一個人扮 你足敢",
+      "spelling": "pàng guá tsi̍t-tiûnn siang-lâng ê hì tsi̍t ê lâng puānn lí tsiok kánn",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 115.64,
+      "online_text": "山盟海誓原来是笑话",
+      "match_text": "山盟海誓原来是笑话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 121.02,
+      "online_text": "所以才彼呢仔假",
+      "match_text": "所以才彼呢仔假",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 124.44,
+      "online_text": "热恋的人每句拢讲甲惊天动地",
+      "match_text": "热恋的人每句拢讲甲惊天动地",
+      "text": "熱戀的人 每句攏講甲驚天動地",
+      "spelling": "jia̍t-luân ê lâng muí kù lóng kóng kā kiann-thinn-tāng-tē",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 133.26,
+      "online_text": "海誓山盟如何来证明",
+      "match_text": "海誓山盟如何来证明",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 138.58,
+      "online_text": "才是真爱的约定",
+      "match_text": "才是真爱的约定",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 141.95,
+      "online_text": "负心的人敢有谁有正经反省",
+      "match_text": "负心的人敢有谁有正经反省",
+      "text": "負心的人 敢有誰有正經反省",
+      "spelling": "hū-sim ê lâng kám ū siáng ū tsìng-king huán-síng",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 151.96,
+      "online_text": "你的爱已经是七月的冰",
+      "match_text": "你的爱已经是七月的冰",
+      "text": "你的愛 已經是 七月的冰",
+      "spelling": "lí ê ài í-king sī tshit gue̍h ê ping",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 155.86,
+      "online_text": "偏偏我爱你犹原是彼呢坚定",
+      "match_text": "偏偏我爱你犹原是彼呢坚定",
+      "text": "偏偏我愛你 猶原是 彼呢堅定",
+      "spelling": "phian-phian guá ài lí iu-guân sī hiah-ni kian-tīng",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 160.22,
+      "online_text": "当初美丽的咒诅是魍尬是臭弹",
+      "match_text": "当初美丽的咒诅是魍尬是臭弹",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 164.79,
+      "online_text": "是一支刺扎入心肝",
+      "match_text": "是一支刺扎入心肝",
+      "text": "是一支刺扎入心肝",
+      "spelling": "sī tsi̍t ki tshì tsat ji̍p sim-kuann",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 170.52,
+      "online_text": "海水无变干你的爱竟然先走山",
+      "match_text": "海水无变干你的爱竟然先走山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 178.04,
+      "online_text": "违背咱美丽的咒诅彼是算啥",
+      "match_text": "违背咱美丽的咒诅彼是算啥",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 183.97,
+      "online_text": "难道你将我当作憨囝",
+      "match_text": "难道你将我当作憨囝",
+      "text": "難道 你將我 當作憨囝",
+      "spelling": "kám-kóng lí tsiòng guá tòng-tsuè gōng kiánn",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 188.0,
+      "online_text": "石头无变烂咱的爱就找无靠岸",
+      "match_text": "石头无变烂咱的爱就找无靠岸",
+      "text": "石頭無變爛 咱的愛就找無靠岸",
+      "spelling": "tsio̍h-thâu bô piàn nuā lán ê ài tio̍h tshuē bô khò-huānn",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 195.54,
+      "online_text": "想着你美丽的咒诅我就刺厌",
+      "match_text": "想着你美丽的咒诅我就刺厌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 201.56,
+      "online_text": "放我一场双人的戏一个人扮你足敢",
+      "match_text": "放我一场双人的戏一个人扮你足敢",
+      "text": "放我一場雙人的戲一個人扮 你足敢",
+      "spelling": "pàng guá tsi̍t-tiûnn siang-lâng ê hì tsi̍t ê lâng puānn lí tsiok kánn",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 223.19,
+      "online_text": "海水无变干你的爱竟然先走山",
+      "match_text": "海水无变干你的爱竟然先走山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 230.71,
+      "online_text": "违背咱美丽的咒诅彼是算啥",
+      "match_text": "违背咱美丽的咒诅彼是算啥",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 236.64,
+      "online_text": "难道你将我当作憨囝",
+      "match_text": "难道你将我当作憨囝",
+      "text": "難道 你將我 當作憨囝",
+      "spelling": "kám-kóng lí tsiòng guá tòng-tsuè gōng kiánn",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 240.77,
+      "online_text": "石头无变烂咱的爱就找无靠岸",
+      "match_text": "石头无变烂咱的爱就找无靠岸",
+      "text": "石頭無變爛 咱的愛就找無靠岸",
+      "spelling": "tsio̍h-thâu bô piàn nuā lán ê ài tio̍h tshuē bô khò-huānn",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 248.31,
+      "online_text": "想着你美丽的咒诅我就刺厌",
+      "match_text": "想着你美丽的咒诅我就刺厌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 254.23,
+      "online_text": "放我一场双人的戏一个人扮你足敢",
+      "match_text": "放我一场双人的戏一个人扮你足敢",
+      "text": "放我一場雙人的戲一個人扮 你足敢",
+      "spelling": "pàng guá tsi̍t-tiûnn siang-lâng ê hì tsi̍t ê lâng puānn lí tsiok kánn",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 41,
+      "time": 267.08,
+      "online_text": "伤心的我伤心的歌",
+      "match_text": "伤心的我伤心的歌",
+      "text": "傷心的我 傷心的歌",
+      "spelling": "siong-sim ê guá siong-sim ê kua",
+      "manual_id": "line-103:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "28524388eed5391f5d970770f598290448f09746fc3ddfa051ad9c508885912f",
+    "manual": "8eea62f7a9869c6fb862d4b128b6b66e936d840974c01c36592323b2ab6f6668",
+    "timed": "6c69402d06fa906e98a36f06e778d1a66f64b3c46d3d804924008a133e1aa196"
+  }
+}

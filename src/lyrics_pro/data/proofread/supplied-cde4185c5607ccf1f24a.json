@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "id": "supplied-cde4185c5607ccf1f24a",
+  "revision": "1",
+  "title": "KISS ME (星星知我心)",
+  "title_aliases": [],
+  "artist": "伍佰 & China Blue",
+  "album": "爱你伍佰年",
+  "duration": 257.555,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：文夏   作曲：伍佰    台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:156643",
+    "timing_source": "NetEase https://music.163.com/song?id=156643",
+    "manual_source": "resources/lyrics-spelling/KISS ME (星星知我心)-伍佰",
+    "audio_verified": false,
+    "agent_review": "Explicitly reviewed supplied phrase grouping, sequence, repetitions and wording differences. Keep source words/readings; preserve every provider timestamp. No audio verification.",
+    "input_sha256": {
+      "original": "a96f2475c9238909450898be948ade3d909f71967c00b9730ebc3ecc62689096",
+      "manual": "841403831ed6794985f661ef31ce889e787e74469d3e146dcbca64e9bd4ed260",
+      "timed": "d179c733ff8369b095e7a349772214037d3f6ce38022464c7943fbfc60c66f9b"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "exact": 14,
+      "approximate": 7,
+      "gap": 1
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 31.66,
+        "online_text": "星儿是全部会知影",
+        "status": "exact",
+        "text": "星兒是全部會知影",
+        "spelling": "tshinn jî sī tsuân  pōo ē tsai-iánn",
+        "manual_id": "line-3:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 35.31,
+        "online_text": "昨暝伊哮了归暝也知影",
+        "status": "exact",
+        "text": "昨暝伊哮了歸暝也知影",
+        "spelling": "tsa-mî i háu liáu kui-mî iā tsai-iánn",
+        "manual_id": "line-3:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 39.05,
+        "online_text": "可爱的目屎是若亲像",
+        "status": "exact",
+        "text": "可愛的目屎是若親像",
+        "spelling": "khó-ài ê ba̍k-sái sī ná tshin-tshiūnn",
+        "manual_id": "line-6:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 42.72,
+        "online_text": "一粒一粒闪炽的露水一样",
+        "status": "approximate",
+        "text": "一粒一粒閃熾的露水一樣",
+        "spelling": "tsi̍t lia̍p tsi̍t lia̍p siám sih ê lōo-tsuí i̍t iūnn",
+        "manual_id": "line-9:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 46.46,
+        "online_text": "从我出生头一次的甘蜜的 KISS ME",
+        "status": "exact",
+        "text": "從我出生頭一次的甘蜜的 KISS ME",
+        "spelling": "tsiông guá tshut sing thâu tsi̍t-pái ê kam bi̍t ê KISS ME",
+        "manual_id": "line-12:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 53.66,
+        "online_text": "给我心内欢喜也惊 目屎也流落",
+        "status": "exact",
+        "text": "給我心內歡喜也驚 目屎也流落",
+        "spelling": "hōo guá sim-lāi huann-hí iā kiann ba̍k-sái iā lâu lo̍h",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 68.32,
+        "online_text": "星儿是全部会知影",
+        "status": "exact",
+        "text": "星兒是全部會知影",
+        "spelling": "tshinn jî sī tsuân  pōo ē tsai-iánn",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 71.97,
+        "online_text": "昨暝伊梦着什幺也知影",
+        "status": "approximate",
+        "text": "昨暝伊夢著什麼也知影",
+        "spelling": "sa-mî i bāng tio̍h siánn-mih iā tsai-iánn",
+        "manual_id": "line-18:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 75.63,
+        "online_text": "梦着伊与郎君来做阵",
+        "status": "exact",
+        "text": "夢著伊與郎君來做陣",
+        "spelling": "bāng tio̍h i kah lông kun lâi tsuè-tīn",
+        "manual_id": "line-21:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 79.26,
+        "online_text": "双人站在云中内跑来又跑去",
+        "status": "approximate",
+        "text": "雙人站在雲中內跑來又跑去",
+        "spelling": "siang-lâng khiā tī hûn tiong lāi tsáu lâi iū tsáu-khì",
+        "manual_id": "line-24:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 83.06,
+        "online_text": "今夜又是看起着伊提着相片在身边",
+        "status": "exact",
+        "text": "今夜又是看起著伊提著相片在身邊",
+        "spelling": "kim-iā iū sī khuànn khí tio̍h i thê tio̍h siòng-phìnn tsāi sin-pinn",
+        "manual_id": "line-27:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 90.43,
+        "online_text": "无疑伊会梦起二人 甘蜜的眠梦",
+        "status": "exact",
+        "text": "無疑伊會夢起二人 甘蜜的眠夢",
+        "spelling": "bô-gî i ē bāng khí nn̄g lâng kam bi̍t ê bîn-bāng",
+        "manual_id": "line-30:0+line-30:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 114.48,
+        "online_text": "昨暝在公园中散步那时，给彼个查某哮的就是我",
+        "status": "approximate",
+        "text": "昨暝在公園中散步那時，給彼個查某哮的就是我",
+        "spelling": "tsa-mî tī kong-hn̂g tiong sàn-pōo nà tsūn，hōo he ê tsa-bóo háu ê tio̍h sī guá",
+        "manual_id": "line-33:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 120.77,
+        "online_text": "因为那阵月娘来照着伊的面的时阵 伊真是真美丽又搁真古椎 让我忍不住一时续来甲 KISS 落去",
+        "status": "approximate",
+        "text": "因為那陣月娘來照著伊的面的時陣，伊真是真美麗又擱真古椎 讓我忍不住一時續來甲 KISS 落去",
+        "spelling": "in-uī hit tsūn gue̍h-niû lâi tsiò tio̍h ê bīn ê sî-tsūn ，i tsin sī bí-lē iū khǹg tsin kóo-tsui hōo guá lím bô tiâu tsi̍t-sî suà lâi kah KISS lo̍h-khì",
+        "manual_id": "line-36:0+line-39:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 130.39,
+        "online_text": "吗过天星吗知影 月娘吗知影 伊吗知影 我吗知影 伊的哭绝对不是因为悲伤哮出来耶",
+        "status": "approximate",
+        "text": "嗎過天星嗎知影，月娘嗎知影，伊嗎知影，我嗎知影 伊的哭絕對不是因為悲傷哮出來耶，大概是歡喜過頭啦！",
+        "spelling": "mah kò thinn tshinn ma tsai-iánn，gue̍h-niû ma tsai-iánn，i ma tsai-iánn，guá ma tsai-iánn i ê khàu tsua̍t-tuì m̄ sī in-uī pi-siong háu tshut lâi neh，tāi-khài sī huann-hí kuè-thâu lah！",
+        "manual_id": "line-42:0+line-45:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 139.14,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 163.15,
+        "online_text": "星儿是全部会知影",
+        "status": "exact",
+        "text": "星兒是全部會知影",
+        "spelling": "tshinn jî sī tsuân  pōo ē tsai-iánn",
+        "manual_id": "line-48:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 166.68,
+        "online_text": "昨暝伊哮了归暝也知影",
+        "status": "exact",
+        "text": "昨暝伊哮了歸暝也知影",
+        "spelling": "tsa-mî i háu liáu kui-mî iā tsai-iánn",
+        "manual_id": "line-48:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 170.37,
+        "online_text": "可爱的目屎是若亲像",
+        "status": "exact",
+        "text": "可愛的目屎是若親像",
+        "spelling": "khó-ài ê ba̍k-sái sī ná tshin-tshiūnn",
+        "manual_id": "line-51:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 174.06,
+        "online_text": "一粒一粒闪炽的露水一样",
+        "status": "approximate",
+        "text": "一粒一粒閃熾的露水一樣",
+        "spelling": "tsi̍t lia̍p tsi̍t lia̍p siám sih ê lōo-tsuí i̍t iūnn",
+        "manual_id": "line-54:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 177.87,
+        "online_text": "从我出生头一次的甘蜜的 KISS ME",
+        "status": "exact",
+        "text": "從我出生頭一次的甘蜜的 KISS ME",
+        "spelling": "tsiông guá tshut sing thâu tsi̍t-pái ê kam bi̍t ê KISS ME",
+        "manual_id": "line-57:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 184.91,
+        "online_text": "给我心内欢喜也惊 目屎也流落",
+        "status": "exact",
+        "text": "給我心內歡喜也驚 目屎也流落",
+        "spelling": "hōo guá sim-lāi huann-hí iā kiann ba̍k-sái iā lâu lo̍h",
+        "manual_id": "line-60:0+line-60:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

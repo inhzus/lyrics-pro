@@ -1,0 +1,1029 @@
+{
+  "schema_version": 1,
+  "id": "supplied-b3d0dd9906efa9010654",
+  "revision": "1",
+  "title": "樓仔厝",
+  "title_aliases": [
+    "楼仔厝 (Live)"
+  ],
+  "artist": "伍佰",
+  "album": "夏夜晚风 演唱会精选实录 - 摇滚·浪漫 (Live)",
+  "duration": 326.333,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰  詞曲 伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "lrcapi:156207236",
+    "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E6%A5%BC%E4%BB%94%E5%8E%9D+%28Live%29&artist=%E4%BC%8D%E4%BD%B0&album=%E5%A4%8F%E5%A4%9C%E6%99%9A%E9%A3%8E+%E6%BC%94%E5%94%B1%E4%BC%9A%E7%B2%BE%E9%80%89%E5%AE%9E%E5%BD%95+-+%E6%91%87%E6%BB%9A%C2%B7%E6%B5%AA%E6%BC%AB+%28Live%29#156207236",
+    "manual_source": "resources/lyrics-spelling/樓仔厝-伍佰",
+    "audio_verified": false,
+    "agent_review": "Use the 326.333-second 夏夜晚風 live timeline, matching the supplied live refrain. Explicitly split/reuse 入來坐/來坐 and the opening 煞. Keep the supplied first-verse bus wording and final shortened refrain; no studio/live retiming.",
+    "input_sha256": {
+      "original": "9c30854713ab713c3df7941c79517c9622227ff7758f6e6959fb11aaf773c805",
+      "manual": "535a45da0371a048ff2134b23de56602cb53bbdf18723f8cb2887216abc02d16",
+      "timed": "b208ebcb214d509cf65ca6e3449ad26f94384f3dfb7017fbea6dd2a27a246f69"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "approximate": 31,
+      "exact": 52
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 14.118,
+        "online_text": "煞攏無煞煞煞攏無",
+        "status": "approximate",
+        "text": "煞 攏無殺殺殺攏無",
+        "spelling": "sannh lóng bô sat sat sat lóng bô",
+        "manual_id": "line-3:0+line-3:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 17.18,
+        "online_text": "煞攏無煞煞煞攏無",
+        "status": "approximate",
+        "text": "煞攏無殺殺殺攏無",
+        "spelling": "sannh lóng bô sat sat sat lóng bô",
+        "manual_id": "line-3:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 20.232,
+        "online_text": "煞攏無煞煞煞攏無",
+        "status": "approximate",
+        "text": "煞攏無殺殺殺攏無",
+        "spelling": "sannh lóng bô sat sat sat lóng bô",
+        "manual_id": "line-6:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 23.261,
+        "online_text": "煞攏無煞煞煞攏無",
+        "status": "approximate",
+        "text": "煞攏無殺殺殺攏無",
+        "spelling": "sannh lóng bô sat sat sat lóng bô",
+        "manual_id": "line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 26.234,
+        "online_text": "煞......",
+        "status": "exact",
+        "text": "煞",
+        "spelling": "sannh",
+        "manual_id": "line-3:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 44.612,
+        "online_text": "坐著土腳底的鐵路來到這",
+        "status": "exact",
+        "text": "坐著土腳底的鐵路來到這",
+        "spelling": "tsē tio̍h thóo kha té ê thih-lōo lâi kàu tsia",
+        "manual_id": "line-9:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 47.714,
+        "online_text": "看隔壁阿財說的敢攏有影",
+        "status": "exact",
+        "text": "看隔壁阿財說的敢攏有影",
+        "spelling": "khuànn keh piah a tsâi kóng ê kám lóng ū-iánn",
+        "manual_id": "line-12:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 50.816,
+        "online_text": "看敢是世界上很有名",
+        "status": "exact",
+        "text": "看敢是世界上很有名",
+        "spelling": "khuànn kám sī sè-kài siōng tsiok ū miâ",
+        "manual_id": "line-15:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 53.961,
+        "online_text": "看敢是人人出門攏駛轎車",
+        "status": "exact",
+        "text": "看敢是人人出門攏駛轎車",
+        "spelling": "khuànn kám sī lâng-lâng tshut-mn̂g lóng sái kiau-tshia",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 63.139,
+        "online_text": "聽到四週全全攏是吵鬧的聲",
+        "status": "exact",
+        "text": "聽到四週全全攏是吵鬧的聲",
+        "spelling": "thiann-tio̍h sì-uî tsuân tsuân lóng sī tshá-nāu ê siann",
+        "manual_id": "line-21:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 66.068,
+        "online_text": "走沒兩步左邊右邊攏總是車",
+        "status": "exact",
+        "text": "走沒兩步左邊右邊攏總是車",
+        "spelling": "kiânn bô līm pōo tò-bīn tsiànn-bīn  lóng tsóng sī tshia",
+        "manual_id": "line-24:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 69.133,
+        "online_text": "要過大路大家就要坐陣走",
+        "status": "exact",
+        "text": "要過大路大家就要坐陣走",
+        "spelling": "beh kuè tuā-lōo ta̍k-ke tio̍h ài tsō tīn kiânn",
+        "manual_id": "line-27:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 72.334,
+        "online_text": "那沒司機就會給阮叭叭叭",
+        "status": "approximate",
+        "text": "那沒司機就會給咱叭叭叭",
+        "spelling": "ná bô su-ki tio̍h ē hōo kā lán pa pa pa",
+        "manual_id": "line-30:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 81.463,
+        "online_text": "阮要來去西門町去感受一下",
+        "status": "exact",
+        "text": "阮要來去西門町去感受一下",
+        "spelling": "gún beh lâi-khì se-mn̂g-ting khì kám-siū yī xià",
+        "manual_id": "line-33:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 84.513,
+        "online_text": "聽講那的東西 實在有影有夠好吃",
+        "status": "approximate",
+        "text": "聽說那個東西實在有影有夠好吃",
+        "spelling": "thiann-kóng hiâ ê mi̍h-kiānn si̍t tsāi ū-iánn ū kàu hó tsia̍h",
+        "manual_id": "line-36:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 87.564,
+        "online_text": "擠一下公車 擠半天還沒到我",
+        "status": "approximate",
+        "text": "等一個公車我等到下午兩點半",
+        "spelling": "tán tsi̍t ê kong-tshia guá tah tán kah ē-poo nn̄g tiám puànn",
+        "manual_id": "line-39:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 90.561,
+        "online_text": "乾脆來去坐那落計程車",
+        "status": "exact",
+        "text": "乾脆來去坐那落計程車",
+        "spelling": "kui-khì lâi-khì tsē hit lo̍h kè-tîng-tshia",
+        "manual_id": "line-42:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 93.516,
+        "online_text": "不曾看過這多的樓仔厝",
+        "status": "exact",
+        "text": "不曾看過這多的樓仔厝",
+        "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù",
+        "manual_id": "line-45:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 96.58,
+        "online_text": "那會土腳歸會攏是一坑一缺",
+        "status": "exact",
+        "text": "那會土腳歸會攏是一坑一缺",
+        "spelling": "ná ē thóo kha kui ē lóng sī tsi̍t khenn tsi̍t khiàm",
+        "manual_id": "line-45:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 99.616,
+        "online_text": "不曾看過這多的樓仔厝",
+        "status": "exact",
+        "text": "不曾看過這多的樓仔厝",
+        "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù",
+        "manual_id": "line-48:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 102.665,
+        "online_text": "那會整個天頂是攏總全沙",
+        "status": "exact",
+        "text": "那會整個天頂是攏總全沙",
+        "spelling": "ná ē kui-ê thinn-tíng sī lóng tsóng tsuân sua",
+        "manual_id": "line-48:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 105.614,
+        "online_text": "不曾看過這多的樓仔厝",
+        "status": "exact",
+        "text": "不曾看過這多的樓仔厝",
+        "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù",
+        "manual_id": "line-51:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 108.683,
+        "online_text": "那會烏托麥攏鑽來頭前擱後壁",
+        "status": "exact",
+        "text": "那會烏托麥攏鑽來頭前擱後壁",
+        "spelling": "ná ē oo-tóo-bái lóng tsǹg lâi thâu-tsîng khè au-piah",
+        "manual_id": "line-51:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 111.714,
+        "online_text": "不曾看過這多的樓仔厝",
+        "status": "exact",
+        "text": "不曾看過這多的樓仔厝",
+        "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù",
+        "manual_id": "line-54:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 114.631,
+        "online_text": "紅燈青燈伊老師那像攏總沒教",
+        "status": "approximate",
+        "text": "紅燈青燈伊老師哪像攏總沒教",
+        "spelling": "âng-ting tshenn-ting i lāu-su ná tshiūnn lóng-tsóng bô-kà",
+        "manual_id": "line-54:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 117.666,
+        "online_text": "不曾看過這多的樓仔厝",
+        "status": "exact",
+        "text": "不曾看過這多的樓仔厝",
+        "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù",
+        "manual_id": "line-57:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 123.786,
+        "online_text": "歸條路攏是賣鞋擱賣衫",
+        "status": "approximate",
+        "text": "歸條路攏是賣鞋擱賣杉",
+        "spelling": "kui tiâu lōo lóng sī bē ê kah bē sam",
+        "manual_id": "line-60:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 27,
+        "time": 126.787,
+        "online_text": "還有一條街整個攏在做電影",
+        "status": "exact",
+        "text": "還有一條街整個攏在做電影",
+        "spelling": "iáu-ū tsi̍t tiâu ke kui-ê lóng leh tsò tiān-iánn",
+        "manual_id": "line-63:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 28,
+        "time": 129.769,
+        "online_text": "有的朋友擱實在有影很好禮",
+        "status": "approximate",
+        "text": "有個朋友擱實在有影很有禮",
+        "spelling": "ū ê pîng-iú gah si̍t-tsāi ū iánn tsiok ū lé",
+        "manual_id": "line-66:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 29,
+        "time": 132.711,
+        "online_text": "手給阮拖著擱一直叫阮入來坐",
+        "status": "exact",
+        "text": "手給阮拖著擱一直叫阮 入 來坐",
+        "spelling": "tshiú kā gún thua tio̍h kah it-ti̍t kiò gún li̍p lâi tsē",
+        "manual_id": "line-69:0+line-69:1+line-69:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 30,
+        "time": 137.734,
+        "online_text": "入來坐",
+        "status": "exact",
+        "text": "入 來坐",
+        "spelling": "li̍p lâi tsē",
+        "manual_id": "line-69:1+line-69:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 31,
+        "time": 140.813,
+        "online_text": "入來坐",
+        "status": "exact",
+        "text": "入 來坐",
+        "spelling": "li̍p lâi tsē",
+        "manual_id": "line-69:1+line-69:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 32,
+        "time": 144.139,
+        "online_text": "來坐",
+        "status": "exact",
+        "text": "來坐",
+        "spelling": "lâi tsē",
+        "manual_id": "line-69:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 33,
+        "time": 147.68,
+        "online_text": "阮要來去東區去感受一下",
+        "status": "exact",
+        "text": "阮要來去東區去感受一下",
+        "spelling": "gún beh lâi-khì tang-qù khì kám-siū yīxià",
+        "manual_id": "line-72:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 34,
+        "time": 150.68,
+        "online_text": "看那的人敢是攏總穿甲足趴",
+        "status": "approximate",
+        "text": "看那的人敢是攏總穿甲族趴",
+        "spelling": "khuànn hiâ ê lâng kám sī lóng tsóng tshīng kah tso̍k tà",
+        "manual_id": "line-75:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 35,
+        "time": 153.684,
+        "online_text": "擠一下公車擠半天還沒到我",
+        "status": "approximate",
+        "text": "擠一下公車擠走半天還沒到我",
+        "spelling": "kheh tsi̍t ê kong-tshia kheh kui puànn-kang iáu-bē tio̍h guá",
+        "manual_id": "line-78:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 36,
+        "time": 156.61,
+        "online_text": "歸去又擱來去坐那落計程車",
+        "status": "exact",
+        "text": "歸去又擱來去坐那落計程車",
+        "spelling": "kui khì iū koh lâi-khì tsō tse lo̍h kè-thîng-tshia",
+        "manual_id": "line-81:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 37,
+        "time": 159.238,
+        "online_text": "想過來又想過去",
+        "status": "exact",
+        "text": "想過來又想過去",
+        "spelling": "siūnn kuè-lâi iū siūnn kuè-khì",
+        "manual_id": "line-84:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 38,
+        "time": 162.669,
+        "online_text": "那會整排車大家攏在喘大氣",
+        "status": "exact",
+        "text": "那會整排車大家攏在喘大氣",
+        "spelling": "ná ē kui pâi tshia ta̍k-ke lóng leh tshuán tuā-khì",
+        "manual_id": "line-84:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 39,
+        "time": 165.262,
+        "online_text": "想過來又想過去",
+        "status": "exact",
+        "text": "想過來又想過去",
+        "spelling": "siūnn kuè-lâi iū siūnn kuè-khì",
+        "manual_id": "line-87:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 40,
+        "time": 168.636,
+        "online_text": "那會大家攏給垃圾丟在路邊",
+        "status": "exact",
+        "text": "那會大家攏給垃圾丟在路邊",
+        "spelling": "ná ē ta̍k-ke lóng kā pùn-sò tàn tī lōo-pinn",
+        "manual_id": "line-87:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 41,
+        "time": 171.232,
+        "online_text": "想過來又想過去",
+        "status": "exact",
+        "text": "想過來又想過去",
+        "spelling": "siūnn kuè-lâi iū siūnn kuè-khì",
+        "manual_id": "line-90:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 42,
+        "time": 174.48,
+        "online_text": "天上的鳥仔是安怎攏總走去避",
+        "status": "approximate",
+        "text": "天上的鳥仔是安怎攏總飛去避",
+        "spelling": "thinn-tíng ê tsiáu-á sī an-tsuánn lóng tsóng tsáu khì pī",
+        "manual_id": "line-90:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 43,
+        "time": 177.23,
+        "online_text": "想過來又想過去",
+        "status": "exact",
+        "text": "想過來又想過去",
+        "spelling": "siūnn kuè-lâi iū siūnn kuè-khì",
+        "manual_id": "line-93:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 44,
+        "time": 180.61,
+        "online_text": "這款的環境 伊敢有影住會舒適",
+        "status": "exact",
+        "text": "這款的環境伊敢有影住會舒適",
+        "spelling": "tsit-khuán ê khuân-kíng i kám ū iánn tuà ē sù-sī",
+        "manual_id": "line-93:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 45,
+        "time": 183.238,
+        "online_text": "想過來又想過去",
+        "status": "exact",
+        "text": "想過來又想過去",
+        "spelling": "siūnn kuè-lâi iū siūnn kuè-khì",
+        "manual_id": "line-96:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 46,
+        "time": 189.565,
+        "online_text": "看到大家人伊家那像攏足好額",
+        "status": "approximate",
+        "text": "看到大家人伊家哪像攏足好額",
+        "spelling": "khuànn tio̍h ta̍k-ke lâng iân-tâu ná tshiūnn lóng tsiok-hó gia̍h",
+        "manual_id": "line-99:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 47,
+        "time": 192.56,
+        "online_text": "七八十攤排在路邊在賣東西",
+        "status": "exact",
+        "text": "七八十攤排在路邊在賣東西",
+        "spelling": "tshit peh tsa̍p tànn pâi tī lōo-pinn leh bē mi̍h-kiānn",
+        "manual_id": "line-102:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 48,
+        "time": 195.518,
+        "online_text": "熊熊咻一下歸下攏總沒看人影",
+        "status": "exact",
+        "text": "熊熊咻一下歸下攏總沒看人影",
+        "spelling": "hiong hiong hiu tsi̍t-ē kui ē lóng-tsóng bô khuànn lâng iánn",
+        "manual_id": "line-105:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 49,
+        "time": 198.412,
+        "online_text": "當時啊就是那個警察擱來抓",
+        "status": "exact",
+        "text": "當時啊就是那個警察 擱來抓",
+        "spelling": "tang sî ah tio̍h sī hit ê kíng-tshat khò lâi lia̍h",
+        "manual_id": "line-108:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 50,
+        "time": 213.58,
+        "online_text": "阮要來去士林夜市感受一下",
+        "status": "exact",
+        "text": "阮要來去士林夜市感受一下",
+        "spelling": "gún beh lâi-khì sū-lîm e su gǎn shòu yī xià",
+        "manual_id": "line-111:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 51,
+        "time": 216.716,
+        "online_text": "看那裡的東西甘有影有夠好吃",
+        "status": "approximate",
+        "text": "聽說那個東西實在有影有夠好吃",
+        "spelling": "thiann-kóng hiâ ê mi̍h-kiānn si̍t tsāi ū-iánn ū kàu hó tsia̍h",
+        "manual_id": "line-114:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 52,
+        "time": 219.735,
+        "online_text": "要找公車牌我找甲霧煞煞",
+        "status": "exact",
+        "text": "要找公車牌我找甲霧煞煞",
+        "spelling": "beh tshuē kong-tshia pâi guá tshuē kah bū-suah-suah",
+        "manual_id": "line-117:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 53,
+        "time": 222.789,
+        "online_text": "看破得要花那個兩百八去坐計程車",
+        "status": "approximate",
+        "text": "看破的要花那個兩百八去坐計程車",
+        "spelling": "khuànn phò ê beh goh gai hit ê liǎng bǎi pat khì tsē kè-tîng-tshia",
+        "manual_id": "line-120:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 54,
+        "time": 225.414,
+        "online_text": "轉過來擱轉過去",
+        "status": "approximate",
+        "text": "轉過來轉過去",
+        "spelling": "se̍h kuè-lâi se̍h kuè-khì",
+        "manual_id": "line-123:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 55,
+        "time": 228.867,
+        "online_text": "轉甲司機險險撞從安全島去",
+        "status": "exact",
+        "text": "轉甲司機險險撞從安全島去",
+        "spelling": "se̍h kah su-ki hiám hiám lòng tuì an-tsuân tó khì",
+        "manual_id": "line-123:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 56,
+        "time": 231.611,
+        "online_text": "轉過來擱轉過去",
+        "status": "approximate",
+        "text": "轉過來轉過去",
+        "spelling": "se̍h kuè-lâi se̍h kuè-khì",
+        "manual_id": "line-126:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 57,
+        "time": 234.811,
+        "online_text": "轉甲今嘛不知是民國幾年",
+        "status": "exact",
+        "text": "轉甲今嘛不知是民國幾年",
+        "spelling": "se̍h kah jīn ma m̄ tsai sī bîn-kok kuí nî",
+        "manual_id": "line-126:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 58,
+        "time": 237.669,
+        "online_text": "轉過來擱轉過去",
+        "status": "approximate",
+        "text": "轉過來轉過去",
+        "spelling": "se̍h kuè-lâi se̍h kuè-khì",
+        "manual_id": "line-129:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 59,
+        "time": 240.936,
+        "online_text": "轉甲這世人那像無通呷到百二",
+        "status": "approximate",
+        "text": "轉甲這世人那樣無通呷到百二",
+        "spelling": "se̍h kah tsit-sì lâng ná tsiūnn bô-thang kah jia kah bǎi èr",
+        "manual_id": "line-129:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 60,
+        "time": 243.764,
+        "online_text": "轉過來擱轉過去",
+        "status": "approximate",
+        "text": "轉過來轉過去",
+        "spelling": "se̍h kuè-lâi se̍h kuè-khì",
+        "manual_id": "line-132:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 61,
+        "time": 247.068,
+        "online_text": "轉甲全身軀煞感覺攏無趣味",
+        "status": "exact",
+        "text": "轉甲全身軀煞感覺攏無趣味",
+        "spelling": "se̍h kah kui-sin-khu suah kám-kak lóng bô tshù-bī",
+        "manual_id": "line-132:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 62,
+        "time": 249.78,
+        "online_text": "轉過來擱轉過去",
+        "status": "approximate",
+        "text": "轉過來轉過去",
+        "spelling": "se̍h kuè-lâi se̍h kuè-khì",
+        "manual_id": "line-135:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 63,
+        "time": 256.231,
+        "online_text": "整條路攏擠甲看沒頭前",
+        "status": "exact",
+        "text": "整條路攏擠甲看沒頭前",
+        "spelling": "kui tiâu lōo lóng kheh kah khuànn-bô thâu-tsîng",
+        "manual_id": "line-138:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 64,
+        "time": 259.266,
+        "online_text": "還擱有一間鐵厝是有夠大間",
+        "status": "exact",
+        "text": "還擱有一間鐵厝是有夠大間",
+        "spelling": "iáu-koh ū tsi̍t king thih-tshù sī ū kàu tuā king",
+        "manual_id": "line-141:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 65,
+        "time": 262.181,
+        "online_text": "在賣蚵仔煎 牛排 肉圓 花枝和銼冰",
+        "status": "exact",
+        "text": "在賣蚵仔煎 牛排肉圓花枝和銼冰",
+        "spelling": "leh bē ô-á-tsian gû-pâi bah-uân hue-ki kah tsua̍h ping",
+        "manual_id": "line-144:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 66,
+        "time": 265.215,
+        "online_text": "還擱有一種大餅包小餅",
+        "status": "exact",
+        "text": "還擱有一種大餅 包小餅",
+        "spelling": "iáu-koh ū tsi̍t tsíng tuā-piánn pau sió piánn",
+        "manual_id": "line-147:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 67,
+        "time": 267.862,
+        "online_text": "不曾看過這多的樓仔厝",
+        "status": "exact",
+        "text": "不曾看過這多的樓仔厝",
+        "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù",
+        "manual_id": "line-150:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 68,
+        "time": 271.162,
+        "online_text": "那會土腳歸會攏是一坑一缺",
+        "status": "exact",
+        "text": "那會土腳歸會攏是一坑一缺",
+        "spelling": "ná ē thóo kha kui ē lóng sī tsi̍t khenn tsi̍t khiàm",
+        "manual_id": "line-150:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 69,
+        "time": 273.864,
+        "online_text": "不曾看過這多的樓仔厝",
+        "status": "exact",
+        "text": "不曾看過這多的樓仔厝",
+        "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù",
+        "manual_id": "line-153:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 70,
+        "time": 277.187,
+        "online_text": "那會整個天頂是攏總全沙",
+        "status": "exact",
+        "text": "那會整個天頂是攏總全沙",
+        "spelling": "ná ē kui-ê thinn-tíng sī lóng tsóng tsuân sua",
+        "manual_id": "line-153:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 71,
+        "time": 279.863,
+        "online_text": "不曾看過這多的樓仔厝",
+        "status": "exact",
+        "text": "不曾看過這多的樓仔厝",
+        "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù",
+        "manual_id": "line-156:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 72,
+        "time": 283.218,
+        "online_text": "那會烏托麥攏鑽來頭前擱後壁",
+        "status": "exact",
+        "text": "那會烏托麥攏鑽來頭前擱後壁",
+        "spelling": "ná ē oo-tóo-bái lóng tsǹg lâi thâu-tsîng khè au-piah",
+        "manual_id": "line-156:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 73,
+        "time": 285.817,
+        "online_text": "不曾看過這多的樓仔厝",
+        "status": "exact",
+        "text": "不曾看過這多的樓仔厝",
+        "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù",
+        "manual_id": "line-159:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 74,
+        "time": 289.116,
+        "online_text": "紅燈青燈伊老師那像攏總沒教",
+        "status": "approximate",
+        "text": "紅燈青燈伊老師哪像攏總沒教",
+        "spelling": "âng-ting tshenn-ting i lāu-su ná tshiūnn lóng-tsóng bô-kà",
+        "manual_id": "line-159:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 75,
+        "time": 292.118,
+        "online_text": "煞攏無煞煞煞攏無",
+        "status": "approximate",
+        "text": "煞攏無殺殺殺攏無",
+        "spelling": "sannh lóng bô sat sat sat lóng bô",
+        "manual_id": "line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 76,
+        "time": 295.139,
+        "online_text": "煞攏無煞煞煞攏無",
+        "status": "approximate",
+        "text": "煞攏無殺殺殺攏無",
+        "spelling": "sannh lóng bô sat sat sat lóng bô",
+        "manual_id": "line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 77,
+        "time": 298.119,
+        "online_text": "煞攏無煞煞煞攏無",
+        "status": "approximate",
+        "text": "煞攏無殺殺殺攏無",
+        "spelling": "sannh lóng bô sat sat sat lóng bô",
+        "manual_id": "line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 78,
+        "time": 301.016,
+        "online_text": "煞攏無煞煞煞攏無",
+        "status": "approximate",
+        "text": "煞攏無殺殺殺攏無",
+        "spelling": "sannh lóng bô sat sat sat lóng bô",
+        "manual_id": "line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 79,
+        "time": 304.013,
+        "online_text": "煞攏無煞煞煞攏無",
+        "status": "approximate",
+        "text": "煞攏無殺殺殺攏無",
+        "spelling": "sannh lóng bô sat sat sat lóng bô",
+        "manual_id": "line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 80,
+        "time": 306.98,
+        "online_text": "煞攏無煞煞煞攏無",
+        "status": "approximate",
+        "text": "煞攏無殺殺殺攏無",
+        "spelling": "sannh lóng bô sat sat sat lóng bô",
+        "manual_id": "line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 81,
+        "time": 309.869,
+        "online_text": "煞攏無煞煞煞攏無",
+        "status": "approximate",
+        "text": "煞攏無殺殺殺攏無",
+        "spelling": "sannh lóng bô sat sat sat lóng bô",
+        "manual_id": "line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 82,
+        "time": 312.831,
+        "online_text": "煞攏無煞煞煞攏無",
+        "status": "approximate",
+        "text": "煞嚨無~",
+        "spelling": "sannh lóng bô～",
+        "manual_id": "line-162:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

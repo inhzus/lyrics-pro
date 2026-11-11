@@ -1,0 +1,651 @@
+{
+  "recording_id": "netease:156523",
+  "timing_source": "NetEase https://music.163.com/song?id=156523",
+  "manual_source": "User-supplied resources/lyrics-spelling/快樂的等待-伍佰",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 3,
+    "approximate": 12,
+    "exact": 6,
+    "unresolved": 18,
+    "repeat": 6
+  },
+  "review_row_count": 36,
+  "unmatched_manual_ids": [
+    "line-18:0",
+    "line-36:0",
+    "line-78:0"
+  ],
+  "unused_repeat_ids": [
+    "line-15:0",
+    "line-33:0",
+    "line-45:0",
+    "line-48:0",
+    "line-51:0",
+    "line-54:0",
+    "line-57:0",
+    "line-60:0",
+    "line-75:0",
+    "line-87:0",
+    "line-90:0",
+    "line-93:0",
+    "line-96:0",
+    "line-99:0",
+    "line-102:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 伍佰",
+      "match_text": "作词 : 伍佰",
+      "text": "作词 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 伍佰",
+      "match_text": "作曲 : 伍佰",
+      "text": "作曲 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "编曲 : 伍佰 & China Blue",
+      "match_text": "编曲 : 伍佰 & China Blue",
+      "text": "编曲 : 伍佰 & China Blue",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 22.83,
+      "online_text": "一小时   你应该还在甩香水点胭脂",
+      "match_text": "一小时   你应该还在甩香水点胭脂",
+      "text": "一小時 妳應該還在甩香水點胭脂",
+      "spelling": "tsi̍t sió-sî lí ing-kai iáu-leh hiù phang-tsuí tiám ian-tsi",
+      "manual_id": "line-3:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.928571
+    },
+    {
+      "source_row": 4,
+      "time": 26.06,
+      "online_text": "二小时   你说你出门进前要喝咖啡",
+      "match_text": "二小时   你说你出门进前要喝咖啡",
+      "text": "二小時 妳說妳出門進前要喝咖啡",
+      "spelling": "nn̄g sió-sî lí kóng lí tshut-mn̂g tsìn-tsîng ài lim ka-pi",
+      "manual_id": "line-6:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 5,
+      "time": 29.77,
+      "online_text": "三小时   路里在塞车真是足委屈你",
+      "match_text": "三小时   路里在塞车真是足委屈你",
+      "text": "三小時 路裡在塞車真是足委屈妳",
+      "spelling": "sann sió-sî lōo-lí tī that-tshia tsin sī tsiok uí-khut lí",
+      "manual_id": "line-9:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 6,
+      "time": 33.74,
+      "online_text": "四小时   一定是手机没电抹冻开机",
+      "match_text": "四小时   一定是手机没电抹冻开机",
+      "text": "四小時 一定是手機沒電抹凍開機",
+      "spelling": "sì sió-sî it-tīng sī tshiú-ki bô tiān bē tàng khui-ki",
+      "manual_id": "line-12:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 37.27,
+      "online_text": "我   尚甲意咧等你",
+      "match_text": "我   尚甲意咧等你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 43.43,
+      "online_text": "等着你心情欢喜 连我吸的气拢甜甜",
+      "match_text": "等着你心情欢喜 连我吸的气拢甜甜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 51.97,
+      "online_text": "五小时   你今晚头毛sedo一定真美",
+      "match_text": "五小时   你今晚头毛sedo一定真美",
+      "text": "五小時 妳今晚頭毛sedo一定真美",
+      "spelling": "gōo sió-sî lí îng-àm thâu-mn̂g sedo it-tīng tsin suí",
+      "manual_id": "line-21:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.9375
+    },
+    {
+      "source_row": 10,
+      "time": 55.64,
+      "online_text": "六小时   我嘛来点着一杯无糖咖啡",
+      "match_text": "六小时   我嘛来点着一杯无糖咖啡",
+      "text": "六小時 我嘛來點著一杯無糖咖啡",
+      "spelling": "lio̍k sió-sî guá mah lâi tiám-to̍h tsi̍t pue bô thn̂g ka-pi",
+      "manual_id": "line-24:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 59.25,
+      "online_text": "七小时   你塞车生气的嘴撇嘛真古椎",
+      "match_text": "七小时   你塞车生气的嘴撇嘛真古椎",
+      "text": "七小時 妳塞車生氣的嘴撇嘛真古椎",
+      "spelling": "tshit sió-sî lí that-tshia siū-khì ê tshuì sué mah tsin kóo tsui",
+      "manual_id": "line-27:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.933333
+    },
+    {
+      "source_row": 12,
+      "time": 62.87,
+      "online_text": "八小时   我想要替你准备新的电池",
+      "match_text": "八小时   我想要替你准备新的电池",
+      "text": "八小時 我想要替妳準備新的電池",
+      "spelling": "peh sió-sî guá siūnn beh thè lí tsún-pī sin ê tiān-tî",
+      "manual_id": "line-30:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.928571
+    },
+    {
+      "source_row": 13,
+      "time": 66.3,
+      "online_text": "我   尚甲意咧等你",
+      "match_text": "我   尚甲意咧等你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 72.95,
+      "online_text": "等着你心情欢喜 连我吸的气拢甜甜",
+      "match_text": "等着你心情欢喜 连我吸的气拢甜甜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 81.5,
+      "online_text": "我拢在这   没吹冷气嘛未太热",
+      "match_text": "我拢在这   没吹冷气嘛未太热",
+      "text": "我攏在這 沒吹冷氣嘛未太熱",
+      "spelling": "guá lóng tī tsia bô tshue líng-khì mah bē siunn jua̍h",
+      "manual_id": "line-39:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 85.26,
+      "online_text": "一直在这   没穿外衫嘛未畏寒",
+      "match_text": "一直在这   没穿外衫嘛未畏寒",
+      "text": "一直在這 沒穿外衫嘛未畏寒",
+      "spelling": "it-ti̍t tī tsia bô tshīng guā-sann mah bē uì-kuânn",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 88.89,
+      "online_text": "等你来这   不是约好要看电影",
+      "match_text": "等你来这   不是约好要看电影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 92.56,
+      "online_text": "甘说是我   日子记诞诞",
+      "match_text": "甘说是我   日子记诞诞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 96.24,
+      "online_text": "我拢在这   爱你的心火拢未发",
+      "match_text": "我拢在这   爱你的心火拢未发",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 99.83,
+      "online_text": "一直在这   有你通想我就快活",
+      "match_text": "一直在这   有你通想我就快活",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 103.43,
+      "online_text": "等你来这   人拢走了只有剩我",
+      "match_text": "等你来这   人拢走了只有剩我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 107.31,
+      "online_text": "甘说是我   日子记诞诞",
+      "match_text": "甘说是我   日子记诞诞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 163.19,
+      "online_text": "九小时   你甘会久不来走不对间去",
+      "match_text": "九小时   你甘会久不来走不对间去",
+      "text": "九小時 妳甘會久不來走不對間去",
+      "spelling": "káu sió-sî lí kam ē kú bô lâi kiânn m̄-tio̍h king khì",
+      "manual_id": "line-63:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.928571
+    },
+    {
+      "source_row": 24,
+      "time": 166.68,
+      "online_text": "十小时   你大概当咧问人这是佗位",
+      "match_text": "十小时   你大概当咧问人这是佗位",
+      "text": "十小時 妳大概當咧問人這是佗位",
+      "spelling": "tsa̍p sió-sî lí tāi-khài tǹg leh mn̄g lâng tsia sī tó-uī",
+      "manual_id": "line-66:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.928571
+    },
+    {
+      "source_row": 25,
+      "time": 170.4,
+      "online_text": "十一小时   透中午等到今嘛已经半暝",
+      "match_text": "十一小时   透中午等到今嘛已经半暝",
+      "text": "十一小時 透中午等到今嘛已經半暝",
+      "spelling": "tsa̍p-it sió-sî thàu tiong-tàu tán-kàu jin mah í-king puànn-mê",
+      "manual_id": "line-69:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 174.06,
+      "online_text": "十二小时   我等这久嘛未来郁卒空虚",
+      "match_text": "十二小时   我等这久嘛未来郁卒空虚",
+      "text": "十二小時 我等這久嘛未來鬱卒空虛",
+      "spelling": "tsa̍p-jī sió-sî guá tán tsia-kú mah bē lâi ut-tsut khang-hi",
+      "manual_id": "line-72:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 177.74,
+      "online_text": "我   尚甲意咧等你",
+      "match_text": "我   尚甲意咧等你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 183.98,
+      "online_text": "等着你心情欢喜 连我吸的气拢甜甜",
+      "match_text": "等着你心情欢喜 连我吸的气拢甜甜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 192.57,
+      "online_text": "我拢在这   没吹冷气嘛未太热",
+      "match_text": "我拢在这   没吹冷气嘛未太热",
+      "text": "我攏在這 沒吹冷氣嘛未太熱",
+      "spelling": "guá lóng tī tsia bô tshue líng-khì mah bē siunn jua̍h",
+      "manual_id": "line-39:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 196.02,
+      "online_text": "一直在这   没穿外衫嘛未畏寒",
+      "match_text": "一直在这   没穿外衫嘛未畏寒",
+      "text": "一直在這 沒穿外衫嘛未畏寒",
+      "spelling": "it-ti̍t tī tsia bô tshīng guā-sann mah bē uì-kuânn",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 199.92,
+      "online_text": "等你来这   不是约好要看电影",
+      "match_text": "等你来这   不是约好要看电影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 203.54,
+      "online_text": "甘说是你   日子记诞诞",
+      "match_text": "甘说是你   日子记诞诞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 207.96,
+      "online_text": "我拢在这   爱你的心火拢未发",
+      "match_text": "我拢在这   爱你的心火拢未发",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 211.1,
+      "online_text": "一直在这   有你通想我就快活",
+      "match_text": "一直在这   有你通想我就快活",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 214.84,
+      "online_text": "等你来这   人拢走了只有剩我",
+      "match_text": "等你来这   人拢走了只有剩我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 218.6,
+      "online_text": "甘说是我   日子记诞诞",
+      "match_text": "甘说是我   日子记诞诞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 225.5,
+      "online_text": "开门的声   声声拢是美丽的歌",
+      "match_text": "开门的声   声声拢是美丽的歌",
+      "text": "開門的聲 聲聲攏是美麗的歌",
+      "spelling": "khui-mn̂g ê siann  siann siann lóng sī bí-lē ê kua",
+      "manual_id": "line-105:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 229.18,
+      "online_text": "关门的声   离我心爱愈来愈倚",
+      "match_text": "关门的声   离我心爱愈来愈倚",
+      "text": "關門的聲 離我心愛愈來愈偎",
+      "spelling": "kuinn-mn̂g ê siann lī guá sim-ài lú lâi lú uá",
+      "manual_id": "line-108:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.916667
+    },
+    {
+      "source_row": 39,
+      "time": 232.78,
+      "online_text": "时钟的声   十二点钟快乐的折磨",
+      "match_text": "时钟的声   十二点钟快乐的折磨",
+      "text": "時鐘的聲 十二點鐘快樂的折磨",
+      "spelling": "sî-tsing ê siann tsa̍p-jī tiám-tsing khuài-lo̍k ê tshik-buâ",
+      "manual_id": "line-111:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 236.46,
+      "online_text": "甘说是你   完全不知影",
+      "match_text": "甘说是你   完全不知影",
+      "text": "甘說是妳 完全不知影",
+      "spelling": "kam kóng sī lí uân-tsuân m̄ tsai-iánn",
+      "manual_id": "line-114:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 41,
+      "time": 240.91,
+      "online_text": "走路的声   声声拢是美丽的歌",
+      "match_text": "走路的声   声声拢是美丽的歌",
+      "text": "走路的聲 聲聲攏是美麗的歌",
+      "spelling": "kiânn-lōo ê siann  siann siann lóng sī bí-lē ê kua",
+      "manual_id": "line-117:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 244.67,
+      "online_text": "停车的声   离我心爱愈来愈倚",
+      "match_text": "停车的声   离我心爱愈来愈倚",
+      "text": "停車的聲 離我心愛愈來愈偎",
+      "spelling": "thîng tshia ê siann lī guá sim-ài lú lâi lú uá",
+      "manual_id": "line-120:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.916667
+    },
+    {
+      "source_row": 43,
+      "time": 248.34,
+      "online_text": "时钟的声   十二点钟快乐的折磨",
+      "match_text": "时钟的声   十二点钟快乐的折磨",
+      "text": "時鐘的聲 十二點鐘快樂的折磨",
+      "spelling": "sî-tsing ê siann tsa̍p-jī tiám-tsing khuài-lo̍k ê tshik-buâ",
+      "manual_id": "line-111:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 44,
+      "time": 252.19,
+      "online_text": "甘说是你   不知我的名",
+      "match_text": "甘说是你   不知我的名",
+      "text": "甘說是妳 不知我的名",
+      "spelling": "kam kóng sī sī lí m̄ tsai guá ê miâ",
+      "manual_id": "line-126:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.888889
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "034e67fa8aafea18c96727cbff5b6e27f134dcf2dd4ff9b447e4ddf73428e481",
+    "manual": "dbbed8a369097895f031b22d65c2ce04b1db85c38bd4d80d3a5faffd34f518e2",
+    "timed": "5b54aad7dcfcf39dd3c9dca56a40ffc97a9718e56f9f5e2c001f229abafed276"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 157183,
+      "title": "徘徊夜都市",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "树枝孤鸟",
+      "duration": 261.893,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2165377213,
+      "title": "徘徊夜都市",
+      "artists": [
+        "pekkon"
+      ],
+      "album": "華語歌曲精選集 - 伍佰 Vol.6",
+      "duration": 218.818,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3376246235,
+      "title": "徘徊夜都市",
+      "artists": [
+        "小握"
+      ],
+      "album": "《鬼岛物语》小握闽南语三部曲Ⅶ",
+      "duration": 262.138,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

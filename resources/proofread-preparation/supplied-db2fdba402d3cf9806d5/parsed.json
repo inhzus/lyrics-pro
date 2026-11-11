@@ -1,0 +1,277 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "我知道妳的夢",
+      "spelling": "guá tsai-iánn lí ê bāng",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "也了解妳愛的人",
+      "spelling": "iā liáu-kái lí ài ê lâng",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "梳著青春的頭髮",
+      "spelling": "lua̍h-tio̍h tshing-tshun ê thâu-tsang",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "搝著大船不願放",
+      "spelling": "giú-tio̍h tuā tsûn m̄-guān pàng",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "定定講她的名",
+      "spelling": "tiānn-tiānn kóng i ê miâ",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "常常欲親她的嘴",
+      "spelling": "siông-siông beh tshin i ê tshuì",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "不敢替她來脫衣",
+      "spelling": "m̄ kánn thè i lâi thǹg-sann",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "然後逐晚來失眠",
+      "spelling": "liân-āu ta̍k àm lâi sit-bîn",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "轉頭來看她離開",
+      "spelling": "ua̍t-thâu lâi khuànn i lī-khui",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "若親像凋謝的花蕊",
+      "spelling": "ná tshin-tshiūnn tiau-siā ê hue-luí",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "拿著半罐的燒酒",
+      "spelling": "the̍h-tio̍h puànn kuàn ê sio-tsiú",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "飲不了是妳的憂愁",
+      "spelling": "lím-buē-liáu sī lí ê iu-tshiû",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "走進了妳的雙腿",
+      "spelling": "kiânn-ji̍p-liáu lí ê siang-thuí",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "看不到妳說的媠",
+      "spelling": "khuànn-bē-tio̍h lí kóng ê suí",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "遇到妳和他的囝仔",
+      "spelling": "tú-tio̍h lí kā i ê kín-á",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "我閣無奈去叫他心肝",
+      "spelling": "guá koh bô-nāi khì kiò i sim-kuann",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "我若是有來生我想欲變成你阿",
+      "spelling": "guá ná sī ū lâi sing guá siūnn-beh piàn-sîng lí ah",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "我若是有來生我想欲變成你",
+      "spelling": "guá ná sī ū lâi sing guá siūnn-beh piàn-sîng lí",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "是妳 美麗的妳 溫柔的妳 位佗去",
+      "spelling": "sī lí bí-lē ê lí un-jiû ê lí uī-tuē-khì",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "是夢一般的妳 是親像大海的妳",
+      "spelling": "sī bāng tsi̍t-puann ê lí sī tshin-tshiūnn tuā-hái ê lí",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "敢問會記住 返來的時",
+      "spelling": "kánn-mn̄g ē kì-tshi tńg-lâi ê sî",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "我定定咧想 我這個人生",
+      "spelling": "guá tiānn-tiānn teh siūnn guá tsit-ê lîn-sing",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "是要安怎才會過得較順適一點",
+      "spelling": "sī beh an-nuánn tsiah ē kuè-tio̍h khah sūn sik tsi̍t-ē",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "愈來愈大漢了後我發現",
+      "spelling": "lú lâi lú tuā-hàn liáu huat-hiān",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "我生得無夠緣投 嘛無錢",
+      "spelling": "guá senn-tio̍h bô-kàu iân-tâu mā bô tshînn",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "我若是有來生 我想欲變成你",
+      "spelling": "guá ná sī ū lâi sing guá siūnn-beh piàn-sîng lí",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "我若是有來生我想欲變成你阿",
+      "spelling": "guá ná sī ū lâi sing guá siūnn-beh piàn-sîng lí ah",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "我若是有來生我想欲變成你阿",
+      "spelling": "guá ná sī ū lâi sing guá siūnn-beh piàn-sîng lí ah",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "我若是有來生我想欲變成你阿",
+      "spelling": "guá ná sī ū lâi sing guá siūnn-beh piàn-sîng lí ah",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "我若是有來生我想欲變成你阿",
+      "spelling": "guá ná sī ū lâi sing guá siūnn-beh piàn-sîng lí ah",
+      "source_lines": [
+        88,
+        89
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

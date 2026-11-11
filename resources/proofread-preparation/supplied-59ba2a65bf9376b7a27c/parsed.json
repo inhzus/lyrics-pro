@@ -1,0 +1,465 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "會記哩牽手　    　       散步的彼暗　    　   公車擱過站",
+      "spelling": "ē kì lih khan-tshiú    sàn-pōo ê hit àm    kong-tshia koh kuè tsām",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "會記哩牽手",
+          "spelling": "ē kì lih khan-tshiú"
+        },
+        {
+          "text": "散步的彼暗",
+          "spelling": "sàn-pōo ê hit àm"
+        },
+        {
+          "text": "公車擱過站",
+          "spelling": "kong-tshia koh kuè tsām"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "你我的心願　    　    講也講不完　    　    　    開始期待",
+      "spelling": "lí guá ê sim-guān    kóng iā kóng bē suah    khai-sí kî-thāi",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "你我的心願",
+          "spelling": "lí guá ê sim-guān"
+        },
+        {
+          "text": "講也講不完",
+          "spelling": "kóng iā kóng bē suah"
+        },
+        {
+          "text": "開始期待",
+          "spelling": "khai-sí kî-thāi"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "無聊的人生　    　    我已經覺悟　    　    　 攏可以結束",
+      "spelling": "bô-liâu ê lîn-sing    guá í-king kak-ngōo    lóng ē-sái kiat-sok",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "無聊的人生",
+          "spelling": "bô-liâu ê lîn-sing"
+        },
+        {
+          "text": "我已經覺悟",
+          "spelling": "guá í-king kak-ngōo"
+        },
+        {
+          "text": "攏可以結束",
+          "spelling": "lóng ē-sái kiat-sok"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "你甘知一種　   　   　     神秘的力量　  　    改變阮前途",
+      "spelling": "lí kam tsai tsi̍t tsióng    sîn-pì ê li̍k-liōng    kái-piàn gún tsiân-tôo",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "你甘知一種",
+          "spelling": "lí kam tsai tsi̍t tsióng"
+        },
+        {
+          "text": "神秘的力量",
+          "spelling": "sîn-pì ê li̍k-liōng"
+        },
+        {
+          "text": "改變阮前途",
+          "spelling": "kái-piàn gún tsiân-tôo"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "全新的人生的路　            　      不知是光明是錯誤",
+      "spelling": "tsuân-sin ê lîn-sing ê lōo        m̄ tsai sī kong-bîng sī tshò-gōo",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "全新的人生的路",
+          "spelling": "tsuân-sin ê lîn-sing ê lōo"
+        },
+        {
+          "text": "不知是光明是錯誤",
+          "spelling": "m̄ tsai sī kong-bîng sī tshò-gōo"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "是你給阮一個夢　            　   未記人生的苦澀",
+      "spelling": "sī lí hōo gún tsi̍t ê bāng        buē kì lîn-sing ê khóo siap",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "是你給阮一個夢",
+          "spelling": "sī lí hōo gún tsi̍t ê bāng"
+        },
+        {
+          "text": "未記人生的苦澀",
+          "spelling": "buē kì lîn-sing ê khóo siap"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "真正想要對你講　            　    　    　甘擱有別項",
+      "spelling": "tsin-tsiànn siūnn beh tuì lí kóng    kam koh ū pa̍t-hāng",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "真正想要對你講",
+          "spelling": "tsin-tsiànn siūnn beh tuì lí kóng"
+        },
+        {
+          "text": "甘擱有別項",
+          "spelling": "kam koh ū pa̍t-hāng"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "是你放阮一個人　          　       走過風雨的思念",
+      "spelling": "sī lí pàng gún tsi̍t ê lâng        kiânn-kuè hong-hōo ê su-liām",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "是你放阮一個人",
+          "spelling": "sī lí pàng gún tsi̍t ê lâng"
+        },
+        {
+          "text": "走過風雨的思念",
+          "spelling": "kiânn-kuè hong-hōo ê su-liām"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "真正想要對你講　           　    　    　    心中無別人",
+      "spelling": "tsin-tsiànn siūnn bueh tuì lí kóng    sim-tiong bô pa̍t-lâng",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "真正想要對你講",
+          "spelling": "tsin-tsiànn siūnn bueh tuì lí kóng"
+        },
+        {
+          "text": "心中無別人",
+          "spelling": "sim-tiong bô pa̍t-lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "無味的命運　      　     平凡的世間　        　    　 混亂的心內",
+      "spelling": "bô-bī ê miā-ūn            pîng-huân ê sè-kan        hūn-luān ê sim-lāi",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "無味的命運",
+          "spelling": "bô-bī ê miā-ūn"
+        },
+        {
+          "text": "平凡的世間",
+          "spelling": "pîng-huân ê sè-kan"
+        },
+        {
+          "text": "混亂的心內",
+          "spelling": "hūn-luān ê sim-lāi"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "微微的怨嘆　              一天又一天　   　    　          你甘不曾",
+      "spelling": "bî bî ê uàn-thàn        tsi̍t kang koh tsi̍t kang        lí kam m̄ bat",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "微微的怨嘆",
+          "spelling": "bî bî ê uàn-thàn"
+        },
+        {
+          "text": "一天又一天",
+          "spelling": "tsi̍t kang koh tsi̍t kang"
+        },
+        {
+          "text": "你甘不曾",
+          "spelling": "lí kam m̄ bat"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "開太多氣力　        　    　     在這個世界　     　    有稍微無睬",
+      "spelling": "khai siunn tsuē khuì-la̍t    tsāi tsit-ê sè-kài        ū sió-khuá bô thāi",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "開太多氣力",
+          "spelling": "khai siunn tsuē khuì-la̍t"
+        },
+        {
+          "text": "在這個世界",
+          "spelling": "tsāi tsit-ê sè-kài"
+        },
+        {
+          "text": "有稍微無睬",
+          "spelling": "ū sió-khuá bô thāi"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "愛你是唯一　        真正有價值　        　        真正阮甘願",
+      "spelling": "ài lí sī uî-it            tsin-tsiànn ū kè-ta̍t        tsin-tsiànn gún kam-guān",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "愛你是唯一",
+          "spelling": "ài lí sī uî-it"
+        },
+        {
+          "text": "真正有價值",
+          "spelling": "tsin-tsiànn ū kè-ta̍t"
+        },
+        {
+          "text": "真正阮甘願",
+          "spelling": "tsin-tsiànn gún kam-guān"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "甘願阮放棄一切　            　    　      又流出歡喜的目屎",
+      "spelling": "kam-guān gún pàng-sak it-tshè    koh lâu tshut huann-hí ê ba̍k-sái",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "甘願阮放棄一切",
+          "spelling": "kam-guān gún pàng-sak it-tshè"
+        },
+        {
+          "text": "又流出歡喜的目屎",
+          "spelling": "koh lâu tshut huann-hí ê ba̍k-sái"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "代誌要按怎繼續　            　    　    我也不知道",
+      "spelling": "tāi-tsì beh án-tsáinn kè-sio̍k        guá iā m̄ tsai-iánn",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "代誌要按怎繼續",
+          "spelling": "tāi-tsì beh án-tsáinn kè-sio̍k"
+        },
+        {
+          "text": "我也不知道",
+          "spelling": "guá iā m̄ tsai-iánn"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "只想要和你逗陣　            　    　       抱你身軀　　         聽你唱歌",
+      "spelling": "tsí siūnn beh kah lí lāng tsūn        phō lí sin-khu        thiann lí tshiùnn-kua",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "只想要和你逗陣",
+          "spelling": "tsí siūnn beh kah lí lāng tsūn"
+        },
+        {
+          "text": "抱你身軀",
+          "spelling": "phō lí sin-khu"
+        },
+        {
+          "text": "聽你唱歌",
+          "spelling": "thiann lí tshiùnn-kua"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "是你給阮一個夢　           　     未記人生的苦澀",
+      "spelling": "sī lí hōo gún tsi̍t ê bāng        buē kì lîn-sing ê khóo siap",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "是你給阮一個夢",
+          "spelling": "sī lí hōo gún tsi̍t ê bāng"
+        },
+        {
+          "text": "未記人生的苦澀",
+          "spelling": "buē kì lîn-sing ê khóo siap"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "真正想要對你講　           　    　         甘擱有別項",
+      "spelling": "tsin-tsiànn siūnn beh tuì lí kóng    kam koh ū pa̍t-hāng",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "真正想要對你講",
+          "spelling": "tsin-tsiànn siūnn beh tuì lí kóng"
+        },
+        {
+          "text": "甘擱有別項",
+          "spelling": "kam koh ū pa̍t-hāng"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "是你放阮一個人　   　              走過風雨的思念",
+      "spelling": "sī lí pàng gún tsi̍t ê lâng        kiânn-kuè hong-hōo ê su-liām",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "是你放阮一個人",
+          "spelling": "sī lí pàng gún tsi̍t ê lâng"
+        },
+        {
+          "text": "走過風雨的思念",
+          "spelling": "kiânn-kuè hong-hōo ê su-liām"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "真正想要對你講　      　    　    　         心中無別人",
+      "spelling": "tsin-tsiànn siūnn bueh tuì lí kóng    sim-tiong bô pa̍t-lâng",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "真正想要對你講",
+          "spelling": "tsin-tsiànn siūnn bueh tuì lí kóng"
+        },
+        {
+          "text": "心中無別人",
+          "spelling": "sim-tiong bô pa̍t-lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "是你給阮一個夢　     　          未記人生的苦澀",
+      "spelling": "sī lí hōo gún tsi̍t ê bāng        buē kì lîn-sing ê khóo siap",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "是你給阮一個夢",
+          "spelling": "sī lí hōo gún tsi̍t ê bāng"
+        },
+        {
+          "text": "未記人生的苦澀",
+          "spelling": "buē kì lîn-sing ê khóo siap"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "我真正真正想要對你講",
+      "spelling": "guá tsin-tsiànn tsin-tsiànn siūnn beh tuì lí kóng",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "心中無別人",
+      "spelling": "sim-tiong bô pa̍t-lâng",
+      "source_lines": [
+        69,
+        70
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：阿信　作曲： 五月天  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

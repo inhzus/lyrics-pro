@@ -1,0 +1,457 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "咱電話講抺煞 思念底拖沙",
+      "spelling": "lán tiān-uē kóng buē suah su-liām té thua sua",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "我的心妳雄雄拿去一半",
+      "spelling": "guá ê sim lí hiông-hiông the̍h-khì tsi̍t-puànn",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "唔知麥安怎 但是真快活",
+      "spelling": "m̄ tsai bē an-tsuánn tān-sī tsin khuìnn-ua̍h",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "愛著妳不免詛誓",
+      "spelling": "ài-tio̍h lí m̄-bián tsiù-tsuā",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "我心內做風颱 無人看ㄟ出來",
+      "spelling": "guá sim-lāi tsuè hong-thai bô-lâng khuànn ê tshut-lâi",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "查甫人的秘密只有妳ㄟ知",
+      "spelling": "tshâ poo lâng ê pì-bi̍t tsí-ū lí ê tsai",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "惦這個世界 有妳才精彩",
+      "spelling": "tiām tsit-ê sè-kài ū lí tsiah tsing-tshái",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "妳乎我越來越愛",
+      "spelling": "lí hōo guá lú lâi lú ài",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "我變作歹勢ㄟ少年家",
+      "spelling": "guá piàn-tsò pháinn-sè ê siàu-liân ke",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "唔敢甲妳坦白我心內話",
+      "spelling": "m̄-kánn kā lí thán-pi̍k guá sim-lāi-uē",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "驚乎妳當作是笑虧",
+      "spelling": "kiann hōo lí tòng-tsuè sī tshiò khui",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "驚無講ㄟ無機會",
+      "spelling": "kiann bô kóng ê bô ki-huē",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "天地替咱合聲",
+      "spelling": "thinn-tē thè lán ha̍p siann",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "伴奏咱愛的歌聲",
+      "spelling": "phuānn-tsàu lán ài ê kua-siann",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "親像是一部浪漫的電影",
+      "spelling": "tshin-tshiūnn sī tsi̍t pōo lōng-bān ê tiān-iánn",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "男主角是我 女主角請妳來搬",
+      "spelling": "lâm-tsú-kak sī guá lú-tsú-kak tshiánn lí lâi puann",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "幸福的結局等妳來寫",
+      "spelling": "hīng-hok ê kiat-kio̍k tán lí lâi siá",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "唔驚冬天落雪",
+      "spelling": "m̄-kiann tang-thinn lo̍h-seh",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "熱天會汗流歸暝",
+      "spelling": "jua̍h-thinn ē kuānn-lâu kui-mê",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "我的心只對妳坦白",
+      "spelling": "guá ê sim tsí tuì lí thán-pi̍k",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "想要愛的人 是妳無別人",
+      "spelling": "siūnn bē ài ê lâng sī lí bô pa̍t-lâng",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "愛著妳心情就輕鬆",
+      "spelling": "ài-tio̍h lí sim-tsîng tio̍h khin-sang",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "我目賙做水災 乎妳感動金害",
+      "spelling": "guá ba̍k-tsiu tsò tsuí-tsai hōo lí kám-tōng tsin hāi",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "妳哪想麥永遠妳就講乎我災",
+      "spelling": "lí ná siūnn bē íng-uán lí tio̍h kóng hōo guá tsai",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "兩人ㄟ世界 有妳卡精彩",
+      "spelling": "nn̄g-lâng ê sè-kài ū lí khá tsing-tshái",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "我是妳唯一的愛",
+      "spelling": "guá sī lí uî-it-ê ài",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "我變作歹勢ㄟ少年家",
+      "spelling": "guá piàn-tsò pháinn-sè ê siàu-liân ke",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "唔敢甲妳坦白我心內話",
+      "spelling": "m̄-kánn kā lí thán-pi̍k guá sim-lāi-uē",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "驚乎妳當作是笑虧",
+      "spelling": "kiann hōo lí tòng-tsuè sī tshiò khui",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "驚無講ㄟ無機會",
+      "spelling": "kiann bô kóng ê bô ki-huē",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "親像是一部浪漫的電影",
+      "spelling": "tshin-tshiūnn sī tsi̍t pōo lōng-bān ê tiān-iánn",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "男主角是我 女主角請妳來搬",
+      "spelling": "lâm-tsú-kak sī guá lú-tsú-kak tshiánn lí lâi puann",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "幸福的結局等妳來寫",
+      "spelling": "hīng-hok ê kiat-kio̍k tán lí lâi siá",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "唔驚冬天落雪",
+      "spelling": "m̄-kiann tang-thinn lo̍h-seh",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "熱天會汗流歸暝",
+      "spelling": "jua̍h-thinn ē kuānn-lâu kui-mê",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "我的心只對妳坦白",
+      "spelling": "guá ê sim tsí tuì lí thán-pi̍k",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "想要愛的人 是妳無別人",
+      "spelling": "siūnn bē ài ê lâng sī lí bô pa̍t-lâng",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "愛著妳心情就輕鬆",
+      "spelling": "ài-tio̍h lí sim-tsîng tio̍h khin-sang",
+      "source_lines": [
+        112,
+        113
+      ]
+    },
+    {
+      "id": "line-115",
+      "text": "天地替咱合聲",
+      "spelling": "thinn-tē thè lán ha̍p siann",
+      "source_lines": [
+        115,
+        116
+      ]
+    },
+    {
+      "id": "line-118",
+      "text": "伴奏咱愛的歌聲",
+      "spelling": "phuānn-tsàu lán ài ê kua-siann",
+      "source_lines": [
+        118,
+        119
+      ]
+    },
+    {
+      "id": "line-121",
+      "text": "親像是一部浪漫的電影",
+      "spelling": "tshin-tshiūnn sī tsi̍t pōo lōng-bān ê tiān-iánn",
+      "source_lines": [
+        121,
+        122
+      ]
+    },
+    {
+      "id": "line-124",
+      "text": "男主角是我 女主角請妳來搬",
+      "spelling": "lâm-tsú-kak sī guá lú-tsú-kak tshiánn lí lâi puann",
+      "source_lines": [
+        124,
+        125
+      ]
+    },
+    {
+      "id": "line-127",
+      "text": "幸福的結局逗陣來寫",
+      "spelling": "hīng-hok ê kiat-kio̍k tàu-tīn lâi siá",
+      "source_lines": [
+        127,
+        128
+      ]
+    },
+    {
+      "id": "line-130",
+      "text": "唔驚冬天落雪",
+      "spelling": "m̄-kiann tang-thinn lo̍h-seh",
+      "source_lines": [
+        130,
+        131
+      ]
+    },
+    {
+      "id": "line-133",
+      "text": "熱天會汗流歸暝",
+      "spelling": "jua̍h-thinn ē kuānn-lâu kui-mê",
+      "source_lines": [
+        133,
+        134
+      ]
+    },
+    {
+      "id": "line-136",
+      "text": "我的心只對妳坦白",
+      "spelling": "guá ê sim tsí tuì lí thán-pi̍k",
+      "source_lines": [
+        136,
+        137
+      ]
+    },
+    {
+      "id": "line-139",
+      "text": "想要愛的人 是妳無別人",
+      "spelling": "siūnn bē ài ê lâng sī lí bô pa̍t-lâng",
+      "source_lines": [
+        139,
+        140
+      ]
+    },
+    {
+      "id": "line-142",
+      "text": "愛著妳心情就輕鬆",
+      "spelling": "ài-tio̍h lí sim-tsîng tio̍h khin-sang",
+      "source_lines": [
+        142,
+        143
+      ]
+    },
+    {
+      "id": "line-145",
+      "text": "想要愛的人 是妳無別人",
+      "spelling": "siūnn bē ài ê lâng sī lí bô pa̍t-lâng",
+      "source_lines": [
+        145,
+        146
+      ]
+    },
+    {
+      "id": "line-148",
+      "text": "希望妳嘛係愛阮 永遠",
+      "spelling": "hi-bāng lí mā sī ài gún íng-uán",
+      "source_lines": [
+        148,
+        149
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

@@ -1,0 +1,347 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "寫一首歌想欲唱乎你來聽",
+      "spelling": "siá tsi̍t tshiú kua  siūnn-beh tshiùnn honnh lí lâi thiann",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "你甘知影這是阮心內尚痛的折磨",
+      "spelling": "lí kam tsai-iánn tse sī gún sim-lāi siōng thiànn ê tsiat-buâ",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "自私反背你決心自己走",
+      "spelling": "tsū-su huán-puē lí kuat-sim ka-kī kiânn",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "期待的只是你點頭應一聲",
+      "spelling": "kî-thāi ê tsí sī lí tìm-thâu ìng tsi̍t siann",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "唱一條歌 唱甲目屎流袂乾",
+      "spelling": "tshiùnn tsi̍t tiâu kua  tshiùnn kah ba̍k-sái lâu buē ta",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "兩人越離越遠不是你無愛我沒心肝",
+      "spelling": "nn̄g-lâng lú lī lú hn̄g m̄ sī lí bô ài guá bô sim-kuann",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "只求有一天你會了解阮堅持啥",
+      "spelling": "tsí kiû ū tsi̍t-kang lí ē liáu-kái gún kian-tshî siánn",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "放手接受我選擇細漢的一個夢",
+      "spelling": "pàng-tshiú tsiap-siū guá suán-ti̍k sè hàn ê tsi̍t ê bāng",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "爸爸",
+      "spelling": "pâ pâ",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "幸福是有你來作伴",
+      "spelling": "hīng-hok sī ū lí lâi tsuè phuānn",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "只驚你無記誌將阮放",
+      "spelling": "tsí kiann lí bô kì tī tsiòng gún pàng",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "爸爸",
+      "spelling": "pâ pâ",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "是頂世人牽的伴",
+      "spelling": "sī tíng sì lâng khan ê phuānn",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "等到成功才知傷你這重",
+      "spelling": "tán-kàu sîng-kong tsiah tsai siong lí tsia tiông",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "唱一條歌 唱甲目屎流袂乾",
+      "spelling": "tshiùnn tsi̍t tiâu kua  tshiùnn kah ba̍k-sái lâu buē ta",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "兩人越離越遠不是你無愛我沒心肝",
+      "spelling": "nn̄g-lâng lú lī lú hn̄g m̄ sī lí bô ài guá bô sim-kuann",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "只求有一天你會了解阮堅持啥",
+      "spelling": "tsí kiû ū tsi̍t-kang lí ē liáu-kái gún kian-tshî siánn",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "放手接受我選擇細漢的一個夢",
+      "spelling": "pàng-tshiú tsiap-siū guá suán-ti̍k sè hàn ê tsi̍t ê bāng",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "爸爸",
+      "spelling": "pâ pâ",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "幸福是有你來作伴",
+      "spelling": "hīng-hok sī ū lí lâi tsuè phuānn",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "只驚你無記誌將阮放",
+      "spelling": "tsí kiann lí bô kì tī tsiòng gún pàng",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "爸爸",
+      "spelling": "pâ pâ",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "是頂世人牽的伴",
+      "spelling": "sī tíng sì lâng khan ê phuānn",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "等到成功才知傷你這重",
+      "spelling": "tán-kàu sîng-kong tsiah tsai siong lí tsia tāng",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "爸爸",
+      "spelling": "pâ pâ",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "幸福是有你來作伴",
+      "spelling": "hīng-hok sī ū lí lâi tsuè phuānn",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "只驚你無記誌將阮放",
+      "spelling": "tsí kiann lí bô kì tī tsiòng gún pàng",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "爸爸",
+      "spelling": "pâ pâ",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "是頂世人牽的伴",
+      "spelling": "sī tíng sì lâng khan ê phuānn",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "等到成功才知傷你這重",
+      "spelling": "tán-kàu sîng-kong tsiah tsai siong lí tsia tāng",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "只要你快樂甲平安",
+      "spelling": "tsí-iàu lí khuài-lo̍k kah pîng-an",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "退一步苦阮來承擔",
+      "spelling": "thè tsi̍t pōo khóo gún lâi sîng-tam",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "因為你是我這一生尚愛的人",
+      "spelling": "in-uī lí sī guá tse it-sing siōng ài ê lâng",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "命運會變海水會乾",
+      "spelling": "miā-ūn ē piàn hái-tsuí ē ta",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "想欲乎你過較好命",
+      "spelling": "siūnn-beh honnh lí kuè khah hó-miā",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "後世人猶原欲做你的查某囝",
+      "spelling": "āu-sì lâng iáu guân bueh tsuè lí ê tshâ bóo kiánn",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "後世人猶原欲做你的查某囝",
+      "spelling": "āu-sì lâng iáu guân bueh tsuè lí ê tshâ bóo kiánn",
+      "source_lines": [
+        111,
+        112
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：阿弟仔   作曲：阿弟仔  台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

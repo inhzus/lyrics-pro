@@ -1,0 +1,71 @@
+{
+  "candidates": [
+    {
+      "song_id": 386934,
+      "title": "轧车",
+      "artists": [
+        "五月天"
+      ],
+      "album": "第一张创作专辑",
+      "duration": 156.734,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 5276469,
+      "title": "轧车",
+      "artists": [
+        "五月天"
+      ],
+      "album": "ㄞ国歌曲",
+      "duration": 163.0,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 386032,
+      "title": "轧车",
+      "artists": [
+        "五月天"
+      ],
+      "album": "知足 最真杰作选",
+      "duration": 156.734,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 543965808,
+      "title": "轧车",
+      "artists": [
+        "五月天"
+      ],
+      "album": "甩掉大烦恼",
+      "duration": 159.335,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 5273278,
+      "title": "轧车",
+      "artists": [
+        "五月天"
+      ],
+      "album": "超级Band Band Band 乐团精选",
+      "duration": 156.066,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 543965350,
+      "title": "轧车",
+      "artists": [
+        "五月天"
+      ],
+      "album": "K歌王国 男女K歌",
+      "duration": 159.666,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

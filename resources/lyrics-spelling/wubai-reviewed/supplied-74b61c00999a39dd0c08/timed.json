@@ -1,0 +1,296 @@
+{
+  "recording_id": "netease:157192",
+  "source": "NetEase https://music.163.com/song?id=157192",
+  "lines": [
+    {
+      "time": 0,
+      "text": "作词 : 伍佰",
+      "kind": "credit"
+    },
+    {
+      "time": 0.75,
+      "text": "作曲 : 伍佰",
+      "kind": "credit"
+    },
+    {
+      "time": 1.5,
+      "text": "编曲 : 伍佰 & China Blue",
+      "kind": "credit"
+    },
+    {
+      "time": 2.25,
+      "text": "制作人 : 伍佰",
+      "kind": "credit"
+    },
+    {
+      "time": 3.0,
+      "text": "制作人 : 伍佰 & China Blue",
+      "kind": "credit"
+    },
+    {
+      "time": 4.0,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 49.886,
+      "text": "爱人 你是在佗位",
+      "kind": "lyric"
+    },
+    {
+      "time": 55.319,
+      "text": "无留着批信",
+      "kind": "lyric"
+    },
+    {
+      "time": 58.383,
+      "text": "无留半个字",
+      "kind": "lyric"
+    },
+    {
+      "time": 61.471,
+      "text": "啊~ 爱人 无见你的面",
+      "kind": "lyric"
+    },
+    {
+      "time": 67.67,
+      "text": "亲像风在透",
+      "kind": "lyric"
+    },
+    {
+      "time": 70.687,
+      "text": "亲像针在揻",
+      "kind": "lyric"
+    },
+    {
+      "time": 73.849,
+      "text": "为何 堂堂男儿 无路用",
+      "kind": "lyric"
+    },
+    {
+      "time": 77.691,
+      "text": "心肝全碎 太倔强",
+      "kind": "lyric"
+    },
+    {
+      "time": 80.812,
+      "text": "欺骗着我 这呢熊",
+      "kind": "lyric"
+    },
+    {
+      "time": 83.89,
+      "text": "痴情花啊",
+      "kind": "lyric"
+    },
+    {
+      "time": 87.233,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 99.403,
+      "text": "爱人 你是去佗位",
+      "kind": "lyric"
+    },
+    {
+      "time": 104.812,
+      "text": "无代念我情",
+      "kind": "lyric"
+    },
+    {
+      "time": 107.921,
+      "text": "无代念我意",
+      "kind": "lyric"
+    },
+    {
+      "time": 111.008,
+      "text": "啊~ 爱人 想你的香味",
+      "kind": "lyric"
+    },
+    {
+      "time": 117.207,
+      "text": "望你快回头",
+      "kind": "lyric"
+    },
+    {
+      "time": 120.277,
+      "text": "转来阮身边",
+      "kind": "lyric"
+    },
+    {
+      "time": 123.388,
+      "text": "为何 堂堂男儿 无路用",
+      "kind": "lyric"
+    },
+    {
+      "time": 127.301,
+      "text": "心肝全碎 太倔强",
+      "kind": "lyric"
+    },
+    {
+      "time": 130.404,
+      "text": "欺骗着我 这呢熊",
+      "kind": "lyric"
+    },
+    {
+      "time": 133.463,
+      "text": "痴情花啊",
+      "kind": "lyric"
+    },
+    {
+      "time": 136.648,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 148.941,
+      "text": "爱人 你哪这酷刑",
+      "kind": "lyric"
+    },
+    {
+      "time": 154.427,
+      "text": "无采我在撞",
+      "kind": "lyric"
+    },
+    {
+      "time": 157.461,
+      "text": "心情陇未清",
+      "kind": "lyric"
+    },
+    {
+      "time": 160.559,
+      "text": "啊~ 我无法度 疯疯活下去",
+      "kind": "lyric"
+    },
+    {
+      "time": 166.769,
+      "text": "无你我会空",
+      "kind": "lyric"
+    },
+    {
+      "time": 169.877,
+      "text": "无你我会死",
+      "kind": "lyric"
+    },
+    {
+      "time": 172.954,
+      "text": "为何 堂堂男儿 无路用",
+      "kind": "lyric"
+    },
+    {
+      "time": 176.81,
+      "text": "心肝全碎 太倔强",
+      "kind": "lyric"
+    },
+    {
+      "time": 179.91,
+      "text": "戏弄着我 这呢熊",
+      "kind": "lyric"
+    },
+    {
+      "time": 182.996,
+      "text": "憨憨转啊",
+      "kind": "lyric"
+    },
+    {
+      "time": 186.188,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 198.499,
+      "text": "树枝孤鸟",
+      "kind": "lyric"
+    },
+    {
+      "time": 204.712,
+      "text": "树枝孤鸟",
+      "kind": "lyric"
+    },
+    {
+      "time": 210.906,
+      "text": "树枝孤鸟",
+      "kind": "lyric"
+    },
+    {
+      "time": 217.101,
+      "text": "树枝孤鸟",
+      "kind": "lyric"
+    },
+    {
+      "time": 225.615,
+      "text": "偷偷在哭",
+      "kind": "lyric"
+    },
+    {
+      "time": 229.514,
+      "text": "堂堂男儿",
+      "kind": "lyric"
+    },
+    {
+      "time": 232.618,
+      "text": "心肝全碎",
+      "kind": "lyric"
+    },
+    {
+      "time": 235.665,
+      "text": "欺骗着我",
+      "kind": "lyric"
+    },
+    {
+      "time": 238.756,
+      "text": "痴情花啊",
+      "kind": "lyric"
+    },
+    {
+      "time": 241.926,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 244.92,
+      "text": "我哪会安呢生",
+      "kind": "lyric"
+    },
+    {
+      "time": 248.002,
+      "text": "我哪会安呢生",
+      "kind": "lyric"
+    },
+    {
+      "time": 251.195,
+      "text": "我哪会安呢生",
+      "kind": "lyric"
+    },
+    {
+      "time": 254.214,
+      "text": "我哪会安呢生",
+      "kind": "lyric"
+    },
+    {
+      "time": 257.338,
+      "text": "我哪会安呢生",
+      "kind": "lyric"
+    },
+    {
+      "time": 260.448,
+      "text": "我哪会安呢生",
+      "kind": "lyric"
+    },
+    {
+      "time": 263.501,
+      "text": "我哪会安呢生",
+      "kind": "lyric"
+    },
+    {
+      "time": 266.551,
+      "text": "我哪会安呢生",
+      "kind": "lyric"
+    },
+    {
+      "time": 269.738,
+      "text": "",
+      "kind": "gap"
+    }
+  ]
+}

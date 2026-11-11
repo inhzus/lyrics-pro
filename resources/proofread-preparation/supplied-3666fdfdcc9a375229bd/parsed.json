@@ -1,0 +1,162 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "想欲 學鳥仔 海角天邊 想欲 像風 駱駝歸暝",
+      "spelling": "siūnn-beh o̍h tsiáu-á hái-kak thinn-pinn siūnn-beh tshiūnn hong lo̍k-tô kui-mî",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "才知人生一齣戲 人情越燉越無味",
+      "spelling": "tsiah tsai lîn-sing tsi̍t tshut hì lîn-tsîng lú tīm lú bô-bī",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "無閒甲 袂記看 天頂星",
+      "spelling": "bô-îng kā buē kì khuànn thinn-tíng tshinn",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "多久 不曾 歡喜過年 多久 熱情 無帶置身邊",
+      "spelling": "guā-kú m̄ bat huann-hí kuè-nî guā-kú jia̍t-tsîng bô tài tì sin-pinn",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "定定驚醒置半暝 乎錢追甲袂喘氣",
+      "spelling": "tiānn-tiānn kiann-tshínn te puànn-mî hōo tsînn lip kā buē tshuán- khuì",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "彼打拼嘸知爲什麼",
+      "spelling": "hiah phah-piànn m̄ tsai uī-siánn-mi̍h",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "細漢時彩色的天 到底走去叼躲 怎樣六月天會冷吱吱",
+      "spelling": "sè-hàn sî tshái-sik ê thinn tàu-té tsáu khì tó bih tsuánn-iūnn la̍k-gue̍h-thinn ē líng ki ki",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "幸福啊 是按怎 若像水鏡同一般 照星照月照無阮的影",
+      "spelling": "hīng-hok ah sī án-tsuánn ná-tshiūnn tsuí-kiànn kāng tsi̍t puann tsiáu tshinn tsiáu gue̍h tsiáu bô gún ê iánn",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "昨暝愛作夢的魚 今夜游去叼位 怎樣住越鬧熱越空虛",
+      "spelling": "tsa-mî ài tsuè-bāng ê hî kim-iā siû khì tó-uī tsuánn-iūnn tuà lú lāu-jia̍t lú khang-hi",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "冷淡的夜都市 一扇窗演一齣戲 隨人酸苦味隨人添",
+      "spelling": "líng-tām ê iā too-tshī tsi̍t sìnn thang ián tsi̍t tshut hì suî-lâng sng khóo-bī suî-lâng thinn",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "多久 不曾 期待花開 多久 窗邊 無見月圓",
+      "spelling": "guā-kú m̄ bat kî-thāi hue khui guā-kú thang pîng bô kiàn gue̍h-înn",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "有人為情顛顛醉 有人欲愛無勇氣 心置碎嘸知爲什麼",
+      "spelling": "ū-lâng uî tsîng tian tian tsuì ū-lâng beh ài bô ióng-khì sim te tshuì m̄ tsai uī-siánn-mi̍h",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "細漢時彩色的天 到底走去叼躲 怎樣六月天會冷吱吱",
+      "spelling": "sè-hàn sî tshái-sik ê thinn tàu-té tsáu khì tó bih tsuánn-iūnn la̍k-gue̍h-thinn ē líng ki ki",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "幸福啊 是按怎 若像水鏡同一般 照星照月照無阮的影",
+      "spelling": "hīng-hok ah sī án-tsuánn ná-tshiūnn tsuí-kiànn kāng tsi̍t puann tsiáu tshinn tsiáu gue̍h tsiáu bô gún ê iánn",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "昨暝愛作夢的魚 今夜游去叼位 怎樣住越鬧熱越空虛",
+      "spelling": "tsa-mî ài tsuè-bāng ê hî kim-iā siû khì tó-uī tsuánn-iūnn tuà lú lāu-jia̍t lú khang-hi",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "冷淡的夜都市 一扇窗演一齣戲 隨人酸苦味隨人添",
+      "spelling": "líng-tām ê iā too-tshī tsi̍t sìnn thang ián tsi̍t tshut hì suî-lâng sng khóo-bī suî-lâng thinn",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "冷淡的夜都市 一扇窗演一齣戲 隨人酸苦味隨人添",
+      "spelling": "líng-tām ê iā too-tshī tsi̍t sìnn thang ián tsi̍t tshut hì suî-lâng sng khóo-iábīm suî-lâng thinn",
+      "source_lines": [
+        49,
+        50
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

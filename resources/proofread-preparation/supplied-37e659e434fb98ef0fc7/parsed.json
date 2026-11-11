@@ -1,0 +1,277 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "窗外漸漸退後的一段一段",
+      "spelling": "thang-guā tsiām-tsiām thuè-āu ê tsi̍t tuānn tsi̍t tuānn",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "腦海慢慢浮現的一幕一幕",
+      "spelling": "náu-hái bān-bān phû-hiān ê tsi̍t bōo tsi̍t bōo",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "無瞑無日的思念",
+      "spelling": "bô mî bô li̍t ê su-liām",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "無邊無限的情意",
+      "spelling": "bô pinn bô hān ê tsîng-ì",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "變成一張一張黑白明信片",
+      "spelling": "piàn-sîng tsi̍t tiunn tsi̍t tiunn oo-pe̍h bîng-sìn-phìnn",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "雖然到最後 妳我無緣份再作伴",
+      "spelling": "sui-liân kàu tsuè-āu lí guá bô-iân hūn tsài tsuè-phuānn",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "感謝妳陪我 走這一段路（遙遠又艱苦）",
+      "spelling": "kám-siā lí puê guá kiânn tsi̍t-tuānn lōo (iâu-uán iū kan-khóo)",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "不用為我煩惱",
+      "spelling": "m̄-bián uî guá huân-ló",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "傷口總是會結痂",
+      "spelling": "khang-tshuì tsóng-sī ē kian-phí",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "該放的放 該捨的捨",
+      "spelling": "kai pàng ê pàng kai siánn ê siánn",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "沒啥好怨恨",
+      "spelling": "bô siánn hó uàn-hūn",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "停停走走往前的一步一步",
+      "spelling": "thîng thîng kiânn kiânn óng-tsiân ê tsi̍t-pōo tsi̍t-pōo",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "心內慢慢解脫的一滴一滴",
+      "spelling": "sim-lāi bān-bān kái-thuat ê tsi̍t tih tsi̍t tih",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "眼淚若雨的早晨",
+      "spelling": "ba̍k-sái ná hōo ê tsá-khí",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "醉倒街巷的夜晚",
+      "spelling": "tsuì-tó ke hāng ê àm-mî",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "變成一張一張泛黃的相片",
+      "spelling": "piàn-sîng tsi̍t tiunn tsi̍t tiunn huàn n̂g ê siòng-phìnn",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "如果有一天 妳我有緣份再相逢",
+      "spelling": "lû-kó ū tsi̍t kang lí guá ū iân-hūn tsài siong-hông",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "感謝妳給我 這麼多美好（美好的一切）",
+      "spelling": "kám-siā lí hōo guá tsiah tsuē bí-hó (bí-hó ê it-tshè)",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "給我一個笑容",
+      "spelling": "hōo guá tsi̍t ê tshiò-iông",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "我可以放心的說",
+      "spelling": "guá ē-sái hòng-sim ê kóng",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "謝天謝地 妳過得有好",
+      "spelling": "siā thinn siā tuē lí kuè-tio̍h ū hó",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "該放的放 該捨的捨",
+      "spelling": "kai pàng ê pàng kai siánn ê siánn",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "該放的放 該捨的捨",
+      "spelling": "kai pàng ê pàng kai siánn ê siánn",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "放 捨",
+      "spelling": "pàng siánn",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "如果有一天 妳我有緣份再相逢",
+      "spelling": "lû-kó ū tsi̍t kang lí guá ū iân-hūn tsài siong-hông",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "感謝妳給我 這麼多美好（美好的一切）",
+      "spelling": "kám-siā lí hōo guá tsiah tsuē bí-hó (bí-hó ê it-tshè)",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "給我一個笑容",
+      "spelling": "hōo guá tsi̍t ê tshiò-iông",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "我可以放心的說",
+      "spelling": "guá ē-sái hòng-sim ê kóng",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "謝天謝地 妳過得有好",
+      "spelling": "siā thinn siā tuē lí kuè-tio̍h ū hó",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "謝天謝地 妳過得有好",
+      "spelling": "siā thinn siā tuē lí kuè-tio̍h ū hó",
+      "source_lines": [
+        88,
+        89
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

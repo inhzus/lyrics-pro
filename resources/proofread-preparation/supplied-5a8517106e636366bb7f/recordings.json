@@ -1,0 +1,151 @@
+{
+  "candidates": [
+    {
+      "song_id": 1997375136,
+      "title": "咱是好兄弟",
+      "artists": [
+        "小黑"
+      ],
+      "album": "大家发兴旺发",
+      "duration": 295.146,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2664053512,
+      "title": "咱是好兄弟",
+      "artists": [
+        "林文德",
+        "伟哥"
+      ],
+      "album": "寂寞",
+      "duration": 278.799,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3456680141,
+      "title": "咱是好兄弟",
+      "artists": [
+        "夏禾栀"
+      ],
+      "album": "野风",
+      "duration": 86.889,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1997375136,
+      "title": "咱是好兄弟",
+      "artists": [
+        "小黑"
+      ],
+      "album": "大家发兴旺发",
+      "duration": 295.146,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2664053512,
+      "title": "咱是好兄弟",
+      "artists": [
+        "林文德",
+        "伟哥"
+      ],
+      "album": "寂寞",
+      "duration": 278.799,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3456680141,
+      "title": "咱是好兄弟",
+      "artists": [
+        "夏禾栀"
+      ],
+      "album": "野风",
+      "duration": 86.889,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1997375136,
+      "title": "咱是好兄弟",
+      "artists": [
+        "小黑"
+      ],
+      "album": "大家发兴旺发",
+      "duration": 295.146,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2664053512,
+      "title": "咱是好兄弟",
+      "artists": [
+        "林文德",
+        "伟哥"
+      ],
+      "album": "寂寞",
+      "duration": 278.799,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3456680141,
+      "title": "咱是好兄弟",
+      "artists": [
+        "夏禾栀"
+      ],
+      "album": "野风",
+      "duration": 86.889,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 35806010,
+      "title": "咱是好兄弟",
+      "artists": [
+        "良一"
+      ],
+      "album": "风雨战神",
+      "duration": 257.093,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1459926669",
+      "title": "咱是好兄弟",
+      "artists": [
+        "黄明志"
+      ],
+      "album": "亚洲通缉",
+      "duration": 219.173,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1769303324",
+      "title": "咱是好兄弟",
+      "artists": [
+        "小黑"
+      ],
+      "album": "大家发兴旺发",
+      "duration": 295.147,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1402502178",
+      "title": "咱是好兄弟",
+      "artists": [
+        "小黑"
+      ],
+      "album": "福建精选成名曲",
+      "duration": 294.104,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,414 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "甘蔗 好吃雙頭甜                                                 青春啊就要趁這時",
+      "spelling": "kam-tsià hó-tsia̍h siang-thâu tinn                 tshing-tshun ah tio̍h ài thàn tsit-sî",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "甘蔗 好吃雙頭甜",
+          "spelling": "kam-tsià hó-tsia̍h siang-thâu tinn"
+        },
+        {
+          "text": "青春啊就要趁這時",
+          "spelling": "tshing-tshun ah tio̍h ài thàn tsit-sî"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "桌頂拿柑 甘有這呢簡單                                      吃果子就要拜樹頭",
+      "spelling": "toh-tíng ni kam  kam ū tsia nî kán-tan        tsia̍h kué-tsí tio̍h ài pài tshiū-thâu",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "仙人啊打鼓啊有時錯                                           腳步啊踏差誰人無",
+      "spelling": "sian-jîn ah phah-kó ah ū sî tshò                     kha-pōo ah ta̍h-tsha siánn-lâng bô",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "仙人啊打鼓啊有時錯",
+          "spelling": "sian-jîn ah phah-kó ah ū sî tshò"
+        },
+        {
+          "text": "腳步啊踏差誰人無",
+          "spelling": "kha-pōo ah ta̍h-tsha siánn-lâng bô"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "人非聖賢 啊誰人無錯                                          浪子啊回頭啊看攏無",
+      "spelling": "lîn hui siànn hiân ah tsiâ lâng bô-tshò         lōng-tsú ah huê-thâu ah khuànn lóng bô",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "人非聖賢 啊誰人無錯",
+          "spelling": "lîn hui siànn hiân ah tsiâ lâng bô-tshò"
+        },
+        {
+          "text": "浪子啊回頭啊看攏無",
+          "spelling": "lōng-tsú ah huê-thâu ah khuànn lóng bô"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "舊情啊思啊想啊起 啊                                          姻緣啊天啊註啊 定",
+      "spelling": "kū-tsîng ah su ah siōnn ah khí                       in-iân ah thinn ah tsù ah tiānn",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "舊情啊思啊想啊起 啊",
+          "spelling": "kū-tsîng ah su ah siōnn ah khí"
+        },
+        {
+          "text": "姻緣啊天啊註啊 定",
+          "spelling": "in-iân ah thinn ah tsù ah tiānn"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "娶某是無閒一工                                                  娶細姨無閒一世人",
+      "spelling": "tshuā-bóo sī bô-îng tsi̍t kang                          tshuā sè-î bô-îng tsi̍t sì lâng",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "娶某是無閒一工",
+          "spelling": "tshuā-bóo sī bô-îng tsi̍t kang"
+        },
+        {
+          "text": "娶細姨無閒一世人",
+          "spelling": "tshuā sè-î bô-îng tsi̍t sì lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "前人啊田園啊後人收                                          命底啊無財啊麥強求",
+      "spelling": "tsiân lîn ah tshân-hn̂g ah āu lâng siu        miā té ah bô tsâi ah mái kiông-kiû",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "前人啊田園啊後人收",
+          "spelling": "tsiân lîn ah tshân-hn̂g ah āu lâng siu"
+        },
+        {
+          "text": "命底啊無財啊麥強求",
+          "spelling": "miā té ah bô tsâi ah mái kiông-kiû"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "人不是仙 啊誰人糊塗                                         浪子啊回頭啊離江湖",
+      "spelling": "lâng m̄ sī sian ah tsiâ lâng hôo-tôo               lōng-tsú ah huê-thâu ah lī kang-ôo",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "人不是仙 啊誰人糊塗",
+          "spelling": "lâng m̄ sī sian ah tsiâ lâng hôo-tôo"
+        },
+        {
+          "text": "浪子啊回頭啊離江湖",
+          "spelling": "lōng-tsú ah huê-thâu ah lī kang-ôo"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "舊情啊思啊想啊起 啊                                         姻緣啊天啊註啊 定",
+      "spelling": "kū-tsîng ah su ah siōnn ah khí                      in-iân ah thinn ah tsù ah tiānn",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "舊情啊思啊想啊起 啊",
+          "spelling": "kū-tsîng ah su ah siōnn ah khí"
+        },
+        {
+          "text": "姻緣啊天啊註啊 定",
+          "spelling": "in-iân ah thinn ah tsù ah tiānn"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "娶某是無閒一工                                                  娶細姨無閒一世人",
+      "spelling": "tshuā-bóo sī bô-îng tsi̍t kang                         tshuā sè-î bô-îng tsi̍t sì lâng",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "娶某是無閒一工",
+          "spelling": "tshuā-bóo sī bô-îng tsi̍t kang"
+        },
+        {
+          "text": "娶細姨無閒一世人",
+          "spelling": "tshuā sè-î bô-îng tsi̍t sì lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "切工鏘                                切工切工                               切工切工鏘",
+      "spelling": "tshiat kong tshiāng         tshiat kong tshiat kong     tshiat kong tshiat kong tshiāng",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "切工鏘",
+          "spelling": "tshiat kong tshiāng"
+        },
+        {
+          "text": "切工切工",
+          "spelling": "tshiat kong tshiat kong"
+        },
+        {
+          "text": "切工切工鏘",
+          "spelling": "tshiat kong tshiat kong tshiāng"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "切工鏘                                切工切工                               切工切工鏘",
+      "spelling": "tshiat kong tshiāng         tshiat kong tshiat kong    tshiat kong tshiat kong tshiāng",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "切工鏘",
+          "spelling": "tshiat kong tshiāng"
+        },
+        {
+          "text": "切工切工",
+          "spelling": "tshiat kong tshiat kong"
+        },
+        {
+          "text": "切工切工鏘",
+          "spelling": "tshiat kong tshiat kong tshiāng"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "切工鏘                                切工切工                               切工切工鏘",
+      "spelling": "tshiat kong tshiāng         tshiat kong tshiat kong     tshiat kong tshiat kong tshiāng",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "切工鏘",
+          "spelling": "tshiat kong tshiāng"
+        },
+        {
+          "text": "切工切工",
+          "spelling": "tshiat kong tshiat kong"
+        },
+        {
+          "text": "切工切工鏘",
+          "spelling": "tshiat kong tshiat kong tshiāng"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "切工鏘                                切工切工                               切工切工鏘",
+      "spelling": "tshiat kong tshiāng         tshiat kong tshiat kong    tshiat kong tshiat kong tshiāng",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "切工鏘",
+          "spelling": "tshiat kong tshiāng"
+        },
+        {
+          "text": "切工切工",
+          "spelling": "tshiat kong tshiat kong"
+        },
+        {
+          "text": "切工切工鏘",
+          "spelling": "tshiat kong tshiat kong tshiāng"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "舊情啊思啊想啊起 啊                               姻緣啊天啊註啊 定",
+      "spelling": "kū-tsîng ah su ah siōnn ah khí            in-iân ah thinn ah tsù ah tiānn",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "舊情啊思啊想啊起 啊",
+          "spelling": "kū-tsîng ah su ah siōnn ah khí"
+        },
+        {
+          "text": "姻緣啊天啊註啊 定",
+          "spelling": "in-iân ah thinn ah tsù ah tiānn"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "娶某是無閒一工                                        娶細姨無閒一世人",
+      "spelling": "tshuā-bóo sī bô-îng tsi̍t kang               tshuā sè-î bô-îng tsi̍t sì lâng",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "娶某是無閒一工",
+          "spelling": "tshuā-bóo sī bô-îng tsi̍t kang"
+        },
+        {
+          "text": "娶細姨無閒一世人",
+          "spelling": "tshuā sè-î bô-îng tsi̍t sì lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "切工鏘                                 切工切工                               切工切工鏘",
+      "spelling": "tshiat kong tshiāng         tshiat kong tshiat kong      tshiat kong tshiat kong tshiāng",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "切工鏘",
+          "spelling": "tshiat kong tshiāng"
+        },
+        {
+          "text": "切工切工",
+          "spelling": "tshiat kong tshiat kong"
+        },
+        {
+          "text": "切工切工鏘",
+          "spelling": "tshiat kong tshiat kong tshiāng"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "切工鏘                                  切工切工                              切工切工鏘",
+      "spelling": "tshiat kong tshiāng           tshiat kong tshiat kong    tshiat kong tshiat kong tshiāng",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "切工鏘",
+          "spelling": "tshiat kong tshiāng"
+        },
+        {
+          "text": "切工切工",
+          "spelling": "tshiat kong tshiat kong"
+        },
+        {
+          "text": "切工切工鏘",
+          "spelling": "tshiat kong tshiat kong tshiāng"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "切工鏘                                  切工切工                               切工切工鏘",
+      "spelling": "tshiat kong tshiāng           tshiat kong tshiat kong     tshiat kong tshiat kong tshiāng",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "切工鏘",
+          "spelling": "tshiat kong tshiāng"
+        },
+        {
+          "text": "切工切工",
+          "spelling": "tshiat kong tshiat kong"
+        },
+        {
+          "text": "切工切工鏘",
+          "spelling": "tshiat kong tshiat kong tshiāng"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "切工鏘                                  切工切工                               切工切工鏘",
+      "spelling": "tshiat kong tshiāng           tshiat kong tshiat kong     tshiat kong tshiat kong tshiāng",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "切工鏘",
+          "spelling": "tshiat kong tshiāng"
+        },
+        {
+          "text": "切工切工",
+          "spelling": "tshiat kong tshiat kong"
+        },
+        {
+          "text": "切工切工鏘",
+          "spelling": "tshiat kong tshiat kong tshiāng"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳永吉   作曲：吳永吉  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 249122,
+      "title": "笑看红尘梦",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "爱作梦的鱼",
+      "duration": 270.0,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

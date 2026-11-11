@@ -1,0 +1,693 @@
+{
+  "recording_id": "netease:412951600",
+  "timing_source": "NetEase https://music.163.com/song?id=412951600",
+  "manual_source": "User-supplied resources/lyrics-spelling/生份的情歌-陳建瑋",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 44,
+    "gap": 3
+  },
+  "review_row_count": 44,
+  "unmatched_manual_ids": [
+    "line-7:0",
+    "line-10:0",
+    "line-25:0",
+    "line-28:0",
+    "line-43:0",
+    "line-46:0",
+    "line-55:0",
+    "line-58:0"
+  ],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-22:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-40:0",
+    "line-49:0",
+    "line-52:0",
+    "line-61:0",
+    "line-64:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 谢铭右",
+      "match_text": "作词 : 谢铭右",
+      "text": "作词 : 谢铭右",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 陈建玮",
+      "match_text": "作曲 : 陈建玮",
+      "text": "作曲 : 陈建玮",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 18.21,
+      "online_text": "日头染黄彼条街",
+      "match_text": "日头染黄彼条街",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 24.4,
+      "online_text": "老老的兮晡",
+      "match_text": "老老的兮晡",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 30.23,
+      "online_text": "店头拣一块花布",
+      "match_text": "店头拣一块花布",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 36.75,
+      "online_text": "牵阮歌哼规路",
+      "match_text": "牵阮歌哼规路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 43.03,
+      "online_text": "三五昔边话袂停",
+      "match_text": "三五昔边话袂停",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 7,
+      "time": 49.38,
+      "online_text": "褒孙若唸经",
+      "match_text": "褒孙若唸经",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 8,
+      "time": 55.5,
+      "online_text": "阿嬷行入伊的梦",
+      "match_text": "阿嬷行入伊的梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 9,
+      "time": 61.24,
+      "online_text": "毋知当时精神",
+      "match_text": "毋知当时精神",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 10,
+      "time": 67.25,
+      "online_text": "伊留伫遐",
+      "match_text": "伊留伫遐",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 71.65,
+      "online_text": "昨日亲像电影搬啊搬",
+      "match_text": "昨日亲像电影搬啊搬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 79.17,
+      "online_text": "有时无声",
+      "match_text": "有时无声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 84.08,
+      "online_text": "敢是青春当烧热",
+      "match_text": "敢是青春当烧热",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 91.96,
+      "online_text": "日头落山",
+      "match_text": "日头落山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 96.44,
+      "online_text": "伊的记持落伫佗位啊",
+      "match_text": "伊的记持落伫佗位啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 103.83,
+      "online_text": "问我的名",
+      "match_text": "问我的名",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 108.46,
+      "online_text": "阿嬷你敢会记得我",
+      "match_text": "阿嬷你敢会记得我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 113.09,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 19,
+      "time": 144.64,
+      "online_text": "日子皱皱面皱皱",
+      "match_text": "日子皱皱面皱皱",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-25:0"
+    },
+    {
+      "source_row": 20,
+      "time": 150.61,
+      "online_text": "时间扭袂牢",
+      "match_text": "时间扭袂牢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-25:0"
+    },
+    {
+      "source_row": 21,
+      "time": 156.86,
+      "online_text": "阿嬷欲听啥物歌",
+      "match_text": "阿嬷欲听啥物歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-28:0"
+    },
+    {
+      "source_row": 22,
+      "time": 162.91,
+      "online_text": "咱唱到日落山",
+      "match_text": "咱唱到日落山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-28:0"
+    },
+    {
+      "source_row": 23,
+      "time": 168.7,
+      "online_text": "伊留伫遐",
+      "match_text": "伊留伫遐",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 173.26,
+      "online_text": "昨日亲像电影搬啊搬",
+      "match_text": "昨日亲像电影搬啊搬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 180.83,
+      "online_text": "有时无声",
+      "match_text": "有时无声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 185.34,
+      "online_text": "敢是青春当烧热",
+      "match_text": "敢是青春当烧热",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 193.23,
+      "online_text": "日头落山",
+      "match_text": "日头落山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 197.92,
+      "online_text": "伊的记持落伫佗位啊",
+      "match_text": "伊的记持落伫佗位啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 205.5,
+      "online_text": "问我的名",
+      "match_text": "问我的名",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 209.85,
+      "online_text": "阿嬷你敢会记得我",
+      "match_text": "阿嬷你敢会记得我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 215.31,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 32,
+      "time": 219.14,
+      "online_text": "连鞭嫁翁连鞭少年时",
+      "match_text": "连鞭嫁翁连鞭少年时",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-43:0"
+    },
+    {
+      "source_row": 33,
+      "time": 225.34,
+      "online_text": "笑煞目屎含目乾",
+      "match_text": "笑煞目屎含目乾",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-43:0"
+    },
+    {
+      "source_row": 34,
+      "time": 231.2,
+      "online_text": "定定看对天边彼丬去",
+      "match_text": "定定看对天边彼丬去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-46:0"
+    },
+    {
+      "source_row": 35,
+      "time": 236.79,
+      "online_text": "我哪会伫你面前思念你",
+      "match_text": "我哪会伫你面前思念你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-46:0"
+    },
+    {
+      "source_row": 36,
+      "time": 242.49,
+      "online_text": "伊留伫遐",
+      "match_text": "伊留伫遐",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 246.61,
+      "online_text": "昨日亲像电影搬啊搬",
+      "match_text": "昨日亲像电影搬啊搬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 253.85,
+      "online_text": "有时无声",
+      "match_text": "有时无声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 259.37,
+      "online_text": "敢是青春当烧热",
+      "match_text": "敢是青春当烧热",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 267.1,
+      "online_text": "梦行啊行",
+      "match_text": "梦行啊行",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-55:0"
+    },
+    {
+      "source_row": 41,
+      "time": 271.77,
+      "online_text": "黄昏的路若行若孤单",
+      "match_text": "黄昏的路若行若孤单",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-55:0"
+    },
+    {
+      "source_row": 42,
+      "time": 279.18,
+      "online_text": "有声无影",
+      "match_text": "有声无影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-58:0"
+    },
+    {
+      "source_row": 43,
+      "time": 283.75,
+      "online_text": "彼首生份的情歌",
+      "match_text": "彼首生份的情歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-58:0"
+    },
+    {
+      "source_row": 44,
+      "time": 289.94,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 45,
+      "time": 298.24,
+      "online_text": "日头染黄彼条街",
+      "match_text": "日头染黄彼条街",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 304.56,
+      "online_text": "老老的兮晡",
+      "match_text": "老老的兮晡",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 310.61,
+      "online_text": "店头拣一块花布",
+      "match_text": "店头拣一块花布",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 48,
+      "time": 316.72,
+      "online_text": "牵阮歌哼规路",
+      "match_text": "牵阮歌哼规路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "a46ae1146c4969ae16a01787ba24a4c8010b37f246d83ce2893909021e8704e4",
+    "manual": "229371b0e828e10083c65d4ddced904aea86da99ac902905677340d258460aae",
+    "timed": "248b641d6d9d22ab3672691a63e21926a1caee8e4bfbf186c48ce24c9d1deed9"
+  }
+}

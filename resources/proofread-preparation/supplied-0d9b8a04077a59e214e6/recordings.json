@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": 574908496,
+      "title": "祝你幸福 (Wish you happiness)",
+      "artists": [
+        "张穆庭"
+      ],
+      "album": "张穆庭流行钢琴演奏专辑-枫",
+      "duration": 247.168,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2092543394,
+      "title": "祝你幸福 (Wish you happiness)",
+      "artists": [
+        "中国人民解放军军乐团"
+      ],
+      "album": "标准礼仪曲集",
+      "duration": 275.48,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2137790972,
+      "title": "祝你幸福 (Wish you happiness)",
+      "artists": [
+        "中国人民解放军军乐团"
+      ],
+      "album": "",
+      "duration": 275.48,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 10135328,
+      "title": "祝你幸福 - Wish You Happiness",
+      "artists": [
+        "Li Ronghao"
+      ],
+      "album": "Li Ronghao Songs",
+      "duration": 278.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

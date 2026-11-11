@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": "1765477901",
+      "title": "讲卖翻掐",
+      "artists": [
+        "枪击泼辣"
+      ],
+      "album": "黑色莲花",
+      "duration": 222.379,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

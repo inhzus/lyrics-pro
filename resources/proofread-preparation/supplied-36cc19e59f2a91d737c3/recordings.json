@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 543798022,
+      "title": "阮",
+      "artists": [
+        "草屯囝仔"
+      ],
+      "album": "囝仔",
+      "duration": 228.0,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

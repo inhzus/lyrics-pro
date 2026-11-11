@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 2318439,
+      "title": "殘枝 Legacy of the Seediq",
+      "artists": [
+        "ChthoniC"
+      ],
+      "album": "Takasago Army",
+      "duration": 262.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 11180934,
+      "title": "殘枝 / Legacy of the Seediq",
+      "artists": [
+        "ChthoniC"
+      ],
+      "album": "失竊千年",
+      "duration": 310.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 35467943,
+      "title": "殘枝 Legacy of the Seediq",
+      "artists": [
+        "閃靈 Chthonic"
+      ],
+      "album": "高砂軍 Takasago Army",
+      "duration": 262.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

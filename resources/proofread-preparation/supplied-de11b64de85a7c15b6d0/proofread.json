@@ -1,0 +1,249 @@
+{
+  "recording_id": "netease:168238",
+  "source": "User-supplied resources/lyrics-spelling/思念會驚-蕭煌奇",
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "因為想你愛著飲咖啡",
+      "spelling": "in-uī siūnn lí ài-tio̍h lím ka-pi",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "懷念過去你聞咖啡的表情",
+      "spelling": "huâi-liām kuè-khì lí phīnn ka-pi ê piáu-tsîng",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "彼當存咱都笑微微 彼當存項攏拆袜離",
+      "spelling": "hit tang tsûn lán lóng tshiò bî-bî hit tang tsûn siang lóng thiah buē lī",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "每一工攏有講袜完的甜蜜",
+      "spelling": "muí tsi̍t kang lóng ū kóng buē uân ê tinn-bi̍t",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "原來幸福攏會變流星",
+      "spelling": "guân-lâi hīng-hok lóng ē piàn liû-tshinn",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "永遠袜變只有兩人的個性",
+      "spelling": "íng-uán buē piàn tsí-ū nn̄g-lâng ê kò-sìng",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "後來咱太倔強固執 後來煞無法度回去",
+      "spelling": "āu-lâi lán thài khut-kiông kòo-tsip āu-lâi suah bô-huat-tōo tńg-khì",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "兩個人越來越遠聽無後悔號哀悲",
+      "spelling": "nn̄g-ê lâng lú lâi lú hn̄g thiann bô hiō-hué hau ai-pi",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "無暝無日思念會驚 心酸無地藏",
+      "spelling": "bô mî bô li̍t su-liām ē kiann sim-sng bô tē-tshàng",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "全無心情擱愛別人 若無你快樂已經無望",
+      "spelling": "tsuân bô-sim-tsîng koh ài pa̍t-lâng ná bô lí khuài-lo̍k í-king bô-bāng",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "胸坎破了幾落孔 猶原漂泊假輕鬆",
+      "spelling": "hing-khám phuà liáu kuí lo̍h khang iu-guân phiau-pi̍k ké khin-sang",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "我恨我是倔強的憨人 不敢老實說出愛的人",
+      "spelling": "guá hūn guá sī khut-kiông ê gōng lâng m̄ kánn lāu-si̍t-kóng-tshut ài ê lâng",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "原來幸福攏會變流星",
+      "spelling": "guân-lâi hīng-hok lóng ē piàn liû-tshinn",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "永遠袜變只有兩人的個性",
+      "spelling": "íng-uán buē piàn tsí-ū nn̄g-lâng ê kò-sìng",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "後來咱太倔強固執 後來煞無法度回去",
+      "spelling": "āu-lâi lán thài khut-kiông kòo-tsip āu-lâi suah bô-huat-tōo tńg-khì",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "兩個人越來越遠聽無後悔號哀悲",
+      "spelling": "nn̄g-ê lâng lú lâi lú hn̄g thiann bô hiō-hué hau ai-pi",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "無暝無日思念會驚 心酸無地藏",
+      "spelling": "bô mî bô li̍t su-liām ē kiann sim-sng bô tē-tshàng",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "全無心情擱愛別人 若無你快樂已經無望",
+      "spelling": "tsuân bô-sim-tsîng koh ài pa̍t-lâng ná bô lí khuài-lo̍k í-king bô-bāng",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "胸坎破了幾落孔 猶原漂泊假輕鬆",
+      "spelling": "hing-khám phuà liáu kuí lo̍h khang iu-guân phiau-pi̍k ké khin-sang",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "我恨我是倔強的憨人 不敢老實說出愛的人",
+      "spelling": "guá hūn guá sī khut-kiông ê gōng lâng m̄ kánn lāu-si̍t-kóng-tshut ài ê lâng",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "眼睛閉閉 看到你塊講話煞無聲",
+      "spelling": "ba̍k-tsiu kheh kheh khuànn-tio̍h lí tè kóng-uē suah bô-siann",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "會凍感覺 置我身邊 你冽做夢",
+      "spelling": "ē-tàng kám-kak tì guá sin-pinn lí leh tsuè-bāng",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "頭鬃甲笑容透出茉莉香",
+      "spelling": "thâu-tsang kā tshiò-iông thàu-tshut ba̍k-ni phang",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "無暝無日思念會驚 心酸無地藏",
+      "spelling": "bô mî bô li̍t su-liām ē kiann sim-sng bô tē-tshàng",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "全無心情擱再愛別人 用獨身等待你會來找我",
+      "spelling": "tsuân bô-sim-tsîng koh-tsài ài pa̍t-lâng iōng to̍k-sin tán-thāi lí ē lâi tshuē guá",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "胸坎破了幾落孔 猶原漂泊假輕鬆",
+      "spelling": "hing-khám phuà liáu kuí lo̍h khang iu-guân phiau-pi̍k ké khin-sang",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "我恨我是倔強的憨人 不敢老實說出愛的人",
+      "spelling": "guá hūn guá sī khut-kiông ê gōng lâng m̄ kánn lāu-si̍t-kóng-tshut ài ê lâng",
+      "source_lines": [
+        79,
+        80
+      ]
+    }
+  ]
+}

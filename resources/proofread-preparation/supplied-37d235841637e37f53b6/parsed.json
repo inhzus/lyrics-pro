@@ -1,0 +1,514 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "志明真正不知要按怎",
+      "spelling": "tsì bîng tsin-tsiànn m̄ tsai beh án-tsuánn",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "為什麼　                        愛人不願閣再相偎",
+      "spelling": "uī-siánn-mi̍h                ài-jîn m̄-guān koh tsài sio uah",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "為什麼",
+          "spelling": "uī-siánn-mi̍h"
+        },
+        {
+          "text": "愛人不願閣再相偎",
+          "spelling": "ài-jîn m̄-guān koh tsài sio uah"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "春嬌已經早就無在聽",
+      "spelling": "tshun kiau í-king tsá-tio̍h bô teh thiann",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "講這多　                       其實攏總攏無卡抓",
+      "spelling": "kóng tsia tsē                kî-si̍t lóng tsóng lóng bô kǎ zhuā",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "講這多",
+          "spelling": "kóng tsia tsē"
+        },
+        {
+          "text": "其實攏總攏無卡抓",
+          "spelling": "kî-si̍t lóng tsóng lóng bô kǎ zhuā"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "走到淡水的海岸　                              兩個人的愛情",
+      "spelling": "kiânn tio̍h Tām-tsuí hái-huānn    nn̄g-ê lâng ê ài-tsîng",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "走到淡水的海岸",
+          "spelling": "kiânn tio̍h Tām-tsuí hái-huānn"
+        },
+        {
+          "text": "兩個人的愛情",
+          "spelling": "nn̄g-ê lâng ê ài-tsîng"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "已經無人看　                             已經無人聽　                       啊",
+      "spelling": "í-king bô lâng khuànn            í-king bô lâng thiann        hannh",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "已經無人看",
+          "spelling": "í-king bô lâng khuànn"
+        },
+        {
+          "text": "已經無人聽",
+          "spelling": "í-king bô lâng thiann"
+        },
+        {
+          "text": "啊",
+          "spelling": "hannh"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "我跟你最好就到這　                           你對我已經沒感覺",
+      "spelling": "guá kā lí siōng hó tō kàu tsia         lí tuì guá í-king bô kám-kak",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "我跟你最好就到這",
+          "spelling": "guá kā lí siōng hó tō kàu tsia"
+        },
+        {
+          "text": "你對我已經沒感覺",
+          "spelling": "lí tuì guá í-king bô kám-kak"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "到這凍止　                           你也免愛我",
+      "spelling": "kàu tsia tòng tiānn            lí iā bián ài guá",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "到這凍止",
+          "spelling": "kàu tsia tòng tiānn"
+        },
+        {
+          "text": "你也免愛我",
+          "spelling": "lí iā bián ài guá"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "我跟你最好就到這　                         你對我已經沒感覺",
+      "spelling": "guá kā lí siōng hó tō kàu tsia        lí tuì guá í-king bô kám-kak",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "我跟你最好就到這",
+          "spelling": "guá kā lí siōng hó tō kàu tsia"
+        },
+        {
+          "text": "你對我已經沒感覺",
+          "spelling": "lí tuì guá í-king bô kám-kak"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "麥閣傷心                               麥閣我這愛你 你沒愛我",
+      "spelling": "mái koh siong-sim            mái koh guá tsia ài lí lí bô ài  guá",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "志明心情真正有影寒                                                   風這大",
+      "spelling": "tsì bîng sim-tsîng tsin-tsiànn ū-iánn kuânn        hong tsia tuā",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "志明心情真正有影寒",
+          "spelling": "tsì bîng sim-tsîng tsin-tsiànn ū-iánn kuânn"
+        },
+        {
+          "text": "風這大",
+          "spelling": "hong tsia tuā"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "你也真正攏沒心肝",
+      "spelling": "lí iā tsin-tsiànn lóng bô sim-kuann",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "春嬌你哪無要和我播　                                          這齣電影",
+      "spelling": "tshun kiau lí ná bô beh hām guá puann        tsit tshut tiān-iánn",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "春嬌你哪無要和我播",
+          "spelling": "tshun kiau lí ná bô beh hām guá puann"
+        },
+        {
+          "text": "這齣電影",
+          "spelling": "tsit tshut tiān-iánn"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "咱就走到這位 準嘟煞",
+      "spelling": "lán tio̍h kiânn kàu tsit-uī  tsún tu suah",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "走到淡水的海岸　                             兩個人的愛情",
+      "spelling": "kiânn tio̍h Tām-tsuí hái-huānn    nn̄g-ê lâng ê ài-tsîng",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "走到淡水的海岸",
+          "spelling": "kiânn tio̍h Tām-tsuí hái-huānn"
+        },
+        {
+          "text": "兩個人的愛情",
+          "spelling": "nn̄g-ê lâng ê ài-tsîng"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "已經無人看　                             已經無人聽　                        啊",
+      "spelling": "í-king bô lâng khuànn            í-king bô lâng thiann        hannh",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "已經無人看",
+          "spelling": "í-king bô lâng khuànn"
+        },
+        {
+          "text": "已經無人聽",
+          "spelling": "í-king bô lâng thiann"
+        },
+        {
+          "text": "啊",
+          "spelling": "hannh"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "我跟你最好就到這　                          你對我已經沒感覺",
+      "spelling": "guá kā lí siōng hó tō kàu tsia         lí tuì guá í-king bô kám-kak",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "我跟你最好就到這",
+          "spelling": "guá kā lí siōng hó tō kàu tsia"
+        },
+        {
+          "text": "你對我已經沒感覺",
+          "spelling": "lí tuì guá í-king bô kám-kak"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "到這凍止　                           你也免愛我",
+      "spelling": "kàu tsia tòng tiānn            lí iā bián ài guá",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "到這凍止",
+          "spelling": "kàu tsia tòng tiānn"
+        },
+        {
+          "text": "你也免愛我",
+          "spelling": "lí iā bián ài guá"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "我跟你最好就到這　                         你對我已經沒感覺",
+      "spelling": "guá kā lí siōng hó tō kàu tsia        lí tuì guá í-king bô kám-kak",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "我跟你最好就到這",
+          "spelling": "guá kā lí siōng hó tō kàu tsia"
+        },
+        {
+          "text": "你對我已經沒感覺",
+          "spelling": "lí tuì guá í-king bô kám-kak"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "麥閣傷心                              麥閣我這愛你 你沒愛我",
+      "spelling": "mái koh siong-sim            mái koh guá tsia ài lí lí bô ài  guá",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "走到淡水的海岸　                              兩個人的愛情",
+      "spelling": "kiânn tio̍h Tām-tsuí hái-huānn    nn̄g-ê lâng ê ài-tsîng",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "走到淡水的海岸",
+          "spelling": "kiânn tio̍h Tām-tsuí hái-huānn"
+        },
+        {
+          "text": "兩個人的愛情",
+          "spelling": "nn̄g-ê lâng ê ài-tsîng"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "已經無人看　                              已經無人聽　                      啊",
+      "spelling": "í-king bô lâng khuànn            í-king bô lâng thiann        hannh",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "已經無人看",
+          "spelling": "í-king bô lâng khuànn"
+        },
+        {
+          "text": "已經無人聽",
+          "spelling": "í-king bô lâng thiann"
+        },
+        {
+          "text": "啊",
+          "spelling": "hannh"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "我跟你最好就到這　                          你對我已經沒感覺",
+      "spelling": "guá kā lí siōng hó tō kàu tsia         lí tuì guá í-king bô kám-kak",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "我跟你最好就到這",
+          "spelling": "guá kā lí siōng hó tō kàu tsia"
+        },
+        {
+          "text": "你對我已經沒感覺",
+          "spelling": "lí tuì guá í-king bô kám-kak"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "到這凍止　                           你也免愛我",
+      "spelling": "kàu tsia tòng tiānn            lí iā bián ài guá",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "到這凍止",
+          "spelling": "kàu tsia tòng tiānn"
+        },
+        {
+          "text": "你也免愛我",
+          "spelling": "lí iā bián ài guá"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "我跟你最好就到這　                          你對我已經沒感覺",
+      "spelling": "guá kā lí siōng hó tō kàu tsia        lí tuì guá í-king bô kám-kak",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "我跟你最好就到這",
+          "spelling": "guá kā lí siōng hó tō kàu tsia"
+        },
+        {
+          "text": "你對我已經沒感覺",
+          "spelling": "lí tuì guá í-king bô kám-kak"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "麥閣傷心                              麥閣我這愛你 你沒愛我",
+      "spelling": "mái koh siong-sim            mái koh guá tsia ài lí lí bô ài  guá",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "我跟你最好就到這　                          你對我已經沒感覺",
+      "spelling": "guá kā lí siōng hó tō kàu tsia         lí tuì guá í-king bô kám-kak",
+      "source_lines": [
+        81,
+        82
+      ],
+      "parts": [
+        {
+          "text": "我跟你最好就到這",
+          "spelling": "guá kā lí siōng hó tō kàu tsia"
+        },
+        {
+          "text": "你對我已經沒感覺",
+          "spelling": "lí tuì guá í-king bô kám-kak"
+        }
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "到這凍止　                           你也免愛我",
+      "spelling": "kàu tsia tòng tiānn            lí iā bián ài guá",
+      "source_lines": [
+        84,
+        85
+      ],
+      "parts": [
+        {
+          "text": "到這凍止",
+          "spelling": "kàu tsia tòng tiānn"
+        },
+        {
+          "text": "你也免愛我",
+          "spelling": "lí iā bián ài guá"
+        }
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "我跟你最好就到這　                          你對我已經沒感覺",
+      "spelling": "guá kā lí siōng hó tō kàu tsia        lí tuì guá í-king bô kám-kak",
+      "source_lines": [
+        87,
+        88
+      ],
+      "parts": [
+        {
+          "text": "我跟你最好就到這",
+          "spelling": "guá kā lí siōng hó tō kàu tsia"
+        },
+        {
+          "text": "你對我已經沒感覺",
+          "spelling": "lí tuì guá í-king bô kám-kak"
+        }
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "麥閣傷心                               麥閣我這愛你 你沒愛我",
+      "spelling": "mái koh siong-sim            mái koh guá tsia ài lí lí bô ài  guá",
+      "source_lines": [
+        90,
+        91
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：阿信　作曲： 五月天  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

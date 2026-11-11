@@ -3,6 +3,30 @@ import Testing
 @testable import LyricsPro
 
 struct LyricProtocolTests {
+    @Test func suppliedSpellingIsEffectiveLanguageWithoutAddingAMenuChoice() throws {
+        let lyrics = LiveLyrics(lines: [LiveLyricLine(text: "甲", time: 2, pronunciation: "á")],
+            source: "Proofread https://lrclib.net/api/get/42", synced: true, instrumental: false,
+            proofread: ProofreadMetadata(asset_id: "sample", revision: "1", language: "supplied", attribution: "User"),
+            recordingID: "proofread:sample")
+        let update = LyricUpdate(requestID: 1, language: .auto, selectedLanguage: .supplied,
+            reason: "proofread transcription", status: .ready, message: "", lyrics: lyrics, selectionRevision: 0)
+        #expect(update.isValid && update.languageDescription.contains("Supplied spelling"))
+        #expect(PronunciationLanguage.choices == [.auto, .cantonese, .hokkien, .original])
+        #expect(RecordingCandidate.validReference("lrclib:42"))
+        let invalid = LyricUpdate(requestID: 1, language: .supplied, selectedLanguage: .supplied,
+            reason: "", status: .ready, message: "", lyrics: lyrics, selectionRevision: 0)
+        #expect(!invalid.isValid)
+        for status in [LyricStatus.loading, .error] {
+            let transition = LyricUpdate(requestID: 1, language: .auto, selectedLanguage: .supplied,
+                reason: "proofread transcription", status: status, message: "Preparing", lyrics: nil, selectionRevision: 0)
+            #expect(transition.isValid)
+        }
+        let ordinary = LiveLyrics(lines: lyrics.lines, source: lyrics.source, synced: true, instrumental: false)
+        let missingMetadata = LyricUpdate(requestID: 1, language: .auto, selectedLanguage: .supplied,
+            reason: "", status: .ready, message: "", lyrics: ordinary, selectionRevision: 0)
+        #expect(!missingMetadata.isValid)
+    }
+
     @Test func proofreadIdentityIsIndependentOfItsTimingSource() throws {
         var payload: [String: Any] = ["source": "NetEase https://music.163.com/song?id=5237870",
             "synced": true, "instrumental": false,
@@ -173,6 +197,8 @@ struct LyricProtocolTests {
         #expect(PronunciationLanguage.saved(in: defaults) == .auto)
         defaults.set("hokkien", forKey: PronunciationLanguage.preferenceKey)
         #expect(PronunciationLanguage.saved(in: defaults) == .hokkien)
+        defaults.set("supplied", forKey: PronunciationLanguage.preferenceKey)
+        #expect(PronunciationLanguage.saved(in: defaults) == .auto)
         defaults.set("invalid", forKey: PronunciationLanguage.preferenceKey)
         #expect(PronunciationLanguage.saved(in: defaults) == .auto)
     }

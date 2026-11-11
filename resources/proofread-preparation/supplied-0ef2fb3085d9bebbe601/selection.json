@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "song_id": "1764559304",
+    "title": "颠倒是非",
+    "artists": [
+      "百合花"
+    ],
+    "album": "万事美妙",
+    "duration": 226.107,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1764559304",
+      "duration": 226.107,
+      "ready": false,
+      "coverage": 0.3939393939393939,
+      "exact_fraction": 0.3939393939393939,
+      "summary": {
+        "repeat": 13,
+        "unresolved": 20
+      }
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "一小時 妳應該還在甩香水點胭脂",
+      "spelling": "tsi̍t sió-sî lí ing-kai iáu-leh hiù phang-tsuí tiám ian-tsi",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "一小時 妳應該還在甩香水點胭脂",
+          "spelling": "tsi̍t sió-sî lí ing-kai iáu-leh hiù phang-tsuí tiám ian-tsi"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "二小時 妳說妳出門進前要喝咖啡",
+      "spelling": "nn̄g sió-sî lí kóng lí tshut-mn̂g tsìn-tsîng ài lim ka-pi",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "二小時 妳說妳出門進前要喝咖啡",
+          "spelling": "nn̄g sió-sî lí kóng lí tshut-mn̂g tsìn-tsîng ài lim ka-pi"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "三小時 路裡在塞車真是足委屈妳",
+      "spelling": "sann sió-sî lōo-lí tī that-tshia tsin sī tsiok uí-khut lí",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "三小時 路裡在塞車真是足委屈妳",
+          "spelling": "sann sió-sî lōo-lí tī that-tshia tsin sī tsiok uí-khut lí"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "四小時 一定是手機沒電抹凍開機",
+      "spelling": "sì sió-sî it-tīng sī tshiú-ki bô tiān bē tàng khui-ki",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "四小時 一定是手機沒電抹凍開機",
+          "spelling": "sì sió-sî it-tīng sī tshiú-ki bô tiān bē tàng khui-ki"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "我 尚甲意咧等妳 等著妳心情歡喜",
+      "spelling": "guá siūnn kah ì leh tán lí tán tio̍h lí  sim-tsîng huann-hí",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "我 尚甲意咧等妳",
+          "spelling": "guá siūnn kah ì leh tán lí"
+        },
+        {
+          "text": "等著妳心情歡喜",
+          "spelling": "tán tio̍h lí  sim-tsîng huann-hí"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "連我吸的氣攏甜甜",
+      "spelling": "liân guá suh ê khuì lóng tinn tinn",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "連我吸的氣攏甜甜",
+          "spelling": "liân guá suh ê khuì lóng tinn tinn"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "五小時 妳今晚頭毛sedo一定真美",
+      "spelling": "gōo sió-sî lí îng-àm thâu-mn̂g sedo it-tīng tsin suí",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "五小時 妳今晚頭毛sedo一定真美",
+          "spelling": "gōo sió-sî lí îng-àm thâu-mn̂g sedo it-tīng tsin suí"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "六小時 我嘛來點著一杯無糖咖啡",
+      "spelling": "lio̍k sió-sî guá mah lâi tiám-to̍h tsi̍t pue bô thn̂g ka-pi",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "六小時 我嘛來點著一杯無糖咖啡",
+          "spelling": "lio̍k sió-sî guá mah lâi tiám-to̍h tsi̍t pue bô thn̂g ka-pi"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "七小時 妳塞車生氣的嘴撇嘛真古椎",
+      "spelling": "tshit sió-sî lí that-tshia siū-khì ê tshuì sué mah tsin kóo tsui",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "七小時 妳塞車生氣的嘴撇嘛真古椎",
+          "spelling": "tshit sió-sî lí that-tshia siū-khì ê tshuì sué mah tsin kóo tsui"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "八小時 我想要替妳準備新的電池",
+      "spelling": "peh sió-sî guá siūnn beh thè lí tsún-pī sin ê tiān-tî",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "八小時 我想要替妳準備新的電池",
+          "spelling": "peh sió-sî guá siūnn beh thè lí tsún-pī sin ê tiān-tî"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "我 尚甲意咧等妳 等著妳心情歡喜",
+      "spelling": "guá siūnn kah ì leh tán lí tán tio̍h lí sim-tsîng huann-hí",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "我 尚甲意咧等妳",
+          "spelling": "guá siūnn kah ì leh tán lí"
+        },
+        {
+          "text": "等著妳心情歡喜",
+          "spelling": "tán tio̍h lí sim-tsîng huann-hí"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "連我做的夢攏甜甜",
+      "spelling": "liân guá tsò ê bāng lóng tinn tinn",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "連我做的夢攏甜甜",
+          "spelling": "liân guá tsò ê bāng lóng tinn tinn"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "我攏在這 沒吹冷氣嘛未太熱",
+      "spelling": "guá lóng tī tsia bô tshue líng-khì mah bē siunn jua̍h",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "我攏在這 沒吹冷氣嘛未太熱",
+          "spelling": "guá lóng tī tsia bô tshue líng-khì mah bē siunn jua̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "一直在這 沒穿外衫嘛未畏寒",
+      "spelling": "it-ti̍t tī tsia bô tshīng guā-sann mah bē uì-kuânn",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "一直在這 沒穿外衫嘛未畏寒",
+          "spelling": "it-ti̍t tī tsia bô tshīng guā-sann mah bē uì-kuânn"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "等妳來這 不是約好要看電影",
+      "spelling": "tán lí lâi tsia m̄ sī iok hó beh khuànn tiān-iánn",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "等妳來這 不是約好要看電影",
+          "spelling": "tán lí lâi tsia m̄ sī iok hó beh khuànn tiān-iánn"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "甘說是我 日子記登誕",
+      "spelling": "kam kóng sī guá ji̍t-tsí kì ting tàn",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "甘說是我 日子記登誕",
+          "spelling": "kam kóng sī guá ji̍t-tsí kì ting tàn"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "我攏在這 愛妳的心火攏未發",
+      "spelling": "guá lóng tī tsia ài lí ê sim-hué lóng bē huat",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "我攏在這 愛妳的心火攏未發",
+          "spelling": "guá lóng tī tsia ài lí ê sim-hué lóng bē huat"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "一直在這 有妳通想我就快活",
+      "spelling": "it-ti̍t tī tsia ū lí thàng siūnn guá tō khuìnn-ua̍h",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "一直在這 有妳通想我就快活",
+          "spelling": "it-ti̍t tī tsia ū lí thàng siūnn guá tō khuìnn-ua̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "等妳來這 人攏走了只有剩我",
+      "spelling": "tán lí lâi tsia lâng lóng tsáu liáu tsí ū tshun guá",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "等妳來這 人攏走了只有剩我",
+          "spelling": "tán lí lâi tsia lâng lóng tsáu liáu tsí ū tshun guá"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "甘說是我 日子記登誕",
+      "spelling": "kam kóng sī guá ji̍t-tsí kì ting tàn",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "甘說是我 日子記登誕",
+          "spelling": "kam kóng sī guá ji̍t-tsí kì ting tàn"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "九小時 妳甘會久不來走不對間去",
+      "spelling": "káu sió-sî lí kam ē kú bô lâi kiânn m̄-tio̍h king khì",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "九小時 妳甘會久不來走不對間去",
+          "spelling": "káu sió-sî lí kam ē kú bô lâi kiânn m̄-tio̍h king khì"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "十小時 妳大概當咧問人這是佗位",
+      "spelling": "tsa̍p sió-sî lí tāi-khài tǹg leh mn̄g lâng tsia sī tó-uī",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "十小時 妳大概當咧問人這是佗位",
+          "spelling": "tsa̍p sió-sî lí tāi-khài tǹg leh mn̄g lâng tsia sī tó-uī"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "十一小時 透中午等到今嘛已經半暝",
+      "spelling": "tsa̍p-it sió-sî thàu tiong-tàu tán-kàu jin mah í-king puànn-mê",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "十一小時 透中午等到今嘛已經半暝",
+          "spelling": "tsa̍p-it sió-sî thàu tiong-tàu tán-kàu jin mah í-king puànn-mê"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "十二小時 我等這久嘛未來鬱卒空虛",
+      "spelling": "tsa̍p-jī sió-sî guá tán tsia-kú mah bē lâi ut-tsut khang-hi",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "十二小時 我等這久嘛未來鬱卒空虛",
+          "spelling": "tsa̍p-jī sió-sî guá tán tsia-kú mah bē lâi ut-tsut khang-hi"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "我 尚甲意咧等妳 等著妳心情歡喜",
+      "spelling": "guá siūnn kah ì leh tán lí tán tio̍h lí sim-tsîng huann-hí",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "我 尚甲意咧等妳",
+          "spelling": "guá siūnn kah ì leh tán lí"
+        },
+        {
+          "text": "等著妳心情歡喜",
+          "spelling": "tán tio̍h lí sim-tsîng huann-hí"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "連我酸的心攏甜甜",
+      "spelling": "liân guá sng ê sim lóng tinn tinn",
+      "source_lines": [
+        78,
+        79
+      ],
+      "parts": [
+        {
+          "text": "連我酸的心攏甜甜",
+          "spelling": "liân guá sng ê sim lóng tinn tinn"
+        }
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "我攏在這 沒吹冷氣嘛未太熱",
+      "spelling": "guá lóng tī tsia bô tshue líng-khì mah bē siunn jua̍h",
+      "source_lines": [
+        81,
+        82
+      ],
+      "parts": [
+        {
+          "text": "我攏在這 沒吹冷氣嘛未太熱",
+          "spelling": "guá lóng tī tsia bô tshue líng-khì mah bē siunn jua̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "一直在這 沒穿外衫嘛未畏寒",
+      "spelling": "it-ti̍t tī tsia bô tshīng guā-sann mah bē uì-kuânn",
+      "source_lines": [
+        84,
+        85
+      ],
+      "parts": [
+        {
+          "text": "一直在這 沒穿外衫嘛未畏寒",
+          "spelling": "it-ti̍t tī tsia bô tshīng guā-sann mah bē uì-kuânn"
+        }
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "等妳來這 不是約好要看電影",
+      "spelling": "tán lí lâi tsia m̄ sī iok hó beh khuànn tiān-iánn",
+      "source_lines": [
+        87,
+        88
+      ],
+      "parts": [
+        {
+          "text": "等妳來這 不是約好要看電影",
+          "spelling": "tán lí lâi tsia m̄ sī iok hó beh khuànn tiān-iánn"
+        }
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "甘說是我 日子記登誕",
+      "spelling": "kam kóng sī guá ji̍t-tsí kì ting tàn",
+      "source_lines": [
+        90,
+        91
+      ],
+      "parts": [
+        {
+          "text": "甘說是我 日子記登誕",
+          "spelling": "kam kóng sī guá ji̍t-tsí kì ting tàn"
+        }
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "我攏在這 愛妳的心火攏未發",
+      "spelling": "guá lóng tī tsia ài lí ê sim-hué lóng bē huat",
+      "source_lines": [
+        93,
+        94
+      ],
+      "parts": [
+        {
+          "text": "我攏在這 愛妳的心火攏未發",
+          "spelling": "guá lóng tī tsia ài lí ê sim-hué lóng bē huat"
+        }
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "一直在這 有妳通想我就快活",
+      "spelling": "it-ti̍t tī tsia ū lí thàng siūnn guá tō khuìnn-ua̍h",
+      "source_lines": [
+        96,
+        97
+      ],
+      "parts": [
+        {
+          "text": "一直在這 有妳通想我就快活",
+          "spelling": "it-ti̍t tī tsia ū lí thàng siūnn guá tō khuìnn-ua̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "等妳來這 人攏走了只有剩我",
+      "spelling": "tán lí lâi tsia lâng lóng tsáu liáu tsí ū tshun guá",
+      "source_lines": [
+        99,
+        100
+      ],
+      "parts": [
+        {
+          "text": "等妳來這 人攏走了只有剩我",
+          "spelling": "tán lí lâi tsia lâng lóng tsáu liáu tsí ū tshun guá"
+        }
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "甘說是我 日子記登誕",
+      "spelling": "kam kóng sī guá ji̍t-tsí kì ting tàn",
+      "source_lines": [
+        102,
+        103
+      ],
+      "parts": [
+        {
+          "text": "甘說是我 日子記登誕",
+          "spelling": "kam kóng sī guá ji̍t-tsí kì ting tàn"
+        }
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "開門的聲 聲聲攏是美麗的歌",
+      "spelling": "khui-mn̂g ê siann  siann siann lóng sī bí-lē ê kua",
+      "source_lines": [
+        105,
+        106
+      ],
+      "parts": [
+        {
+          "text": "開門的聲 聲聲攏是美麗的歌",
+          "spelling": "khui-mn̂g ê siann  siann siann lóng sī bí-lē ê kua"
+        }
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "關門的聲 離我心愛愈來愈偎",
+      "spelling": "kuinn-mn̂g ê siann lī guá sim-ài lú lâi lú uá",
+      "source_lines": [
+        108,
+        109
+      ],
+      "parts": [
+        {
+          "text": "關門的聲 離我心愛愈來愈偎",
+          "spelling": "kuinn-mn̂g ê siann lī guá sim-ài lú lâi lú uá"
+        }
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "時鐘的聲 十二點鐘快樂的折磨",
+      "spelling": "sî-tsing ê siann tsa̍p-jī tiám-tsing khuài-lo̍k ê tshik-buâ",
+      "source_lines": [
+        111,
+        112
+      ],
+      "parts": [
+        {
+          "text": "時鐘的聲 十二點鐘快樂的折磨",
+          "spelling": "sî-tsing ê siann tsa̍p-jī tiám-tsing khuài-lo̍k ê tshik-buâ"
+        }
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "甘說是妳 完全不知影",
+      "spelling": "kam kóng sī lí uân-tsuân m̄ tsai-iánn",
+      "source_lines": [
+        114,
+        115
+      ],
+      "parts": [
+        {
+          "text": "甘說是妳 完全不知影",
+          "spelling": "kam kóng sī lí uân-tsuân m̄ tsai-iánn"
+        }
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "走路的聲 聲聲攏是美麗的歌",
+      "spelling": "kiânn-lōo ê siann  siann siann lóng sī bí-lē ê kua",
+      "source_lines": [
+        117,
+        118
+      ],
+      "parts": [
+        {
+          "text": "走路的聲 聲聲攏是美麗的歌",
+          "spelling": "kiânn-lōo ê siann  siann siann lóng sī bí-lē ê kua"
+        }
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "停車的聲 離我心愛愈來愈偎",
+      "spelling": "thîng tshia ê siann lī guá sim-ài lú lâi lú uá",
+      "source_lines": [
+        120,
+        121
+      ],
+      "parts": [
+        {
+          "text": "停車的聲 離我心愛愈來愈偎",
+          "spelling": "thîng tshia ê siann lī guá sim-ài lú lâi lú uá"
+        }
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "時鐘的聲 十二點鐘快樂的折磨",
+      "spelling": "sî-tsing ê siann tsa̍p-jī tiám-tsing khuài-lo̍k ê tshik-buâ",
+      "source_lines": [
+        123,
+        124
+      ],
+      "parts": [
+        {
+          "text": "時鐘的聲 十二點鐘快樂的折磨",
+          "spelling": "sî-tsing ê siann tsa̍p-jī tiám-tsing khuài-lo̍k ê tshik-buâ"
+        }
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "甘說是妳 不知我的名",
+      "spelling": "kam kóng sī sī lí m̄ tsai guá ê miâ",
+      "source_lines": [
+        126,
+        127
+      ],
+      "parts": [
+        {
+          "text": "甘說是妳 不知我的名",
+          "spelling": "kam kóng sī sī lí m̄ tsai guá ê miâ"
+        }
+      ]
+    }
+  ],
+  "repairs": [],
+  "notes": []
+}

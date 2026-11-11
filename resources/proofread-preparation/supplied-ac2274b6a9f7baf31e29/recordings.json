@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": "1393950636",
+      "title": "阮兜住伫屎沟墘",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "台南",
+      "duration": 271.173,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1393950636",
+      "title": "阮兜住伫屎沟墘",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "台南",
+      "duration": 271.173,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1393950636",
+      "title": "阮兜住伫屎沟墘",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "台南",
+      "duration": 271.173,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

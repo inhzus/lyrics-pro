@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "id": "supplied-9e39fa38d2424d4a8876",
+  "revision": "1",
+  "title": "漂浪",
+  "title_aliases": [],
+  "source_path": "resources/lyrics-spelling/漂浪-伍佰",
+  "approved": true,
+  "audio_verified": false,
+  "recording": {
+    "reference": "netease:157174",
+    "duration": 245.36,
+    "album": "树枝孤鸟",
+    "title": "漂浪",
+    "artist": "伍佰 & China Blue"
+  },
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂",
+  "reason": "Join supplied columns and preserve the inspected pronoun and wording differences.",
+  "source_spelling_notes": [],
+  "assignments": [
+    {
+      "source_row": 0,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 1,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 2,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 3,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 4,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:0",
+        "line-3:1"
+      ],
+      "reason": "Join supplied columns and preserve the inspected pronoun and wording differences."
+    },
+    {
+      "source_row": 5,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-6:0"
+      ],
+      "reason": "Join supplied columns and preserve the inspected pronoun and wording differences."
+    },
+    {
+      "source_row": 6,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:0",
+        "line-3:1"
+      ],
+      "reason": "Join supplied columns and preserve the inspected pronoun and wording differences."
+    },
+    {
+      "source_row": 7,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-12:0",
+        "line-12:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 8,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:0",
+        "line-15:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 9,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-18:0",
+        "line-18:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 10,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-21:0",
+        "line-21:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 11,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-24:0",
+        "line-24:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 12,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-27:0",
+        "line-27:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 13,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-30:0",
+        "line-30:1"
+      ],
+      "reason": "Join supplied columns and preserve the inspected pronoun and wording differences."
+    },
+    {
+      "source_row": 14,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:0",
+        "line-3:1"
+      ],
+      "reason": "Join supplied columns and preserve the inspected pronoun and wording differences."
+    },
+    {
+      "source_row": 15,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-36:0",
+        "line-36:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 16,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-39:0",
+        "line-39:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 17,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-42:0",
+        "line-42:1"
+      ],
+      "reason": "Join supplied columns and preserve the inspected pronoun and wording differences."
+    },
+    {
+      "source_row": 18,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-27:0",
+        "line-27:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 19,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-30:0",
+        "line-30:1"
+      ],
+      "reason": "Join supplied columns and preserve the inspected pronoun and wording differences."
+    },
+    {
+      "source_row": 20,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-51:0",
+        "line-51:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 21,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-54:0",
+        "line-54:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 22,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-57:0",
+        "line-57:1"
+      ],
+      "reason": "Join supplied columns and preserve the inspected pronoun and wording differences."
+    },
+    {
+      "source_row": 23,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-60:0",
+        "line-60:1"
+      ],
+      "reason": "Join supplied columns and preserve the inspected pronoun and wording differences."
+    },
+    {
+      "source_row": 24,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-60:0",
+        "line-60:1"
+      ],
+      "reason": "Join supplied columns and preserve the inspected pronoun and wording differences."
+    },
+    {
+      "source_row": 25,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-60:0",
+        "line-60:1"
+      ],
+      "reason": "Join supplied columns and preserve the inspected pronoun and wording differences."
+    }
+  ],
+  "input_sha256": {
+    "original": "3eecc2249ce5d4a864c36e573a6fecce98fe22723be05d49a031d30ca16f77f3",
+    "manual": "6a38def8ab1485d5b64b34948d72a56351d9a7092b31f068b012e2ffbdc90333",
+    "timed": "224d8896f2437fb65680c69e149b40f893aac333c8eee1212d5db872b2c2e557"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "schema_version": 1,
+  "id": "supplied-aa877b02e4f643c35279",
+  "revision": "1",
+  "title": "世界第一等",
+  "title_aliases": [
+    "世界第一等 (Live)"
+  ],
+  "source_path": "resources/lyrics-spelling/世界第一等-伍佰",
+  "approved": true,
+  "audio_verified": false,
+  "recording": {
+    "reference": "netease:156868",
+    "title": "世界第一等 (Live)",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "冬之火 九重天演唱会特选录音专辑",
+    "duration": 238.468,
+    "artist": "伍佰 & China Blue"
+  },
+  "attribution": "User-provided transcription. 作詞：李安修/陳富榮   作曲：伍佰  台語拼音：關德樂",
+  "reason": "Use the 238.468-second 冬之火 live recording, which includes the supplied sung outro. Move inline hong-íng to its paired reading; retain the second-verse wording and align the complete supplied outro at the single existing bang event. Do not use this timing for the 249-second recording.",
+  "source_spelling_notes": [],
+  "assignments": [
+    {
+      "source_row": 0,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:0",
+        "line-3:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 1,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-6:0",
+        "line-6:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 2,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-9:0",
+        "line-9:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 3,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-12:0",
+        "line-12:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 4,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:0",
+        "line-15:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 5,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-18:0",
+        "line-18:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 6,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-21:0",
+        "line-21:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 7,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-24:0",
+        "line-24:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 8,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-27:0",
+        "line-27:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 9,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-30:0",
+        "line-30:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 10,
+      "kind": "gap",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 11,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-33:0",
+        "line-33:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 12,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-36:0",
+        "line-36:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 13,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-21:0",
+        "line-21:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 14,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-42:0",
+        "line-42:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 15,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-27:0",
+        "line-27:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 16,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-30:0",
+        "line-30:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 17,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-48:0",
+        "line-48:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 18,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-54:0",
+        "line-57:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    }
+  ],
+  "input_sha256": {
+    "original": "99285f4179968db5978a560dd2c1ba9af78ca08ada7374e7eace18d02608bad4",
+    "manual": "07bf88ec50bddaf96381b391842bd385be8d599024194e3d39e04c301619c9a5",
+    "timed": "428bc6714ef1c60c23d9bdc86655e513110fc40ec72c8bb3e09f15ef18db3946"
+  }
+}

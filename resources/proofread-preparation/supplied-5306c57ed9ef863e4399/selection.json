@@ -1,0 +1,30 @@
+{
+  "selected": {
+    "song_id": 168242,
+    "title": "相思海岸",
+    "artists": [
+      "萧煌奇"
+    ],
+    "album": "思念会惊",
+    "duration": 242.586,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:168242",
+      "duration": 242.586,
+      "ready": false,
+      "coverage": 0.6461538461538462,
+      "exact_fraction": 0.6,
+      "summary": {
+        "credit": 2,
+        "unresolved": 23,
+        "exact": 17,
+        "approximate": 3,
+        "repeat": 22,
+        "gap": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "街路上我的腳步　是孤單　是沉重",
+      "spelling": "ke-lōo-siōng guá ê kha-pōo sī koo-tuann sī tîm-tāng",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "看到你惦在路邊　我不知影還有別人",
+      "spelling": "khuànn-tio̍h lí tiām tsāi lōo-pinn guá m̄ tsai-iánn iáu-ū pa̍t-lâng",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "只是想欲問你　最近這陣　有好無",
+      "spelling": "tsí-sī siūnn-beh mn̄g lí tsuè-kīn tsit-tsūn ū hó-bô",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "我無心破壞　傷害誰人",
+      "spelling": "guá bô-sim phò-huāi siong-hāi siánn-lâng",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "你挺好講我　是公司的同事",
+      "spelling": "lí thīn hó kóng guá sī kong-si ê tông-sū",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "你挺好講我　是同窗的朋友",
+      "spelling": "lí thīn hó kóng guá sī tông-tshong ê pîng-iú",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "無論什麼理由　我攏會接受",
+      "spelling": "bô-lūn siánn-mih lí-iû guá lóng ē tsiap-siū",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "但是你講　你不識我　你不識我",
+      "spelling": "tān-sī lí kóng lí m̄-bat guá lí m̄-bat guá",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "你挺好講我　是公司的同事",
+      "spelling": "lí thīn hó kóng guá sī kong-si ê tông-sū",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "你挺好講我　是同窗的朋友",
+      "spelling": "lí thīn hó kóng guá sī tông-tshong ê pîng-iú",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "無論什麼理由　我攏會接受",
+      "spelling": "bô-lūn siánn-mih lí-iû guá lóng ē tsiap-siū",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "你不識我　你講你不識我",
+      "spelling": "lí m̄-bat guá lí kóng lí m̄-bat guá",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "你不識我　(天越來越暗　越來越暗　腳步越來越重)",
+      "spelling": "lí m̄-bat guá (thinn lú lâi lú àm lú lâi lú àm kha-pōo lú lâi lú tāng)",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "你講不識我(心越來越痛　越來越痛　目睭越來越濕)",
+      "spelling": "lí kóng lí m̄-sik guá (sim lú lâi lú thiànn lú lâi lú thiànn ba̍k-tsiu lú lâi lú tâm)",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "你不識我　(天越來越暗　越來越暗　腳步越來越重)",
+      "spelling": "lí m̄-bat guá (thinn lú lâi lú àm lú lâi lú àm kha-pōo lú lâi lú tāng)",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "你講不識我(心越來越痛　越來越痛　目睭越來越濕)",
+      "spelling": "lí kóng lí m̄-bat guá (sim lú lâi lú thiànn lú lâi lú thiànn ba̍k-tsiu lú lâi lú tâm)",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "你不識我",
+      "spelling": "lí m̄-bat guá",
+      "source_lines": [
+        49,
+        50
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

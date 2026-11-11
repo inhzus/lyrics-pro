@@ -1,0 +1,218 @@
+{
+  "candidates": [
+    {
+      "song_id": 350174,
+      "title": "二十四節氣",
+      "artists": [
+        "川秋沙"
+      ],
+      "album": "人造沙洲",
+      "duration": 368.906,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2071522323,
+      "title": "二十四节气",
+      "artists": [
+        "小少焱"
+      ],
+      "album": "二十四节气",
+      "duration": 228.849,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2637338698,
+      "title": "二十四节气",
+      "artists": [
+        "贝乐虎儿歌",
+        "崔茗宣"
+      ],
+      "album": "纸鸢",
+      "duration": 194.328,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2074104098,
+      "title": "二十四节气",
+      "artists": [
+        "羡鱼不烦"
+      ],
+      "album": "二十四节气",
+      "duration": 228.252,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2074102386,
+      "title": "二十四节气",
+      "artists": [
+        "郝善良"
+      ],
+      "album": "二十四节气",
+      "duration": 228.252,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1337257318,
+      "title": "二十四节气",
+      "artists": [
+        "李召洋",
+        "于婷",
+        "杨盼兮"
+      ],
+      "album": "二十四节气",
+      "duration": 167.653,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2623030092,
+      "title": "二十四节气",
+      "artists": [
+        "李娜"
+      ],
+      "album": "李娜的音乐传奇",
+      "duration": 157.24,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2621691245,
+      "title": "二十四节气",
+      "artists": [
+        "仝卓"
+      ],
+      "album": "二十四节气",
+      "duration": 306.575,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 202810,
+      "title": "二十四节气",
+      "artists": [
+        "张千一"
+      ],
+      "album": "青藏高原",
+      "duration": 156.36,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1399138516,
+      "title": "二十四节气",
+      "artists": [
+        "练雅佳"
+      ],
+      "album": "二十四节气",
+      "duration": 102.534,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2163640506,
+      "title": "二十四节气",
+      "artists": [
+        "古韵汀州",
+        "骆一鑫"
+      ],
+      "album": "二十四节气",
+      "duration": 262.392,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2074104053,
+      "title": "二十四节气",
+      "artists": [
+        "郝天源"
+      ],
+      "album": "二十四节气",
+      "duration": 228.252,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1459502169,
+      "title": "二十四节气",
+      "artists": [
+        "森宇文化"
+      ],
+      "album": "方块熊趣威小课堂",
+      "duration": 237.708,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2074589934,
+      "title": "二十四节气",
+      "artists": [
+        "青丝姐姐"
+      ],
+      "album": "二十四节气",
+      "duration": 228.303,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2608455880,
+      "title": "二十四节气",
+      "artists": [
+        "骆一鑫"
+      ],
+      "album": "二十四节气",
+      "duration": 261.805,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 537854448,
+      "title": "二十四节气",
+      "artists": [
+        "Phoenix Ho"
+      ],
+      "album": "二十四节气",
+      "duration": 1668.428,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2145275530,
+      "title": "二十四节气",
+      "artists": [
+        "青山有米"
+      ],
+      "album": "青山有曲",
+      "duration": 144.915,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3368373104,
+      "title": "二十四节气",
+      "artists": [
+        "出走浪人"
+      ],
+      "album": "敬",
+      "duration": 194.879,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 258321,
+      "title": "二十四节气",
+      "artists": [
+        "李娜"
+      ],
+      "album": "青藏高原",
+      "duration": 156.36,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

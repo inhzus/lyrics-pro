@@ -1,0 +1,257 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "朋友這呢濟 麥甲我結面腔",
+      "spelling": "pîng-iú tsia nî tsè  mái kā guá kiat bīn-tshiunn",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "轉去再好好解釋 大小姐汝麥擱冤家",
+      "spelling": "tńg-khì tsài hó hó kái-sueh  tuā sió-tsiá lí mái koh uan-ke",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "啊啊 冤家  啊啊",
+      "spelling": "ah ah uan-ke  ah ah",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "啊啊 冤家",
+          "spelling": "ah ah uan-ke"
+        },
+        {
+          "text": "啊啊",
+          "spelling": "ah ah"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "攏是汝的話 規矩些呢濟",
+      "spelling": "lóng sī lí ê uē  kui-kí hia nî tsè",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "阮朋友攏歹底 汝兜攏底做醫生",
+      "spelling": "gún pîng-iú lóng pháinn-té  lí tau lóng tsuè i-sing",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "啊啊 醫生  啊啊",
+      "spelling": "ah ah i-sing  ah ah",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "啊啊 醫生",
+          "spelling": "ah ah i-sing"
+        },
+        {
+          "text": "啊啊",
+          "spelling": "ah ah"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "某奴嘸是我 我嘸是軟弱",
+      "spelling": "bóo-lôo m̄ sī guá  guá m̄ sī nńg-tsiánn",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "人在江湖身不由己啊啊",
+      "spelling": "lîn teh kang-ôo sin bô iû-kí ah ah",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "某奴就是我 無汝是欲安怎",
+      "spelling": "bóo-lôo tio̍h sī guá bô lí sī beh an-tsuánn",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "為著咱厝內可愛的古錐的子",
+      "spelling": "uī-tio̍h lán tshù-lāi khó-ài ê kóo-tsui ê kiánn",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "巧早汝祝聽話 無像今嘛恰北北",
+      "spelling": "khá tsá lí tsiok thiann-uē  bô tshiūnn jim ma tshiah pe̍h pe̍h",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "巧早哩攏穿高跟鞋 無像今嘛逐工甲我花",
+      "spelling": "khá tsá lih lóng tshīng kuân-ta̍h-ê  bô tshiūnn jim ma ta̍k-kang kā guá hue",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "高跟鞋 白馬靴  高跟鞋",
+      "spelling": "kuân-ta̍h-ê Bái mǎ xuē khuài-hia-ê",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "某奴嘸是我 我嘸是軟弱",
+      "spelling": "bóo-lôo m̄ sī guá  guá m̄ sī nńg-tsiánn",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "人在江湖身不由己啊啊",
+      "spelling": "lîn teh kang-ôo sin bô iû-kí ah ah",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "某奴就是我 無汝是欲安怎",
+      "spelling": "bóo-lôo tio̍h sī guá bô lí sī beh an-tsuánn",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "為著咱厝內可愛的古錐的子",
+      "spelling": "uī-tio̍h lán tshù-lāi khó-ài ê kóo-tsui ê kiánn",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "某奴嘸是我 我嘸是軟弱",
+      "spelling": "bóo-lôo m̄ sī guá  guá m̄ sī nńg-tsiánn",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "人在江湖身不由己啊啊",
+      "spelling": "lîn teh kang-ôo sin bô iû-kí ah ah",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "某奴就是我 無汝是欲安怎",
+      "spelling": "bóo-lôo tio̍h sī guá bô lí sī beh an-tsuánn",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "為著咱厝內可愛的古錐的子",
+      "spelling": "uī-tio̍h lán tshù-lāi khó-ài ê kóo-tsui ê kiánn",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "某奴嘸是我 我嘸是軟弱",
+      "spelling": "bóo-lôo m̄ sī guá  guá m̄ sī nńg-tsiánn",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "人在江湖身不由己啊啊",
+      "spelling": "lîn teh kang-ôo sin bô iû-kí ah ah",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "某奴就是我 無汝是欲安怎",
+      "spelling": "bóo-lôo tio̍h sī guá bô lí sī beh an-tsuánn",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "為著咱厝內可愛的古錐的子",
+      "spelling": "uī-tio̍h lán tshù-lāi khó-ài ê kóo-tsui ê kiánn",
+      "source_lines": [
+        75,
+        76
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳永吉   作曲：吳永吉   台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

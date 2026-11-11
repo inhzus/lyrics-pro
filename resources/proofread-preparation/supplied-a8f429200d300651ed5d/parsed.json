@@ -1,0 +1,144 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "時間 咧泅 有夢 綴伊邊仔浮 恩驚 架大的海洋",
+      "spelling": "sî-kan leh siû ū bāng tuè i pinn-á phû un kiann jia-tuā ê hái-iûnn",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "是我 抖抖 心內 毋敢驚著彼个夢 心頭亂亂想",
+      "spelling": "sī guá tshuah tshuah sim-lāi m̄ kánn kiann-tio̍h hit ê bāng sim-thâu luān luān siūnn",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "夢啊夢 陷眠的人 醒來無半項",
+      "spelling": "bāng ah bāng hām-bîn ê lâng tshínn-lâi bô puànn hāng",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "網啊網 敢有彩工 手猶毋願放",
+      "spelling": "bāng ah bāng kám ū tshái kang tshiú iáu m̄-guān guān pàng",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "下願的彼粒星 為阮畫的地圖 密周周的路",
+      "spelling": "hā-guān ê hit lia̍p tshinn uî gún uē ê tē-tôo ba̍t tsiu tsiu ê lōo",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "心裡的彼張網 掖了我擱再掖 無聊的浮重",
+      "spelling": "sim-lāi ê hit tiûnn-bāng iā-liáu guá koh-tsài iā bô-liâu ê phû tāng",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "四界攏討夢的人 掠無夢的網仔 拋向西擱拋向東",
+      "spelling": "sì-kè lóng thó bāng ê lâng lia̍h bô bāng ê bāng-á pha hiòng sai koh pha hiòng tang",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "時間伊陪我佇遮假輕鬆",
+      "spelling": "sî-kan i puê guá tī tsiâ ké khin-sang",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "夢啊夢 陷眠的人 醒來無半項",
+      "spelling": "bāng ah bāng hām-bîn ê lâng tshínn-lâi bô puànn hāng",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "網啊網 敢有彩工 手猶毋願放",
+      "spelling": "bāng ah bāng kám ū tshái kang tshiú iáu m̄-guān guān pàng",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "下願的彼粒星 為阮畫的地圖 密周周的路",
+      "spelling": "hā-guān ê hit lia̍p tshinn uî gún uē ê tē-tôo ba̍t tsiu tsiu ê lōo",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "心裡的彼張網 掖了我擱再掖 無聊的浮重",
+      "spelling": "sim-lāi ê hit tiûnn-bāng iā-liáu guá koh-tsài iā bô-liâu ê phû tāng",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "四界攏討夢的人 掠無夢的網仔 拋向西擱拋向東",
+      "spelling": "sì-kè lóng thó bāng ê lâng lia̍h bô bāng ê bāng-á pha hiòng sai koh pha hiòng tang",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "時間伊陪我佇遮假輕鬆",
+      "spelling": "sî-kan i puê guá tī tsiâ ké khin-sang",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "一隻大船佇頭前共阮弄",
+      "spelling": "tsi̍t tsiah tuā tsûn tī thâu-tsîng kā gún lāng",
+      "source_lines": [
+        45,
+        46
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:1,3"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "candidates": [
+    {
+      "song_id": 543798021,
+      "title": "亡命之徒",
+      "artists": [
+        "草屯囝仔"
+      ],
+      "album": "囝仔",
+      "duration": 209.0,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 394685,
+      "title": "亡命之徒",
+      "artists": [
+        "纵贯线"
+      ],
+      "album": "北上列车",
+      "duration": 368.28,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 551338395,
+      "title": "亡命之徒",
+      "artists": [
+        "林方舟"
+      ],
+      "album": "凹凸世界",
+      "duration": 91.103,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5237863,
+      "title": "亡命之徒",
+      "artists": [
+        "纵贯线"
+      ],
+      "album": "狂飙青春",
+      "duration": 368.266,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3416046371,
+      "title": "亡命之徒",
+      "artists": [
+        "LASER"
+      ],
+      "album": "亡命之徒",
+      "duration": 181.475,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3449262819,
+      "title": "亡命之徒",
+      "artists": [
+        "高伟然",
+        "祖克西"
+      ],
+      "album": "电视剧《金色》原声专辑",
+      "duration": 164.483,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 177279,
+      "title": "亡命之徒",
+      "artists": [
+        "庾澄庆"
+      ],
+      "album": "只有为你",
+      "duration": 273.345,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1321424309,
+      "title": "亡命之徒",
+      "artists": [
+        "国貞雅子",
+        "瑞鸣音乐"
+      ],
+      "album": "伊豆的舞女",
+      "duration": 270.262,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 445449,
+      "title": "亡命之徒",
+      "artists": [
+        "川井憲次"
+      ],
+      "album": "叶问",
+      "duration": 131.703,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1498352957,
+      "title": "亡命之徒",
+      "artists": [
+        "Mr.Chen"
+      ],
+      "album": "亡命之徒",
+      "duration": 272.727,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

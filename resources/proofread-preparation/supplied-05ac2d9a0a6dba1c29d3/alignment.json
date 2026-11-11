@@ -1,0 +1,752 @@
+{
+  "recording_id": "netease:386035",
+  "timing_source": "NetEase https://music.163.com/song?id=386035",
+  "manual_source": "User-supplied resources/lyrics-spelling/永遠的永遠-五月天",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "unresolved": 37,
+    "repeat": 12,
+    "gap": 3,
+    "approximate": 1
+  },
+  "review_row_count": 38,
+  "unmatched_manual_ids": [
+    "line-3:0",
+    "line-6:0",
+    "line-9:0",
+    "line-12:0",
+    "line-36:0",
+    "line-39:0",
+    "line-42:0",
+    "line-45:0"
+  ],
+  "unused_repeat_ids": [
+    "line-21:0",
+    "line-30:0",
+    "line-33:0",
+    "line-54:0",
+    "line-63:0",
+    "line-66:0",
+    "line-75:0",
+    "line-84:0",
+    "line-87:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 五月天 阿信",
+      "match_text": "作词 : 五月天 阿信",
+      "text": "作词 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 五月天 阿信",
+      "match_text": "作曲 : 五月天 阿信",
+      "text": "作曲 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 15.76,
+      "online_text": "我 昨眠的梦",
+      "match_text": "我 昨眠的梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 18.5,
+      "online_text": "小汉的我",
+      "match_text": "小汉的我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-3:0"
+    },
+    {
+      "source_row": 4,
+      "time": 20.2,
+      "online_text": "熟悉的所在",
+      "match_text": "熟悉的所在",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-3:0"
+    },
+    {
+      "source_row": 5,
+      "time": 23.82,
+      "online_text": "梦 犹原是梦",
+      "match_text": "梦 犹原是梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 26.05,
+      "online_text": "什么时候",
+      "match_text": "什么时候",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 28.07,
+      "online_text": "我却这大棕",
+      "match_text": "我却这大棕",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 30.83,
+      "online_text": "为什么 心内的感觉",
+      "match_text": "为什么 心内的感觉",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-9:0"
+    },
+    {
+      "source_row": 9,
+      "time": 34.32,
+      "online_text": "鼻头在酸涩",
+      "match_text": "鼻头在酸涩",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-9:0"
+    },
+    {
+      "source_row": 10,
+      "time": 38.08,
+      "online_text": "我想说 我已经",
+      "match_text": "我想说 我已经",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-12:0"
+    },
+    {
+      "source_row": 11,
+      "time": 41.25,
+      "online_text": "是漂泊的人",
+      "match_text": "是漂泊的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-12:0"
+    },
+    {
+      "source_row": 12,
+      "time": 45.28,
+      "online_text": "不管按怎过按怎变按怎的人",
+      "match_text": "不管按怎过按怎变按怎的人",
+      "text": "不管按怎過按怎變按怎的人",
+      "spelling": "m̄-kuán án-tsuánn kuè án-tsuánn piàn án-tsuánn ê lâng",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 50.04,
+      "online_text": "永远的永远我是彼个人",
+      "match_text": "永远的永远我是彼个人",
+      "text": "永遠的永遠我是彼個人",
+      "spelling": "íng-uán ê íng-uán guá sī hit-ê lâng",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 53.93,
+      "online_text": "爱过的一切 我拢不甘放",
+      "match_text": "爱过的一切 我拢不甘放",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 57.83,
+      "online_text": "不管 天涯海角",
+      "match_text": "不管 天涯海角",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 60.41,
+      "online_text": "不管按怎笑按怎哭按怎眠梦",
+      "match_text": "不管按怎笑按怎哭按怎眠梦",
+      "text": "不管按怎笑按怎哭按怎眠夢",
+      "spelling": "m̄-kuán án-tsuánn tshiò án-tsuánn khàu án-tsuánn bîn-bāng",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 64.88,
+      "online_text": "永远的永远我是彼个人",
+      "match_text": "永远的永远我是彼个人",
+      "text": "永遠的永遠我是彼個人",
+      "spelling": "íng-uán ê íng-uán guá sī hit-ê lâng",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 69.04,
+      "online_text": "只要你一句话",
+      "match_text": "只要你一句话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 71.63,
+      "online_text": "我就敢捶胸膛",
+      "match_text": "我就敢捶胸膛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 73.08,
+      "online_text": "是不是你会等我",
+      "match_text": "是不是你会等我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 75.37,
+      "online_text": "阮爱的人",
+      "match_text": "阮爱的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 79.83,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 23,
+      "time": 91.35,
+      "online_text": "昨 花朵的花",
+      "match_text": "昨 花朵的花",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 94.88,
+      "online_text": "一声变作",
+      "match_text": "一声变作",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 96.24,
+      "online_text": "反白的头发",
+      "match_text": "反白的头发",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 99.39,
+      "online_text": "啊 爸妈疼痛",
+      "match_text": "啊 爸妈疼痛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 102.43,
+      "online_text": "拢无代令",
+      "match_text": "拢无代令",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 104.07,
+      "online_text": "阮不故意",
+      "match_text": "阮不故意",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 106.63,
+      "online_text": "只因为厝内的门窗",
+      "match_text": "只因为厝内的门窗",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-42:0"
+    },
+    {
+      "source_row": 30,
+      "time": 110.12,
+      "online_text": "关不住美梦",
+      "match_text": "关不住美梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-42:0"
+    },
+    {
+      "source_row": 31,
+      "time": 114.11,
+      "online_text": "我想说 我打拼",
+      "match_text": "我想说 我打拼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-45:0"
+    },
+    {
+      "source_row": 32,
+      "time": 117.08,
+      "online_text": "一定有那天",
+      "match_text": "一定有那天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-45:0"
+    },
+    {
+      "source_row": 33,
+      "time": 121.04,
+      "online_text": "不管按怎过按怎变按怎的人",
+      "match_text": "不管按怎过按怎变按怎的人",
+      "text": "不管按怎過按怎變按怎的人",
+      "spelling": "m̄-kuán án-tsuánn kuè án-tsuánn piàn án-tsuánn ê lâng",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 125.37,
+      "online_text": "永远的永远我是彼个人",
+      "match_text": "永远的永远我是彼个人",
+      "text": "永遠的永遠我是彼個人",
+      "spelling": "íng-uán ê íng-uán guá sī hit-ê lâng",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 129.22,
+      "online_text": "爱过的一切 我拢不甘放",
+      "match_text": "爱过的一切 我拢不甘放",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 132.49,
+      "online_text": "不管 天涯海角",
+      "match_text": "不管 天涯海角",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 136.13,
+      "online_text": "不管按怎笑按怎哭按怎眠梦",
+      "match_text": "不管按怎笑按怎哭按怎眠梦",
+      "text": "不管按怎笑按怎哭按怎眠夢",
+      "spelling": "m̄-kuán án-tsuánn tshiò án-tsuánn khàu án-tsuánn bîn-bāng",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 140.29,
+      "online_text": "永远的永远我是彼个人",
+      "match_text": "永远的永远我是彼个人",
+      "text": "永遠的永遠我是彼個人",
+      "spelling": "íng-uán ê íng-uán guá sī hit-ê lâng",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 144.29,
+      "online_text": "只要你一句话",
+      "match_text": "只要你一句话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 145.49,
+      "online_text": "我就敢捶胸膛",
+      "match_text": "我就敢捶胸膛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 148.24,
+      "online_text": "是不是你会等我",
+      "match_text": "是不是你会等我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 150.79,
+      "online_text": "阮爱的人",
+      "match_text": "阮爱的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 157.42,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 44,
+      "time": 166.78,
+      "online_text": "不管按怎过按怎变按怎的人",
+      "match_text": "不管按怎过按怎变按怎的人",
+      "text": "不管按怎過按怎變按怎的人",
+      "spelling": "m̄-kuán án-tsuánn kuè án-tsuánn piàn án-tsuánn ê lâng",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 45,
+      "time": 170.74,
+      "online_text": "永远的永远我是彼个人",
+      "match_text": "永远的永远我是彼个人",
+      "text": "永遠的永遠我是彼個人",
+      "spelling": "íng-uán ê íng-uán guá sī hit-ê lâng",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 46,
+      "time": 174.6,
+      "online_text": "爱过的一切  我拢不甘放",
+      "match_text": "爱过的一切  我拢不甘放",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 177.9,
+      "online_text": "不管  天涯海角",
+      "match_text": "不管  天涯海角",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 48,
+      "time": 181.71,
+      "online_text": "不管按怎笑按怎哭按怎眠梦",
+      "match_text": "不管按怎笑按怎哭按怎眠梦",
+      "text": "不管按怎笑按怎哭按怎眠夢",
+      "spelling": "m̄-kuán án-tsuánn tshiò án-tsuánn khàu án-tsuánn bîn-bāng",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 49,
+      "time": 185.81,
+      "online_text": "永远的永远我是彼个人",
+      "match_text": "永远的永远我是彼个人",
+      "text": "永遠的永遠我是彼個人",
+      "spelling": "íng-uán ê íng-uán guá sī hit-ê lâng",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 50,
+      "time": 190.1,
+      "online_text": "只要你一句话",
+      "match_text": "只要你一句话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 51,
+      "time": 192.14,
+      "online_text": "我就敢捶胸膛",
+      "match_text": "我就敢捶胸膛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 52,
+      "time": 193.96,
+      "online_text": "是不是你会等我",
+      "match_text": "是不是你会等我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 53,
+      "time": 196.79,
+      "online_text": "阮爱的人~ 故乡的人~ 阮爱的人~",
+      "match_text": "阮爱的人~ 故乡的人~ 阮爱的人~",
+      "text": "故鄉的人 阮愛的人 YA",
+      "spelling": "kòo-hiong ê lâng  gún ài ê lâng YA",
+      "manual_id": "line-90:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.727273
+    },
+    {
+      "source_row": 54,
+      "time": 213.43,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "95c91a60ebcb2a7ba5c3fec688141d32189a0c1954f4970126ca0512c317457e",
+    "manual": "546685a95617f504fa0896d72671e4371a1148e0e5648bb7e5f4a21e98e98923",
+    "timed": "cec52fd24b04a6c58e163c0b200edbb75255e385f23eb157002fc81176375314"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 8803841,
+    "title": "放蕩不羈",
+    "artists": [
+      "草屯囝仔"
+    ],
+    "album": "囝仔",
+    "duration": 247.0,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrclib:8803841",
+      "duration": 247.0,
+      "ready": false,
+      "coverage": 0.8888888888888888,
+      "exact_fraction": 0.8765432098765432,
+      "summary": {
+        "repeat": 32,
+        "unresolved": 9,
+        "exact": 39,
+        "approximate": 1,
+        "gap": 1
+      }
+    }
+  ]
+}

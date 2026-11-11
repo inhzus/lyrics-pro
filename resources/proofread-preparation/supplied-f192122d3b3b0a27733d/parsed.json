@@ -1,0 +1,238 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "走一步算一步 Oh Oh",
+      "spelling": "kiânn tsi̍t-pōo sǹg tsi̍t-pōo Oh Oh",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "走出我自己的路 Woah Woah",
+      "spelling": "kiânn-tshut guá ka-kī ê lōo Woah Woah",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "過一天算一天 Yeah Yeah",
+      "spelling": "kuè tsi̍t kang sǹg tsi̍t kang Yeah Yeah",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "船到橋頭自然直",
+      "spelling": "tsûn-tio̍h kiô-thâu tsū-liân ti̍t",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "不管頭前的路有多歹走",
+      "spelling": "m̄-kuán thâu-tsîng ê lōo ū guā pháinn kiânn",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "總有希望請你不免驚邪",
+      "spelling": "tsóng-ū hi-bāng tshiánn lí m̄-bián kiann iah",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "春夏秋冬也經過這多年",
+      "spelling": "tshun hā tshiu tang iā king-kuè tsiah tsuē nî",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "漂泊浪子的心無通靠岸",
+      "spelling": "phiau-pi̍k lōng-tsú ê sim bô-thang khò-huānn",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "走一步算一步 Oh Oh",
+      "spelling": "kiânn tsi̍t-pōo sǹg tsi̍t-pōo Oh Oh",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "走出我自己的路 Woah Woah",
+      "spelling": "kiânn-tshut guá ka-kī ê lōo Woah Woah",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "過一天算一天 Yeah Yeah",
+      "spelling": "kuè tsi̍t kang sǹg tsi̍t kang Yeah Yeah",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "船到橋頭自然直",
+      "spelling": "tsûn-tio̍h kiô-thâu tsū-liân ti̍t",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "日子一天一天過",
+      "spelling": "li̍t-tsí tsi̍t kang tsi̍t kang kuè",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "到底能夠衝甚毀",
+      "spelling": "tàu-té ē-tàng tshiong siánn-huè",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "我的頭殼每天只會想一些有的沒的",
+      "spelling": "guá ê thâu-khak muí-kang tsí ē siūnn tsi̍t-kuá ū ê bô ê",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "雖然生活真歹過",
+      "spelling": "sui-liân sing-ua̍h tsin pháinn kuè",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "屎尿代誌這麼多",
+      "spelling": "sái-liō tāi-tsì tsiah-ni tsuē",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "順著自己腳步我不想要擱擦小這多",
+      "spelling": "sūn-tio̍h ka-kī kha-pōo guá bô siūnn bē koh tshat siáu tsia-tsē",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "日子一天一天過",
+      "spelling": "li̍t-tsí tsi̍t kang tsi̍t kang kuè",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "到底能夠衝甚毀",
+      "spelling": "tàu-té ē-tàng tshiong siánn-huè",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "我的頭殼每天只會想一些有的沒的",
+      "spelling": "guá ê thâu-khak muí-kang tsí ē siūnn tsi̍t-kuá ū ê bô ê",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "雖然生活真歹過",
+      "spelling": "sui-liân sing-ua̍h tsin pháinn kuè",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "屎尿代誌這麼多",
+      "spelling": "sái-liō tāi-tsì tsiah-ni tsuē",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "順著自己腳步我不想要擱擦小這多",
+      "spelling": "sūn-tio̍h ka-kī kha-pōo guá bô siūnn bē koh tshat siáu tsia-tsē",
+      "source_lines": [
+        70,
+        71
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:73,74",
+    "ambiguous_pair:74,75",
+    "ambiguous_pair:75,76",
+    "ambiguous_pair:76,78",
+    "ambiguous_pair:78,79",
+    "ambiguous_pair:79,80",
+    "ambiguous_pair:80,81",
+    "ambiguous_pair:81,83",
+    "ambiguous_pair:83,84",
+    "ambiguous_pair:84,85",
+    "ambiguous_pair:85,86",
+    "ambiguous_pair:86,88",
+    "ambiguous_pair:88,89",
+    "unpaired_line:89"
+  ]
+}

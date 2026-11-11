@@ -1,0 +1,37 @@
+{
+  "selected": {
+    "song_id": 156708,
+    "title": "冲冲冲",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "爱你伍佰年",
+    "duration": 217.71,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "netease:156708",
+      "duration": 217.71,
+      "ready": false,
+      "coverage": 0.14473684210526316,
+      "exact_fraction": 0.16666666666666666,
+      "summary": {
+        "unresolved": 20,
+        "repeat": 4
+      }
+    },
+    {
+      "recording_id": "netease:157027",
+      "duration": 217.71,
+      "ready": false,
+      "coverage": 0.14473684210526316,
+      "exact_fraction": 0.16666666666666666,
+      "summary": {
+        "unresolved": 20,
+        "repeat": 4
+      }
+    }
+  ]
+}

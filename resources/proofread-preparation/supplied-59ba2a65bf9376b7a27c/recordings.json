@@ -1,0 +1,71 @@
+{
+  "candidates": [
+    {
+      "song_id": 386848,
+      "title": "心中无别人",
+      "artists": [
+        "五月天"
+      ],
+      "album": "爱情万岁",
+      "duration": 251.96,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 386014,
+      "title": "心中无别人",
+      "artists": [
+        "五月天"
+      ],
+      "album": "知足 最真杰作选",
+      "duration": 250.865,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 5252256,
+      "title": "心中无别人",
+      "artists": [
+        "五月天"
+      ],
+      "album": "超级星光Pk宝典2",
+      "duration": 253.987,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 5237968,
+      "title": "心中无别人",
+      "artists": [
+        "五月天"
+      ],
+      "album": "站牌之恋",
+      "duration": 251.689,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 3378773458,
+      "title": "心中无别人",
+      "artists": [
+        "黄飞豪"
+      ],
+      "album": "KTV总动员 29 台语流行金曲",
+      "duration": 259.424,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1394681829,
+      "title": "心中无别人",
+      "artists": [
+        "〆﹏神舞"
+      ],
+      "album": "心中无别人",
+      "duration": 250.488,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

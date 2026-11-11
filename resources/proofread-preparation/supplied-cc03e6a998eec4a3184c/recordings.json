@@ -1,0 +1,465 @@
+{
+  "candidates": [
+    {
+      "song_id": 2699929978,
+      "title": "良心",
+      "artists": [
+        "eden2001",
+        "求索4"
+      ],
+      "album": "温柔",
+      "duration": 226.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3352319166,
+      "title": "良心",
+      "artists": [
+        "后台知名度⁭⁭⁭"
+      ],
+      "album": "T烦",
+      "duration": 26.853,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3441683148,
+      "title": "良心",
+      "artists": [
+        "算了"
+      ],
+      "album": "哲哲",
+      "duration": 20.856,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3392539531,
+      "title": "良心",
+      "artists": [
+        "烦心事"
+      ],
+      "album": "ㅤ",
+      "duration": 14.889,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3371961320,
+      "title": "良心",
+      "artists": [
+        "恨海情天"
+      ],
+      "album": "流浪",
+      "duration": 30.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3331364323,
+      "title": "良心",
+      "artists": [
+        "镇静剂"
+      ],
+      "album": "感情感情感情感情感情感情",
+      "duration": 140.326,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2623999568,
+      "title": "良心",
+      "artists": [
+        "馒头"
+      ],
+      "album": "老男孩翻唱",
+      "duration": 133.563,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3418097857,
+      "title": "良心",
+      "artists": [
+        "hao"
+      ],
+      "album": "过往",
+      "duration": 23.956,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 115315,
+      "title": "良心",
+      "artists": [
+        "李克勤"
+      ],
+      "album": "Album",
+      "duration": 257.666,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2670053752,
+      "title": "良心",
+      "artists": [
+        "狂歌svp"
+      ],
+      "album": "良心",
+      "duration": 20.246,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 523621514,
+      "title": "良心",
+      "artists": [
+        "Bad Blood",
+        "Bad Blood ， LB Small Talk"
+      ],
+      "album": "良心",
+      "duration": 202.318,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3409329401,
+      "title": "良心",
+      "artists": [
+        "拽拽大王"
+      ],
+      "album": "ㅤㅤㅤㅤ",
+      "duration": 25.344,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3422883959,
+      "title": "良心",
+      "artists": [
+        "苏翰羽"
+      ],
+      "album": "四叶草",
+      "duration": 44.582,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2674824662,
+      "title": "良心",
+      "artists": [
+        "Mad Lil Rain"
+      ],
+      "album": "百香果",
+      "duration": 197.142,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2025219447,
+      "title": "良心",
+      "artists": [
+        "惠王军"
+      ],
+      "album": "良心",
+      "duration": 236.8,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 560416625,
+      "title": "良心",
+      "artists": [
+        "Sbazzo",
+        "LB Small Talk"
+      ],
+      "album": "Bad Blood 2018",
+      "duration": 202.344,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1983514472,
+      "title": "良心",
+      "artists": [
+        "何灏",
+        "蓬莱仙山 PengLai Mt."
+      ],
+      "album": "蓬莱仙山 PengLai Mt.",
+      "duration": 217.652,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2699929978,
+      "title": "良心",
+      "artists": [
+        "eden2001",
+        "求索4"
+      ],
+      "album": "温柔",
+      "duration": 226.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3352319166,
+      "title": "良心",
+      "artists": [
+        "后台知名度⁭⁭⁭"
+      ],
+      "album": "T烦",
+      "duration": 26.853,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3441683148,
+      "title": "良心",
+      "artists": [
+        "算了"
+      ],
+      "album": "哲哲",
+      "duration": 20.856,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3392539531,
+      "title": "良心",
+      "artists": [
+        "烦心事"
+      ],
+      "album": "ㅤ",
+      "duration": 14.889,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3371961320,
+      "title": "良心",
+      "artists": [
+        "恨海情天"
+      ],
+      "album": "流浪",
+      "duration": 30.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3331364323,
+      "title": "良心",
+      "artists": [
+        "镇静剂"
+      ],
+      "album": "感情感情感情感情感情感情",
+      "duration": 140.326,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2623999568,
+      "title": "良心",
+      "artists": [
+        "馒头"
+      ],
+      "album": "老男孩翻唱",
+      "duration": 133.563,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3418097857,
+      "title": "良心",
+      "artists": [
+        "hao"
+      ],
+      "album": "过往",
+      "duration": 23.956,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 115315,
+      "title": "良心",
+      "artists": [
+        "李克勤"
+      ],
+      "album": "Album",
+      "duration": 257.666,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2670053752,
+      "title": "良心",
+      "artists": [
+        "狂歌svp"
+      ],
+      "album": "良心",
+      "duration": 20.246,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 523621514,
+      "title": "良心",
+      "artists": [
+        "Bad Blood",
+        "Bad Blood ， LB Small Talk"
+      ],
+      "album": "良心",
+      "duration": 202.318,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3409329401,
+      "title": "良心",
+      "artists": [
+        "拽拽大王"
+      ],
+      "album": "ㅤㅤㅤㅤ",
+      "duration": 25.344,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3422883959,
+      "title": "良心",
+      "artists": [
+        "苏翰羽"
+      ],
+      "album": "四叶草",
+      "duration": 44.582,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2674824662,
+      "title": "良心",
+      "artists": [
+        "Mad Lil Rain"
+      ],
+      "album": "百香果",
+      "duration": 197.142,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2025219447,
+      "title": "良心",
+      "artists": [
+        "惠王军"
+      ],
+      "album": "良心",
+      "duration": 236.8,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 560416625,
+      "title": "良心",
+      "artists": [
+        "Sbazzo",
+        "LB Small Talk"
+      ],
+      "album": "Bad Blood 2018",
+      "duration": 202.344,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1983514472,
+      "title": "良心",
+      "artists": [
+        "何灏",
+        "蓬莱仙山 PengLai Mt."
+      ],
+      "album": "蓬莱仙山 PengLai Mt.",
+      "duration": 217.652,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3441683148,
+      "title": "良心",
+      "artists": [
+        "算了"
+      ],
+      "album": "哲哲",
+      "duration": 20.856,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3418097857,
+      "title": "良心",
+      "artists": [
+        "hao"
+      ],
+      "album": "过往",
+      "duration": 23.956,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3352319166,
+      "title": "良心",
+      "artists": [
+        "后台知名度⁭⁭⁭"
+      ],
+      "album": "T烦",
+      "duration": 26.853,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2699929978,
+      "title": "良心",
+      "artists": [
+        "eden2001",
+        "求索4"
+      ],
+      "album": "温柔",
+      "duration": 226.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3371961320,
+      "title": "良心",
+      "artists": [
+        "恨海情天"
+      ],
+      "album": "流浪",
+      "duration": 30.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1511746401",
+      "title": "良心",
+      "artists": [
+        "李克勤"
+      ],
+      "album": "Album",
+      "duration": 254.587,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "976527867",
+      "title": "良心",
+      "artists": [
+        "杨哲"
+      ],
+      "album": "阿郎行船曲",
+      "duration": 239.44,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

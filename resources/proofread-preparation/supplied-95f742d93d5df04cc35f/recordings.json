@@ -1,0 +1,214 @@
+{
+  "candidates": [
+    {
+      "song_id": 87908,
+      "title": "梦中见",
+      "artists": [
+        "郭小霖"
+      ],
+      "album": "梦中见",
+      "duration": 264.065,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 26418599,
+      "title": "梦中见",
+      "artists": [
+        "蓝奕邦"
+      ],
+      "album": "潮骚",
+      "duration": 252.702,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 28234609,
+      "title": "梦中见",
+      "artists": [
+        "张智霖"
+      ],
+      "album": "DE JA VU 似曾相识",
+      "duration": 248.936,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 4872512,
+      "title": "梦中见",
+      "artists": [
+        "郭小霖"
+      ],
+      "album": "家好月圆 电视剧原声带",
+      "duration": 264.065,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3369188918,
+      "title": "梦中见",
+      "artists": [
+        "张智霖"
+      ],
+      "album": "déjà vu",
+      "duration": 248.936,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 87863,
+      "title": "梦中见",
+      "artists": [
+        "郭小霖"
+      ],
+      "album": "一些新一些旧",
+      "duration": 264.065,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 366445,
+      "title": "梦中见",
+      "artists": [
+        "梦剧院"
+      ],
+      "album": "天生一对 (十周年纪念版)",
+      "duration": 260.414,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2029959177,
+      "title": "梦中见",
+      "artists": [
+        "睡眠研究所"
+      ],
+      "album": "入梦伴侣 （2023世界睡眠日特别呈现）",
+      "duration": 302.968,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 400581218,
+      "title": "梦中见",
+      "artists": [
+        "蓝奕邦"
+      ],
+      "album": "Pong Nan Greatest Hits",
+      "duration": 252.795,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 34364210,
+      "title": "梦中见",
+      "artists": [
+        "郭小霖"
+      ],
+      "album": "爱情组曲",
+      "duration": 261.735,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 405333634,
+      "title": "梦中见",
+      "artists": [
+        "郭小霖"
+      ],
+      "album": "完全精选3CD金碟系列",
+      "duration": 263.198,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 400162171,
+      "title": "梦中见",
+      "artists": [
+        "郭小霖"
+      ],
+      "album": "一起走过的岁月",
+      "duration": 261.735,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1753652893",
+      "title": "梦中见",
+      "artists": [
+        "拍谢少年"
+      ],
+      "album": "海口味",
+      "duration": 359.156,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1768897483",
+      "title": "梦中见",
+      "artists": [
+        "散步猫"
+      ],
+      "album": "毛孩钢琴曲 宠物疗愈音乐",
+      "duration": 155.75,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "319992096",
+      "title": "梦中见",
+      "artists": [
+        "郭小霖"
+      ],
+      "album": "金碟铁盒珍藏系列: 郭小霖",
+      "duration": 265.711,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "319980026",
+      "title": "梦中见",
+      "artists": [
+        "郭小霖"
+      ],
+      "album": "郭小霖 DSD Collection",
+      "duration": 264.505,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "339398310",
+      "title": "梦中见",
+      "artists": [
+        "郭小霖"
+      ],
+      "album": "梦中见",
+      "duration": 263.433,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1609349766",
+      "title": "梦中见",
+      "artists": [
+        "梦剧院"
+      ],
+      "album": "天生一对 (十周年纪念版)",
+      "duration": 259.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "319986736",
+      "title": "梦中见",
+      "artists": [
+        "蓝奕邦"
+      ],
+      "album": "潮骚",
+      "duration": 252.648,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

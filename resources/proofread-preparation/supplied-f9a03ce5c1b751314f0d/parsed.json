@@ -1,0 +1,483 @@
+{
+  "blocks": [
+    {
+      "id": "line-2",
+      "text": "阮人雖然歹看",
+      "spelling": "gún lâng sui-liân pháinn khuànn",
+      "source_lines": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "line-5",
+      "text": "但是做過真多好事情",
+      "spelling": "tān-sī tsò-kuè tsin tsē hó tāi-tsì",
+      "source_lines": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "阮唱歌雖然歹聽",
+      "spelling": "gún tshiùnn-kua sui-liân pháinn thiann",
+      "source_lines": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "但是好歹也有入圍金曲",
+      "spelling": "tān-sī hó mā ū rùwéi jīnqǔ",
+      "source_lines": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "酸民在網路給咱橋",
+      "spelling": "suan-bîn tī wǎng lù kā lán kiao",
+      "source_lines": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "line-17",
+      "text": "害我心情壞了了",
+      "spelling": "hāi guá sim-tsîng pháinn liáu liáu",
+      "source_lines": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "line-20",
+      "text": "算了 是一個假帳號",
+      "spelling": "suànle  sī tsi̍t ê jiǎ zhànghào",
+      "source_lines": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "想要給問 你在橋啥毀",
+      "spelling": "siūnn-bei mn̄g i lí sī té kiao siánn-huè",
+      "source_lines": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "line-26",
+      "text": "我的人生 怎麼過的 管你屁事 爽就好了",
+      "spelling": "wǒ de rénshēng zěnmeguò de guǎn nǐ pì shì shuǎng jiù hǎole",
+      "source_lines": [
+        26,
+        27
+      ]
+    },
+    {
+      "id": "line-29",
+      "text": "對我家人 對我朋友完全沒有虧欠",
+      "spelling": "duì wǒjiā rén duì wǒ péngyǒu wánquán méiyǒu kuīqiàn",
+      "source_lines": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "line-32",
+      "text": "不管酒店 還是夜店 吃個宵夜 走在路上",
+      "spelling": "bùguǎn jiǔdiàn háishì yèdiàn chī gè xiāo yè zǒu zài lùshàng",
+      "source_lines": [
+        32,
+        33
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "都是我們的歌跟你說聲抱歉",
+      "spelling": "dōu shì wǒmen de gē gēn nǐ shuō shēng bàoqiàn",
+      "source_lines": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "有的人成經昏天暗地",
+      "spelling": "yǒu de rén chéng jīng hūn tiān àn dì",
+      "source_lines": [
+        38,
+        39
+      ]
+    },
+    {
+      "id": "line-41",
+      "text": "也有人心情曾經Down到谷底",
+      "spelling": "yěyǒu rén xīnqíng céngjīng Down dào gǔdǐ",
+      "source_lines": [
+        41,
+        42
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "散播歡樂 散播愛 酸民散播負面 散播壞",
+      "spelling": "sànbò huānlè sànbò ài suān mín sànbò fùmiàn sànbò huài",
+      "source_lines": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "做好你自己 一定沒問題",
+      "spelling": "zuò hǎo nǐ zìjǐ yīdìng méi wèntí",
+      "source_lines": [
+        47,
+        48
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "感謝你跟著我一起往前走",
+      "spelling": "gǎnxiè nǐ gēnzhe wǒ yīqǐ wǎng qián zǒu",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "時時刻刻為我加油",
+      "spelling": "shí shíkè kè wèi wǒ jiāyóu",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "每個難關陪我度過",
+      "spelling": "měi gè nánguān péi wǒ dùguò",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "雖然他們常說 我們是8+9",
+      "spelling": "suīrán tāmen cháng shuō wǒmen shì bā jiā jiǔ",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "討厭我的也非常多",
+      "spelling": "tǎoyàn wǒ de yě fēicháng duō",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "感謝你一路上當我的兄弟",
+      "spelling": "gǎnxiè nǐ yīlù shàngdàng wǒ de xiōngdì",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "時時刻刻為我打氣",
+      "spelling": "shí shíkè kè wèi wǒ dǎqì",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "一輩子我們形影不離",
+      "spelling": "yībèizi wǒmen xíngyǐngbùlí",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "我不會忘記 他們說我垃圾團體",
+      "spelling": "wǒ bù huì wàngjì tāmen shuō wǒ lèsè tuántǐ",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "再怎麼罵也沒關係 我不放棄",
+      "spelling": "zài zěnme mà yě méiguānxì wǒ bù fàngqì",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "他們沒什麼甲意我",
+      "spelling": "in bô siánn-mih kah-ì guá",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "因為走到哪都聽到我的歌",
+      "spelling": "in-uī kiânn-kàu a̍h lóng thiann-tio̍h guá ê kua",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "不只你有這種感覺",
+      "spelling": "put-tsí lí ū tsit-tsióng kám-kak",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "因為我自己也聽到很煩阿",
+      "spelling": "in-uī guá ka-kī mā thiann-kàu tsin huân a",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "每天在那聽玖壹壹",
+      "spelling": "ta̍k-kang tī hia thiann jiǔyīyī",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "他們又沒什麼quality",
+      "spelling": "in iū bô siánn-mih quality",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "但是 有時陣真趣味",
+      "spelling": "tān-sī ū sî-tsūn tsin tshù-bī",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "我也想要像他們 做自己",
+      "spelling": "guá mā siūnn-be tshiūnn in tsò ka-kī",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "他們都說我的朋友 Gang Gang Gang",
+      "spelling": "tāmen dōu shuō wǒ de péngyǒu Gang Gang Gang",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "也有人說我們根本不會表演",
+      "spelling": "yěyǒu rén shuō wǒmen gēnběn bù huì biǎoyǎn",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "什麼都為了 錢 錢 錢",
+      "spelling": "shénme dōu wèile qián qián qián",
+      "source_lines": [
+        112,
+        113
+      ]
+    },
+    {
+      "id": "line-115",
+      "text": "那最初的 尊嚴 到底放在哪邊",
+      "spelling": "nà zuìchū de zūnyán dàodǐ fàng zài nǎ biān",
+      "source_lines": [
+        115,
+        116
+      ]
+    },
+    {
+      "id": "line-118",
+      "text": "一路好壞我不會忘記",
+      "spelling": "yīlù hǎo huài wǒ bù huì wàngjì",
+      "source_lines": [
+        118,
+        119
+      ]
+    },
+    {
+      "id": "line-121",
+      "text": "感謝你拿著麥克風在KTV",
+      "spelling": "gǎnxiè nǐ názhe màikèfēng zài KTV",
+      "source_lines": [
+        121,
+        122
+      ]
+    },
+    {
+      "id": "line-124",
+      "text": "也感謝你敲著鍵盤在PTT",
+      "spelling": "yě gǎnxiè nǐ qiāozhe jiànpán zài PTT",
+      "source_lines": [
+        124,
+        125
+      ]
+    },
+    {
+      "id": "line-127",
+      "text": "這是2017福氣啦兄弟",
+      "spelling": "zhè shì 2017 nián fúqi la xiōngdì",
+      "source_lines": [
+        127,
+        128
+      ]
+    },
+    {
+      "id": "line-130",
+      "text": "感謝你跟著我一起往前走",
+      "spelling": "gǎnxiè nǐ gēnzhe wǒ yīqǐ wǎng qián zǒu",
+      "source_lines": [
+        130,
+        131
+      ]
+    },
+    {
+      "id": "line-133",
+      "text": "時時刻刻為我加油",
+      "spelling": "shí shíkè kè wèi wǒ jiāyóu",
+      "source_lines": [
+        133,
+        134
+      ]
+    },
+    {
+      "id": "line-136",
+      "text": "每個難關陪我度過",
+      "spelling": "měi gè nánguān péi wǒ dùguò",
+      "source_lines": [
+        136,
+        137
+      ]
+    },
+    {
+      "id": "line-139",
+      "text": "雖然他們常說 我們是8+9",
+      "spelling": "suīrán tāmen cháng shuō wǒmen shì bā jiā jiǔ",
+      "source_lines": [
+        139,
+        140
+      ]
+    },
+    {
+      "id": "line-142",
+      "text": "討厭我的也非常多",
+      "spelling": "tǎoyàn wǒ de yě fēicháng duō",
+      "source_lines": [
+        142,
+        143
+      ]
+    },
+    {
+      "id": "line-145",
+      "text": "感謝你一路上當我的兄弟",
+      "spelling": "gǎnxiè nǐ yīlù shàngdàng wǒ de xiōngdì",
+      "source_lines": [
+        145,
+        146
+      ]
+    },
+    {
+      "id": "line-148",
+      "text": "時時刻刻為我打氣",
+      "spelling": "shí shíkè kè wèi wǒ dǎqì",
+      "source_lines": [
+        148,
+        149
+      ]
+    },
+    {
+      "id": "line-151",
+      "text": "一輩子我們形影不離",
+      "spelling": "yībèizi wǒmen xíngyǐngbùlí",
+      "source_lines": [
+        151,
+        152
+      ]
+    },
+    {
+      "id": "line-154",
+      "text": "我不會忘記 他們說我垃圾團體",
+      "spelling": "wǒ bù huì wàngjì tāmen shuō wǒ lèsè tuántǐ",
+      "source_lines": [
+        154,
+        155
+      ]
+    },
+    {
+      "id": "line-157",
+      "text": "再怎麼罵也沒關係 我不放棄",
+      "spelling": "zài zěnme mà yě méiguānxì wǒ bù fàngqì",
+      "source_lines": [
+        157,
+        158
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [
+    {
+      "line": 1,
+      "text": "Note:  As always, it is important to note that 玖壹壹’s songs tend to switch between Chinese, Taiwanese, and English.  I’ve marked anything that is not in Taiwanese in italics."
+    }
+  ],
+  "reasons": [
+    "ambiguous_pair:50,52",
+    "source_note_requires_review:1"
+  ]
+}

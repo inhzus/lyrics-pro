@@ -1,0 +1,43 @@
+{
+  "selected": {
+    "song_id": 2051740555,
+    "title": "爱妳无目地",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "夏日告白情歌",
+    "duration": 218.42,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "netease:2051740555",
+      "duration": 218.42,
+      "ready": false,
+      "coverage": 0.36538461538461536,
+      "exact_fraction": 0.3,
+      "summary": {
+        "credit": 2,
+        "unresolved": 19,
+        "repeat": 5,
+        "approximate": 2,
+        "exact": 4
+      }
+    },
+    {
+      "recording_id": "netease:449769016",
+      "duration": 218.42,
+      "ready": false,
+      "coverage": 0.36538461538461536,
+      "exact_fraction": 0.3,
+      "summary": {
+        "credit": 4,
+        "unresolved": 19,
+        "repeat": 5,
+        "approximate": 2,
+        "exact": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "recording_id": "netease:156643",
+  "timing_source": "NetEase https://music.163.com/song?id=156643",
+  "manual_source": "User-supplied resources/lyrics-spelling/KISS ME (星星知我心)-伍佰",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "unresolved": 11,
+    "repeat": 4,
+    "exact": 2,
+    "approximate": 4,
+    "gap": 1
+  },
+  "review_row_count": 17,
+  "unmatched_manual_ids": [
+    "line-18:0",
+    "line-30:1",
+    "line-39:0",
+    "line-42:0",
+    "line-45:0"
+  ],
+  "unused_repeat_ids": [
+    "line-3:0",
+    "line-9:0",
+    "line-15:0",
+    "line-15:1",
+    "line-48:0",
+    "line-54:0",
+    "line-60:0",
+    "line-60:1",
+    "line-63:0",
+    "line-63:1"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 31.66,
+      "online_text": "星儿是全部会知影",
+      "match_text": "星儿是全部会知影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 35.31,
+      "online_text": "昨暝伊哮了归暝也知影",
+      "match_text": "昨暝伊哮了归暝也知影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 2,
+      "time": 39.05,
+      "online_text": "可爱的目屎是若亲像",
+      "match_text": "可爱的目屎是若亲像",
+      "text": "可愛的目屎是若親像",
+      "spelling": "khó-ài ê ba̍k-sái sī ná tshin-tshiūnn",
+      "manual_id": "line-6:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 42.72,
+      "online_text": "一粒一粒闪炽的露水一样",
+      "match_text": "一粒一粒闪炽的露水一样",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 46.46,
+      "online_text": "从我出生头一次的甘蜜的 KISS ME",
+      "match_text": "从我出生头一次的甘蜜的 KISS ME",
+      "text": "從我出生頭一次的甘蜜的 KISS ME",
+      "spelling": "tsiông guá tshut sing thâu tsi̍t-pái ê kam bi̍t ê KISS ME",
+      "manual_id": "line-12:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 53.66,
+      "online_text": "给我心内欢喜也惊 目屎也流落",
+      "match_text": "给我心内欢喜也惊 目屎也流落",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 68.32,
+      "online_text": "星儿是全部会知影",
+      "match_text": "星儿是全部会知影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-18:0"
+    },
+    {
+      "source_row": 7,
+      "time": 71.97,
+      "online_text": "昨暝伊梦着什幺也知影",
+      "match_text": "昨暝伊梦着什幺也知影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-18:0"
+    },
+    {
+      "source_row": 8,
+      "time": 75.63,
+      "online_text": "梦着伊与郎君来做阵",
+      "match_text": "梦着伊与郎君来做阵",
+      "text": "夢著伊與郎君來做陣",
+      "spelling": "bāng tio̍h i kah lông kun lâi tsuè-tīn",
+      "manual_id": "line-21:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 79.26,
+      "online_text": "双人站在云中内跑来又跑去",
+      "match_text": "双人站在云中内跑来又跑去",
+      "text": "雙人站在雲中內跑來又跑去",
+      "spelling": "siang-lâng khiā tī hûn tiong lāi tsáu lâi iū tsáu-khì",
+      "manual_id": "line-24:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.916667
+    },
+    {
+      "source_row": 10,
+      "time": 83.06,
+      "online_text": "今夜又是看起着伊提着相片在身边",
+      "match_text": "今夜又是看起着伊提着相片在身边",
+      "text": "今夜又是看起著伊提著相片在身邊",
+      "spelling": "kim-iā iū sī khuànn khí tio̍h i thê tio̍h siòng-phìnn tsāi sin-pinn",
+      "manual_id": "line-27:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 90.43,
+      "online_text": "无疑伊会梦起二人 甘蜜的眠梦",
+      "match_text": "无疑伊会梦起二人 甘蜜的眠梦",
+      "text": "無疑伊會夢起二人",
+      "spelling": "bô-gî i ē bāng khí nn̄g lâng",
+      "manual_id": "line-30:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.761905
+    },
+    {
+      "source_row": 12,
+      "time": 114.48,
+      "online_text": "昨暝在公园中散步那时，给彼个查某哮的就是我",
+      "match_text": "昨暝在公园中散步那时，给彼个查某哮的就是我",
+      "text": "昨暝在公園中散步那時，給彼個查某哮的就是我",
+      "spelling": "tsa-mî tī kong-hn̂g tiong sàn-pōo nà tsūn，hōo he ê tsa-bóo háu ê tio̍h sī guá",
+      "manual_id": "line-33:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.95
+    },
+    {
+      "source_row": 13,
+      "time": 120.77,
+      "online_text": "因为那阵月娘来照着伊的面的时阵 伊真是真美丽又搁真古椎 让我忍不住一时续来甲 KISS 落去",
+      "match_text": "因为那阵月娘来照着伊的面的时阵 伊真是真美丽又搁真古椎 让我忍不住一时续来甲 KISS 落去",
+      "text": "因為那陣月娘來照著伊的面的時陣，伊真是真美麗又擱真古椎",
+      "spelling": "in-uī hit tsūn gue̍h-niû lâi tsiò tio̍h ê bīn ê sî-tsūn ，i tsin sī bí-lē iū khǹg tsin kóo-tsui",
+      "manual_id": "line-36:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.735294
+    },
+    {
+      "source_row": 14,
+      "time": 130.39,
+      "online_text": "吗过天星吗知影 月娘吗知影 伊吗知影 我吗知影 伊的哭绝对不是因为悲伤哮出来耶",
+      "match_text": "吗过天星吗知影 月娘吗知影 伊吗知影 我吗知影 伊的哭绝对不是因为悲伤哮出来耶",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 139.14,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 16,
+      "time": 163.15,
+      "online_text": "星儿是全部会知影",
+      "match_text": "星儿是全部会知影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 166.68,
+      "online_text": "昨暝伊哮了归暝也知影",
+      "match_text": "昨暝伊哮了归暝也知影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 170.37,
+      "online_text": "可爱的目屎是若亲像",
+      "match_text": "可爱的目屎是若亲像",
+      "text": "可愛的目屎是若親像",
+      "spelling": "khó-ài ê ba̍k-sái sī ná tshin-tshiūnn",
+      "manual_id": "line-6:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 174.06,
+      "online_text": "一粒一粒闪炽的露水一样",
+      "match_text": "一粒一粒闪炽的露水一样",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 177.87,
+      "online_text": "从我出生头一次的甘蜜的 KISS ME",
+      "match_text": "从我出生头一次的甘蜜的 KISS ME",
+      "text": "從我出生頭一次的甘蜜的 KISS ME",
+      "spelling": "tsiông guá tshut sing thâu tsi̍t-pái ê kam bi̍t ê KISS ME",
+      "manual_id": "line-12:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 184.91,
+      "online_text": "给我心内欢喜也惊 目屎也流落",
+      "match_text": "给我心内欢喜也惊 目屎也流落",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "a96f2475c9238909450898be948ade3d909f71967c00b9730ebc3ecc62689096",
+    "manual": "8ef1cddda3f01a01069953e8bb66201b85602ee7bf4fcdee3801c62646a3fe98",
+    "timed": "d179c733ff8369b095e7a349772214037d3f6ce38022464c7943fbfc60c66f9b"
+  }
+}

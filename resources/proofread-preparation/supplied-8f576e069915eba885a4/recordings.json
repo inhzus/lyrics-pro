@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": "1510912559",
+      "title": "仙拼仙",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "众神护台湾 (黑胶版)",
+      "duration": 227.093,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "842352307",
+      "title": "仙拼仙",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "众神护台湾",
+      "duration": 227.093,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

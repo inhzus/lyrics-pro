@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": "1194938596",
+      "title": "无字的签诗",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "旧年",
+      "duration": 314.707,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1194938596",
+      "title": "无字的签诗",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "旧年",
+      "duration": 314.707,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

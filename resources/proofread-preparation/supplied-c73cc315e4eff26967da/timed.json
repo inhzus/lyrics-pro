@@ -1,0 +1,86 @@
+{
+  "recording_id": "netease:350180",
+  "source": "NetEase https://music.163.com/song?id=350180",
+  "lines": [
+    {
+      "time": 0,
+      "text": "作词 : 川秋沙",
+      "kind": "credit"
+    },
+    {
+      "time": 1.0,
+      "text": "作曲 : 川秋沙",
+      "kind": "credit"
+    },
+    {
+      "time": 43.55,
+      "text": "满山欸花 亲像梦 拎欸山 拎欸影",
+      "kind": "lyric"
+    },
+    {
+      "time": 62.11,
+      "text": "五彩欸画 亲像梦 拎欸歌 拎欸声",
+      "kind": "lyric"
+    },
+    {
+      "time": 115.26,
+      "text": "满山欸花 亲像梦 拎欸山 拎欸影",
+      "kind": "lyric"
+    },
+    {
+      "time": 133.05,
+      "text": "五彩欸画 亲像梦 拎欸歌 拎欸声",
+      "kind": "lyric"
+    },
+    {
+      "time": 186.46,
+      "text": "风尾 花开 巷尾 月明",
+      "kind": "lyric"
+    },
+    {
+      "time": 204.35,
+      "text": "树尾 花落 梦醒 搁梦",
+      "kind": "lyric"
+    },
+    {
+      "time": 220.79,
+      "text": "冬夜花落 秋蝉欲落",
+      "kind": "lyric"
+    },
+    {
+      "time": 230.0,
+      "text": "这勒世间 怎样惋叹",
+      "kind": "lyric"
+    },
+    {
+      "time": 238.83,
+      "text": "悲欢合离 到底悲哀",
+      "kind": "lyric"
+    },
+    {
+      "time": 247.58,
+      "text": "谁诶身世 到底幽怨",
+      "kind": "lyric"
+    },
+    {
+      "time": 274.33,
+      "text": "满山诶花 亲像拎欸影",
+      "kind": "lyric"
+    },
+    {
+      "time": 283.42,
+      "text": "心内欸话 哪里找",
+      "kind": "lyric"
+    },
+    {
+      "time": 292.62,
+      "text": "满山诶花 亲像拎欸影",
+      "kind": "lyric"
+    },
+    {
+      "time": 301.08,
+      "text": "心内欸话 心肝底",
+      "kind": "lyric"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "心情很輕鬆 沒什麼阻礙",
+      "spelling": "sim-tsîng tsin khin-sang bô-siánn-mih tsóo-gāi",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "心情很輕鬆 沒什麼阻礙",
+          "spelling": "sim-tsîng tsin khin-sang bô-siánn-mih tsóo-gāi"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "我想你正經對我沒說蓋熟悉",
+      "spelling": "guá siūnn lí tsìng-king tuì guá bô kóng kài si̍k-sāi",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "我想你正經對我沒說蓋熟悉",
+          "spelling": "guá siūnn lí tsìng-king tuì guá bô kóng kài si̍k-sāi"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "看起來呆呆 無聊嘛不錯",
+      "spelling": "khuànn khí-lâi tai tai bô-liâu mah bē-bái",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "看起來呆呆 無聊嘛不錯",
+          "spelling": "khuànn khí-lâi tai tai bô-liâu mah bē-bái"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "今嘛是什麼情形我完全攏了解",
+      "spelling": "jin mah sī siánn-mih tsîng-hîng guá uân-tsuân lóng liáu-kái",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "今嘛是什麼情形我完全攏了解",
+          "spelling": "jin mah sī siánn-mih tsîng-hîng guá uân-tsuân lóng liáu-kái"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "我不愛鋒頭 我嘛未假傲",
+      "spelling": "guá bô ài hong thâu guá mah bē ké kào",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "我不愛鋒頭 我嘛未假傲",
+          "spelling": "guá bô ài hong thâu guá mah bē ké kào"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "我甲意事事項項攏要照步來",
+      "spelling": "guá kah ì sū sū hāng-hāng lóng ài tsiáu pōo lâi",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "我甲意事事項項攏要照步來",
+          "spelling": "guá kah ì sū sū hāng-hāng lóng ài tsiáu pōo lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "你做你爽勢 你作你擠洋",
+      "spelling": "lí tsò lí sńg sè lí tsoh lí tsik iân",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "你做你爽勢 你作你擠洋",
+          "spelling": "lí tsò lí sńg sè lí tsoh lí tsik iân"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "我不免步數盡展證明我存在",
+      "spelling": "guá m̄-bián pōo sòo tsīn tián tsìng-bîng guá tsûn-tsāi",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "我不免步數盡展證明我存在",
+          "spelling": "guá m̄-bián pōo sòo tsīn tián tsìng-bîng guá tsûn-tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "耐心等待 到時你就知",
+      "spelling": "nāi-sim tán-thāi kàu-sî lí tio̍h tsai",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "耐心等待 到時你就知",
+          "spelling": "nāi-sim tán-thāi kàu-sî lí tio̍h tsai"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "不知悔改 看誰較厲害",
+      "spelling": "put ti hué-kái khuànn siáng khah lī-hāi",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "不知悔改 看誰較厲害",
+          "spelling": "put ti hué-kái khuànn siáng khah lī-hāi"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "紅色的青光 驚駭的色彩",
+      "spelling": "âng-sik ê tshenn kng kiann gia̍h ê sik-tshái",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "紅色的青光 驚駭的色彩",
+          "spelling": "âng-sik ê tshenn kng kiann gia̍h ê sik-tshái"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "在我的腦海隨時會凍迸出來",
+      "spelling": "tī guá ê náu-hái suî-sî ē tàng piàng tshut-lâi",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "在我的腦海隨時會凍迸出來",
+          "spelling": "tī guá ê náu-hái suî-sî ē tàng piàng tshut-lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "我註定成功 不屬於失敗",
+      "spelling": "guá tsù-tiānn sîng-kong bô sio̍k-î sit-pāi",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "我註定成功 不屬於失敗",
+          "spelling": "guá tsù-tiānn sîng-kong bô sio̍k-î sit-pāi"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "我不要甲你相爭只是為現在",
+      "spelling": "guá bô ài kah lí sio-tsinn tsí-sī uî hiàn tsāi",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "我不要甲你相爭只是為現在",
+          "spelling": "guá bô ài kah lí sio-tsinn tsí-sī uî hiàn tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "時機若沒到 凡事就忍耐",
+      "spelling": "sî-ki ná bô kàu huân-sū tio̍h jím-nāi",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "時機若沒到 凡事就忍耐",
+          "spelling": "sî-ki ná bô kàu huân-sū tio̍h jím-nāi"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "打草若驚蛇代誌就抹那精采",
+      "spelling": "tánn tsháu ná kiann siâ tāi-tsì tio̍h huê hiâ tsing tshái",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "打草若驚蛇代誌就抹那精采",
+          "spelling": "tánn tsháu ná kiann siâ tāi-tsì tio̍h huê hiâ tsing tshái"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "你盡量派頭 觀前沒顧後",
+      "spelling": "lí tsīn-liōng phài-thâu kuan-tsîng bē kòo-āu",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "你盡量派頭 觀前沒顧後",
+          "spelling": "lí tsīn-liōng phài-thâu kuan-tsîng bē kòo-āu"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "你已經一步一步死亡界線來",
+      "spelling": "lí í-king tsi̍t pōo tsi̍t pōo sí-bông kài suànn lâi",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "你已經一步一步死亡界線來",
+          "spelling": "lí í-king tsi̍t pōo tsi̍t pōo sí-bông kài suànn lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "耐心等待 到時你就知",
+      "spelling": "nāi-sim tán-thāi kàu-sî lí tio̍h tsai",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "耐心等待 到時你就知",
+          "spelling": "nāi-sim tán-thāi kàu-sî lí tio̍h tsai"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "不知悔改 看誰較厲害",
+      "spelling": "put ti hué-kái khuànn siáng khah lī-hāi",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "不知悔改 看誰較厲害",
+          "spelling": "put ti hué-kái khuànn siáng khah lī-hāi"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "我已經回來 時間是現在",
+      "spelling": "guá í-king tńg-lâi sî-kan sī hiàn tsāi",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "我已經回來 時間是現在",
+          "spelling": "guá í-king tńg-lâi sî-kan sī hiàn tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "不管你甲意抑沒這擺我欲來",
+      "spelling": "m̄-kuán lí kah ì ia̍h bô tsit-pái guá beh lâi",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "不管你甲意抑沒這擺我欲來",
+          "spelling": "m̄-kuán lí kah ì ia̍h bô tsit-pái guá beh lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "目周撥乎金 腳尾續乎在",
+      "spelling": "ba̍k tsiu pué honnh kim kha bué suà honnh tsāi",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "目周撥乎金 腳尾續乎在",
+          "spelling": "ba̍k tsiu pué honnh kim kha bué suà honnh tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "乎你看什麼才是勝利的姿態",
+      "spelling": "honnh lí khuànn siánn-mih tsiah-sī sìng-lī ê tsú-thài",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "乎你看什麼才是勝利的姿態",
+          "spelling": "honnh lí khuànn siánn-mih tsiah-sī sìng-lī ê tsú-thài"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "耐心等待 到時你就知",
+      "spelling": "nāi-sim tán-thāi kàu-sî lí tio̍h tsai",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "耐心等待 到時你就知",
+          "spelling": "nāi-sim tán-thāi kàu-sî lí tio̍h tsai"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "不知悔改 看誰較厲害",
+      "spelling": "put ti hué-kái khuànn siáng khah lī-hāi",
+      "source_lines": [
+        78,
+        79
+      ],
+      "parts": [
+        {
+          "text": "不知悔改 看誰較厲害",
+          "spelling": "put ti hué-kái khuànn siáng khah lī-hāi"
+        }
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "耐心等待 到時你就知",
+      "spelling": "nāi-sim tán-thāi kàu-sî lí tio̍h tsai",
+      "source_lines": [
+        81,
+        82
+      ],
+      "parts": [
+        {
+          "text": "耐心等待 到時你就知",
+          "spelling": "nāi-sim tán-thāi kàu-sî lí tio̍h tsai"
+        }
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "襯襯採採 看誰較厲害",
+      "spelling": "put ti hué-kái khuànn siáng khah lī-hāi",
+      "source_lines": [
+        84,
+        85
+      ],
+      "parts": [
+        {
+          "text": "襯襯採採 看誰較厲害",
+          "spelling": "put ti hué-kái khuànn siáng khah lī-hāi"
+        }
+      ]
+    }
+  ],
+  "repairs": [],
+  "notes": [
+    {
+      "line": 87,
+      "text": "Note:  As I was unable to find the original album version for the song, I’ve included the Adam Freeland remix of the song instead.  It’s a little bit faster than the original, but still easy enough to follow along with."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "song_id": "1445522122",
+    "title": "月落",
+    "artists": [
+      "江蕙"
+    ],
+    "album": "甲你揽牢牢",
+    "duration": 257.267,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1445522122",
+      "duration": 257.267,
+      "ready": true,
+      "coverage": 1.0,
+      "exact_fraction": 1.0,
+      "summary": {
+        "exact": 2,
+        "repeat": 31
+      }
+    }
+  ]
+}

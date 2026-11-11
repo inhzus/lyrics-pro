@@ -1,0 +1,351 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "天氣變化 風吹來漸漸冷啦",
+      "spelling": "thinn-khì piàn-huà hong-tshue lâi tsiām-tsiām líng là",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "就耶使人感覺孤單",
+      "spelling": "tio̍h ê sú-lâng kám-kak koo-tuann",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "想起過去 就想起陪伴我",
+      "spelling": "siūnn-tio̍h kuè-khì tio̍h siūnn-khí puê-phuānn guá",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "阿公彼件舊皮衫",
+      "spelling": "a-kong hit kiānn kū phuê-sann",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "石頭會爛 海水嘛並沒變乾",
+      "spelling": "tsio̍h-thâu ē nuā hái-tsuí mā pīng bô piàn ta",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "但是運命改變了我",
+      "spelling": "tān-sī ūn-miā kái-piàn liáu guá",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "彼段黯淡 是阿公的照顧",
+      "spelling": "hit tuānn àm-tām sī a-kong ê tsiàu-kòo",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "帶我一步一步走",
+      "spelling": "tsah guá tsi̍t-pōo tsi̍t-pōo kiânn",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "想到較早 阿公有給阮教",
+      "spelling": "siūnn-tio̍h kha tsá a-kong ū kā gún kà",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "嘸通討債 就愛疼惜像生命",
+      "spelling": "m̄-tàng thó-tsè tio̍h ài thiànn sioh sìnn-miā",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "這件衫 最後伊親手交給我",
+      "spelling": "tsit kiānn sann tsuè-āu i tshin-tshiú ka hōo guá",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "阿公啊也將思念留給我",
+      "spelling": "a-kong-a iā tsiong su-liām lâu hōo guá",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "啊～阿公彼件舊皮衫",
+      "spelling": "ah～a-kong hit kiānn kū phuê sann",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "陪伴伊大風大雨 青春的拖磨",
+      "spelling": "puê-phuānn i tuā hong tuā hōo tshing-tshun ê thua-buâ",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "為著賺吃付出著一切",
+      "spelling": "uī-tio̍h thàn tsia̍h hù-tshut-tio̍h it-tshè",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "換來大大小小三頓飽",
+      "spelling": "uānn-lâi tuā-tuā-sè-sè san tǹg pá",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "啊～阿公彼件舊皮衫",
+      "spelling": "ah～a-kong hit kiānn kū phuê sann",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "提醒我人生的路 心頭抓齁定",
+      "spelling": "thê-tshínn guá lîn-sing ê lōo sim-thâu liàu kônn tiānn",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "帶我走出黑暗的疼痛 溫暖我的生活",
+      "spelling": "tsah guá kiânn-tshut oo-àm ê thàng-thiànn un-luán guá ê sing-ua̍h",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "想到津傌 寒天是加就寒",
+      "spelling": "siūnn-tio̍h tsin ma kuânn-thinn sī ke tsiū kuânn",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "那翻熱 嘛比過去卡熱",
+      "spelling": "na huan jua̍h mā pí kuè khì khá jua̍h",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "這件衫 惦這個時代穿袂合",
+      "spelling": "tsit kiānn sam tiām tsit-ê sî-tāi tshīng buē ha̍h",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "阿公啊 伊干呀會知影",
+      "spelling": "a-kong-a i kan iah ē tsai-iánn",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "啊～阿公彼件舊皮衫",
+      "spelling": "ah～a-kong hit kiānn kū phuê sann",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "陪伴伊大風大雨 青春的拖磨",
+      "spelling": "puê-phuānn i tuā hong tuā hōo tshing-tshun ê thua-buâ",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "為著賺吃付出著一切",
+      "spelling": "uī-tio̍h thàn tsia̍h hù-tshut-tio̍h it-tshè",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "換來大大小小三頓飽",
+      "spelling": "uānn-lâi tuā-tuā-sè-sè san tǹg pá",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "啊～阿公彼件舊皮衫",
+      "spelling": "ah～a-kong hit kiānn kū phuê sann",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "提醒我人生的路 心頭抓齁定",
+      "spelling": "thê-tshínn guá lîn-sing ê lōo sim-thâu liàu kônn tiānn",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "帶我走出黑暗的疼痛 溫暖我的生活",
+      "spelling": "tsah guá kiânn-tshut oo-àm ê thàng-thiànn un-luán guá ê sing-ua̍h",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "穿著阿公彼件舊皮衫",
+      "spelling": "tshīng-tio̍h a-kong hit kiānn kū phuê-sann",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "去體會阿公過去單純的生活",
+      "spelling": "khì thé-huē a-kong kuè-khì tan-sûn ê sing-ua̍h",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "認真打拼的人尚蓋攀",
+      "spelling": "jīn-tsin phah-piànn ê lâng siōng kài phan",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "穿插好歹攏是黑狗兄",
+      "spelling": "tshng-tshah hó-pháinn lóng sī oo-káu-hiann",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "啊～阿公彼件舊皮衫",
+      "spelling": "ah～a-kong hit kiānn kū phuê sam",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "就是我流過心內溫暖的溫泉",
+      "spelling": "tio̍h-sī guá lâu-kuè sim-lāi un-luán ê un-tsuânn",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "今生今世攏嘛袂變卦",
+      "spelling": "kim-sing kim-sè lóng mā buē piàn kuà",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "永遠放惦 心肝",
+      "spelling": "íng-uán khǹg tiām sim-kuann",
+      "source_lines": [
+        112,
+        113
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

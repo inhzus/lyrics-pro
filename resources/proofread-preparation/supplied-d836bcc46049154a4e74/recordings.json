@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": 478203279,
+      "title": "半眠",
+      "artists": [
+        "孩子王"
+      ],
+      "album": "最窘丸",
+      "duration": 313.728,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1230303050",
+      "title": "半眠",
+      "artists": [
+        "孩子王"
+      ],
+      "album": "最窘丸",
+      "duration": 313.7,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

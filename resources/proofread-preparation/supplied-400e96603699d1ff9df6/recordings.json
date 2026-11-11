@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": "956393717",
+      "title": "无闲",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "也兽",
+      "duration": 290.573,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "956393717",
+      "title": "无闲",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "也兽",
+      "duration": 290.573,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16556768,
+      "title": "無閒",
+      "artists": [
+        "嬉班子"
+      ],
+      "album": "赤跤紳士",
+      "duration": 254.016,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

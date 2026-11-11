@@ -1,0 +1,331 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "海邊的 郊外的 惦靜的樸實庄腳",
+      "spelling": "hái-pinn ê kau-guā ê tiām tsīng ê phoh-si̍t tsng kha",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "做工的 種作的 先生郎攏住佇遐",
+      "spelling": "tsuè-kang ê tsìng-tsoh ê sian-sinn lang lóng tuà tī hiâ",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "聽著囝仔郎的笑聲 聽著少年郎的情歌",
+      "spelling": "thiann-tio̍h kín-á lang ê tshiò-siann thiann-tio̍h siàu-liân lang ê tsîng-kua",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "花開花謝 頭鬃花一半",
+      "spelling": "hue khui hue siā thâu-tsang hue tsi̍t puànn",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "每日的 三頓的 平靜的安定生活",
+      "spelling": "muí-li̍t ê sann tǹg ê pîng-tsīng ê an-tīng sing-ua̍h",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "失落的 快樂的 難忘的攏寄佇這",
+      "spelling": "sit-lo̍h ê khuài-lo̍k ê lân-bōng ê lóng kià tī tsia",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "看著囝仔一天天大 看著時代像趕火車",
+      "spelling": "khuànn-tio̍h kín-á tsi̍t kang kang tuā khuànn-tio̍h sî-tāi tshiūnn kuánn hué-tshia",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "開發的線 割踮阮心肝",
+      "spelling": "khai-huat ê suànn kuah tiàm gún sim-kuann",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "甘會當 倒返去 阮的夢 踮灶腳",
+      "spelling": "kam ē-tàng tó tńg-khì gún ê bāng tiàm tsàu kha",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "炒一盤上香的豆干",
+      "spelling": "tshá tsi̍t puânn siōng-phang ê tāu-kuann",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "桌仔腳 水在響 佇客廳",
+      "spelling": "toh-á kha tsuí tī hiáng tī kheh-thiann",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "甲朋友開講享茶香",
+      "spelling": "kā pîng-iú khai kóng hiáng tê phang",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "透早日頭照入彼扇窗 怎樣過畫只剩一片壁",
+      "spelling": "thàu-tsá li̍t-thâu tsiáu li̍p hit sìnn thang tsuánn-iūnn kuè tau tsí tshun tsi̍t phìnn hiah",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "天甘有在看 為著啥阮的命由在人來拆",
+      "spelling": "thinn kam ū te khuànn uī-tio̍h siánn gún ê miā iû tsāi lâng lâi thiah",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "一口鼎 一領衫 一塊瓦",
+      "spelling": "tsi̍t-khuì tiánn tsi̍t-niá sam tsi̍t-khoo hiā",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "綴驚惶攏埋入土腳",
+      "spelling": "tuè kiann-hiânn lóng tâi li̍p thóo kha",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "一個人 一家人 一世人",
+      "spelling": "tsi̍t ê lâng tsi̍t ke lâng tsi̍t-sì-lâng",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "綴無奈攏化作風沙",
+      "spelling": "tuè bô-nāi lóng huà tsuè hong-sua",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "過去一切變成一場夢 三十年的感情無地換",
+      "spelling": "kuè-khì it-tshè piàn-sîng tsi̍t-tiûnn bāng sann tsa̍p nî ê kám-tsîng bô tē uānn",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "坐佇水溝蓋 應暗特別寒 月娘在笑我",
+      "spelling": "tsō tī tsuí kau kuà ìng àm ti̍k-pia̍t kuà gue̍h-niû te tshiò guá",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "每日的 三頓的 平靜的安定生活",
+      "spelling": "muí-li̍t ê sann tǹg ê pîng-tsīng ê an-tīng sing-ua̍h",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "失落的 快樂的 難忘的攏寄佇這",
+      "spelling": "sit-lo̍h ê khuài-lo̍k ê lân-bōng ê lóng kià tī tsia",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "看著囝仔一天天大 看著時代像趕火車",
+      "spelling": "khuànn-tio̍h kín-á tsi̍t kang kang tuā khuànn-tio̍h sî-tāi tshiūnn kuánn hué-tshia",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "開發的線 割踮阮心肝",
+      "spelling": "khai-huat ê suànn kuah tiàm gún sim-kuann",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "甘會當 倒返去 阮的夢 踮灶腳",
+      "spelling": "kam ē-tàng tó tńg-khì gún ê bāng tiàm tsàu kha",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "炒一盤上香的豆干",
+      "spelling": "tshá tsi̍t puânn siōng-phang ê tāu-kuann",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "桌仔腳 水在響 佇客廳",
+      "spelling": "toh-á kha tsuí tī hiáng tī kheh-thiann",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "甲朋友開講享茶香",
+      "spelling": "kā pîng-iú khai kóng hiáng tê phang",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "透早日頭照入彼扇窗 怎樣過畫只剩一片壁",
+      "spelling": "thàu-tsá li̍t-thâu tsiáu li̍p hit sìnn thang tsuánn-iūnn kuè tau tsí tshun tsi̍t phìnn hiah",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "天甘有在看 為著啥阮的命由在人來拆",
+      "spelling": "thinn kam ū te khuànn uī-tio̍h siánn gún ê miā iû tsāi lâng lâi thiah",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "一口鼎 一領衫 一塊瓦",
+      "spelling": "tsi̍t-khuì tiánn tsi̍t-niá sam tsi̍t-khoo hiā",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "綴驚惶攏埋入土腳",
+      "spelling": "tuè kiann-hiânn lóng tâi li̍p thóo kha",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "一個人 一家人 一世人",
+      "spelling": "tsi̍t ê lâng tsi̍t ke lâng tsi̍t-sì-lâng",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "綴無奈攏化作風沙",
+      "spelling": "tuè bô-nāi lóng huà tsuè hong-sua",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "過去一切變成一場夢 三十年的感情無地換",
+      "spelling": "kuè-khì it-tshè piàn-sîng tsi̍t-tiûnn bāng sann tsa̍p nî ê kám-tsîng bô tē uānn",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "坐佇水溝蓋 應暗特別寒 月娘在笑我",
+      "spelling": "tsō tī tsuí kau kuà ìng àm ti̍k-pia̍t kuà gue̍h-niû te tshiò guá",
+      "source_lines": [
+        106,
+        107
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

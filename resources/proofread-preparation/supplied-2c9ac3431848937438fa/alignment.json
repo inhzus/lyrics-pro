@@ -1,0 +1,162 @@
+{
+  "recording_id": "netease:350176",
+  "timing_source": "NetEase https://music.163.com/song?id=350176",
+  "manual_source": "User-supplied resources/lyrics-spelling/賽鴿-川秋沙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "approximate": 3,
+    "exact": 6
+  },
+  "review_row_count": 3,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 川秋沙",
+      "match_text": "作词 : 川秋沙",
+      "text": "作词 : 川秋沙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 川秋沙",
+      "match_text": "作曲 : 川秋沙",
+      "text": "作曲 : 川秋沙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 67.4,
+      "online_text": "浪花四散 寒风起",
+      "match_text": "浪花四散 寒风起",
+      "text": "浪海四散 海風起",
+      "spelling": "lōng-hái sù-suànn hái hong-khí",
+      "manual_id": "line-1:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.714286
+    },
+    {
+      "source_row": 3,
+      "time": 83.02,
+      "online_text": "东北风吹 吹离情",
+      "match_text": "东北风吹 吹离情",
+      "text": "東北風吹 吹離情",
+      "spelling": "tang-pak hong-tshue tshue lī tsîng",
+      "manual_id": "line-3:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 147.39,
+      "online_text": "寒风若落 思乡情重",
+      "match_text": "寒风若落 思乡情重",
+      "text": "海風若落 思鄉情重",
+      "spelling": "hân hong ná lo̍h su-hiong tsîng tāng",
+      "manual_id": "line-6:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 5,
+      "time": 163.86,
+      "online_text": "是命运啊 惊刎堪不着寒",
+      "match_text": "是命运啊 惊刎堪不着寒",
+      "text": "是命運啊 驚刎堪不著寒",
+      "spelling": "sī miā-ūn ah kiann gún bē kham-tio̍h gún",
+      "manual_id": "line-8:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 179.42,
+      "online_text": "海鸥笑刎 会飞却为别人",
+      "match_text": "海鸥笑刎 会飞却为别人",
+      "text": "海鷗笑刎 會飛卻為別人",
+      "spelling": "hái-niau tshiò ām ē pue suah uî pa̍t-lâng",
+      "manual_id": "line-11:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 195.06,
+      "online_text": "天边黑云啊 请你不能变卦",
+      "match_text": "天边黑云啊 请你不能变卦",
+      "text": "天邊黑雲啊 請你不能變卦",
+      "spelling": "thinn-pinn oo-hûn ah tshiánn lí put-tàng piàn-kuà",
+      "manual_id": "line-13:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 8,
+      "time": 243.43,
+      "online_text": "飞入风中 白羽飘散",
+      "match_text": "飞入风中 白羽飘散",
+      "text": "飛入風中 白羽飄散",
+      "spelling": "pue li̍p hong-tiong pe̍h ú phiau-suànn",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 259.21,
+      "online_text": "坎坷舞台 同行欸伴啊",
+      "match_text": "坎坷舞台 同行欸伴啊",
+      "text": "坎坷舞台 同行欸伴啊",
+      "spelling": "khám-khia̍t bú-tâi kâng-hīng ê phuānn ah",
+      "manual_id": "line-18:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 355.41,
+      "online_text": "日头再起 过山岭 返来欸梦",
+      "match_text": "日头再起 过山岭 返来欸梦",
+      "text": "日頭再起 過山嶺 返來欸夢",
+      "spelling": "ji̍t-thâu tsài-khí kuè-suann niá tńg-lâi ê bāng",
+      "manual_id": "line-21:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "ae428cda6d3538f117139667ab8fcd96edb034efe2146628ca62d9631160aafc",
+    "manual": "cf3d6edc7999408c1637977b5e8849ef25fb2bb4d49dcf7f857e0780560925c3",
+    "timed": "6f30cb3fb0ca3d60c47bcf805e57272c034269804b090b69539b6cbed098f415"
+  }
+}

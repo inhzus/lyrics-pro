@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "id": "supplied-ff59d0128bc9fe36575b",
+  "revision": "1",
+  "title": "稀微的風中",
+  "title_aliases": [],
+  "artist": "伍佰 & China Blue",
+  "album": "圣石传说 电影原声带",
+  "duration": 229.266,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰  詞曲 伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:452614917",
+    "timing_source": "NetEase https://music.163.com/song?id=452614917",
+    "manual_source": "resources/lyrics-spelling/稀微的風中-伍佰",
+    "audio_verified": false,
+    "agent_review": "The source note describes mixed-language spelling, not missing lyrics. Join/split explicit paired columns and retain supplied 寵著 rather than online 寵到.",
+    "input_sha256": {
+      "original": "4a2edcdc2c02eabc6d1d374002df3e897a28fc07015614dfd1a88d0b0cfefb22",
+      "manual": "de7f475f5f399636ee89af1ea829c2ba8c5caa96ecccd6bedf101424cec0b7eb",
+      "timed": "682e61c4eba1109710840b9bbf2b381d8b2226b820d9df1917c921998bb239ff"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "credit": 2,
+      "exact": 13,
+      "approximate": 2
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作词 : 伍佰",
+        "status": "credit",
+        "text": "作词 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 1.0,
+        "online_text": "作曲 : 伍佰",
+        "status": "credit",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 27.82,
+        "online_text": "稀微的风中 珠泪飘落寒冷异乡",
+        "status": "exact",
+        "text": "稀微的風中 珠淚飄落寒冷異鄉",
+        "spelling": "hi-bî ê hong tiong tsu-luī phiau lo̍h hân-líng ī-hiong",
+        "manual_id": "line-3:0+line-3:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 40.85,
+        "online_text": "举头望 山河的面容",
+        "status": "exact",
+        "text": "舉頭望 山河的面容",
+        "spelling": "gia̍h-thâu bōng suann-hô ê bīn-iông",
+        "manual_id": "line-6:0+line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 48.02,
+        "online_text": "恩恩怨怨苍天无量",
+        "status": "exact",
+        "text": "恩恩怨怨蒼天無量",
+        "spelling": "un un uàn uàn tshang hn̂g thian bô-liōng",
+        "manual_id": "line-6:2",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 57.0,
+        "online_text": "鸟啼的时 血影溅红天边",
+        "status": "exact",
+        "text": "鳥啼的時 血影濺紅天邊",
+        "spelling": "niǎo khi ê sî hiat iánn tsen hông thinn-pinn",
+        "manual_id": "line-9:0+line-9:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 86.71,
+        "online_text": "剑鞘随风飞 心酸一如枯叶落地",
+        "status": "exact",
+        "text": "劍鞘隨風飛 心酸一如枯葉落地",
+        "spelling": "kiàm-qiào suî hong pue sim-sng i̍t jû ta-hio̍h lo̍h tē",
+        "manual_id": "line-12:0+line-12:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 100.25,
+        "online_text": "不愿说 孤傲的情话",
+        "status": "exact",
+        "text": "不願說 孤傲的情話",
+        "spelling": "m̄-guān suè koo ngō͘ ê tsîng uē",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 107.56,
+        "online_text": "宠到战袍狂妄的花",
+        "status": "approximate",
+        "text": "寵著戰袍狂妄的花",
+        "spelling": "sīng tio̍h tsiàn-pâu bōng ê hue",
+        "manual_id": "line-15:2",
+        "review": [
+          "The source note describes mixed-language spelling, not missing lyrics. Join/split explicit paired columns and retain supplied 寵著 rather than online 寵到."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 116.45,
+        "online_text": "星月暗暝 刀光闪烁哀悲",
+        "status": "exact",
+        "text": "星月暗暝 刀光閃爍哀悲",
+        "spelling": "tshinn gue̍h àm-mî to kng siám sih ai pi",
+        "manual_id": "line-18:0+line-18:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 132.19,
+        "online_text": "身迷离声愤慨 贼寇敢来",
+        "status": "exact",
+        "text": "身迷離聲憤慨 賊寇敢來",
+        "spelling": "sin bî lī siann hùn-khài tsha̍t khòo kánn lâi",
+        "manual_id": "line-21:0+line-21:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 145.99,
+        "online_text": "叹运命放肆 壮志满怀",
+        "status": "exact",
+        "text": "嘆運命放肆 壯志滿懷",
+        "spelling": "thàn ūn-miā hòng-sù tsòng tsì buán-huâi",
+        "manual_id": "line-24:0+line-24:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 175.09,
+        "online_text": "稀微的风中 发丝交缠苍白的霜",
+        "status": "approximate",
+        "text": "稀微的風中 髮絲交纏蒼白的霜",
+        "spelling": "hi-bî ê hong tiong hoat si kau tînn hôo pe̍h ê song",
+        "manual_id": "line-27:0+line-27:1",
+        "review": [
+          "The source note describes mixed-language spelling, not missing lyrics. Join/split explicit paired columns and retain supplied 寵著 rather than online 寵到."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 187.41,
+        "online_text": "怎能忘 世恨的凌辱",
+        "status": "exact",
+        "text": "怎能忘 世恨的凌辱",
+        "spelling": "tsuánn lîng bōng sè hūn ê lîng lio̍k",
+        "manual_id": "line-30:0+line-30:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 195.53,
+        "online_text": "了然一生又有何用",
+        "status": "exact",
+        "text": "了然一生又有何用",
+        "spelling": "liáu-jiân it-sing iū ū hô iōng",
+        "manual_id": "line-30:2",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 205.58,
+        "online_text": "待天明露水己去",
+        "status": "exact",
+        "text": "待天明露水己去",
+        "spelling": "thāi thian bîng lōo-tsuí kí khì",
+        "manual_id": "line-33:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 210.45,
+        "online_text": "寻我行踪",
+        "status": "exact",
+        "text": "尋我行蹤",
+        "spelling": "sun wǒ hîng-tsong",
+        "manual_id": "line-33:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,467 @@
+{
+  "recording_id": "lrcapi:1764559304",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E9%A1%9B%E5%80%92%E6%98%AF%E9%9D%9E&artist=%E7%99%BE%E5%90%88%E8%8A%B1&album=%E4%B8%87%E4%BA%8B%E7%BE%8E%E5%A6%99#1764559304",
+  "manual_source": "User-supplied resources/lyrics-spelling/顛倒是非-百合花",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "repeat": 13,
+    "unresolved": 20
+  },
+  "review_row_count": 20,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-34:0",
+    "line-43:0",
+    "line-46:0",
+    "line-52:0",
+    "line-55:0",
+    "line-58:0",
+    "line-61:0",
+    "line-64:0",
+    "line-67:0",
+    "line-70:0",
+    "line-73:0",
+    "line-82:0",
+    "line-91:0",
+    "line-94:0",
+    "line-100:0",
+    "line-109:0",
+    "line-112:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 26.419,
+      "online_text": "忽然間發現身軀邊",
+      "match_text": "忽然間發現身軀邊",
+      "text": "忽然間發現身軀邊",
+      "spelling": "hut-liân kan huat-hiān sin-khu-pinn",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 29.597,
+      "online_text": "全部攏是不仁不義",
+      "match_text": "全部攏是不仁不義",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 2,
+      "time": 32.903,
+      "online_text": "天理踮佗位",
+      "match_text": "天理踮佗位",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 35.141,
+      "online_text": "我心內非常懷疑",
+      "match_text": "我心內非常懷疑",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 38.907,
+      "online_text": "一大堆 一大堆",
+      "match_text": "一大堆 一大堆",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 42.07,
+      "online_text": "一大堆人無地位",
+      "match_text": "一大堆人無地位",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 45.3,
+      "online_text": "無地位 求名利",
+      "match_text": "無地位 求名利",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 48.505,
+      "online_text": "一大堆人想袂開",
+      "match_text": "一大堆人想袂開",
+      "text": "一大堆人想袂 開",
+      "spelling": "tsi̍t-tuā-tui lâng siūnn-buē khui",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 54.543,
+      "online_text": "顛倒是非",
+      "match_text": "顛倒是非",
+      "text": "顛倒是非",
+      "spelling": "tian-tò sū hui",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 57.765,
+      "online_text": "為著欲坐大位",
+      "match_text": "為著欲坐大位",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 64.035,
+      "online_text": "傷天害理 無講道理",
+      "match_text": "傷天害理 無講道理",
+      "text": "傷天害理 無講道理",
+      "spelling": "siong-thian-hāi-lí bô kóng tō-lí",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 67.342,
+      "online_text": "無照天理 無照甲子",
+      "match_text": "無照天理 無照甲子",
+      "text": "無照天理 無照甲子",
+      "spelling": "bô tsiàu thinn-lí bô tsiàu kah-tsí",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 70.49,
+      "online_text": "恐驚半暝會去看著鬼",
+      "match_text": "恐驚半暝會去看著鬼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 96.088,
+      "online_text": "忽然間發現身軀邊",
+      "match_text": "忽然間發現身軀邊",
+      "text": "忽然間發現身軀邊",
+      "spelling": "hut-liân kan huat-hiān sin-khu-pinn",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 99.929,
+      "online_text": "全部攏是不仁不義",
+      "match_text": "全部攏是不仁不義",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 103.276,
+      "online_text": "天理踮佗位",
+      "match_text": "天理踮佗位",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 105.49,
+      "online_text": "我心內非常懷疑",
+      "match_text": "我心內非常懷疑",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 109.311,
+      "online_text": "一大堆 一大堆",
+      "match_text": "一大堆 一大堆",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 112.517,
+      "online_text": "一大堆人無地位",
+      "match_text": "一大堆人無地位",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 115.749,
+      "online_text": "無地位 求名利",
+      "match_text": "無地位 求名利",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 118.908,
+      "online_text": "一大堆人想袂開",
+      "match_text": "一大堆人想袂開",
+      "text": "一大堆人想袂 開",
+      "spelling": "tsi̍t-tuā-tui lâng siūnn-buē khui",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 124.958,
+      "online_text": "顛倒是非",
+      "match_text": "顛倒是非",
+      "text": "顛倒是非",
+      "spelling": "tian-tò sū hui",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 127.691,
+      "online_text": "為著欲坐大位",
+      "match_text": "為著欲坐大位",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 134.437,
+      "online_text": "傷天害理 無講道理",
+      "match_text": "傷天害理 無講道理",
+      "text": "傷天害理 無講道理",
+      "spelling": "siong-thian-hāi-lí bô kóng tō-lí",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 137.729,
+      "online_text": "無照天理 無照甲子",
+      "match_text": "無照天理 無照甲子",
+      "text": "無照天理 無照甲子",
+      "spelling": "bô tsiàu thinn-lí bô tsiàu kah-tsí",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 140.922,
+      "online_text": "恐驚半暝會去看著鬼 Yeah",
+      "match_text": "恐驚半暝會去看著鬼 Yeah",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 172.942,
+      "online_text": "啊 顛倒是非",
+      "match_text": "啊 顛倒是非",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 177.714,
+      "online_text": "顛倒是非",
+      "match_text": "顛倒是非",
+      "text": "顛倒是非",
+      "spelling": "tian-tò sū hui",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 179.35,
+      "online_text": "為著欲坐大位",
+      "match_text": "為著欲坐大位",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 180.752,
+      "online_text": "為著欲坐大位 Yeah",
+      "match_text": "為著欲坐大位 Yeah",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 185.423,
+      "online_text": "傷天害理 無講道理",
+      "match_text": "傷天害理 無講道理",
+      "text": "傷天害理 無講道理",
+      "spelling": "siong-thian-hāi-lí bô kóng tō-lí",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 188.816,
+      "online_text": "無照天理 無照甲子",
+      "match_text": "無照天理 無照甲子",
+      "text": "無照天理 無照甲子",
+      "spelling": "bô tsiàu thinn-lí bô tsiàu kah-tsí",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 192.063,
+      "online_text": "恐驚半暝會去看著鬼",
+      "match_text": "恐驚半暝會去看著鬼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "45bf31956ae4ac514a27273358abbdfb38b6573e237a3f0cb691817b483bcc9d",
+    "manual": "2b87a66e1bdba3f93737afcf74a9e24cc4917e4786e565cf92a7e56f08b26432",
+    "timed": "9149b9ed3b6c0b9e75b09d5b0d9d05b101745727b9f04b2427c04f1a852e6012"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 156523,
+      "title": "快乐的等待",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "双面人",
+      "duration": 261.04,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

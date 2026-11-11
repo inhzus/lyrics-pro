@@ -1,0 +1,311 @@
+{
+  "recording_id": "netease:28038076",
+  "source": "NetEase https://music.163.com/song?id=28038076",
+  "lines": [
+    {
+      "time": 0,
+      "text": "作词 : 江蕙",
+      "kind": "credit"
+    },
+    {
+      "time": 1.0,
+      "text": "作曲 : 陈冠甫",
+      "kind": "credit"
+    },
+    {
+      "time": 2.0,
+      "text": "编曲 : 小安",
+      "kind": "credit"
+    },
+    {
+      "time": 8.17,
+      "text": "心内爱啊爱着伊呀不敢讲出嘴",
+      "kind": "lyric"
+    },
+    {
+      "time": 12.61,
+      "text": "阮只好偷偷看着伊",
+      "kind": "lyric"
+    },
+    {
+      "time": 16.39,
+      "text": "想伊的模样 像蝴蝶入花丛",
+      "kind": "lyric"
+    },
+    {
+      "time": 20.96,
+      "text": "飞来飞去完全找无伊",
+      "kind": "lyric"
+    },
+    {
+      "time": 24.36,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 24.8,
+      "text": "梦啊梦啊梦着伊 啊病啊病相思",
+      "kind": "lyric"
+    },
+    {
+      "time": 29.16,
+      "text": "阮茫茫渺渺过日子",
+      "kind": "lyric"
+    },
+    {
+      "time": 33.18,
+      "text": "爱着一个人 啊实在真费气",
+      "kind": "lyric"
+    },
+    {
+      "time": 37.59,
+      "text": "戅神戅神块想伊",
+      "kind": "lyric"
+    },
+    {
+      "time": 40.49,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 40.92,
+      "text": "天星闪闪烁烁笑啊笑归暝",
+      "kind": "lyric"
+    },
+    {
+      "time": 45.61,
+      "text": "亲像男男女女爱恋的滋味",
+      "kind": "lyric"
+    },
+    {
+      "time": 49.76,
+      "text": "阮的心肝内 咧等着你",
+      "kind": "lyric"
+    },
+    {
+      "time": 54.27,
+      "text": "你甘知阮的心意",
+      "kind": "lyric"
+    },
+    {
+      "time": 57.62,
+      "text": "雨水滴滴搭搭落啊落袂离",
+      "kind": "lyric"
+    },
+    {
+      "time": 62.3,
+      "text": "一声一滴亲像替阮块哀悲",
+      "kind": "lyric"
+    },
+    {
+      "time": 66.42,
+      "text": "只有过一暝 若无十年",
+      "kind": "lyric"
+    },
+    {
+      "time": 70.95,
+      "text": "阮相思过头 心绵绵",
+      "kind": "lyric"
+    },
+    {
+      "time": 74.62,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 75.44,
+      "text": "唉呦唉呦相思又过头ㄚ",
+      "kind": "lyric"
+    },
+    {
+      "time": 79.4,
+      "text": "唉呦唉呦思慕彼个人ㄚ",
+      "kind": "lyric"
+    },
+    {
+      "time": 83.59,
+      "text": "唉呦唉呦相思又过头ㄚ",
+      "kind": "lyric"
+    },
+    {
+      "time": 87.79,
+      "text": "唉呦唉呦思慕彼个人ㄚ",
+      "kind": "lyric"
+    },
+    {
+      "time": 92.94,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 95.46,
+      "text": "心内爱啊爱着伊呀不敢讲出嘴",
+      "kind": "lyric"
+    },
+    {
+      "time": 100.19,
+      "text": "阮只好偷偷看着伊",
+      "kind": "lyric"
+    },
+    {
+      "time": 103.95,
+      "text": "想伊的模样 像蝴蝶入花丛",
+      "kind": "lyric"
+    },
+    {
+      "time": 108.53,
+      "text": "飞来飞去完全找无伊",
+      "kind": "lyric"
+    },
+    {
+      "time": 111.83,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 112.38,
+      "text": "梦啊梦啊梦着伊 啊病啊病相思",
+      "kind": "lyric"
+    },
+    {
+      "time": 116.81,
+      "text": "阮茫茫渺渺过日子",
+      "kind": "lyric"
+    },
+    {
+      "time": 120.66,
+      "text": "爱着一个人 啊实在真费气",
+      "kind": "lyric"
+    },
+    {
+      "time": 125.19,
+      "text": "戅神戅神块想伊",
+      "kind": "lyric"
+    },
+    {
+      "time": 128.34,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 128.88,
+      "text": "天星闪闪烁烁笑啊笑归暝",
+      "kind": "lyric"
+    },
+    {
+      "time": 133.13,
+      "text": "亲像男男女女爱恋的滋味",
+      "kind": "lyric"
+    },
+    {
+      "time": 137.36,
+      "text": "阮的心肝内 咧等着你",
+      "kind": "lyric"
+    },
+    {
+      "time": 141.88,
+      "text": "你甘知阮的心意",
+      "kind": "lyric"
+    },
+    {
+      "time": 145.21,
+      "text": "雨水滴滴搭搭落啊落袂离",
+      "kind": "lyric"
+    },
+    {
+      "time": 149.96,
+      "text": "一声一滴亲像替阮块哀悲",
+      "kind": "lyric"
+    },
+    {
+      "time": 154.13,
+      "text": "只有过一暝 若无十年",
+      "kind": "lyric"
+    },
+    {
+      "time": 158.61,
+      "text": "阮相思过头 心绵绵",
+      "kind": "lyric"
+    },
+    {
+      "time": 163.42,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 178.61,
+      "text": "天星闪闪烁烁笑啊笑归暝",
+      "kind": "lyric"
+    },
+    {
+      "time": 183.3,
+      "text": "亲像男男女女爱恋的滋味",
+      "kind": "lyric"
+    },
+    {
+      "time": 187.53,
+      "text": "阮的心肝内 咧等着你",
+      "kind": "lyric"
+    },
+    {
+      "time": 192.01,
+      "text": "你甘知阮的心意",
+      "kind": "lyric"
+    },
+    {
+      "time": 195.4,
+      "text": "雨水滴滴搭搭落啊落袂离",
+      "kind": "lyric"
+    },
+    {
+      "time": 200.06,
+      "text": "一声一滴亲像替阮块哀悲",
+      "kind": "lyric"
+    },
+    {
+      "time": 204.19,
+      "text": "只有过一暝 假若无十年",
+      "kind": "lyric"
+    },
+    {
+      "time": 208.74,
+      "text": "阮相思过头 心绵绵",
+      "kind": "lyric"
+    },
+    {
+      "time": 212.72,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 213.22,
+      "text": "唉呦唉呦相思又过头ㄚ",
+      "kind": "lyric"
+    },
+    {
+      "time": 217.18,
+      "text": "唉呦唉呦思慕彼个人ㄚ",
+      "kind": "lyric"
+    },
+    {
+      "time": 221.25,
+      "text": "唉呦唉呦相思又过头ㄚ",
+      "kind": "lyric"
+    },
+    {
+      "time": 225.54,
+      "text": "唉呦唉呦思慕彼个人ㄚ",
+      "kind": "lyric"
+    },
+    {
+      "time": 229.85,
+      "text": "唉呦～",
+      "kind": "lyric"
+    },
+    {
+      "time": 247.48,
+      "text": "",
+      "kind": "gap"
+    }
+  ]
+}

@@ -175,6 +175,30 @@ def test_session_auto_language_retry_original_and_bad_annotation_cache(worker):
     fetch.assert_not_called()
 
 
+def test_generic_supplied_spelling_survives_loading_retry_and_language_changes(worker, monkeypatch):
+    session, fetch, _ = worker
+    recording = next(r for r in curated._recordings() if r.reference == PROOFREAD)
+    raw = replace(recording.lyrics, proofread=replace(recording.lyrics.proofread, language="supplied"))
+    monkeypatch.setattr(curated, "_recordings", lambda: (replace(recording, lyrics=raw),))
+    updates = []
+    result = settle(session, updates)
+    assert result["selected_language"] == "supplied"
+    assert any(u["status"] == "loading" and u["selected_language"] == "supplied" and u["lyrics"] is None
+               for u in updates)
+    assert result["lyrics"]["lines"][3]["pronunciation"] == raw.lines[3].pronunciation
+    session.configure("original", 1)
+    assert all(line["pronunciation"] is None for line in settle(session, [])["lyrics"]["lines"])
+    session.configure("hokkien", 2)
+    generated = settle(session, [])
+    assert generated["selected_language"] == "hokkien"
+    assert generated["lyrics"]["lines"][3]["pronunciation"] != raw.lines[3].pronunciation
+    session.configure("auto", 3, retry=True, generation=1)
+    refreshed = settle(session, [])
+    assert refreshed["selected_language"] == "supplied"
+    assert refreshed["lyrics"]["lines"][3]["pronunciation"] == raw.lines[3].pronunciation
+    fetch.assert_not_called()
+
+
 def test_switch_to_other_recording_and_back_recomputes_auto_language(worker):
     session, fetch, selected_fetch = worker
     assert settle(session, [])["selected_language"] == "hokkien"

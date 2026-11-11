@@ -1,0 +1,379 @@
+{
+  "recording_id": "netease:386942",
+  "source": "User-supplied resources/lyrics-spelling/黑白講-五月天",
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "轉過了一遍又一遍的街仔路",
+      "spelling": "se̍h kuè ah tsi̍t pái koh tsi̍t pái ê ke-á-lōo",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "整天是攏無意義的走衝",
+      "spelling": "kui-kang sī lóng bô ì-gī ê tsáu tshiong",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "天光到天黑 萬事攏照常無聊",
+      "spelling": "thinn-kng kàu thinn-àm  bān-sū lóng tsiàu-siông bô-liâu",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "叫人要起狂",
+      "spelling": "kiò lâng beh khí-kông",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "忍受到一遍又一遍的囉唆",
+      "spelling": "lím-siū tio̍h tsi̍t pái koh tsi̍t pái ê lô-so",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "你給我的世界只有一條路",
+      "spelling": "lí hōo guá ê sè-kài tsí-ū tsi̍t tiâu lōo",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "愛拼才會贏 我不是聽無",
+      "spelling": "ài piànn tsiah ē iânn  guá m̄ sī thiann bô",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "前途 我攏看不著",
+      "spelling": "tsiân-tôo  guá lóng khuànn-buē-tio̍h",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "那會世界攏無聲音 青春是戰爭 我渴望流血",
+      "spelling": "ná-ē sè-kài lóng bô siann-im  tshing-tshun sī tsiàn-tsing guá  ko bāng lâu hueh",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "有什麼絕招作你變 我的好兄弟 我打攏不死",
+      "spelling": "ū siánn-mih tsua̍t-tsiau tsuè lí pìnn  guá ê hònn hiann-tī  guá phah lóng bē sí",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "我想要走路有風",
+      "spelling": "guá siūnn beh kiânn lōo ū hong",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "我想要作真真正正的英雄",
+      "spelling": "guá siūnn beh tsuè tsin-tsin-tsiànn-tsiànn ê ing-hiông",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "你叫我「麥憨!麥憨!麥憨!」",
+      "spelling": "lí kiò guá 「mái gōng! mái gōng! mái gōng!」",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "我聽你在  黑白講!",
+      "spelling": "guá thiann lí teh  oo-pe̍h kóng!",
+      "source_lines": [
+        40,
+        41
+      ],
+      "parts": [
+        {
+          "text": "我聽你在",
+          "spelling": "guá thiann lí teh"
+        },
+        {
+          "text": "黑白講!",
+          "spelling": "oo-pe̍h kóng!"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "轉過了一遍又一遍的街仔路",
+      "spelling": "se̍h kuè ah tsi̍t pái koh tsi̍t pái ê ke-á-lōo",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "整天是攏無意義的走衝",
+      "spelling": "kui-kang sī lóng bô ì-gī ê tsáu tshiong",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "天光到天黑 萬事攏照常無聊",
+      "spelling": "thinn-kng kàu thinn-àm  bān-sū lóng tsiàu-siông bô-liâu",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "叫人要起狂",
+      "spelling": "kiò lâng beh khí-kông",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "忍受到一遍又一遍的囉唆",
+      "spelling": "lím-siū tio̍h tsi̍t pái koh tsi̍t pái ê lô-so",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "你給我的世界只有一條路",
+      "spelling": "lí hōo guá ê sè-kài tsí-ū tsi̍t tiâu lōo",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "愛拼才會贏 我不是聽無",
+      "spelling": "ài piànn tsiah ē iânn  guá m̄ sī thiann bô",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "前途 我攏看不著",
+      "spelling": "tsiân-tôo  guá lóng khuànn-buē-tio̍h",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "那會世界攏無聲音 青春是戰爭 我渴望流血",
+      "spelling": "ná-ē sè-kài lóng bô siann-im  tshing-tshun sī tsiàn-tsing guá  ko bāng lâu hueh",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "有什麼絕招作你變 我的好兄弟 我打攏不死",
+      "spelling": "ū siánn-mih tsua̍t-tsiau tsuè lí pìnn  guá ê hònn hiann-tī  guá phah lóng bē sí",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "我想要走路有風",
+      "spelling": "guá siūnn beh kiânn lōo ū hong",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "我想要作真真正正的英雄",
+      "spelling": "guá siūnn beh tsuè tsin-tsin-tsiànn-tsiànn ê ing-hiông",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "你叫我「麥憨!麥憨!麥憨!」",
+      "spelling": "lí kiò guá 「mái gōng! mái gōng! mái gōng!」",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "我聽你在  黑白講!",
+      "spelling": "guá thiann lí teh  oo-pe̍h kóng!",
+      "source_lines": [
+        82,
+        83
+      ],
+      "parts": [
+        {
+          "text": "我聽你在",
+          "spelling": "guá thiann lí teh"
+        },
+        {
+          "text": "黑白講!",
+          "spelling": "oo-pe̍h kóng!"
+        }
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "那會世界攏無聲音 青春是戰爭 我渴望流血",
+      "spelling": "ná-ē sè-kài lóng bô siann-im  tshing-tshun sī tsiàn-tsing guá  ko bāng lâu hueh",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "有什麼絕招作你變 我的好兄弟 我打攏不死",
+      "spelling": "ū siánn-mih tsua̍t-tsiau tsuè lí pìnn  guá ê hònn hiann-tī  guá phah lóng bē sí",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "我想要走路有風",
+      "spelling": "guá siūnn beh kiânn lōo ū hong",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "我想要作真真正正的英雄",
+      "spelling": "guá siūnn beh tsuè tsin-tsin-tsiànn-tsiànn ê ing-hiông",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "你叫我「麥憨!麥憨!麥憨!」",
+      "spelling": "lí kiò guá 「mái gōng! mái gōng! mái gōng!」",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "我聽你在  黑白講!",
+      "spelling": "guá thiann lí teh  oo-pe̍h kóng!",
+      "source_lines": [
+        100,
+        101
+      ],
+      "parts": [
+        {
+          "text": "我聽你在",
+          "spelling": "guá thiann lí teh"
+        },
+        {
+          "text": "黑白講!",
+          "spelling": "oo-pe̍h kóng!"
+        }
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "你叫我「麥憨!麥憨!麥憨!」",
+      "spelling": "lí kiò guá 「mái gōng! mái gōng! mái gōng!」",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "我聽你在  黑白講!",
+      "spelling": "guá thiann lí teh  oo-pe̍h kóng!",
+      "source_lines": [
+        106,
+        107
+      ],
+      "parts": [
+        {
+          "text": "我聽你在",
+          "spelling": "guá thiann lí teh"
+        },
+        {
+          "text": "黑白講!",
+          "spelling": "oo-pe̍h kóng!"
+        }
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "我聽你在 黑白講",
+      "spelling": "guá thiann lí teh  oo-pe̍h kóng!",
+      "source_lines": [
+        109,
+        110
+      ]
+    }
+  ]
+}

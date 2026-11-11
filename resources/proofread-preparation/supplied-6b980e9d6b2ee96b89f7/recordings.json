@@ -1,0 +1,115 @@
+{
+  "candidates": [
+    {
+      "song_id": 33761271,
+      "title": "认",
+      "artists": [
+        "AGA"
+      ],
+      "album": "认",
+      "duration": 251.779,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 406475386,
+      "title": "认",
+      "artists": [
+        "AGA"
+      ],
+      "album": "Ginadoll",
+      "duration": 253.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "956393716",
+      "title": "认",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "也兽",
+      "duration": 217.307,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1443220610",
+      "title": "认",
+      "artists": [
+        "AGA"
+      ],
+      "album": "Ginadoll (2nd Edition)",
+      "duration": 251.78,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "956393716",
+      "title": "认",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "也兽",
+      "duration": 217.307,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1443220610",
+      "title": "认",
+      "artists": [
+        "AGA"
+      ],
+      "album": "Ginadoll (2nd Edition)",
+      "duration": 251.78,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18797781,
+      "title": "認",
+      "artists": [
+        "AGA"
+      ],
+      "album": "Ginadoll (2nd Edition)",
+      "duration": 252.9999872,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 15289259,
+      "title": "認",
+      "artists": [
+        "AGA"
+      ],
+      "album": "Ginadoll Concert Live",
+      "duration": 258.6395392,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 34773572,
+      "title": "認",
+      "artists": [
+        "AGA"
+      ],
+      "album": "Ginadoll",
+      "duration": 251.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 37876789,
+      "title": "認",
+      "artists": [
+        "謝銘祐"
+      ],
+      "album": "也獸",
+      "duration": 217.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

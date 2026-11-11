@@ -1,0 +1,58 @@
+{
+  "selected": {
+    "song_id": 543965346,
+    "title": "志明与春娇",
+    "artists": [
+      "五月天"
+    ],
+    "album": "K歌王国 男女K歌",
+    "duration": 281.973,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:543965346",
+      "duration": 281.973,
+      "ready": false,
+      "coverage": 0.5714285714285714,
+      "exact_fraction": 0.47619047619047616,
+      "summary": {
+        "credit": 6,
+        "unresolved": 18,
+        "approximate": 4,
+        "exact": 3,
+        "repeat": 17
+      }
+    },
+    {
+      "recording_id": "netease:5268604",
+      "duration": 281.6,
+      "ready": false,
+      "coverage": 0.5128205128205128,
+      "exact_fraction": 0.41025641025641024,
+      "summary": {
+        "credit": 3,
+        "unresolved": 19,
+        "gap": 1,
+        "exact": 4,
+        "approximate": 4,
+        "repeat": 12
+      }
+    },
+    {
+      "recording_id": "netease:386936",
+      "duration": 281.866,
+      "ready": false,
+      "coverage": 0.14285714285714285,
+      "exact_fraction": 0.06349206349206349,
+      "summary": {
+        "credit": 3,
+        "unresolved": 54,
+        "approximate": 5,
+        "repeat": 3,
+        "exact": 1
+      }
+    }
+  ]
+}

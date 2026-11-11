@@ -1,0 +1,106 @@
+{
+  "recording_id": "netease:350174",
+  "source": "NetEase https://music.163.com/song?id=350174",
+  "lines": [
+    {
+      "time": 0,
+      "text": "作词 : 川秋沙",
+      "kind": "credit"
+    },
+    {
+      "time": 1.0,
+      "text": "作曲 : 川秋沙",
+      "kind": "credit"
+    },
+    {
+      "time": 59.32,
+      "text": "春雨惊春清谷天",
+      "kind": "lyric"
+    },
+    {
+      "time": 68.75,
+      "text": "夏满芒夏暑相连",
+      "kind": "lyric"
+    },
+    {
+      "time": 78.55,
+      "text": "秋处露秋寒霜降",
+      "kind": "lyric"
+    },
+    {
+      "time": 88.32,
+      "text": "冬雪雪冬小大寒",
+      "kind": "lyric"
+    },
+    {
+      "time": 117.97,
+      "text": "春雨惊春清谷天",
+      "kind": "lyric"
+    },
+    {
+      "time": 127.52,
+      "text": "夏满芒夏暑相连",
+      "kind": "lyric"
+    },
+    {
+      "time": 137.31,
+      "text": "秋处露秋寒霜降",
+      "kind": "lyric"
+    },
+    {
+      "time": 147.08,
+      "text": "冬雪雪冬小大寒",
+      "kind": "lyric"
+    },
+    {
+      "time": 177.11,
+      "text": "走过 细汉田边欸路",
+      "kind": "lyric"
+    },
+    {
+      "time": 186.89,
+      "text": "感慨水牛变货车",
+      "kind": "lyric"
+    },
+    {
+      "time": 192.55,
+      "text": "田地变成厂房",
+      "kind": "lyric"
+    },
+    {
+      "time": 196.55,
+      "text": "何时 社会走得太急",
+      "kind": "lyric"
+    },
+    {
+      "time": 205.95,
+      "text": "怎样树木变烟囱",
+      "kind": "lyric"
+    },
+    {
+      "time": 212.54,
+      "text": "农舍变成别庄",
+      "kind": "lyric"
+    },
+    {
+      "time": 313.82,
+      "text": "春雨惊春清谷天",
+      "kind": "lyric"
+    },
+    {
+      "time": 323.46,
+      "text": "夏满芒夏暑相连",
+      "kind": "lyric"
+    },
+    {
+      "time": 333.47,
+      "text": "秋处露秋寒霜降",
+      "kind": "lyric"
+    },
+    {
+      "time": 343.25,
+      "text": "冬雪雪冬小大寒",
+      "kind": "lyric"
+    }
+  ]
+}

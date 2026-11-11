@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": "1753653086",
+      "title": "台十七",
+      "artists": [
+        "拍谢少年"
+      ],
+      "album": "海口味",
+      "duration": 208.144,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

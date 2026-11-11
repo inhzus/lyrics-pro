@@ -1,0 +1,439 @@
+{
+  "schema_version": 1,
+  "id": "supplied-22d1886b6e92a99cc5f9",
+  "revision": "1",
+  "title": "蹦孔",
+  "title_aliases": [],
+  "artist": "伍佰 & China Blue",
+  "album": "钉子花",
+  "duration": 332.736,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰 台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:449769014",
+    "timing_source": "NetEase https://music.163.com/song?id=449769014",
+    "manual_source": "resources/lyrics-spelling/蹦孔-伍佰",
+    "audio_verified": false,
+    "agent_review": "Repair the visible column segmentation and join repeated groups; all sung text matches after normalization.",
+    "input_sha256": {
+      "original": "386b71e63027af60d267547dbecc91acdbf6e5b78a84ef58e374285abce8b233",
+      "manual": "1c98609272e67417de352fc2031ce20dc2d69bc9cc234cb677f19d22d5b6396c",
+      "timed": "404e021c6f5adcf48eb5c39f4f01a12e328e06c00717eafeab7eb39f76ed8048"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "credit": 2,
+      "exact": 32
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作词 : 伍佰",
+        "status": "credit",
+        "text": "作词 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 1.0,
+        "online_text": "作曲 : 伍佰",
+        "status": "credit",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 31.06,
+        "online_text": "这边来 嘛毋是",
+        "status": "exact",
+        "text": "這邊來 嘛毋是",
+        "spelling": "tsit-pîng lâi mah m̄ sī",
+        "manual_id": "line-3:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 35.78,
+        "online_text": "彼边去 嘛毋是",
+        "status": "exact",
+        "text": "彼邊去 嘛毋是",
+        "spelling": "hit pîng khì mah m̄ sī",
+        "manual_id": "line-3:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 40.03,
+        "online_text": "倒头栽 嘛毋是",
+        "status": "exact",
+        "text": "倒頭栽 嘛毋是",
+        "spelling": "tò-thâu-tsai mah m̄ sī",
+        "manual_id": "line-6:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 44.37,
+        "online_text": "沈落去 嘛毋是",
+        "status": "exact",
+        "text": "沈落去 嘛毋是",
+        "spelling": "tîm lo̍h-khì mah m̄ sī",
+        "manual_id": "line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 53.03,
+        "online_text": "讲过来 嘛毋是",
+        "status": "exact",
+        "text": "講過來 嘛毋是",
+        "spelling": "kóng kuè-lâi mah m̄ sī",
+        "manual_id": "line-9:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 57.0,
+        "online_text": "讲过去 嘛毋是",
+        "status": "exact",
+        "text": "講過去 嘛毋是",
+        "spelling": "kóng kuè-khì mah m̄ sī",
+        "manual_id": "line-9:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 62.05,
+        "online_text": "安怎讲 透袂利",
+        "status": "exact",
+        "text": "安怎講 透袂利",
+        "spelling": "an-tsuánn kóng thàu bē lī",
+        "manual_id": "line-12:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 66.5,
+        "online_text": "一直来 袂付饲",
+        "status": "exact",
+        "text": "一直來 袂付飼",
+        "spelling": "it-ti̍t lâi bē hù tshī",
+        "manual_id": "line-12:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 70.08,
+        "online_text": "磞孔看出嘛有媠 毋知影这马是佗位",
+        "status": "exact",
+        "text": "磞孔看出嘛有媠 毋知影這馬是佗位",
+        "spelling": "pho̍k khang khuànn-tshut mah ū suí m̄ tsai-iánn tsit-má sī tó-uī",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 79.08,
+        "online_text": "磞孔看入来嘛有媠 毋知影这马去佗位",
+        "status": "exact",
+        "text": "磞孔看入來嘛有媠 毋知影這馬去佗位",
+        "spelling": "pho̍k khang khuànn ji̍p-lâi mah ū suí m̄ tsai-iánn tsit-má khì tó-uī",
+        "manual_id": "line-18:0+line-18:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 96.67,
+        "online_text": "媠",
+        "status": "exact",
+        "text": "媠",
+        "spelling": "suí",
+        "manual_id": "line-21:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 105.07,
+        "online_text": "媠",
+        "status": "exact",
+        "text": "媠",
+        "spelling": "suí",
+        "manual_id": "line-21:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 114.06,
+        "online_text": "媠",
+        "status": "exact",
+        "text": "媠",
+        "spelling": "suí",
+        "manual_id": "line-21:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 122.96,
+        "online_text": "媠",
+        "status": "exact",
+        "text": "媠",
+        "spelling": "suí",
+        "manual_id": "line-21:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 141.3,
+        "online_text": "讨返来 嘛毋是",
+        "status": "exact",
+        "text": "討返來 嘛毋是",
+        "spelling": "thó tńg lâi mah m̄ sī",
+        "manual_id": "line-24:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 145.64,
+        "online_text": "还返去 嘛毋是",
+        "status": "exact",
+        "text": "還返去 嘛毋是",
+        "spelling": "hîng tńg khì mah m̄ sī",
+        "manual_id": "line-24:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 149.95,
+        "online_text": "忘袂记 嘛毋是",
+        "status": "exact",
+        "text": "忘袂記 嘛毋是",
+        "spelling": "bōng buē kì mah m̄ sī",
+        "manual_id": "line-27:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 154.17,
+        "online_text": "煞煞去 嘛毋是",
+        "status": "exact",
+        "text": "煞煞去 嘛毋是",
+        "spelling": "suah suah kì mah m̄ sī",
+        "manual_id": "line-27:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 163.05,
+        "online_text": "讲袂清 看袂明",
+        "status": "exact",
+        "text": "講袂清 看袂明",
+        "spelling": "kóng buē tshing khuànn buē bîng",
+        "manual_id": "line-30:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 167.56,
+        "online_text": "明毋通 通毋到",
+        "status": "exact",
+        "text": "明毋通 通毋到",
+        "spelling": "bîng bô-thang thang bô kàu",
+        "manual_id": "line-30:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 172.15,
+        "online_text": "到佗位 位伫佗",
+        "status": "exact",
+        "text": "到佗位 位佇佗",
+        "spelling": "kàu tó-uī  uī tī tó",
+        "manual_id": "line-33:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 176.57,
+        "online_text": "佗是遮 谁是我",
+        "status": "exact",
+        "text": "佗是遮 誰是我",
+        "spelling": "tó sī jia  siánn sī guá",
+        "manual_id": "line-33:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 180.86,
+        "online_text": "磞孔看出嘛有媠 毋知影这马是佗位",
+        "status": "exact",
+        "text": "磞孔看出嘛有媠 毋知影這馬是佗位",
+        "spelling": "pho̍k khang khuànn-tshut mah ū suí m̄ tsai-iánn tsit-má sī tó-uī",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 189.1,
+        "online_text": "磞孔看入来嘛有媠 毋知影这马去佗位",
+        "status": "exact",
+        "text": "磞孔看入來嘛有媠 毋知影這馬去佗位",
+        "spelling": "pho̍k khang khuànn ji̍p-lâi mah ū suí m̄ tsai-iánn tsit-má khì tó-uī",
+        "manual_id": "line-18:0+line-18:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 198.0,
+        "online_text": "磞孔看出嘛有媠 毋知影这马是佗位",
+        "status": "exact",
+        "text": "磞孔看出嘛有媠 毋知影這馬是佗位",
+        "spelling": "pho̍k khang khuànn-tshut mah ū suí m̄ tsai-iánn tsit-má sī tó-uī",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 27,
+        "time": 207.05,
+        "online_text": "磞孔看入来嘛有媠 毋知影这马去佗位",
+        "status": "exact",
+        "text": "磞孔看入來嘛有媠 毋知影這馬去佗位",
+        "spelling": "pho̍k khang khuànn ji̍p-lâi mah ū suí m̄ tsai-iánn tsit-má khì tó-uī",
+        "manual_id": "line-18:0+line-18:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 28,
+        "time": 215.82,
+        "online_text": "春夏秋冬置那在踅 拢总和我没关系",
+        "status": "exact",
+        "text": "春夏秋冬置那在踅 攏總和我沒關係",
+        "spelling": "tshun-hā tshiu-tang tì hiâ teh se̍h lóng-tsáng hām guá bô-kuan-hē",
+        "manual_id": "line-48:0+line-48:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 29,
+        "time": 233.33,
+        "online_text": "春夏秋冬置那在踅 拢总和我没关系",
+        "status": "exact",
+        "text": "春夏秋冬置那在踅 攏總和我沒關係",
+        "spelling": "tshun-hā tshiu-tang tì hiâ teh se̍h lóng-tsáng hām guá bô-kuan-hē",
+        "manual_id": "line-48:0+line-48:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 30,
+        "time": 260.01,
+        "online_text": "磞孔看出嘛有媠 毋知影这马是佗位",
+        "status": "exact",
+        "text": "磞孔看出嘛有媠 毋知影這馬是佗位",
+        "spelling": "pho̍k khang khuànn-tshut mah ū suí m̄ tsai-iánn tsit-má sī tó-uī",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 31,
+        "time": 268.36,
+        "online_text": "磞孔看入来嘛有媠 毋知影这马去佗位",
+        "status": "exact",
+        "text": "磞孔看入來嘛有媠 毋知影這馬去佗位",
+        "spelling": "pho̍k khang khuànn ji̍p-lâi mah ū suí m̄ tsai-iánn tsit-má khì tó-uī",
+        "manual_id": "line-18:0+line-18:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 32,
+        "time": 277.31,
+        "online_text": "磞孔看出嘛有媠 毋知影这马是佗位",
+        "status": "exact",
+        "text": "磞孔看出嘛有媠 毋知影這馬是佗位",
+        "spelling": "pho̍k khang khuànn-tshut mah ū suí m̄ tsai-iánn tsit-má sī tó-uī",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 33,
+        "time": 286.36,
+        "online_text": "磞孔看入来嘛有媠 毋知影这马去佗位",
+        "status": "exact",
+        "text": "磞孔看入來嘛有媠 毋知影這馬去佗位",
+        "spelling": "pho̍k khang khuànn ji̍p-lâi mah ū suí m̄ tsai-iánn tsit-má khì tó-uī",
+        "manual_id": "line-18:0+line-18:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      }
+    ]
+  }
+}

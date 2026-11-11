@@ -1,0 +1,186 @@
+{
+  "blocks": [
+    {
+      "id": "line-5",
+      "text": "囝仔你有聽到恐懼的聲，是社會吵鬧紛亂的聲",
+      "spelling": "kín-á lí ū thiann-tio̍h kiann-hiânn ê siann sī siā-huē tshá-nāu hun-luān ê siann",
+      "source_lines": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "不管你的耳朵是要聽還不聽，每天不斷充滿暴力的聲",
+      "spelling": "m̄-kuán lí ê hīnn-á sī beh thiann iáu m̄-thiann muí-kang bû-tuàn tshiong-buán pō-li̍k ê siann",
+      "source_lines": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "我要來對你們說一聲抱歉，讓你們來聽見無奈的聲",
+      "spelling": "guá beh lâi tuì lín kóng tsi̍t siann phō-khiām hōo lín lâi thiann-kìnn bô-nāi ê siann",
+      "source_lines": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "我會牽起你的雙手 走在頭前 陪你作伙走",
+      "spelling": "guá ē khan khí lí ê siang-tshiú kiânn tī thâu-tsîng puê lí tsò-hué kiânn",
+      "source_lines": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "line-17",
+      "text": "望你們可以有善良的心 望你們可以有正義的聲",
+      "spelling": "bāng lín ē-tàng ū siān-liông ê sim bāng lín ē-tàng ū tsìng-gī ê siann",
+      "source_lines": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "line-20",
+      "text": "望你們可以慈悲為懷 望你們可以是非分明",
+      "spelling": "bāng lín ē-tàng tsû-pi uî pháinn bāng lín ē-tàng sī hui hun-bîng",
+      "source_lines": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "望你們疼惜天然土地 望你們可以來敬天畏地",
+      "spelling": "bāng lín thiànn-sioh thian-jiân thóo-tē bāng lín ē-tàng lâi kìng thinn uì tē",
+      "source_lines": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "line-26",
+      "text": "望你們珍惜萬物的寶貴 共同擁抱生命共同體",
+      "spelling": "bāng lín tin-sioh bān-mi̍h ê pó-kuì kiōng-tông iǒng-phō sìnn-miā kiōng-tông thé",
+      "source_lines": [
+        26,
+        27
+      ]
+    },
+    {
+      "id": "line-29",
+      "text": "廣大的土地藏在腳底 無盡的色彩綻放天空",
+      "spelling": "guǎngdà de tǔdì cáng zài jiǎodǐ wújìn de sècǎi zhànfàng tiānkōng",
+      "source_lines": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "line-32",
+      "text": "夢幻的草原手牽手 宇宙萬物四海包容",
+      "spelling": "mènghuàn de cǎoyuán shǒu qiānshǒu yǔzhòu wànwù sìhǎi bāoróng",
+      "source_lines": [
+        32,
+        33
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "廣大的土地藏在腳底 無盡的色彩綻放天空",
+      "spelling": "guǎngdà de tǔdì cáng zài jiǎodǐ wújìn de sècǎi zhànfàng tiānkōng",
+      "source_lines": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "夢幻的草原手牽手 宇宙萬物四海包容",
+      "spelling": "mènghuàn de cǎoyuán shǒu qiānshǒu yǔzhòu wànwù sìhǎi bāoróng",
+      "source_lines": [
+        38,
+        39
+      ]
+    },
+    {
+      "id": "line-41",
+      "text": "望你們可以有善良的心 望你們可以有正義的聲",
+      "spelling": "bāng lín ē-tàng ū siān-liông ê sim bāng lín ē-tàng ū tsìng-gī ê siann",
+      "source_lines": [
+        41,
+        42
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "望你們可以慈悲為懷 望你們可以是非分明",
+      "spelling": "bāng lín ē-tàng tsû-pi uî pháinn bāng lín ē-tàng sī hui hun-bîng",
+      "source_lines": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "望你們疼惜天然土地 望你們可以來敬天畏地",
+      "spelling": "bāng lín thiànn-sioh thian-jiân thóo-tē bāng lín ē-tàng lâi kìng thinn uì tē",
+      "source_lines": [
+        47,
+        48
+      ]
+    },
+    {
+      "id": "line-50",
+      "text": "望你們珍惜萬物的寶貴 共同擁抱生命共同體",
+      "spelling": "bāng lín tin-sioh bān-mi̍h ê pó-kuì kiōng-tông iǒng-phō sìnn-miā kiōng-tông thé",
+      "source_lines": [
+        50,
+        51
+      ]
+    },
+    {
+      "id": "line-53",
+      "text": "囝仔你有看到頭前的光，是咱的未來 希望的光",
+      "spelling": "kín-á lí ū khuànn-tio̍h thâu-tsîng ê kng sī lán ê bī-lâi hi-bāng ê kng",
+      "source_lines": [
+        53,
+        54
+      ]
+    },
+    {
+      "id": "line-56",
+      "text": "美麗的山嶺 清氣的海水 善良的海豚",
+      "spelling": "bí-lē ê suann-niá tshing-khì ê hái-tsuí siān-liông ê hái-ti",
+      "source_lines": [
+        56,
+        57
+      ]
+    },
+    {
+      "id": "line-59",
+      "text": "他說 想要來和咱做好朋友",
+      "spelling": "i kóng siūnn beh lâi kā lán tsò-hó pîng-iú",
+      "source_lines": [
+        59,
+        60
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [
+    {
+      "line": 3,
+      "text": "Note:  All words in Italics are in Chinese."
+    }
+  ],
+  "reasons": [
+    "ambiguous_pair:1,5",
+    "source_note_requires_review:3"
+  ]
+}

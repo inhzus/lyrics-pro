@@ -1,0 +1,376 @@
+{
+  "recording_id": "lrclib:18267561",
+  "timing_source": "LRCLIB https://lrclib.net/api/get/18267561",
+  "manual_source": "User-supplied resources/lyrics-spelling/恨世生-伍佰",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "unresolved": 2,
+    "exact": 2,
+    "approximate": 3,
+    "repeat": 18,
+    "gap": 2
+  },
+  "review_row_count": 7,
+  "unmatched_manual_ids": [
+    "line-3:0",
+    "line-48:0"
+  ],
+  "unused_repeat_ids": [
+    "line-3:1",
+    "line-12:0",
+    "line-15:0",
+    "line-15:1",
+    "line-27:0",
+    "line-30:0",
+    "line-30:1"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 11.38,
+      "online_text": "我愛你 可愛的人",
+      "match_text": "我愛你 可愛的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 18.59,
+      "online_text": "愛你定定夢",
+      "match_text": "愛你定定夢",
+      "text": "愛你定定夢",
+      "spelling": "ài lí tiānn tiānn bāng",
+      "manual_id": "line-3:2",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 22.5,
+      "online_text": "真情愛你無彩工",
+      "match_text": "真情愛你無彩工",
+      "text": "真情愛你無採工",
+      "spelling": "tsin tsîng-ài lí bô tshái kang",
+      "manual_id": "line-6:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 3,
+      "time": 26.23,
+      "online_text": "你那親象採花蜂",
+      "match_text": "你那親象採花蜂",
+      "text": "你那親像採花蜂",
+      "spelling": "lí nà tshin-tshiūnn tshái hue phang",
+      "manual_id": "line-6:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 4,
+      "time": 30.06,
+      "online_text": "花蕊採了換別叢",
+      "match_text": "花蕊採了換別叢",
+      "text": "花蕊採了找別叢",
+      "spelling": "hue luí tshái liáu tshuē ba̍t ba̍t",
+      "manual_id": "line-9:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 5,
+      "time": 33.56,
+      "online_text": "我愛你 可愛的人",
+      "match_text": "我愛你 可愛的人",
+      "text": "我愛你可愛的人",
+      "spelling": "guá ài lí khó-ài ê lâng",
+      "manual_id": "line-9:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 39.39,
+      "online_text": "變作怨仇人",
+      "match_text": "變作怨仇人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 47.22,
+      "online_text": "我恨你 可愛的人",
+      "match_text": "我恨你 可愛的人",
+      "text": "我恨你可愛的人",
+      "spelling": "guá hūn lí khó-ài ê lâng",
+      "manual_id": "line-21:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 54.68,
+      "online_text": "恨你定定夢",
+      "match_text": "恨你定定夢",
+      "text": "恨你定定夢",
+      "spelling": "hūn lí tiānn tiānn bāng",
+      "manual_id": "line-15:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 58.78,
+      "online_text": "一生怨恨你一人",
+      "match_text": "一生怨恨你一人",
+      "text": "一生怨恨你一人",
+      "spelling": "it-sing uàn-hūn lí tsi̍t lâng",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 62.46,
+      "online_text": "你的罪惡是真重",
+      "match_text": "你的罪惡是真重",
+      "text": "你的罪惡是真重",
+      "spelling": "lí ê tsuē-ok sī tsin tāng",
+      "manual_id": "line-18:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 65.73,
+      "online_text": "可恨女性的毒蟲",
+      "match_text": "可恨女性的毒蟲",
+      "text": "可恨女性的毒蟲",
+      "spelling": "khó hūn lú-sìng ê to̍k-thâng",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 69.43,
+      "online_text": "我恨你 可愛的人",
+      "match_text": "我恨你 可愛的人",
+      "text": "我恨你可愛的人",
+      "spelling": "guá hūn lí khó-ài ê lâng",
+      "manual_id": "line-21:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 75.25,
+      "online_text": "恨你一世人",
+      "match_text": "恨你一世人",
+      "text": "恨你一世人",
+      "spelling": "hūn lí tsi̍t-sì-lâng",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 79.23,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 15,
+      "time": 131.57,
+      "online_text": "我恨你 可愛的人",
+      "match_text": "我恨你 可愛的人",
+      "text": "我恨你可愛的人",
+      "spelling": "guá hūn lí khó-ài ê lâng",
+      "manual_id": "line-21:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 138.95,
+      "online_text": "恨你定定夢",
+      "match_text": "恨你定定夢",
+      "text": "恨你定定夢",
+      "spelling": "hūn lí tiānn tiānn bāng",
+      "manual_id": "line-15:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 142.99,
+      "online_text": "一生怨恨你一人",
+      "match_text": "一生怨恨你一人",
+      "text": "一生怨恨你一人",
+      "spelling": "it-sing uàn-hūn lí tsi̍t lâng",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 146.69,
+      "online_text": "你的罪惡是真重",
+      "match_text": "你的罪惡是真重",
+      "text": "你的罪惡是真重",
+      "spelling": "lí ê tsuē-ok sī tsin tāng",
+      "manual_id": "line-18:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 150.23,
+      "online_text": "可恨女性的毒蟲",
+      "match_text": "可恨女性的毒蟲",
+      "text": "可恨女性的毒蟲",
+      "spelling": "khó hūn lú-sìng ê to̍k-thâng",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 153.76,
+      "online_text": "我恨你 可愛的人",
+      "match_text": "我恨你 可愛的人",
+      "text": "我恨你可愛的人",
+      "spelling": "guá hūn lí khó-ài ê lâng",
+      "manual_id": "line-21:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 159.4,
+      "online_text": "恨你一世人",
+      "match_text": "恨你一世人",
+      "text": "恨你一世人",
+      "spelling": "hūn lí tsi̍t-sì-lâng",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 163.67,
+      "online_text": "恨你一世人",
+      "match_text": "恨你一世人",
+      "text": "恨你一世人",
+      "spelling": "hūn lí tsi̍t-sì-lâng",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 167.39,
+      "online_text": "恨你一世人",
+      "match_text": "恨你一世人",
+      "text": "恨你一世人",
+      "spelling": "hūn lí tsi̍t-sì-lâng",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 171.01,
+      "online_text": "恨你一世人",
+      "match_text": "恨你一世人",
+      "text": "恨你一世人",
+      "spelling": "hūn lí tsi̍t-sì-lâng",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 174.87,
+      "online_text": "恨你一世人",
+      "match_text": "恨你一世人",
+      "text": "恨你一世人",
+      "spelling": "hūn lí tsi̍t-sì-lâng",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 182.81,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "a3b435cc4714b7cb4763830fc5f062e340656c609757ad0cf03b0cd8a3e61e14",
+    "manual": "d67f5ee4205ea93778081cf5ceb3d5fc1c65446049b2578ad7b740e5dfe9ab9b",
+    "timed": "d810ec0d160266bfc96b6adaa41fb2a4d641ff7c60ea9aca3d9b0b399839f898"
+  }
+}

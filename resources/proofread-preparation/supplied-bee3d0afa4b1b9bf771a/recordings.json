@@ -1,0 +1,148 @@
+{
+  "candidates": [
+    {
+      "song_id": 326704,
+      "title": "日子",
+      "artists": [
+        "张悬"
+      ],
+      "album": "神的游戏",
+      "duration": 394.013,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 168079,
+      "title": "日子",
+      "artists": [
+        "小柯"
+      ],
+      "album": "日子 1997-2000年影视作品精选",
+      "duration": 234.37,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 453927799,
+      "title": "日子",
+      "artists": [
+        "张悬"
+      ],
+      "album": "Original",
+      "duration": 394.013,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1547227433",
+      "title": "日子",
+      "artists": [
+        "灭火器"
+      ],
+      "album": "进击下半场",
+      "duration": 181.027,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "375431195",
+      "title": "日子",
+      "artists": [
+        "灭火器"
+      ],
+      "album": "海上的人",
+      "duration": 182.049,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1636230229",
+      "title": "日子",
+      "artists": [
+        "靳松"
+      ],
+      "album": "遇见你 - EP",
+      "duration": 315.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1371415476",
+      "title": "日子",
+      "artists": [
+        "谢少唐"
+      ],
+      "album": "非诚勿扰 - Single",
+      "duration": 308.007,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1194938615",
+      "title": "日子",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "旧年",
+      "duration": 280.227,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1792359185",
+      "title": "日子",
+      "artists": [
+        "姜弘义"
+      ],
+      "album": "日子 - EP",
+      "duration": 192.824,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1706772710",
+      "title": "日子",
+      "artists": [
+        "何景熙"
+      ],
+      "album": "日子 - Single",
+      "duration": 308.018,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "547978775",
+      "title": "日子",
+      "artists": [
+        "张悬"
+      ],
+      "album": "神的遊戏",
+      "duration": 394.533,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1201022704",
+      "title": "日子",
+      "artists": [
+        "伍思凯"
+      ],
+      "album": "怎么做朋友",
+      "duration": 238.533,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "677576049",
+      "title": "日子",
+      "artists": [
+        "寂寞夏日乐队"
+      ],
+      "album": "录",
+      "duration": 374.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

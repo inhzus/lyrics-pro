@@ -1,0 +1,418 @@
+{
+  "recording_id": "netease:449769021",
+  "timing_source": "NetEase https://music.163.com/song?id=449769021",
+  "manual_source": "User-supplied resources/lyrics-spelling/種子-伍佰",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "unresolved": 18,
+    "repeat": 4,
+    "approximate": 2,
+    "exact": 1
+  },
+  "review_row_count": 21,
+  "unmatched_manual_ids": [
+    "line-3:0",
+    "line-3:1",
+    "line-6:0",
+    "line-6:1",
+    "line-9:0",
+    "line-9:1",
+    "line-12:0",
+    "line-12:1",
+    "line-15:1",
+    "line-18:0",
+    "line-18:1",
+    "line-18:2",
+    "line-18:3",
+    "line-21:0",
+    "line-21:1",
+    "line-24:0",
+    "line-24:1",
+    "line-42:0",
+    "line-42:1",
+    "line-45:0",
+    "line-45:1",
+    "line-48:0",
+    "line-48:1",
+    "line-51:0",
+    "line-51:1",
+    "line-57:0",
+    "line-57:1",
+    "line-60:1"
+  ],
+  "unused_repeat_ids": [
+    "line-30:0",
+    "line-30:1",
+    "line-33:0",
+    "line-36:0",
+    "line-36:1",
+    "line-36:2",
+    "line-63:0",
+    "line-63:1",
+    "line-66:0",
+    "line-69:0",
+    "line-69:1",
+    "line-69:2"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 伍佰",
+      "match_text": "作词 : 伍佰",
+      "text": "作词 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 伍佰",
+      "match_text": "作曲 : 伍佰",
+      "text": "作曲 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 48.26,
+      "online_text": "风叫我飞去佗位 我就爱飞去佗位",
+      "match_text": "风叫我飞去佗位 我就爱飞去佗位",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 55.66,
+      "online_text": "背井离乡 流浪千里",
+      "match_text": "背井离乡 流浪千里",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 66.37,
+      "online_text": "或者是山跤海边 或者是过海上天",
+      "match_text": "或者是山跤海边 或者是过海上天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 73.56,
+      "online_text": "我也犹原 无法主意",
+      "match_text": "我也犹原 无法主意",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 85.42,
+      "online_text": "我是一粒流浪的种子 人生就是无限的延迟",
+      "match_text": "我是一粒流浪的种子 人生就是无限的延迟",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 94.17,
+      "online_text": "行到佗 揣到佗 行到遮 徛伫遮",
+      "match_text": "行到佗 揣到佗 行到遮 徛伫遮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 103.38,
+      "online_text": "无限的风将我吹 无停的雨将我淋",
+      "match_text": "无限的风将我吹 无停的雨将我淋",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 112.17,
+      "online_text": "就是因为欲 揣到妳",
+      "match_text": "就是因为欲 揣到妳",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 119.34,
+      "online_text": "无论妳天涯海角",
+      "match_text": "无论妳天涯海角",
+      "text": "無論妳天涯海角",
+      "spelling": "bô-lūn lí thian-gâi-hái-kak",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 123.89,
+      "online_text": "咱会来旋藤开花 咱会来生叶发枝",
+      "match_text": "咱会来旋藤开花 咱会来生叶发枝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 133.09,
+      "online_text": "注定是一生的走揣",
+      "match_text": "注定是一生的走揣",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 138.84,
+      "online_text": "只有我佮妳 咱两人黏做伙 无人剥会开",
+      "match_text": "只有我佮妳 咱两人黏做伙 无人剥会开",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 146.26,
+      "online_text": "做伙来相倚落土",
+      "match_text": "做伙来相倚落土",
+      "text": "做伙來相倚落土",
+      "spelling": "tsò hué lâi sio-uá lo̍h-thóo",
+      "manual_id": "line-39:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 188.24,
+      "online_text": "我想欲飞去佗位 嘛无法飞去佗位",
+      "match_text": "我想欲飞去佗位 嘛无法飞去佗位",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 195.28,
+      "online_text": "我是一粒 小小种子",
+      "match_text": "我是一粒 小小种子",
+      "text": "我是一粒流浪的種子",
+      "spelling": "guá sī tsi̍t lia̍p liû-lōng ê tsíng-tsí",
+      "manual_id": "line-15:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.705882
+    },
+    {
+      "source_row": 17,
+      "time": 206.54,
+      "online_text": "但是我无论何时 会当来从头做起",
+      "match_text": "但是我无论何时 会当来从头做起",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 213.61,
+      "online_text": "只因为我 来拄到妳",
+      "match_text": "只因为我 来拄到妳",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 223.04,
+      "online_text": "风吹我流浪万里",
+      "match_text": "风吹我流浪万里",
+      "text": "風吹我流浪萬里",
+      "spelling": "hong tshue guá liû-lōng bān-lí",
+      "manual_id": "line-54:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 227.49,
+      "online_text": "我经过苦甘日子 我渡过海波浪水",
+      "match_text": "我经过苦甘日子 我渡过海波浪水",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 236.35,
+      "online_text": "犹原是有意义 因为",
+      "match_text": "犹原是有意义 因为",
+      "text": "猶原是有意義",
+      "spelling": "iu-guân sī ū ì-gī",
+      "manual_id": "line-60:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 22,
+      "time": 240.97,
+      "online_text": "无论妳天涯海角",
+      "match_text": "无论妳天涯海角",
+      "text": "無論妳天涯海角",
+      "spelling": "bô-lūn lí thian-gâi-hái-kak",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 245.62,
+      "online_text": "咱会来旋藤开花 咱会来生叶发枝",
+      "match_text": "咱会来旋藤开花 咱会来生叶发枝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 254.79,
+      "online_text": "注定是一生的走揣",
+      "match_text": "注定是一生的走揣",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 260.88,
+      "online_text": "只有我佮妳 咱两人黏做伙 无人剥会开",
+      "match_text": "只有我佮妳 咱两人黏做伙 无人剥会开",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 268.36,
+      "online_text": "做伙来相倚落土",
+      "match_text": "做伙来相倚落土",
+      "text": "做伙來相倚落土",
+      "spelling": "tsò hué lâi sio-uá lo̍h-thóo",
+      "manual_id": "line-39:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "f63a61a2cc516086675e1e0fcbd10eadacf2e6a9651baba7abd389a76d6ea789",
+    "manual": "143284079e2c9717858ef6a35156c36192d0821f5ec086db91b1df7f8cd176da",
+    "timed": "1d1af5f779c6c66588854fe0900acfcbb16e916244b8512a0cdc5cf6cdc4cb2e"
+  }
+}

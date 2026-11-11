@@ -1,0 +1,708 @@
+{
+  "recording_id": "netease:168390",
+  "timing_source": "NetEase https://music.163.com/song?id=168390",
+  "manual_source": "User-supplied resources/lyrics-spelling/返來恁身邊-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "gap": 14,
+    "unresolved": 30,
+    "exact": 6,
+    "approximate": 1
+  },
+  "review_row_count": 31,
+  "unmatched_manual_ids": [
+    "line-10:0",
+    "line-16:0",
+    "line-22:0",
+    "line-40:0",
+    "line-43:0",
+    "line-46:0"
+  ],
+  "unused_repeat_ids": [
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0",
+    "line-58:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 陈莉莉/萧煌奇",
+      "match_text": "作词 : 陈莉莉/萧煌奇",
+      "text": "作词 : 陈莉莉/萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 0.02,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 0.05,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 12.0,
+      "online_text": "带你心飞",
+      "match_text": "带你心飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 17.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 18.95,
+      "online_text": "离开故乡有归十年",
+      "match_text": "离开故乡有归十年",
+      "text": "離開故鄉有歸十年",
+      "spelling": "lī-khui kòo-hiong ū kui tsa̍p nî",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 23.0,
+      "online_text": "阮定定想到彼段难忘的过去",
+      "match_text": "阮定定想到彼段难忘的过去",
+      "text": "阮定定想到彼段難忘的過去",
+      "spelling": "gún tiānn-tiānn siūnn-tio̍h hit tuānn lân-bông ê kuè-khì",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 27.84,
+      "online_text": "置梦中拢会甲恁来见面",
+      "match_text": "置梦中拢会甲恁来见面",
+      "text": "置夢中攏會甲恁來見面",
+      "spelling": "tì bāng-tiong lóng ē kā lí lâi kìnn-bīn",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 35.35,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 9,
+      "time": 36.62,
+      "online_text": "会记得彼年的夏天",
+      "match_text": "会记得彼年的夏天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 10,
+      "time": 41.37,
+      "online_text": "我欲去真远的冬天",
+      "match_text": "我欲去真远的冬天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 11,
+      "time": 46.27,
+      "online_text": "恁的温情 伴阮飞过千里",
+      "match_text": "恁的温情 伴阮飞过千里",
+      "text": "恁的溫情　伴阮飛過千里",
+      "spelling": "lín ê un-tsîng phuānn gún pue-kuè tshian-lí",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 53.84,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 13,
+      "time": 55.9,
+      "online_text": "为着理想来到台北市",
+      "match_text": "为着理想来到台北市",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-16:0"
+    },
+    {
+      "source_row": 14,
+      "time": 60.33,
+      "online_text": "一个人过着简单的日子",
+      "match_text": "一个人过着简单的日子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-16:0"
+    },
+    {
+      "source_row": 15,
+      "time": 64.83,
+      "online_text": "阮心内有时会感觉真稀微",
+      "match_text": "阮心内有时会感觉真稀微",
+      "text": "阮心內有時　會感覺真稀微",
+      "spelling": "gún sim-lāi ū-sî ē kám-kak tsin hi-bî",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 72.73,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 17,
+      "time": 74.5,
+      "online_text": "打工恁打电话给我",
+      "match_text": "打工恁打电话给我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-22:0"
+    },
+    {
+      "source_row": 18,
+      "time": 78.76,
+      "online_text": "拢会问我今嘛甘有吃饱",
+      "match_text": "拢会问我今嘛甘有吃饱",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-22:0"
+    },
+    {
+      "source_row": 19,
+      "time": 83.68,
+      "online_text": "请恁放心 我会照顾我自己",
+      "match_text": "请恁放心 我会照顾我自己",
+      "text": "請恁放心　我會照顧我自己",
+      "spelling": "tshiánn lín hòng-sim guá ē tsiàu-kòo guá ka-kī",
+      "manual_id": "line-25:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 91.24,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 21,
+      "time": 92.52,
+      "online_text": "亲爱的爸爸妈妈",
+      "match_text": "亲爱的爸爸妈妈",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 97.05,
+      "online_text": "只要恁平安快乐过日子",
+      "match_text": "只要恁平安快乐过日子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 102.3,
+      "online_text": "不需要搁计较什么",
+      "match_text": "不需要搁计较什么",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 105.14,
+      "online_text": "再大的风雨拢会过去",
+      "match_text": "再大的风雨拢会过去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 110.5,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 26,
+      "time": 111.2,
+      "online_text": "返来恁身边看你",
+      "match_text": "返来恁身边看你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 116.02,
+      "online_text": "有一日我一定会出头天",
+      "match_text": "有一日我一定会出头天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 120.73,
+      "online_text": "倒返去甲恁来团圆",
+      "match_text": "倒返去甲恁来团圆",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 123.64,
+      "online_text": "陪伴置恁身边",
+      "match_text": "陪伴置恁身边",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 128.94,
+      "online_text": "袂来甲分开",
+      "match_text": "袂来甲分开",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 135.93,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 32,
+      "time": 138.5,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 33,
+      "time": 166.5,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 34,
+      "time": 167.87,
+      "online_text": "为着理想来到台北市",
+      "match_text": "为着理想来到台北市",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-40:0"
+    },
+    {
+      "source_row": 35,
+      "time": 172.31,
+      "online_text": "阮嘛慢慢会通惯习",
+      "match_text": "阮嘛慢慢会通惯习",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-40:0"
+    },
+    {
+      "source_row": 36,
+      "time": 176.73,
+      "online_text": "阮感谢恁的鼓励甲支持",
+      "match_text": "阮感谢恁的鼓励甲支持",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-43:0"
+    },
+    {
+      "source_row": 37,
+      "time": 185.11,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 38,
+      "time": 186.45,
+      "online_text": "请恁着爱保重自己",
+      "match_text": "请恁着爱保重自己",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-43:0"
+    },
+    {
+      "source_row": 39,
+      "time": 190.62,
+      "online_text": "不通搁为阮来挂意",
+      "match_text": "不通搁为阮来挂意",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-46:0"
+    },
+    {
+      "source_row": 40,
+      "time": 195.45,
+      "online_text": "请恁相信 我要乎恁一片天",
+      "match_text": "请恁相信 我要乎恁一片天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-46:0"
+    },
+    {
+      "source_row": 41,
+      "time": 203.59,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 42,
+      "time": 204.3,
+      "online_text": "亲爱的爸爸妈妈",
+      "match_text": "亲爱的爸爸妈妈",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 209.45,
+      "online_text": "只要恁平安快乐过日子",
+      "match_text": "只要恁平安快乐过日子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 213.97,
+      "online_text": "不需要搁计较什么",
+      "match_text": "不需要搁计较什么",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 216.93,
+      "online_text": "再大的风雨拢会过去",
+      "match_text": "再大的风雨拢会过去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 222.6,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 47,
+      "time": 223.3,
+      "online_text": "返来恁身边看你",
+      "match_text": "返来恁身边看你",
+      "text": "返來恁身邊",
+      "spelling": "tńg-lâi lín sin-pinn",
+      "manual_id": "line-61:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 48,
+      "time": 227.8,
+      "online_text": "有一日我一定会出头天",
+      "match_text": "有一日我一定会出头天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 49,
+      "time": 232.29,
+      "online_text": "倒返去甲恁来团圆",
+      "match_text": "倒返去甲恁来团圆",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 50,
+      "time": 235.5,
+      "online_text": "陪伴置恁身边",
+      "match_text": "陪伴置恁身边",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 51,
+      "time": 241.0,
+      "online_text": "袂来甲分开",
+      "match_text": "袂来甲分开",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 52,
+      "time": 247.93,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "959aab4887c1663d3bbba15e2926fcacd5b38adf8d017da1ae3f6db5f1444e25",
+    "manual": "61809df86d0f4a1ac277d4313aac8d61281fb02308c31b667f9ccde8020fb1fc",
+    "timed": "5aabd223170bc0063d3444133f54d25f89520a2783a83a3718dd69d5d49ef668"
+  }
+}

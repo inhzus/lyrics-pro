@@ -1,0 +1,333 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "歹年冬厚瘋人                                           媒體有夠罕",
+      "spelling": "pháinn nî tang kāu siáu lâng             muî-thé ū kàu hán",
+      "source_lines": [
+        1,
+        2
+      ],
+      "parts": [
+        {
+          "text": "歹年冬厚瘋人",
+          "spelling": "pháinn nî tang kāu siáu lâng"
+        },
+        {
+          "text": "媒體有夠罕",
+          "spelling": "muî-thé ū kàu hán"
+        }
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "啊伊都看一個影                                       伊就生一個子",
+      "spelling": "ah i to khuànn tsi̍t ê íng                       i tō sing tsi̍t ê kiánn",
+      "source_lines": [
+        4,
+        5
+      ],
+      "parts": [
+        {
+          "text": "啊伊都看一個影",
+          "spelling": "ah i to khuànn tsi̍t ê íng"
+        },
+        {
+          "text": "伊就生一個子",
+          "spelling": "i tō sing tsi̍t ê kiánn"
+        }
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "找頭路真困難                                           冊讀那呢高",
+      "spelling": "tshē-thâu-lōo tsin khùn-lân                 tsheh tha̍k ná nî kuân",
+      "source_lines": [
+        7,
+        8
+      ],
+      "parts": [
+        {
+          "text": "找頭路真困難",
+          "spelling": "tshē-thâu-lōo tsin khùn-lân"
+        },
+        {
+          "text": "冊讀那呢高",
+          "spelling": "tsheh tha̍k ná nî kuân"
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "看破轉去下港                                           對老啊種田",
+      "spelling": "khuànn-phuà tńg khì ē-káng              tuì láu ah tsìng-tshân",
+      "source_lines": [
+        10,
+        11
+      ],
+      "parts": [
+        {
+          "text": "看破轉去下港",
+          "spelling": "khuànn-phuà tńg khì ē-káng"
+        },
+        {
+          "text": "對老啊種田",
+          "spelling": "tuì láu ah tsìng-tshân"
+        }
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "五點起床六點出門 天也還沒光",
+      "spelling": "gōo tiám khí-tshn̂g la̍k tiám tshut-mn̂g thinn iā iáu-bē kng",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "七點早餐八點研究 現代的田園",
+      "spelling": "tshit tiám tsá-tshan pat tiám gián-kiù hiān-tāi ê tshân-hn̂g",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "放牛吃草播種犁田 汗流歸身軀",
+      "spelling": "fàng gû tsia̍h tsháu pòo-tsíng lê-tshân kuānn-lâu kui sin-khu",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "原來這是簡單的快樂",
+      "spelling": "guân-lâi tsit sī kán-tan ê khuài-lo̍k",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "脫赤腳出狀元                                           人生若暝夢",
+      "spelling": "thǹg-tshiah-kha tshut tsn̄g guân        lîn-sing ná mî bōng",
+      "source_lines": [
+        25,
+        26
+      ],
+      "parts": [
+        {
+          "text": "脫赤腳出狀元",
+          "spelling": "thǹg-tshiah-kha tshut tsn̄g guân"
+        },
+        {
+          "text": "人生若暝夢",
+          "spelling": "lîn-sing ná mî bōng"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "咱攏是愛土地快樂的種田人",
+      "spelling": "lán lóng sī ài thóo-tē khuài-lo̍k ê tsìng-tshân lâng",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "五點起床六點出門 天也還沒光",
+      "spelling": "gōo tiám khí-tshn̂g la̍k tiám tshut-mn̂g thinn iā iáu-bē kng",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "七點早餐八點研究 現代的田園",
+      "spelling": "tshit tiám tsá-tshan pat tiám gián-kiù hiān-tāi ê tshân-hn̂g",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "放牛吃草播種犁田 汗流歸身軀",
+      "spelling": "fàng gû tsia̍h tsháu pòo-tsíng lê-tshân kuānn-lâu kui sin-khu",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "原來這是人生的意義",
+      "spelling": "guân-lâi tsit sī lîn-sing ê ì-gī",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "落水落水落水喔                                      風調雨順收成好",
+      "spelling": "lo̍h-tsuí lo̍h-tsuí lo̍h-tsuí ooh              hong-tiâu-ú-sūn siu sîng hó",
+      "source_lines": [
+        43,
+        44
+      ],
+      "parts": [
+        {
+          "text": "落水落水落水喔",
+          "spelling": "lo̍h-tsuí lo̍h-tsuí lo̍h-tsuí ooh"
+        },
+        {
+          "text": "風調雨順收成好",
+          "spelling": "hong-tiâu-ú-sūn siu sîng hó"
+        }
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "落水落水落水喔                                      骨力就會有好年冬",
+      "spelling": "lo̍h-tsuí lo̍h-tsuí lo̍h-tsuí ooh              kut-la̍t tio̍h ē ū hó nî-tang",
+      "source_lines": [
+        46,
+        47
+      ],
+      "parts": [
+        {
+          "text": "落水落水落水喔",
+          "spelling": "lo̍h-tsuí lo̍h-tsuí lo̍h-tsuí ooh"
+        },
+        {
+          "text": "骨力就會有好年冬",
+          "spelling": "kut-la̍t tio̍h ē ū hó nî-tang"
+        }
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "五點起床六點出門 天也還沒光",
+      "spelling": "gōo tiám khí-tshn̂g la̍k tiám tshut-mn̂g thinn iā iáu-bē kng",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "七點早餐八點研究 現代的田園",
+      "spelling": "tshit tiám tsá-tshan pat tiám gián-kiù hiān-tāi ê tshân-hn̂g",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "放牛吃草播種犁田 汗流歸身軀",
+      "spelling": "fàng gû tsia̍h tsháu pòo-tsíng lê-tshân kuānn-lâu kui sin-khu",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "原來這是人生的意義",
+      "spelling": "guân-lâi tsit sī lîn-sing ê ì-gī",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "落水落水落水喔                                      風調雨順收成好",
+      "spelling": "lo̍h-tsuí lo̍h-tsuí lo̍h-tsuí ooh              hong-tiâu-ú-sūn siu sîng hó",
+      "source_lines": [
+        61,
+        62
+      ],
+      "parts": [
+        {
+          "text": "落水落水落水喔",
+          "spelling": "lo̍h-tsuí lo̍h-tsuí lo̍h-tsuí ooh"
+        },
+        {
+          "text": "風調雨順收成好",
+          "spelling": "hong-tiâu-ú-sūn siu sîng hó"
+        }
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "落水落水落水喔                                      骨力就會有好年冬",
+      "spelling": "lo̍h-tsuí lo̍h-tsuí lo̍h-tsuí ooh              kut-la̍t tio̍h ē ū hó nî-tang",
+      "source_lines": [
+        64,
+        65
+      ],
+      "parts": [
+        {
+          "text": "落水落水落水喔",
+          "spelling": "lo̍h-tsuí lo̍h-tsuí lo̍h-tsuí ooh"
+        },
+        {
+          "text": "骨力就會有好年冬",
+          "spelling": "kut-la̍t tio̍h ē ū hó nî-tang"
+        }
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "天公伯啊落水喔                                      闔家平安身體好",
+      "spelling": "thinn-kong peh ah lo̍h-tsuí ooh         ha̍p-ka pîng-an sin-thé hó",
+      "source_lines": [
+        67,
+        68
+      ],
+      "parts": [
+        {
+          "text": "天公伯啊落水喔",
+          "spelling": "thinn-kong peh ah lo̍h-tsuí ooh"
+        },
+        {
+          "text": "闔家平安身體好",
+          "spelling": "ha̍p-ka pîng-an sin-thé hó"
+        }
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "落水落水落水喔                                      危機嘛會是好時機",
+      "spelling": "lo̍h-tsuí lo̍h-tsuí lo̍h-tsuí ooh             guî-ki mah ē sī hó sî-ki",
+      "source_lines": [
+        70,
+        71
+      ],
+      "parts": [
+        {
+          "text": "落水落水落水喔",
+          "spelling": "lo̍h-tsuí lo̍h-tsuí lo̍h-tsuí ooh"
+        },
+        {
+          "text": "危機嘛會是好時機",
+          "spelling": "guî-ki mah ē sī hó sî-ki"
+        }
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

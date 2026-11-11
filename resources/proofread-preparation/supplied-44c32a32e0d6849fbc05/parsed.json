@@ -1,0 +1,135 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "暗頭仔　擱清醒　想起夢中彼個伊",
+      "spelling": "àm-thâu-á koh tshing-tshénn siūnn-khí bāng-tiong hit-ê i",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "雞在叫　天未光　點到一支無奈的煙",
+      "spelling": "ke tē kiò thinn buē kng tiám-tio̍h tsi̍t ki bô-nāi ê hun",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "漂泊啊　不了時　想起當初彼個伊",
+      "spelling": "phiau-pi̍k ah bô-liáu-sî siūnn-khí tong-tshoo hit-ê i",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "眼框紅　心頭酸　又擱點到一支無奈的煙",
+      "spelling": "ba̍k-khoo âng sim-thâu sng iū koh tiám-tio̍h tsi̍t ki bô-nāi ê hun",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "少年時　不會想",
+      "spelling": "siàu-liân sî buē-hiáu siūnn",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "賭強的個性　衝動的心",
+      "spelling": "tóo-kiông ê kò-sìng tshóng-pōng ê sim",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "少年時　不會想",
+      "spelling": "siàu-liân sî bē-hiáu siūnn",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "懂歹誌之後才來哭不出聲",
+      "spelling": "bat pháinn tsì liáu-āu tsiah lâi khàu buē tshut-siann",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "漂泊啊　不了時　想起當初彼個伊",
+      "spelling": "phiau-pi̍k ah bô-liáu-sî siūnn-khí tong-tshoo hit-ê i",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "眼框紅　心頭酸　又擱點到一支無奈的煙",
+      "spelling": "ba̍k-khoo âng sim-thâu sng iū koh tiám-tio̍h tsi̍t ki bô-nāi ê hun",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "少年時　不會想",
+      "spelling": "siàu-liân sî buē-hiáu siūnn",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "賭強的個性　衝動的心",
+      "spelling": "tóo-kiông ê kò-sìng tshóng-pōng ê sim",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "少年時　不會想",
+      "spelling": "siàu-liân sî buē-hiáu siūnn",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "懂歹誌之後才來哭不出聲",
+      "spelling": "bat pháinn tsì liáu-āu tsiah lâi khàu buē tshut-siann",
+      "source_lines": [
+        40,
+        41
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

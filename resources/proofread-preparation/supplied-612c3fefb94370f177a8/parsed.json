@@ -1,0 +1,82 @@
+{
+  "blocks": [
+    {
+      "id": "line-6",
+      "text": "甘說是天注定 讓我對妳一見鐘情",
+      "spelling": "kam kóng sī thinn tsù-tiānn hōo guá tuì lí i̍t kiàn tiong tsîng",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "今晚的這個趴踢 我是唯一的 Lucky Man",
+      "spelling": "îng-àm ê tsit-ê pā tǐ guá sī uî-it ê Lucky Man",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "我想要和妳 Making Love",
+      "spelling": "guá siūnn bē kā lí Making Love",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "You are my sunshine 為妳唱出這段純情的melody",
+      "spelling": "You are My Sunshine uî lí tshiùnn-tshut tsit tuānn sûn-tsîng ê Melody",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "我想要和妳 Making Love",
+      "spelling": "guá siūnn bē kā lí Making Love",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "You are my sunshine 為妳唱出這段純情的melody",
+      "spelling": "You are My Sunshine uî lí tshiùnn-tshut tsit tuānn sûn-tsîng ê Melody",
+      "source_lines": [
+        37,
+        38
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:1,2",
+    "ambiguous_pair:12,13",
+    "ambiguous_pair:13,14",
+    "ambiguous_pair:14,15",
+    "ambiguous_pair:15,17",
+    "ambiguous_pair:17,19",
+    "ambiguous_pair:2,3",
+    "ambiguous_pair:25,27",
+    "ambiguous_pair:27,28",
+    "ambiguous_pair:28,29",
+    "ambiguous_pair:29,30",
+    "ambiguous_pair:3,4",
+    "ambiguous_pair:30,32",
+    "ambiguous_pair:32,34",
+    "ambiguous_pair:4,6",
+    "ambiguous_pair:40,42",
+    "ambiguous_pair:42,43",
+    "ambiguous_pair:43,44",
+    "ambiguous_pair:44,45",
+    "unpaired_line:45"
+  ]
+}

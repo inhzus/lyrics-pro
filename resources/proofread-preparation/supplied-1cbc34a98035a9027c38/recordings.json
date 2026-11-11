@@ -1,0 +1,170 @@
+{
+  "candidates": [
+    {
+      "song_id": 157168,
+      "title": "少女的心",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "树枝孤鸟",
+      "duration": 274.76,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2624498289,
+      "title": "少女的心",
+      "artists": [
+        "高胜美"
+      ],
+      "album": "山地情歌3('98金精选)",
+      "duration": 183.066,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 257892,
+      "title": "少女的心",
+      "artists": [
+        "林忆莲"
+      ],
+      "album": "林忆莲",
+      "duration": 257.773,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 400161496,
+      "title": "少女的心",
+      "artists": [
+        "林忆莲"
+      ],
+      "album": "经典系列 - 林忆莲",
+      "duration": 255.744,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2738486813,
+      "title": "少女的心",
+      "artists": [
+        "张津涤"
+      ],
+      "album": "张津涤单曲集",
+      "duration": 248.5,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 256603,
+      "title": "少女的心",
+      "artists": [
+        "林忆莲"
+      ],
+      "album": "忆莲2000精选",
+      "duration": 255.76,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 236880,
+      "title": "少女的心",
+      "artists": [
+        "高胜美"
+      ],
+      "album": "山地情歌3(雷射金曲12)",
+      "duration": 183.066,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 140565,
+      "title": "少女的心",
+      "artists": [
+        "潘安邦"
+      ],
+      "album": "幻梦",
+      "duration": 195.631,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 416011916,
+      "title": "少女的心",
+      "artists": [
+        "方宥心"
+      ],
+      "album": "愿望",
+      "duration": 249.146,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3451962856,
+      "title": "少女的心",
+      "artists": [
+        "漆文峰"
+      ],
+      "album": "少女的心",
+      "duration": 149.208,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1897062040,
+      "title": "少女的心",
+      "artists": [
+        "严华"
+      ],
+      "album": "明月相思夜",
+      "duration": 192.026,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3440961208,
+      "title": "少女的心",
+      "artists": [
+        "双向奔赴的病情 Music"
+      ],
+      "album": "浪漫的",
+      "duration": 198.182,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2738487676,
+      "title": "少女的心",
+      "artists": [
+        "张津涤"
+      ],
+      "album": "情敌",
+      "duration": 248.5,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2617252371,
+      "title": "少女的心",
+      "artists": [
+        "络希"
+      ],
+      "album": "少女的心",
+      "duration": 92.813,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1967102040,
+      "title": "少女的心",
+      "artists": [
+        "曹淑英"
+      ],
+      "album": "台湾流行歌曲精华 28",
+      "duration": 245.044,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

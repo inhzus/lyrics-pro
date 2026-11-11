@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "id": "supplied-a7a75ded38c39f487cfa",
+  "revision": "1",
+  "title": "來去夏威夷",
+  "title_aliases": [],
+  "source_path": "resources/lyrics-spelling/來去夏威夷-伍佰",
+  "approved": true,
+  "audio_verified": false,
+  "recording": {
+    "reference": "netease:361000",
+    "title": "来去夏威夷",
+    "artists": [
+      "金门王与李炳辉"
+    ],
+    "album": "来去夏威夷",
+    "duration": 204.033,
+    "artist": "金门王与李炳辉"
+  },
+  "attribution": "User-provided transcription. ",
+  "reason": "Use verified original 金門王與李炳輝 catalog recording 361000 (204.033 seconds), not the two incompatible Wu Bai live recordings. Preserve all supplied English and Hokkien pairs and the provider repeat flow.",
+  "source_spelling_notes": [
+    "The file is labelled 伍佰, but the complete 204.033-second timing is the original 金門王與李炳輝 recording. It does not match the 201.192-second or 91.4-second Wu Bai live recordings."
+  ],
+  "assignments": [
+    {
+      "source_row": 0,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 1,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 2,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 3,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-1:0",
+        "line-1:1",
+        "line-1:2",
+        "line-1:3",
+        "line-4:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 4,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-7:0",
+        "line-7:1",
+        "line-7:2",
+        "line-7:3",
+        "line-10:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 5,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-13:0",
+        "line-13:1",
+        "line-16:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 6,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-19:0",
+        "line-19:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 7,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-22:0",
+        "line-22:1",
+        "line-22:2",
+        "line-22:3",
+        "line-25:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 8,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-28:0",
+        "line-28:1",
+        "line-28:2"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 9,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-31:0",
+        "line-31:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 10,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-34:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 11,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-37:0",
+        "line-37:1",
+        "line-37:2",
+        "line-37:3",
+        "line-40:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 12,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-43:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 13,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-46:0",
+        "line-46:1",
+        "line-46:2",
+        "line-46:3",
+        "line-49:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 14,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-52:0",
+        "line-52:1",
+        "line-52:2",
+        "line-52:3",
+        "line-55:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 15,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-58:0",
+        "line-58:1",
+        "line-58:2"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 16,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-61:0",
+        "line-61:1",
+        "line-64:0",
+        "line-64:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 17,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-64:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 18,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-67:0",
+        "line-67:1",
+        "line-67:2",
+        "line-67:3",
+        "line-70:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 19,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-73:0",
+        "line-73:1",
+        "line-73:2",
+        "line-73:3",
+        "line-76:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 20,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-67:0",
+        "line-67:1",
+        "line-67:2",
+        "line-67:3",
+        "line-70:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 21,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-73:0",
+        "line-73:1",
+        "line-73:2",
+        "line-73:3",
+        "line-76:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    }
+  ],
+  "input_sha256": {
+    "original": "b315b1990e6c54403672640ceb84a61ef11fb27d5e565a11092a99ef4c7ae06f",
+    "manual": "9acb07cd68b42ea9f53f3371e5eba1ff5da00d071ad85fd2a69b3e178506792c",
+    "timed": "217b2c5a2c5dac1a8e94a6af4414cfb07ba66cf6ad96c5f2e04f776e9be0dcc8"
+  }
+}

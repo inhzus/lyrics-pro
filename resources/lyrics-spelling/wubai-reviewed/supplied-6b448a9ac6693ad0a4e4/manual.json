@@ -1,0 +1,435 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "聽妳的心跳 聽妳咧喘氣",
+      "spelling": "thiann lí ê sim-thiàu thiann lí leh tshuán khì",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "聽妳的心跳 聽妳咧喘氣",
+          "spelling": "thiann lí ê sim-thiàu thiann lí leh tshuán khì"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "看你的目睭 給你穿乎水水",
+      "spelling": "khuànn lí ê ba̍k-tsiu kā lí tshīng honnh tsuí tsuí",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "看你的目睭 給你穿乎水水",
+          "spelling": "khuànn lí ê ba̍k-tsiu kā lí tshīng honnh tsuí tsuí"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "迷戀妳的姿態 欣賞妳的標緻",
+      "spelling": "bê-luân lí ê chú thài  him-sióng lí ê phiau-tì",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "迷戀妳的姿態 欣賞妳的標緻",
+          "spelling": "bê-luân lí ê chú thài  him-sióng lí ê phiau-tì"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "乎我給你照顧 乎妳不通嚥氣",
+      "spelling": "honnh guá kā lí tsiàu-kòo honnh lí m̄-thàng iàn-khì",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "乎我給你照顧 乎妳不通嚥氣",
+          "spelling": "honnh guá kā lí tsiàu-kòo honnh lí m̄-thàng iàn-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "傷害 不通擱繼續來",
+      "spelling": "siong-hāi m̄-thàng koh kè-sio̍k lâi",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "傷害 不通擱繼續來",
+          "spelling": "siong-hāi m̄-thàng koh kè-sio̍k lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "好天 草仔才企會在",
+      "spelling": "hó-thinn tsháu-á tsiah khiā ē tsāi",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "好天 草仔才企會在",
+          "spelling": "hó-thinn tsháu-á tsiah khiā ē tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "就好像欲畫一幅圖 留住我青春的現在",
+      "spelling": "tō hó tshiūnn beh uē tsi̍t pak tôo lâu tsū guá tshing-tshun ê hiàn tsāi",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "就好像欲畫一幅圖 留住我青春的現在",
+          "spelling": "tō hó tshiūnn beh uē tsi̍t pak tôo lâu tsū guá tshing-tshun ê hiàn tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "啥咪款的色彩 攏靠恁來安排",
+      "spelling": "siánn mih khuán ê sik-tshái lóng khò lín lâi an-pâi",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "啥咪款的色彩 攏靠恁來安排",
+          "spelling": "siánn mih khuán ê sik-tshái lóng khò lín lâi an-pâi"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "海上的島鳥的厝 美麗的世界真少有",
+      "spelling": "hái-siōng ê tó tsiáu ê tshù bí-lē ê sè-kài tsin tsió ū",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "海上的島鳥的厝 美麗的世界真少有",
+          "spelling": "hái-siōng ê tó tsiáu ê tshù bí-lē ê sè-kài tsin tsió ū"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "海上的島鳥的厝 千辛萬苦的一個巢",
+      "spelling": "hái-siōng ê tó tsiáu ê tshù tshian-sin-bān-khóo ê tsi̍t ê siū",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "海上的島鳥的厝 千辛萬苦的一個巢",
+          "spelling": "hái-siōng ê tó tsiáu ê tshù tshian-sin-bān-khóo ê tsi̍t ê siū"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "衝破巨浪甲海流 有我少年的模樣",
+      "spelling": "tshiong-phuà kū-lōng kah hái-liû ū guá siàu-liân ê bôo-iūnn",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "衝破巨浪甲海流 有我少年的模樣",
+          "spelling": "tshiong-phuà kū-lōng kah hái-liû ū guá siàu-liân ê bôo-iūnn"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "海上的島鳥的厝 日頭照起攏無霧",
+      "spelling": "hái-siōng ê tó tsiáu ê tshù li̍t-thâu tsiáu khí lóng bô bū",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "海上的島鳥的厝 日頭照起攏無霧",
+          "spelling": "hái-siōng ê tó tsiáu ê tshù li̍t-thâu tsiáu khí lóng bô bū"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "高山的神秘 溪水的青苔",
+      "spelling": "ko suann ê sîn-pì khe tsuí ê tshenn-tî",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "高山的神秘 溪水的青苔",
+          "spelling": "ko suann ê sîn-pì khe tsuí ê tshenn-tî"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "海水的波浪 鹽埕的景緻",
+      "spelling": "hái-tsuí ê pho-lōng iâm-tiânn ê kíng-tì",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "海水的波浪 鹽埕的景緻",
+          "spelling": "hái-tsuí ê pho-lōng iâm-tiânn ê kíng-tì"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "管芒花的堅持 市仔口的蕃薯",
+      "spelling": "kuán bâng hue ê kian-tshî tshī á kháu ê han-tsî",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "管芒花的堅持 市仔口的蕃薯",
+          "spelling": "kuán bâng hue ê kian-tshî tshī á kháu ê han-tsî"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "歐巴桑的笑容 烏肚䆀的趣味",
+      "spelling": "oo-bá-sán ê tshiò-iông oo thuh bái ê tshù-bī",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "歐巴桑的笑容 烏肚䆀的趣味",
+          "spelling": "oo-bá-sán ê tshiò-iông oo thuh bái ê tshù-bī"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "傷害 不通擱繼續來",
+      "spelling": "siong-hāi m̄-thàng koh kè-sio̍k lâi",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "傷害 不通擱繼續來",
+          "spelling": "siong-hāi m̄-thàng koh kè-sio̍k lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "好天 草仔才企會在",
+      "spelling": "hó-thinn tsháu-á tsiah khiā ē tsāi",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "好天 草仔才企會在",
+          "spelling": "hó-thinn tsháu-á tsiah khiā ē tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "就好像欲行一隻船 浮佇咧無邊的大海",
+      "spelling": "tō hó tshiūnn beh kiânn tsi̍t tsiah tsûn phû tī leh bô pinn ê tuā-hái",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "就好像欲行一隻船 浮佇咧無邊的大海",
+          "spelling": "tō hó tshiūnn beh kiânn tsi̍t tsiah tsûn phû tī leh bô pinn ê tuā-hái"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "啥咪款的將來 攏是要靠現在",
+      "spelling": "siánn mih khuán ê tsiòng lâi lóng sī ài khò hiàn tsāi",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "啥咪款的將來 攏是要靠現在",
+          "spelling": "siánn mih khuán ê tsiòng lâi lóng sī ài khò hiàn tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "海上的島鳥的厝 美麗的世界真少有",
+      "spelling": "hái-siōng ê tó tsiáu ê tshù bí-lē ê sè-kài tsin tsió ū",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "海上的島鳥的厝 美麗的世界真少有",
+          "spelling": "hái-siōng ê tó tsiáu ê tshù bí-lē ê sè-kài tsin tsió ū"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "海上的島鳥的厝 千辛萬苦的一個巢",
+      "spelling": "hái-siōng ê tó tsiáu ê tshù tshian-sin-bān-khóo ê tsi̍t ê siū",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "海上的島鳥的厝 千辛萬苦的一個巢",
+          "spelling": "hái-siōng ê tó tsiáu ê tshù tshian-sin-bān-khóo ê tsi̍t ê siū"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "衝破巨浪甲海流 有我少年的模樣",
+      "spelling": "tshiong-phuà kū-lōng kah hái-liû ū guá siàu-liân ê bôo-iūnn",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "衝破巨浪甲海流 有我少年的模樣",
+          "spelling": "tshiong-phuà kū-lōng kah hái-liû ū guá siàu-liân ê bôo-iūnn"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "海上的島鳥的厝 撒啥咪種子有啥咪樹",
+      "spelling": "hái-siōng ê tó tsiáu ê tshù iā siánn mih tsíng-tsí ū siánn mih tshiū",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "海上的島鳥的厝 撒啥咪種子有啥咪樹",
+          "spelling": "hái-siōng ê tó tsiáu ê tshù iā siánn mih tsíng-tsí ū siánn mih tshiū"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "阮攏麥擱在冤家 朋友弟兄無常在有",
+      "spelling": "lán lóng mái koh tsāi uan-ke pîng-iú tî-hiann bô cháng tsāi ū",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "阮攏麥擱在冤家 朋友弟兄無常在有",
+          "spelling": "lán lóng mái koh tsāi uan-ke pîng-iú tî-hiann bô cháng tsāi ū"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "深淵註定是薄溜溜 小心大膽向前衝",
+      "spelling": "tshim-ian tsù-tiānn sī po̍h liù liù sió-sim tuā-tánn hiòng-tsiân tshiong",
+      "source_lines": [
+        78,
+        79
+      ],
+      "parts": [
+        {
+          "text": "深淵註定是薄溜溜 小心大膽向前衝",
+          "spelling": "tshim-ian tsù-tiānn sī po̍h liù liù sió-sim tuā-tánn hiòng-tsiân tshiong"
+        }
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "衝破巨浪甲海流 有我少年的模樣",
+      "spelling": "tshiong-phuà kū-lōng kah hái-liû ū guá siàu-liân ê bôo-iūnn",
+      "source_lines": [
+        81,
+        82
+      ],
+      "parts": [
+        {
+          "text": "衝破巨浪甲海流 有我少年的模樣",
+          "spelling": "tshiong-phuà kū-lōng kah hái-liû ū guá siàu-liân ê bôo-iūnn"
+        }
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "海上的島鳥的厝 日頭照起攏無霧",
+      "spelling": "hái-siōng ê tó tsiáu ê tshù li̍t-thâu tsiáu khí lóng bô bū",
+      "source_lines": [
+        84,
+        85
+      ],
+      "parts": [
+        {
+          "text": "海上的島鳥的厝",
+          "spelling": "hái-siōng ê tó tsiáu ê tshù"
+        },
+        {
+          "text": "日頭照起攏無霧",
+          "spelling": "li̍t-thâu tsiáu khí lóng bô bū"
+        }
+      ]
+    }
+  ],
+  "repairs": [],
+  "notes": [
+    {
+      "line": 87,
+      "text": "Note:  There are two words in the last verse whose proper Taiwanese translation doesn’t quite match up with what I was hearing in the song.  For the word “常”, I just used the Chinese pinyin “cháng”.  As for the word “衝”, in Wu Bai’s previous song “衝衝衝”, the word was pronounced “tshiong”, but for some reason it is sung a little different here."
+    }
+  ]
+}

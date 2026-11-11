@@ -1,0 +1,72 @@
+{
+  "candidates": [
+    {
+      "song_id": 2035089119,
+      "title": "起家",
+      "artists": [
+        "杨成锦"
+      ],
+      "album": "答案",
+      "duration": 80.146,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2025012968,
+      "title": "起家",
+      "artists": [
+        "刘文芳"
+      ],
+      "album": "游园",
+      "duration": 111.534,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3402817808,
+      "title": "起家",
+      "artists": [
+        "快歌音乐"
+      ],
+      "album": "起家",
+      "duration": 169.104,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2127926968,
+      "title": "起家",
+      "artists": [
+        "好运好运来",
+        "Kz"
+      ],
+      "album": "坏运坏运来2",
+      "duration": 165.714,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1939598953,
+      "title": "起家",
+      "artists": [
+        "小象"
+      ],
+      "album": "悲伤剧集",
+      "duration": 191.477,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1194938592",
+      "title": "起家",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "旧年",
+      "duration": 277.307,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

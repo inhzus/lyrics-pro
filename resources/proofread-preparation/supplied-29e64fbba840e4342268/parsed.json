@@ -1,0 +1,432 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "咱若是心頭結歸裘",
+      "spelling": "lán ná sī sim-thâu kiat kui kiû",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "著來飲酒濕一咧濕一咧 外好汝甘知 (好啦)",
+      "spelling": "tio̍h lâi lím tsiú sip tsi̍t ê sip tsi̍t ê guā hó lí kam tsai (hó là)",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "啊有人飲酒啊假紳士 有人飲酒啊脫霓舞",
+      "spelling": "ah ū-lâng lím tsiú ah ké sin-sū ū-lâng lím tsiú ah thuah ní bú",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "有人飲酒啊愛唱歌 我若飲酒話著一大攤",
+      "spelling": "ah ū-lâng lím tsiú ah ài tshiùnn-kua guá lím tsiú uē tio̍h tsi̍t-tuā-thián",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "有人飲酒會面絿絿 有人飲酒愛撚嘴鬚",
+      "spelling": "ū-lâng lím tsiú ē biān khiu khiu ū-lâng lím tsiú ài lián tshuì tshiu",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "有人飲酒會搥心肝 我若飲酒尚愛招酒伴(哈麥)",
+      "spelling": "ū-lâng lím tsiú ē tuî sim-kuann guá ná lím tsiú siāng ài tsio tsiú phuānn (ha mài)",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "人生親像一盤棋",
+      "spelling": "lîn-sing tshin-tshiūnn tsi̍t puânn kî",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "(甘拜 殺鹿 氣乎死 乾杯)",
+      "spelling": "kam pài thâi lo̍k khì honnh sí kan-pue",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "成功失敗 思霜枝",
+      "spelling": "sîng-kong sit-pāi su siang ki",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "(甘拜 殺鹿 氣乎死 乾杯)",
+      "spelling": "kam pài thâi lo̍k khì honnh sí kan-pue",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "出入江湖呀身不由己呀 風度永遠著愛保持",
+      "spelling": "tshut-li̍p kang-ôo ah sin-put-iû-kí hong-tōo íng-uán tio̍h ài pó-tshî",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "酒量若有呀尚得意 但是酒品呀統要緊",
+      "spelling": "tsiú-liāng nā-ū ah siōng tik-ì tān-sī tsiú-phín ah thóng iau kín",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "若欲臭彈歕來雞規呀 請汝趕緊來趁酒醉",
+      "spelling": "nā bô tshàu-tuānn pûn lâi kue kui ah tshiánn lí kuánn-kín lâi thàn tsiú-tsuì",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "飲落去 飲落去 毋倘漏氣",
+      "spelling": "lím-lue lím-lue m̄-thang làu-khuì",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "呀醉落去 醉落去 大家歡喜",
+      "spelling": "ah tsuì-lue tsuì-lue ta̍k-ke huann-hí",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "咱若是心情咧憂愁",
+      "spelling": "lán ná sī sim sim-tsîng leh iu-tshiû",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "著來飲乎馬西馬西 毋通胡白想(好咧)",
+      "spelling": "tio̍h lâi lím honnh má se má se m̄-thang oo-pe̍h siūnn (hó leh)",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "來來來 我的朋友好兄弟(尤伊 油伊 游揖)",
+      "spelling": "lâi lâi lâi guá ê pîng-iú hó hiann-tī (iû i iû i siû )",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "燒酒著給飲落去毋倘飼金魚(好啦 好啦)",
+      "spelling": "sio-tsiú tio̍h kā lím-lo̍h-khì m̄-thang tshī kim-hî (hó là hó là)",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "請大家燒酒繼續斟(縮咧)",
+      "spelling": "tshiánn ta̍k-ke sio-tsiú kè-sio̍k thîn (kiu leh)",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "給伊斟乎伊 表面張力 外好汝甘知喔(嗦淚 縮淚)",
+      "spelling": "kā i thîn honnh i piáu-biān tsāng lì guā hó lí kam tsai ooh (so luī kiu luī)",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "咱若是心頭結歸裘",
+      "spelling": "lán ná sī sim-thâu kiat kui kiû",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "著來飲酒濕一咧濕一咧 外好汝甘知(知啦)",
+      "spelling": "tio̍h lâi lím tsiú sip tsi̍t ê sip tsi̍t ê guā hó lí kam tsai (tsai là)",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "彼落阿土阿草仔出世作酒蟲",
+      "spelling": "hit lo̍h ah thóo ah tsháu-á tshut-suè tsò tsiú thâng",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "無代無誌嘛會找孔縫",
+      "spelling": "bô-tāi bô-tsì mā ē tshuē khang pâng",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "阿仁阿義仔干哪一杯落腹",
+      "spelling": "ah jîn ah gī á kan ná tsi̍t pue lo̍h-pak",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "紅關公著走出來弄",
+      "spelling": "âng kuan-kong tio̍h tsáu tshut-lâi lāng",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "杯底毋倘飼蟾蜍",
+      "spelling": "pue té m̄-thang tshī tsiunn-tsî",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "杯底毋倘種蕃薯",
+      "spelling": "pue té m̄-thang tsíng han-tsî",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "杯底毋倘飼紅蟳",
+      "spelling": "pue té m̄-thang tshī âng tsîm",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "杯底毋倘娶細姨",
+      "spelling": "pue té m̄-thang tshuā sè-î",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "啊人講酒醉嘛心頭定 啊毋倘藉口欲賈人車拼",
+      "spelling": "ah lâng kóng tsiú-tsuì mā sim-thâu tiānn ah m̄-thang tsioh-kháu beh ká lâng tshia-piànn",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "飲酒尚驚來敖牽拖 楞楞相掙講毋知疼",
+      "spelling": "lím tsiú siōng kiann lâi gâu khan-thua gông gông sio tsin kóng m̄ tsai thiànn",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "啊人生永遠是向前行 啊飲啦 飲啦免著驚",
+      "spelling": "ah lîn-sing íng-uán sī hiòng-tsiân kiânn ah lím là lím là bián tio̍h kiann",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "啊面子暫時啊免論輸贏",
+      "spelling": "ah biān tsú tsiām-tshi ah bián lūn su-iânn",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "剖腹交陪朋友成(哈麥)",
+      "spelling": "phuà-pak kau-puê pîng-iú tshiânn (ha mài)",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "呀講著飲酒 我攏無步 講著食燻 我火就著",
+      "spelling": "ah kóng-tio̍h lím tsiú guá lóng bô-pōo kóng-tio̍h tsia̍h hun guá hué tio̍h tio̍h",
+      "source_lines": [
+        111,
+        112
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "若講著檳榔 我著吐血 若講著賭筊 我著會氣",
+      "spelling": "ná kóng-tio̍h pin-nn̂g guá-tio̍h thòo-hueh ná kóng-tio̍h pua̍h-kiáu guá tio̍h ē khì",
+      "source_lines": [
+        114,
+        115
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "若閣欲臭彈來歕雞規 請汝趕來緊來趁酒醉",
+      "spelling": "ná koh beh tshàu-tuānn pûn kue kui tshiánn lí kuánn-kín-lâi thàn tsiú-tsuì",
+      "source_lines": [
+        117,
+        118
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "呀飲落去 飲落去 毋倘漏氣",
+      "spelling": "lím-lue lím-lue m̄-thang làu-khuì",
+      "source_lines": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "醉落去 醉落去 大家歡喜",
+      "spelling": "ah tsuì-lue tsuì-lue ta̍k-ke huann-hí",
+      "source_lines": [
+        123,
+        124
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "咱若是心頭結歸裘",
+      "spelling": "lán ná sī sim-thâu kiat kui kiû",
+      "source_lines": [
+        126,
+        127
+      ]
+    },
+    {
+      "id": "line-129",
+      "text": "著來飲酒濕一咧濕一咧 外好汝甘知(知啦)",
+      "spelling": "tio̍h lâi lím tsiú sip tsi̍t ê sip tsi̍t ê guā hó lí kam tsai (tsai là)",
+      "source_lines": [
+        129,
+        130
+      ]
+    },
+    {
+      "id": "line-132",
+      "text": "我咧外爽汝甘知(知啦)",
+      "spelling": "guá leh guā sóng lí kam tsai (tsai là)",
+      "source_lines": [
+        132,
+        133
+      ]
+    },
+    {
+      "id": "line-135",
+      "text": "我咧外贊汝甘知(知啦)",
+      "spelling": "guá leh guā tsàn lí kam tsai (tsai là)",
+      "source_lines": [
+        135,
+        136
+      ]
+    },
+    {
+      "id": "line-138",
+      "text": "我咧外好汝甘知(知啦)",
+      "spelling": "guá leh guā hó lí kam tsai (tsai là)",
+      "source_lines": [
+        138,
+        139
+      ]
+    },
+    {
+      "id": "line-141",
+      "text": "厄!搭搭搭搭搭搭…",
+      "spelling": "eh! tah tah tah tah tah tah",
+      "source_lines": [
+        141,
+        142
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:1,3"
+  ]
+}

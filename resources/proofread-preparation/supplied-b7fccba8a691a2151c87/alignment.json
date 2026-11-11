@@ -1,0 +1,576 @@
+{
+  "recording_id": "netease:248810",
+  "timing_source": "NetEase https://music.163.com/song?id=248810",
+  "manual_source": "User-supplied resources/lyrics-spelling/跳舞到天光-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 36,
+    "repeat": 3
+  },
+  "review_row_count": 36,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0"
+  ],
+  "unused_repeat_ids": [
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-49:0",
+    "line-52:0",
+    "line-58:0",
+    "line-61:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 简志霖",
+      "match_text": "作词 : 简志霖",
+      "text": "作词 : 简志霖",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 杨阳",
+      "match_text": "作曲 : 杨阳",
+      "text": "作曲 : 杨阳",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 36.43,
+      "online_text": "穿着你送阮的高搭鞋",
+      "match_text": "穿着你送阮的高搭鞋",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 3,
+      "time": 40.67,
+      "online_text": "行过咱牵手的彼条街",
+      "match_text": "行过咱牵手的彼条街",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 4,
+      "time": 44.6,
+      "online_text": "想你对阮的热情 亲像是烟火",
+      "match_text": "想你对阮的热情 亲像是烟火",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 5,
+      "time": 49.22,
+      "online_text": "闹热了後躲去缀",
+      "match_text": "闹热了後躲去缀",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 6,
+      "time": 52.73,
+      "online_text": "都市夜景虽然真美丽",
+      "match_text": "都市夜景虽然真美丽",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 56.41,
+      "online_text": "寂寞的冷风对面来吹",
+      "match_text": "寂寞的冷风对面来吹",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 60.43,
+      "online_text": "赶走这一切 想欲找一个",
+      "match_text": "赶走这一切 想欲找一个",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 64.58,
+      "online_text": "会当跳舞跳归暝",
+      "match_text": "会当跳舞跳归暝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 68.32,
+      "online_text": "像舞步咱拢跳袂齐",
+      "match_text": "像舞步咱拢跳袂齐",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 72.43,
+      "online_text": "阮只有进你拢底退",
+      "match_text": "阮只有进你拢底退",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 76.45,
+      "online_text": "你对别人比阮 搁卡乎你痴迷",
+      "match_text": "你对别人比阮 搁卡乎你痴迷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 84.13,
+      "online_text": "陪着你 憨憨底绕憨憨绕",
+      "match_text": "陪着你 憨憨底绕憨憨绕",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 88.2,
+      "online_text": "如今放着阮四界去飞",
+      "match_text": "如今放着阮四界去飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 92.37,
+      "online_text": "当初你的情话 听起来真笑亏",
+      "match_text": "当初你的情话 听起来真笑亏",
+      "text": "當初你的情話 聽起來真笑虧",
+      "spelling": "tong-tshoo lí ê tsîng uē thiann-khí-lâi tsin tshiò khui",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 99.9,
+      "online_text": "陪着阮 烧酒一杯搁一杯",
+      "match_text": "陪着阮 烧酒一杯搁一杯",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 104.01,
+      "online_text": "阮不知影饮了外多",
+      "match_text": "阮不知影饮了外多",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 108.01,
+      "online_text": "心情无地放 悲伤无人问",
+      "match_text": "心情无地放 悲伤无人问",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 111.6,
+      "online_text": "阮跳舞到天光",
+      "match_text": "阮跳舞到天光",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 129.86,
+      "online_text": "都市夜景虽然真美丽",
+      "match_text": "都市夜景虽然真美丽",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 134.54,
+      "online_text": "寂寞的冷风对面来吹",
+      "match_text": "寂寞的冷风对面来吹",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 138.42,
+      "online_text": "赶走这一切 想欲找一个",
+      "match_text": "赶走这一切 想欲找一个",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 142.57,
+      "online_text": "会当跳舞跳归暝",
+      "match_text": "会当跳舞跳归暝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 146.26,
+      "online_text": "像舞步咱拢跳袂齐",
+      "match_text": "像舞步咱拢跳袂齐",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 150.71,
+      "online_text": "阮只有进你拢底退",
+      "match_text": "阮只有进你拢底退",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 154.73,
+      "online_text": "你对别人比阮 搁卡乎你痴迷",
+      "match_text": "你对别人比阮 搁卡乎你痴迷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 162.11,
+      "online_text": "陪着你 憨憨底绕憨憨绕",
+      "match_text": "陪着你 憨憨底绕憨憨绕",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 166.32,
+      "online_text": "如今放着阮四界去飞",
+      "match_text": "如今放着阮四界去飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 170.21,
+      "online_text": "当初你的情话 听起来真笑亏",
+      "match_text": "当初你的情话 听起来真笑亏",
+      "text": "當初你的情話 聽起來真笑虧",
+      "spelling": "tong-tshoo lí ê tsîng uē thiann-khí-lâi tsin tshiò khui",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 177.95,
+      "online_text": "陪着阮 烧酒一杯搁一杯",
+      "match_text": "陪着阮 烧酒一杯搁一杯",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 181.8,
+      "online_text": "阮不知影饮了外多",
+      "match_text": "阮不知影饮了外多",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 185.62,
+      "online_text": "心情无地放 悲伤无人问",
+      "match_text": "心情无地放 悲伤无人问",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 189.41,
+      "online_text": "阮跳舞到天光",
+      "match_text": "阮跳舞到天光",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 193.49,
+      "online_text": "陪着你 憨憨底绕憨憨绕",
+      "match_text": "陪着你 憨憨底绕憨憨绕",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 197.31,
+      "online_text": "如今放着阮四界去飞",
+      "match_text": "如今放着阮四界去飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 201.45,
+      "online_text": "当初你的情话 听起来真笑亏",
+      "match_text": "当初你的情话 听起来真笑亏",
+      "text": "當初你的情話 聽起來真笑虧",
+      "spelling": "tong-tshoo lí ê tsîng uē thiann-khí-lâi tsin tshiò khui",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 209.04,
+      "online_text": "陪着阮 烧酒一杯搁一杯",
+      "match_text": "陪着阮 烧酒一杯搁一杯",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 212.93,
+      "online_text": "阮不知影饮了外多",
+      "match_text": "阮不知影饮了外多",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 216.81,
+      "online_text": "心情无地放 悲伤无人问",
+      "match_text": "心情无地放 悲伤无人问",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 220.76,
+      "online_text": "阮跳舞到天光",
+      "match_text": "阮跳舞到天光",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "49afc89fda7afcad0bd0334a4c4dfabdb7670adf8a3ed94712b56c0fbe39d36f",
+    "manual": "d15f22814776897cc3a646eb6841ae139ca4fdf4fb24720fe5ed0fa3d6593acc",
+    "timed": "93c5e6bc522bae548d1fb2bda5826f5ca8ff219e603af55c9bba8fdbd8c71c28"
+  }
+}

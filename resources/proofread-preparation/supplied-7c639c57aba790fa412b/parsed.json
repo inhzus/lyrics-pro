@@ -1,0 +1,229 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "城市的天頂擠滿滿一堆人",
+      "spelling": "siânn-tshī ê thinn-tíng kheh buán buán tsi̍t tui lâng",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "酸痛的翅仔越來越重",
+      "spelling": "sng-thiànn ê si̍t-á lú-lâi-lú tāng",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "佗位的月娘光炎炎掛佇遐等我",
+      "spelling": "tó-uī ê ge̍h-niû kng iām iām kuà tī hiâ tán guá",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "熱人的冷氣越來越寒",
+      "spelling": "jua̍h-lâng ê líng-khì lú-lâi-lú kuânn",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "啥人來將我彼對破翅仔換一雙新跤",
+      "spelling": "siánn-lâng lâi tsiòng guá hit tuì phuà si̍t-á uānn tsi̍t siang sin kha",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "實實在在的                 慢慢啊行",
+      "spelling": "si̍t si̍t tsāi tsāi ê        bān bān ah kiânn",
+      "source_lines": [
+        16,
+        17
+      ],
+      "parts": [
+        {
+          "text": "實實在在的",
+          "spelling": "si̍t si̍t tsāi tsāi ê"
+        },
+        {
+          "text": "慢慢啊行",
+          "spelling": "bān bān ah kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "我今仔日毋想欲飛                                 我揣無人講一寡話",
+      "spelling": "guá kin-á-ji̍t bô-siūnn-beh pue        guá tshuē bô-lâng kóng tsi̍t kuá uē",
+      "source_lines": [
+        19,
+        20
+      ],
+      "parts": [
+        {
+          "text": "我今仔日毋想欲飛",
+          "spelling": "guá kin-á-ji̍t bô-siūnn-beh pue"
+        },
+        {
+          "text": "我揣無人講一寡話",
+          "spelling": "guá tshuē bô-lâng kóng tsi̍t kuá uē"
+        }
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "敢有一塊心會當安穩的土地",
+      "spelling": "kám ū tsi̍t tè sim ē-tàng an-ún ê thóo-tē",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "我今仔日毋想欲飛                                少年的夢猶賰若濟",
+      "spelling": "guá kin-á-ji̍t bô-siūnn-beh pue        siàu-liân ê bāng iáu tshun ná tsè",
+      "source_lines": [
+        25,
+        26
+      ],
+      "parts": [
+        {
+          "text": "我今仔日毋想欲飛",
+          "spelling": "guá kin-á-ji̍t bô-siūnn-beh pue"
+        },
+        {
+          "text": "少年的夢猶賰若濟",
+          "spelling": "siàu-liân ê bāng iáu tshun ná tsè"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "我斡頭過 有一蕊叫青春的花",
+      "spelling": "guá uatthâu-kuè ū tsi̍t luí kiò tshing-tshun ê hue",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "這世人猶毋捌 開過",
+      "spelling": "tsit sì lâng iáu m̄ bat khui kuè",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "啥人來將我彼對破翅仔換一雙新跤",
+      "spelling": "siánn-lâng lâi tsiòng guá hit tuì phuà si̍t-á uānn tsi̍t siang sin kha",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "實實在在的                 慢慢啊行",
+      "spelling": "si̍t si̍t tsāi tsāi ê        bān bān ah kiânn",
+      "source_lines": [
+        37,
+        38
+      ],
+      "parts": [
+        {
+          "text": "實實在在的",
+          "spelling": "si̍t si̍t tsāi tsāi ê"
+        },
+        {
+          "text": "慢慢啊行",
+          "spelling": "bān bān ah kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "我今仔日毋想欲飛                                我揣無人講一寡話",
+      "spelling": "guá kin-á-ji̍t bô-siūnn-beh pue        guá tshuē bô-lâng kóng tsi̍t kuá uē",
+      "source_lines": [
+        40,
+        41
+      ],
+      "parts": [
+        {
+          "text": "我今仔日毋想欲飛",
+          "spelling": "guá kin-á-ji̍t bô-siūnn-beh pue"
+        },
+        {
+          "text": "我揣無人講一寡話",
+          "spelling": "guá tshuē bô-lâng kóng tsi̍t kuá uē"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "敢有一塊心會當安穩的土地",
+      "spelling": "kám ū tsi̍t tè sim ē-tàng an-ún ê thóo-tē",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "我今仔日毋想欲飛                                 少年的夢猶賰若濟",
+      "spelling": "guá kin-á-ji̍t bô-siūnn-beh pue        siàu-liân ê bāng iáu tshun ná tsè",
+      "source_lines": [
+        46,
+        47
+      ],
+      "parts": [
+        {
+          "text": "我今仔日毋想欲飛",
+          "spelling": "guá kin-á-ji̍t bô-siūnn-beh pue"
+        },
+        {
+          "text": "少年的夢猶賰若濟",
+          "spelling": "siàu-liân ê bāng iáu tshun ná tsè"
+        }
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "我斡頭過 有一蕊叫青春的花",
+      "spelling": "guá uatthâu-kuè ū tsi̍t luí kiò tshing-tshun ê hue",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "這世人猶毋捌 開過",
+      "spelling": "tsit sì lâng iáu m̄ bat khui kuè",
+      "source_lines": [
+        52,
+        53
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

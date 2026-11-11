@@ -1,0 +1,30 @@
+{
+  "selected": {
+    "song_id": 249121,
+    "title": "今夜山风吹心房",
+    "artists": [
+      "江蕙"
+    ],
+    "album": "爱作梦的鱼",
+    "duration": 311.0,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:249121",
+      "duration": 311.0,
+      "ready": false,
+      "coverage": 0.14285714285714285,
+      "exact_fraction": 0.11904761904761904,
+      "summary": {
+        "credit": 2,
+        "exact": 4,
+        "unresolved": 36,
+        "approximate": 1,
+        "gap": 2,
+        "repeat": 1
+      }
+    }
+  ]
+}

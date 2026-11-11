@@ -1,0 +1,192 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "早起五點外開門的早頓店",
+      "spelling": "tsái-khí gōo tiám guā khui-mn̂g ê tsá tǹg tiàm",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "無人的街仔路抾紙坯的歐吉桑",
+      "spelling": "bô-lâng ke-á-lōo khioh tsuá-phue ê oo-jí-sáng",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "傳統的市場準備開市的菜擔",
+      "spelling": "thuân-thóng ê tshī-tiûnn tsún-pī khui-tshī ê tshài-tànn",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "全新的一工 這是全新的一工",
+      "spelling": "tsuân-sin ê tsi̍t kang  tsit sī tsuân-sin ê tsi̍t kang",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "冬天的日頭出現佇咧六點外",
+      "spelling": "tang-thinn ê ji̍t-thâu tshut-hiān tī-leh la̍k tiám guā",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "城市的大路邊學生排隊等公車",
+      "spelling": "siânn-tshī tuā-lōo pinn ha̍k-sing pâi-tuī tán kong-tshia",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "平凡的日子做著無平凡的夢",
+      "spelling": "pîng-huân ê ji̍t-tsí tsuè-tio̍h bô pîng-huân ê bāng",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "全新的一工 這是全新的一工",
+      "spelling": "tsuân-sin ê tsi̍t kang  tsit sī tsuân-sin ê tsi̍t kang",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "咱行佇無仝的路 唱著仝一條歌",
+      "spelling": "lán kiânn tī bô kāng ê lōo  tshiùnn tio̍h kāng tsi̍t tiâu kua",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "認真過著咱的每一工",
+      "spelling": "līn-tsin kuè tio̍h lán ê muí tsi̍t kang",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "海上的島嶼蹛著毋願認輸的人",
+      "spelling": "hái-siōng ê tó sū tuà tio̍h m̄-guān jīn-su ê lâng",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "發出家己的光線",
+      "spelling": "huat-tshut ka-kī ê kng-suànn",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "日出到天暗 一工過一工",
+      "spelling": "ji̍t-tshut kàu thinn-àm tsi̍t kang kuè tsi̍t kang",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "懷抱著希望 等待彼一工",
+      "spelling": "huâi-phō tio̍h hi-bāng  tán-thāi hit tsi̍t kang",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "咱行佇無仝無的路 唱著仝一條歌",
+      "spelling": "lán kiânn tī bô kāng ê lōo  tshiùnn tio̍h kāng tsi̍t tiâu kua",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "認真過著咱的每一工",
+      "spelling": "līn-tsin kuè tio̍h lán ê muí tsi̍t kang",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "海上的島嶼蹛著毋願認輸的人",
+      "spelling": "hái-siōng ê tó sū tuà tio̍h m̄-guān jīn-su ê lâng",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "發出家己的光線",
+      "spelling": "huat-tshut ka-kī ê kng-suànn",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "海上的島嶼蹛著毋願認輸的人",
+      "spelling": "hái-siōng ê tó sū tuà tio̍h m̄-guān jīn-su ê lâng",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "發出迷人的光線",
+      "spelling": "huat-tshut bê-lâng ê kng-suànn",
+      "source_lines": [
+        60,
+        61
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：楊大正   作曲：楊大正  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

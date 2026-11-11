@@ -1,0 +1,474 @@
+{
+  "recording_id": "lrcapi:1230303046",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E8%B5%B0%E9%90%98&artist=%E5%AD%A9%E5%AD%90%E7%8E%8B&album=%E6%9C%80%E7%AA%98%E4%B8%B8#1230303046",
+  "manual_source": "User-supplied resources/lyrics-spelling/走鐘-孩子王",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "repeat": 26,
+    "unresolved": 10
+  },
+  "review_row_count": 10,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-9:0",
+    "line-15:0",
+    "line-18:0",
+    "line-57:0",
+    "line-63:0",
+    "line-66:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 61.4,
+      "online_text": "一顆心肝亂操操",
+      "match_text": "一顆心肝亂操操",
+      "text": "一顆心肝亂操操",
+      "spelling": "tsi̍t lia̍p sim-kuann luān tshau tshau",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 63.99,
+      "online_text": "像是火在燒 水在沖",
+      "match_text": "像是火在燒 水在沖",
+      "text": "像是火在燒 水在沖",
+      "spelling": "tshin-tshiūnn hué teh sio tsuí teh tsâng",
+      "manual_id": "line-6:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 67.38,
+      "online_text": "找不到方法解決",
+      "match_text": "找不到方法解決",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 70.64,
+      "online_text": "是要叫我怎麼辦",
+      "match_text": "是要叫我怎麼辦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 74.95,
+      "online_text": "一顆心肝結整坨",
+      "match_text": "一顆心肝結整坨",
+      "text": "一顆心肝結整坨",
+      "spelling": "tsi̍t lia̍p sim-kuann kat kui uan",
+      "manual_id": "line-12:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 77.33,
+      "online_text": "親像是繩子綁緊緊 讓人抓緊緊",
+      "match_text": "親像是繩子綁緊緊 讓人抓緊緊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 81.29,
+      "online_text": "找不到人來幫忙",
+      "match_text": "找不到人來幫忙",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 84.06,
+      "online_text": "是要叫我怎麼辦",
+      "match_text": "是要叫我怎麼辦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 88.19,
+      "online_text": "有人為了 沒錢在煩惱",
+      "match_text": "有人為了 沒錢在煩惱",
+      "text": "有人為了 沒錢在煩惱",
+      "spelling": "ū lâng uī-tio̍h bô tshînn tī ak-tsak",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 91.51,
+      "online_text": "有人為了 情人不合煩惱",
+      "match_text": "有人為了 情人不合煩惱",
+      "text": "有人為了 情人不合煩惱",
+      "spelling": "ū lâng uī-tio̍h tsîng lâng bē ha̍h ak-tsak",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 94.73,
+      "online_text": "有人為了 工作在煩惱",
+      "match_text": "有人為了 工作在煩惱",
+      "text": "有人為了 工作在煩惱",
+      "spelling": "ū lâng uī-tio̍h khang-khuè tī ak-tsak",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 98.23,
+      "online_text": "有人為了 家庭吵架煩惱",
+      "match_text": "有人為了 家庭吵架煩惱",
+      "text": "有人為了 家庭吵架煩惱",
+      "spelling": "ū lâng uī-tio̍h tshù-lāi uan-ke ak-tsak",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 101.39,
+      "online_text": "走鐘的人生 跑衝的過程",
+      "match_text": "走鐘的人生 跑衝的過程",
+      "text": "走鐘的人生 跑衝的過程",
+      "spelling": "tsáu tsing ê lîn-sing tsáu tshiong ê kuè-tîng",
+      "manual_id": "line-33:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 107.04,
+      "online_text": "總是會有不順遂 不要讓人看不起",
+      "match_text": "總是會有不順遂 不要讓人看不起",
+      "text": "總是會有不順遂 不要讓人看不起",
+      "spelling": "tsóng-sī ē ū bô sūn-suī m̄-thang hōo lâng khuànn-bô-khí",
+      "manual_id": "line-36:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 114.76,
+      "online_text": "走鐘的人生 跑衝的過程",
+      "match_text": "走鐘的人生 跑衝的過程",
+      "text": "走鐘的人生 跑衝的過程",
+      "spelling": "tsáu tsing ê lîn-sing tsáu tshiong ê kuè-tîng",
+      "manual_id": "line-33:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 120.22,
+      "online_text": "總是會有不如意 不要白白來浪費",
+      "match_text": "總是會有不如意 不要白白來浪費",
+      "text": "總是會有不如意 不要白白來浪費",
+      "spelling": "tsóng-sī ē ū put-lû-ì m̄-thang pe̍h-pe̍h lâi lōng-huì",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 127.54,
+      "online_text": "想要哭 就大聲的哭",
+      "match_text": "想要哭 就大聲的哭",
+      "text": "想要哭 就大聲的哭",
+      "spelling": "siūnn-beh khàu tio̍h tuā-siann ka khàu",
+      "manual_id": "line-45:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 134.03,
+      "online_text": "哭完 再繼續我們的目標",
+      "match_text": "哭完 再繼續我們的目標",
+      "text": "哭完 再繼續我們的目標",
+      "spelling": "khàu-liáu tsài koh kè-sio̍k lán ê bo̍k-piau",
+      "manual_id": "line-48:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 163.87,
+      "online_text": "一顆心肝亂操操",
+      "match_text": "一顆心肝亂操操",
+      "text": "一顆心肝亂操操",
+      "spelling": "tsi̍t lia̍p sim-kuann luān tshau tshau",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 165.9,
+      "online_text": "像是火在燒 水在沖",
+      "match_text": "像是火在燒 水在沖",
+      "text": "像是火在燒 水在沖",
+      "spelling": "tshin-tshiūnn hué teh sio tsuí teh tsâng",
+      "manual_id": "line-6:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 169.44,
+      "online_text": "找不到方法解決",
+      "match_text": "找不到方法解決",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 172.75,
+      "online_text": "是要叫我怎麼辦",
+      "match_text": "是要叫我怎麼辦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 177.03,
+      "online_text": "一顆心肝結整坨",
+      "match_text": "一顆心肝結整坨",
+      "text": "一顆心肝結整坨",
+      "spelling": "tsi̍t lia̍p sim-kuann kat kui uan",
+      "manual_id": "line-12:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 179.44,
+      "online_text": "親像是繩子綁緊緊 讓人抓緊緊",
+      "match_text": "親像是繩子綁緊緊 讓人抓緊緊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 183.59,
+      "online_text": "找不到人來幫忙",
+      "match_text": "找不到人來幫忙",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 186.05,
+      "online_text": "是要叫我怎麼辦",
+      "match_text": "是要叫我怎麼辦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 190.32,
+      "online_text": "有人為了 沒錢在煩惱",
+      "match_text": "有人為了 沒錢在煩惱",
+      "text": "有人為了 沒錢在煩惱",
+      "spelling": "ū lâng uī-tio̍h bô tshînn tī ak-tsak",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 193.69,
+      "online_text": "有人為了 情人不合煩惱",
+      "match_text": "有人為了 情人不合煩惱",
+      "text": "有人為了 情人不合煩惱",
+      "spelling": "ū lâng uī-tio̍h tsîng lâng bē ha̍h ak-tsak",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 196.85,
+      "online_text": "有人為了 工作在煩惱",
+      "match_text": "有人為了 工作在煩惱",
+      "text": "有人為了 工作在煩惱",
+      "spelling": "ū lâng uī-tio̍h khang-khuè tī ak-tsak",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 200.33,
+      "online_text": "有人為了 家庭吵架煩惱",
+      "match_text": "有人為了 家庭吵架煩惱",
+      "text": "有人為了 家庭吵架煩惱",
+      "spelling": "ū lâng uī-tio̍h tshù-lāi uan-ke ak-tsak",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 203.61,
+      "online_text": "走鐘的人生 跑衝的過程",
+      "match_text": "走鐘的人生 跑衝的過程",
+      "text": "走鐘的人生 跑衝的過程",
+      "spelling": "tsáu tsing ê lîn-sing tsáu tshiong ê kuè-tîng",
+      "manual_id": "line-33:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 208.98,
+      "online_text": "總是會有不順遂 不要讓人看不起",
+      "match_text": "總是會有不順遂 不要讓人看不起",
+      "text": "總是會有不順遂 不要讓人看不起",
+      "spelling": "tsóng-sī ē ū bô sūn-suī m̄-thang hōo lâng khuànn-bô-khí",
+      "manual_id": "line-36:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 216.84,
+      "online_text": "走鐘的人生 跑衝的過程",
+      "match_text": "走鐘的人生 跑衝的過程",
+      "text": "走鐘的人生 跑衝的過程",
+      "spelling": "tsáu tsing ê lîn-sing tsáu tshiong ê kuè-tîng",
+      "manual_id": "line-33:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 222.39,
+      "online_text": "總是會有不如意 不要白白來浪費",
+      "match_text": "總是會有不如意 不要白白來浪費",
+      "text": "總是會有不如意 不要白白來浪費",
+      "spelling": "tsóng-sī ē ū put-lû-ì m̄-thang pe̍h-pe̍h lâi lōng-huì",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 229.36,
+      "online_text": "想要哭 就大聲的哭",
+      "match_text": "想要哭 就大聲的哭",
+      "text": "想要哭 就大聲的哭",
+      "spelling": "siūnn-beh khàu tio̍h tuā-siann ka khàu",
+      "manual_id": "line-45:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 236.09,
+      "online_text": "哭完 再繼續我們的目標",
+      "match_text": "哭完 再繼續我們的目標",
+      "text": "哭完 再繼續我們的目標",
+      "spelling": "khàu-liáu tsài koh kè-sio̍k lán ê bo̍k-piau",
+      "manual_id": "line-48:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "e1241dcf0d1959f4d3d1618d9150ba5929dde054e67891d140cf9094fb0240f0",
+    "manual": "f5c5fc18b27f2811f23f7bfa041f587737f80e25a3588896a630282155bd1b41",
+    "timed": "45cdb2c4e8684e974bcb8f560fb9ab29f3b59bcb9cf95fd1c4900949f03bd40c"
+  }
+}

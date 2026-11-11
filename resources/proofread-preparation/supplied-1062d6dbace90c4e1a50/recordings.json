@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 351176,
+      "title": "我若不曾爱过你",
+      "artists": [
+        "动力火车"
+      ],
+      "album": "忠孝东路走九遍",
+      "duration": 277.933,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

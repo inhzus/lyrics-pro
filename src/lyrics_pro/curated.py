@@ -21,11 +21,16 @@ class CuratedRecording:
     duration: float
     reference: str
     lyrics: Lyrics
+    title_aliases: tuple[str, ...] = ()
 
 
 def _decode_asset(payload):
     obj = json.loads(payload)
     report = obj["alignment"]
+    aliases = obj.get("title_aliases", [])
+    if (not isinstance(aliases, list) or len(aliases) > 12
+            or any(not isinstance(a, str) or not normalize(a) or len(a) > 256 for a in aliases)):
+        raise ValueError("Invalid proofread title aliases")
     reference = recording_ref(report["recording_id"])
     asset_reference = recording_ref("proofread:" + obj["id"]) if isinstance(obj["id"], str) else None
     if (obj["schema_version"] != 1 or not isinstance(obj["title"], str)
@@ -61,7 +66,7 @@ def _decode_asset(payload):
     lyrics = decode(json.dumps(dict(lines=lines, source=source, synced=True, recording_id=asset_reference,
         instrumental=False, proofread=dict(asset_id=obj["id"], revision=obj["revision"],
                                           language=obj["language"], attribution=obj["attribution"]))))
-    return CuratedRecording(obj["title"], obj["artist"], obj["album"], obj["duration"], asset_reference, lyrics)
+    return CuratedRecording(obj["title"], obj["artist"], obj["album"], obj["duration"], asset_reference, lyrics, tuple(aliases))
 
 
 @lru_cache(maxsize=1)
@@ -90,7 +95,8 @@ def _matching(track, cancelled=None):
     title = normalize(track.title)
     for recording in _recordings():
         check()
-        if title == normalize(recording.title) and abs(track.duration - recording.duration) <= 2:
+        titles = (recording.title, *recording.title_aliases)
+        if title in {normalize(t) for t in titles} and abs(track.duration - recording.duration) <= 2:
             yield recording
     check()
 

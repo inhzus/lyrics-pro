@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "song_id": 21416385,
+    "title": "深海的你",
+    "artists": [
+      "拍謝少年"
+    ],
+    "album": "No Nukes! Long Play! 不核作 - 臺灣獨立音樂反核輯",
+    "duration": 237.0,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrclib:21416385",
+      "duration": 237.0,
+      "ready": false,
+      "coverage": 0.8072289156626506,
+      "exact_fraction": 0.0,
+      "summary": {
+        "approximate": 10,
+        "unresolved": 2,
+        "gap": 1
+      }
+    }
+  ]
+}

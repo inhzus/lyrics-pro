@@ -1,0 +1,461 @@
+{
+  "schema_version": 1,
+  "id": "supplied-eb79c3ec6c794433eca6",
+  "revision": "1",
+  "title": "飛",
+  "title_aliases": [
+    "飞(Live)"
+  ],
+  "source_path": "resources/lyrics-spelling/飛-伍佰",
+  "approved": true,
+  "audio_verified": false,
+  "recording": {
+    "reference": "lrclib:16432589",
+    "title": "飛",
+    "album": "伍佰的LIVE-枉費青春",
+    "duration": 299.493333,
+    "artist": "伍佰"
+  },
+  "attribution": "User-provided transcription. 作詞：伍佰　作曲： 伍佰  台語拼音：關德樂",
+  "reason": "LRCLIB 16432589 includes the opening line and full repeated outro missing from NetEase. Preserve per-occurrence gún/guá readings and use its complete live timeline.",
+  "source_spelling_notes": [],
+  "assignments": [
+    {
+      "source_row": 0,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:0",
+        "line-3:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 1,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-6:0",
+        "line-6:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 2,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-9:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 3,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-12:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 4,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:0",
+        "line-15:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 5,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-18:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 6,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-21:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 7,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-24:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 8,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-27:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 9,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-27:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 10,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-30:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 11,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-30:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 12,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-33:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 13,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-33:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 14,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-36:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 15,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-36:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 16,
+      "kind": "gap",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 17,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-39:0",
+        "line-39:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 18,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-42:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 19,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-45:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 20,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-48:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 21,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-51:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 22,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-54:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 23,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-57:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 24,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-60:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 25,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-63:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 26,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-66:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 27,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-69:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 28,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-72:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 29,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-75:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 30,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-75:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 31,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-78:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 32,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-78:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 33,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-81:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 34,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-81:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 35,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-84:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 36,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-84:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 37,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-87:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 38,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-87:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 39,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-90:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 40,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-90:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 41,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-93:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 42,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-93:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 43,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-96:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 44,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-96:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 45,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-99:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 46,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-99:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 47,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-102:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 48,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-102:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 49,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-105:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 50,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-105:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 51,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-108:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 52,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-108:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    },
+    {
+      "source_row": 53,
+      "kind": "gap",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping and wording."
+    }
+  ],
+  "input_sha256": {
+    "original": "9b910370480e10e93b4687f0d0851b60d2c2a47c80c5bec3e1c14fdef5561ef9",
+    "manual": "fc977f0eb24ac6c535d830b05dde350c0cf6af4f498e937f6f35ba175de2b372",
+    "timed": "5f0f8408aaacc4721190e28cc3e314c10a046d462751133f941200a2d9cbd0a4"
+  }
+}

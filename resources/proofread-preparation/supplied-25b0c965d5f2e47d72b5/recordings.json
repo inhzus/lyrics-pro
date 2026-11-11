@@ -1,0 +1,93 @@
+{
+  "candidates": [
+    {
+      "song_id": 168394,
+      "title": "爱你一世人",
+      "artists": [
+        "萧煌奇"
+      ],
+      "album": "真·情·歌",
+      "duration": 255.64,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 74639,
+      "title": "爱你一世人",
+      "artists": [
+        "陈随意"
+      ],
+      "album": "爱你一世人",
+      "duration": 296.523,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3390998700,
+      "title": "爱你一世人",
+      "artists": [
+        "音妹"
+      ],
+      "album": "爱你一世人",
+      "duration": 236.756,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1965979331,
+      "title": "爱你一世人",
+      "artists": [
+        "李芊慧"
+      ],
+      "album": "李芊慧个人专辑（2）",
+      "duration": 182.143,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2610226011,
+      "title": "爱你一世人",
+      "artists": [
+        "张蓉蓉"
+      ],
+      "album": "台语KTV现场点播曲2",
+      "duration": 226.666,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 251053,
+      "title": "爱你一世人",
+      "artists": [
+        "江美丽"
+      ],
+      "album": "你不是弱者",
+      "duration": 199.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2159285606,
+      "title": "愛你一世人",
+      "artists": [
+        "邱兰芬"
+      ],
+      "album": "走马灯",
+      "duration": 164.597,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2069016078,
+      "title": "爱你一世人",
+      "artists": [
+        "玟灵"
+      ],
+      "album": "望天成全",
+      "duration": 244.237,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

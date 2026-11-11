@@ -1,7 +1,10 @@
 import Foundation
 
 enum PronunciationLanguage: String, CaseIterable, Decodable, Sendable {
-    case auto, cantonese, hokkien, original
+    case auto, cantonese, hokkien, original, supplied
+
+    // Supplied spelling is an effective backend language, never a user preference.
+    static let choices: [Self] = [.auto, .cantonese, .hokkien, .original]
 
     static let preferenceKey = "pronunciationLanguage"
     var shortLabel: String {
@@ -10,6 +13,7 @@ enum PronunciationLanguage: String, CaseIterable, Decodable, Sendable {
         case .cantonese: "Jyutping"
         case .hokkien: "Tâi-lô"
         case .original: "Original"
+        case .supplied: "Supplied"
         }
     }
     var label: String {
@@ -18,10 +22,12 @@ enum PronunciationLanguage: String, CaseIterable, Decodable, Sendable {
         case .cantonese: "Cantonese · Jyutping"
         case .hokkien: "Hokkien · Tâi-lô"
         case .original: "Original only"
+        case .supplied: "Supplied spelling"
         }
     }
     static func saved(in defaults: UserDefaults = .standard) -> Self {
-        Self(rawValue: defaults.string(forKey: preferenceKey) ?? "") ?? .auto
+        let value = Self(rawValue: defaults.string(forKey: preferenceKey) ?? "") ?? .auto
+        return choices.contains(value) ? value : .auto
     }
 }
 
@@ -73,6 +79,7 @@ struct RecordingCandidate: Decodable, Sendable, Identifiable, Equatable {
     let duration: Double
     var sourceName: String {
         if id.hasPrefix("proofread:") { return "Proofread" }
+        if id.hasPrefix("lrclib:") { return "LRCLIB" }
         return id.hasPrefix("lrcapi:") ? "LrcAPI" : "NetEase"
     }
     enum CodingKeys: String, CodingKey {
@@ -94,7 +101,7 @@ struct RecordingCandidate: Decodable, Sendable, Identifiable, Equatable {
         duration.isFinite && duration > 0
     }
     static func validReference(_ id: String) -> Bool {
-        id.count <= 220 && id.range(of: "^(netease:[1-9][0-9]*|(?:lrcapi|proofread):[A-Za-z0-9_-]{1,180})$", options: .regularExpression) != nil
+        id.count <= 220 && id.range(of: "^((?:netease|lrclib):[1-9][0-9]*|(?:lrcapi|proofread):[A-Za-z0-9_-]{1,180})$", options: .regularExpression) != nil
     }
 }
 
@@ -126,8 +133,10 @@ struct LyricUpdate: Decodable, Sendable {
 
     var isValid: Bool {
         guard requestID >= 0,
+              PronunciationLanguage.choices.contains(language),
               (selectionRevision ?? 0) >= 0,
-              selectedLanguage == nil || selectedLanguage == .cantonese || selectedLanguage == .hokkien else { return false }
+              selectedLanguage == nil || selectedLanguage == .cantonese || selectedLanguage == .hokkien ||
+              (selectedLanguage == .supplied && (lyrics == nil || lyrics?.proofread?.language == "supplied")) else { return false }
         if let lyrics {
             guard lyrics.recordingID == nil || RecordingCandidate.validReference(lyrics.recordingID!) else { return false }
             guard lyrics.lines.allSatisfy({ $0.time == nil || $0.time!.isFinite }) else { return false }

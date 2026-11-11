@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 353088,
+      "title": "农出来",
+      "artists": [
+        "打狗乱歌团"
+      ],
+      "album": "大员一家农出来",
+      "duration": 296.0,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

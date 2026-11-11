@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 39224836,
+    "title": "老厝边",
+    "artists": [
+      "台客电力公司"
+    ],
+    "album": "老厝边",
+    "duration": 222.403,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:39224836",
+      "duration": 222.403,
+      "ready": false,
+      "coverage": 0.30158730158730157,
+      "exact_fraction": 0.07936507936507936,
+      "summary": {
+        "credit": 2,
+        "unresolved": 44,
+        "approximate": 14,
+        "exact": 5
+      }
+    }
+  ]
+}

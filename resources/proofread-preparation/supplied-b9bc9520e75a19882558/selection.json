@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "song_id": "1444719877",
+    "title": "老情歌",
+    "artists": [
+      "江蕙"
+    ],
+    "album": "爱作梦的鱼",
+    "duration": 254.76,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1444719877",
+      "duration": 254.76,
+      "ready": false,
+      "coverage": 0.29411764705882354,
+      "exact_fraction": 0.29411764705882354,
+      "summary": {
+        "exact": 2,
+        "repeat": 8,
+        "unresolved": 24
+      }
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "夭壽你夭壽可愛 我歹勢予人知",
+      "spelling": "iáu-siū lí iáu-siū khó-ài  guá pháinn-sè hōo-lâng tsai",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "規个城市攏是新的色彩",
+      "spelling": "kui-ê siânn-tshī lóng sī sin ê sik-tshái",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "春風 春風吹來 我滿心的期待",
+      "spelling": "tshun-hong  tshun-hong tshue lâi guá muá-sim ê kî-thāi",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "希望會當佮你談戀愛",
+      "spelling": "hi-bāng ē tang kah lí tâm luân-ài",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "我袂䆀 請你斟酌考慮看覓",
+      "spelling": "guá bē-bái  tshiánn lí tsim-tsiok khó-lū khuànn-māi",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "我袂䆀 試過一改你就知",
+      "spelling": "guá bē-bái  tshì kuè tsi̍t kái lí tio̍h tsai",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "我的心內吹著風颱",
+      "spelling": "guá ê sim-lāi tshue tio̍h hong-thai",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "你應該試看覓",
+      "spelling": "lí ing-kai tshì khuànn-māi",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "行入來 行入我起痟的世界",
+      "spelling": "kiânn li̍p lâi kiânn li̍p guá khí-siáu ê sè-kài",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "等待 我一直等待 等無你的愛",
+      "spelling": "tán-thāi  guá it-ti̍t tán-thāi  tán bô lí ê ài",
+      "source_lines": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "規个城市漸漸失去色彩",
+      "spelling": "kui-ê siânn-tshī tsiām tsiām sit-khì sik-tshái",
+      "source_lines": [
+        38,
+        39
+      ]
+    },
+    {
+      "id": "line-41",
+      "text": "冷風 一直吹來 我感覺著悲哀",
+      "spelling": "líng-hong it-ti̍t tshue lâi guá kám-kak tio̍h pi-ai",
+      "source_lines": [
+        41,
+        42
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "孤單的我猶是無人愛",
+      "spelling": "koo-tuann ê guá iáu sī bô-lâng ài",
+      "source_lines": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "若無妳 性命較長也無彩",
+      "spelling": "ná bô lí sìnn-miā khah tn̂g iā bô-tshái",
+      "source_lines": [
+        47,
+        48
+      ]
+    },
+    {
+      "id": "line-50",
+      "text": "若有妳 我就袂閣烏白來",
+      "spelling": "ná ū lí  guá tio̍h buē koh oo-pe̍h lâi",
+      "source_lines": [
+        50,
+        51
+      ]
+    },
+    {
+      "id": "line-53",
+      "text": "雖然我看起來真歹 你應該試看覓",
+      "spelling": "sui-liân guá khuànn khí-lâi tsin pháinn  lí ing-kai tshì khuànn-māi",
+      "source_lines": [
+        53,
+        54
+      ]
+    },
+    {
+      "id": "line-56",
+      "text": "行入來 行入我起痟的世界",
+      "spelling": "kiânn li̍p lâi kiânn li̍p guá khí-siáu ê sè-kài",
+      "source_lines": [
+        56,
+        57
+      ]
+    },
+    {
+      "id": "line-59",
+      "text": "雖然我看起來真歹 你應該試看覓",
+      "spelling": "sui-liân guá khuànn khai lâi tsin pháinn  lí ing-kai tshì khuànn-māi",
+      "source_lines": [
+        59,
+        60
+      ]
+    },
+    {
+      "id": "line-62",
+      "text": "行入來 行入我起痟的世界",
+      "spelling": "kiânn li̍p lâi kiânn li̍p guá khí-siáu ê sè-kài",
+      "source_lines": [
+        62,
+        63
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：楊大正   作曲：楊大正  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:30,31",
+    "ambiguous_pair:31,32",
+    "ambiguous_pair:32,33",
+    "ambiguous_pair:33,35",
+    "ambiguous_pair:65,66",
+    "ambiguous_pair:66,67",
+    "ambiguous_pair:67,68",
+    "conflicting_spellings_for_repeated_text",
+    "unpaired_line:68"
+  ]
+}

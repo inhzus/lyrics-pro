@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 386860,
+    "title": "雨眠",
+    "artists": [
+      "五月天"
+    ],
+    "album": "爱情万岁",
+    "duration": 222.773,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:386860",
+      "duration": 222.773,
+      "ready": false,
+      "coverage": 0.6825396825396826,
+      "exact_fraction": 0.6507936507936508,
+      "summary": {
+        "credit": 3,
+        "unresolved": 20,
+        "repeat": 37,
+        "approximate": 2,
+        "exact": 4
+      }
+    }
+  ]
+}

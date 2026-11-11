@@ -1,0 +1,374 @@
+{
+  "recording_id": "lrcapi:1445521667",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E6%8E%A2%E6%88%88%E6%8E%A2%E6%88%88&artist=%E6%B1%9F%E8%95%99&album=%E5%BD%93%E6%97%B6%E6%AC%B2%E5%AB%81#1445521667",
+  "manual_source": "User-supplied resources/lyrics-spelling/探戈探戈-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "unresolved": 24
+  },
+  "review_row_count": 24,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-28:0",
+    "line-37:0",
+    "line-40:0"
+  ],
+  "unused_repeat_ids": [
+    "line-13:0",
+    "line-16:0",
+    "line-31:0",
+    "line-34:0",
+    "line-43:0",
+    "line-46:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 23.68,
+      "online_text": "你甘知这是什麼警报",
+      "match_text": "你甘知这是什麼警报",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 1,
+      "time": 26.44,
+      "online_text": "哪会害彼多人心狂火著",
+      "match_text": "哪会害彼多人心狂火著",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 2,
+      "time": 30.99,
+      "online_text": "是一段上美妙的探戈",
+      "match_text": "是一段上美妙的探戈",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 3,
+      "time": 34.13,
+      "online_text": "探戈 咱拢袂生疏",
+      "match_text": "探戈 咱拢袂生疏",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 4,
+      "time": 37.84,
+      "online_text": "情爱是每个人上惊的功课",
+      "match_text": "情爱是每个人上惊的功课",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 5,
+      "time": 42.08,
+      "online_text": "所以才需要双人做阵来学",
+      "match_text": "所以才需要双人做阵来学",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 6,
+      "time": 46.25,
+      "online_text": "两个人会当斗阵必有缘",
+      "match_text": "两个人会当斗阵必有缘",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 7,
+      "time": 49.33,
+      "online_text": "故 卡紧向大家宣布",
+      "match_text": "故 卡紧向大家宣布",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 8,
+      "time": 53.93,
+      "online_text": "啊～探戈 虽然是有时点",
+      "match_text": "啊～探戈 虽然是有时点",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 58.88,
+      "online_text": "头 有时摇头 无奈何",
+      "match_text": "头 有时摇头 无奈何",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 61.55,
+      "online_text": "啊～探戈 爱就是",
+      "match_text": "啊～探戈 爱就是",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 65.55,
+      "online_text": "互相痛疼 互相爱慕",
+      "match_text": "互相痛疼 互相爱慕",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 84.97,
+      "online_text": "你甘知这是什麼信号",
+      "match_text": "你甘知这是什麼信号",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-19:0"
+    },
+    {
+      "source_row": 13,
+      "time": 88.02,
+      "online_text": "哪会害彼多人嘴笑目笑",
+      "match_text": "哪会害彼多人嘴笑目笑",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-19:0"
+    },
+    {
+      "source_row": 14,
+      "time": 92.31,
+      "online_text": "像一段上奥妙的探戈",
+      "match_text": "像一段上奥妙的探戈",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-22:0"
+    },
+    {
+      "source_row": 15,
+      "time": 95.61,
+      "online_text": "探戈 甜蜜的招呼",
+      "match_text": "探戈 甜蜜的招呼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-22:0"
+    },
+    {
+      "source_row": 16,
+      "time": 99.64,
+      "online_text": "情爱是两个人上水的错误",
+      "match_text": "情爱是两个人上水的错误",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-25:0"
+    },
+    {
+      "source_row": 17,
+      "time": 104.16,
+      "online_text": "千万种考验才来变成钻石",
+      "match_text": "千万种考验才来变成钻石",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-25:0"
+    },
+    {
+      "source_row": 18,
+      "time": 107.52,
+      "online_text": "期待咱行过过去彼段风",
+      "match_text": "期待咱行过过去彼段风",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-28:0"
+    },
+    {
+      "source_row": 19,
+      "time": 111.02,
+      "online_text": "雨 换来是一种骄傲",
+      "match_text": "雨 换来是一种骄傲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-28:0"
+    },
+    {
+      "source_row": 20,
+      "time": 115.43,
+      "online_text": "啊～探戈 两个人有时前",
+      "match_text": "啊～探戈 两个人有时前",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-37:0"
+    },
+    {
+      "source_row": 21,
+      "time": 135.61,
+      "online_text": "进 有时退后 相让步",
+      "match_text": "进 有时退后 相让步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-37:0"
+    },
+    {
+      "source_row": 22,
+      "time": 138.57,
+      "online_text": "啊～探戈 爱需要",
+      "match_text": "啊～探戈 爱需要",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-40:0"
+    },
+    {
+      "source_row": 23,
+      "time": 142.72,
+      "online_text": "互相体贴 互相照顾",
+      "match_text": "互相体贴 互相照顾",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-40:0"
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "dd0cc89302992449554e64f763021341bbed609a27ae260fc6efe817356ace04",
+    "manual": "1b8620eb8ea5b64eb7c1752c0b1a1ba689d2d93991b7ad662ed3cb2300e1860c",
+    "timed": "dd27a2f98a40adda2a11a2f2c78560d1e4ff213a29885c9ce5aefd41ac39ccad"
+  }
+}

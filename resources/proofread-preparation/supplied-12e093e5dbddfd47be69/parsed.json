@@ -1,0 +1,284 @@
+{
+  "blocks": [
+    {
+      "id": "line-5",
+      "text": "海鷗（鴎）展翅高迴遠飛                           直直召喚阮綴伊遠洋",
+      "spelling": "kamome thián-si̍t ko huê uán hui        ti̍t-ti̍t tiàu-huàn gún tuè i uán-iûnn",
+      "source_lines": [
+        5,
+        6
+      ],
+      "parts": [
+        {
+          "text": "海鷗（鴎）展翅高迴遠飛",
+          "spelling": "kamome thián-si̍t ko huê uán hui"
+        },
+        {
+          "text": "直直召喚阮綴伊遠洋",
+          "spelling": "ti̍t-ti̍t tiàu-huàn gún tuè i uán-iûnn"
+        }
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "赤日一逝一逝的光芒                                        放送出 男兒志氣萬丈",
+      "spelling": "tshiah ji̍t tsi̍t-tsuā tsi̍t-tsuā ê kong-bông    hòng-sàng tshut  lâm-jî tsì-khì bān tiōng",
+      "source_lines": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "海鷗（鴎）展翅展翅高迴遠飛                   直直召喚阮綴伊遠洋",
+      "spelling": "kamome thián-si̍t ko huê uán hui        ti̍t-ti̍t tiàu-huàn gún tuè i uán-iûnn",
+      "source_lines": [
+        11,
+        12
+      ],
+      "parts": [
+        {
+          "text": "海鷗（鴎）展翅展翅高迴遠飛",
+          "spelling": "kamome thián-si̍t ko huê uán hui"
+        },
+        {
+          "text": "直直召喚阮綴伊遠洋",
+          "spelling": "ti̍t-ti̍t tiàu-huàn gún tuè i uán-iûnn"
+        }
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "赤日一逝一逝的光芒                                        放送出 男兒志氣萬丈",
+      "spelling": "tshiah ji̍t tsi̍t-tsuā tsi̍t-tsuā ê kong-bông    hòng-sàng tshut  lâm-jî tsì-khì bān tiōng",
+      "source_lines": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "line-17",
+      "text": "穿過軍衫 穿過皮肉                                               染血軍徽安佇靈魂頂",
+      "spelling": "tshng-kuè kun sann  tshng-kuè phuê-bah    ní hueh kun hui an tī lîng-hûn tíng",
+      "source_lines": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "line-20",
+      "text": "伴白雲 戴青天                                           戰旗高掛",
+      "spelling": "phuānn pe̍h-hûn  tì tshing-thian        tsiàn kî ko-kuà",
+      "source_lines": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "大港起風湧                                     堂堂男兒欲出征",
+      "spelling": "tuā-káng khí-hong íng                tông-tông lâm-jî beh tshut-tsing",
+      "source_lines": [
+        23,
+        24
+      ],
+      "parts": [
+        {
+          "text": "大港起風湧",
+          "spelling": "tuā-káng khí-hong íng"
+        },
+        {
+          "text": "堂堂男兒欲出征",
+          "spelling": "tông-tông lâm-jî beh tshut-tsing"
+        }
+      ]
+    },
+    {
+      "id": "line-26",
+      "text": "氣勢撼動高雄                                 齊開向你我前程",
+      "spelling": "khì-sè hám tāng takao                tsê khai hiòng lí guá tsiân-tîng",
+      "source_lines": [
+        26,
+        27
+      ],
+      "parts": [
+        {
+          "text": "氣勢撼動高雄",
+          "spelling": "khì-sè hám tāng takao"
+        },
+        {
+          "text": "齊開向你我前程",
+          "spelling": "tsê khai hiòng lí guá tsiân-tîng"
+        }
+      ]
+    },
+    {
+      "id": "line-29",
+      "text": "大港起風湧                                     堂堂男兒欲出征",
+      "spelling": "tuā-káng khí-hong íng                tông-tông lâm-jî beh tshut-tsing",
+      "source_lines": [
+        29,
+        30
+      ],
+      "parts": [
+        {
+          "text": "大港起風湧",
+          "spelling": "tuā-káng khí-hong íng"
+        },
+        {
+          "text": "堂堂男兒欲出征",
+          "spelling": "tông-tông lâm-jî beh tshut-tsing"
+        }
+      ]
+    },
+    {
+      "id": "line-32",
+      "text": "氣勢撼動高雄                                  齊開向你我前程",
+      "spelling": "khì-sè hám tōng takao                tsê khai hiòng lí guá tsiân-tîng",
+      "source_lines": [
+        32,
+        33
+      ],
+      "parts": [
+        {
+          "text": "氣勢撼動高雄",
+          "spelling": "khì-sè hám tōng takao"
+        },
+        {
+          "text": "齊開向你我前程",
+          "spelling": "tsê khai hiòng lí guá tsiân-tîng"
+        }
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "妳佇港邊相送                              淚眼咧看阮的船影",
+      "spelling": "lí tī káng-pinn sio-sàng            luī gán leh khuànn guán ê tsûn iánn",
+      "source_lines": [
+        35,
+        36
+      ],
+      "parts": [
+        {
+          "text": "妳佇港邊相送",
+          "spelling": "lí tī káng-pinn sio-sàng"
+        },
+        {
+          "text": "淚眼咧看阮的船影",
+          "spelling": "luī gán leh khuànn guán ê tsûn iánn"
+        }
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "請等待我凱旋轉來                                              繼續咱未圓的夢",
+      "spelling": "tshiánn tán-thāi guá khái-suân tńg-lâi        kè-sio̍k lán bē uân ê bāng",
+      "source_lines": [
+        38,
+        39
+      ],
+      "parts": [
+        {
+          "text": "請等待我凱旋轉來",
+          "spelling": "tshiánn tán-thāi guá khái-suân tńg-lâi"
+        },
+        {
+          "text": "繼續咱未圓的夢",
+          "spelling": "kè-sio̍k lán bē uân ê bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-41",
+      "text": "大港起風湧                                     堂堂男兒欲出征",
+      "spelling": "tuā-káng khí-hong íng                tông-tông lâm-jî beh tshut-tsing",
+      "source_lines": [
+        41,
+        42
+      ],
+      "parts": [
+        {
+          "text": "大港起風湧",
+          "spelling": "tuā-káng khí-hong íng"
+        },
+        {
+          "text": "堂堂男兒欲出征",
+          "spelling": "tông-tông lâm-jî beh tshut-tsing"
+        }
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "氣勢撼動高雄                                 齊開向你我前程",
+      "spelling": "khì-sè hám tōng takao                tsê khai hiòng lí guá tsiân-tîng",
+      "source_lines": [
+        44,
+        45
+      ],
+      "parts": [
+        {
+          "text": "氣勢撼動高雄",
+          "spelling": "khì-sè hám tōng takao"
+        },
+        {
+          "text": "齊開向你我前程",
+          "spelling": "tsê khai hiòng lí guá tsiân-tîng"
+        }
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "大港起風湧                                     堂堂男兒欲出征",
+      "spelling": "tuā-káng khí-hong íng                tông-tông lâm-jî beh tshut-tsing",
+      "source_lines": [
+        47,
+        48
+      ],
+      "parts": [
+        {
+          "text": "大港起風湧",
+          "spelling": "tuā-káng khí-hong íng"
+        },
+        {
+          "text": "堂堂男兒欲出征",
+          "spelling": "tông-tông lâm-jî beh tshut-tsing"
+        }
+      ]
+    },
+    {
+      "id": "line-50",
+      "text": "氣勢撼動高雄                                 齊開向你我前程",
+      "spelling": "khì-sè hám tōng takao                tsê khai hiòng lí guá tsiân-tîng",
+      "source_lines": [
+        50,
+        51
+      ],
+      "parts": [
+        {
+          "text": "氣勢撼動高雄",
+          "spelling": "khì-sè hám tōng takao"
+        },
+        {
+          "text": "齊開向你我前程",
+          "spelling": "tsê khai hiòng lí guá tsiân-tîng"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：閃靈   作曲：閃靈  台語拼音：關德樂"
+    }
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "text": "Note:  Words in italics are in Japanese."
+    }
+  ],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text",
+    "source_note_requires_review:3"
+  ]
+}

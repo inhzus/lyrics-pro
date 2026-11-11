@@ -1,0 +1,30 @@
+{
+  "selected": {
+    "song_id": 28528284,
+    "title": "感谢你爱我",
+    "artists": [
+      "萧煌奇"
+    ],
+    "album": "上水的花",
+    "duration": 300.866,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:28528284",
+      "duration": 300.866,
+      "ready": false,
+      "coverage": 0.7948717948717948,
+      "exact_fraction": 0.6410256410256411,
+      "summary": {
+        "credit": 2,
+        "unresolved": 8,
+        "gap": 8,
+        "exact": 7,
+        "approximate": 6,
+        "repeat": 18
+      }
+    }
+  ]
+}

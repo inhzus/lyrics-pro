@@ -1,0 +1,57 @@
+{
+  "selected": {
+    "song_id": 156594,
+    "title": "点烟",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "爱你伍佰年",
+    "duration": 340.985,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "netease:156594",
+      "duration": 340.985,
+      "ready": false,
+      "coverage": 0.6769911504424779,
+      "exact_fraction": 0.25,
+      "summary": {
+        "credit": 3,
+        "repeat": 2,
+        "approximate": 14,
+        "unresolved": 7,
+        "exact": 5
+      }
+    },
+    {
+      "recording_id": "netease:156992",
+      "duration": 340.985,
+      "ready": false,
+      "coverage": 0.6769911504424779,
+      "exact_fraction": 0.25,
+      "summary": {
+        "credit": 3,
+        "repeat": 2,
+        "approximate": 14,
+        "unresolved": 7,
+        "exact": 5
+      }
+    },
+    {
+      "recording_id": "netease:28274207",
+      "duration": 340.466,
+      "ready": false,
+      "coverage": 0.6769911504424779,
+      "exact_fraction": 0.23333333333333334,
+      "summary": {
+        "credit": 3,
+        "unresolved": 9,
+        "repeat": 2,
+        "approximate": 14,
+        "exact": 5
+      }
+    }
+  ]
+}

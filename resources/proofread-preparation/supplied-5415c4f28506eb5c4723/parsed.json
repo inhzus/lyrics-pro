@@ -1,0 +1,311 @@
+{
+  "blocks": [
+    {
+      "id": "line-5",
+      "text": "自古啊英雄難過美人關 正在打江山",
+      "spelling": "tsū-kóo ah ing-hiông lân-kuè bí-jîn kuan tng-teh phah kang-san",
+      "source_lines": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "有時啊嘛要來休喘",
+      "spelling": "ū-sî ah mā tio̍h lâi hioh tshuán",
+      "source_lines": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "換帖的三八朋友啊 講欲介紹他結拜",
+      "spelling": "uānn-thiap ê sam-pat pîng-iú ah kóng beh kài-siāu in kiat-pài",
+      "source_lines": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "想欲帶阮來 查埔人的好所在",
+      "spelling": "siūnn-beh tuà gún lâi tsa-poo-lâng ê hó sóo-tsāi",
+      "source_lines": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "line-17",
+      "text": "拜託汝麥乎阮某知 講阮出差還袂返來",
+      "spelling": "pài-thok lí mài hōo gún bóo tsai kóng guá tshut-tshai iáu-buē tńg-lâi",
+      "source_lines": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "line-20",
+      "text": "趁今嘛外頭還沒作風颱 汝緊駛車甲來我載",
+      "spelling": "thàn tsit-má guā-khâu iáu-buē tsuè fong-thai lí kín sái-tshia kah lâi guá tsài",
+      "source_lines": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "燒酒飲落開始搖 有影肖豬哥",
+      "spelling": "sio-tsiú lim lo̍h khai-sí iô ū iánn siàu ti-ko",
+      "source_lines": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "line-26",
+      "text": "小姐攏會陪你笑 我愛你也有",
+      "spelling": "sió-tsiá lóng ē puê lí tshiò wǒ ài nǐ yěyǒu",
+      "source_lines": [
+        26,
+        27
+      ]
+    },
+    {
+      "id": "line-29",
+      "text": "甘攏係酒精控制 感情躲相找",
+      "spelling": "kam lóng sī tsiú tsing khòng-tsè kám-tsîng bih sio-tshuē",
+      "source_lines": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "line-32",
+      "text": "暈船暈甲憨憨踅 欲飛去叨",
+      "spelling": "hîn tsûn hîn kah gōng gōng se̍h bē pue khì tue",
+      "source_lines": [
+        32,
+        33
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "自古啊英雄難過美人關 在這半年之間",
+      "spelling": "tsū-kóo ah ing-hiông lân-kuè bí-jîn kuan tī tse puànn-nî tsi-kan",
+      "source_lines": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "私稼竟然花乎完完",
+      "spelling": "sái ka kìng-jiân khai hōo uân uân",
+      "source_lines": [
+        38,
+        39
+      ]
+    },
+    {
+      "id": "line-41",
+      "text": "么壽的三八朋友啊 麥擱講汝係阮結拜",
+      "spelling": "io siū ê sam-pat pîng-iú ah mài kóng lí sī gún kiat-pài",
+      "source_lines": [
+        41,
+        42
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "萬不該 這下若咧騙阿財",
+      "spelling": "bān put-kai tsit-siánn ná leh pián ah tsâi",
+      "source_lines": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "拜託汝麥乎阮某知 講係最近景氣卡歹",
+      "spelling": "pài-thok lí mài hōo gún bóo tsai kóng sī tsuè-kīn kíng-khì khá pháinn",
+      "source_lines": [
+        47,
+        48
+      ]
+    },
+    {
+      "id": "line-50",
+      "text": "清醒的時袸知影不應該 電話接到嘛係擱來",
+      "spelling": "tshing-tshénn ê sî tsûn tsai-iánn put-ing-kai tiān-uē tsiap-tio̍h mā sī koh lâi",
+      "source_lines": [
+        50,
+        51
+      ]
+    },
+    {
+      "id": "line-53",
+      "text": "燒酒飲落開始搖 有影肖豬哥",
+      "spelling": "sio-tsiú lim lo̍h khai-sí iô ū iánn siàu ti-ko",
+      "source_lines": [
+        53,
+        54
+      ]
+    },
+    {
+      "id": "line-56",
+      "text": "小姐攏會陪你笑 我愛你也有",
+      "spelling": "sió-tsiá lóng ē puê lí tshiò wǒ ài nǐ yěyǒu",
+      "source_lines": [
+        56,
+        57
+      ]
+    },
+    {
+      "id": "line-59",
+      "text": "甘攏係酒精控制 嘸只我一個",
+      "spelling": "kam lóng sī tsiú tsing khòng-tsè m̄ ná guá tsi̍t ê",
+      "source_lines": [
+        59,
+        60
+      ]
+    },
+    {
+      "id": "line-62",
+      "text": "花光光嘛無問題",
+      "spelling": "khai-liáu-liáu mā bô-būn-tê",
+      "source_lines": [
+        62,
+        63
+      ]
+    },
+    {
+      "id": "line-65",
+      "text": "燒酒飲落開始搖 有影肖豬哥",
+      "spelling": "sio-tsiú lim lo̍h khai-sí iô ū iánn siàu ti-ko",
+      "source_lines": [
+        65,
+        66
+      ]
+    },
+    {
+      "id": "line-68",
+      "text": "小姐攏微微啊笑 想天長地久",
+      "spelling": "sió-tsiá lóng bî-bî-á tshiò xiǎng tiānchángdìjiǔ",
+      "source_lines": [
+        68,
+        69
+      ]
+    },
+    {
+      "id": "line-71",
+      "text": "甘講係頂世人的 感情躲相找",
+      "spelling": "kam kóng sī tíng sì-lâng ê kám-tsîng bih sio-tshuē",
+      "source_lines": [
+        71,
+        72
+      ]
+    },
+    {
+      "id": "line-74",
+      "text": "暈船暈甲憨憨轉 欲飛去叨",
+      "spelling": "hîn tsûn hîn kah gōng gōng se̍h bē pue khì tue",
+      "source_lines": [
+        74,
+        75
+      ]
+    },
+    {
+      "id": "line-77",
+      "text": "老闆好",
+      "spelling": "lǎobǎn hǎo",
+      "source_lines": [
+        77,
+        78
+      ]
+    },
+    {
+      "id": "line-80",
+      "text": "燒酒飲落開始搖 有影肖豬哥",
+      "spelling": "sio-tsiú lim lo̍h khai-sí iô ū iánn siàu ti-ko",
+      "source_lines": [
+        80,
+        81
+      ]
+    },
+    {
+      "id": "line-83",
+      "text": "小姐攏會陪你笑 我愛你也有",
+      "spelling": "sió-tsiá lóng ē puê lí tshiò wǒ ài nǐ yěyǒu",
+      "source_lines": [
+        83,
+        84
+      ]
+    },
+    {
+      "id": "line-86",
+      "text": "甘攏係酒精控制 嘸只我一個",
+      "spelling": "kam lóng sī tsiú tsing khòng-tsè m̄ ná guá tsi̍t ê",
+      "source_lines": [
+        86,
+        87
+      ]
+    },
+    {
+      "id": "line-89",
+      "text": "車畚斗嘛無問題",
+      "spelling": "tshia-pùn-táu mā bô-būn-tê",
+      "source_lines": [
+        89,
+        90
+      ]
+    },
+    {
+      "id": "line-92",
+      "text": "燒酒飲落開始搖 有影肖豬哥",
+      "spelling": "sio-tsiú lim lo̍h khai-sí iô ū iánn siàu ti-ko",
+      "source_lines": [
+        92,
+        93
+      ]
+    },
+    {
+      "id": "line-95",
+      "text": "小姐攏微微啊笑 想天長地久",
+      "spelling": "sió-tsiá lóng bî-bî-á tshiò xiǎng tiānchángdìjiǔ",
+      "source_lines": [
+        95,
+        96
+      ]
+    },
+    {
+      "id": "line-98",
+      "text": "甘講係頂世人的 感情躲相找",
+      "spelling": "kam kóng sī tíng sì-lâng ê kám-tsîng bih sio-tshuē",
+      "source_lines": [
+        98,
+        99
+      ]
+    },
+    {
+      "id": "line-101",
+      "text": "暈船暈甲憨憨轉 欲飛去叨",
+      "spelling": "hîn tsûn hîn kah gōng gōng se̍h bē pue khì tue",
+      "source_lines": [
+        101,
+        102
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：柯大堡 作曲：柯大堡 台羅歌詞：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:3,5"
+  ]
+}

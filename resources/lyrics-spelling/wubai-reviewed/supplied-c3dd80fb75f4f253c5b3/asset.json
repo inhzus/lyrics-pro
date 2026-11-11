@@ -1,0 +1,452 @@
+{
+  "schema_version": 1,
+  "id": "supplied-c3dd80fb75f4f253c5b3",
+  "revision": "1",
+  "title": "台灣製造",
+  "title_aliases": [],
+  "artist": "伍佰 & China Blue",
+  "album": "双面人",
+  "duration": 218.373,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:156513",
+    "timing_source": "NetEase https://music.163.com/song?id=156513",
+    "manual_source": "resources/lyrics-spelling/台灣製造-伍佰",
+    "audio_verified": false,
+    "agent_review": "The source note describes mixed-language spelling. At 01:14.940 use supplied 每間 for the building verse, not the provider's repeated 每台 from the car verse.",
+    "input_sha256": {
+      "original": "5ea0c88f69d461a01c21ac132fe4f9832f0faab9a1193fc4fbffa7a32f9398f4",
+      "manual": "8b2669e38d32230f4004a2f8d2c0c14d60f7f2fcb25a4f0903aa2141a3c4b40b",
+      "timed": "acd8d6b9b7671a511e65c8c0a68c508d2ce7c0da59a3d9cac7f9b825259acf85"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "credit": 3,
+      "exact": 30,
+      "approximate": 2
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作词 : 伍佰",
+        "status": "credit",
+        "text": "作词 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 1.0,
+        "online_text": "作曲 : 伍佰",
+        "status": "credit",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 2.0,
+        "online_text": "编曲 : 伍佰 & China Blue",
+        "status": "credit",
+        "text": "编曲 : 伍佰 & China Blue",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 26.6,
+        "online_text": "你引擎日本来   韩德鲁德国来",
+        "status": "exact",
+        "text": "你引擎日本來 韓德魯德國來",
+        "spelling": "lí iân-jín ji̍t-pún lâi hán dé lǔ tik-kok lâi",
+        "manual_id": "line-3:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 30.9,
+        "online_text": "玻璃唯南非来   阿拉伯石油来",
+        "status": "exact",
+        "text": "玻璃唯南非來 阿拉伯石油來",
+        "spelling": "po-lê uî lâm-hui lâi a lah peh tsio̍h-iû lâi",
+        "manual_id": "line-6:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 35.2,
+        "online_text": "塑胶是漳州做   车体唯美国买",
+        "status": "exact",
+        "text": "塑膠是漳州做 車體唯美國買",
+        "spelling": "sok-ka sī tsiang-tsiu tsuè tshia-thé uî bí-kok bé",
+        "manual_id": "line-9:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 39.58,
+        "online_text": "拢乎咱掺掺做伙 嘿咻嘿咻每台拢是",
+        "status": "exact",
+        "text": "攏乎咱摻摻做伙 嘿咻嘿咻每台攏是",
+        "spelling": "lóng honnh lán lām lām tsò-hué heh siuh heh siuh ta̍k tâi lóng sī",
+        "manual_id": "line-12:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 43.88,
+        "online_text": "台湾制造   台湾制造",
+        "status": "exact",
+        "text": "台灣製造 台灣製造",
+        "spelling": "tâi-uân tsè-tsō tâi-uân tsè-tsō",
+        "manual_id": "line-15:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 48.63,
+        "online_text": "随人照号   台湾制造",
+        "status": "exact",
+        "text": "隨人照號 台灣製造",
+        "spelling": "suî-lâng tsiáu hō tâi-uân tsè-tsō",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 61.89,
+        "online_text": "铜板罗西亚来   义大利太鲁来",
+        "status": "exact",
+        "text": "銅板羅西亞來 義大利太魯來",
+        "spelling": "tâng pán lô se a lâi ì-tāi-lī thài-lóo lâi",
+        "manual_id": "line-21:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 66.16,
+        "online_text": "加拿大木材来   澳洲的石啊来",
+        "status": "exact",
+        "text": "加拿大木材來 澳洲的石啊來",
+        "spelling": "ka-ná-tā bo̍k-tsâi lâi ò-tsiu ê tsio̍h ah lâi",
+        "manual_id": "line-24:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 70.539,
+        "online_text": "荷兰的红毛土   砖仔用台南土",
+        "status": "exact",
+        "text": "荷蘭的紅毛土 磚仔用台南土",
+        "spelling": "hô-lân ê âng-mn̂g thóo tsng-á iōng tâi-lâm thóo",
+        "manual_id": "line-27:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 74.94,
+        "online_text": "拢乎咱掺掺做伙   嘿咻嘿咻每台拢是",
+        "status": "approximate",
+        "text": "攏乎咱摻摻做伙 嘿咻嘿咻每間攏是",
+        "spelling": "lóng honnh lán lām lām tsò-hué heh siuh heh siuh ta̍k king lóng sī",
+        "manual_id": "line-30:0",
+        "review": [
+          "The source note describes mixed-language spelling. At 01:14.940 use supplied 每間 for the building verse, not the provider's repeated 每台 from the car verse."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 79.8,
+        "online_text": "台湾制造   台湾制造",
+        "status": "exact",
+        "text": "台灣製造 台灣製造",
+        "spelling": "tâi-uân tsè-tsō tâi-uân tsè-tsō",
+        "manual_id": "line-15:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 83.32,
+        "online_text": "随人照号   台湾制造",
+        "status": "exact",
+        "text": "隨人照號 台灣製造",
+        "spelling": "suî-lâng tsiáu hō tâi-uân tsè-tsō",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 88.3,
+        "online_text": "客话唯中原来   台语唯福建来",
+        "status": "exact",
+        "text": "客話唯中原來 台語唯福建來",
+        "spelling": "kheh-uē uî tiong-guân lâi tâi-gí uî hok-kiàn lâi",
+        "manual_id": "line-39:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 92.31,
+        "online_text": "那鲁啊依啊湾嘟用来唱歌是嘛真精彩",
+        "status": "exact",
+        "text": "那魯啊依啊灣嘟用來唱歌是嘛真精彩",
+        "spelling": "ná lǔ a yī a uan dōu iōng lâi tshiùnn kua sī mah tsin tsing-tshái",
+        "manual_id": "line-42:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 96.65,
+        "online_text": "国语是北京话   最近越南嘛有来",
+        "status": "exact",
+        "text": "國語是北京話 最近越南嘛有來",
+        "spelling": "kok-gí sī pak-kiann uē tsuè-kīn ua̍t-lâm mah ū lâi",
+        "manual_id": "line-45:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 101.28,
+        "online_text": "拢乎咱掺掺做伙 嘿咻嘿咻人人拢是",
+        "status": "exact",
+        "text": "攏乎咱摻摻做伙 嘿咻嘿咻人人攏是",
+        "spelling": "lóng honnh lán lām lām tsò-hué heh siuh heh siuh lâng lâng lóng sī",
+        "manual_id": "line-48:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 105.57,
+        "online_text": "台湾制造   台湾制造",
+        "status": "exact",
+        "text": "台灣製造 台灣製造",
+        "spelling": "tâi-uân tsè-tsō tâi-uân tsè-tsō",
+        "manual_id": "line-15:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 109.7,
+        "online_text": "台湾制造   台湾制造",
+        "status": "exact",
+        "text": "台灣製造 台灣製造",
+        "spelling": "tâi-uân tsè-tsō tâi-uân tsè-tsō",
+        "manual_id": "line-15:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 113.41,
+        "online_text": "拢总是台湾制造   台湾制造",
+        "status": "exact",
+        "text": "攏總是台灣製造 台灣製造",
+        "spelling": "lóng tsóng-sī tâi-uân tsè-tsō tâi-uân tsè-tsō",
+        "manual_id": "line-57:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 118.259,
+        "online_text": "随人照号   台湾制造",
+        "status": "exact",
+        "text": "隨人照號 台灣製造",
+        "spelling": "suî-lâng tsiáu hō tâi-uân tsè-tsō",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 122.46,
+        "online_text": "喝着一杯甘甜水   水落乌云黄昏诗",
+        "status": "exact",
+        "text": "喝著一杯甘甜水 水落烏雲黃昏詩",
+        "spelling": "lim tio̍h tsi̍t pue kam-tinn tsuí tsuí lo̍h oo-hûn hông-hun si",
+        "manual_id": "line-63:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 130.889,
+        "online_text": "风吹云来对天边   天阔四海是满满是",
+        "status": "approximate",
+        "text": "風吹雲來對天邊 天闊四海是滿滿是",
+        "spelling": "hong tshue hûn lâi tuì thinn-pinn thinn khuah sù-hái sī muá muá sī",
+        "manual_id": "line-66:0",
+        "review": [
+          "The source note describes mixed-language spelling. At 01:14.940 use supplied 每間 for the building verse, not the provider's repeated 每台 from the car verse."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 148.7,
+        "online_text": "成败   亦原在   同根树   偃未来",
+        "status": "exact",
+        "text": "成敗 亦原在 同根樹 偃未來",
+        "spelling": "sîng-pāi ia̍h guân-tsāi tông kin tshiū ián buē lâi",
+        "manual_id": "line-69:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 164.97,
+        "online_text": "是看麦   发功你着知",
+        "status": "exact",
+        "text": "是看麥 發功你著知",
+        "spelling": "tshì-khuànn-māi  huat kong lí tio̍h tsai",
+        "manual_id": "line-72:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 27,
+        "time": 171.25,
+        "online_text": "台湾制造   台湾制造",
+        "status": "exact",
+        "text": "台灣製造 台灣製造",
+        "spelling": "tâi-uân tsè-tsō tâi-uân tsè-tsō",
+        "manual_id": "line-15:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 28,
+        "time": 175.28,
+        "online_text": "台湾制造   台湾制造",
+        "status": "exact",
+        "text": "台灣製造 台灣製造",
+        "spelling": "tâi-uân tsè-tsō tâi-uân tsè-tsō",
+        "manual_id": "line-15:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 29,
+        "time": 179.17,
+        "online_text": "拢总是台湾制造   台湾制造",
+        "status": "exact",
+        "text": "攏總是台灣製造 台灣製造",
+        "spelling": "lóng tsóng-sī tâi-uân tsè-tsō tâi-uân tsè-tsō",
+        "manual_id": "line-57:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 30,
+        "time": 183.92,
+        "online_text": "随人照号   台湾制造",
+        "status": "exact",
+        "text": "隨人照號 台灣製造",
+        "spelling": "suî-lâng tsiáu hō tâi-uân tsè-tsō",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 31,
+        "time": 197.43,
+        "online_text": "台南制造   高雄制造",
+        "status": "exact",
+        "text": "台南製造 高雄製造",
+        "spelling": "tâi-lâm tsè-tsō ko-hiông tsè-tsō",
+        "manual_id": "line-87:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 32,
+        "time": 201.44,
+        "online_text": "屏东制造   南投制造",
+        "status": "exact",
+        "text": "屏東製造 南投製造",
+        "spelling": "pîn-tong tsè-tsō lâm-tâu tsè-tsō",
+        "manual_id": "line-90:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 33,
+        "time": 205.75,
+        "online_text": "台北制造   澎湖制造",
+        "status": "exact",
+        "text": "台北製造 澎湖製造",
+        "spelling": "tâi-pak tsè-tsō phênn-ôo tsè-tsō",
+        "manual_id": "line-93:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 34,
+        "time": 209.66,
+        "online_text": "拢总是台湾制造   台湾制造",
+        "status": "exact",
+        "text": "攏總是台灣製造 台灣製造",
+        "spelling": "lóng tsóng-sī tâi-uân tsè-tsō tâi-uân tsè-tsō",
+        "manual_id": "line-57:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      }
+    ]
+  }
+}

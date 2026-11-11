@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "song_id": "1461735108",
+    "title": "无眠",
+    "artists": [
+      "苏打绿"
+    ],
+    "album": "夏 / 狂热",
+    "duration": 226.453,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1461735108",
+      "duration": 226.453,
+      "ready": false,
+      "coverage": 0.9625668449197861,
+      "exact_fraction": 0.9565217391304348,
+      "summary": {
+        "repeat": 39,
+        "exact": 5,
+        "approximate": 2
+      }
+    }
+  ]
+}

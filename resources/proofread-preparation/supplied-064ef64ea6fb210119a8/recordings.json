@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": "840578234",
+      "title": "乐介烧",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "十一台",
+      "duration": 246.733,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

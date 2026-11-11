@@ -1,0 +1,819 @@
+{
+  "recording_id": "netease:168380",
+  "timing_source": "NetEase https://music.163.com/song?id=168380",
+  "manual_source": "User-supplied resources/lyrics-spelling/好啦好啦-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "approximate": 1,
+    "unresolved": 41,
+    "exact": 2,
+    "gap": 12,
+    "repeat": 2
+  },
+  "review_row_count": 42,
+  "unmatched_manual_ids": [
+    "line-6:0",
+    "line-15:0",
+    "line-18:0",
+    "line-36:0",
+    "line-39:0",
+    "line-54:0",
+    "line-57:0",
+    "line-63:0",
+    "line-66:0"
+  ],
+  "unused_repeat_ids": [
+    "line-21:0",
+    "line-24:0",
+    "line-27:0",
+    "line-30:0",
+    "line-42:0",
+    "line-45:0",
+    "line-48:0",
+    "line-51:0",
+    "line-60:0",
+    "line-69:0",
+    "line-72:0",
+    "line-75:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 萧煌奇",
+      "match_text": "作词 : 萧煌奇",
+      "text": "作词 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 20.71,
+      "online_text": "每一人心中总有一个梦",
+      "match_text": "每一人心中总有一个梦",
+      "text": "每一人心中總有一個夢",
+      "spelling": "muí tsi̍t lâng sim-tiong tsóng ū tsi̍t ê bāng",
+      "manual_id": "line-3:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 3,
+      "time": 24.04,
+      "online_text": "相信你的美梦甲我",
+      "match_text": "相信你的美梦甲我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-6:0"
+    },
+    {
+      "source_row": 4,
+      "time": 26.69,
+      "online_text": "可能拢总不同款",
+      "match_text": "可能拢总不同款",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-6:0"
+    },
+    {
+      "source_row": 5,
+      "time": 29.07,
+      "online_text": "把握着人生的每一天 不通放",
+      "match_text": "把握着人生的每一天 不通放",
+      "text": "把握著人生的每一天　不通放",
+      "spelling": "ka ak-tio̍h lîn-sing ê muí tsi̍t kang m̄-thang pàng",
+      "manual_id": "line-9:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 34.75,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 7,
+      "time": 37.14,
+      "online_text": "人在讲人生在世几十冬",
+      "match_text": "人在讲人生在世几十冬",
+      "text": "人在講人生在世幾十冬",
+      "spelling": "lâng te kóng lîn-sing tsāi sè kuí tsa̍p tang",
+      "manual_id": "line-12:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 40.28,
+      "online_text": "你还为着什么不甘",
+      "match_text": "你还为着什么不甘",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-15:0"
+    },
+    {
+      "source_row": 9,
+      "time": 42.85,
+      "online_text": "打工置那咧怨叹",
+      "match_text": "打工置那咧怨叹",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-15:0"
+    },
+    {
+      "source_row": 10,
+      "time": 45.33,
+      "online_text": "心内的甘苦郁卒甲悲伤 跟阮讲",
+      "match_text": "心内的甘苦郁卒甲悲伤 跟阮讲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-18:0"
+    },
+    {
+      "source_row": 11,
+      "time": 50.95,
+      "online_text": "乎阮来为你分担",
+      "match_text": "乎阮来为你分担",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-18:0"
+    },
+    {
+      "source_row": 12,
+      "time": 52.9,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 13,
+      "time": 53.6,
+      "online_text": "咱会来逗阵是有烧好香",
+      "match_text": "咱会来逗阵是有烧好香",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 58.68,
+      "online_text": "是顶世人修的缘份",
+      "match_text": "是顶世人修的缘份",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 61.6,
+      "online_text": "只要咱坚持的心袂改变",
+      "match_text": "只要咱坚持的心袂改变",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 64.98,
+      "online_text": "一切美梦就会实现",
+      "match_text": "一切美梦就会实现",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 68.97,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 18,
+      "time": 69.72,
+      "online_text": "好啦好啦 咱父母有交代唷",
+      "match_text": "好啦好啦 咱父母有交代唷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 73.7,
+      "online_text": "只要打拼就有好未来",
+      "match_text": "只要打拼就有好未来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 77.7,
+      "online_text": "这个世界充满希望甲期待",
+      "match_text": "这个世界充满希望甲期待",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 83.54,
+      "online_text": "等你甲阮作伙来",
+      "match_text": "等你甲阮作伙来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 90.07,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 23,
+      "time": 109.5,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 24,
+      "time": 110.28,
+      "online_text": "人在讲人生在世几十冬",
+      "match_text": "人在讲人生在世几十冬",
+      "text": "人在講人生在世幾十冬",
+      "spelling": "lâng te kóng lîn-sing tsāi sè kuí tsa̍p tang",
+      "manual_id": "line-12:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 113.63,
+      "online_text": "加在有你一路相挺",
+      "match_text": "加在有你一路相挺",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-36:0"
+    },
+    {
+      "source_row": 26,
+      "time": 115.9,
+      "online_text": "跟阮作阵来打拼",
+      "match_text": "跟阮作阵来打拼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-36:0"
+    },
+    {
+      "source_row": 27,
+      "time": 118.52,
+      "online_text": "搁咖大的风雨拢嘛不算啥",
+      "match_text": "搁咖大的风雨拢嘛不算啥",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-39:0"
+    },
+    {
+      "source_row": 28,
+      "time": 121.73,
+      "online_text": "有你有我 一切咱拢免惊",
+      "match_text": "有你有我 一切咱拢免惊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-39:0"
+    },
+    {
+      "source_row": 29,
+      "time": 126.2,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 30,
+      "time": 126.9,
+      "online_text": "咱会来逗阵是有烧好香",
+      "match_text": "咱会来逗阵是有烧好香",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 131.85,
+      "online_text": "是顶世人修的缘份",
+      "match_text": "是顶世人修的缘份",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 134.79,
+      "online_text": "只要咱坚持的心袂改变",
+      "match_text": "只要咱坚持的心袂改变",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 138.19,
+      "online_text": "一切美梦就会实现",
+      "match_text": "一切美梦就会实现",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 142.64,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 35,
+      "time": 143.1,
+      "online_text": "好啦好啦 神明有交代唷",
+      "match_text": "好啦好啦 神明有交代唷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 146.7,
+      "online_text": "只要打拼就有好未来",
+      "match_text": "只要打拼就有好未来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 150.83,
+      "online_text": "这个世界充满希望甲期待",
+      "match_text": "这个世界充满希望甲期待",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 156.66,
+      "online_text": "等你甲阮作伙来",
+      "match_text": "等你甲阮作伙来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 159.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 40,
+      "time": 159.7,
+      "online_text": "不论爱等外久的时间",
+      "match_text": "不论爱等外久的时间",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-54:0"
+    },
+    {
+      "source_row": 41,
+      "time": 162.75,
+      "online_text": "相信咱的梦都不是梦",
+      "match_text": "相信咱的梦都不是梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-54:0"
+    },
+    {
+      "source_row": 42,
+      "time": 167.1,
+      "online_text": "将你的手甲我的手牵紧紧",
+      "match_text": "将你的手甲我的手牵紧紧",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-57:0"
+    },
+    {
+      "source_row": 43,
+      "time": 172.79,
+      "online_text": "不通放",
+      "match_text": "不通放",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-57:0"
+    },
+    {
+      "source_row": 44,
+      "time": 176.6,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 45,
+      "time": 177.4,
+      "online_text": "好啦好啦 咱父母有交代唷",
+      "match_text": "好啦好啦 咱父母有交代唷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 181.18,
+      "online_text": "只要打拼就有好未来",
+      "match_text": "只要打拼就有好未来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 185.4,
+      "online_text": "这个世界充满希望甲期待",
+      "match_text": "这个世界充满希望甲期待",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 48,
+      "time": 192.98,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 49,
+      "time": 193.68,
+      "online_text": "好啦好啦 神明有交代唷",
+      "match_text": "好啦好啦 神明有交代唷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 50,
+      "time": 197.52,
+      "online_text": "只要打拼就有好未来",
+      "match_text": "只要打拼就有好未来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 51,
+      "time": 201.62,
+      "online_text": "这个世界充满希望甲期待",
+      "match_text": "这个世界充满希望甲期待",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-63:0"
+    },
+    {
+      "source_row": 52,
+      "time": 207.63,
+      "online_text": "等你甲阮作伙来",
+      "match_text": "等你甲阮作伙来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-63:0"
+    },
+    {
+      "source_row": 53,
+      "time": 209.5,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 54,
+      "time": 210.2,
+      "online_text": "好啦好啦 咱父母有交代唷",
+      "match_text": "好啦好啦 咱父母有交代唷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-66:0"
+    },
+    {
+      "source_row": 55,
+      "time": 213.89,
+      "online_text": "只要打拼就有好未来",
+      "match_text": "只要打拼就有好未来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-66:0"
+    },
+    {
+      "source_row": 56,
+      "time": 218.0,
+      "online_text": "这个世界充满希望甲期待",
+      "match_text": "这个世界充满希望甲期待",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 57,
+      "time": 223.74,
+      "online_text": "等你甲阮作伙来",
+      "match_text": "等你甲阮作伙来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 58,
+      "time": 229.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 59,
+      "time": 230.42,
+      "online_text": "~好啦~好啦~",
+      "match_text": "~好啦~好啦~",
+      "text": "好啦好啦",
+      "spelling": "hó-là hó-là",
+      "manual_id": "line-78:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "8b2c8967e7f53e2ffde1a310948c32e6fa8175d146cfe1169b41de701e89efce",
+    "manual": "2a7f0352ec9c30950c5978d4258fd2faf72ac4d2f3d75bc4e9be9699a9b2efe6",
+    "timed": "9a9bc420cc7434c23678c749eb301c406cd7e2ff0aa014701be12b95c953685e"
+  }
+}

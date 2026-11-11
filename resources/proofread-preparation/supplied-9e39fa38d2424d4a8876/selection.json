@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "song_id": 157174,
+    "title": "漂浪",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "树枝孤鸟",
+    "duration": 245.36,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:157174",
+      "duration": 245.36,
+      "ready": false,
+      "coverage": 0.39779005524861877,
+      "exact_fraction": 0.0,
+      "summary": {
+        "credit": 4,
+        "unresolved": 11,
+        "approximate": 11
+      }
+    }
+  ]
+}

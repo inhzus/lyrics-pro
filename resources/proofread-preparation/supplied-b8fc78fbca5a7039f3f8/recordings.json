@@ -1,0 +1,60 @@
+{
+  "candidates": [
+    {
+      "song_id": "1186275608",
+      "title": "对我打",
+      "artists": [
+        "董事长乐团 & 九天民俗技艺团"
+      ],
+      "album": "对我打 - Single",
+      "duration": 231.457,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1186275608",
+      "title": "对我打",
+      "artists": [
+        "董事长乐团 & 九天民俗技艺团"
+      ],
+      "album": "对我打 - Single",
+      "duration": 231.457,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29589581,
+      "title": "對我打",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "祭 (黑膠版)",
+      "duration": 243.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 29267021,
+      "title": "對我打",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "祭",
+      "duration": 231.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 39009686,
+      "title": "對我打",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "董事長樂團-祭",
+      "duration": 232.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

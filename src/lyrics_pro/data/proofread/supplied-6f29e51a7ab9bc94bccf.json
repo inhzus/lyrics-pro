@@ -1,0 +1,632 @@
+{
+  "schema_version": 1,
+  "id": "supplied-6f29e51a7ab9bc94bccf",
+  "revision": "1",
+  "title": "只要為你活一天",
+  "title_aliases": [],
+  "artist": "伍佰",
+  "album": "只要为你活一天 电影原声带",
+  "duration": 321.227755,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：陳世杰 / 作曲：吳俊霖  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "lrclib:22685391",
+    "timing_source": "LRCLIB https://lrclib.net/api/get/22685391",
+    "manual_source": "resources/lyrics-spelling/只要為你活一天-伍佰",
+    "audio_verified": false,
+    "agent_review": "LRCLIB 22685391 supplies the missing ending and 見到你. Preserve supplied 活一工 throughout and the shortened refrain occurrences; all online events stay unchanged.",
+    "input_sha256": {
+      "original": "556c3f6cf2b52297b7f080b7ba9b6363fcb6cff0afa4e19817454941e0d14c0c",
+      "manual": "5c7bc0933379876a8ca10fa7687231fdea2fab6c43ab9c6974796ec24608174f",
+      "timed": "4b1825d6f606d05fe0b77015ac545129b4d2907938fe5ad22cacd3c8864d5e0b"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "approximate": 14,
+      "exact": 33,
+      "gap": 3
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 1.37,
+        "online_text": "只要為你活一天",
+        "status": "approximate",
+        "text": "只要為你活一工",
+        "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang",
+        "manual_id": "line-3:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 8.62,
+        "online_text": "接近你是我唯一的願望",
+        "status": "exact",
+        "text": "接近你是我唯一的願望",
+        "spelling": "tsiap-kīn lí sī guá uî-it ê guān-bōng",
+        "manual_id": "line-3:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 15.86,
+        "online_text": "只要為你活一天",
+        "status": "approximate",
+        "text": "只要為你活一工",
+        "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang",
+        "manual_id": "line-6:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 23.25,
+        "online_text": "我的生命才有價值和希望",
+        "status": "exact",
+        "text": "我的生命才有價值和希望",
+        "spelling": "guá ê sènn-miā tsâi ū kè-ta̍t kah hi-bāng",
+        "manual_id": "line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 25.95,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 32.58,
+        "online_text": "敢有聽到我的心臟 是乒乒乓乓在震動",
+        "status": "exact",
+        "text": "敢有聽到我的心臟 是乒乒乓乓在震動",
+        "spelling": "kám ū thiann-tio̍h guá ê sim-tsōng sī phi̋n phi̋n phóng phóng leh tín-tāng",
+        "manual_id": "line-9:0+line-9:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 40.87,
+        "online_text": "那是我胸坎肉內的血 親像你海湧在反紅",
+        "status": "exact",
+        "text": "那是我胸坎肉內的血 親像你海湧在反紅",
+        "spelling": "he sī guá hing-khám bah luē ê hueh tshin-tshiūnn lí hái-íng leh huán âng",
+        "manual_id": "line-12:0+line-12:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 47.87,
+        "online_text": "敢有看到我的目睭茫茫霧霧甘哪在眠夢",
+        "status": "exact",
+        "text": "敢有看到我的目睭茫茫霧霧甘哪在眠夢",
+        "spelling": "kám ū khuànn-tio̍h guá ê ba̍k-tsiu bông-bông-bū-bū kam ná leh bîn-bāng",
+        "manual_id": "line-15:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 55.17,
+        "online_text": "因為你的眼神乎我墮落你用魔法補的網",
+        "status": "exact",
+        "text": "因為你的眼神乎我墮落你用魔法補的網",
+        "spelling": "in-uī lí ê gán-sîn honnh guá tuī-lo̍h lí iōng môo-huat póo ê bāng",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 61.46,
+        "online_text": "我是憨人 見到你 控制完全沒採工",
+        "status": "exact",
+        "text": "我是憨人 見到你 控制完全沒採工",
+        "spelling": "guá sī kóo lâng kìnn-tio̍h lí khòng-tsè uân-tsuân bô tshái kang",
+        "manual_id": "line-21:0+line-21:1+line-21:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 68.82,
+        "online_text": "我是憨人 為著你 一分一秒放攏不輕鬆",
+        "status": "exact",
+        "text": "我是憨人 為著你 一分一秒放攏不輕鬆",
+        "spelling": "guá sī kóo lâng uī tio̍h lí tsi̍t pun tsi̍t bió lóng bô khin-sang",
+        "manual_id": "line-24:0+line-24:1+line-24:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 77.21,
+        "online_text": "只要為你活一天",
+        "status": "approximate",
+        "text": "只要為你活一工",
+        "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang",
+        "manual_id": "line-27:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 84.35,
+        "online_text": "接近你是我唯一的願望",
+        "status": "exact",
+        "text": "接近你是我唯一的願望",
+        "spelling": "tsiap-kīn lí sī guá uî-it ê guān-bōng",
+        "manual_id": "line-27:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 91.74,
+        "online_text": "只要為你活一天",
+        "status": "approximate",
+        "text": "只要為你活一工",
+        "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang",
+        "manual_id": "line-30:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 98.98,
+        "online_text": "我的生命才有價值和希望",
+        "status": "exact",
+        "text": "我的生命才有價值和希望",
+        "spelling": "guá ê sènn-miā tsâi ū kè-ta̍t kah hi-bāng",
+        "manual_id": "line-30:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 102.14,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 137.16,
+        "online_text": "敢有聽到我的心臟 是乒乒乓乓在震動",
+        "status": "exact",
+        "text": "敢有聽到我的心臟 是乒乒乓乓在震動",
+        "spelling": "kám ū thiann-tio̍h guá ê sim-tsōng sī phi̋n phi̋n phóng phóng leh tín-tāng",
+        "manual_id": "line-33:0+line-33:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 145.19,
+        "online_text": "那是我胸坎肉內的血 親像你海湧在反紅",
+        "status": "exact",
+        "text": "那是我胸坎肉內的血 親像你海湧在反紅",
+        "spelling": "he sī guá hing-khám bah luē ê hueh tshin-tshiūnn lí hái-íng leh huán âng",
+        "manual_id": "line-36:0+line-36:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 152.22,
+        "online_text": "敢有看到我的目睭茫茫霧霧甘哪在眠夢",
+        "status": "exact",
+        "text": "敢有看到我的目睭茫茫霧霧甘哪在眠夢",
+        "spelling": "kám ū khuànn-tio̍h guá ê ba̍k-tsiu bông-bông-bū-bū kam ná leh bîn-bāng",
+        "manual_id": "line-39:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 159.39,
+        "online_text": "因為你的眼神乎我墮落你用魔法補的網",
+        "status": "exact",
+        "text": "因為你的眼神乎我墮落你用魔法補的網",
+        "spelling": "in-uī lí ê gán-sîn honnh guá tuī-lo̍h lí iōng môo-huat póo ê bāng",
+        "manual_id": "line-42:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 165.64,
+        "online_text": "我是憨人 見到你 控制完全沒採工",
+        "status": "exact",
+        "text": "我是憨人 見到你 控制完全沒採工",
+        "spelling": "guá sī kóo lâng kìnn-tio̍h lí khòng-tsè uân-tsuân bô tshái kang",
+        "manual_id": "line-45:0+line-45:1+line-45:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 172.98,
+        "online_text": "我是憨人 為著你 一分一秒放攏不輕鬆",
+        "status": "exact",
+        "text": "我是憨人 為著你 一分一秒放攏不輕鬆",
+        "spelling": "guá sī kóo lâng uī tio̍h lí tsi̍t pun tsi̍t bió lóng bô khin-sang",
+        "manual_id": "line-48:0+line-48:1+line-48:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 180.55,
+        "online_text": "血在湧 面慶紅",
+        "status": "exact",
+        "text": "血在湧 面慶紅",
+        "spelling": "hueh tī-leh íng bīn tsò âng",
+        "manual_id": "line-51:0+line-51:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 183.63,
+        "online_text": "對你的熱情真正沒地藏",
+        "status": "exact",
+        "text": "對你的熱情真正沒地藏",
+        "spelling": "tuì lí ê lia̍t-tsîng tsin-tsiànn bô tē-tshàng",
+        "manual_id": "line-51:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 187.68,
+        "online_text": "不驚熱 不驚凍",
+        "status": "exact",
+        "text": "不驚熱 不驚凍",
+        "spelling": "m̄ kiann-jua̍h m̄ kiann-tàng",
+        "manual_id": "line-54:0+line-54:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 190.78,
+        "online_text": "不驚命運安怎捉創治人",
+        "status": "exact",
+        "text": "不驚命運安怎捉創治人",
+        "spelling": "m̄ kiann miā-ūn an-tsuánn tsang tshong tī lâng",
+        "manual_id": "line-54:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 194.96,
+        "online_text": "火在燒 水在淙",
+        "status": "exact",
+        "text": "火在燒 水在淙",
+        "spelling": "hué leh tshuh tsuí leh châng",
+        "manual_id": "line-57:0+line-57:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 27,
+        "time": 197.97,
+        "online_text": "為著你生命我嘛甘願放",
+        "status": "exact",
+        "text": "為著你生命我嘛甘願放",
+        "spelling": "uī tio̍h lí sènn-miā guá mah kam guān pàng",
+        "manual_id": "line-57:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 28,
+        "time": 202.27,
+        "online_text": "地在裂 天在崩",
+        "status": "exact",
+        "text": "地在裂 天在崩",
+        "spelling": "tē leh le̍h thinn leh pang",
+        "manual_id": "line-60:0+line-60:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 29,
+        "time": 204.95,
+        "online_text": "只要為你活一天",
+        "status": "approximate",
+        "text": "只要為你活一工",
+        "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang",
+        "manual_id": "line-60:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 30,
+        "time": 209.26,
+        "online_text": "血在湧 面慶紅",
+        "status": "exact",
+        "text": "血在湧 面慶紅",
+        "spelling": "hueh tī-leh íng bīn tsò âng",
+        "manual_id": "line-63:0+line-63:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 31,
+        "time": 212.02,
+        "online_text": "對你的熱情真正沒地藏",
+        "status": "exact",
+        "text": "對你的熱情真正沒地藏",
+        "spelling": "tuì lí ê lia̍t-tsîng tsin-tsiànn bô tē-tshàng",
+        "manual_id": "line-63:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 32,
+        "time": 216.7,
+        "online_text": "不驚熱 不驚凍",
+        "status": "exact",
+        "text": "不驚熱 不驚凍",
+        "spelling": "m̄ kiann-jua̍h m̄ kiann-tàng",
+        "manual_id": "line-66:0+line-66:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 33,
+        "time": 219.43,
+        "online_text": "不驚命運安怎捉創治人",
+        "status": "exact",
+        "text": "不驚命運安怎捉創治人",
+        "spelling": "m̄ kiann miā-ūn an-tsuánn tsang tshong tī lâng",
+        "manual_id": "line-66:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 34,
+        "time": 223.45,
+        "online_text": "火在燒 水在淙",
+        "status": "exact",
+        "text": "火在燒 水在淙",
+        "spelling": "hué leh tshuh tsuí leh châng",
+        "manual_id": "line-69:0+line-69:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 35,
+        "time": 226.54,
+        "online_text": "為著你生命我嘛甘願放",
+        "status": "exact",
+        "text": "為著你生命我嘛甘願放",
+        "spelling": "uī tio̍h lí sènn-miā guá mah kam guān pàng",
+        "manual_id": "line-69:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 36,
+        "time": 230.59,
+        "online_text": "地在裂 天在崩",
+        "status": "exact",
+        "text": "地在裂 天在崩",
+        "spelling": "tē leh le̍h thinn leh pang",
+        "manual_id": "line-72:0+line-72:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 37,
+        "time": 233.34,
+        "online_text": "只要為你活一天",
+        "status": "approximate",
+        "text": "只要為你活一工",
+        "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang",
+        "manual_id": "line-72:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 38,
+        "time": 238.42,
+        "online_text": "只要為你活一天",
+        "status": "approximate",
+        "text": "只要為你活一工",
+        "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang",
+        "manual_id": "line-75:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 39,
+        "time": 245.65,
+        "online_text": "接近你是我唯一的願望",
+        "status": "exact",
+        "text": "接近你是我唯一的願望",
+        "spelling": "tsiap-kīn lí sī guá uî-it ê guān-bōng",
+        "manual_id": "line-75:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 40,
+        "time": 252.8,
+        "online_text": "只要為你活一天",
+        "status": "approximate",
+        "text": "只要為你活一工",
+        "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang",
+        "manual_id": "line-78:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 41,
+        "time": 259.98,
+        "online_text": "我的生命才有價值和希望",
+        "status": "exact",
+        "text": "我的生命才有價值和希望",
+        "spelling": "guá ê sènn-miā tsâi ū kè-ta̍t kah hi-bāng",
+        "manual_id": "line-78:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 42,
+        "time": 267.48,
+        "online_text": "只要為你",
+        "status": "exact",
+        "text": "只要為你",
+        "spelling": "tsí-iàu uî lí",
+        "manual_id": "line-81:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 43,
+        "time": 270.12,
+        "online_text": "只要為你活一天 只要為你活一天",
+        "status": "approximate",
+        "text": "只要為你活一工 只要為你活一工",
+        "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang tsí-iàu uî lí ua̍h tsi̍t kang",
+        "manual_id": "line-84:0+line-84:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 44,
+        "time": 276.94,
+        "online_text": "只要為你活一天 只要為你",
+        "status": "approximate",
+        "text": "只要為你活一工 只要為你",
+        "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang tsí-iàu uî lí",
+        "manual_id": "line-87:0+line-87:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 45,
+        "time": 284.02,
+        "online_text": "只要為你活一天 只要為你活一天",
+        "status": "approximate",
+        "text": "只要為你活一工 只要為你活一工",
+        "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang tsí-iàu uî lí ua̍h tsi̍t kang",
+        "manual_id": "line-90:0+line-90:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 46,
+        "time": 291.02,
+        "online_text": "只要為你活一天 只要為你",
+        "status": "approximate",
+        "text": "只要為你活一工 只要為你",
+        "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang tsí-iàu uî lí",
+        "manual_id": "line-93:0+line-93:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 47,
+        "time": 298.09,
+        "online_text": "只要為你活一天 只要為你活一天",
+        "status": "approximate",
+        "text": "只要為你活一工 只要為你活一工",
+        "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang tsí-iàu uî lí ua̍h tsi̍t kang",
+        "manual_id": "line-96:0+line-96:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 48,
+        "time": 305.31,
+        "online_text": "只要為你活一天 只要為你",
+        "status": "approximate",
+        "text": "只要為你活一工 只要為你",
+        "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang tsí-iàu uî lí",
+        "manual_id": "line-99:0+line-99:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 49,
+        "time": 310.43,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

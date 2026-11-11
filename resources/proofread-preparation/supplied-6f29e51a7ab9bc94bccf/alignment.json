@@ -1,0 +1,708 @@
+{
+  "recording_id": "netease:156619",
+  "timing_source": "NetEase https://music.163.com/song?id=156619",
+  "manual_source": "User-supplied resources/lyrics-spelling/只要為你活一天-伍佰",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "unresolved": 35,
+    "repeat": 14
+  },
+  "review_row_count": 35,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-3:0",
+    "line-6:0",
+    "line-9:0",
+    "line-12:0",
+    "line-12:1",
+    "line-15:0",
+    "line-21:1",
+    "line-21:2",
+    "line-24:1",
+    "line-24:2",
+    "line-27:0",
+    "line-30:0",
+    "line-33:0",
+    "line-36:0",
+    "line-36:1",
+    "line-39:0",
+    "line-45:1",
+    "line-45:2",
+    "line-48:1",
+    "line-48:2",
+    "line-51:0",
+    "line-51:1",
+    "line-51:2",
+    "line-54:0",
+    "line-54:1",
+    "line-54:2",
+    "line-57:0",
+    "line-57:1",
+    "line-57:2",
+    "line-60:0",
+    "line-60:1",
+    "line-60:2",
+    "line-63:0",
+    "line-63:1",
+    "line-63:2",
+    "line-66:0",
+    "line-66:1",
+    "line-66:2",
+    "line-69:0",
+    "line-69:1",
+    "line-69:2",
+    "line-72:0",
+    "line-72:1",
+    "line-72:2",
+    "line-75:0",
+    "line-78:0",
+    "line-81:0",
+    "line-84:0",
+    "line-84:1",
+    "line-87:0",
+    "line-87:1",
+    "line-90:0",
+    "line-90:1",
+    "line-93:0",
+    "line-93:1",
+    "line-96:0",
+    "line-96:1",
+    "line-99:0",
+    "line-99:1"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 2.51,
+      "online_text": "只要为你活一天",
+      "match_text": "只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 10.1,
+      "online_text": "接近你是我唯一的愿望",
+      "match_text": "接近你是我唯一的愿望",
+      "text": "接近你是我唯一的願望",
+      "spelling": "tsiap-kīn lí sī guá uî-it ê guān-bōng",
+      "manual_id": "line-3:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 16.9,
+      "online_text": "只要为你活一天",
+      "match_text": "只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 24.2,
+      "online_text": "我的生命才有价值和希望",
+      "match_text": "我的生命才有价值和希望",
+      "text": "我的生命才有價值和希望",
+      "spelling": "guá ê sènn-miā tsâi ū kè-ta̍t kah hi-bāng",
+      "manual_id": "line-6:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 33.628,
+      "online_text": "敢有听见我的心脏",
+      "match_text": "敢有听见我的心脏",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 37.49,
+      "online_text": "是乒乒乓乓在震动",
+      "match_text": "是乒乒乓乓在震动",
+      "text": "是乒乒乓乓在震動",
+      "spelling": "sī phi̋n phi̋n phóng phóng leh tín-tāng",
+      "manual_id": "line-9:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 41.709,
+      "online_text": "那是我胸腔内的血",
+      "match_text": "那是我胸腔内的血",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 44.469,
+      "online_text": "亲像海涌在反红",
+      "match_text": "亲像海涌在反红",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 49.159,
+      "online_text": "敢有看到我的目周茫茫雾雾甘哪在眠梦",
+      "match_text": "敢有看到我的目周茫茫雾雾甘哪在眠梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 56.119,
+      "online_text": "因为你的眼神乎我堕落你用魔法补的网",
+      "match_text": "因为你的眼神乎我堕落你用魔法补的网",
+      "text": "因為你的眼神乎我墮落你用魔法補的網",
+      "spelling": "in-uī lí ê gán-sîn honnh guá tuī-lo̍h lí iōng môo-huat póo ê bāng",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 62.359,
+      "online_text": "我是憨人",
+      "match_text": "我是憨人",
+      "text": "我是憨人",
+      "spelling": "guá sī kóo lâng",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 66.199,
+      "online_text": "为著你控制完全没采工",
+      "match_text": "为著你控制完全没采工",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 70.289,
+      "online_text": "我是憨人",
+      "match_text": "我是憨人",
+      "text": "我是憨人",
+      "spelling": "guá sī kóo lâng",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 72.309,
+      "online_text": "为著你一分一秒放龙不轻松",
+      "match_text": "为著你一分一秒放龙不轻松",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 78.179,
+      "online_text": "只要为你活一天",
+      "match_text": "只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 85.33,
+      "online_text": "接近你是我唯一的愿望",
+      "match_text": "接近你是我唯一的愿望",
+      "text": "接近你是我唯一的願望",
+      "spelling": "tsiap-kīn lí sī guá uî-it ê guān-bōng",
+      "manual_id": "line-3:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 92.729,
+      "online_text": "只要为你活一天",
+      "match_text": "只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 99.699,
+      "online_text": "我的生命才有价值和希望",
+      "match_text": "我的生命才有价值和希望",
+      "text": "我的生命才有價值和希望",
+      "spelling": "guá ê sènn-miā tsâi ū kè-ta̍t kah hi-bāng",
+      "manual_id": "line-6:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 138.11,
+      "online_text": "敢有听见我的心脏",
+      "match_text": "敢有听见我的心脏",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 141.4,
+      "online_text": "是乒乒乓乓在震动",
+      "match_text": "是乒乒乓乓在震动",
+      "text": "是乒乒乓乓在震動",
+      "spelling": "sī phi̋n phi̋n phóng phóng leh tín-tāng",
+      "manual_id": "line-9:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 146.0,
+      "online_text": "那是我胸砍内的血",
+      "match_text": "那是我胸砍内的血",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 148.64,
+      "online_text": "亲像海涌在反红",
+      "match_text": "亲像海涌在反红",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 153.14,
+      "online_text": "敢有看到我的目周茫茫雾雾甘哪在眠梦",
+      "match_text": "敢有看到我的目周茫茫雾雾甘哪在眠梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 160.21,
+      "online_text": "因为你的眼神乎我堕落你用魔法补的网",
+      "match_text": "因为你的眼神乎我堕落你用魔法补的网",
+      "text": "因為你的眼神乎我墮落你用魔法補的網",
+      "spelling": "in-uī lí ê gán-sîn honnh guá tuī-lo̍h lí iōng môo-huat póo ê bāng",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 166.74,
+      "online_text": "我是憨人",
+      "match_text": "我是憨人",
+      "text": "我是憨人",
+      "spelling": "guá sī kóo lâng",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 170.2,
+      "online_text": "为著你控制完全没采工",
+      "match_text": "为著你控制完全没采工",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 174.4,
+      "online_text": "我是憨人",
+      "match_text": "我是憨人",
+      "text": "我是憨人",
+      "spelling": "guá sī kóo lâng",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 176.54,
+      "online_text": "为著你一分一秒放龙不轻松",
+      "match_text": "为著你一分一秒放龙不轻松",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 181.8,
+      "online_text": "血在涌  面庆红  对你的热情真正没地藏",
+      "match_text": "血在涌  面庆红  对你的热情真正没地藏",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 189.28,
+      "online_text": "不惊热  不惊冻  不惊命运安怎捉创治人",
+      "match_text": "不惊热  不惊冻  不惊命运安怎捉创治人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 195.84,
+      "online_text": "火在烧  水在淙  为著你生命我嘛甘愿放",
+      "match_text": "火在烧  水在淙  为著你生命我嘛甘愿放",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 203.6,
+      "online_text": "地在裂  天在崩  只要为你活一天",
+      "match_text": "地在裂  天在崩  只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 210.329,
+      "online_text": "血在涌  面庆红  对你的热情真正没地藏",
+      "match_text": "血在涌  面庆红  对你的热情真正没地藏",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 217.74,
+      "online_text": "不惊热  不惊冻  不惊命运安怎捉创治人",
+      "match_text": "不惊热  不惊冻  不惊命运安怎捉创治人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 224.45,
+      "online_text": "火在烧  水在淙  为著你生命我嘛甘愿放",
+      "match_text": "火在烧  水在淙  为著你生命我嘛甘愿放",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 231.52,
+      "online_text": "地在裂  天在崩  只要为你活一天",
+      "match_text": "地在裂  天在崩  只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 239.54,
+      "online_text": "只要为你活一天",
+      "match_text": "只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 246.72,
+      "online_text": "接近你是我唯一的愿望",
+      "match_text": "接近你是我唯一的愿望",
+      "text": "接近你是我唯一的願望",
+      "spelling": "tsiap-kīn lí sī guá uî-it ê guān-bōng",
+      "manual_id": "line-3:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 253.8,
+      "online_text": "只要为你活一天",
+      "match_text": "只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 261.0,
+      "online_text": "我的生命才有价值和希望",
+      "match_text": "我的生命才有价值和希望",
+      "text": "我的生命才有價值和希望",
+      "spelling": "guá ê sènn-miā tsâi ū kè-ta̍t kah hi-bāng",
+      "manual_id": "line-6:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 268.15,
+      "online_text": "只要为你活一天",
+      "match_text": "只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 285.39,
+      "online_text": "只要为你活一天",
+      "match_text": "只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 288.6,
+      "online_text": "只要为你活一天",
+      "match_text": "只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 292.4,
+      "online_text": "只要为你活一天",
+      "match_text": "只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 295.53,
+      "online_text": "只要为你活一天",
+      "match_text": "只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 299.11,
+      "online_text": "只要为你活一天",
+      "match_text": "只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 302.77,
+      "online_text": "只要为你活一天",
+      "match_text": "只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 306.23,
+      "online_text": "只要为你活一天",
+      "match_text": "只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 48,
+      "time": 309.62,
+      "online_text": "只要为你活一天",
+      "match_text": "只要为你活一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "556c3f6cf2b52297b7f080b7ba9b6363fcb6cff0afa4e19817454941e0d14c0c",
+    "manual": "56c0e5d2bcd8dedf44656845d38be3284da65b674d649fedb7fdbb7c640d985d",
+    "timed": "64721d57c50c72bea9f12fbcf3af1feac48054570bf2b759c9fc89eaca38121a"
+  }
+}

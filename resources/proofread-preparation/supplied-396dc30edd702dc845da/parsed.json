@@ -1,0 +1,255 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "覕風覕雨 目屎漸漸仔焦",
+      "spelling": "bih hong bih hōo ba̍k-sái tsiām-tsiām á ta",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "無張無持 歌就唱出來矣",
+      "spelling": "bô tiunn bô tî kua tio̍h tshiùnn tshut-lâi ah",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "嘿~ 嘿~",
+      "spelling": "heh~ heh~",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "掠狂的某一个下晡",
+      "spelling": "lia̍h-kông ê bóo tsi̍t ê ē-poo",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "心事若無講出來",
+      "spelling": "sim-sū ná bô kóng tshut-lâi",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "無聲的所在敢有人會知?",
+      "spelling": "bô-siann ê sóo-tsāi kánn ū lâng ē tsai?",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "舉著一支小雨傘",
+      "spelling": "kú-tio̍h tsi̍t-ki sió-hōo suànn",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "停佇惜別的海岸",
+      "spelling": "thîng tī sioh-pia̍t ê hái-huānn",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "行船人約束的八月十五",
+      "spelling": "kiânn-tsûn lâng iok-sok ê peh-ge̍h tsa̍p gōo",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "浪子唱著金包銀",
+      "spelling": "lōng-tsú tshiùnn-tio̍h kim-pau gîn",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "愛拼煞來坱著一陣風飛沙",
+      "spelling": "ài piànn suah lâi ing-tio̍h tsi̍t tsūn hong-pue-sua",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "好歹照輪 乞食嘛換新衫",
+      "spelling": "hó-pháinn tsiàu-lûn khit-tsia̍h mā uānn-sin sann",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "無聲無說 歌就唱出來矣",
+      "spelling": "bô-siann bô-sueh kua tio̍h tshiùnn tshut-lâi ah",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "嘿~ 嘿~",
+      "spelling": "heh~ heh~",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "向前行來揣烏輪伯仔",
+      "spelling": "hiòng-tsiân kiânn lâi tshuē oo lián peh á",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "伊講歡喜就好少年兮安啦!",
+      "spelling": "i kóng huann-hí tio̍h hó siàu-liân leh an là!",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "火車火車",
+      "spelling": "hué-tshia hué-tshia",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "故鄉醉佇酒後的心聲",
+      "spelling": "kòo-hiong tsuì tī tsiú āu ê sim-siann",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "流浪到淡水才知春天猶原即爾寒",
+      "spelling": "liû-lōng kàu Tām-tsuí tsiah tsai tshun-thinn iu-guân tsik ní kuânn",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "傷心已經無話",
+      "spelling": "siong-sim í-king bô uē",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "春嬌已經無愛志明",
+      "spelling": "tshun kiau í-king bô ài tsì bîng",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "雙人枕頭有針無線",
+      "spelling": "siang-lâng tsím-thâu ū tsiam bô-suànn",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "只賰彼隻樹枝的孤鳥",
+      "spelling": "tsí tshun hit ki tshiū-ki ê koo-tsiáu",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "陪我戇戇想到今",
+      "spelling": "puê guá gōng gōng siūnn-tio̍h kim",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "嘿~ 嘿~ 嘿~ 嘿~",
+      "spelling": "heh~ heh~ heh~ heh~",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "無張無持 歌就唱出來矣",
+      "spelling": "bô tiunn bô tî kua tio̍h tshiùnn tshut-lâi ah",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "無聲無說 歌就唱出來矣",
+      "spelling": "bô-siann bô-sueh kua tio̍h tshiùnn tshut-lâi ah",
+      "source_lines": [
+        81,
+        82
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：謝銘祐   作曲：謝銘祐"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

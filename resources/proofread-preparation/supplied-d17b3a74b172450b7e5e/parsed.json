@@ -1,0 +1,584 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "計程車　跑得快",
+      "spelling": "Jìchéngchē pǎo dé kuài",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "下雨天　他最跩",
+      "spelling": "xià yǔtiān tā zuì zhuǎi",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "給他錢賺　他甩都不甩",
+      "spelling": "gěi tā qián zhuàn tā shuǎi dōu bù shuǎi",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "透早出門　走東往西　認真做生意",
+      "spelling": "thàu-tsá tshut-mn̂g kiânn tang óng sai līn-tsin tsuè sing-lí",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "為著生活　大街小巷　哇拼到強袂死",
+      "spelling": "uī-tio̍h sing-ua̍h tuā ke sió-hāng uah piànn kàu kiông buē sí",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "不管長途短途　哇攏四處載",
+      "spelling": "m̄-kuán tn̂g tôo té tôo uah lóng sì-kè tsài",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "人客叫我往東　我不敢往西",
+      "spelling": "lâng-kheh kiò guá óng tang guá m̄ kánn óng sai",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "計程車呀！",
+      "spelling": "kè-thîng-tshia ah",
+      "source_lines": [
+        38,
+        39
+      ]
+    },
+    {
+      "id": "line-41",
+      "text": "袂去哪？",
+      "spelling": "bē khì tó",
+      "source_lines": [
+        41,
+        42
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "忠孝東路四段啦！",
+      "spelling": "tiong-hàu tang-lōo sì tuānn là!",
+      "source_lines": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "不去啦～",
+      "spelling": "buē khì là～",
+      "source_lines": [
+        47,
+        48
+      ]
+    },
+    {
+      "id": "line-50",
+      "text": "是怎樣？",
+      "spelling": "sī án-uánn?",
+      "source_lines": [
+        50,
+        51
+      ]
+    },
+    {
+      "id": "line-53",
+      "text": "塞車啦～你不知道台北的交通唷！？",
+      "spelling": "that-tshia là～lí m̄ tsai-iánn tâi-pak ê kau-thong ioh！？",
+      "source_lines": [
+        53,
+        54
+      ]
+    },
+    {
+      "id": "line-56",
+      "text": "錢要給你賺你也不要？？",
+      "spelling": "tsînn beh kā lí thàn lí iā bô ài??",
+      "source_lines": [
+        56,
+        57
+      ]
+    },
+    {
+      "id": "line-59",
+      "text": "阮刀好野人~不願啦~~",
+      "spelling": "gún to hó iá lâng~m̄-guān là~~",
+      "source_lines": [
+        59,
+        60
+      ]
+    },
+    {
+      "id": "line-62",
+      "text": "ㄚ沒你是開車出來’ㄙㄡˊ’ㄟ唷？",
+      "spelling": "ah bô lí sī khui-tshia tshut-lâi ioh e a",
+      "source_lines": [
+        62,
+        63
+      ]
+    },
+    {
+      "id": "line-65",
+      "text": "七八九點　上班時間　生意最好作",
+      "spelling": "tshit pueh káu tiám siōng-pan sî-kan sing-lí siōng-hó tsuè",
+      "source_lines": [
+        65,
+        66
+      ]
+    },
+    {
+      "id": "line-68",
+      "text": "你擠我擠　沒人要讓　擠擠做一夥",
+      "spelling": "lí kheh guá kheh bô-lâng beh niū tsìnn tsìnn tsuè tsi̍t hué",
+      "source_lines": [
+        68,
+        69
+      ]
+    },
+    {
+      "id": "line-71",
+      "text": "堵到青燈　車駛不走　心內整把火",
+      "spelling": "tóo-tio̍h tshenn-ting tshia buē kiânn sim-lāi kui pā hué",
+      "source_lines": [
+        71,
+        72
+      ]
+    },
+    {
+      "id": "line-74",
+      "text": "半點多鐘　才跳一格　賺錢哪ㄟ多",
+      "spelling": "puànn tiám guā tsing tsiah thiàu tsi̍t teh tsuán-tsînn ná ê tsuē",
+      "source_lines": [
+        74,
+        75
+      ]
+    },
+    {
+      "id": "line-77",
+      "text": "交通電台　為你放送　市內路歹過",
+      "spelling": "kau-thong tiān-tâi uî lí hòng-sàng tshī-lāi lōo pháinn-kuè",
+      "source_lines": [
+        77,
+        78
+      ]
+    },
+    {
+      "id": "line-80",
+      "text": "叫咱大家　若沒事情　不通進來ㄙㄟ",
+      "spelling": "kiò lán ta̍k-ke ná bô tāi-tsì m̄-thàng ji̍p-lâi se",
+      "source_lines": [
+        80,
+        81
+      ]
+    },
+    {
+      "id": "line-83",
+      "text": "交通警察　給人罵到　滿臉全豆花",
+      "spelling": "kau-thong kíng-tshat hoo lâng mā kàu muá bīn tsuân tāu-hue",
+      "source_lines": [
+        83,
+        84
+      ]
+    },
+    {
+      "id": "line-86",
+      "text": "堵到黃燈　油門踩落　咻一個就給過",
+      "spelling": "tóo-tio̍h n̂g ting iû-mn̂g ta̍h làu siuh tsi̍t ê tio̍h kā kuè",
+      "source_lines": [
+        86,
+        87
+      ]
+    },
+    {
+      "id": "line-89",
+      "text": "駛卡慢捏　駛卡慢捏　運將先生　安那？？",
+      "spelling": "sái khá bān tēnn sái khá bān tēnn ùn-tsiàng sian-senn an-na",
+      "source_lines": [
+        89,
+        90
+      ]
+    },
+    {
+      "id": "line-92",
+      "text": "駛車不能親像那個飛行機正在飛　你給我管？？",
+      "spelling": "sái-tshia m̄-thang tshin-tshiūnn hit-kò hui-hîng ki tī-leh pue lí kā guá kuán",
+      "source_lines": [
+        92,
+        93
+      ]
+    },
+    {
+      "id": "line-95",
+      "text": "你擋不住　我若跌死　叫我怎樣賠？　你家ㄟ事情啦！",
+      "spelling": "lí tòng-buē-tiâu guá ná pua̍h sí kiò guá tsuánn-iūnn pê lí ke ê tāi-tsì là!",
+      "source_lines": [
+        95,
+        96
+      ]
+    },
+    {
+      "id": "line-98",
+      "text": "警察抓到　整天賺的　你就不夠賠！",
+      "spelling": "kíng-tshat lia̍h-tio̍h kui-kang thàn ê lí tio̍h bô kàu pê!",
+      "source_lines": [
+        98,
+        99
+      ]
+    },
+    {
+      "id": "line-101",
+      "text": "小~姐　小姐~~你不用怕　哇ㄟ技術　你挺賀去探聽",
+      "spelling": "sió-tsé sió-tsé lí bián-kiann uah ê ki-su̍t lí thīn hō khì thàm-thiann",
+      "source_lines": [
+        101,
+        102
+      ]
+    },
+    {
+      "id": "line-104",
+      "text": "我卡早　做兵　是在駛戰車",
+      "spelling": "guá khá-tsá tsuè-ping sī tī sái tsiàn-tshia",
+      "source_lines": [
+        104,
+        105
+      ]
+    },
+    {
+      "id": "line-107",
+      "text": "撞死的不算　受傷的至少有幾百名",
+      "spelling": "lòng-sí ê bô-sǹg siū-siong ê tsì-tsió ū kuí pah miâ",
+      "source_lines": [
+        107,
+        108
+      ]
+    },
+    {
+      "id": "line-110",
+      "text": "運~將的頭路ㄚ　算來是不錯",
+      "spelling": "ūn tsiòng ê thâu lōo ah sǹg-lâi sī bô-bái",
+      "source_lines": [
+        110,
+        111
+      ]
+    },
+    {
+      "id": "line-113",
+      "text": "自由自在要做　攏在咱來",
+      "spelling": "tsū-iû tsū-tsāi beh tsò lóng tsāi lán lâi",
+      "source_lines": [
+        113,
+        114
+      ]
+    },
+    {
+      "id": "line-116",
+      "text": "只要~打拼　來駕駛　一天收入至少也有一兩開",
+      "spelling": "tsí-iàu phah-piànn lāi kà-sái tsi̍t kang siu-ji̍p tsì-tsió mā ū tsi̍t-nn̄g khai",
+      "source_lines": [
+        116,
+        117
+      ]
+    },
+    {
+      "id": "line-119",
+      "text": "六月天是火燒埔　車內熱到若火爐",
+      "spelling": "la̍k-gue̍h thinn sī hué-sio poo tshia lāi jua̍h-tio̍h ná hué-lôo",
+      "source_lines": [
+        119,
+        120
+      ]
+    },
+    {
+      "id": "line-122",
+      "text": "人在車內臉反黑　冷氣放到人感冒",
+      "spelling": "lâng tī tshia lāi bīn huán oo líng-khì pàng-kàh lâng kám-mōo",
+      "source_lines": [
+        122,
+        123
+      ]
+    },
+    {
+      "id": "line-125",
+      "text": "若是遇到歹人客　整路一直甲咱灰",
+      "spelling": "nā-sī tú-tn̄g pháinn-lâng kheh kui lōo it-ti̍t kah lán hóe",
+      "source_lines": [
+        125,
+        126
+      ]
+    },
+    {
+      "id": "line-128",
+      "text": "不知這個是什麼底　害咱不敢多講話",
+      "spelling": "m̄ tsai tsit-ê sī siánn-mih té hāi lán m̄ kánn ke kóng-uē",
+      "source_lines": [
+        128,
+        129
+      ]
+    },
+    {
+      "id": "line-131",
+      "text": "一年要繳萬萬稅　有車無牌真怨世",
+      "spelling": "tsi̍t nî ài uân bān-bān suè ū tshia bô pâi tsin uàn sè",
+      "source_lines": [
+        131,
+        132
+      ]
+    },
+    {
+      "id": "line-134",
+      "text": "看人賓士ㄟ在遊街　咱ㄟ命哪ㄟ這麼衰",
+      "spelling": "khuànn-lâng pin-sū ê ti iû-ke lán ê miā ná ê hiah-nī sue",
+      "source_lines": [
+        134,
+        135
+      ]
+    },
+    {
+      "id": "line-137",
+      "text": "好加在咱是一個樂天派　透風落雨夠卡艱苦也得駛",
+      "spelling": "hó ka tsāi lán sī tsi̍t ê lo̍k-thian phài thâu-lōo koh khá kan-khóo mā tio̍h sái",
+      "source_lines": [
+        137,
+        138
+      ]
+    },
+    {
+      "id": "line-140",
+      "text": "正當ㄟ頭路阿　不怕給人知",
+      "spelling": "tsìng-tong ê thâu lōo ah m̄-kiann hoo lâng tsai",
+      "source_lines": [
+        140,
+        141
+      ]
+    },
+    {
+      "id": "line-143",
+      "text": "三更半夜　要去哪裡　作你來",
+      "spelling": "sann-kinn puànn-mî beh khì tó-uī tsuè lí lâi",
+      "source_lines": [
+        143,
+        144
+      ]
+    },
+    {
+      "id": "line-146",
+      "text": "透早出門　走東撞西　認真做生意",
+      "spelling": "thàu-tsá tshut-mn̂g kiânn tang lòng sai jīn-tsin tsuè sing-lí",
+      "source_lines": [
+        146,
+        147
+      ]
+    },
+    {
+      "id": "line-149",
+      "text": "為著生活　大街小巷　哇拼到強袂死",
+      "spelling": "uī-tio̍h sing-ua̍h tuā ke sió-hāng uah piànn kàu kiông bē sí",
+      "source_lines": [
+        149,
+        150
+      ]
+    },
+    {
+      "id": "line-152",
+      "text": "不管長途短途　哇攏四處載",
+      "spelling": "m̄-kuán tn̂g tôo té tôo uah lóng sì-kè tsài",
+      "source_lines": [
+        152,
+        153
+      ]
+    },
+    {
+      "id": "line-155",
+      "text": "運將的兄弟呀　大家就打拼ㄟ！！！",
+      "spelling": "ùn-tsiàng ê hiann-tī oh ta̍k-ke tio̍h phah-piànn ê",
+      "source_lines": [
+        155,
+        156
+      ]
+    },
+    {
+      "id": "line-158",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        158,
+        159
+      ]
+    },
+    {
+      "id": "line-161",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        161,
+        162
+      ]
+    },
+    {
+      "id": "line-164",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        164,
+        165
+      ]
+    },
+    {
+      "id": "line-167",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        167,
+        168
+      ]
+    },
+    {
+      "id": "line-170",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        170,
+        171
+      ]
+    },
+    {
+      "id": "line-173",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        173,
+        174
+      ]
+    },
+    {
+      "id": "line-176",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        176,
+        177
+      ]
+    },
+    {
+      "id": "line-179",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        179,
+        180
+      ]
+    },
+    {
+      "id": "line-182",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        182,
+        183
+      ]
+    },
+    {
+      "id": "line-185",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        185,
+        186
+      ]
+    },
+    {
+      "id": "line-188",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        188,
+        189
+      ]
+    },
+    {
+      "id": "line-191",
+      "text": "嘿嘿TAXI　你開往何處",
+      "spelling": "hēihēi TAXI nǐ kāi wǎng hé chù",
+      "source_lines": [
+        191,
+        192
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [
+    {
+      "line": 1,
+      "text": "Note:  Words in italics are in Chinese."
+    }
+  ],
+  "reasons": [
+    "ambiguous_pair:24,25",
+    "ambiguous_pair:37,38",
+    "conflicting_spellings_for_repeated_text",
+    "source_note_requires_review:1"
+  ]
+}

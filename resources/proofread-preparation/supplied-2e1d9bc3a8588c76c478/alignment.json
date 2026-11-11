@@ -1,0 +1,545 @@
+{
+  "recording_id": "netease:248699",
+  "timing_source": "NetEase https://music.163.com/song?id=248699",
+  "manual_source": "User-supplied resources/lyrics-spelling/獨身女子-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "unresolved": 30,
+    "repeat": 2,
+    "gap": 3,
+    "exact": 2
+  },
+  "review_row_count": 32,
+  "unmatched_manual_ids": [
+    "line-37:0",
+    "line-43:0"
+  ],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-19:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-49:0",
+    "line-55:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 武雄",
+      "match_text": "作词 : 武雄",
+      "text": "作词 : 武雄",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 曾世扬",
+      "match_text": "作曲 : 曾世扬",
+      "text": "作曲 : 曾世扬",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 21.18,
+      "online_text": "一条路决定家已来作主",
+      "match_text": "一条路决定家已来作主",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 25.48,
+      "online_text": "一场梦应该有的拢嘛有",
+      "match_text": "一场梦应该有的拢嘛有",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 29.83,
+      "online_text": "一个人住置三十坪的厝",
+      "match_text": "一个人住置三十坪的厝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 33.74,
+      "online_text": "孤单的城中区",
+      "match_text": "孤单的城中区",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 38.87,
+      "online_text": "一顿一碗饭实在真歹煮",
+      "match_text": "一顿一碗饭实在真歹煮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 43.23,
+      "online_text": "一叠新衫卡穿嘛欠一舒",
+      "match_text": "一叠新衫卡穿嘛欠一舒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 47.77,
+      "online_text": "一条歌最感动的彼一句",
+      "match_text": "一条歌最感动的彼一句",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 51.61,
+      "online_text": "嘛到旦搁填无词",
+      "match_text": "嘛到旦搁填无词",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 57.38,
+      "online_text": "独身的女子",
+      "match_text": "独身的女子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 61.89,
+      "online_text": "期待有够久",
+      "match_text": "期待有够久",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 66.25,
+      "online_text": "为何心爱的心爱的心爱伊不认输",
+      "match_text": "为何心爱的心爱的心爱伊不认输",
+      "text": "為何心愛的心愛的心愛伊不認輸",
+      "spelling": "uī-hô sim-ài ê sim-ài ê sim-ài ê i m̄ līn-su",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 75.32,
+      "online_text": "情歌继续唱",
+      "match_text": "情歌继续唱",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 79.62,
+      "online_text": "缘份无蹲躇",
+      "match_text": "缘份无蹲躇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 84.1,
+      "online_text": "但愿有情人听见阮的心事",
+      "match_text": "但愿有情人听见阮的心事",
+      "text": "但願有情人聽見阮的心事",
+      "spelling": "tàn-guān ū-tsîng lâng thiann-tio̍h gún ê sim-sū",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 92.69,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 17,
+      "time": 118.99,
+      "online_text": "一条路决定家已来作主",
+      "match_text": "一条路决定家已来作主",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 123.32,
+      "online_text": "一场梦应该有的拢嘛有",
+      "match_text": "一场梦应该有的拢嘛有",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 127.67,
+      "online_text": "一个人住置三十坪的厝",
+      "match_text": "一个人住置三十坪的厝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 131.55,
+      "online_text": "孤单的城中区",
+      "match_text": "孤单的城中区",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 136.78,
+      "online_text": "一顿一碗饭实在真歹煮",
+      "match_text": "一顿一碗饭实在真歹煮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 140.98,
+      "online_text": "一叠新衫卡穿嘛欠一舒",
+      "match_text": "一叠新衫卡穿嘛欠一舒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 145.46,
+      "online_text": "一条歌最感动的彼一句",
+      "match_text": "一条歌最感动的彼一句",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 149.43,
+      "online_text": "嘛到旦搁填无词",
+      "match_text": "嘛到旦搁填无词",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 155.1,
+      "online_text": "独身的女子",
+      "match_text": "独身的女子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 159.84,
+      "online_text": "眠梦有够久",
+      "match_text": "眠梦有够久",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 164.03,
+      "online_text": "为何心爱的心爱的心爱伊彼自私",
+      "match_text": "为何心爱的心爱的心爱伊彼自私",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 172.98,
+      "online_text": "青春已经晏",
+      "match_text": "青春已经晏",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 177.33,
+      "online_text": "情路无人扶",
+      "match_text": "情路无人扶",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 182.14,
+      "online_text": "若是有情人哪通一再辜负",
+      "match_text": "若是有情人哪通一再辜负",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 191.1,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 32,
+      "time": 195.54,
+      "online_text": "独身的女子",
+      "match_text": "独身的女子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-37:0"
+    },
+    {
+      "source_row": 33,
+      "time": 199.83,
+      "online_text": "眠梦有够久",
+      "match_text": "眠梦有够久",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-37:0"
+    },
+    {
+      "source_row": 34,
+      "time": 204.2,
+      "online_text": "为何心爱的心爱的心爱伊彼自私",
+      "match_text": "为何心爱的心爱的心爱伊彼自私",
+      "text": "為何心愛的心愛的心愛伊彼自私",
+      "spelling": "uī-hô sim-ài ê sim-ài ê sim-ài ê i hia tsū-su",
+      "manual_id": "line-40:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 213.15,
+      "online_text": "青春已经晏",
+      "match_text": "青春已经晏",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-43:0"
+    },
+    {
+      "source_row": 36,
+      "time": 217.51,
+      "online_text": "情路无人扶",
+      "match_text": "情路无人扶",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-43:0"
+    },
+    {
+      "source_row": 37,
+      "time": 221.96,
+      "online_text": "若是有情人哪通一再辜负",
+      "match_text": "若是有情人哪通一再辜负",
+      "text": "若是有情人哪通一再辜負",
+      "spelling": "nā-sī ū-tsîng lâng ná thang it-tsài koo-hū",
+      "manual_id": "line-46:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 235.09,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "bed1f915f4475d4134b39f0fa8a7c06ba2612ef501a19a4c1c99754f0b5291bc",
+    "manual": "bd31dbf5d3656706945f038cfb3b049330b7200ee582ba68b7cae07fd8a93a7f",
+    "timed": "ff2cfa02d002d59a47909473bdeb2bdae996359d2bea8bc0bc067b6fd02c06e6"
+  }
+}

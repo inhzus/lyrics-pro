@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": 2704743635,
+      "title": "爱到无头神",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "爱情广播电台",
+      "duration": 243.722,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 35892801,
+      "title": "愛到無頭神",
+      "artists": [
+        "男子漢樂團"
+      ],
+      "album": "愛情廣播電台",
+      "duration": 244.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

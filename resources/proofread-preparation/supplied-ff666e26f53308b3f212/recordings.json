@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": "840578239",
+      "title": "疯猪哥",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "十一台",
+      "duration": 239.4,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "716535103",
+      "title": "疯猪哥",
+      "artists": [
+        "冠宇"
+      ],
+      "album": "单飞",
+      "duration": 237.667,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16557147,
+      "title": "瘋豬哥",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "十一台",
+      "duration": 239.568,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,243 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "我徛在這个無位通覕攏是黑沙的海邊",
+      "spelling": "guá khiā tsāi tsit-ê bô uī thàng bih lóng sī oo sua ê hái-pinn",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "對面的日頭照著一條一條銀色的海水",
+      "spelling": "tuì-bī ê ji̍t-thâu tsiò tio̍h tsi̍t tiâu tsi̍t tiâu gîn-sik ê hái-tsuí",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "生狂的風將阮的頭毛拍結規身軀黏黐黐",
+      "spelling": "tshenn-kông ê hong tsiang gún ê thâu-mn̂g phah-kat kui-sin liâm-thi-thi",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "遠遠的所在浮著鹹鹹氣味規排的蚵棚",
+      "spelling": "hn̄g-hn̄g ê sóo-tsāi phû tio̍h kiâm kiâm khì-bī kui pâi ê ô pînn",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "沈落的太陽催我趕緊離開這个黃昏時",
+      "spelling": "tîm lo̍h ê thài-iông tshui guá kuánn-kín lâi-khì tsit-ê hông-hun sî",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "紅色的天光也漸漸收煞真快就會來反青",
+      "spelling": "âng-sik ê thinn kng iā tsiām-tsiām siu-suah tsin kín tio̍h ē lâi huán tshing",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "看沒到你佇我的身邊心肝突然雄雄來覺醒",
+      "spelling": "khuànn bô tio̍h lí tī guá ē sin-pinn sim-kuann hiông-hiông lâi kak-tshínn",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "我已經毋是無知懵懂四界走的少年時",
+      "spelling": "guá í-king m̄ sī bô-ti bóng-tóng sì-kè tsáu ē siàu-liân sî",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "哪會 攏無人                       看來看去 攏無人",
+      "spelling": "ná ē lóng bô lâng            khuànn-lâi-khuànn-khì lóng bô lâng",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "哪會 攏無人",
+          "spelling": "ná ē lóng bô lâng"
+        },
+        {
+          "text": "看來看去 攏無人",
+          "spelling": "khuànn-lâi-khuànn-khì lóng bô lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "街仔路嘛 攏無人                           戲棚跤嘛 攏無人",
+      "spelling": "ke-á lōo mah lóng bô lâng        hì pînn kha mah lóng bô lâng",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "街仔路嘛 攏無人",
+          "spelling": "ke-á lōo mah lóng bô lâng"
+        },
+        {
+          "text": "戲棚跤嘛 攏無人",
+          "spelling": "hì pînn kha mah lóng bô lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "路遮大條 攏無人                              路燈跤嘛 攏無人",
+      "spelling": "lōo jia tuā tiâu lóng bô lâng        lōo-ting kha mah lóng bô lâng",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "路遮大條 攏無人",
+          "spelling": "lōo jia tuā tiâu lóng bô lâng"
+        },
+        {
+          "text": "路燈跤嘛 攏無人",
+          "spelling": "lōo-ting kha mah lóng bô lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "剃頭店嘛 攏無人                                       大廟口嘛 攏無人",
+      "spelling": "thì-thâu tiàm mah lóng bô lâng          tuā biō kháu mah lóng bô lâng",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "剃頭店嘛 攏無人",
+          "spelling": "thì-thâu tiàm mah lóng bô lâng"
+        },
+        {
+          "text": "大廟口嘛 攏無人",
+          "spelling": "tuā biō kháu mah lóng bô lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "日時就是 攏無人                    暗時也是 攏無人",
+      "spelling": "ji̍t-sî tō sī lóng bô lâng        àm-sî iā-sī lóng bô lâng",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "日時就是 攏無人",
+          "spelling": "ji̍t-sî tō sī lóng bô lâng"
+        },
+        {
+          "text": "暗時也是 攏無人",
+          "spelling": "àm-sî iā-sī lóng bô lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "我的身邊 攏無人                             按怎揣嘛 揣無人",
+      "spelling": "guá ē sin-pinn lóng bô lâng        án-tsuánn tshuē mah tshuē bô lâng",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "我的身邊 攏無人",
+          "spelling": "guá ē sin-pinn lóng bô lâng"
+        },
+        {
+          "text": "按怎揣嘛 揣無人",
+          "spelling": "án-tsuánn tshuē mah tshuē bô lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "天頂的月娘七早八早浮佇懸懸的半天",
+      "spelling": "thinn-tíng ē ge̍h-niû tshit-tsá-peh-tsá phû tī kuâinn kuâinn ē puànn thinn",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "頭前的烏雲嘛無遮到遠遠閃爍的都市",
+      "spelling": "thâu-tsîng ē oo-hûn mah bô jia tio̍h hn̄g-hn̄g siám-sih ē too-tshī",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "規群的蠓仔挵到車窗一隻一隻全部碎骨分屍",
+      "spelling": "kui kûn ē báng-á lòng tio̍h tshia-thang tsi̍t tsiah tsi̍t tsiah tsuân-pōo tshuì kut hun si",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "我著愛等待明仔早仔猶原出現的露水",
+      "spelling": "guá tio̍h ài tán-thāi bîng-á tsá-á iu-guâ tshut-hiān ē lōo-tsuí",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "啦……",
+      "spelling": "lah……",
+      "source_lines": [
+        57,
+        58
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：伍佰   作曲：伍佰 台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

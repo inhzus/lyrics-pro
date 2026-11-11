@@ -1,0 +1,462 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "你嘸免愛我 愛到這呢艱苦",
+      "spelling": "lí m̄-bián ài guá ài-kàu tsia-nî kan-khóo",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "驚乎我耽誤 咱就到這結束",
+      "spelling": "kiann hōo guá tam-gōo lán tio̍h kàu tsia kiat-sok",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "嘜吞吞吐吐 一直嫌我不好",
+      "spelling": "mài thun-thun-thòo-thòo it-ti̍t hiâm guá m̄ hó",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "你按怎打算 我心裡有數",
+      "spelling": "lí án-tsuánn phah-sǹg guá sim-lāi ū sòo",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "我明明看你 落雨彼下晡",
+      "spelling": "guá bîng-bîng khuànn lí lo̍h-hōo hit ē-poo",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "甲伊手牽手 作陣在散步",
+      "spelling": "kah i tshiú-khan-tshiú tsuè tīn teh sàn-pōo",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "我一個人雄雄不知 欲走去叨",
+      "spelling": "guá tsi̍t ê lâng hiông-hiông m̄ tsai beh kiânn khì tho",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "只有一句祝你幸福",
+      "spelling": "tsí-ū tsi̍t kù tsiok lí hīng-hok",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "一個人走傷心的路",
+      "spelling": "tsi̍t ê lâng kiânn siong-sim ê lōo",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "你有伊陪伴疼惜",
+      "spelling": "lí ū i puê-phuānn thiànn-sioh",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "我想日子應該無煩無惱",
+      "spelling": "guá siūnn li̍t-tsí ing-kai bô huân bô ló",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "我會真心祝你幸福",
+      "spelling": "guá ē tsin-sim tsiok lí hīng-hok",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "你就放心走你的路",
+      "spelling": "lí tio̍h hòng-sim kiânn lí ê lōo",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "卡袜到時陣 再來搬一齣愛情悲劇",
+      "spelling": "khá buē tio̍h sî-tsūn tsài-lâi puann tsi̍t tshut ài-tsîng pi-kio̍k",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "我乎你自由 去找你的幸福",
+      "spelling": "guá hōo lí tsū-iû khì tshuē lí ê hīng-hok",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "傷心的寂寞 我早就有覺悟",
+      "spelling": "siong-sim ê siok-bo̍k guá tsá tio̍h ū kak-ngōo",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "在路上遇到 嘸免來打招呼",
+      "spelling": "tī lōo-siōng gū-tio̍h m̄-bián lâi phah-tsio-hoo",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "嘜乎你身邊 那個人吃醋",
+      "spelling": "mài hōo lí sin-pinn hit ê lâng tsia̍h-tshòo",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "無你的痛苦 過幾年就好",
+      "spelling": "bô lí ê thòng-khóo kuè kuí nî tio̍h hó",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "只要你幸福 我就真滿足",
+      "spelling": "tsí-iàu lí hīng-hok guá tio̍h tsin buán-tsiok",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "我知影甲你有愛過 按乃就好",
+      "spelling": "guá tsai-iánn kah lí ū ài kuè àn ne tio̍h hó",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "只有一句祝你幸福",
+      "spelling": "tsí-ū tsi̍t kù tsiok lí hīng-hok",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "一個人走傷心的路",
+      "spelling": "tsi̍t ê lâng kiânn siong-sim ê lōo",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "你有伊陪伴疼惜",
+      "spelling": "lí ū i puê-phuānn thiànn-sioh",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "我想日子應該無煩無惱",
+      "spelling": "guá siūnn li̍t-tsí ing-kai bô huân bô ló",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "我會真心祝你幸福",
+      "spelling": "guá ē tsin-sim tsiok lí hīng-hok",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "你就放心走你的路",
+      "spelling": "lí tio̍h hòng-sim kiânn lí ê lōo",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "卡袜到時陣 再來搬一齣愛情悲劇",
+      "spelling": "khá buē tio̍h sî-tsūn tsài-lâi puann tsi̍t tshut ài-tsîng pi-kio̍k",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "只是我想起你 猶原也是會感覺心痛",
+      "spelling": "tsí-sī guá siūnn-khí lí iu-guân iā-sī ē kám-kak sim-thiànn",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "不知你想起我 是甚麼感覺",
+      "spelling": "m̄ tsai lí siūnn-khí guá sī siánn kám-kak",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "我會誠心祝你幸福",
+      "spelling": "guá ē sîng-sim tsiok lí hīng-hok",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "不管經過多少風雨",
+      "spelling": "m̄-kuán king-kuè guā-tsuē hong-hōo",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "把吃苦當作吃補",
+      "spelling": "kā tsia̍h khóo tòng-tsuē tsia̍h-póo",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "嘸免你煩惱 我未來如何",
+      "spelling": "m̄-bián lí huân-ló guá bī-lâi lû-hô",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "我會真心祝你幸福",
+      "spelling": "guá ē tsin-sim tsiok lí hīng-hok",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "一個人去打拚前途",
+      "spelling": "tsi̍t ê lâng khì phah-piànn tsîng tôo",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "人生這條路 我相信 我會愈走愈好",
+      "spelling": "lîn-sing tsit tiâu lōo guá siang-sìn guá ē lú kiânn lú hó",
+      "source_lines": [
+        111,
+        112
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "只是我想起你 猶原也是會感覺心痛",
+      "spelling": "tsí-sī guá siūnn-khí lí iu-guân iā-sī ē kám-kak sim-thiànn",
+      "source_lines": [
+        114,
+        115
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "不知你想起我 是甚麼感覺",
+      "spelling": "m̄ tsai lí siūnn-khí guá sī siánn kám-kak",
+      "source_lines": [
+        117,
+        118
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "只有一句祝你幸福",
+      "spelling": "tsí-ū tsi̍t kù tsiok lí hīng-hok",
+      "source_lines": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "一個人走傷心的路",
+      "spelling": "tsi̍t ê lâng kiânn siong-sim ê lōo",
+      "source_lines": [
+        123,
+        124
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "你有伊陪伴疼惜",
+      "spelling": "lí ū i puê-phuānn thiànn-sioh",
+      "source_lines": [
+        126,
+        127
+      ]
+    },
+    {
+      "id": "line-129",
+      "text": "你應該無煩無惱",
+      "spelling": "lí ing-kai bô huân bô ló",
+      "source_lines": [
+        129,
+        130
+      ]
+    },
+    {
+      "id": "line-132",
+      "text": "放心走 你的路",
+      "spelling": "hòng-sim kiânn lí ê lōo",
+      "source_lines": [
+        132,
+        133
+      ]
+    },
+    {
+      "id": "line-135",
+      "text": "卡袜到時陣 再來搬 愛情悲劇",
+      "spelling": "khá buē tio̍h sî-tsūn tsài-lâi puann tsi̍t tshut ài-tsîng pi-kio̍k",
+      "source_lines": [
+        135,
+        136
+      ]
+    },
+    {
+      "id": "line-138",
+      "text": "我會誠心祝你幸福",
+      "spelling": "guá ē sîng-sim tsiok lí hīng-hok",
+      "source_lines": [
+        138,
+        139
+      ]
+    },
+    {
+      "id": "line-141",
+      "text": "不管經過多少風雨",
+      "spelling": "m̄-kuán king-kuè guā-tsuē hong-hōo",
+      "source_lines": [
+        141,
+        142
+      ]
+    },
+    {
+      "id": "line-144",
+      "text": "把吃苦當作吃補",
+      "spelling": "kā tsia̍h khóo tòng-tsuē tsia̍h-póo",
+      "source_lines": [
+        144,
+        145
+      ]
+    },
+    {
+      "id": "line-147",
+      "text": "嘸免你煩惱 我未來如何",
+      "spelling": "m̄-bián lí huân-ló guá bī-lâi lû-hô",
+      "source_lines": [
+        147,
+        148
+      ]
+    },
+    {
+      "id": "line-150",
+      "text": "人生這條路 我相信 我會愈走愈好",
+      "spelling": "lîn-sing tsit tiâu lōo guá siang-sìn guá ē lú kiânn lú hó",
+      "source_lines": [
+        150,
+        151
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：胡如虹   作曲：謝和弦、康有韋"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

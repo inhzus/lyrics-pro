@@ -1,0 +1,331 @@
+{
+  "schema_version": 1,
+  "id": "supplied-b50a1dcdc27788c1d8e3",
+  "revision": "1",
+  "title": "無聲的所在",
+  "title_aliases": [],
+  "artist": "伍佰 & China Blue",
+  "album": "电影歌曲典藏1992-2000",
+  "duration": 267.933,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：陳世杰   作曲：伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:156994",
+    "timing_source": "NetEase https://music.163.com/song?id=156994",
+    "manual_source": "resources/lyrics-spelling/無聲的所在-03-無聲的所在-伍佰",
+    "audio_verified": false,
+    "agent_review": "Use source occurrences in order for 放大氣/放輕鬆 and first/second-verse spelling variants; merge copied columns only within an existing provider event.",
+    "input_sha256": {
+      "original": "a825d5de3dff5e07bdd041ba8d036b0121772f015d632d28df8cec2e74594f73",
+      "manual": "493c64020fa8cc077804538503dee5cbe4bf897ee69eba66f997958bc6f6845c",
+      "timed": "a095cdc0a40c06dcb77b564c032d54c48c8521c1e471bac2dcf1b57c9f65fc54"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "exact": 12,
+      "approximate": 13
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 42.939,
+        "online_text": "行這呢久 是不是感覺有淡薄仔累",
+        "status": "exact",
+        "text": "行這呢久 是不是感覺有淡薄仔累",
+        "spelling": "kiânn tsia nî kú sī m̄ sī kám-kak ū tām-po̍h á thiám",
+        "manual_id": "line-3:0+line-3:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 54.809,
+        "online_text": "敢緊找一個無聲的所在 一個會凍喘大氣的所在",
+        "status": "approximate",
+        "text": "趕緊找一個無聲的所在 一個會凍喘大氣的所在",
+        "spelling": "kuánn-kín tshuē tsi̍t ê bô-siann ê sóo-tsāi tsi̍t ê ē tàng tshuán tuā-khùi ê sóo-tsāi",
+        "manual_id": "line-7:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 62.229,
+        "online_text": "緩緩仔躺落來",
+        "status": "exact",
+        "text": "緩緩仔 躺落來",
+        "spelling": "khuann khuann á the lo̍h-lâi",
+        "manual_id": "line-11:0+line-11:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 67.899,
+        "online_text": "撐這麼久 險險嘛地要忘記仔要衝啥咪",
+        "status": "approximate",
+        "text": "撐這呢久 險險嘛地要忘記仔要衝啥物",
+        "spelling": "kēng tsia nî kú hiám hiám mah to beh bē-kìt tit á beh tshiong siánn mi̍h",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 79.19,
+        "online_text": "敢緊找一個無聲的所在 一個會凍放輕鬆的所在",
+        "status": "approximate",
+        "text": "趕緊找一個無聲的所在 一個會凍放大氣的所在",
+        "spelling": "kuánn-kín tshuē tsi̍t ê bô-siann ê sóo-tsāi tsi̍t ê ē tàng tuā-khùi ê sóo-tsāi",
+        "manual_id": "line-19:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 86.329,
+        "online_text": "慢慢仔想看嘛",
+        "status": "exact",
+        "text": "慢慢仔 想看嘛",
+        "spelling": "bān bān ê siūnn khuànn mah",
+        "manual_id": "line-63:0+line-63:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 92.479,
+        "online_text": "惦在這座銅牆鐵壁的深山林內",
+        "status": "approximate",
+        "text": "踮在這座銅牆鐵壁的深山林內",
+        "spelling": "liam tiàm tsit tsō tâng tshiûnn thih piah ê tshim-suann nâ-lāi",
+        "manual_id": "line-67:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 95.189,
+        "online_text": "紛紛擾擾 吵吵鬧鬧的日子活下來",
+        "status": "exact",
+        "text": "紛紛擾擾 吵吵鬧鬧的日子活下來",
+        "spelling": "hun-hun jiáu jiáu tshau tshau nāu nāu ê ji̍t-tsí ua̍h lo̍h-lâi",
+        "manual_id": "line-71:0+line-71:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 99.719,
+        "online_text": "安怎艱苦的心事 顛倒愛吞落腹肚內",
+        "status": "exact",
+        "text": "安怎艱苦的心事 顛倒愛吞落腹肚內",
+        "spelling": "an-tsuánn kan-khóo ê sim-sū tian-tò ài thun lo̍h pak tóo lāi",
+        "manual_id": "line-75:0+line-75:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 106.789,
+        "online_text": "惦在這個漂流之島 沒情的世界",
+        "status": "approximate",
+        "text": "踮在這個漂流之島 無情的世界",
+        "spelling": "liam tsāi tsit-hō phiau-liû tsi tó bô-tsîng ê sè-kài",
+        "manual_id": "line-39:0+line-39:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 109.289,
+        "online_text": "生生死死 分分合合的日子看過來",
+        "status": "exact",
+        "text": "生生死死 分分合合的日子看過來",
+        "spelling": "sing sing sí sí hun hun ha̍p ha̍p ê ji̍t-tsí khuànn kuè-lâi",
+        "manual_id": "line-43:0+line-43:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 113.209,
+        "online_text": "安怎摻血的目屎 得愛一擺擱流一擺",
+        "status": "approximate",
+        "text": "安怎摻血的目屎 就愛一擺擱流一擺",
+        "spelling": "an-tsuánn tshàm-hueh ê ba̍k-sái tio̍h ài tsi̍t-pái kô͘ lâu tsi̍t-pái",
+        "manual_id": "line-87:0+line-91:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 149.9,
+        "online_text": "撐這麼久 險險嘛地要忘記仔要衝啥咪",
+        "status": "approximate",
+        "text": "撐這呢久 險險嘛地要賣記仔要衝啥物",
+        "spelling": "kiânn tsia nî kú hiám hiám mah to beh bē-kìt tit á beh tshiong siánn mi̍h",
+        "manual_id": "line-55:0+line-55:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 160.829,
+        "online_text": "敢緊找一個無聲的所在 一個會凍放輕鬆的所在",
+        "status": "approximate",
+        "text": "趕緊找一個無聲的所在 一個會凍放輕鬆的所在",
+        "spelling": "kuánn-kín tshuē tsi̍t ê bô-siann ê sóo-tsāi tsi̍t ê ē tàng tuā-khùi ê sóo-tsāi",
+        "manual_id": "line-59:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 168.1,
+        "online_text": "慢慢仔想看嘛",
+        "status": "exact",
+        "text": "慢慢仔 想看嘛",
+        "spelling": "bān bān ê siūnn khuànn mah",
+        "manual_id": "line-63:0+line-63:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 173.93,
+        "online_text": "惦在這座銅牆鐵壁的深山林內",
+        "status": "approximate",
+        "text": "踮在這座銅牆鐵壁的深山林內",
+        "spelling": "liam tiàm tsit tsō tâng tshiûnn thih piah ê tshim-suann nâ-lāi",
+        "manual_id": "line-67:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 176.67,
+        "online_text": "紛紛擾擾 吵吵鬧鬧的日子活下來",
+        "status": "exact",
+        "text": "紛紛擾擾 吵吵鬧鬧的日子活下來",
+        "spelling": "hun-hun jiáu jiáu tshau tshau nāu nāu ê ji̍t-tsí ua̍h lo̍h-lâi",
+        "manual_id": "line-71:0+line-71:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 180.96,
+        "online_text": "安怎艱苦的心事 顛倒愛吞落腹肚內",
+        "status": "exact",
+        "text": "安怎艱苦的心事 顛倒愛吞落腹肚內",
+        "spelling": "an-tsuánn kan-khóo ê sim-sū tian-tò ài thun lo̍h pak tóo lāi",
+        "manual_id": "line-75:0+line-75:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 187.43,
+        "online_text": "惦在這個漂流之島 沒情的世界",
+        "status": "approximate",
+        "text": "踮在這個漂流之島 無情的世界",
+        "spelling": "liam tsāi tsit-hō phiau-liû tsi tó    bô-tsîng ê sè-kài",
+        "manual_id": "line-79:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 190.14,
+        "online_text": "生生死死 分分合合的日子看過來",
+        "status": "exact",
+        "text": "生生死死 分分 合合的日子看過來",
+        "spelling": "sing sing sí sí hun hun ha̍p ha̍p ê ji̍t-tsí khuànn kuè-lâi",
+        "manual_id": "line-83:0+line-83:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 193.91,
+        "online_text": "安怎摻血的目屎 得愛一擺擱流一擺",
+        "status": "approximate",
+        "text": "安怎摻血的目屎 就愛一擺擱流一擺",
+        "spelling": "an-tsuánn tshàm-hueh ê ba̍k-sái tio̍h ài tsi̍t-pái kô͘ lâu tsi̍t-pái",
+        "manual_id": "line-87:0+line-91:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 215.92,
+        "online_text": "痛這呢久 親像浮在無底的大海",
+        "status": "exact",
+        "text": "痛這呢久 親像浮在無底的大海",
+        "spelling": "thiànn tsia nî kú tshin tshiūnn phû tī bô-té ê tuā-hái",
+        "manual_id": "line-95:0+line-95:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 228.2,
+        "online_text": "敢緊找一個無聲的所在 一個真正無聲無息的所在",
+        "status": "approximate",
+        "text": "趕緊找一個無聲的所在 一個真正無聲無息的所在",
+        "spelling": "kuánn-kín tshuē tsi̍t ê bô-siann ê sóo-tsāi tsi̍t ê ē tàng tshuán tuā-khùi ê sóo-tsāi",
+        "manual_id": "line-99:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 235.73,
+        "online_text": "惦惦仔 一個人",
+        "status": "approximate",
+        "text": "恬恬仔 一個人",
+        "spelling": "tiām-tiām á tsi̍t ê lâng",
+        "manual_id": "line-103:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 242.2,
+        "online_text": "哭悲哀",
+        "status": "exact",
+        "text": "哭悲哀",
+        "spelling": "khàu pi-ai",
+        "manual_id": "line-103:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

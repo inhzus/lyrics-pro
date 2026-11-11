@@ -1,0 +1,344 @@
+{
+  "schema_version": 1,
+  "id": "supplied-9e39fa38d2424d4a8876",
+  "revision": "1",
+  "title": "漂浪",
+  "title_aliases": [],
+  "artist": "伍佰 & China Blue",
+  "album": "树枝孤鸟",
+  "duration": 245.36,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:157174",
+    "timing_source": "NetEase https://music.163.com/song?id=157174",
+    "manual_source": "resources/lyrics-spelling/漂浪-伍佰",
+    "audio_verified": false,
+    "agent_review": "Join supplied columns and preserve the inspected pronoun and wording differences.",
+    "input_sha256": {
+      "original": "3eecc2249ce5d4a864c36e573a6fecce98fe22723be05d49a031d30ca16f77f3",
+      "manual": "6a38def8ab1485d5b64b34948d72a56351d9a7092b31f068b012e2ffbdc90333",
+      "timed": "224d8896f2437fb65680c69e149b40f893aac333c8eee1212d5db872b2c2e557"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "credit": 4,
+      "approximate": 11,
+      "exact": 11
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作词 : 伍佰",
+        "status": "credit",
+        "text": "作词 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 1.0,
+        "online_text": "作曲 : 伍佰",
+        "status": "credit",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 2.0,
+        "online_text": "编曲 : 伍佰 & China Blue",
+        "status": "credit",
+        "text": "编曲 : 伍佰 & China Blue",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 3.0,
+        "online_text": "制作人 : 伍佰",
+        "status": "credit",
+        "text": "制作人 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 26.29,
+        "online_text": "你若袂轻松 搁饮些酒来茫",
+        "status": "approximate",
+        "text": "你若袂輕鬆 擱飲些酒來茫",
+        "spelling": "lí ná  bē khin-sang khǹg ím kuá tsiú lâi bâng",
+        "manual_id": "line-3:0+line-3:1",
+        "review": [
+          "Join supplied columns and preserve the inspected pronoun and wording differences."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 30.24,
+        "online_text": "冻那牵拖什麽如此甲这般",
+        "status": "approximate",
+        "text": "麥凍那牽拖什麼如此甲這般",
+        "spelling": "mài tòng nà khan-thua siánn-mih lû-tshú kah tse-puann",
+        "manual_id": "line-6:0",
+        "review": [
+          "Join supplied columns and preserve the inspected pronoun and wording differences."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 34.57,
+        "online_text": "你若袂轻松 搁饮些酒来茫",
+        "status": "approximate",
+        "text": "你若袂輕鬆 擱飲些酒來茫",
+        "spelling": "lí ná  bē khin-sang khǹg ím kuá tsiú lâi bâng",
+        "manual_id": "line-3:0+line-3:1",
+        "review": [
+          "Join supplied columns and preserve the inspected pronoun and wording differences."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 38.82,
+        "online_text": "茫乎伊面红红 心脏霹噗喘",
+        "status": "exact",
+        "text": "茫乎伊面紅紅 心臟霹噗喘",
+        "spelling": "bâng honnh i biān âng âng sim-tsōng phik pho̍k tshuán",
+        "manual_id": "line-12:0+line-12:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 47.23,
+        "online_text": "我的是你的 说暂时没问题",
+        "status": "exact",
+        "text": "我的是你的 說暫時沒問題",
+        "spelling": "guá ê sī lí ê kóng tsiām-sî bô būn-tê",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 51.53,
+        "online_text": "朋友的交陪 咱不通太超过",
+        "status": "exact",
+        "text": "朋友的交陪 咱不通太超過",
+        "spelling": "pîng-iú ê kau-puê lán m̄-thang siunn tshiau-kuè",
+        "manual_id": "line-18:0+line-18:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 55.87,
+        "online_text": "酒是袂嫌多 说人生是短短",
+        "status": "exact",
+        "text": "酒是袂嫌多 說人生是短短",
+        "spelling": "tsiú sī buē hiâm tsē kóng lîn-sing sī té té",
+        "manual_id": "line-21:0+line-21:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 60.21,
+        "online_text": "郁卒的代志 咱互相会体会",
+        "status": "exact",
+        "text": "鬱卒的代誌 咱互相會體會",
+        "spelling": "ut-tsut ê tāi-tsì lán hōo siong ē thé-huē",
+        "manual_id": "line-24:0+line-24:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 64.59,
+        "online_text": "半瞑的梦中 有贴心啊的面容",
+        "status": "exact",
+        "text": "半瞑的夢中 有貼心啊的面容",
+        "spelling": "puànn mî ê bāng-tiong ū tah-sim ah ē bīn-iông",
+        "manual_id": "line-27:0+line-27:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 73.3,
+        "online_text": "对你已不再玲珑转 你哪不说话",
+        "status": "approximate",
+        "text": "對妳已不在玲瓏轉 妳哪不說話",
+        "spelling": "tuì lí í put-tsāi lin-long se̍h lí ná m̄ kóng-uē",
+        "manual_id": "line-30:0+line-30:1",
+        "review": [
+          "Join supplied columns and preserve the inspected pronoun and wording differences."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 124.17,
+        "online_text": "你若袂轻松 搁饮些酒来茫",
+        "status": "approximate",
+        "text": "你若袂輕鬆 擱飲些酒來茫",
+        "spelling": "lí ná  bē khin-sang khǹg ím kuá tsiú lâi bâng",
+        "manual_id": "line-3:0+line-3:1",
+        "review": [
+          "Join supplied columns and preserve the inspected pronoun and wording differences."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 128.31,
+        "online_text": "心内的忧闷咱暂时且甲放",
+        "status": "exact",
+        "text": "心內的憂悶 咱暫時且甲放",
+        "spelling": "sim-lāi ē iu-būn lán tsiām-sî tshiánn kah pàng",
+        "manual_id": "line-36:0+line-36:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 132.59,
+        "online_text": "满面的春风 有七逃时的莽",
+        "status": "exact",
+        "text": "滿面的春風 有七逃時的莽",
+        "spelling": "muá-bīn ē tshun-hong ū tshit tô sî ê bóng",
+        "manual_id": "line-39:0+line-39:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 136.78,
+        "online_text": "饮酒的时 哇哪着爱豪爽",
+        "status": "approximate",
+        "text": "飲酒的時袸 哇哪著愛豪爽",
+        "spelling": "ím tsiú ê sî tsūn oa ná tio̍h ài hô sóng",
+        "manual_id": "line-42:0+line-42:1",
+        "review": [
+          "Join supplied columns and preserve the inspected pronoun and wording differences."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 141.78,
+        "online_text": "半瞑的梦中 有贴心啊的面容",
+        "status": "exact",
+        "text": "半瞑的夢中 有貼心啊的面容",
+        "spelling": "puànn mî ê bāng-tiong ū tah-sim ah ē bīn-iông",
+        "manual_id": "line-27:0+line-27:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 150.45,
+        "online_text": "对你已不再玲珑转 你哪不说话",
+        "status": "approximate",
+        "text": "對妳已不在玲瓏轉 妳哪不說話",
+        "spelling": "tuì lí í put-tsāi lin-long se̍h lí ná m̄ kóng-uē",
+        "manual_id": "line-30:0+line-30:1",
+        "review": [
+          "Join supplied columns and preserve the inspected pronoun and wording differences."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 158.96,
+        "online_text": "摇着你的身躯 摇着你的手",
+        "status": "exact",
+        "text": "搖著你的身軀 搖著你的手",
+        "spelling": "iô tio̍h lí ê sin-khu iô tio̍h lí ê tshiú",
+        "manual_id": "line-51:0+line-51:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 163.16,
+        "online_text": "迷人的脚步 有淡薄啊温柔",
+        "status": "exact",
+        "text": "迷人的腳步 有淡薄啊溫柔",
+        "spelling": "bê-lâng ê kha-pōo ū tām-po̍h ah un-jiû",
+        "manual_id": "line-54:0+line-54:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 167.45,
+        "online_text": "心头哪快活 搁欢喜来唱歌",
+        "status": "approximate",
+        "text": "心情哪快活 擱歡喜來唱歌",
+        "spelling": "sim-tsîng ná khuìnn-ua̍h khǹg huann-hí lâi tshiùnn-kua",
+        "manual_id": "line-57:0+line-57:1",
+        "review": [
+          "Join supplied columns and preserve the inspected pronoun and wording differences."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 171.53,
+        "online_text": "漂浪啊漂浪哇哪不通太虚华",
+        "status": "approximate",
+        "text": "漂浪罔漂浪 哇哪不通太虛華",
+        "spelling": "phiau lâng bóng phiau lâng oa ná m̄-thang siunn hi-hua",
+        "manual_id": "line-60:0+line-60:1",
+        "review": [
+          "Join supplied columns and preserve the inspected pronoun and wording differences."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 176.0,
+        "online_text": "漂浪啊漂浪哇哪不通太虚华",
+        "status": "approximate",
+        "text": "漂浪罔漂浪 哇哪不通太虛華",
+        "spelling": "phiau lâng bóng phiau lâng oa ná m̄-thang siunn hi-hua",
+        "manual_id": "line-60:0+line-60:1",
+        "review": [
+          "Join supplied columns and preserve the inspected pronoun and wording differences."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 180.2,
+        "online_text": "漂浪啊漂浪哇哪不通太虚华",
+        "status": "approximate",
+        "text": "漂浪罔漂浪 哇哪不通太虛華",
+        "spelling": "phiau lâng bóng phiau lâng oa ná m̄-thang siunn hi-hua",
+        "manual_id": "line-60:0+line-60:1",
+        "review": [
+          "Join supplied columns and preserve the inspected pronoun and wording differences."
+        ]
+      }
+    ]
+  }
+}

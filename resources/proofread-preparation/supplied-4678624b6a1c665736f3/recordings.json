@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 2704743637,
+      "title": "尪婿",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "爱情广播电台",
+      "duration": 260.527,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

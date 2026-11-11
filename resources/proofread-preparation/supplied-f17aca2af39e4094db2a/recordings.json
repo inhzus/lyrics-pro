@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 478203277,
+      "title": "二十四",
+      "artists": [
+        "孩子王"
+      ],
+      "album": "最窘丸",
+      "duration": 306.504,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1230303049",
+      "title": "二十四",
+      "artists": [
+        "孩子王"
+      ],
+      "album": "最窘丸",
+      "duration": 306.468,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1600239844",
+      "title": "二十四",
+      "artists": [
+        "步步高升"
+      ],
+      "album": "扫尘日的背景音乐 - 扫尘来了,适合扫房子的放松音乐,新世纪音乐,器乐歌曲, 扬尘、清洗的配乐",
+      "duration": 345.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,356 @@
+{
+  "schema_version": 1,
+  "id": "supplied-f81396bc56aedc738c99",
+  "revision": "1",
+  "title": "種子",
+  "title_aliases": [],
+  "artist": "伍佰 & China Blue",
+  "album": "钉子花",
+  "duration": 317.371,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:449769021",
+    "timing_source": "NetEase https://music.163.com/song?id=449769021",
+    "manual_source": "resources/lyrics-spelling/種子-伍佰",
+    "audio_verified": false,
+    "agent_review": "Join supplied columns and repeated groups; retain 註定 at both corresponding events.",
+    "input_sha256": {
+      "original": "f63a61a2cc516086675e1e0fcbd10eadacf2e6a9651baba7abd389a76d6ea789",
+      "manual": "60ec334759c157200276bc0604a63ff989bff51b5bbc4855d5ea6f18ca4d025e",
+      "timed": "1d1af5f779c6c66588854fe0900acfcbb16e916244b8512a0cdc5cf6cdc4cb2e"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "credit": 2,
+      "exact": 23,
+      "approximate": 2
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作词 : 伍佰",
+        "status": "credit",
+        "text": "作词 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 1.0,
+        "online_text": "作曲 : 伍佰",
+        "status": "credit",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 48.26,
+        "online_text": "风叫我飞去佗位 我就爱飞去佗位",
+        "status": "exact",
+        "text": "風叫我飛去佗位 我就愛飛去佗位",
+        "spelling": "hong kiò guá pue khì tó uī guá tsiū ài pue khì tó uī",
+        "manual_id": "line-3:0+line-3:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 55.66,
+        "online_text": "背井离乡 流浪千里",
+        "status": "exact",
+        "text": "背井離鄉 流浪千里",
+        "spelling": "puē puē-tsínn lī-hiong liû-lōng tshian-lí",
+        "manual_id": "line-6:0+line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 66.37,
+        "online_text": "或者是山跤海边 或者是过海上天",
+        "status": "exact",
+        "text": "或者是山跤海邊 或者是過海上天",
+        "spelling": "he̍k-chiá sī suann-kha hái-pinn he̍k-chiá sī kuè-hái tsiūnn-thinn",
+        "manual_id": "line-9:0+line-9:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 73.56,
+        "online_text": "我也犹原 无法主意",
+        "status": "exact",
+        "text": "我也猶原 無法主意",
+        "spelling": "guá iā iu-guân bô huat tsú-ì",
+        "manual_id": "line-12:0+line-12:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 85.42,
+        "online_text": "我是一粒流浪的种子 人生就是无限的延迟",
+        "status": "exact",
+        "text": "我是一粒流浪的種子 人生就是無限的延遲",
+        "spelling": "guá sī tsi̍t lia̍p liû-lōng ê tsíng-tsí lîn-sing tio̍h-sī tio̍h-sī bû-hān ê iân-tî",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 94.17,
+        "online_text": "行到佗 揣到佗 行到遮 徛伫遮",
+        "status": "exact",
+        "text": "行到佗 揣到佗 行到遮 徛佇遮",
+        "spelling": "kiânn kàu toh tsué kàu toh kiânn kàu jia khiā tī jia",
+        "manual_id": "line-18:0+line-18:1+line-18:2+line-18:3",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 103.38,
+        "online_text": "无限的风将我吹 无停的雨将我淋",
+        "status": "exact",
+        "text": "無限的風將我吹 無停的雨將我淋",
+        "spelling": "bô hān ê hong tsiong guá tshue bô thîng ê hōo tsiong guá lâm",
+        "manual_id": "line-21:0+line-21:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 112.17,
+        "online_text": "就是因为欲 揣到妳",
+        "status": "exact",
+        "text": "就是因為欲 揣到妳",
+        "spelling": "tsiū sī in-uī beh tsué tio̍h lí",
+        "manual_id": "line-24:0+line-24:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 119.34,
+        "online_text": "无论妳天涯海角",
+        "status": "exact",
+        "text": "無論妳天涯海角",
+        "spelling": "bô-lūn lí thian-gâi-hái-kak",
+        "manual_id": "line-27:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 123.89,
+        "online_text": "咱会来旋藤开花 咱会来生叶发枝",
+        "status": "exact",
+        "text": "咱會來旋藤開花 咱會來生葉發枝",
+        "spelling": "lán ē lâi suan-tîn khui-hue lán ē lâi senn hio̍h huat ki",
+        "manual_id": "line-30:0+line-30:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 133.09,
+        "online_text": "注定是一生的走揣",
+        "status": "approximate",
+        "text": "註定是一生的走揣",
+        "spelling": "tsù-tīn sī it-sing ē tsáu-tshuē",
+        "manual_id": "line-33:0",
+        "review": [
+          "Join supplied columns and repeated groups; retain 註定 at both corresponding events."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 138.84,
+        "online_text": "只有我佮妳 咱两人黏做伙 无人剥会开",
+        "status": "exact",
+        "text": "只有我佮妳 咱兩人黏做伙 無人剝會開",
+        "spelling": "tsí-ū guá kah lí lán nn̄g lâng liâm tsò-hué bô-lâng pak ē khui",
+        "manual_id": "line-36:0+line-36:1+line-36:2",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 146.26,
+        "online_text": "做伙来相倚落土",
+        "status": "exact",
+        "text": "做伙來相倚落土",
+        "spelling": "tsò hué lâi sio-uá lo̍h-thóo",
+        "manual_id": "line-39:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 188.24,
+        "online_text": "我想欲飞去佗位 嘛无法飞去佗位",
+        "status": "exact",
+        "text": "我想欲飛去佗位 嘛無法飛去佗位",
+        "spelling": "guá siūnn beh pue khì tó-uī mah bô huat pue khì tó-uī",
+        "manual_id": "line-42:0+line-42:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 195.28,
+        "online_text": "我是一粒 小小种子",
+        "status": "exact",
+        "text": "我是一粒 小小種子",
+        "spelling": "guá sī tsi̍t lia̍p sió sió tsíng-tsí",
+        "manual_id": "line-45:0+line-45:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 206.54,
+        "online_text": "但是我无论何时 会当来从头做起",
+        "status": "exact",
+        "text": "但是我無論何時 會當來從頭做起",
+        "spelling": "tān sī guá bô-lūn hô-sî ē-tàng lâi tuì-thâu tsuè-khí",
+        "manual_id": "line-48:0+line-48:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 213.61,
+        "online_text": "只因为我 来拄到妳",
+        "status": "exact",
+        "text": "只因為我 來拄到妳",
+        "spelling": "tsí in-uī guá lâi tú tio̍h lí",
+        "manual_id": "line-51:0+line-51:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 223.04,
+        "online_text": "风吹我流浪万里",
+        "status": "exact",
+        "text": "風吹我流浪萬里",
+        "spelling": "hong tshue guá liû-lōng bān-lí",
+        "manual_id": "line-54:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 227.49,
+        "online_text": "我经过苦甘日子 我渡过海波浪水",
+        "status": "exact",
+        "text": "我經過苦甘日子 我渡過海波浪水",
+        "spelling": "guá king-kuè khóo-kam li̍t-tsí guá tōo kuè hái-pho lōng tsuí",
+        "manual_id": "line-57:0+line-57:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 236.35,
+        "online_text": "犹原是有意义 因为",
+        "status": "exact",
+        "text": "猶原是有意義  因為",
+        "spelling": "iu-guân sī ū ì-gī   in-uī",
+        "manual_id": "line-60:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 240.97,
+        "online_text": "无论妳天涯海角",
+        "status": "exact",
+        "text": "無論妳天涯海角",
+        "spelling": "bô-lūn lí thian-gâi-hái-kak",
+        "manual_id": "line-27:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 245.62,
+        "online_text": "咱会来旋藤开花 咱会来生叶发枝",
+        "status": "exact",
+        "text": "咱會來旋藤開花 咱會來生葉發枝",
+        "spelling": "lán ē lâi suan-tîn khui-hue lán ē lâi senn hio̍h huat ki",
+        "manual_id": "line-30:0+line-30:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 254.79,
+        "online_text": "注定是一生的走揣",
+        "status": "approximate",
+        "text": "註定是一生的走揣",
+        "spelling": "tsù-tīn sī it-sing ē tsáu-tshuē",
+        "manual_id": "line-33:0",
+        "review": [
+          "Join supplied columns and repeated groups; retain 註定 at both corresponding events."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 260.88,
+        "online_text": "只有我佮妳 咱两人黏做伙 无人剥会开",
+        "status": "exact",
+        "text": "只有我佮妳 咱兩人黏做伙 無人剝會開",
+        "spelling": "tsí-ū guá kah lí lán nn̄g lâng liâm tsò-hué bô-lâng pak ē khui",
+        "manual_id": "line-36:0+line-36:1+line-36:2",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 268.36,
+        "online_text": "做伙来相倚落土",
+        "status": "exact",
+        "text": "做伙來相倚落土",
+        "spelling": "tsò hué lâi sio-uá lo̍h-thóo",
+        "manual_id": "line-39:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      }
+    ]
+  }
+}

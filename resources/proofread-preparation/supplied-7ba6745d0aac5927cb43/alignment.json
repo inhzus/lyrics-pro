@@ -1,0 +1,1107 @@
+{
+  "recording_id": "lrclib:8803841",
+  "timing_source": "LRCLIB https://lrclib.net/api/get/8803841",
+  "manual_source": "User-supplied resources/lyrics-spelling/放蕩不羈-草屯囝仔",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "repeat": 32,
+    "unresolved": 9,
+    "exact": 39,
+    "approximate": 1,
+    "gap": 1
+  },
+  "review_row_count": 49,
+  "unmatched_manual_ids": [
+    "line-121:0",
+    "line-124:0",
+    "line-127:0",
+    "line-130:0",
+    "line-133:0"
+  ],
+  "unused_repeat_ids": [],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 19.88,
+      "online_text": "阮放蕩不羈欸形影",
+      "match_text": "阮放蕩不羈欸形影",
+      "text": "阮放蕩不羈欸形影",
+      "spelling": "gún hòng-tōng put tînn ê hîng-iánn",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 22.37,
+      "online_text": "流傳每一條街巷",
+      "match_text": "流傳每一條街巷",
+      "text": "流傳每一條街巷",
+      "spelling": "liû-thuân muí tsi̍t tiâu ke hāng",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 24.89,
+      "online_text": "惦大漢後 想起細漢時",
+      "match_text": "惦大漢後 想起細漢時",
+      "text": "惦大漢後 想起細漢時",
+      "spelling": "tiām tuā-hàn āu siūnn-khí sè-hàn sî",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 27.61,
+      "online_text": "多少共鳴欸記憶",
+      "match_text": "多少共鳴欸記憶",
+      "text": "多少共鳴欸記憶",
+      "spelling": "guā-tsē kiōng-bîng ê kì-ik",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 30.0,
+      "online_text": "心內那位幼稚欸靈魂",
+      "match_text": "心內那位幼稚欸靈魂",
+      "text": "心內那位幼稚欸靈魂",
+      "spelling": "sim-lāi hit-uī iù-tī ê lîng-hûn",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 32.52,
+      "online_text": "甘依然漂泊臭屁",
+      "match_text": "甘依然漂泊臭屁",
+      "text": "甘依然漂泊臭屁",
+      "spelling": "kam i-jiân phiau-pi̍k tshàu-phuì",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 35.19,
+      "online_text": "所有珍貴欸寶藏",
+      "match_text": "所有珍貴欸寶藏",
+      "text": "所有珍貴欸寶藏",
+      "spelling": "sóo tin-kuì ê pó-tsōng",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 37.36,
+      "online_text": "隨阮年紀向前行",
+      "match_text": "隨阮年紀向前行",
+      "text": "隨阮年紀向前行",
+      "spelling": "suî gún nî-kí hiòng-tsiân hîng",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 40.22,
+      "online_text": "(立勝)",
+      "match_text": "(立勝)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 40.74,
+      "online_text": "真的 咱走過的風沙是",
+      "match_text": "真的 咱走過的風沙是",
+      "text": "真的 咱走過的風沙是",
+      "spelling": "tsin ê lán kiânn-kuè ê hong-sua sī",
+      "manual_id": "line-25:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 43.05,
+      "online_text": "真的 對自己從來沒感覺",
+      "match_text": "真的 對自己從來沒感覺",
+      "text": "真的 對自己從來沒感覺",
+      "spelling": "tsin ê tuì ka-kī tsiông-lâi bô kám-kak",
+      "manual_id": "line-28:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 45.5,
+      "online_text": "失禮 死了後 回頭看",
+      "match_text": "失禮 死了後 回頭看",
+      "text": "失禮 死了後 回頭看",
+      "spelling": "sit-lé sí liáu-āu huê-thâu khuànn",
+      "manual_id": "line-31:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 47.81,
+      "online_text": "屍體 想法是同款猶原未改變",
+      "match_text": "屍體 想法是同款猶原未改變",
+      "text": "屍體 想法是同款猶原未改變",
+      "spelling": "si-thé siūnn-huat sī kāng-khuán iû-guân buē kái-piàn",
+      "manual_id": "line-34:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 50.84,
+      "online_text": "面對咱欸理想心態 是痴狂",
+      "match_text": "面對咱欸理想心態 是痴狂",
+      "text": "面對咱欸理想心態 是痴狂",
+      "spelling": "bīn-tuì lán ê lí-sióng sim-thài sī tshi kông",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 53.2,
+      "online_text": "時常衝動 啥攏沒 只有直直撞",
+      "match_text": "時常衝動 啥攏沒 只有直直撞",
+      "text": "時常衝動 啥攏沒 只有直直撞",
+      "spelling": "sî-siông tshóng-pōng siánn lóng bô kan-nā ti̍t-ti̍t tōng",
+      "manual_id": "line-40:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 55.64,
+      "online_text": "沒成功過 甘會後悔人生安奈過",
+      "match_text": "沒成功過 甘會後悔人生安奈過",
+      "text": "沒成功過 甘會後悔人生安奈過",
+      "spelling": "bô sîng-kong kuè kam-ē hiō-hué lîn-sing an-nāi kuè",
+      "manual_id": "line-43:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 58.22,
+      "online_text": "一句話 未 整個靈魂灌惦在裡面",
+      "match_text": "一句話 未 整個靈魂灌惦在裡面",
+      "text": "一句話 未 整個靈魂灌惦在裡面",
+      "spelling": "tsi̍t kù uē buē kui-ê lîng-hûn kuàn tiām tī lāi-té",
+      "manual_id": "line-46:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 60.97,
+      "online_text": "抱著 良心 自己問",
+      "match_text": "抱著 良心 自己問",
+      "text": "抱著 良心 自己問",
+      "spelling": "phō-tio̍h liông-sim ka-kī mn̄g",
+      "manual_id": "line-49:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 63.01,
+      "online_text": "這樣甘算浪費青春 自己問",
+      "match_text": "這樣甘算浪費青春 自己問",
+      "text": "這樣甘算浪費青春 自己問",
+      "spelling": "án-ne kam sǹg lōng-huì tshing-tshun ka-kī mn̄g",
+      "manual_id": "line-52:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 65.53,
+      "online_text": "用生命 在拚最後一口氣",
+      "match_text": "用生命 在拚最後一口氣",
+      "text": "用生命 在拚最後一口氣",
+      "spelling": "iōng sìnn-miā leh piànn tsuè-āu tsi̍t-kháu-khui",
+      "manual_id": "line-55:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 67.93,
+      "online_text": "開的花蕊 這樣才會水 回憶",
+      "match_text": "開的花蕊 這樣才會水 回憶",
+      "text": "開的花蕊 這樣才會水 回憶",
+      "spelling": "khui ê hue-luí án-ne tsiah ē tsuí huê-ik",
+      "manual_id": "line-58:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 71.03,
+      "online_text": "起來過程是辛酸",
+      "match_text": "起來過程是辛酸",
+      "text": "起來過程是辛酸",
+      "spelling": "khí-lâi kuè-tîng sī sim-sng",
+      "manual_id": "line-61:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 72.72,
+      "online_text": "但迷人欸是對它迷戀欸熱情 勝過結霜",
+      "match_text": "但迷人欸是對它迷戀欸熱情 勝過結霜",
+      "text": "但迷人欸是對它迷戀欸熱情 勝過結霜",
+      "spelling": "nā bê-lâng ê sī tuì i bê-luân ê lia̍t-tsîng sìng-kuè gîng-sng",
+      "manual_id": "line-64:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 76.04,
+      "online_text": "站惦這 我照常 站惦這",
+      "match_text": "站惦這 我照常 站惦這",
+      "text": "站惦這 我照常 站惦這",
+      "spelling": "khiā tiām tsia guá tsiàu siông khiā tiām tsia",
+      "manual_id": "line-67:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 78.38,
+      "online_text": "十年過啊 歌 我照原在寫",
+      "match_text": "十年過啊 歌 我照原在寫",
+      "text": "十年過啊 歌 我照原在寫",
+      "spelling": "tsa̍p nî kuè ah kua guá tsiàu-guân leh siá",
+      "manual_id": "line-70:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 80.31,
+      "online_text": "(阿倉)",
+      "match_text": "(阿倉)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 80.88,
+      "online_text": "阮放蕩不羈欸形影",
+      "match_text": "阮放蕩不羈欸形影",
+      "text": "阮放蕩不羈欸形影",
+      "spelling": "gún hòng-tōng put tînn ê hîng-iánn",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 82.88,
+      "online_text": "流傳每一條街巷",
+      "match_text": "流傳每一條街巷",
+      "text": "流傳每一條街巷",
+      "spelling": "liû-thuân muí tsi̍t tiâu ke hāng",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 85.55,
+      "online_text": "惦大漢後 想起細漢時",
+      "match_text": "惦大漢後 想起細漢時",
+      "text": "惦大漢後 想起細漢時",
+      "spelling": "tiām tuā-hàn āu siūnn-khí sè-hàn sî",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 88.14,
+      "online_text": "多少共鳴欸記憶",
+      "match_text": "多少共鳴欸記憶",
+      "text": "多少共鳴欸記憶",
+      "spelling": "guā-tsē kiōng-bîng ê kì-ik",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 90.79,
+      "online_text": "心內那位幼稚欸靈魂",
+      "match_text": "心內那位幼稚欸靈魂",
+      "text": "心內那位幼稚欸靈魂",
+      "spelling": "sim-lāi hit-uī iù-tī ê lîng-hûn",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 93.14,
+      "online_text": "甘依然漂泊臭屁",
+      "match_text": "甘依然漂泊臭屁",
+      "text": "甘依然漂泊臭屁",
+      "spelling": "kam i-jiân phiau-pi̍k tshàu-phuì",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 95.71,
+      "online_text": "所有珍貴欸寶藏",
+      "match_text": "所有珍貴欸寶藏",
+      "text": "所有珍貴欸寶藏",
+      "spelling": "sóo tin-kuì ê pó-tsōng",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 97.99,
+      "online_text": "隨阮年紀向前行",
+      "match_text": "隨阮年紀向前行",
+      "text": "隨阮年紀向前行",
+      "spelling": "suî gún nî-kí hiòng-tsiân hîng",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 100.65,
+      "online_text": "(樞育)",
+      "match_text": "(樞育)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 101.22,
+      "online_text": "我尚珍貴欸記憶惦細漢時",
+      "match_text": "我尚珍貴欸記憶惦細漢時",
+      "text": "我尚珍貴欸記憶惦細漢時",
+      "spelling": "guá siōng tinn-kuì ê kì-ik tiām sè-hàn-sî",
+      "manual_id": "line-97:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 103.32,
+      "online_text": "我想起我記憶尚臭屁欸過去",
+      "match_text": "我想起我記憶尚臭屁欸過去",
+      "text": "我想起我記憶尚臭屁欸過去",
+      "spelling": "guá siūnn-khí guá kì-ik siōng tshàu-phuì ê kuè-khì",
+      "manual_id": "line-100:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 105.74,
+      "online_text": "不是你有法度體會",
+      "match_text": "不是你有法度體會",
+      "text": "不是你有法度體會",
+      "spelling": "m̄ sī lí ū huat-tōo thé-huē",
+      "manual_id": "line-103:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 107.68,
+      "online_text": "你若想要知影走我現在馬上帶你飛",
+      "match_text": "你若想要知影走我現在馬上帶你飛",
+      "text": "你若想要知影走我現在馬上帶你飛",
+      "spelling": "lí ná siūnn-beh tsai-iánn kiânn guá tsit-má má-siōng tsah lí pue",
+      "manual_id": "line-106:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 110.74,
+      "online_text": "變成石頭上後躺",
+      "match_text": "變成石頭上後躺",
+      "text": "變成石頭上後躺",
+      "spelling": "piàn-sîng tsio̍h-thâu siōng āu the",
+      "manual_id": "line-109:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 112.18,
+      "online_text": "暫時別管是這還是那",
+      "match_text": "暫時別管是這還是那",
+      "text": "暫時別管是這還是那",
+      "spelling": "tsiām-sî mài kuán sī tsia ia̍h-sī he",
+      "manual_id": "line-112:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 41,
+      "time": 113.94,
+      "online_text": "人生本來就有起飛跟落衰",
+      "match_text": "人生本來就有起飛跟落衰",
+      "text": "人生本來就有起飛跟落衰",
+      "spelling": "lîn-sing pún-lâi tio̍h ū khí pue kā lo̍h-tse",
+      "manual_id": "line-115:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 116.44,
+      "online_text": "現在算咱衰 但我一定要打破那面阻礙我欸壁 百面妥當沒問題",
+      "match_text": "現在算咱衰 但我一定要打破那面阻礙我欸壁 百面妥當沒問題",
+      "text": "現在算咱衰 但我一定要打破那面阻礙我欸壁",
+      "spelling": "tsit-má sǹg lán sue tān guá it-tīng beh phah-phuà hit-bīn tsóo-gāi guá ê piah",
+      "manual_id": "line-118:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.844444
+    },
+    {
+      "source_row": 43,
+      "time": 121.69,
+      "online_text": "少年狂 是誰在講 我尚緊繃 沒人會凍比我狠 比我衝繃",
+      "match_text": "少年狂 是誰在講 我尚緊繃 沒人會凍比我狠 比我衝繃",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 131.89,
+      "online_text": "誰輕狂 誰比我勇 頭殼空空 沒人會凍比我暈 飛惦空中",
+      "match_text": "誰輕狂 誰比我勇 頭殼空空 沒人會凍比我暈 飛惦空中",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 141.16,
+      "online_text": "(阿倉)",
+      "match_text": "(阿倉)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 141.44,
+      "online_text": "阮放蕩不羈欸形影",
+      "match_text": "阮放蕩不羈欸形影",
+      "text": "阮放蕩不羈欸形影",
+      "spelling": "gún hòng-tōng put tînn ê hîng-iánn",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 47,
+      "time": 143.41,
+      "online_text": "流傳每一條街巷",
+      "match_text": "流傳每一條街巷",
+      "text": "流傳每一條街巷",
+      "spelling": "liû-thuân muí tsi̍t tiâu ke hāng",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 48,
+      "time": 146.33,
+      "online_text": "惦大漢後 想起細漢時",
+      "match_text": "惦大漢後 想起細漢時",
+      "text": "惦大漢後 想起細漢時",
+      "spelling": "tiām tuā-hàn āu siūnn-khí sè-hàn sî",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 49,
+      "time": 148.86,
+      "online_text": "多少共鳴欸記憶",
+      "match_text": "多少共鳴欸記憶",
+      "text": "多少共鳴欸記憶",
+      "spelling": "guā-tsē kiōng-bîng ê kì-ik",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 50,
+      "time": 151.35,
+      "online_text": "心內那位幼稚欸靈魂",
+      "match_text": "心內那位幼稚欸靈魂",
+      "text": "心內那位幼稚欸靈魂",
+      "spelling": "sim-lāi hit-uī iù-tī ê lîng-hûn",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 51,
+      "time": 153.95,
+      "online_text": "甘依然漂泊臭屁",
+      "match_text": "甘依然漂泊臭屁",
+      "text": "甘依然漂泊臭屁",
+      "spelling": "kam i-jiân phiau-pi̍k tshàu-phuì",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 52,
+      "time": 156.4,
+      "online_text": "所有珍貴欸寶藏",
+      "match_text": "所有珍貴欸寶藏",
+      "text": "所有珍貴欸寶藏",
+      "spelling": "sóo tin-kuì ê pó-tsōng",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 53,
+      "time": 158.66,
+      "online_text": "隨阮年紀向前行",
+      "match_text": "隨阮年紀向前行",
+      "text": "隨阮年紀向前行",
+      "spelling": "suî gún nî-kí hiòng-tsiân hîng",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 54,
+      "time": 161.11,
+      "online_text": "(屁辰)",
+      "match_text": "(屁辰)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 55,
+      "time": 162.19,
+      "online_text": "大漢之後才知 少年青狂放蕩欸我",
+      "match_text": "大漢之後才知 少年青狂放蕩欸我",
+      "text": "大漢之後才知 少年青狂放蕩欸我",
+      "spelling": "tuā-hàn liáu-āu tsiah tsai siàu-liân tshing kông hòng-tōng ê guá",
+      "manual_id": "line-160:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 56,
+      "time": 165.76,
+      "online_text": "歸身軀都是膽 輸贏插小你是誰",
+      "match_text": "歸身軀都是膽 輸贏插小你是誰",
+      "text": "歸身軀都是膽 輸贏插小你是誰",
+      "spelling": "kui-sin-khu lóng sī tánn su-iânn tshah siáu lí sī siánn",
+      "manual_id": "line-163:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 57,
+      "time": 168.98,
+      "online_text": "轉頭看著是我欸影 漂泊欸日子沒暝沒日",
+      "match_text": "轉頭看著是我欸影 漂泊欸日子沒暝沒日",
+      "text": "轉頭看著是我欸影 漂泊欸日子沒暝沒日",
+      "spelling": "ua̍t-thâu khuànn-tio̍h sī guá ê iánn phiau-pi̍k ê li̍t-tsí bô mê bô ji̍t",
+      "manual_id": "line-166:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 58,
+      "time": 173.47,
+      "online_text": "若受傷沒人同情 生長欸過程你我都同款",
+      "match_text": "若受傷沒人同情 生長欸過程你我都同款",
+      "text": "若受傷沒人同情 生長欸過程你我都同款",
+      "spelling": "ná siū-siong bô-lâng tông-tsîng sing-tióng ê kuè-tîng lí-guá lóng kāng-khuán",
+      "manual_id": "line-169:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 59,
+      "time": 177.02,
+      "online_text": "想到細漢時欸影 看到人來我就跑",
+      "match_text": "想到細漢時欸影 看到人來我就跑",
+      "text": "想到細漢時欸影 看到人來我就跑",
+      "spelling": "siūnn-tio̍h sè-hàn sî ê iánn khuànn-tio̍h lâng lâi guá tio̍h tsáu",
+      "manual_id": "line-172:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 60,
+      "time": 181.42,
+      "online_text": "踩叉 細漢時欸腳步",
+      "match_text": "踩叉 細漢時欸腳步",
+      "text": "踩叉 細漢時欸腳步",
+      "spelling": "ta̍h tshe sè-hàn sî ê kha-pōo",
+      "manual_id": "line-175:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 61,
+      "time": 184.17,
+      "online_text": "厝內剩我 爸媽我要成功",
+      "match_text": "厝內剩我 爸媽我要成功",
+      "text": "厝內剩我 爸媽我要成功",
+      "spelling": "tshù-lāi tshun guá pē-bú guá ài sîng-kong",
+      "manual_id": "line-178:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 62,
+      "time": 186.76,
+      "online_text": "有困難不擱耽誤 因為有我驕傲",
+      "match_text": "有困難不擱耽誤 因為有我驕傲",
+      "text": "有困難不擱耽誤 因為有我驕傲",
+      "spelling": "ū khùn-lân bē-koh tam-ngōo in-uī ū guá kiau-ngōo",
+      "manual_id": "line-181:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 63,
+      "time": 189.14,
+      "online_text": "新欸開始新欸我 不放棄選擇欸路",
+      "match_text": "新欸開始新欸我 不放棄選擇欸路",
+      "text": "新欸開始新欸我 不放棄選擇欸路",
+      "spelling": "sin ê khai-sí sin ê guá bē hòng-khì suán-ti̍k ê lōo",
+      "manual_id": "line-184:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 64,
+      "time": 192.26,
+      "online_text": "只有向前走 成功不錯過 肯打拼",
+      "match_text": "只有向前走 成功不錯過 肯打拼",
+      "text": "只有向前走 成功不錯過 肯打拼",
+      "spelling": "tsí-ū hiòng-tsiân kiânn sîng-kong bē-tshò-siàu khíong phah-piànn",
+      "manual_id": "line-187:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 65,
+      "time": 195.91,
+      "online_text": "為著厝內欸人 性命在博 事業在大",
+      "match_text": "為著厝內欸人 性命在博 事業在大",
+      "text": "為著厝內欸人 性命在博 事業在大",
+      "spelling": "uī-tio̍h tshù-lāi ê lâng sìnn-miā tī phok sū-gia̍p tī tuā",
+      "manual_id": "line-190:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 66,
+      "time": 198.46,
+      "online_text": "聽 這是命運吉他聲",
+      "match_text": "聽 這是命運吉他聲",
+      "text": "聽 這是命運吉他聲",
+      "spelling": "thiann tse sī miā-ūn gì-tà siann",
+      "manual_id": "line-193:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 67,
+      "time": 201.08,
+      "online_text": "(阿倉)",
+      "match_text": "(阿倉)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 68,
+      "time": 201.76,
+      "online_text": "恩怨 喔",
+      "match_text": "恩怨 喔",
+      "text": "恩怨 喔",
+      "spelling": "un-uàn ooh",
+      "manual_id": "line-196:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 69,
+      "time": 206.65,
+      "online_text": "卻結束惦歲月欸末端",
+      "match_text": "卻結束惦歲月欸末端",
+      "text": "卻結束惦歲月欸末端",
+      "spelling": "suah kiat-sok tiām suè-gua̍t ê bua̍t tuann",
+      "manual_id": "line-199:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 70,
+      "time": 211.53,
+      "online_text": "遺憾 喔",
+      "match_text": "遺憾 喔",
+      "text": "遺憾 喔",
+      "spelling": "uî-hām ooh",
+      "manual_id": "line-202:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 71,
+      "time": 216.64,
+      "online_text": "隨風飄流恁甘欸不甘",
+      "match_text": "隨風飄流恁甘欸不甘",
+      "text": "隨風飄流恁甘欸不甘",
+      "spelling": "suî hong phiau liû lin kam ê m̄-kam",
+      "manual_id": "line-205:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 72,
+      "time": 221.4,
+      "online_text": "(阿倉)",
+      "match_text": "(阿倉)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 73,
+      "time": 221.88,
+      "online_text": "阮放蕩不羈欸形影",
+      "match_text": "阮放蕩不羈欸形影",
+      "text": "阮放蕩不羈欸形影",
+      "spelling": "gún hòng-tōng put tînn ê hîng-iánn",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 74,
+      "time": 224.34,
+      "online_text": "流傳每一條街巷",
+      "match_text": "流傳每一條街巷",
+      "text": "流傳每一條街巷",
+      "spelling": "liû-thuân muí tsi̍t tiâu ke hāng",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 75,
+      "time": 227.09,
+      "online_text": "惦大漢後 想起細漢時",
+      "match_text": "惦大漢後 想起細漢時",
+      "text": "惦大漢後 想起細漢時",
+      "spelling": "tiām tuā-hàn āu siūnn-khí sè-hàn sî",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 76,
+      "time": 229.63,
+      "online_text": "多少共鳴欸記憶",
+      "match_text": "多少共鳴欸記憶",
+      "text": "多少共鳴欸記憶",
+      "spelling": "guā-tsē kiōng-bîng ê kì-ik",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 77,
+      "time": 232.28,
+      "online_text": "心內那位幼稚欸靈魂",
+      "match_text": "心內那位幼稚欸靈魂",
+      "text": "心內那位幼稚欸靈魂",
+      "spelling": "sim-lāi hit-uī iù-tī ê lîng-hûn",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 78,
+      "time": 234.61,
+      "online_text": "甘依然漂泊臭屁",
+      "match_text": "甘依然漂泊臭屁",
+      "text": "甘依然漂泊臭屁",
+      "spelling": "kam i-jiân phiau-pi̍k tshàu-phuì",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 79,
+      "time": 237.26,
+      "online_text": "所有珍貴欸寶藏",
+      "match_text": "所有珍貴欸寶藏",
+      "text": "所有珍貴欸寶藏",
+      "spelling": "sóo tin-kuì ê pó-tsōng",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 80,
+      "time": 239.45,
+      "online_text": "隨阮年紀向前行",
+      "match_text": "隨阮年紀向前行",
+      "text": "隨阮年紀向前行",
+      "spelling": "suî gún nî-kí hiòng-tsiân hîng",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 81,
+      "time": 243.06,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "9abd6a0d4b2bb56dbf63c59a4b03d6eeba3503cb9e3d41f17f13341e18dab003",
+    "manual": "dcd022018c8aab5139075a184982c999ddc0bcb4cff7f0a48b8ea4b599b69ca1",
+    "timed": "39259c269d5eda373ed7edc45af0dd71288daef25081ef466f06deadb45c0fdc"
+  }
+}

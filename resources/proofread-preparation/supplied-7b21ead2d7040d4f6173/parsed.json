@@ -1,0 +1,277 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "我想要 逃離這個所在",
+      "spelling": "guá siūnn-buē tô-lī tsit-ê sóo-tsāi",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "將一切 狠狠的放下來",
+      "spelling": "tsiòng it-tshè hiông hiông ê khǹg lo̍h-lâi",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "來時的路 越遠行李越重",
+      "spelling": "lâi sî ê lōo lú hn̄g-hîng lí lú tāng",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "編織的夢 越大心內越空",
+      "spelling": "pian-tsit ê bāng lú tuā sim-lāi lú khàng",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "我想要 找一個新世界",
+      "spelling": "guá siūnn-buē tshuē tsi̍t ê sin-sè-kài",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "將所有 歸零以後重來",
+      "spelling": "tsiòng sóo-ú kui lîng í-āu tîng-lâi",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "得到的甜 越滿人生越貪",
+      "spelling": "tit-tio̍h ê tinn lú muá lîn-sing lú tham",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "失去的苦 越多心內越寒",
+      "spelling": "sit-khì ê khóo lú tsuē sim-lāi lú hân",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "所以",
+      "spelling": "sóo-í",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "我想要 找回當初的自己",
+      "spelling": "guá siūnn-buē tshuē huê tong-tshoo ê tsū-kí",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "憨直的堅持 善良無邪的相信",
+      "spelling": "gōng-ti̍t ê kian-tshî siān-liông bô-siâ ê siong-sìn",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "所以",
+      "spelling": "sóo-í",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "我想要 回到當初的起點",
+      "spelling": "guá siūnn-buē huê-kàu tong-tshoo ê khí-tiám",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "回到我的心 初初純然的模樣",
+      "spelling": "huê-kàu guá ê sim tshoo tshoo sûn-jiân ê bôo-iūnn",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "我想要 找一個新世界",
+      "spelling": "guá siūnn-buē tshuē tsi̍t ê sin-sè-kài",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "將所有 歸零以後重來",
+      "spelling": "tsiòng sóo-ú kui lîng í-āu tîng-lâi",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "得到的甜 越滿人生越貪",
+      "spelling": "tit-tio̍h ê tinn lú muá lîn-sing lú tham",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "失去的苦 越多心內越寒",
+      "spelling": "sit-khì ê khóo lú tsuē sim-lāi lú hân",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "所以",
+      "spelling": "sóo-í",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "我想要 找回當初的自己",
+      "spelling": "guá siūnn-buē tshuē huê tong-tshoo ê tsū-kí",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "憨直的堅持 善良無邪的相信",
+      "spelling": "gōng-ti̍t ê kian-tshî siān-liông bô-siâ ê siong-sìn",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "所以",
+      "spelling": "sóo-í",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "我想要 回到當初的起點",
+      "spelling": "guá siūnn-buē huê-kàu tong-tshoo ê khí-tiám",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "回到我的心 初初純然的模樣",
+      "spelling": "huê-kàu guá ê sim tshoo tshoo sûn-jiân ê bôo-iūnn",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "所以",
+      "spelling": "sóo-í",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "我想要 找回當初的自己",
+      "spelling": "guá siūnn-buē tshuē huê tong-tshoo ê tsū-kí",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "憨直的堅持 善良無邪的相信",
+      "spelling": "gōng-ti̍t ê kian-tshî siān-liông bô-siâ ê siong-sìn",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "所以",
+      "spelling": "sóo-í",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "我想要 回到當初的起點",
+      "spelling": "guá siūnn-buē huê-kàu tong-tshoo ê khí-tiám",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "回到我的心 初初純然的模樣",
+      "spelling": "huê-kàu guá ê sim tshoo tshoo sûn-jiân ê bôo-iūnn",
+      "source_lines": [
+        88,
+        89
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

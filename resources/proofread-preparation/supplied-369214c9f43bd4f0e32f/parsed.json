@@ -1,0 +1,605 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "沒在管啥 哪有啥差 挺你到底",
+      "spelling": "bô leh kuán siánn ná-ū siánn tsua̍h thiānn lí kàu-té",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "沒在管啥 哪有啥差 挺你到底",
+      "spelling": "bô leh kuán siánn ná-ū siánn tsua̍h thiānn lí kàu-té",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "無碖事情啥 挺你到底",
+      "spelling": "bô-lūn tāi-tsì siánn thīn lí tàu-té",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "阮會挺你挺你 阮會阮會挺你挺你",
+      "spelling": "gún ē thīn lí thīn lí gún ē gún ē thīn lí thīn lí",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "阮會挺你挺你 阮會阮會挺你挺你",
+      "spelling": "gún ē thīn lí thīn lí gún ē gún ē thīn lí thīn lí",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "阮會挺你挺你 阮會阮會挺你挺你 這 都是咱 自己",
+      "spelling": "gún ē thīn lí thīn lí gún ē gún ē thīn lí thīn lí tsia lóng sī lán ka-kī",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "這首 做給咱的兄弟",
+      "spelling": "tsit tiâu tsò hōo lán ê hiann-tī",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "咱大家庭 沒再分 誰是弟弟",
+      "spelling": "lán tuā-ke tîng bô leh hun siánn sī tī-tî",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "若要賺錢 絕對沒分 我跟你",
+      "spelling": "nā-khó thàn-tsînn tsua̍t-tuì bô hun guá kā lí",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "講都講兄弟 但咱不是做自己",
+      "spelling": "kóng lóng kóng hiann-tī tān lán m̄ sī tsò ka-kī",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "欲走黑暗的路 咱就作伙走",
+      "spelling": "beh kiânn oo-àm ê lōo lán tio̍h tsò-hué kiânn",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "你若跟人有過節 咱就作伙拚",
+      "spelling": "lí nā kā lâng ū kè-gio̍k lán tio̍h tsò-hué piànn",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "你沒車想要去哪 我就借你騎",
+      "spelling": "lí bô tshia siūnn-beh khì tó guá tio̍h tsioh lí khiâ",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "沒錢吃飯 不要緊 我給你請",
+      "spelling": "bô tshînn tsia̍h-pn̄g bô iàu-kín guá kā lí tshiánn",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "一個兩個三個 兄弟都是自己的",
+      "spelling": "tsi̍t ê nn̄g-ê sann-ê hiann-tī lóng sī ka-kī ê",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "一個兩個三個 兄弟不分黑和白",
+      "spelling": "tsi̍t ê nn̄g-ê sann-ê hiann-tī bô-hun oo kā pe̍h",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "若要分東西 都拿 公平",
+      "spelling": "nā-beh pun mi̍h-kiānn tsong the̍h kong-pênn",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "不可能吵架 絕對沒人拿較多",
+      "spelling": "bô-khó-lîng uan-ke tsua̍t-tuì bô-lâng the̍h khah tsē",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "阮 不是黑社會",
+      "spelling": "gún m̄ sī oo siā-huē",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "阮 只是一起飛",
+      "spelling": "gún tsí-sī tsò-hué pue",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "阮 會一起走過",
+      "spelling": "gún ē tsò-hué kiânn-kuè",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "所有困難跟難關 不管流多少血",
+      "spelling": "sóo-iú khùn-lân kā lân-kuan m̄-kuán lâu guā-tsē hueh",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "好兄弟跟鄉親我的心就挺你",
+      "spelling": "hó hiann-tī kā hiong-tshin guá ê sim tio̍h thīn lí",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "就算要去地獄我絕對也會陪你",
+      "spelling": "tio̍h sǹg beh khì tē-ga̍k guá tsua̍t-tuì iā ē puê lí",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "好兄弟跟鄉親我的心挺你",
+      "spelling": "hó hiann-tī kā hiong-tshin guá ê sim thīn lí",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "你若相信 咱 做伙賺錢",
+      "spelling": "lí nā siong-sìn lán tsò-hué thàn-tsînn",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "我若菸草 他就是那張Paper",
+      "spelling": "guá nā hun tsháu i tio̍h-sī hit tiunn Paper",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "作伙燒出全世界最好的Flavor",
+      "spelling": "tsò-hué sio tshut tsuân sè-kài siōng hó ê Flavor",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "讓他們知道 誰最 Famous",
+      "spelling": "hōo in tsai-iánn siánn siōng Famous",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "沒在管啥 哪有啥差 挺你到底",
+      "spelling": "bô leh kuán siánn ná-ū siánn tsua̍h thiānn lí kàu-té",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "沒在管啥 哪有啥差 挺你到底",
+      "spelling": "bô leh kuán siánn ná-ū siánn tsua̍h thiānn lí kàu-té",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "無碖事情啥 挺你到底",
+      "spelling": "bô-lūn tāi-tsì siánn thīn lí tàu-té",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "阮會挺你挺你 阮會阮會挺你挺你",
+      "spelling": "gún ē thīn lí thīn lí gún ē gún ē thīn lí thīn lí",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "阮會挺你挺你 阮會阮會挺你挺你",
+      "spelling": "gún ē thīn lí thīn lí gún ē gún ē thīn lí thīn lí",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "阮會挺你挺你 阮會阮會挺你挺你 這 都是咱 自己",
+      "spelling": "gún ē thīn lí thīn lí gún ē gún ē thīn lí thīn lí tsia lóng sī lán ka-kī",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "不管你在哪 一通電話",
+      "spelling": "m̄-kuán lí tī tuē tsi̍t thàng tiān-uē",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "還是口袋仔 零錢剩多少",
+      "spelling": "iáu sī koh-tē-á lân-san tshun guā-tsē",
+      "source_lines": [
+        111,
+        112
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "挺你到底 把你當阮自己欸",
+      "spelling": "thīn lí kàh-té kā lí tǹg gún ka-kī ê",
+      "source_lines": [
+        114,
+        115
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "沒啥關係 現在我的就是你欸",
+      "spelling": "bô siánn kuan-hē tsit-má guá ê tio̍h-sī lí ê",
+      "source_lines": [
+        117,
+        118
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "你若找人嗆賭 我來給你拉",
+      "spelling": "lí ná tshuē lâng tshiam tóo guá lâi kā lí tiuh",
+      "source_lines": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "心情那差請你酒店隨你搞",
+      "spelling": "sim-tsîng na tshe tshiánn lí tsiú-tiàm suî lí bú",
+      "source_lines": [
+        123,
+        124
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "若講到兄弟 我會為你去打架",
+      "spelling": "ná kóng-tio̍h hiann-tī guá ē uî lí khì sio-phah",
+      "source_lines": [
+        126,
+        127
+      ]
+    },
+    {
+      "id": "line-129",
+      "text": "若狀況不對我來幫你報警叫警察",
+      "spelling": "ná tsōng-hóng m̄-tio̍h guá lâi pang lí pò-kíng kiò kíng-tshat",
+      "source_lines": [
+        129,
+        130
+      ]
+    },
+    {
+      "id": "line-132",
+      "text": "一千兩千三千 自己沒有也沒關係",
+      "spelling": "tsi̍t tshian nn̄g tshian sann tshian ka-kī bô ū mā bô-kuan-hē",
+      "source_lines": [
+        132,
+        133
+      ]
+    },
+    {
+      "id": "line-135",
+      "text": "為兄弟不感到失禮 免那失禮歹勢",
+      "spelling": "uî hiann-tī bē kám-kak-tio̍h sit-lé bián hia sit-lé pháinn-sè",
+      "source_lines": [
+        135,
+        136
+      ]
+    },
+    {
+      "id": "line-138",
+      "text": "因為都是自己的真的沒啥關係",
+      "spelling": "in-uī lóng sī ka-kī ê tsin ê bô siánn kuan-hē",
+      "source_lines": [
+        138,
+        139
+      ]
+    },
+    {
+      "id": "line-141",
+      "text": "相挺一句話不會在那跟你三個五個",
+      "spelling": "siòng thīn tsi̍t kù uē bē-hiáu tī hiâ kā lí sann-ê ngóo-ê",
+      "source_lines": [
+        141,
+        142
+      ]
+    },
+    {
+      "id": "line-144",
+      "text": "臭屁咱這群最瘋 嬰仔咱頭殼最聰明",
+      "spelling": "tshàu-phuì lán tse tin to siáu inn-á lán thâu-khak tong khiau",
+      "source_lines": [
+        144,
+        145
+      ]
+    },
+    {
+      "id": "line-147",
+      "text": "現在大家開始知道咱叫臭屁嬰仔 我也挺你而已",
+      "spelling": "tsit-má ta̍k-ke khai-sí tsai-iánn lán kiò tshàu-phuì inn-á guá mā lí niā-niā",
+      "source_lines": [
+        147,
+        148
+      ]
+    },
+    {
+      "id": "line-150",
+      "text": "好兄弟跟鄉親我的心就挺你",
+      "spelling": "hó hiann-tī kā hiong-tshin guá ê sim tio̍h thīn lí",
+      "source_lines": [
+        150,
+        151
+      ]
+    },
+    {
+      "id": "line-153",
+      "text": "就算要去地獄我絕對也會陪你",
+      "spelling": "tio̍h sǹg beh khì tē-ga̍k guá tsua̍t-tuì iā ē puê lí",
+      "source_lines": [
+        153,
+        154
+      ]
+    },
+    {
+      "id": "line-156",
+      "text": "好兄弟跟鄉親我的心挺你",
+      "spelling": "hó hiann-tī kā hiong-tshin guá ê sim thīn lí",
+      "source_lines": [
+        156,
+        157
+      ]
+    },
+    {
+      "id": "line-159",
+      "text": "你若相信 咱 做伙賺錢",
+      "spelling": "lí nā siong-sìn lán tsò-hué thàn-tsînn",
+      "source_lines": [
+        159,
+        160
+      ]
+    },
+    {
+      "id": "line-164",
+      "text": "我若菸草 他就是那張Paper",
+      "spelling": "guá nā hun tsháu i tio̍h-sī hit tiunn Paper",
+      "source_lines": [
+        164,
+        165
+      ]
+    },
+    {
+      "id": "line-167",
+      "text": "作伙燒出全世界最好的Flavor",
+      "spelling": "tsò-hué sio tshut tsuân sè-kài siōng hó ê Flavor",
+      "source_lines": [
+        167,
+        168
+      ]
+    },
+    {
+      "id": "line-170",
+      "text": "讓他們知道 誰最 Famous",
+      "spelling": "hōo in tsai-iánn siánn siōng Famous",
+      "source_lines": [
+        170,
+        171
+      ]
+    },
+    {
+      "id": "line-173",
+      "text": "沒在管啥 哪有啥差 挺你到底",
+      "spelling": "bô leh kuán siánn ná-ū siánn tsua̍h thiānn lí kà-té",
+      "source_lines": [
+        173,
+        174
+      ]
+    },
+    {
+      "id": "line-176",
+      "text": "沒在管啥 哪有啥差 挺你到底",
+      "spelling": "bô leh kuán siánn ná-ū siánn tsua̍h thiānn lí kà-té",
+      "source_lines": [
+        176,
+        177
+      ]
+    },
+    {
+      "id": "line-179",
+      "text": "無碖事情啥 挺你到底",
+      "spelling": "bô-lūn tāi-tsì siánn thīn lí kà-té",
+      "source_lines": [
+        179,
+        180
+      ]
+    },
+    {
+      "id": "line-182",
+      "text": "阮會挺你挺你 阮會阮會挺你挺你",
+      "spelling": "gún ē thīn lí thīn lí gún ē gún ē thīn lí thīn lí",
+      "source_lines": [
+        182,
+        183
+      ]
+    },
+    {
+      "id": "line-185",
+      "text": "阮會挺你挺你 阮會阮會挺你挺你",
+      "spelling": "gún ē thīn lí thīn lí gún ē gún ē thīn lí thīn lí",
+      "source_lines": [
+        185,
+        186
+      ]
+    },
+    {
+      "id": "line-188",
+      "text": "阮會挺你挺你 阮會阮會挺你挺你 這 都是咱 自己",
+      "spelling": "gún ē thīn lí thīn lí gún ē gún ē thīn lí thīn lí tsia lóng sī lán ka-kī",
+      "source_lines": [
+        188,
+        189
+      ]
+    },
+    {
+      "id": "line-191",
+      "text": "挺你到底 挺你到底",
+      "spelling": "thīn lí tàu-té thīn lí kàu-té",
+      "source_lines": [
+        191,
+        192
+      ]
+    },
+    {
+      "id": "line-194",
+      "text": "阮會挺你挺你 阮會阮會挺你挺你",
+      "spelling": "gún ē thīn lí thīn lí gún ē gún ē thīn lí thīn lí",
+      "source_lines": [
+        194,
+        195
+      ]
+    },
+    {
+      "id": "line-197",
+      "text": "阮會挺你挺你 阮會阮會挺你挺你",
+      "spelling": "gún ē thīn lí thīn lí gún ē gún ē thīn lí thīn lí",
+      "source_lines": [
+        197,
+        198
+      ]
+    },
+    {
+      "id": "line-200",
+      "text": "阮會挺你挺你 阮會阮會挺你挺你 這 都是咱 自己",
+      "spelling": "gún ē thīn lí thīn lí gún ē gún ē thīn lí thīn lí tsia lóng sī lán ka-kī",
+      "source_lines": [
+        200,
+        201
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:162,164",
+    "ambiguous_pair:79,81",
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

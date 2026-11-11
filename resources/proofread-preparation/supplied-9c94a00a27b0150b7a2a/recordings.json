@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 412951594,
+      "title": "伤心的我伤心的歌",
+      "artists": [
+        "陈建玮"
+      ],
+      "album": "古伦美亚",
+      "duration": 289.007,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

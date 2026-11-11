@@ -1,0 +1,457 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "是按怎阿花和阿嬌　                           攏無佳意我",
+      "spelling": "sī án-tsuánn a hue kah a kiau        lóng bô ka ì guá",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "是按怎阿花和阿嬌",
+          "spelling": "sī án-tsuánn a hue kah a kiau"
+        },
+        {
+          "text": "攏無佳意我",
+          "spelling": "lóng bô ka ì guá"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "我撇車技術一流　                            無人和我軋",
+      "spelling": "guá phiat tshia ki-su̍t tsi̍t liû        bô-lâng kah guá kau",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "我撇車技術一流",
+          "spelling": "guá phiat tshia ki-su̍t tsi̍t liû"
+        },
+        {
+          "text": "無人和我軋",
+          "spelling": "bô-lâng kah guá kau"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "是按怎學校的老師　                           攏無疼痛我",
+      "spelling": "sī án-tsuánn ha̍k-hāu ê lāu-su        lóng bô thiànn-thàng guá",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "是按怎學校的老師",
+          "spelling": "sī án-tsuánn ha̍k-hāu ê lāu-su"
+        },
+        {
+          "text": "攏無疼痛我",
+          "spelling": "lóng bô thiànn-thàng guá"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "是不是ABCD看無　                   卡憨就攏免教",
+      "spelling": "sī m̄ sī ABCD khuànn bô        kha̍h gōng tio̍h lóng bián kà",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "是不是ABCD看無",
+          "spelling": "sī m̄ sī ABCD khuànn bô"
+        },
+        {
+          "text": "卡憨就攏免教",
+          "spelling": "kha̍h gōng tio̍h lóng bián kà"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "老爸老母整天底罵　                          喋喋喋唸不知唸啥",
+      "spelling": "lāu-pē lāu-bú kui-kang té mē        se̍h se̍h se̍h liām m̄ tsai liām siánn",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "老爸老母整天底罵",
+          "spelling": "lāu-pē lāu-bú kui-kang té mē"
+        },
+        {
+          "text": "喋喋喋唸不知唸啥",
+          "spelling": "se̍h se̍h se̍h liām m̄ tsai liām siánn"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "是按怎哪會按呢　                    身邊的問題一攤",
+      "spelling": "sī án-tsuánn ná ē án-ne        sin-pinn ê būn-tê tsi̍t thuann",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "是按怎哪會按呢",
+          "spelling": "sī án-tsuánn ná ē án-ne"
+        },
+        {
+          "text": "身邊的問題一攤",
+          "spelling": "sin-pinn ê būn-tê tsi̍t thuann"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "這時陣上好作陣來去軋車",
+      "spelling": "tsia-sî tsūn siōng-hó tsuè tīn lâi-khì kà tshia",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "作陣來軋車　                       作陣來軋車",
+      "spelling": "tsuè tīn lâi kà tshia            tsuè tīn lâi kà tshia",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "作陣來軋車",
+          "spelling": "tsuè tīn lâi kà tshia"
+        },
+        {
+          "text": "作陣來軋車",
+          "spelling": "tsuè tīn lâi kà tshia"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "不管伊警察底抓　                            不管伊父母底罵",
+      "spelling": "put-kuán i kíng-tshat té lia̍h        put-kuán i pē-bú té mē",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "不管伊警察底抓",
+          "spelling": "put-kuán i kíng-tshat té lia̍h"
+        },
+        {
+          "text": "不管伊父母底罵",
+          "spelling": "put-kuán i pē-bú té mē"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "只要我引擎催落　                             無人可當甲我軋",
+      "spelling": "tsí-iàu guá iân-kìn tshuê lo̍h        bô-lâng ē-tàng kah guá kà",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "只要我引擎催落",
+          "spelling": "tsí-iàu guá iân-kìn tshuê lo̍h"
+        },
+        {
+          "text": "無人可當甲我軋",
+          "spelling": "bô-lâng ē-tàng kah guá kà"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "在這我最緊　                最趴　           最大",
+      "spelling": "tī tsia guá tsiok kín    tsiok phak    tsiok tuā",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "在這我最緊",
+          "spelling": "tī tsia guá tsiok kín"
+        },
+        {
+          "text": "最趴",
+          "spelling": "tsiok phak"
+        },
+        {
+          "text": "最大",
+          "spelling": "tsiok tuā"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "是按怎今日的 觀眾攏底打拍仔",
+      "spelling": "sī án-tsuánn kin-á ê kuan-tsiòng lóng té phah-phôo á",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "大家看我一個那像Super Star",
+      "spelling": "ta̍k-ke khuànn guá tsi̍t ê ná-tshiūnn Super Star",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "La La La La La La La　      愈騎愈緊愈爽我想欲唱歌",
+      "spelling": "La La La La La La  La         lú khiâ lú kín lú sóng guá siūnn-beh tshiùnn-kua",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "頭腦底飛　              身軀底顫　                 風底吹我　                 心底流汗",
+      "spelling": "thâu-náu té pue    sin-khu té tshuah    hong té tshue guá    sim té lâu-kuānn",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "頭腦底飛",
+          "spelling": "thâu-náu té pue"
+        },
+        {
+          "text": "身軀底顫",
+          "spelling": "sin-khu té tshuah"
+        },
+        {
+          "text": "風底吹我",
+          "spelling": "hong té tshue guá"
+        },
+        {
+          "text": "心底流汗",
+          "spelling": "sim té lâu-kuānn"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "是按怎那會這爽　                          要了解我的感覺",
+      "spelling": "sī án-tsuánn ná-ē tsia sóng        beh liáu-kái guá ê kám-kak",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "是按怎那會這爽",
+          "spelling": "sī án-tsuánn ná-ē tsia sóng"
+        },
+        {
+          "text": "要了解我的感覺",
+          "spelling": "beh liáu-kái guá ê kám-kak"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "這時陣上好作陣來去軋車",
+      "spelling": "tsia-sî tsūn siōng-hó tsuè tīn lâi-khì kà tshia",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "作陣來軋車　                        作陣來軋車",
+      "spelling": "tsuè tīn lâi kà tshia            tsuè tīn lâi kà tshia",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "作陣來軋車",
+          "spelling": "tsuè tīn lâi kà tshia"
+        },
+        {
+          "text": "作陣來軋車",
+          "spelling": "tsuè tīn lâi kà tshia"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "不管伊警察底抓　                            不管伊父母底罵",
+      "spelling": "put-kuán i kíng-tshat té lia̍h        put-kuán i pē-bú té mē",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "不管伊警察底抓",
+          "spelling": "put-kuán i kíng-tshat té lia̍h"
+        },
+        {
+          "text": "不管伊父母底罵",
+          "spelling": "put-kuán i pē-bú té mē"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "只要我引擎催落　                            無人可當甲我軋",
+      "spelling": "tsí-iàu guá iân-kìn tshuê lo̍h        bô-lâng ē-tàng kah guá kà",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "只要我引擎催落",
+          "spelling": "tsí-iàu guá iân-kìn tshuê lo̍h"
+        },
+        {
+          "text": "無人可當甲我軋",
+          "spelling": "bô-lâng ē-tàng kah guá kà"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "在這我最緊　                最趴　            最大",
+      "spelling": "tī tsia guá tsiok kín    tsiok phak    tsiok tuā",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "在這我最緊",
+          "spelling": "tī tsia guá tsiok kín"
+        },
+        {
+          "text": "最趴",
+          "spelling": "tsiok phak"
+        },
+        {
+          "text": "最大",
+          "spelling": "tsiok tuā"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "作陣來軋車　                        作陣來軋車",
+      "spelling": "tsuè tīn lâi kà tshia            tsuè tīn lâi kà tshia",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "作陣來軋車",
+          "spelling": "tsuè tīn lâi kà tshia"
+        },
+        {
+          "text": "作陣來軋車",
+          "spelling": "tsuè tīn lâi kà tshia"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "不管伊警察底抓　                            不管伊父母底罵",
+      "spelling": "put-kuán i kíng-tshat té lia̍h        put-kuán i pē-bú té mē",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "不管伊警察底抓",
+          "spelling": "put-kuán i kíng-tshat té lia̍h"
+        },
+        {
+          "text": "不管伊父母底罵",
+          "spelling": "put-kuán i pē-bú té mē"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "只要我引擎催落　                             無人可當甲我軋",
+      "spelling": "tsí-iàu guá iân-kìn tshuê lo̍h        bô-lâng ē-tàng kah guá kà",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "只要我引擎催落",
+          "spelling": "tsí-iàu guá iân-kìn tshuê lo̍h"
+        },
+        {
+          "text": "無人可當甲我軋",
+          "spelling": "bô-lâng ē-tàng kah guá kà"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "在這我最緊　                最趴　           最大",
+      "spelling": "tī tsia guá tsiok kín    tsiok phak    tsiok tuā",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "在這我最緊",
+          "spelling": "tī tsia guá tsiok kín"
+        },
+        {
+          "text": "最趴",
+          "spelling": "tsiok phak"
+        },
+        {
+          "text": "最大",
+          "spelling": "tsiok tuā"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：阿信　作曲： 五月天  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

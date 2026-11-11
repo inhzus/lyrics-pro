@@ -1,0 +1,303 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "春夏秋冬我已經沒感覺                                           對我來說其實攏沒差",
+      "spelling": "tshun-hā tshiu-tang guá í-king bô kám-kak    tuì guá lâi kóng kî-si̍t lóng bô-tsua̍h",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "春夏秋冬我已經沒感覺",
+          "spelling": "tshun-hā tshiu-tang guá í-king bô kám-kak"
+        },
+        {
+          "text": "對我來說其實攏沒差",
+          "spelling": "tuì guá lâi kóng kî-si̍t lóng bô-tsua̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "每天要死不愛活                               無魂附體四界走",
+      "spelling": "ta̍k-kang beh sí bē ài ua̍h            bô hûn hù thé sì-kè kiânn",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "每天要死不愛活",
+          "spelling": "ta̍k-kang beh sí bē ài ua̍h"
+        },
+        {
+          "text": "無魂附體四界走",
+          "spelling": "bô hûn hù thé sì-kè kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "我就是一個無靈魂的人",
+      "spelling": "guá tio̍h sī tsi̍t ê bô lîng-hûn ê lâng",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "天上的鳥仔                                親像了解阮心情",
+      "spelling": "thinn-tíng ê tsiáu-á                tshin-tshiūnn liáu-kái gún sim-tsîng",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "天上的鳥仔",
+          "spelling": "thinn-tíng ê tsiáu-á"
+        },
+        {
+          "text": "親像了解阮心情",
+          "spelling": "tshin-tshiūnn liáu-kái gún sim-tsîng"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "其實我唱不出真正快樂的歌",
+      "spelling": "kî-si̍t guá tshiùnn bē tshut tsin-tsiànn khuài-lo̍k ê kua",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "其實我想要哭但是哭袂出聲",
+      "spelling": "kî-si̍t guá siūnn beh khàu tān-sī khàu bē tshut-siann",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "其實我想要飛 （但是）不知飛去哪",
+      "spelling": "kî-si̍t guá siūnn beh pue  （tān-sī）m̄ tsai pue khì tó",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "等呀等呀等不到那一天                             看這世界每天都在變化",
+      "spelling": "tán ne tán ne tán bô he tsi̍t kang        khuànn tsit-ê sè-kài ta̍k-kang lóng tī piàn-huà",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "等呀等呀等不到那一天",
+          "spelling": "tán ne tán ne tán bô he tsi̍t kang"
+        },
+        {
+          "text": "看這世界每天都在變化",
+          "spelling": "khuànn tsit-ê sè-kài ta̍k-kang lóng tī piàn-huà"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "只有我一人袂振袂動                              夢呀夢呀怎樣都是空",
+      "spelling": "tsí-ū guá tsi̍t lâng bē tín bē tāng        bāng ya bāng ya tsuánn-iūnn lóng sī khàng",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "只有我一人袂振袂動",
+          "spelling": "tsí-ū guá tsi̍t lâng bē tín bē tāng"
+        },
+        {
+          "text": "夢呀夢呀怎樣都是空",
+          "spelling": "bāng ya bāng ya tsuánn-iūnn lóng sī khàng"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "有一日我若坐上離開的車                                希望你記得我",
+      "spelling": "ū tsi̍t-li̍t guá ná tsē siōng lī-khui ê tshia    hi-bāng lí ē-kì guá",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "有一日我若坐上離開的車",
+          "spelling": "ū tsi̍t-li̍t guá ná tsē siōng lī-khui ê tshia"
+        },
+        {
+          "text": "希望你記得我",
+          "spelling": "hi-bāng lí ē-kì guá"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "末班電車漸漸在起行                                                       再會啦！心所愛的人",
+      "spelling": "bué pan tiān-tshia tsiām tsiām teh khí-kiânn ！    tsài-huē lah sim sóo ài ê lâng",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "末班電車漸漸在起行",
+          "spelling": "bué pan tiān-tshia tsiām tsiām teh khí-kiânn ！"
+        },
+        {
+          "text": "再會啦！心所愛的人",
+          "spelling": "tsài-huē lah sim sóo ài ê lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "我愛你你愛我攏是無聊的咒誓                              你已經離開了 沒路用的我",
+      "spelling": "guá ài lí lí ài guá lóng sī bô-liâu ê tsiù-tsuā    lí í-king lī-khui bô-lōo iōng ê guá",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "我愛你你愛我攏是無聊的咒誓",
+          "spelling": "guá ài lí lí ài guá lóng sī bô-liâu ê tsiù-tsuā"
+        },
+        {
+          "text": "你已經離開了 沒路用的我",
+          "spelling": "lí í-king lī-khui bô-lōo iōng ê guá"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "天上的鳥仔                                親像了解阮心情",
+      "spelling": "thinn-tíng ê tsiáu-á                tshin-tshiūnn liáu-kái gún sim-tsîng",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "天上的鳥仔",
+          "spelling": "thinn-tíng ê tsiáu-á"
+        },
+        {
+          "text": "親像了解阮心情",
+          "spelling": "tshin-tshiūnn liáu-kái gún sim-tsîng"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "其實我唱不出真正快樂的歌",
+      "spelling": "kî-si̍t guá tshiùnn bē tshut tsin-tsiànn khuài-lo̍k ê kua",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "其實我想要哭但是哭袂出聲",
+      "spelling": "kî-si̍t guá siūnn beh khàu tān-sī khàu bē tshut-siann",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "其實我想要飛 （但是）不知飛去哪                                            不知飛去哪",
+      "spelling": "kî-si̍t guá siūnn beh pue  （tān-sī）m̄ tsai pue khì tó        m̄ tsai pue khì tó",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "等呀等呀等不到那一天                             看這世界每天都在變化",
+      "spelling": "tán ne tán ne tán bô he tsi̍t kang        khuànn tsit-ê sè-kài ta̍k-kang lóng tī piàn-huà",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "等呀等呀等不到那一天",
+          "spelling": "tán ne tán ne tán bô he tsi̍t kang"
+        },
+        {
+          "text": "看這世界每天都在變化",
+          "spelling": "khuànn tsit-ê sè-kài ta̍k-kang lóng tī piàn-huà"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "只有我一人袂振袂動                               夢呀夢呀怎樣都是空",
+      "spelling": "tsí-ū guá tsi̍t lâng bē tín bē tāng        bāng ya bāng ya tsuánn-iūnn lóng sī khàng",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "只有我一人袂振袂動",
+          "spelling": "tsí-ū guá tsi̍t lâng bē tín bē tāng"
+        },
+        {
+          "text": "夢呀夢呀怎樣都是空",
+          "spelling": "bāng ya bāng ya tsuánn-iūnn lóng sī khàng"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "有一日我若坐上離開的車                                希望你記得我",
+      "spelling": "ū tsi̍t-li̍t guá ná tsē siōng lī-khui ê tshia    hi-bāng lí ē-kì guá",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "有一日我若坐上離開的車",
+          "spelling": "ū tsi̍t-li̍t guá ná tsē siōng lī-khui ê tshia"
+        },
+        {
+          "text": "希望你記得我",
+          "spelling": "hi-bāng lí ē-kì guá"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：楊大正　作曲：楊大正    台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

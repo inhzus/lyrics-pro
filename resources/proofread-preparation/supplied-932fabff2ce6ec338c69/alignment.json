@@ -1,0 +1,148 @@
+{
+  "recording_id": "netease:350182",
+  "timing_source": "NetEase https://music.163.com/song?id=350182",
+  "manual_source": "User-supplied resources/lyrics-spelling/少年花-川秋沙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "approximate": 2,
+    "exact": 6
+  },
+  "review_row_count": 2,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 川秋沙",
+      "match_text": "作词 : 川秋沙",
+      "text": "作词 : 川秋沙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 川秋沙",
+      "match_text": "作曲 : 川秋沙",
+      "text": "作曲 : 川秋沙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 86.58,
+      "online_text": "那丛盛开的花朵 闻到我们思念的气味",
+      "match_text": "那丛盛开的花朵 闻到我们思念的气味",
+      "text": "那叢盛開的花朵 聞到我們思念的氣味",
+      "spelling": "hit tsâng sīng-khui ê hue-luí phīnn-tio̍h lán su-liām ê khì-bī",
+      "manual_id": "line-1:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.9375
+    },
+    {
+      "source_row": 3,
+      "time": 101.39,
+      "online_text": "阵阵淡淡的香味 那段冲动过后的空虚",
+      "match_text": "阵阵淡淡的香味 那段冲动过后的空虚",
+      "text": "陣陣淡淡的香味 那段衝動過後的空虛",
+      "spelling": "tsūn tsūn tām tām ê phang-bī hit tuānn tshiong-tōng āu ê khang-hi",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 115.36,
+      "online_text": "是光线太过迷濛 青春的日子就像梦",
+      "match_text": "是光线太过迷濛 青春的日子就像梦",
+      "text": "是光線太過迷濛 青春的日子就像夢",
+      "spelling": "sī kng-suànn thài bî bông tshing-tshun ê li̍t-tsí tshin-tshiūnn bāng",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 130.99,
+      "online_text": "过去还是那么深 牵绊我现在的日子",
+      "match_text": "过去还是那么深 牵绊我现在的日子",
+      "text": "過去還是那麼深 牽絆我現在的日子",
+      "spelling": "kuè-khì iû-guân hiah-nī tshim khan pàn lán tsit-má ê li̍t-tsí",
+      "manual_id": "line-10:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.933333
+    },
+    {
+      "source_row": 6,
+      "time": 175.4,
+      "online_text": "怨妒少年时的面容 美丽单纯又倔强",
+      "match_text": "怨妒少年时的面容 美丽单纯又倔强",
+      "text": "怨妒少年時的面容 美麗單純又倔強",
+      "spelling": "uàn-tòo siàu-liân-sî ê bīn-iông bí-lē tan-sûn koh khut-kiông",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 190.32,
+      "online_text": "是否花开正不对时 怨叹又稀嘘",
+      "match_text": "是否花开正不对时 怨叹又稀嘘",
+      "text": "是否花開正不對時 怨嘆又稀噓",
+      "spelling": "kam sin hue khui tsìng m̄-tio̍h-sî uàn-thàn koh hi bî",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 207.35,
+      "online_text": "昨日之时 含苞待放 明日之时 凋谢欲落",
+      "match_text": "昨日之时 含苞待放 明日之时 凋谢欲落",
+      "text": "昨日之時 含苞待放 明日之時 凋謝欲落",
+      "spelling": "tsa-li̍t ê sî hâm pau thāi pàng miâ li̍t ê sî tiau-siā bē lo̍h",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 222.34,
+      "online_text": "花开花落 春风秋雨 人海茫茫 浮浮沉沉",
+      "match_text": "花开花落 春风秋雨 人海茫茫 浮浮沉沉",
+      "text": "花開花落 春風秋雨 人海茫茫 浮浮沉沉",
+      "spelling": "hue khui hue lo̍h tshun-hong tshiu hōo lîn-hái bâng bâng phû-phû-tîm-tîm",
+      "manual_id": "line-22:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "29ded8ced4ebffb66ec5098b30c77bf6c924105a2300c88267f60d365c4593bd",
+    "manual": "729588d60d958ac2c162d8914060f0bafed4a91190cef50b194cffdb8ba20099",
+    "timed": "c86c5a709933e8f8a4eac995373cb5f9df8b42dbe9d02be793e500e9496db632"
+  }
+}

@@ -1,0 +1,580 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "是你的形影　             叫我逐天作眠夢",
+      "spelling": "sī lí ê hîng-iánn        kiò guá ta̍k kang tsuè bîn-bāng",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "是你的形影",
+          "spelling": "sī lí ê hîng-iánn"
+        },
+        {
+          "text": "叫我逐天作眠夢",
+          "spelling": "kiò guá ta̍k kang tsuè bîn-bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "夢中可愛的人　                     伊不是別人",
+      "spelling": "bāng-tiong khó-ài ê lâng    i m̄ sī pa̍t-lâng",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "夢中可愛的人",
+          "spelling": "bāng-tiong khó-ài ê lâng"
+        },
+        {
+          "text": "伊不是別人",
+          "spelling": "i m̄ sī pa̍t-lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "我的每一天　                    一分鐘也不當輕鬆",
+      "spelling": "guá ê muí tsi̍t kang        tsi̍t hun-tsing iā bē-tàng khin-sang",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "我的每一天",
+          "spelling": "guá ê muí tsi̍t kang"
+        },
+        {
+          "text": "一分鐘也不當輕鬆",
+          "spelling": "tsi̍t hun-tsing iā bē-tàng khin-sang"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "你是我愛的人　            將我來戲弄",
+      "spelling": "lí sī gún ài ê lâng        tsiòng gún lâi hì-lāng",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "你是我愛的人",
+          "spelling": "lí sī gún ài ê lâng"
+        },
+        {
+          "text": "將我來戲弄",
+          "spelling": "tsiòng gún lâi hì-lāng"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "九月的風在吹　                   哪會寒到心肝底",
+      "spelling": "káu gue̍h hong tī tshue    ná ē kuânn kàu sim-kuann té",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "九月的風在吹",
+          "spelling": "káu gue̍h hong tī tshue"
+        },
+        {
+          "text": "哪會寒到心肝底",
+          "spelling": "ná ē kuânn kàu sim-kuann té"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "希望變無望　                      決定我的一世人",
+      "spelling": "hi-bāng tńg bô-bāng        kuat-tīng guá ê tsi̍t-sì-lâng",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "希望變無望",
+          "spelling": "hi-bāng tńg bô-bāng"
+        },
+        {
+          "text": "決定我的一世人",
+          "spelling": "kuat-tīng guá ê tsi̍t-sì-lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "I LOVE YOU 無望　           你甘是這款人",
+      "spelling": "I LOVE YOU bô-bāng        lí kam sī tsit-khuán lâng",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "I LOVE YOU 無望",
+          "spelling": "I LOVE YOU bô-bāng"
+        },
+        {
+          "text": "你甘是這款人",
+          "spelling": "lí kam sī tsit-khuán lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "沒法度來作陣　                       也沒法度將我放",
+      "spelling": "bô-huat-tōo lâi tsuè tīn        iā bô-huat-tōo tsiòng gún pàng",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "沒法度來作陣",
+          "spelling": "bô-huat-tōo lâi tsuè tīn"
+        },
+        {
+          "text": "也沒法度將我放",
+          "spelling": "iā bô-huat-tōo tsiòng gún pàng"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "I LOVE YOU 無望　           我就是這款人",
+      "spelling": "I LOVE YOU bô-bāng        guá tio̍h sī tsit-khuán lâng",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "I LOVE YOU 無望",
+          "spelling": "I LOVE YOU bô-bāng"
+        },
+        {
+          "text": "我就是這款人",
+          "spelling": "guá tio̍h sī tsit-khuán lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "我身邊沒半項　                                 只有對你的思念",
+      "spelling": "guá sin-pinn bô puànn hāng        tsí-ū tuì lí ê su-liām",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "我身邊沒半項",
+          "spelling": "guá sin-pinn bô puànn hāng"
+        },
+        {
+          "text": "只有對你的思念",
+          "spelling": "tsí-ū tuì lí ê su-liām"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "陪伴我的每一天",
+      "spelling": "puê-phuānn guá ê muí tsi̍t kang",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "是你的形影　             叫我逐天作眠夢",
+      "spelling": "sī lí ê hîng-iánn        kiò guá ta̍k kang tsuè bîn-bāng",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "是你的形影",
+          "spelling": "sī lí ê hîng-iánn"
+        },
+        {
+          "text": "叫我逐天作眠夢",
+          "spelling": "kiò guá ta̍k kang tsuè bîn-bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "夢中可愛的人　                     伊不是別人",
+      "spelling": "bāng-tiong khó-ài ê lâng    i m̄ sī pa̍t-lâng",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "夢中可愛的人",
+          "spelling": "bāng-tiong khó-ài ê lâng"
+        },
+        {
+          "text": "伊不是別人",
+          "spelling": "i m̄ sī pa̍t-lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "我的每一天　                    一分鐘也不當輕鬆",
+      "spelling": "guá ê muí tsi̍t kang        tsi̍t hun-tsing iā bē-tàng khin-sang",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "我的每一天",
+          "spelling": "guá ê muí tsi̍t kang"
+        },
+        {
+          "text": "一分鐘也不當輕鬆",
+          "spelling": "tsi̍t hun-tsing iā bē-tàng khin-sang"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "你是我愛的人　            將我來戲弄",
+      "spelling": "lí sī gún ài ê lâng        tsiòng gún lâi hì-lāng",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "你是我愛的人",
+          "spelling": "lí sī gún ài ê lâng"
+        },
+        {
+          "text": "將我來戲弄",
+          "spelling": "tsiòng gún lâi hì-lāng"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "九月的風在吹　                   哪會寒到心肝底",
+      "spelling": "káu gue̍h hong tī tshue    ná ē kuânn kàu sim-kuann té",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "九月的風在吹",
+          "spelling": "káu gue̍h hong tī tshue"
+        },
+        {
+          "text": "哪會寒到心肝底",
+          "spelling": "ná ē kuânn kàu sim-kuann té"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "希望變無望　                      決定我的一世人",
+      "spelling": "hi-bāng tńg bô-bāng        kuat-tīng guá ê tsi̍t-sì-lâng",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "希望變無望",
+          "spelling": "hi-bāng tńg bô-bāng"
+        },
+        {
+          "text": "決定我的一世人",
+          "spelling": "kuat-tīng guá ê tsi̍t-sì-lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "I LOVE YOU 無望　           你甘是這款人",
+      "spelling": "I LOVE YOU bô-bāng        lí kam sī tsit-khuán lâng",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "I LOVE YOU 無望",
+          "spelling": "I LOVE YOU bô-bāng"
+        },
+        {
+          "text": "你甘是這款人",
+          "spelling": "lí kam sī tsit-khuán lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "沒法度來作陣　                       也沒法度將我放",
+      "spelling": "bô-huat-tōo lâi tsuè tīn        iā bô-huat-tōo tsiòng gún pàng",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "沒法度來作陣",
+          "spelling": "bô-huat-tōo lâi tsuè tīn"
+        },
+        {
+          "text": "也沒法度將我放",
+          "spelling": "iā bô-huat-tōo tsiòng gún pàng"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "I LOVE YOU 無望　           我就是這款人",
+      "spelling": "I LOVE YOU bô-bāng        guá tio̍h sī tsit-khuán lâng",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "I LOVE YOU 無望",
+          "spelling": "I LOVE YOU bô-bāng"
+        },
+        {
+          "text": "我就是這款人",
+          "spelling": "guá tio̍h sī tsit-khuán lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "我身邊沒半項　                                 只有對你的思念",
+      "spelling": "guá sin-pinn bô puànn hāng        tsí-ū tuì lí ê su-liām",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "我身邊沒半項",
+          "spelling": "guá sin-pinn bô puànn hāng"
+        },
+        {
+          "text": "只有對你的思念",
+          "spelling": "tsí-ū tuì lí ê su-liām"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "陪伴我的每一天",
+      "spelling": "puê-phuānn guá ê muí tsi̍t kang",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "I LOVE YOU 無望　            你甘是這款人",
+      "spelling": "I LOVE YOU bô-bāng         lí kam sī tsit-khuán lâng",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "I LOVE YOU 無望",
+          "spelling": "I LOVE YOU bô-bāng"
+        },
+        {
+          "text": "你甘是這款人",
+          "spelling": "lí kam sī tsit-khuán lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "沒法度來作陣　                       也沒法度將我放",
+      "spelling": "bô-huat-tōo lâi tsuè tīn        iā bô-huat-tōo tsiòng gún pàng",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "沒法度來作陣",
+          "spelling": "bô-huat-tōo lâi tsuè tīn"
+        },
+        {
+          "text": "也沒法度將我放",
+          "spelling": "iā bô-huat-tōo tsiòng gún pàng"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "I LOVE YOU 無望　           我就是這款人",
+      "spelling": "I LOVE YOU bô-bāng        guá tio̍h sī tsit-khuán lâng",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "I LOVE YOU 無望",
+          "spelling": "I LOVE YOU bô-bāng"
+        },
+        {
+          "text": "我就是這款人",
+          "spelling": "guá tio̍h sī tsit-khuán lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "我身邊沒半項　                                 只有對你的思念",
+      "spelling": "guá sin-pinn bô puànn hāng        tsí-ū tuì lí ê su-liām",
+      "source_lines": [
+        78,
+        79
+      ],
+      "parts": [
+        {
+          "text": "我身邊沒半項",
+          "spelling": "guá sin-pinn bô puànn hāng"
+        },
+        {
+          "text": "只有對你的思念",
+          "spelling": "tsí-ū tuì lí ê su-liām"
+        }
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "陪伴我的每一天",
+      "spelling": "puê-phuānn guá ê muí tsi̍t kang",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "I LOVE YOU 無望　           你甘是這款人",
+      "spelling": "I LOVE YOU bô-bāng        lí kam sī tsit-khuán lâng",
+      "source_lines": [
+        84,
+        85
+      ],
+      "parts": [
+        {
+          "text": "I LOVE YOU 無望",
+          "spelling": "I LOVE YOU bô-bāng"
+        },
+        {
+          "text": "你甘是這款人",
+          "spelling": "lí kam sī tsit-khuán lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "沒法度來作陣　                      也沒法度將我放",
+      "spelling": "bô-huat-tōo lâi tsuè tīn        iā bô-huat-tōo tsiòng gún pàng",
+      "source_lines": [
+        87,
+        88
+      ],
+      "parts": [
+        {
+          "text": "沒法度來作陣",
+          "spelling": "bô-huat-tōo lâi tsuè tīn"
+        },
+        {
+          "text": "也沒法度將我放",
+          "spelling": "iā bô-huat-tōo tsiòng gún pàng"
+        }
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "I LOVE YOU 無望　            我就是這款人",
+      "spelling": "I LOVE YOU bô-bāng         guá tio̍h sī tsit-khuán lâng",
+      "source_lines": [
+        90,
+        91
+      ],
+      "parts": [
+        {
+          "text": "I LOVE YOU 無望",
+          "spelling": "I LOVE YOU bô-bāng"
+        },
+        {
+          "text": "我就是這款人",
+          "spelling": "guá tio̍h sī tsit-khuán lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "我身邊沒半項　                                 只有對你的思念",
+      "spelling": "guá sin-pinn bô puànn hāng        tsí-ū tuì lí ê su-liām",
+      "source_lines": [
+        93,
+        94
+      ],
+      "parts": [
+        {
+          "text": "我身邊沒半項",
+          "spelling": "guá sin-pinn bô puànn hāng"
+        },
+        {
+          "text": "只有對你的思念",
+          "spelling": "tsí-ū tuì lí ê su-liām"
+        }
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "陪伴我的每一天",
+      "spelling": "puê-phuānn guá ê muí tsi̍t kang",
+      "source_lines": [
+        96,
+        97
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：阿信　作曲： 五月天  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

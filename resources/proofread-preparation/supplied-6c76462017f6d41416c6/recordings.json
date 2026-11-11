@@ -1,0 +1,126 @@
+{
+  "candidates": [
+    {
+      "song_id": 109488,
+      "title": "港边男儿",
+      "artists": [
+        "卢广仲"
+      ],
+      "album": "慢灵魂",
+      "duration": 285.133,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 26601374,
+      "title": "港边男儿",
+      "artists": [
+        "卢广仲"
+      ],
+      "album": "卢广仲原创合集",
+      "duration": 285.187,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 109488,
+      "title": "港边男儿",
+      "artists": [
+        "卢广仲"
+      ],
+      "album": "慢灵魂",
+      "duration": 285.133,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 26601374,
+      "title": "港边男儿",
+      "artists": [
+        "卢广仲"
+      ],
+      "album": "卢广仲原创合集",
+      "duration": 285.187,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 109488,
+      "title": "港边男儿",
+      "artists": [
+        "卢广仲"
+      ],
+      "album": "慢灵魂",
+      "duration": 285.133,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 26601374,
+      "title": "港边男儿",
+      "artists": [
+        "卢广仲"
+      ],
+      "album": "卢广仲原创合集",
+      "duration": 285.187,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "794293903",
+      "title": "港边男儿",
+      "artists": [
+        "卢广仲"
+      ],
+      "album": "慢灵魂",
+      "duration": 285.293,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "794293903",
+      "title": "港边男儿",
+      "artists": [
+        "卢广仲"
+      ],
+      "album": "慢灵魂",
+      "duration": 285.293,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 39342383,
+      "title": "港边男儿",
+      "artists": [
+        "卢广仲"
+      ],
+      "album": "慢灵魂",
+      "duration": 285.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29677620,
+      "title": "港邊男兒",
+      "artists": [
+        "盧廣仲"
+      ],
+      "album": "慢靈魂",
+      "duration": 285.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 14668213,
+      "title": "港邊男兒",
+      "artists": [
+        "盧廣仲"
+      ],
+      "album": "慢靈魂(平裝版)",
+      "duration": 285.293333,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

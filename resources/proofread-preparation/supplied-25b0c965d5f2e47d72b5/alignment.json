@@ -1,0 +1,685 @@
+{
+  "recording_id": "netease:168394",
+  "timing_source": "NetEase https://music.163.com/song?id=168394",
+  "manual_source": "User-supplied resources/lyrics-spelling/愛你一世人-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "gap": 9,
+    "unresolved": 37,
+    "exact": 2
+  },
+  "review_row_count": 37,
+  "unmatched_manual_ids": [
+    "line-3:0",
+    "line-6:0",
+    "line-12:0",
+    "line-27:0",
+    "line-30:0",
+    "line-36:0"
+  ],
+  "unused_repeat_ids": [
+    "line-15:0",
+    "line-18:0",
+    "line-21:0",
+    "line-24:0",
+    "line-39:0",
+    "line-42:0",
+    "line-45:0",
+    "line-48:0",
+    "line-51:0",
+    "line-54:0",
+    "line-57:0",
+    "line-60:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 萧煌奇",
+      "match_text": "作词 : 萧煌奇",
+      "text": "作词 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 0.02,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 0.05,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 12.0,
+      "online_text": "带你心飞",
+      "match_text": "带你心飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 17.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 18.3,
+      "online_text": "我对你深深的感情",
+      "match_text": "我对你深深的感情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-3:0"
+    },
+    {
+      "source_row": 6,
+      "time": 24.94,
+      "online_text": "无人会通阻挡我的心",
+      "match_text": "无人会通阻挡我的心",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-3:0"
+    },
+    {
+      "source_row": 7,
+      "time": 31.7,
+      "online_text": "只要永远甲你逗阵",
+      "match_text": "只要永远甲你逗阵",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-6:0"
+    },
+    {
+      "source_row": 8,
+      "time": 35.74,
+      "online_text": "幸福过一生",
+      "match_text": "幸福过一生",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-6:0"
+    },
+    {
+      "source_row": 9,
+      "time": 38.81,
+      "online_text": "甘愿将阮一切所有拢总交代你",
+      "match_text": "甘愿将阮一切所有拢总交代你",
+      "text": "甘願將阮一切所有攏總交代你",
+      "spelling": "kam-guān tsiòng gún it-tshè ū lóng-tsóng kau-tài lí",
+      "manual_id": "line-9:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 46.3,
+      "online_text": "过去咱的不如意",
+      "match_text": "过去咱的不如意",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-12:0"
+    },
+    {
+      "source_row": 11,
+      "time": 49.5,
+      "online_text": "将伊放落海水随风来漂流",
+      "match_text": "将伊放落海水随风来漂流",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-12:0"
+    },
+    {
+      "source_row": 12,
+      "time": 57.46,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 13,
+      "time": 58.87,
+      "online_text": "我爱你一世人",
+      "match_text": "我爱你一世人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 63.32,
+      "online_text": "可比是天上的星",
+      "match_text": "可比是天上的星",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 66.76,
+      "online_text": "闪烁不曾停",
+      "match_text": "闪烁不曾停",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 70.3,
+      "online_text": "照到你的心",
+      "match_text": "照到你的心",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 73.83,
+      "online_text": "我爱你一世人",
+      "match_text": "我爱你一世人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 77.22,
+      "online_text": "可比是溪边的水",
+      "match_text": "可比是溪边的水",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 80.77,
+      "online_text": "流泻不曾停",
+      "match_text": "流泻不曾停",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 84.45,
+      "online_text": "只有为你等",
+      "match_text": "只有为你等",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 91.5,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 22,
+      "time": 99.5,
+      "online_text": "你甲我绵绵的爱情",
+      "match_text": "你甲我绵绵的爱情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-27:0"
+    },
+    {
+      "source_row": 23,
+      "time": 105.65,
+      "online_text": "永远坚心不愿来分开",
+      "match_text": "永远坚心不愿来分开",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-27:0"
+    },
+    {
+      "source_row": 24,
+      "time": 112.88,
+      "online_text": "为着两人生活打拼",
+      "match_text": "为着两人生活打拼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-30:0"
+    },
+    {
+      "source_row": 25,
+      "time": 117.25,
+      "online_text": "恰苦嘛无惊",
+      "match_text": "恰苦嘛无惊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-30:0"
+    },
+    {
+      "source_row": 26,
+      "time": 120.08,
+      "online_text": "甘愿为你快乐悲伤一生对你行",
+      "match_text": "甘愿为你快乐悲伤一生对你行",
+      "text": "甘願為你快樂悲傷一生對你行",
+      "spelling": "kam-guān uî lí khuài-lo̍k pi-siong it-sing tuì lí kiânn",
+      "manual_id": "line-33:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 127.3,
+      "online_text": "将来完成一个家庭",
+      "match_text": "将来完成一个家庭",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-36:0"
+    },
+    {
+      "source_row": 28,
+      "time": 130.73,
+      "online_text": "快乐幸福做伙平凡过一生",
+      "match_text": "快乐幸福做伙平凡过一生",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-36:0"
+    },
+    {
+      "source_row": 29,
+      "time": 138.06,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 30,
+      "time": 139.77,
+      "online_text": "我爱你一世人",
+      "match_text": "我爱你一世人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 143.98,
+      "online_text": "可比是天上的星",
+      "match_text": "可比是天上的星",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 147.85,
+      "online_text": "闪烁不曾停",
+      "match_text": "闪烁不曾停",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 151.4,
+      "online_text": "照到你的心",
+      "match_text": "照到你的心",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 154.75,
+      "online_text": "我爱你一世人",
+      "match_text": "我爱你一世人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 158.13,
+      "online_text": "可比是溪边的水",
+      "match_text": "可比是溪边的水",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 161.94,
+      "online_text": "流泻不曾停",
+      "match_text": "流泻不曾停",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 165.6,
+      "online_text": "只有为你等",
+      "match_text": "只有为你等",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 177.02,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 39,
+      "time": 179.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 40,
+      "time": 199.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 41,
+      "time": 199.9,
+      "online_text": "我爱你一世人",
+      "match_text": "我爱你一世人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 204.5,
+      "online_text": "可比是天上的星",
+      "match_text": "可比是天上的星",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 207.82,
+      "online_text": "闪烁不曾停",
+      "match_text": "闪烁不曾停",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 211.51,
+      "online_text": "照到你的心",
+      "match_text": "照到你的心",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 214.81,
+      "online_text": "我爱你一世人",
+      "match_text": "我爱你一世人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 218.16,
+      "online_text": "可比是溪边的水",
+      "match_text": "可比是溪边的水",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 222.0,
+      "online_text": "流泻不曾停",
+      "match_text": "流泻不曾停",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 48,
+      "time": 225.66,
+      "online_text": "只有为你等",
+      "match_text": "只有为你等",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 49,
+      "time": 236.25,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "a4ff770ac0fe599dd464804f4c2cd376921be5c2876f03990b97dca4b37e0567",
+    "manual": "ebc1d22f752a49af2822e894850e71b23c0b22112444b5598bf77bdf04591b3f",
+    "timed": "e2d051353500354e8273a8e91ff2f16af37118d9c10d01a5573a07d74cd29f70"
+  }
+}

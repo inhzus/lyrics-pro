@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": "956393712",
+      "title": "有感音",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "也兽",
+      "duration": 241.56,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

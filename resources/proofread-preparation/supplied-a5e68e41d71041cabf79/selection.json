@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 543798021,
+    "title": "亡命之徒",
+    "artists": [
+      "草屯囝仔"
+    ],
+    "album": "囝仔",
+    "duration": 209.0,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:543798021",
+      "duration": 209.0,
+      "ready": false,
+      "coverage": 0.8979591836734694,
+      "exact_fraction": 0.6530612244897959,
+      "summary": {
+        "gap": 1,
+        "approximate": 12,
+        "exact": 24,
+        "repeat": 8,
+        "unresolved": 5
+      }
+    }
+  ]
+}

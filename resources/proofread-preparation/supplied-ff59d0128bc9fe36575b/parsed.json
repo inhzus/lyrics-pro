@@ -1,0 +1,240 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "稀微的風中　                     珠淚飄落寒冷異鄉",
+      "spelling": "hi-bî ê hong tiong            tsu-luī phiau lo̍h hân-líng ī-hiong",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "稀微的風中",
+          "spelling": "hi-bî ê hong tiong"
+        },
+        {
+          "text": "珠淚飄落寒冷異鄉",
+          "spelling": "tsu-luī phiau lo̍h hân-líng ī-hiong"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "舉頭望　                山河的面容　                      恩恩怨怨蒼天無量",
+      "spelling": "gia̍h-thâu bōng    suann-hô ê bīn-iông        un un uàn uàn tshang hn̂g thian bô-liōng",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "舉頭望",
+          "spelling": "gia̍h-thâu bōng"
+        },
+        {
+          "text": "山河的面容",
+          "spelling": "suann-hô ê bīn-iông"
+        },
+        {
+          "text": "恩恩怨怨蒼天無量",
+          "spelling": "un un uàn uàn tshang hn̂g thian bô-liōng"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "鳥啼的時　                   血影濺紅天邊",
+      "spelling": "niǎo khi ê sî                hiat iánn tsen hông thinn-pinn",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "鳥啼的時",
+          "spelling": "niǎo khi ê sî"
+        },
+        {
+          "text": "血影濺紅天邊",
+          "spelling": "hiat iánn tsen hông thinn-pinn"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "劍鞘隨風飛　                            心酸一如枯葉落地",
+      "spelling": "kiàm-qiào suî hong pue        sim-sng i̍t jû ta-hio̍h lo̍h tē",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "劍鞘隨風飛",
+          "spelling": "kiàm-qiào suî hong pue"
+        },
+        {
+          "text": "心酸一如枯葉落地",
+          "spelling": "sim-sng i̍t jû ta-hio̍h lo̍h tē"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "不願說　              孤傲的情話　                  寵著戰袍狂妄的花",
+      "spelling": "m̄-guān suè        koo ngō͘ ê tsîng uē        sīng tio̍h tsiàn-pâu bōng ê hue",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "不願說",
+          "spelling": "m̄-guān suè"
+        },
+        {
+          "text": "孤傲的情話",
+          "spelling": "koo ngō͘ ê tsîng uē"
+        },
+        {
+          "text": "寵著戰袍狂妄的花",
+          "spelling": "sīng tio̍h tsiàn-pâu bōng ê hue"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "星月暗暝　                           刀光閃爍哀悲",
+      "spelling": "tshinn gue̍h àm-mî            to kng siám sih ai pi",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "星月暗暝",
+          "spelling": "tshinn gue̍h àm-mî"
+        },
+        {
+          "text": "刀光閃爍哀悲",
+          "spelling": "to kng siám sih ai pi"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "身迷離聲憤慨　                       賊寇敢來",
+      "spelling": "sin bî lī siann hùn-khài        tsha̍t khòo kánn lâi",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "身迷離聲憤慨",
+          "spelling": "sin bî lī siann hùn-khài"
+        },
+        {
+          "text": "賊寇敢來",
+          "spelling": "tsha̍t khòo kánn lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "嘆運命放肆　                           壯志滿懷",
+      "spelling": "thàn ūn-miā hòng-sù            tsòng tsì buán-huâi",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "嘆運命放肆",
+          "spelling": "thàn ūn-miā hòng-sù"
+        },
+        {
+          "text": "壯志滿懷",
+          "spelling": "tsòng tsì buán-huâi"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "稀微的風中　                     髮絲交纏蒼白的霜",
+      "spelling": "hi-bî ê hong tiong            hoat si kau tînn hôo pe̍h ê song",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "稀微的風中",
+          "spelling": "hi-bî ê hong tiong"
+        },
+        {
+          "text": "髮絲交纏蒼白的霜",
+          "spelling": "hoat si kau tînn hôo pe̍h ê song"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "怎能忘　                        世恨的凌辱　               了然一生又有何用",
+      "spelling": "tsuánn lîng bōng        sè hūn ê lîng lio̍k        liáu-jiân it-sing iū ū hô iōng",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "怎能忘",
+          "spelling": "tsuánn lîng bōng"
+        },
+        {
+          "text": "世恨的凌辱",
+          "spelling": "sè hūn ê lîng lio̍k"
+        },
+        {
+          "text": "了然一生又有何用",
+          "spelling": "liáu-jiân it-sing iū ū hô iōng"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "待天明露水己去　                              尋我行蹤",
+      "spelling": "thāi thian bîng lōo-tsuí kí khì        sun wǒ hîng-tsong",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "待天明露水己去",
+          "spelling": "thāi thian bîng lōo-tsuí kí khì"
+        },
+        {
+          "text": "尋我行蹤",
+          "spelling": "sun wǒ hîng-tsong"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：伍佰  詞曲 伍佰  台語拼音：關德樂"
+    }
+  ],
+  "notes": [
+    {
+      "line": 36,
+      "text": "Note:  There are a few occasions in this song where he appears to use Chinese instead of Taiwanese.  I did my best to put these words in italics so as to alert the reader as to when to when a switch occurs."
+    }
+  ],
+  "reasons": [
+    "source_note_requires_review:36"
+  ]
+}

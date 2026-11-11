@@ -1,0 +1,424 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "惦在五坪的房間                                 異鄉的過客",
+      "spelling": "tiām tsāi gōo pênn ê pâng-king    ī-hiong ê kuè-kheh",
+      "source_lines": [
+        1,
+        2
+      ],
+      "parts": [
+        {
+          "text": "惦在五坪的房間",
+          "spelling": "tiām tsāi gōo pênn ê pâng-king"
+        },
+        {
+          "text": "異鄉的過客",
+          "spelling": "ī-hiong ê kuè-kheh"
+        }
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "黯淡的月色                          憂愁的月光",
+      "spelling": "àm-tām ê gue̍h-sik            iu-tshiû ê gue̍h-kng",
+      "source_lines": [
+        4,
+        5
+      ],
+      "parts": [
+        {
+          "text": "黯淡的月色",
+          "spelling": "àm-tām ê gue̍h-sik"
+        },
+        {
+          "text": "憂愁的月光",
+          "spelling": "iu-tshiû ê gue̍h-kng"
+        }
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "坐在眠床上                                  整夜袂凍睏",
+      "spelling": "tsē teh bîn tshn̂g-tíng            kui-mî bē tàng khùn",
+      "source_lines": [
+        7,
+        8
+      ],
+      "parts": [
+        {
+          "text": "坐在眠床上",
+          "spelling": "tsē teh bîn tshn̂g-tíng"
+        },
+        {
+          "text": "整夜袂凍睏",
+          "spelling": "kui-mî bē tàng khùn"
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "看著窗外                                   城市的路燈",
+      "spelling": "khuànn tio̍h thang-guā        siânn-tshī ê lōo-ting",
+      "source_lines": [
+        10,
+        11
+      ],
+      "parts": [
+        {
+          "text": "看著窗外",
+          "spelling": "khuànn tio̍h thang-guā"
+        },
+        {
+          "text": "城市的路燈",
+          "spelling": "siânn-tshī ê lōo-ting"
+        }
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "眼前競爭的環境                                      嘛係自己的選擇",
+      "spelling": "gán-tsiân kīng-tsing ê khuân-kíng    mah sī ka-kī ê suán-ti̍k",
+      "source_lines": [
+        13,
+        14
+      ],
+      "parts": [
+        {
+          "text": "眼前競爭的環境",
+          "spelling": "gán-tsiân kīng-tsing ê khuân-kíng"
+        },
+        {
+          "text": "嘛係自己的選擇",
+          "spelling": "mah sī ka-kī ê suán-ti̍k"
+        }
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "這時窗外                               天色漸漸光",
+      "spelling": "tsit-tsūn thang-guā            thinn-sik tsiām tsiām kng",
+      "source_lines": [
+        16,
+        17
+      ],
+      "parts": [
+        {
+          "text": "這時窗外",
+          "spelling": "tsit-tsūn thang-guā"
+        },
+        {
+          "text": "天色漸漸光",
+          "spelling": "thinn-sik tsiām tsiām kng"
+        }
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "慢慢來到厝尾頂                            擱點一支菸",
+      "spelling": "ta̍uh ta̍uh lâi kàu bué tíng        koh tiám tsi̍t ki hun",
+      "source_lines": [
+        19,
+        20
+      ],
+      "parts": [
+        {
+          "text": "慢慢來到厝尾頂",
+          "spelling": "ta̍uh ta̍uh lâi kàu bué tíng"
+        },
+        {
+          "text": "擱點一支菸",
+          "spelling": "koh tiám tsi̍t ki hun"
+        }
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "心裡有怨切                         不知安怎說詳細",
+      "spelling": "sim-lāi ū uàn tshè            m̄ tsai an-tsuánn kóng siông-sè",
+      "source_lines": [
+        22,
+        23
+      ],
+      "parts": [
+        {
+          "text": "心裡有怨切",
+          "spelling": "sim-lāi ū uàn tshè"
+        },
+        {
+          "text": "不知安怎說詳細",
+          "spelling": "m̄ tsai an-tsuánn kóng siông-sè"
+        }
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "只是想要爭一口氣                                       叨位有問題",
+      "spelling": "tsí-sī siūnn beh tsenn tsi̍t-kháu-khuì    tó-uī ū būn-tê",
+      "source_lines": [
+        25,
+        26
+      ],
+      "parts": [
+        {
+          "text": "只是想要爭一口氣",
+          "spelling": "tsí-sī siūnn beh tsenn tsi̍t-kháu-khuì"
+        },
+        {
+          "text": "叨位有問題",
+          "spelling": "tó-uī ū būn-tê"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "茫茫渺渺                                   整日憨憨繞",
+      "spelling": "bông bông biáu biáu             kui-kang gōng gōng se̍h",
+      "source_lines": [
+        28,
+        29
+      ],
+      "parts": [
+        {
+          "text": "茫茫渺渺",
+          "spelling": "bông bông biáu biáu"
+        },
+        {
+          "text": "整日憨憨繞",
+          "spelling": "kui-kang gōng gōng se̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "時間一天一天經過                                  已經不願再多說話",
+      "spelling": "sî-kan tsi̍t kang tsi̍t kang king-kuè    í-king m̄ guān tsài tsē kóng-uē",
+      "source_lines": [
+        31,
+        32
+      ],
+      "parts": [
+        {
+          "text": "時間一天一天經過",
+          "spelling": "sî-kan tsi̍t kang tsi̍t kang king-kuè"
+        },
+        {
+          "text": "已經不願再多說話",
+          "spelling": "í-king m̄ guān tsài tsē kóng-uē"
+        }
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "無法解釋                        嘛無力通改變",
+      "spelling": "bô-huat kái-sik            mah bô-la̍t thàng kái-piàn",
+      "source_lines": [
+        34,
+        35
+      ],
+      "parts": [
+        {
+          "text": "無法解釋",
+          "spelling": "bô-huat kái-sik"
+        },
+        {
+          "text": "嘛無力通改變",
+          "spelling": "mah bô-la̍t thàng kái-piàn"
+        }
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "擱點一支菸                             心裡有怨切",
+      "spelling": "koh tiám tsi̍t ki hun            sim-lāi ū uàn tshè",
+      "source_lines": [
+        37,
+        38
+      ],
+      "parts": [
+        {
+          "text": "擱點一支菸",
+          "spelling": "koh tiám tsi̍t ki hun"
+        },
+        {
+          "text": "心裡有怨切",
+          "spelling": "sim-lāi ū uàn tshè"
+        }
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "擱點一支菸                            心裡有怨切",
+      "spelling": "koh tiám tsi̍t ki hun            sim-lāi ū uàn tshè",
+      "source_lines": [
+        40,
+        41
+      ],
+      "parts": [
+        {
+          "text": "擱點一支菸",
+          "spelling": "koh tiám tsi̍t ki hun"
+        },
+        {
+          "text": "心裡有怨切",
+          "spelling": "sim-lāi ū uàn tshè"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "只是想要爭一口氣                                       叨位有問題",
+      "spelling": "tsí-sī siūnn beh tsenn tsi̍t-kháu-khuì    tó-uī ū būn-tê",
+      "source_lines": [
+        43,
+        44
+      ],
+      "parts": [
+        {
+          "text": "只是想要爭一口氣",
+          "spelling": "tsí-sī siūnn beh tsenn tsi̍t-kháu-khuì"
+        },
+        {
+          "text": "叨位有問題",
+          "spelling": "tó-uī ū būn-tê"
+        }
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "茫茫渺渺                                   整日憨憨繞",
+      "spelling": "bông bông biáu biáu             kui-kang gōng gōng se̍h",
+      "source_lines": [
+        46,
+        47
+      ],
+      "parts": [
+        {
+          "text": "茫茫渺渺",
+          "spelling": "bông bông biáu biáu"
+        },
+        {
+          "text": "整日憨憨繞",
+          "spelling": "kui-kang gōng gōng se̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "時間一天一天經過                                   已經不願再多說話",
+      "spelling": "sî-kan tsi̍t kang tsi̍t kang king-kuè    í-king m̄ guān tsài tsē kóng-uē",
+      "source_lines": [
+        49,
+        50
+      ],
+      "parts": [
+        {
+          "text": "時間一天一天經過",
+          "spelling": "sî-kan tsi̍t kang tsi̍t kang king-kuè"
+        },
+        {
+          "text": "已經不願再多說話",
+          "spelling": "í-king m̄ guān tsài tsē kóng-uē"
+        }
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "無法解釋                        嘛無力通改變",
+      "spelling": "bô-huat kái-sik            mah bô-la̍t thàng kái-piàn",
+      "source_lines": [
+        52,
+        53
+      ],
+      "parts": [
+        {
+          "text": "無法解釋",
+          "spelling": "bô-huat kái-sik"
+        },
+        {
+          "text": "嘛無力通改變",
+          "spelling": "mah bô-la̍t thàng kái-piàn"
+        }
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "只是想要爭一口氣                                       叨位有問題（無力通改變）",
+      "spelling": "tsí-sī siūnn beh tsenn tsi̍t-kháu-khuì    tó-uī ū būn-tê (bô-la̍t thàng kái-piàn)",
+      "source_lines": [
+        55,
+        56
+      ],
+      "parts": [
+        {
+          "text": "只是想要爭一口氣",
+          "spelling": "tsí-sī siūnn beh tsenn tsi̍t-kháu-khuì"
+        },
+        {
+          "text": "叨位有問題（無力通改變）",
+          "spelling": "tó-uī ū būn-tê (bô-la̍t thàng kái-piàn)"
+        }
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "茫茫渺渺                                   整日憨憨繞",
+      "spelling": "bông bông biáu biáu             kui-kang gōng gōng se̍h",
+      "source_lines": [
+        58,
+        59
+      ],
+      "parts": [
+        {
+          "text": "茫茫渺渺",
+          "spelling": "bông bông biáu biáu"
+        },
+        {
+          "text": "整日憨憨繞",
+          "spelling": "kui-kang gōng gōng se̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "時間一天一天經過",
+      "spelling": "sî-kan tsi̍t kang tsi̍t kang king-kuè",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "已經不願再多說話（我一個人站在天光的屋頂）",
+      "spelling": "í-king m̄ guān tsài tsē kóng-uē (guá tsi̍t ê lâng tsām thinn-kng ê tshù-tíng)",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "無法解釋                        嘛無力通改變（茫茫渺渺）",
+      "spelling": "bô-huat kái-sik            mah bô-la̍t thàng kái-piàn (bông bông biáu biáu)",
+      "source_lines": [
+        67,
+        68
+      ],
+      "parts": [
+        {
+          "text": "無法解釋",
+          "spelling": "bô-huat kái-sik"
+        },
+        {
+          "text": "嘛無力通改變（茫茫渺渺）",
+          "spelling": "mah bô-la̍t thàng kái-piàn (bông bông biáu biáu)"
+        }
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

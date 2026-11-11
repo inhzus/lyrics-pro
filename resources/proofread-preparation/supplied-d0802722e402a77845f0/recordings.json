@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 2706343918,
+      "title": "卡拼咧",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "我是男子汉",
+      "duration": 185.773,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

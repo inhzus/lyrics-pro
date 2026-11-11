@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": 3385975682,
+      "title": "查某囝",
+      "artists": [
+        "王哥Ai"
+      ],
+      "album": "王哥Ai 閩南語專輯 01",
+      "duration": 256.056,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3396497126,
+      "title": "查某囝",
+      "artists": [
+        "林知夏 Livia Lin"
+      ],
+      "album": "查某囝",
+      "duration": 331.88,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3388203405,
+      "title": "查某囝",
+      "artists": [
+        "王哥Ai"
+      ],
+      "album": "王哥Ai閩南語專輯02",
+      "duration": 305.04,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1194938598",
+      "title": "查某囝",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "旧年",
+      "duration": 223.707,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

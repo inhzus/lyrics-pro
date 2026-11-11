@@ -1,10 +1,327 @@
-Bundled proofread content: 少年吔，安啦
-
-User-provided lyrics and corresponding romanization.
-Words: 伍佰 / 陳世杰. Music: 伍佰. Romanization: 關德樂.
-Transcription reference: https://taikegui.wordpress.com/2017/04/28/少年吔，安啦/
-Timing: NetEase recording 5237870, https://music.163.com/song?id=5237870
+Bundled user-provided lyrics and corresponding spelling
 
 The application's MIT license applies to its code, not to song lyrics or
 transcriptions. Attribution does not grant redistribution rights to that content.
-The alignment retains provider timestamps and is not audio-verified.
+Alignments retain provider timestamps and are not audio-verified.
+
+少年吔，安啦！ — 伍佰
+Asset: proofread:shao-nian-eh-an-la
+User-provided proofread lyrics · 台語拼音：關德樂 · Timing: NetEase 5237870
+Words: 伍佰 / 陳世杰. Music: 伍佰. Romanization: 關德樂.
+Transcription reference: https://taikegui.wordpress.com/2017/04/28/少年吔，安啦/
+Timing: NetEase https://music.163.com/song?id=5237870
+
+斷腸詩 — 伍佰 & China Blue
+Asset: proofread:supplied-04247bde48aaf44405d6
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156664
+
+徘徊夜都市 — 伍佰
+Asset: proofread:supplied-0c8c4784e6efd68493d3
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: LRCLIB https://lrclib.net/api/get/17325984
+
+秋風夜雨 — 伍佰 & China Blue
+Asset: proofread:supplied-0d99e1e2673dcdf5d500
+User-provided transcription. 作詞：周添旺  作曲：楊三郎  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156635
+
+莎喲娜啦 — 伍佰 & China Blue
+Asset: proofread:supplied-1034a673a9e9a8941843
+User-provided transcription. 作詞：伍佰   作曲：伍佰 台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156526
+
+返去故鄉 — 伍佰 & China Blue
+Asset: proofread:supplied-1c328ec625966857dd8f
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=157176
+
+少女的心 — 伍佰 & China Blue
+Asset: proofread:supplied-1cbc34a98035a9027c38
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=157168
+
+人生 — 滅火器
+Asset: proofread:supplied-1e5f007ede392db9399e
+User-provided transcription. 作詞：楊大正   作曲：楊大正  台語拼音：關德樂
+Timing: LrcAPI https://api.lrc.cx/jsonapi?title=%E4%BA%BA%E7%94%9F&artist=%E6%BB%85%E7%81%AB%E5%99%A8&album=%E8%BF%9B%E5%87%BB%E4%B8%8B%E5%8D%8A%E5%9C%BA#1547228036
+
+蹦孔 — 伍佰 & China Blue
+Asset: proofread:supplied-22d1886b6e92a99cc5f9
+User-provided transcription. 作詞：伍佰   作曲：伍佰 台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=449769014
+
+放浪舞者 — 伍佰 & China Blue
+Asset: proofread:supplied-267a0c73afb0c278eeb6
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=449769017
+
+枉費青春 — 伍佰
+Asset: proofread:supplied-2d97182b1b71050424e3
+User-provided transcription. 作詞：伍佰 作曲：伍佰 台語拼音：關德樂
+Timing: LRCLIB https://lrclib.net/api/get/21201274
+
+素蘭小姐要出嫁 — 伍佰
+Asset: proofread:supplied-306250fc14604694b92d
+User-provided transcription. 作詞 莊啟勝 ： 作曲 佚名  ：  台語拼音：關的樂
+Timing: NetEase https://music.163.com/song?id=157406
+
+風颱心情 — 伍佰 & China Blue
+Asset: proofread:supplied-35811cea5109bd26e617
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156517
+
+飛在風中的小雨 — 伍佰 & China Blue
+Asset: proofread:supplied-3be77a1c42c4c9032a8b
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156682
+
+往事欲如何 — 伍佰 & China Blue
+Asset: proofread:supplied-408c2bdb4cfd97d1b4d4
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156372
+
+台北孤兒 — 伍佰
+Asset: proofread:supplied-4a3a91defa0c8724fefc
+User-provided transcription. 作詞：伍佰  作曲：伍佰  演唱：伍佰/李宗盛  台語拼音：關德樂
+Timing: LRCLIB https://lrclib.net/api/get/40160357
+
+熱淚暗班車 — 伍佰 & China Blue
+Asset: proofread:supplied-4e3ad661c72dc94ce064
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=449769018
+
+煞到妳 — 伍佰 & China Blue
+Asset: proofread:supplied-52cf388e768a2d06303f
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=157186
+
+咱是好兄弟 — 黃明志
+Asset: proofread:supplied-5a8517106e636366bb7f
+User-provided transcription.
+Timing: LrcAPI https://api.lrc.cx/jsonapi?title=%E5%92%B1%E6%98%AF%E5%A5%BD%E5%85%84%E5%BC%9F&artist=%E9%BB%83%E6%98%8E%E5%BF%97&album=%E4%BA%9A%E6%B4%B2%E9%80%9A%E7%BC%89#1459926669
+
+I LOVE YOU 無望 — 五月天
+Asset: proofread:supplied-617d2f6ec452108f41b8
+User-provided transcription. 作詞：阿信　作曲： 五月天  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=386034
+
+白鷺鷥 — 伍佰 & China Blue
+Asset: proofread:supplied-6213b5da555d236db815
+User-provided transcription. 作詞： 伍佰   作曲：Beglin   台羅拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156292
+
+空襲警報 — 伍佰 & China Blue
+Asset: proofread:supplied-66c3931786221442fdb2
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=157189
+
+釘子花 — 伍佰 & China Blue
+Asset: proofread:supplied-6a497c88b3811aae3105
+User-provided transcription.
+Timing: NetEase https://music.163.com/song?id=446875821
+
+夢中央 — 江蕙
+Asset: proofread:supplied-6af7d6cd1ed2770d383e
+User-provided transcription.
+Timing: LrcAPI https://api.lrc.cx/jsonapi?title=%E5%A4%A2%E4%B8%AD%E5%A4%AE&artist=%E6%B1%9F%E8%95%99&album=%E5%BD%93%E6%97%B6%E6%AC%B2%E5%AB%81#1445521619
+
+海上的島 — 伍佰 & China Blue / 范晓萱
+Asset: proofread:supplied-6b448a9ac6693ad0a4e4
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156509
+
+台十七 — 拍謝少年
+Asset: proofread:supplied-6c7e22788a5a450a65b2
+User-provided transcription.
+Timing: LrcAPI https://api.lrc.cx/jsonapi?title=%E5%8F%B0%E5%8D%81%E4%B8%83&artist=%E6%8B%8D%E8%AC%9D%E5%B0%91%E5%B9%B4&album=%E6%B5%B7%E5%8F%A3%E5%91%B3#1753653086
+
+快樂的等待 — 伍佰 & China Blue
+Asset: proofread:supplied-6ddcb1b7f57be05b548e
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156523
+
+只要為你活一天 — 伍佰
+Asset: proofread:supplied-6f29e51a7ab9bc94bccf
+User-provided transcription. 作詞：陳世杰 / 作曲：吳俊霖  台語拼音：關德樂
+Timing: LRCLIB https://lrclib.net/api/get/22685391
+
+樹枝孤鳥 — 伍佰 & China Blue
+Asset: proofread:supplied-74b61c00999a39dd0c08
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=157192
+
+心愛的再會啦 — 伍佰 & China Blue
+Asset: proofread:supplied-794b992d79807fc0f460
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=157180
+
+牽阮的手 — 蘇打綠
+Asset: proofread:supplied-7b588235a872d5d81150
+User-provided transcription.
+Timing: LRCLIB https://lrclib.net/api/get/16308886
+
+厲害 — 伍佰 & China Blue
+Asset: proofread:supplied-7cfec46e7b59e36be4eb
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156501
+
+衝衝衝 — 伍佰 & China Blue
+Asset: proofread:supplied-80000036c4b90146554d
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156708
+
+嘿! 朋友 — 夕陽武士
+Asset: proofread:supplied-80720d5040239781e18b
+User-provided transcription.
+Timing: NetEase https://music.163.com/song?id=399366484
+
+新迪爵戀曲 — 拍謝少年
+Asset: proofread:supplied-81bf44817fd16f6cb3a4
+User-provided transcription.
+Timing: LrcAPI https://api.lrc.cx/jsonapi?title=%E6%96%B0%E8%BF%AA%E7%88%B5%E6%88%80%E6%9B%B2&artist=%E6%8B%8D%E8%AC%9D%E5%B0%91%E5%B9%B4&album=%E6%B5%B7%E5%8F%A3%E5%91%B3#1753652888
+
+萬丈深坑 — 伍佰 & China Blue
+Asset: proofread:supplied-893fcbba0b343b0ad07b
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=157178
+
+仝款的月娘 — 伍佰 & China Blue
+Asset: proofread:supplied-8ca6d9b80e01abd71bce
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=449769019
+
+愛妳無目地 — 伍佰 & China Blue
+Asset: proofread:supplied-96ecffda262b750c1042
+User-provided transcription. 作詞：伍佰   作曲：伍佰 台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=2051740555
+
+雙面人 — 伍佰 & China Blue
+Asset: proofread:supplied-97d3299cc8a386a03961
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156505
+
+汝是我的心肝 — 伍佰
+Asset: proofread:supplied-986c502c66ae02629a09
+User-provided transcription. 作詞：伍佰/王武雄    作曲：伍佰  台語拼音：關德樂
+Timing: LRCLIB https://lrclib.net/api/get/15303180
+
+愛情限時批 — 万芳 / 伍佰
+Asset: proofread:supplied-99d12880f43b3fcf5c17
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=297917
+
+漂浪 — 伍佰 & China Blue
+Asset: proofread:supplied-9e39fa38d2424d4a8876
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=157174
+
+東石 — 伍佰 & China Blue
+Asset: proofread:supplied-a1d63214e4ffbfa8c97f
+User-provided transcription. 作詞：伍佰   作曲：伍佰 台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=449769015
+
+來去夏威夷 — 金门王与李炳辉
+Asset: proofread:supplied-a7a75ded38c39f487cfa
+User-provided transcription.
+Timing: NetEase https://music.163.com/song?id=361000
+
+世界第一等 — 伍佰 & China Blue
+Asset: proofread:supplied-aa877b02e4f643c35279
+User-provided transcription. 作詞：李安修/陳富榮   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156868
+
+樓仔厝 — 伍佰
+Asset: proofread:supplied-b3d0dd9906efa9010654
+User-provided transcription. 作詞：伍佰  詞曲 伍佰  台語拼音：關德樂
+Timing: LrcAPI https://api.lrc.cx/jsonapi?title=%E6%A5%BC%E4%BB%94%E5%8E%9D+%28Live%29&artist=%E4%BC%8D%E4%BD%B0&album=%E5%A4%8F%E5%A4%9C%E6%99%9A%E9%A3%8E+%E6%BC%94%E5%94%B1%E4%BC%9A%E7%B2%BE%E9%80%89%E5%AE%9E%E5%BD%95+-+%E6%91%87%E6%BB%9A%C2%B7%E6%B5%AA%E6%BC%AB+%28Live%29#156207236
+
+無聲的所在 — 伍佰 & China Blue
+Asset: proofread:supplied-b50a1dcdc27788c1d8e3
+User-provided transcription. 作詞：陳世杰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156994
+
+海底飛凌機 — 伍佰 & China Blue
+Asset: proofread:supplied-bd69d1a7c5671b04393c
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156515
+
+貳伍這冬 — 拍謝少年
+Asset: proofread:supplied-bdc2c76b7efb337d0299
+User-provided transcription.
+Timing: LrcAPI https://api.lrc.cx/jsonapi?title=%E8%B2%B3%E4%BC%8D%E9%80%99%E5%86%AC&artist=%E6%8B%8D%E8%AC%9D%E5%B0%91%E5%B9%B4&album=%E6%B5%B7%E5%8F%A3%E5%91%B3#1753652884
+
+何時再見夢中人 — 伍佰 & China Blue
+Asset: proofread:supplied-bf15ce3460b283c3a0ee
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=452614918
+
+台灣製造 — 伍佰 & China Blue
+Asset: proofread:supplied-c3dd80fb75f4f253c5b3
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156513
+
+點煙 — 伍佰 & China Blue
+Asset: proofread:supplied-cbdd07883a98f319373b
+User-provided transcription. 作詞：陳世杰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156594
+
+KISS ME (星星知我心) — 伍佰 & China Blue
+Asset: proofread:supplied-cde4185c5607ccf1f24a
+User-provided transcription. 作詞：文夏   作曲：伍佰    台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156643
+
+小姐免驚 — 伍佰
+Asset: proofread:supplied-d9c8c39216c8ac696ee9
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: LRCLIB https://lrclib.net/api/get/18535997
+
+車尾燈戀人 — 川秋沙
+Asset: proofread:supplied-dc685c13643c897b4c9a
+User-provided transcription. 作詞：林村宜\江致潔 作曲：川秋沙 台羅拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=350188
+
+殺手驪歌 — 伍佰 & China Blue
+Asset: proofread:supplied-dd3eec746ec23efbd44f
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: LRCLIB https://lrclib.net/api/get/29760563
+
+下港人在台北市 — 伍佰 & China Blue
+Asset: proofread:supplied-e690ee6a2bf5f096efee
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156520
+
+墓仔埔也敢去 — 伍佰 & China Blue
+Asset: proofread:supplied-e79110986bdaccc2c6c3
+User-provided transcription. 作詞：郭大誠  作曲 ：日本曲  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156639
+
+飛 — 伍佰
+Asset: proofread:supplied-eb79c3ec6c794433eca6
+User-provided transcription. 作詞：伍佰　作曲： 伍佰  台語拼音：關德樂
+Timing: LRCLIB https://lrclib.net/api/get/16432589
+
+怨嗟嘆 — 伍佰 & China Blue
+Asset: proofread:supplied-ee5d055b9529662ea72e
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=157197
+
+月落 — 江蕙
+Asset: proofread:supplied-f088de5048e9d9109c24
+User-provided transcription.
+Timing: LrcAPI https://api.lrc.cx/jsonapi?title=%E6%9C%88%E8%90%BD&artist=%E6%B1%9F%E8%95%99&album=%E7%94%B2%E4%BD%A0%E6%8F%BD%E7%89%A2%E7%89%A2#1445522122
+
+日出之前 — 川秋沙
+Asset: proofread:supplied-f65c28b43f7c1a4807af
+User-provided transcription.
+Timing: NetEase https://music.163.com/song?id=31830691
+
+種子 — 伍佰 & China Blue
+Asset: proofread:supplied-f81396bc56aedc738c99
+User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=449769021
+
+稀微的風中 — 伍佰 & China Blue
+Asset: proofread:supplied-ff59d0128bc9fe36575b
+User-provided transcription. 作詞：伍佰  詞曲 伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=452614917

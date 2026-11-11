@@ -1,0 +1,60 @@
+{
+  "candidates": [
+    {
+      "song_id": 2003918548,
+      "title": "海上的人",
+      "artists": [
+        "梁颖伟"
+      ],
+      "album": "绝世舞曲",
+      "duration": 81.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1860212226,
+      "title": "海上的人",
+      "artists": [
+        "小白"
+      ],
+      "album": "海上的人",
+      "duration": 193.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2044580365,
+      "title": "海上的人",
+      "artists": [
+        "WangRed"
+      ],
+      "album": "是终点也是起点",
+      "duration": 240.065,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1547227754",
+      "title": "海上的人",
+      "artists": [
+        "灭火器"
+      ],
+      "album": "进击下半场",
+      "duration": 246.227,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "375431427",
+      "title": "海上的人",
+      "artists": [
+        "灭火器"
+      ],
+      "album": "海上的人",
+      "duration": 246.35,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,620 @@
+{
+  "recording_id": "netease:399367439",
+  "timing_source": "NetEase https://music.163.com/song?id=399367439",
+  "manual_source": "User-supplied resources/lyrics-spelling/雙面世界-夕陽武士",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 3,
+    "unresolved": 41
+  },
+  "review_row_count": 41,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-22:0",
+    "line-25:0"
+  ],
+  "unused_repeat_ids": [
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 黄圣峰",
+      "match_text": "作词 : 黄圣峰",
+      "text": "作词 : 黄圣峰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 王立",
+      "match_text": "作曲 : 王立",
+      "text": "作曲 : 王立",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "制作人 : 夕阳武士",
+      "match_text": "制作人 : 夕阳武士",
+      "text": "制作人 : 夕阳武士",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 3.0,
+      "online_text": "编曲人 : 夕阳武士",
+      "match_text": "编曲人 : 夕阳武士",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 4.0,
+      "online_text": "录音工程师 : 陈莹哲",
+      "match_text": "录音工程师 : 陈莹哲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 5.0,
+      "online_text": "混音工程师 : 陈莹哲",
+      "match_text": "混音工程师 : 陈莹哲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 22.2,
+      "online_text": "已经看袂落去",
+      "match_text": "已经看袂落去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 7,
+      "time": 24.68,
+      "online_text": "转弯踅角全是假意",
+      "match_text": "转弯踅角全是假意",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 8,
+      "time": 27.89,
+      "online_text": "毋愿忍受落去",
+      "match_text": "毋愿忍受落去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 9,
+      "time": 30.18,
+      "online_text": "是时阵喊出声音",
+      "match_text": "是时阵喊出声音",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 10,
+      "time": 34.42,
+      "online_text": "我将期待交予你",
+      "match_text": "我将期待交予你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 39.99,
+      "online_text": "越头过你丢一边",
+      "match_text": "越头过你丢一边",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 45.39,
+      "online_text": "我就像生活伫一个双面世界的城市",
+      "match_text": "我就像生活伫一个双面世界的城市",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 51.0,
+      "online_text": "欺骗阮每一日",
+      "match_text": "欺骗阮每一日",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 54.45,
+      "online_text": "咱需要愤慨的声音",
+      "match_text": "咱需要愤慨的声音",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 57.21,
+      "online_text": "毋通予正义消失去",
+      "match_text": "毋通予正义消失去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 59.89,
+      "online_text": "若看清社会的无理",
+      "match_text": "若看清社会的无理",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 62.52,
+      "online_text": "使你我心伤悲",
+      "match_text": "使你我心伤悲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 65.41,
+      "online_text": "咱需要愤慨的声音",
+      "match_text": "咱需要愤慨的声音",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 68.09,
+      "online_text": "赶出是非颠倒的画面 喔",
+      "match_text": "赶出是非颠倒的画面 喔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 85.37,
+      "online_text": "电视播的画面",
+      "match_text": "电视播的画面",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-22:0"
+    },
+    {
+      "source_row": 21,
+      "time": 87.72,
+      "online_text": "对你信心已经死去",
+      "match_text": "对你信心已经死去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-22:0"
+    },
+    {
+      "source_row": 22,
+      "time": 90.92,
+      "online_text": "无法阁相信你",
+      "match_text": "无法阁相信你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-25:0"
+    },
+    {
+      "source_row": 23,
+      "time": 93.25,
+      "online_text": "看无改变伫佗位",
+      "match_text": "看无改变伫佗位",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-25:0"
+    },
+    {
+      "source_row": 24,
+      "time": 97.65,
+      "online_text": "我将期待交予你",
+      "match_text": "我将期待交予你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 103.02,
+      "online_text": "越头过你丢一边",
+      "match_text": "越头过你丢一边",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 108.53,
+      "online_text": "我就像生活伫一个双面世界的城市",
+      "match_text": "我就像生活伫一个双面世界的城市",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 114.0,
+      "online_text": "欺骗阮每一日",
+      "match_text": "欺骗阮每一日",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 117.61,
+      "online_text": "咱需要愤慨的声音",
+      "match_text": "咱需要愤慨的声音",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 120.38,
+      "online_text": "毋通予正义消失去",
+      "match_text": "毋通予正义消失去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 123.01,
+      "online_text": "若看清社会的无理",
+      "match_text": "若看清社会的无理",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 125.55,
+      "online_text": "使你我心伤悲",
+      "match_text": "使你我心伤悲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 128.67,
+      "online_text": "咱需要愤慨的声音",
+      "match_text": "咱需要愤慨的声音",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 131.31,
+      "online_text": "赶出是非颠倒的画面 喔",
+      "match_text": "赶出是非颠倒的画面 喔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 197.96,
+      "online_text": "我将期待交予你",
+      "match_text": "我将期待交予你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 203.45,
+      "online_text": "越头过你丢一边",
+      "match_text": "越头过你丢一边",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 209.01,
+      "online_text": "我就像生活伫一个双面世界的城市",
+      "match_text": "我就像生活伫一个双面世界的城市",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 214.44,
+      "online_text": "欺骗阮每一日",
+      "match_text": "欺骗阮每一日",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 219.51,
+      "online_text": "咱需要愤慨的声音",
+      "match_text": "咱需要愤慨的声音",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 222.08,
+      "online_text": "毋通予正义消失去",
+      "match_text": "毋通予正义消失去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 224.71,
+      "online_text": "若看清社会的无理",
+      "match_text": "若看清社会的无理",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 227.4,
+      "online_text": "使你我心伤悲",
+      "match_text": "使你我心伤悲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 230.32,
+      "online_text": "咱需要愤慨的声音",
+      "match_text": "咱需要愤慨的声音",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 233.01,
+      "online_text": "赶出是非颠倒的画面 喔",
+      "match_text": "赶出是非颠倒的画面 喔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "ffea999b6c1718272448ba945bf8832d8206956847791b55d044bf80c2d739eb",
+    "manual": "8139414b0fa38bbc2f5986a285e067cdbbb866bfca6fe3fab7dbf0a99c78fda2",
+    "timed": "4ae4643ac9e2f3030e29c0f71f70820b1f9de2c7ad4256998f92999aca5a665a"
+  }
+}

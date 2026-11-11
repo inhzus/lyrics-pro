@@ -1,0 +1,610 @@
+{
+  "candidates": [
+    {
+      "song_id": 1981999920,
+      "title": "追追追",
+      "artists": [
+        "Crispy脆乐团"
+      ],
+      "album": "爱是我们必经的辛苦",
+      "duration": 195.851,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 543965344,
+      "title": "追追追",
+      "artists": [
+        "黄妃"
+      ],
+      "album": "K歌王国 女人K歌",
+      "duration": 282.426,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 543965610,
+      "title": "追追追",
+      "artists": [
+        "黄妃"
+      ],
+      "album": "1哥1姐滚石2000年国台语双赢总霸主",
+      "duration": 284.666,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3387043141,
+      "title": "追追追",
+      "artists": [
+        "华语群星"
+      ],
+      "album": "追追追",
+      "duration": 154.462,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2101487427,
+      "title": "追追追",
+      "artists": [
+        "百合花 Lilium"
+      ],
+      "album": "追追追",
+      "duration": 285.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2620001543,
+      "title": "追追追",
+      "artists": [
+        "百合花 Lilium"
+      ],
+      "album": "萬事美妙",
+      "duration": 284.786,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 256869,
+      "title": "追追追",
+      "artists": [
+        "李心洁"
+      ],
+      "album": "爱像大海",
+      "duration": 266.797,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1322849735,
+      "title": "追追追",
+      "artists": [
+        "黃子彬"
+      ],
+      "album": "黃子彬, Vol. 3",
+      "duration": 275.453,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2694253615,
+      "title": "追追追",
+      "artists": [
+        "竹缘雪Yukine"
+      ],
+      "album": "竹缘雪的闽南语Collect",
+      "duration": 286.561,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1981999920,
+      "title": "追追追",
+      "artists": [
+        "Crispy脆乐团"
+      ],
+      "album": "爱是我们必经的辛苦",
+      "duration": 195.851,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 543965344,
+      "title": "追追追",
+      "artists": [
+        "黄妃"
+      ],
+      "album": "K歌王国 女人K歌",
+      "duration": 282.426,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 543965610,
+      "title": "追追追",
+      "artists": [
+        "黄妃"
+      ],
+      "album": "1哥1姐滚石2000年国台语双赢总霸主",
+      "duration": 284.666,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3387043141,
+      "title": "追追追",
+      "artists": [
+        "华语群星"
+      ],
+      "album": "追追追",
+      "duration": 154.462,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2101487427,
+      "title": "追追追",
+      "artists": [
+        "百合花 Lilium"
+      ],
+      "album": "追追追",
+      "duration": 285.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2620001543,
+      "title": "追追追",
+      "artists": [
+        "百合花 Lilium"
+      ],
+      "album": "萬事美妙",
+      "duration": 284.786,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 256869,
+      "title": "追追追",
+      "artists": [
+        "李心洁"
+      ],
+      "album": "爱像大海",
+      "duration": 266.797,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1322849735,
+      "title": "追追追",
+      "artists": [
+        "黃子彬"
+      ],
+      "album": "黃子彬, Vol. 3",
+      "duration": 275.453,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2694253615,
+      "title": "追追追",
+      "artists": [
+        "竹缘雪Yukine"
+      ],
+      "album": "竹缘雪的闽南语Collect",
+      "duration": 286.561,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 543965344,
+      "title": "追追追",
+      "artists": [
+        "黄妃"
+      ],
+      "album": "K歌王国 女人K歌",
+      "duration": 282.426,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2101487427,
+      "title": "追追追",
+      "artists": [
+        "百合花 Lilium"
+      ],
+      "album": "追追追",
+      "duration": 285.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1981999920,
+      "title": "追追追",
+      "artists": [
+        "Crispy脆乐团"
+      ],
+      "album": "爱是我们必经的辛苦",
+      "duration": 195.851,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 543965610,
+      "title": "追追追",
+      "artists": [
+        "黄妃"
+      ],
+      "album": "1哥1姐滚石2000年国台语双赢总霸主",
+      "duration": 284.666,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3387043141,
+      "title": "追追追",
+      "artists": [
+        "华语群星"
+      ],
+      "album": "追追追",
+      "duration": 154.462,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 256869,
+      "title": "追追追",
+      "artists": [
+        "李心洁"
+      ],
+      "album": "爱像大海",
+      "duration": 266.797,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1820238294,
+      "title": "追追追",
+      "artists": [
+        "谣啊摇"
+      ],
+      "album": "一周极速玩笑",
+      "duration": 285.286,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2620001543,
+      "title": "追追追",
+      "artists": [
+        "百合花 Lilium"
+      ],
+      "album": "萬事美妙",
+      "duration": 284.786,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1322849735,
+      "title": "追追追",
+      "artists": [
+        "黃子彬"
+      ],
+      "album": "黃子彬, Vol. 3",
+      "duration": 275.453,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2694253615,
+      "title": "追追追",
+      "artists": [
+        "竹缘雪Yukine"
+      ],
+      "album": "竹缘雪的闽南语Collect",
+      "duration": 286.561,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2147522643,
+      "title": "追追追",
+      "artists": [
+        "水灵"
+      ],
+      "album": "水灵，第四集",
+      "duration": 199.12,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1474627222,
+      "title": "追追追",
+      "artists": [
+        "李宇飞"
+      ],
+      "album": "宇飞飞想要唱歌的100个理由",
+      "duration": 331.258,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3328012462,
+      "title": "追追追",
+      "artists": [
+        "从前有后山"
+      ],
+      "album": "褪色的笔记",
+      "duration": 166.512,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2654671501,
+      "title": "追追追",
+      "artists": [
+        "曼曼的钢琴城堡"
+      ],
+      "album": "猎罪图鉴",
+      "duration": 124.727,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1992053290,
+      "title": "追追追",
+      "artists": [
+        "吃琴斯"
+      ],
+      "album": "少年曲集",
+      "duration": 146.517,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1644823854",
+      "title": "追追追",
+      "artists": [
+        "脆乐团"
+      ],
+      "album": "爱是我们必经的辛苦",
+      "duration": 195.852,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1714203110",
+      "title": "追追追",
+      "artists": [
+        "百合花"
+      ],
+      "album": "追追追 - Single",
+      "duration": 285.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1764560224",
+      "title": "追追追",
+      "artists": [
+        "百合花"
+      ],
+      "album": "万事美妙",
+      "duration": 284.787,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "702818695",
+      "title": "追追追",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "真的假的",
+      "duration": 215.413,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1484782180",
+      "title": "追追追",
+      "artists": [
+        "李心洁"
+      ],
+      "album": "爱像大海",
+      "duration": 266.733,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18673,
+      "title": "追追追",
+      "artists": [
+        "苏打绿"
+      ],
+      "album": "十年一刻",
+      "duration": 341.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 18672,
+      "title": "追追追",
+      "artists": [
+        "蘇打綠"
+      ],
+      "album": "十年一刻",
+      "duration": 341.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 32613582,
+      "title": "追追追",
+      "artists": [
+        "黄妃"
+      ],
+      "album": "黄妃",
+      "duration": 285.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 19292640,
+      "title": "追追追",
+      "artists": [
+        "李心洁"
+      ],
+      "album": "爱像大海 Disc 1",
+      "duration": 266.7885824,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 14855505,
+      "title": "追追追",
+      "artists": [
+        "Crispy脆樂團"
+      ],
+      "album": "愛是我們必經的辛苦",
+      "duration": 196.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 23577872,
+      "title": "追追追",
+      "artists": [
+        "百合花"
+      ],
+      "album": "追追追",
+      "duration": 285.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 21790787,
+      "title": "追追追",
+      "artists": [
+        "黃妃"
+      ],
+      "album": "K歌王國 女人K歌",
+      "duration": 284.813333,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 10766687,
+      "title": "追追追",
+      "artists": [
+        "黃妃"
+      ],
+      "album": "男女K歌",
+      "duration": 280.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 10766686,
+      "title": "追追追",
+      "artists": [
+        "sodagreen"
+      ],
+      "album": "十年一刻",
+      "duration": 341.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 13084010,
+      "title": "追追追",
+      "artists": [
+        "脆樂團"
+      ],
+      "album": "愛是我們必經的辛苦",
+      "duration": 195.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 37155701,
+      "title": "追追追",
+      "artists": [
+        "百合花"
+      ],
+      "album": "萬事美妙",
+      "duration": 285.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 36357989,
+      "title": "追追追",
+      "artists": [
+        "苏打绿"
+      ],
+      "album": "律动车载音乐",
+      "duration": 341.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 36357991,
+      "title": "追追追",
+      "artists": [
+        "黄妃"
+      ],
+      "album": "律动车载音乐",
+      "duration": 285.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 26772128,
+      "title": "追追追",
+      "artists": [
+        "蘇打綠"
+      ],
+      "album": "十年一刻 Once In A Lifetime (蘇打綠版)",
+      "duration": 269.419354,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 28941541,
+      "title": "追追追",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "真的假的",
+      "duration": 212.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 28456405,
+      "title": "追追追",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "真的假的!?",
+      "duration": 215.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 38739710,
+      "title": "追追追",
+      "artists": [
+        "李心洁"
+      ],
+      "album": "爱像大海",
+      "duration": 267.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

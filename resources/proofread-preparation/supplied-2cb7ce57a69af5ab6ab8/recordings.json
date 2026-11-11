@@ -1,0 +1,473 @@
+{
+  "candidates": [
+    {
+      "song_id": 385827,
+      "title": "抓狂",
+      "artists": [
+        "五月天"
+      ],
+      "album": "离开地球表面 Jump!",
+      "duration": 241.813,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 187802,
+      "title": "抓狂",
+      "artists": [
+        "张学友"
+      ],
+      "album": "雪狼湖(国语版)",
+      "duration": 82.64,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2602878826,
+      "title": "抓狂",
+      "artists": [
+        "808"
+      ],
+      "album": "抓狂",
+      "duration": 172.12,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1905608711,
+      "title": "抓狂",
+      "artists": [
+        "冰"
+      ],
+      "album": "花蝴蝶",
+      "duration": 152.04,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 522850220,
+      "title": "抓狂",
+      "artists": [
+        "蓝鬼"
+      ],
+      "album": "傻成小丑",
+      "duration": 248.607,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1413193278,
+      "title": "抓狂",
+      "artists": [
+        "雪梅"
+      ],
+      "album": "指针",
+      "duration": 237.374,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1913594171,
+      "title": "抓狂",
+      "artists": [
+        "虎虎的腾"
+      ],
+      "album": "轻叩心扉",
+      "duration": 219.01,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1963123864,
+      "title": "抓狂",
+      "artists": [
+        "莫潤昌"
+      ],
+      "album": "葬礼",
+      "duration": 103.997,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3334676224,
+      "title": "抓狂",
+      "artists": [
+        "桑格利亚"
+      ],
+      "album": "11",
+      "duration": 81.737,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3396587427,
+      "title": "抓狂",
+      "artists": [
+        "用户1746168818"
+      ],
+      "album": "抓狂",
+      "duration": 197.279,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3407927889,
+      "title": "抓狂",
+      "artists": [
+        "大胡小教"
+      ],
+      "album": "月影下的约定",
+      "duration": 205.44,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3359035777,
+      "title": "抓狂",
+      "artists": [
+        "刘胜"
+      ],
+      "album": "有爱的人",
+      "duration": 165.519,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3398633364,
+      "title": "抓狂",
+      "artists": [
+        "謝雅衡"
+      ],
+      "album": "去麦当当",
+      "duration": 169.72,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 385827,
+      "title": "抓狂",
+      "artists": [
+        "五月天"
+      ],
+      "album": "离开地球表面 Jump!",
+      "duration": 241.813,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 187802,
+      "title": "抓狂",
+      "artists": [
+        "张学友"
+      ],
+      "album": "雪狼湖(国语版)",
+      "duration": 82.64,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2602878826,
+      "title": "抓狂",
+      "artists": [
+        "808"
+      ],
+      "album": "抓狂",
+      "duration": 172.12,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1905608711,
+      "title": "抓狂",
+      "artists": [
+        "冰"
+      ],
+      "album": "花蝴蝶",
+      "duration": 152.04,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 522850220,
+      "title": "抓狂",
+      "artists": [
+        "蓝鬼"
+      ],
+      "album": "傻成小丑",
+      "duration": 248.607,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1413193278,
+      "title": "抓狂",
+      "artists": [
+        "雪梅"
+      ],
+      "album": "指针",
+      "duration": 237.374,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1913594171,
+      "title": "抓狂",
+      "artists": [
+        "虎虎的腾"
+      ],
+      "album": "轻叩心扉",
+      "duration": 219.01,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1963123864,
+      "title": "抓狂",
+      "artists": [
+        "莫潤昌"
+      ],
+      "album": "葬礼",
+      "duration": 103.997,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3334676224,
+      "title": "抓狂",
+      "artists": [
+        "桑格利亚"
+      ],
+      "album": "11",
+      "duration": 81.737,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3396587427,
+      "title": "抓狂",
+      "artists": [
+        "用户1746168818"
+      ],
+      "album": "抓狂",
+      "duration": 197.279,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3407927889,
+      "title": "抓狂",
+      "artists": [
+        "大胡小教"
+      ],
+      "album": "月影下的约定",
+      "duration": 205.44,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 385827,
+      "title": "抓狂",
+      "artists": [
+        "五月天"
+      ],
+      "album": "离开地球表面 Jump!",
+      "duration": 241.813,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 187802,
+      "title": "抓狂",
+      "artists": [
+        "张学友"
+      ],
+      "album": "雪狼湖(国语版)",
+      "duration": 82.64,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1950329834,
+      "title": "抓狂",
+      "artists": [
+        "莫潤昌"
+      ],
+      "album": "对你的思绪",
+      "duration": 97.964,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3359035777,
+      "title": "抓狂",
+      "artists": [
+        "刘胜"
+      ],
+      "album": "有爱的人",
+      "duration": 165.519,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1963123864,
+      "title": "抓狂",
+      "artists": [
+        "莫潤昌"
+      ],
+      "album": "葬礼",
+      "duration": 103.997,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2602878826,
+      "title": "抓狂",
+      "artists": [
+        "808"
+      ],
+      "album": "抓狂",
+      "duration": 172.12,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3396587427,
+      "title": "抓狂",
+      "artists": [
+        "用户1746168818"
+      ],
+      "album": "抓狂",
+      "duration": 197.279,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 522850220,
+      "title": "抓狂",
+      "artists": [
+        "蓝鬼"
+      ],
+      "album": "傻成小丑",
+      "duration": 248.607,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1905608711,
+      "title": "抓狂",
+      "artists": [
+        "冰"
+      ],
+      "album": "花蝴蝶",
+      "duration": 152.04,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3398633364,
+      "title": "抓狂",
+      "artists": [
+        "謝雅衡"
+      ],
+      "album": "去麦当当",
+      "duration": 169.72,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3358486227,
+      "title": "抓狂",
+      "artists": [
+        "刘胜"
+      ],
+      "album": "曾经的誓言",
+      "duration": 198.799,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3407927889,
+      "title": "抓狂",
+      "artists": [
+        "大胡小教"
+      ],
+      "album": "月影下的约定",
+      "duration": 205.44,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1913594171,
+      "title": "抓狂",
+      "artists": [
+        "虎虎的腾"
+      ],
+      "album": "轻叩心扉",
+      "duration": 219.01,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3334676224,
+      "title": "抓狂",
+      "artists": [
+        "桑格利亚"
+      ],
+      "album": "11",
+      "duration": 81.737,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3447185752,
+      "title": "抓狂！",
+      "artists": [
+        "范良源"
+      ],
+      "album": "没有想好",
+      "duration": 299.888,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1413193278,
+      "title": "抓狂",
+      "artists": [
+        "雪梅"
+      ],
+      "album": "指针",
+      "duration": 237.374,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1081738612",
+      "title": "抓狂",
+      "artists": [
+        "五月天"
+      ],
+      "album": "离开地球表面",
+      "duration": 241.813,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1469496523",
+      "title": "抓狂",
+      "artists": [
+        "陈明章 & 王明辉"
+      ],
+      "album": "抓狂歌",
+      "duration": 281.173,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": [
+    {
+      "provider": "lrclib",
+      "error": "LRCLIB network request failed: curl: (28) Operation timed out after 15005 milliseconds with 8189 bytes received",
+      "retryable": true
+    }
+  ]
+}

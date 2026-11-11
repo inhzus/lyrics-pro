@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 14734574,
+    "title": "扛壩子",
+    "artists": [
+      "草屯囝仔"
+    ],
+    "album": "囝仔",
+    "duration": 259.0,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrclib:14734574",
+      "duration": 259.0,
+      "ready": false,
+      "coverage": 0.9043280182232346,
+      "exact_fraction": 0.9841269841269841,
+      "summary": {
+        "exact": 26,
+        "repeat": 36,
+        "unresolved": 1,
+        "gap": 1
+      }
+    }
+  ]
+}

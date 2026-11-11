@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "song_id": 2706345337,
+    "title": "八字",
+    "artists": [
+      "男子汉乐团"
+    ],
+    "album": "我是男子汉",
+    "duration": 336.946,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:2706345337",
+      "duration": 336.946,
+      "ready": false,
+      "coverage": 0.4166666666666667,
+      "exact_fraction": 0.4166666666666667,
+      "summary": {
+        "credit": 2,
+        "unresolved": 7,
+        "repeat": 5
+      }
+    }
+  ]
+}

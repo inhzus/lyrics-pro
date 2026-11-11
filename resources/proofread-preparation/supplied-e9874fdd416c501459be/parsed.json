@@ -1,0 +1,185 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "無聊的暗暝 無聊的時                           汝會來離開阮身邊",
+      "spelling": "bô-liâu ê àm mî  bô-liâu ê sî            lí ē lâi lī-khui gún sin-pinn",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "嘛已經歸落年",
+      "spelling": "mā í-king kui lo̍h nî",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "無啥咪代誌 嘛無啥稀奇                                     看抉破離抉開的人",
+      "spelling": "bô siánn-mih tāi-tsì mā bô siánn hi-kî        khuànn bē phuà lī bē khui ē lâng",
+      "source_lines": [
+        7,
+        8
+      ],
+      "parts": [
+        {
+          "text": "無啥咪代誌 嘛無啥稀奇",
+          "spelling": "bô siánn-mih tāi-tsì mā bô siánn hi-kî"
+        },
+        {
+          "text": "看抉破離抉開的人",
+          "spelling": "khuànn bē phuà lī bē khui ē lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "是痛苦的開始",
+      "spelling": "sī thòng-khóo ê khai-sí",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "嘸知汝治叨位                  哪會變安呢生",
+      "spelling": "m̄ tsai lí tī tó-uī             ná ē piàn an-nî sing",
+      "source_lines": [
+        13,
+        14
+      ],
+      "parts": [
+        {
+          "text": "嘸知汝治叨位",
+          "spelling": "m̄ tsai lí tī tó-uī"
+        },
+        {
+          "text": "哪會變安呢生",
+          "spelling": "ná ē piàn an-nî sing"
+        }
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "風微微想到汝",
+      "spelling": "hong bî bî siūnn-tio̍h lí",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "放浪的人生 放蕩的時                              看著我身軀刺的字",
+      "spelling": "hòng lōng ê lîn-sing  hòng-tōng ê sî   khuànn-tio̍h guá sin-khu tshiah ê gī",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "血永遠流抉止",
+      "spelling": "hueh íng-uán lâu bē tsí",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "嘸知汝治叨位                哪會變安呢生",
+      "spelling": "m̄ tsai lí tī tó-uī            ná ē piàn an-nî sing",
+      "source_lines": [
+        25,
+        26
+      ],
+      "parts": [
+        {
+          "text": "嘸知汝治叨位",
+          "spelling": "m̄ tsai lí tī tó-uī"
+        },
+        {
+          "text": "哪會變安呢生",
+          "spelling": "ná ē piàn an-nî sing"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "風微微想到汝",
+      "spelling": "hong bî bî siūnn-tio̍h lí",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "嘸知汝治叨位                 哪會變安呢生",
+      "spelling": "m̄ tsai lí tī tó-uī            ná ē piàn an-nî sing",
+      "source_lines": [
+        31,
+        32
+      ],
+      "parts": [
+        {
+          "text": "嘸知汝治叨位",
+          "spelling": "m̄ tsai lí tī tó-uī"
+        },
+        {
+          "text": "哪會變安呢生",
+          "spelling": "ná ē piàn an-nî sing"
+        }
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "風微微想到汝",
+      "spelling": "hong bî bî siūnn-tio̍h lí",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "嘸知汝治叨位                 哪會變安呢生",
+      "spelling": "m̄ tsai lí tī tó-uī            ná ē piàn an-nî sing",
+      "source_lines": [
+        37,
+        38
+      ],
+      "parts": [
+        {
+          "text": "嘸知汝治叨位",
+          "spelling": "m̄ tsai lí tī tó-uī"
+        },
+        {
+          "text": "哪會變安呢生",
+          "spelling": "ná ē piàn an-nî sing"
+        }
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "風微微會想到汝",
+      "spelling": "hong bî bî ē siūnn-tio̍h lí",
+      "source_lines": [
+        40,
+        41
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:6,7"
+  ]
+}

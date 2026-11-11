@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 399367438,
+      "title": "來不及",
+      "artists": [
+        "夕阳武士"
+      ],
+      "album": "日出",
+      "duration": 270.5,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

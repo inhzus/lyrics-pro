@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 16677587,
+      "title": "是嘸是",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "十一台",
+      "duration": 258.312,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

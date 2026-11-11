@@ -1,0 +1,95 @@
+{
+  "candidates": [
+    {
+      "song_id": 386697,
+      "title": "好不好",
+      "artists": [
+        "五月天"
+      ],
+      "album": "人生海海",
+      "duration": 259.626,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 386017,
+      "title": "好不好",
+      "artists": [
+        "五月天"
+      ],
+      "album": "知足 最真杰作选",
+      "duration": 256.762,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 543965362,
+      "title": "好不好",
+      "artists": [
+        "五月天"
+      ],
+      "album": "男人帮",
+      "duration": 261.626,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1354425335,
+      "title": "好不好",
+      "artists": [
+        "黄子韬"
+      ],
+      "album": "好不好",
+      "duration": 241.453,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 26390182,
+      "title": "好不好",
+      "artists": [
+        "蔡旻佑"
+      ],
+      "album": "原来是美男 (电视原声带)",
+      "duration": 210.586,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3322918851,
+      "title": "好不好",
+      "artists": [
+        "安徽純愛王",
+        "脆薯饼",
+        "wuli"
+      ],
+      "album": "好不好",
+      "duration": 140.599,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3322456653,
+      "title": "好不好",
+      "artists": [
+        "井迪"
+      ],
+      "album": "好不好",
+      "duration": 232.333,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 25640492,
+      "title": "好不好",
+      "artists": [
+        "李唯枫"
+      ],
+      "album": "渴了",
+      "duration": 232.986,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

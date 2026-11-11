@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "song_id": 31830687,
+    "title": "蝴蝶",
+    "artists": [
+      "川秋沙"
+    ],
+    "album": "白噪音",
+    "duration": 275.0,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:31830687",
+      "duration": 275.0,
+      "ready": false,
+      "coverage": 1.0,
+      "exact_fraction": 0.9333333333333333,
+      "summary": {
+        "exact": 14,
+        "gap": 3,
+        "approximate": 1
+      }
+    }
+  ]
+}

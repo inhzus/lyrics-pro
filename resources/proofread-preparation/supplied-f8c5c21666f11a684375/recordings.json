@@ -1,0 +1,39 @@
+{
+  "candidates": [
+    {
+      "song_id": 2656200886,
+      "title": "甜蜜的世界",
+      "artists": [
+        "茄子2024"
+      ],
+      "album": "路在脚下",
+      "duration": 116.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2599500169,
+      "title": "甜蜜的世界",
+      "artists": [
+        "火鸡味锅巴",
+        "Suno.ai"
+      ],
+      "album": "时间才是解药",
+      "duration": 136.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1445522132",
+      "title": "甜蜜的世界",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "甲你揽牢牢",
+      "duration": 219.24,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

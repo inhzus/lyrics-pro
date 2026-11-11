@@ -1,0 +1,515 @@
+{
+  "recording_id": "netease:386032",
+  "timing_source": "NetEase https://music.163.com/song?id=386032",
+  "manual_source": "User-supplied resources/lyrics-spelling/軋車-五月天",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 3,
+    "approximate": 6,
+    "exact": 2,
+    "unresolved": 18,
+    "repeat": 2,
+    "gap": 3
+  },
+  "review_row_count": 26,
+  "unmatched_manual_ids": [
+    "line-3:1",
+    "line-6:1",
+    "line-9:1",
+    "line-12:1",
+    "line-18:0",
+    "line-18:1",
+    "line-42:0",
+    "line-45:0",
+    "line-45:1",
+    "line-45:2",
+    "line-45:3",
+    "line-48:0",
+    "line-48:1"
+  ],
+  "unused_repeat_ids": [
+    "line-24:0",
+    "line-24:1",
+    "line-27:0",
+    "line-27:1",
+    "line-30:0",
+    "line-30:1",
+    "line-33:0",
+    "line-33:1",
+    "line-33:2",
+    "line-54:0",
+    "line-54:1",
+    "line-57:0",
+    "line-57:1",
+    "line-60:0",
+    "line-60:1",
+    "line-63:0",
+    "line-63:1",
+    "line-63:2",
+    "line-66:0",
+    "line-66:1",
+    "line-69:0",
+    "line-69:1",
+    "line-72:0",
+    "line-72:1",
+    "line-75:0",
+    "line-75:1",
+    "line-75:2"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 五月天 阿信",
+      "match_text": "作词 : 五月天 阿信",
+      "text": "作词 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 五月天 阿信",
+      "match_text": "作曲 : 五月天 阿信",
+      "text": "作曲 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "编曲 : 五月天",
+      "match_text": "编曲 : 五月天",
+      "text": "编曲 : 五月天",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 30.8,
+      "online_text": "是按怎阿花和阿娇 拢无佳意我",
+      "match_text": "是按怎阿花和阿娇 拢无佳意我",
+      "text": "是按怎阿花和阿嬌",
+      "spelling": "sī án-tsuánn a hue kah a kiau",
+      "manual_id": "line-3:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.761905
+    },
+    {
+      "source_row": 4,
+      "time": 33.2,
+      "online_text": "我撇车技术一流 无人甲我轧",
+      "match_text": "我撇车技术一流 无人甲我轧",
+      "text": "我撇車技術一流",
+      "spelling": "guá phiat tshia ki-su̍t tsi̍t liû",
+      "manual_id": "line-6:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.736842
+    },
+    {
+      "source_row": 5,
+      "time": 35.84,
+      "online_text": "是按怎学校的老师 拢无疼痛我",
+      "match_text": "是按怎学校的老师 拢无疼痛我",
+      "text": "是按怎學校的老師",
+      "spelling": "sī án-tsuánn ha̍k-hāu ê lāu-su",
+      "manual_id": "line-9:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.761905
+    },
+    {
+      "source_row": 6,
+      "time": 38.44,
+      "online_text": "是不是ABCD看无卡憨就拢免教",
+      "match_text": "是不是ABCD看无卡憨就拢免教",
+      "text": "是不是ABCD看無",
+      "spelling": "sī m̄ sī ABCD khuànn bô",
+      "manual_id": "line-12:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 7,
+      "time": 41.53,
+      "online_text": "老爸老母 整天底骂",
+      "match_text": "老爸老母 整天底骂",
+      "text": "老爸老母整天底罵",
+      "spelling": "lāu-pē lāu-bú kui-kang té mē",
+      "manual_id": "line-15:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 44.2,
+      "online_text": "喋喋喋念 不知念啥",
+      "match_text": "喋喋喋念 不知念啥",
+      "text": "喋喋喋唸不知唸啥",
+      "spelling": "se̍h se̍h se̍h liām m̄ tsai liām siánn",
+      "manual_id": "line-15:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 9,
+      "time": 46.78,
+      "online_text": "是按怎哪会按呢 身边的问题一摊",
+      "match_text": "是按怎哪会按呢 身边的问题一摊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 49.79,
+      "online_text": "这时阵上好作阵来去轧车",
+      "match_text": "这时阵上好作阵来去轧车",
+      "text": "這時陣上好作陣來去軋車",
+      "spelling": "tsia-sî tsūn siōng-hó tsuè tīn lâi-khì kà tshia",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 53.04,
+      "online_text": "作阵来轧车 作阵来轧车",
+      "match_text": "作阵来轧车 作阵来轧车",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 55.41,
+      "online_text": "不管伊警察底抓 不管伊父母底骂",
+      "match_text": "不管伊警察底抓 不管伊父母底骂",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 58.3,
+      "online_text": "只要我引擎催落 无人可当甲我轧",
+      "match_text": "只要我引擎催落 无人可当甲我轧",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 60.89,
+      "online_text": "在这我最快最趴最大",
+      "match_text": "在这我最快最趴最大",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 64.78,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 16,
+      "time": 74.85,
+      "online_text": "是按怎今日的观众拢底打拍仔",
+      "match_text": "是按怎今日的观众拢底打拍仔",
+      "text": "是按怎今日的 觀眾攏底打拍仔",
+      "spelling": "sī án-tsuánn kin-á ê kuan-tsiòng lóng té phah-phôo á",
+      "manual_id": "line-36:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 78.0,
+      "online_text": "大家看我一个那像 Super Star",
+      "match_text": "大家看我一个那像 Super Star",
+      "text": "大家看我一個那像Super Star",
+      "spelling": "ta̍k-ke khuànn guá tsi̍t ê ná-tshiūnn Super Star",
+      "manual_id": "line-39:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.941176
+    },
+    {
+      "source_row": 18,
+      "time": 80.46,
+      "online_text": "La La La La La La La La",
+      "match_text": "La La La La La La La La",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-42:0"
+    },
+    {
+      "source_row": 19,
+      "time": 83.84,
+      "online_text": "愈骑愈紧愈爽 我想欲唱歌",
+      "match_text": "愈骑愈紧愈爽 我想欲唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-42:0"
+    },
+    {
+      "source_row": 20,
+      "time": 86.47,
+      "online_text": "头脑底飞 身躯底颤",
+      "match_text": "头脑底飞 身躯底颤",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 89.4,
+      "online_text": "风底吹我 心底流汗",
+      "match_text": "风底吹我 心底流汗",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 91.36,
+      "online_text": "是按怎那会这爽 要了解我的感觉",
+      "match_text": "是按怎那会这爽 要了解我的感觉",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 94.189,
+      "online_text": "这时阵上好作阵来去轧车",
+      "match_text": "这时阵上好作阵来去轧车",
+      "text": "這時陣上好作陣來去軋車",
+      "spelling": "tsia-sî tsūn siōng-hó tsuè tīn lâi-khì kà tshia",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 97.879,
+      "online_text": "作阵来轧车 作阵来轧车",
+      "match_text": "作阵来轧车 作阵来轧车",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 100.8,
+      "online_text": "不管伊警察底抓 不管伊父母底骂",
+      "match_text": "不管伊警察底抓 不管伊父母底骂",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 102.679,
+      "online_text": "只要我引擎催落 无人可当甲我轧",
+      "match_text": "只要我引擎催落 无人可当甲我轧",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 105.789,
+      "online_text": "在这我最快最趴最大",
+      "match_text": "在这我最快最趴最大",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 110.37,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 29,
+      "time": 143.199,
+      "online_text": "作阵来轧车 作阵来轧车",
+      "match_text": "作阵来轧车 作阵来轧车",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 144.9,
+      "online_text": "不管伊警察底抓 不管伊父母底骂",
+      "match_text": "不管伊警察底抓 不管伊父母底骂",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 147.31,
+      "online_text": "只要我引擎催落 无人可当甲我轧",
+      "match_text": "只要我引擎催落 无人可当甲我轧",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 149.96,
+      "online_text": "在这我最快最趴最大",
+      "match_text": "在这我最快最趴最大",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 155.22,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "c1312b01ff914248dd1d6e1a19a10c11220050dc2375943fa82c5957efdd1011",
+    "manual": "5cca2aaec5187eeb448f978e1fd2ca5f0dde1bc026494d97d5bdfa21b61cb486",
+    "timed": "6cb4cd7c7d73faf2b0c87cf23cb975ee8032d5108148dbacb9c659097452116c"
+  }
+}

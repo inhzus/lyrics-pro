@@ -1,0 +1,815 @@
+{
+  "schema_version": 1,
+  "audio_verified": false,
+  "songs": [
+    {
+      "id": "supplied-bf15ce3460b283c3a0ee",
+      "title": "何時再見夢中人",
+      "source_path": "resources/lyrics-spelling/15 － 何時再見夢中人-伍佰",
+      "source_sha256": "49cf3d72d27f0607716e66f4a8a41e3df35dd4f25f22444ad5c6a4a3add230ce",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:452614918",
+        "duration": 231.573,
+        "album": "圣石传说 电影原声带",
+        "title": "何时再见梦中人",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-80000036c4b90146554d",
+      "title": "衝衝衝",
+      "source_path": "resources/lyrics-spelling/16 － 衝衝衝-伍佰",
+      "source_sha256": "336db5aca51c086aa12ade18540573b5651f4ff9289f545f1470e23107bcbf18",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156708",
+        "duration": 217.71,
+        "album": "爱你伍佰年",
+        "title": "冲冲冲",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-dd3eec746ec23efbd44f",
+      "title": "殺手驪歌",
+      "source_path": "resources/lyrics-spelling/21 － 殺手驪歌-伍佰",
+      "source_sha256": "d8dec13337fe98c30e20a1d3dc7214a1ec5e7537e5b30ab8b79ecb10cd3f4797",
+      "status": "ready",
+      "recording": {
+        "reference": "lrclib:29760563",
+        "duration": 280.0,
+        "album": "順流逆流",
+        "title": "殺手驪歌",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-cde4185c5607ccf1f24a",
+      "title": "KISS ME (星星知我心)",
+      "source_path": "resources/lyrics-spelling/KISS ME (星星知我心)-伍佰",
+      "source_sha256": "a96f2475c9238909450898be948ade3d909f71967c00b9730ebc3ecc62689096",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156643",
+        "duration": 257.555,
+        "album": "爱你伍佰年",
+        "title": "Kiss Me(星星知我心)",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-e690ee6a2bf5f096efee",
+      "title": "下港人在台北市",
+      "source_path": "resources/lyrics-spelling/下港人在台北市-伍佰",
+      "source_sha256": "513fcde718d90c0f65ff50717be46cdeb326ff758165cadb39972fae79e1b4b1",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156520",
+        "duration": 273.2,
+        "album": "双面人",
+        "title": "下港人在台北市",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-aa877b02e4f643c35279",
+      "title": "世界第一等",
+      "source_path": "resources/lyrics-spelling/世界第一等-伍佰",
+      "source_sha256": "99285f4179968db5978a560dd2c1ba9af78ca08ada7374e7eace18d02608bad4",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156868",
+        "title": "世界第一等 (Live)",
+        "artists": [
+          "伍佰 & China Blue"
+        ],
+        "album": "冬之火 九重天演唱会特选录音专辑",
+        "duration": 238.468,
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-8ca6d9b80e01abd71bce",
+      "title": "仝款的月娘",
+      "source_path": "resources/lyrics-spelling/仝款的月娘-伍佰",
+      "source_sha256": "fc0d576bb3fcd34a683f6ea55ea4b136df49e7f8028b04e0aeeb6d6fd04fcac4",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:449769019",
+        "duration": 273.336,
+        "album": "钉子花",
+        "title": "仝款的月娘",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-a7a75ded38c39f487cfa",
+      "title": "來去夏威夷",
+      "source_path": "resources/lyrics-spelling/來去夏威夷-伍佰",
+      "source_sha256": "b315b1990e6c54403672640ceb84a61ef11fb27d5e565a11092a99ef4c7ae06f",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:361000",
+        "title": "来去夏威夷",
+        "artists": [
+          "金门王与李炳辉"
+        ],
+        "album": "来去夏威夷",
+        "duration": 204.033,
+        "artist": "金门王与李炳辉"
+      },
+      "source_spelling_notes": [
+        "The file is labelled 伍佰, but the complete 204.033-second timing is the original 金門王與李炳輝 recording. It does not match the 201.192-second or 91.4-second Wu Bai live recordings."
+      ]
+    },
+    {
+      "id": "supplied-7cfec46e7b59e36be4eb",
+      "title": "厲害",
+      "source_path": "resources/lyrics-spelling/厲害-伍佰",
+      "source_sha256": "5747ffab2644542692d23e483aa61cd73d77ef8175db2857264ca7128e7c743d",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156501",
+        "title": "厉害",
+        "album": "双面人",
+        "duration": 221.306,
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": [
+        "Source line 85 retains put ti hué-kái paired with 襯襯採採. This appears copied from 不知悔改; no replacement reading was invented. The source remix note is retained, but this asset uses the studio timeline only."
+      ]
+    },
+    {
+      "id": "supplied-6f29e51a7ab9bc94bccf",
+      "title": "只要為你活一天",
+      "source_path": "resources/lyrics-spelling/只要為你活一天-伍佰",
+      "source_sha256": "556c3f6cf2b52297b7f080b7ba9b6363fcb6cff0afa4e19817454941e0d14c0c",
+      "status": "ready",
+      "recording": {
+        "reference": "lrclib:22685391",
+        "title": "只要为你活一天",
+        "artists": [
+          "伍佰"
+        ],
+        "album": "只要为你活一天 电影原声带",
+        "duration": 321.227755,
+        "artist": "伍佰"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-4a3a91defa0c8724fefc",
+      "title": "台北孤兒",
+      "source_path": "resources/lyrics-spelling/台北孤兒-伍佰",
+      "source_sha256": "d58d4fbe4d3b500500dfb1daf3c4eef7fe0cac5f752c3a8810750b35bcd9a446",
+      "status": "ready",
+      "recording": {
+        "reference": "lrclib:40160357",
+        "title": "台北孤儿",
+        "album": "生命的现场LIVE",
+        "duration": 269.0,
+        "artist": "伍佰"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-c3dd80fb75f4f253c5b3",
+      "title": "台灣製造",
+      "source_path": "resources/lyrics-spelling/台灣製造-伍佰",
+      "source_sha256": "5ea0c88f69d461a01c21ac132fe4f9832f0faab9a1193fc4fbffa7a32f9398f4",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156513",
+        "duration": 218.373,
+        "album": "双面人",
+        "title": "台湾制造",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-e79110986bdaccc2c6c3",
+      "title": "墓仔埔也敢去",
+      "source_path": "resources/lyrics-spelling/墓仔埔也敢去-伍佰",
+      "source_sha256": "76ce5a3c5d2a36a140ba1853d7e1b20c906f535f17a2173a906208c0c592a482",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156639",
+        "duration": 220.408,
+        "album": "爱你伍佰年",
+        "title": "墓仔埔也敢去",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-d9c8c39216c8ac696ee9",
+      "title": "小姐免驚",
+      "source_path": "resources/lyrics-spelling/小姐免驚-伍佰",
+      "source_sha256": "5570e94cd0b38e65a52b8993e1c5743932d40c7bb407373e009cefe2bb9c7a9b",
+      "status": "ready",
+      "recording": {
+        "reference": "lrclib:18535997",
+        "title": "小姐免惊",
+        "album": "伍佰的Live",
+        "duration": 197.906667,
+        "artist": "伍佰"
+      },
+      "source_spelling_notes": [
+        "Source line 80 pairs 請你無免驚 with tshiánn lí án-tsuánn. Preserve that occurrence rather than silently replacing the supplied reading."
+      ]
+    },
+    {
+      "id": "supplied-1cbc34a98035a9027c38",
+      "title": "少女的心",
+      "source_path": "resources/lyrics-spelling/少女的心-伍佰",
+      "source_sha256": "729ac12d42e8d7e36d1b67d464f5159c6ea06eaf514c6b238b8eecd60576b507",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:157168",
+        "duration": 274.76,
+        "album": "树枝孤鸟",
+        "title": "少女的心",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-67ebae480f84b7e93e22",
+      "title": "少年吔，安啦!",
+      "source_path": "resources/lyrics-spelling/少年吔，安啦!-伍佰",
+      "source_sha256": "02c6e479a763462f74ca17ac5d15b8bb18d20cdf3d021cb87299b78fc6d8adae",
+      "status": "existing",
+      "asset_id": "shao-nian-eh-an-la",
+      "asset_sha256": "e4c384ec75c70eff8532d8b526cc980000a4354fde44c4d846b8334c463cdbf4"
+    },
+    {
+      "id": "supplied-408c2bdb4cfd97d1b4d4",
+      "title": "往事欲如何",
+      "source_path": "resources/lyrics-spelling/往事欲如何-伍佰",
+      "source_sha256": "a5bd7a0ea467b4099021c9fbb002fba11d47331e613a35483c666ccf98156352",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156372",
+        "duration": 263.053,
+        "album": "忘情1015精选辑",
+        "title": "往事欲如何",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-0c8c4784e6efd68493d3",
+      "title": "徘徊夜都市",
+      "source_path": "resources/lyrics-spelling/徘徊夜都市-伍佰",
+      "source_sha256": "6bb0cc852edba700da205a5342f6faa21eeb79fde9e6ca4ba639ecf53311d9c2",
+      "status": "ready",
+      "recording": {
+        "reference": "lrclib:17325984",
+        "title": "徘徊夜都市",
+        "artists": [
+          "伍佰"
+        ],
+        "album": "树枝孤鸟",
+        "duration": 261.929796,
+        "artist": "伍佰"
+      },
+      "source_spelling_notes": [
+        "Source cguá and repeated too-tshī are retained; transcription needs pronunciation proofreading."
+      ]
+    },
+    {
+      "id": "supplied-794b992d79807fc0f460",
+      "title": "心愛的再會啦",
+      "source_path": "resources/lyrics-spelling/心愛的再會啦-伍佰",
+      "source_sha256": "693259e61230d64a4aa735799fd903388b48ce3d39cfe4283a32ce4bfe47820c",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:157180",
+        "title": "心爱的再会啦",
+        "album": "树枝孤鸟",
+        "duration": 335.389,
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-6ddcb1b7f57be05b548e",
+      "title": "快樂的等待",
+      "source_path": "resources/lyrics-spelling/快樂的等待-伍佰",
+      "source_sha256": "034e67fa8aafea18c96727cbff5b6e27f134dcf2dd4ff9b447e4ddf73428e481",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156523",
+        "duration": 261.04,
+        "album": "双面人",
+        "title": "快乐的等待",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-ee5d055b9529662ea72e",
+      "title": "怨嗟嘆",
+      "source_path": "resources/lyrics-spelling/怨嗟嘆-伍佰",
+      "source_sha256": "ef2ebacd84e5969b466b3e453dd093e47714be01a23fec5c35321aaaadb11749",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:157197",
+        "duration": 325.4,
+        "album": "树枝孤鸟",
+        "title": "怨嗟叹",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-1f7903a4d8d1114bbce3",
+      "title": "恨世生",
+      "source_path": "resources/lyrics-spelling/恨世生-伍佰",
+      "source_sha256": "a3b435cc4714b7cb4763830fc5f062e340656c609757ad0cf03b0cd8a3e61e14",
+      "status": "needs timing",
+      "reason": "LRCLIB 18267561 and five other LRCLIB copies omit the supplied final 啊. NetEase 157321 contains 啊 at 169.24s but its lyric metadata says 夏夜晚風 while the catalog says 伍佰的Live; its events also disagree substantially with the LRCLIB timing. No fabricated vocalization timestamp or mixed timelines."
+    },
+    {
+      "id": "supplied-96ecffda262b750c1042",
+      "title": "愛妳無目地",
+      "source_path": "resources/lyrics-spelling/愛妳無目地-伍佰",
+      "source_sha256": "07918c3193801f9566f8f32a0445dbfa783ea1a2d5cab6827040a72f5d77e3e6",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:2051740555",
+        "duration": 218.42,
+        "album": "夏日告白情歌",
+        "title": "爱妳无目地",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-99d12880f43b3fcf5c17",
+      "title": "愛情限時批",
+      "source_path": "resources/lyrics-spelling/愛情限時批-伍佰",
+      "source_sha256": "d058a1a7fcb34dbf0f652ac162c3edbee84934849d899ef9a55a57962f723556",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:297917",
+        "title": "爱情限时批",
+        "album": "One芳 新歌+精选",
+        "duration": 222.307,
+        "artist": "万芳 / 伍佰"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-267a0c73afb0c278eeb6",
+      "title": "放浪舞者",
+      "source_path": "resources/lyrics-spelling/放浪舞者-伍佰",
+      "source_sha256": "7313c303fcaf64df70b09259ccc05b15435355341c7bdd68e5e26b9608493491",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:449769017",
+        "duration": 271.0,
+        "album": "钉子花",
+        "title": "放浪舞者",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-04247bde48aaf44405d6",
+      "title": "斷腸詩",
+      "source_path": "resources/lyrics-spelling/斷腸詩-伍佰",
+      "source_sha256": "36c3870dd78c82386932e6759fda3a372dedd0f2d18cb649d5fa25534b4c86c6",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156664",
+        "duration": 215.706,
+        "album": "爱你伍佰年",
+        "title": "断肠诗",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-a1d63214e4ffbfa8c97f",
+      "title": "東石",
+      "source_path": "resources/lyrics-spelling/東石-伍佰",
+      "source_sha256": "e8d5247ddd42d85d2f66311d2fed7da039d5bf987fdba11eacf638d3d8422ffa",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:449769015",
+        "duration": 298.585,
+        "album": "钉子花",
+        "title": "东石",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-2d97182b1b71050424e3",
+      "title": "枉費青春",
+      "source_path": "resources/lyrics-spelling/枉費青春-伍佰",
+      "source_sha256": "560fc457af1822ec3f8564b91b177ec4f5e03bd212d1cd238fd0529b64722fac",
+      "status": "ready",
+      "recording": {
+        "reference": "lrclib:21201274",
+        "duration": 167.7333329,
+        "album": "伍佰的Live",
+        "title": "枉费青春",
+        "artist": "伍佰"
+      },
+      "source_spelling_notes": [
+        "The supplied sustained 啊 is reused for online vocalization events; no syllable onsets are inferred."
+      ]
+    },
+    {
+      "id": "supplied-b3d0dd9906efa9010654",
+      "title": "樓仔厝",
+      "source_path": "resources/lyrics-spelling/樓仔厝-伍佰",
+      "source_sha256": "9c30854713ab713c3df7941c79517c9622227ff7758f6e6959fb11aaf773c805",
+      "status": "ready",
+      "recording": {
+        "reference": "lrcapi:156207236",
+        "title": "楼仔厝 (Live)",
+        "artists": [
+          "伍佰 & China Blue"
+        ],
+        "album": "夏夜晚风 演唱会精选实录 - 摇滚·浪漫 (Live)",
+        "duration": 326.333,
+        "artist": "伍佰"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-74b61c00999a39dd0c08",
+      "title": "樹枝孤鳥",
+      "source_path": "resources/lyrics-spelling/樹枝孤鳥-伍佰",
+      "source_sha256": "72c7c0331964e3fb988fdd70037a5d052bd53d5fd5723ef46ea8c2dace1893b8",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:157192",
+        "title": "树枝孤鸟",
+        "album": "树枝孤鸟",
+        "duration": 297.36,
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": [
+        "Source line 49 pairs 戲弄著我…憨憨轉啊 with the earlier 欺騙著我…癡情花啊 reading. Preserved as supplied; needs pronunciation proofreading."
+      ]
+    },
+    {
+      "id": "supplied-986c502c66ae02629a09",
+      "title": "汝是我的心肝",
+      "source_path": "resources/lyrics-spelling/汝是我的心肝-伍佰",
+      "source_sha256": "d40b460d17c888e00a6759dfcd455c33202e4f57fb4225bb83cccdbde89a6661",
+      "status": "ready",
+      "recording": {
+        "reference": "lrclib:15303180",
+        "title": "汝是我的心肝",
+        "album": "忘情1015精选辑",
+        "duration": 298.657959,
+        "artist": "伍佰"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-6b448a9ac6693ad0a4e4",
+      "title": "海上的島",
+      "source_path": "resources/lyrics-spelling/海上的島-伍佰",
+      "source_sha256": "104e529bda904f3ae688c446e049326521909ed415d8cb41643a5a0f2095b0a1",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156509",
+        "title": "海上的岛",
+        "album": "双面人",
+        "duration": 388.466,
+        "artist": "伍佰 & China Blue / 范晓萱"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-bd69d1a7c5671b04393c",
+      "title": "海底飛凌機",
+      "source_path": "resources/lyrics-spelling/海底飛凌機-伍佰",
+      "source_sha256": "df32921d56fe71019ffd8c41b891f21aa8438877992be7ebe23abbd1d0583503",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156515",
+        "duration": 315.226,
+        "album": "双面人",
+        "title": "海底飞凌机",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-9e39fa38d2424d4a8876",
+      "title": "漂浪",
+      "source_path": "resources/lyrics-spelling/漂浪-伍佰",
+      "source_sha256": "3eecc2249ce5d4a864c36e573a6fecce98fe22723be05d49a031d30ca16f77f3",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:157174",
+        "duration": 245.36,
+        "album": "树枝孤鸟",
+        "title": "漂浪",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-b50a1dcdc27788c1d8e3",
+      "title": "無聲的所在",
+      "source_path": "resources/lyrics-spelling/無聲的所在-03-無聲的所在-伍佰",
+      "source_sha256": "a825d5de3dff5e07bdd041ba8d036b0121772f015d632d28df8cec2e74594f73",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156994",
+        "duration": 267.933,
+        "album": "电影歌曲典藏1992-2000",
+        "title": "无声的所在",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-52cf388e768a2d06303f",
+      "title": "煞到妳",
+      "source_path": "resources/lyrics-spelling/煞到妳-伍佰",
+      "source_sha256": "f31c52e549d45bd7d255411e1aa7aa8099e3ba4dc694486db033b19979d116a1",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:157186",
+        "duration": 181.24,
+        "album": "树枝孤鸟",
+        "title": "煞到你",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-4e3ad661c72dc94ce064",
+      "title": "熱淚暗班車",
+      "source_path": "resources/lyrics-spelling/熱淚暗班車-伍佰",
+      "source_sha256": "66faba9f4e1e6abe039e747a288de603bbda865b33eae168f3b7df81334f0282",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:449769018",
+        "duration": 291.178,
+        "album": "钉子花",
+        "title": "热泪暗班车",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-6213b5da555d236db815",
+      "title": "白鷺鷥",
+      "source_path": "resources/lyrics-spelling/白鷺鷥-伍佰",
+      "source_sha256": "6328c89f113e775828cd6af2fc021a829eefce4bba2cc4d26ec8fcef6e369381",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156292",
+        "title": "白鹭鸶",
+        "album": "诗情摇滚",
+        "duration": 293.36,
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-0d99e1e2673dcdf5d500",
+      "title": "秋風夜雨",
+      "source_path": "resources/lyrics-spelling/秋風夜雨-伍佰",
+      "source_sha256": "c7ccebca188ea2035005478a2743d26bc37899deb503e0d1ac6a6a6aa610d007",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156635",
+        "title": "秋风夜雨",
+        "album": "爱你伍佰年",
+        "duration": 259.259,
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-ff59d0128bc9fe36575b",
+      "title": "稀微的風中",
+      "source_path": "resources/lyrics-spelling/稀微的風中-伍佰",
+      "source_sha256": "4a2edcdc2c02eabc6d1d374002df3e897a28fc07015614dfd1a88d0b0cfefb22",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:452614917",
+        "duration": 229.266,
+        "album": "圣石传说 电影原声带",
+        "title": "稀微的风中",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-f81396bc56aedc738c99",
+      "title": "種子",
+      "source_path": "resources/lyrics-spelling/種子-伍佰",
+      "source_sha256": "f63a61a2cc516086675e1e0fcbd10eadacf2e6a9651baba7abd389a76d6ea789",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:449769021",
+        "duration": 317.371,
+        "album": "钉子花",
+        "title": "种子",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-66c3931786221442fdb2",
+      "title": "空襲警報",
+      "source_path": "resources/lyrics-spelling/空襲警報-伍佰",
+      "source_sha256": "f3410add9d549e341fdc8e0040f3e2679625ef9d668c53ae38c610ab85401282",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:157189",
+        "duration": 244.466,
+        "album": "树枝孤鸟",
+        "title": "空袭警报",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-306250fc14604694b92d",
+      "title": "素蘭小姐要出嫁",
+      "source_path": "resources/lyrics-spelling/素蘭小姐要出嫁-伍佰",
+      "source_sha256": "1607422a9bcc66cc29c6e95523e45fb732cef5a1c45e1e24b4a3dbc14be16bbd",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:157406",
+        "title": "素兰小姐要出嫁",
+        "album": "爱上别人是快乐的事",
+        "duration": 198.344,
+        "artist": "伍佰"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-1034a673a9e9a8941843",
+      "title": "莎喲娜啦",
+      "source_path": "resources/lyrics-spelling/莎喲娜啦-伍佰",
+      "source_sha256": "4f73513f68fb83f24752f1996c3232b92205df132a36f33e929c5ae058e2922d",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156526",
+        "duration": 266.426,
+        "album": "双面人",
+        "title": "莎哟娜啦",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-893fcbba0b343b0ad07b",
+      "title": "萬丈深坑",
+      "source_path": "resources/lyrics-spelling/萬丈深坑-伍佰",
+      "source_sha256": "8ede184eba23a93d235f3cfecef3990b67fd80a49834c578bfdf47942e13f3df",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:157178",
+        "duration": 248.533,
+        "album": "树枝孤鸟",
+        "title": "万丈深坑",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-22d1886b6e92a99cc5f9",
+      "title": "蹦孔",
+      "source_path": "resources/lyrics-spelling/蹦孔-伍佰",
+      "source_sha256": "386b71e63027af60d267547dbecc91acdbf6e5b78a84ef58e374285abce8b233",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:449769014",
+        "duration": 332.736,
+        "album": "钉子花",
+        "title": "蹦孔",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-1c328ec625966857dd8f",
+      "title": "返去故鄉",
+      "source_path": "resources/lyrics-spelling/返去故鄉-伍佰",
+      "source_sha256": "75aa10535dcfd058648ada1951838157e69a7f163906cf363a7e45fb8314cc4e",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:157176",
+        "duration": 347.773,
+        "album": "树枝孤鸟",
+        "title": "返去故乡",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-6a497c88b3811aae3105",
+      "title": "釘子花",
+      "source_path": "resources/lyrics-spelling/釘子花-伍佰",
+      "source_sha256": "87b68715be3affe9a41d41f68506fd6a16ba8bbb80ead3773cd0b6a09e94993f",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:446875821",
+        "title": "钉子花",
+        "album": "钉子花",
+        "duration": 373.701,
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-97d3299cc8a386a03961",
+      "title": "雙面人",
+      "source_path": "resources/lyrics-spelling/雙面人-伍佰",
+      "source_sha256": "2598a2f2b74a3821ac3a0d97fd08b8daf3f1c0b851dab51e25591fff44282b6e",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156505",
+        "title": "双面人",
+        "album": "双面人",
+        "duration": 281.053,
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-35811cea5109bd26e617",
+      "title": "風颱心情",
+      "source_path": "resources/lyrics-spelling/風颱心情-伍佰",
+      "source_sha256": "a5bbb4d035ef5932462001cd97c739ec5025b6699fd1d2f1797776424ce67c4a",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156517",
+        "duration": 244.653,
+        "album": "双面人",
+        "title": "风台心情",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-eb79c3ec6c794433eca6",
+      "title": "飛",
+      "source_path": "resources/lyrics-spelling/飛-伍佰",
+      "source_sha256": "9b910370480e10e93b4687f0d0851b60d2c2a47c80c5bec3e1c14fdef5561ef9",
+      "status": "ready",
+      "recording": {
+        "reference": "lrclib:16432589",
+        "title": "飛",
+        "album": "伍佰的LIVE-枉費青春",
+        "duration": 299.493333,
+        "artist": "伍佰"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-3be77a1c42c4c9032a8b",
+      "title": "飛在風中的小雨",
+      "source_path": "resources/lyrics-spelling/飛在風中的小雨-伍佰",
+      "source_sha256": "bdc321dd8401eac751a9ff84711a3808ca1a4045f19c7c2a65e8e7e033f9613c",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156682",
+        "duration": 251.489,
+        "album": "爱你伍佰年",
+        "title": "飞在风中的小雨",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-cbdd07883a98f319373b",
+      "title": "點煙",
+      "source_path": "resources/lyrics-spelling/點煙-03-點煙-伍佰",
+      "source_sha256": "49cb3f692c96be3c32089ebdab9630ef649581b0124e5fbbd20225999cf54362",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156594",
+        "duration": 340.985,
+        "album": "爱你伍佰年",
+        "title": "点烟",
+        "artist": "伍佰 & China Blue"
+      },
+      "source_spelling_notes": []
+    }
+  ]
+}

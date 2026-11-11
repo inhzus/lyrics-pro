@@ -1,0 +1,60 @@
+{
+  "candidates": [
+    {
+      "song_id": 386854,
+      "title": "憨人",
+      "artists": [
+        "五月天"
+      ],
+      "album": "爱情万岁",
+      "duration": 250.4,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 543965609,
+      "title": "憨人",
+      "artists": [
+        "五月天"
+      ],
+      "album": "1哥1姐滚石2000年国台语双赢总霸主",
+      "duration": 250.4,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 386021,
+      "title": "憨人",
+      "artists": [
+        "五月天"
+      ],
+      "album": "知足 最真杰作选",
+      "duration": 247.049,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 28181132,
+      "title": "憨人",
+      "artists": [
+        "五月天"
+      ],
+      "album": "步步 自选作品辑",
+      "duration": 273.066,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 5237895,
+      "title": "憨人",
+      "artists": [
+        "五月天"
+      ],
+      "album": "生命之歌",
+      "duration": 247.049,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

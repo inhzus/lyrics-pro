@@ -1,0 +1,148 @@
+{
+  "candidates": [
+    {
+      "song_id": 2706345335,
+      "title": "无缘的人",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "我是男子汉",
+      "duration": 243.28,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 5236635,
+      "title": "无缘的人",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "大港雄海派",
+      "duration": 243.345,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2653772185,
+      "title": "无缘的人",
+      "artists": [
+        "看卓吉"
+      ],
+      "album": "无缘的人",
+      "duration": 230.91,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2601315144,
+      "title": "无缘的人",
+      "artists": [
+        "扎次"
+      ],
+      "album": "无缘的人",
+      "duration": 233.142,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2690887302,
+      "title": "无缘的人",
+      "artists": [
+        "梅朵"
+      ],
+      "album": "无缘的人",
+      "duration": 290.34,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 322020,
+      "title": "无缘的人",
+      "artists": [
+        "伊雪"
+      ],
+      "album": "爱要懂得",
+      "duration": 242.666,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2055777573,
+      "title": "无缘的人",
+      "artists": [
+        "杨宁"
+      ],
+      "album": "闽南语流行金曲 44",
+      "duration": 239.104,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 35625915,
+      "title": "无缘的人",
+      "artists": [
+        "林美惠"
+      ],
+      "album": "立体演唱会14",
+      "duration": 227.059,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 219601,
+      "title": "无缘的人",
+      "artists": [
+        "陈思安"
+      ],
+      "album": "无缘的人",
+      "duration": 233.04,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 464508940,
+      "title": "无缘的人",
+      "artists": [
+        "黄文星"
+      ],
+      "album": "越走越勇",
+      "duration": 227.102,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1875940890,
+      "title": "无缘的人",
+      "artists": [
+        "洪荣宏"
+      ],
+      "album": "台语专辑9 偏偏来这思念你．欢喜再相逢",
+      "duration": 195.84,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 208317,
+      "title": "无缘的人",
+      "artists": [
+        "白冰冰"
+      ],
+      "album": "今夜的酒杯",
+      "duration": 238.419,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 98501,
+      "title": "无缘的人",
+      "artists": [
+        "洪荣宏"
+      ],
+      "album": "台语金曲7",
+      "duration": 195.8,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

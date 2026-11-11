@@ -1,0 +1,465 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "愛人妳是在佗位            無留著批信                         無留半個字",
+      "spelling": "ài jîn lí sī tī tó-uī         bô lâu tio̍h phue-sìn        bô lâu puàn ê jī",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "愛人妳是在佗位",
+          "spelling": "ài jîn lí sī tī tó-uī"
+        },
+        {
+          "text": "無留著批信",
+          "spelling": "bô lâu tio̍h phue-sìn"
+        },
+        {
+          "text": "無留半個字",
+          "spelling": "bô lâu puàn ê jī"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "啊~愛人無見妳的面                親像風在透                                   親像針在威",
+      "spelling": "ah~ài jîn bô kìnn lí ê bīn    tshin tshiūnn hong teh thàu    tshin tshiūnn tsiam teh ui",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "啊~愛人無見妳的面",
+          "spelling": "ah~ài jîn bô kìnn lí ê bīn"
+        },
+        {
+          "text": "親像風在透",
+          "spelling": "tshin tshiūnn hong teh thàu"
+        },
+        {
+          "text": "親像針在威",
+          "spelling": "tshin tshiūnn tsiam teh ui"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "為何                    堂堂男兒                    無路用",
+      "spelling": "uī-hô                 tông-tông lâm-jî        bô lōo iōng",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "為何",
+          "spelling": "uī-hô"
+        },
+        {
+          "text": "堂堂男兒",
+          "spelling": "tông-tông lâm-jî"
+        },
+        {
+          "text": "無路用",
+          "spelling": "bô lōo iōng"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "心肝全碎                                  太倔強",
+      "spelling": "sim-kuann tsuân tshuì        siunn khut-kiông",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "心肝全碎",
+          "spelling": "sim-kuann tsuân tshuì"
+        },
+        {
+          "text": "太倔強",
+          "spelling": "siunn khut-kiông"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "欺騙著我                        著呢熊                      癡情花啊",
+      "spelling": "khi pián tio̍h guá        tsiah nî hiong        tshi-tsîng hue ah",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "欺騙著我",
+          "spelling": "khi pián tio̍h guá"
+        },
+        {
+          "text": "著呢熊",
+          "spelling": "tsiah nî hiong"
+        },
+        {
+          "text": "癡情花啊",
+          "spelling": "tshi-tsîng hue ah"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "愛人妳是去佗位            無代念我情                       無代念我意",
+      "spelling": "ài jîn lí sī tī tó-uī         bô tāi liām guá tsîng     bô tāi liām guá ì",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "愛人妳是去佗位",
+          "spelling": "ài jîn lí sī tī tó-uī"
+        },
+        {
+          "text": "無代念我情",
+          "spelling": "bô tāi liām guá tsîng"
+        },
+        {
+          "text": "無代念我意",
+          "spelling": "bô tāi liām guá ì"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "啊~愛人想妳的香味                            望妳快回頭                      轉來阮身邊",
+      "spelling": "ah~ài jîn bô siūnn lí ê phang-bī    bāng lí kín huê-thâu    tńg lâi gún sin-pinn",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "啊~愛人想妳的香味",
+          "spelling": "ah~ài jîn bô siūnn lí ê phang-bī"
+        },
+        {
+          "text": "望妳快回頭",
+          "spelling": "bāng lí kín huê-thâu"
+        },
+        {
+          "text": "轉來阮身邊",
+          "spelling": "tńg lâi gún sin-pinn"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "為何                   堂堂男兒 無路用",
+      "spelling": "uī-hô                 tông-tông lâm-jî        bô lōo iōng",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "為何                   堂堂男兒 無路用",
+          "spelling": "uī-hô                 tông-tông lâm-jî        bô lōo iōng"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "心肝全碎                                  太倔強",
+      "spelling": "sim-kuann tsuân tshuì        siunn khut-kiông",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "心肝全碎",
+          "spelling": "sim-kuann tsuân tshuì"
+        },
+        {
+          "text": "太倔強",
+          "spelling": "siunn khut-kiông"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "欺騙著我 著呢熊                        癡情花啊",
+      "spelling": "khi-phiàn tio̍h guá ne hîm    siunn tshi-tsîng hue ah",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "欺騙著我 著呢熊",
+          "spelling": "khi-phiàn tio̍h guá ne hîm"
+        },
+        {
+          "text": "癡情花啊",
+          "spelling": "siunn tshi-tsîng hue ah"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "愛人妳哪這酷刑                       無采我在撞                           心情隴未清",
+      "spelling": "ài jîn lí ná tsia khok-hîng    bô tshái guá teh tōng        sim-tsîng lóng buē tshing",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "愛人妳哪這酷刑",
+          "spelling": "ài jîn lí ná tsia khok-hîng"
+        },
+        {
+          "text": "無采我在撞",
+          "spelling": "bô tshái guá teh tōng"
+        },
+        {
+          "text": "心情隴未清",
+          "spelling": "sim-tsîng lóng buē tshing"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "啊~我無法度                       瘋瘋活下去",
+      "spelling": "ah~ guá bô huat-tōo        siáu siáu ua̍h-lo̍h-khì",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "啊~我無法度",
+          "spelling": "ah~ guá bô huat-tōo"
+        },
+        {
+          "text": "瘋瘋活下去",
+          "spelling": "siáu siáu ua̍h-lo̍h-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "無妳我會空                    無妳我會死",
+      "spelling": "bô lí guá ē khòng        bô lí guá ē sí",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "無妳我會空",
+          "spelling": "bô lí guá ē khòng"
+        },
+        {
+          "text": "無妳我會死",
+          "spelling": "bô lí guá ē sí"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "為何                   堂堂男兒                      無路用",
+      "spelling": "uī-hô                 tông-tông lâm-jî        bô lōo iōng",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "為何",
+          "spelling": "uī-hô"
+        },
+        {
+          "text": "堂堂男兒",
+          "spelling": "tông-tông lâm-jî"
+        },
+        {
+          "text": "無路用",
+          "spelling": "bô lōo iōng"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "心肝全碎                                  太倔強",
+      "spelling": "sim-kuann tsuân tshuì        siunn khut-kiông",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "心肝全碎",
+          "spelling": "sim-kuann tsuân tshuì"
+        },
+        {
+          "text": "太倔強",
+          "spelling": "siunn khut-kiông"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "戲弄著我                        著呢熊                         憨憨轉啊",
+      "spelling": "khi pián tio̍h guá        tsiah nî hiong            tshi-tsîng hue ah",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "戲弄著我",
+          "spelling": "khi pián tio̍h guá"
+        },
+        {
+          "text": "著呢熊",
+          "spelling": "tsiah nî hiong"
+        },
+        {
+          "text": "憨憨轉啊",
+          "spelling": "tshi-tsîng hue ah"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "樹枝孤鳥                    樹枝孤鳥",
+      "spelling": "tshiū-ki koo-tsiáu    tshiū-ki koo-tsiáu",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "樹枝孤鳥",
+          "spelling": "tshiū-ki koo-tsiáu"
+        },
+        {
+          "text": "樹枝孤鳥",
+          "spelling": "tshiū-ki koo-tsiáu"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "樹枝孤鳥                     樹枝孤鳥",
+      "spelling": "tshiū-ki koo-tsiáu     tshiū-ki koo-tsiáu",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "樹枝孤鳥",
+          "spelling": "tshiū-ki koo-tsiáu"
+        },
+        {
+          "text": "樹枝孤鳥",
+          "spelling": "tshiū-ki koo-tsiáu"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "偷偷在哭",
+      "spelling": "thau-thau-á háu",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "偷偷在哭",
+          "spelling": "thau-thau-á háu"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "堂堂男兒                      心肝全碎",
+      "spelling": "tông-tông lâm-jî        sim-kuann tsuân tshuì",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "堂堂男兒",
+          "spelling": "tông-tông lâm-jî"
+        },
+        {
+          "text": "心肝全碎",
+          "spelling": "sim-kuann tsuân tshuì"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "欺騙著我                      癡情花啊",
+      "spelling": "khi pián tio̍h guá       tshi-tsîng hue ah",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "欺騙著我",
+          "spelling": "khi pián tio̍h guá"
+        },
+        {
+          "text": "癡情花啊",
+          "spelling": "tshi-tsîng hue ah"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "我哪會安呢生                         我哪會安呢生",
+      "spelling": "guá ná ē an neh senn         guá ná ē an neh senn",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "我哪會安呢生",
+          "spelling": "guá ná ē an neh senn"
+        },
+        {
+          "text": "我哪會安呢生",
+          "spelling": "guá ná ē an neh senn"
+        }
+      ]
+    }
+  ],
+  "repairs": [
+    {
+      "line": 25,
+      "before": "uī-hô                 tông-tông lâm-jî",
+      "after": "uī-hô                 tông-tông lâm-jî        bô lōo iōng",
+      "evidence": "Identical refrain in this source, first and third occurrence."
+    },
+    {
+      "line": 66,
+      "before": "(x8)",
+      "after": "",
+      "evidence": "Non-sung repeat instruction retained here, excluded from displayed words. Online repeats determine event count."
+    }
+  ],
+  "notes": []
+}

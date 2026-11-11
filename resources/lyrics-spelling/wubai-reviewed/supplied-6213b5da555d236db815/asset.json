@@ -1,0 +1,428 @@
+{
+  "schema_version": 1,
+  "id": "supplied-6213b5da555d236db815",
+  "revision": "1",
+  "title": "白鷺鷥",
+  "title_aliases": [],
+  "artist": "伍佰 & China Blue",
+  "album": "诗情摇滚",
+  "duration": 293.36,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞： 伍佰   作曲：Beglin   台羅拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:156292",
+    "timing_source": "NetEase https://music.163.com/song?id=156292",
+    "manual_source": "resources/lyrics-spelling/白鷺鷥-伍佰",
+    "audio_verified": false,
+    "agent_review": "Explicitly reviewed supplied phrase grouping, sequence, repetitions and wording differences. Keep source words/readings; preserve every provider timestamp. No audio verification.",
+    "input_sha256": {
+      "original": "6328c89f113e775828cd6af2fc021a829eefce4bba2cc4d26ec8fcef6e369381",
+      "manual": "697fda83b5ac7e62e05353120aaac2407abb92b0c0fd5c97a21209f8eb0dd002",
+      "timed": "d1d52838797c3f6f0316e1e0b091730f67fd04aa60decfcc3995e8c7b9ea1a20"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "gap": 8,
+      "exact": 18,
+      "approximate": 7
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 6.64,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 13.69,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 28.0,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 35.52,
+        "online_text": "不知影有这久没想到伊",
+        "status": "exact",
+        "text": "不知影有這久沒想到伊",
+        "spelling": "m̄ tsai-iánn ū tsia kú bô siūnn-tio̍h i",
+        "manual_id": "line-3:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 42.26,
+        "online_text": "行到这条断桥才知有这多年",
+        "status": "exact",
+        "text": "行到這條斷橋才知有這多年",
+        "spelling": "kiânn-kàu tsit tiâu tn̄g kiô tsiah tsai ū tsiah tsē nî",
+        "manual_id": "line-6:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 48.88,
+        "online_text": "树旋藤路发草溪还有水",
+        "status": "approximate",
+        "text": "樹旋籐路發草溪還有水",
+        "spelling": "tshiū suân tîn lōo huat-tsháu khe iáu-ū tsuí",
+        "manual_id": "line-9:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 55.66,
+        "online_text": "桥上伊的形影煞这袸来浮起",
+        "status": "exact",
+        "text": "橋上伊的形影煞這袸來浮起",
+        "spelling": "kiô-tíng i ê hîng-iánn suah tsit tshûn lâi phû khí",
+        "manual_id": "line-12:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 61.95,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 63.03,
+        "online_text": "我好像那只失去爱情的白鹭鸶",
+        "status": "approximate",
+        "text": "我好像那隻失去愛情的白鷺鷥",
+        "spelling": "guá hó-tshiūnn hit tsiah sit-khì ài-tsîng ê pe̍h-līng-si",
+        "manual_id": "line-15:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 71.1,
+        "online_text": "后悔没说出那句话",
+        "status": "exact",
+        "text": "後悔沒說出那句話",
+        "spelling": "hiō-hué bô kóng-tshut hit kù-uē",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 76.55,
+        "online_text": "一直惦茫雾中飞来飞去",
+        "status": "approximate",
+        "text": "一直惦茫霧中飛過來飛過去",
+        "spelling": "it-ti̍t tiām bông-bū tiong pue kuè-lâi pue kuè-khì",
+        "manual_id": "line-21:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 84.01,
+        "online_text": "这嘛没伊那嘛没伊",
+        "status": "exact",
+        "text": "這嘛沒伊　那嘛沒伊",
+        "spelling": "tsia ma bô i hiâ ma bô i",
+        "manual_id": "line-24:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 90.87,
+        "online_text": "唔知伊甘有和我有同款的滋味",
+        "status": "approximate",
+        "text": "嘸知伊甘有和我有同款的滋味",
+        "spelling": "m̄-tsai i kam ū hām guá ū kāng khuán ê tsu-bī",
+        "manual_id": "line-27:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 97.78,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 99.73,
+        "online_text": "假使来故事唯头重行起",
+        "status": "exact",
+        "text": "假使來故事唯頭重行起",
+        "spelling": "ká-sú lâi kòo-sū duî thâu tîng kiânn-khì",
+        "manual_id": "line-30:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 106.44,
+        "online_text": "我没离开故乡你还在我身边",
+        "status": "exact",
+        "text": "我沒離開故鄉你還在我身邊",
+        "spelling": "guá bô lī-khui kòo-hiong lí iā tī guá sin-pinn",
+        "manual_id": "line-33:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 113.11,
+        "online_text": "树的青路的花桥下的水",
+        "status": "exact",
+        "text": "樹的青路的花橋下的水",
+        "spelling": "tshiū ê tshinn lōo ê hue kiô-kha ê tsuí",
+        "manual_id": "line-36:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 119.9,
+        "online_text": "桥上的我要对你说出我爱你",
+        "status": "approximate",
+        "text": "橋上的我要來對你說出我愛你",
+        "spelling": "kiô-tíng ê guá beh lâi tuì lí kóng-tshut guá ài lí",
+        "manual_id": "line-39:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 126.25,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 127.21,
+        "online_text": "我好像那只失去爱情的白鹭鸶",
+        "status": "approximate",
+        "text": "我好像那隻失去愛情的白鷺鷥",
+        "spelling": "guá hó-tshiūnn hit tsia sit-khì ài-tsîng ê pe̍h-līng-si",
+        "manual_id": "line-42:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 134.95,
+        "online_text": "后悔没说出那句话",
+        "status": "exact",
+        "text": "後悔沒說出那句話",
+        "spelling": "hiō-hué bô kóng-tshut hit kù-uē",
+        "manual_id": "line-45:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 140.69,
+        "online_text": "一直惦茫雾中飞过来飞过去",
+        "status": "exact",
+        "text": "一直惦茫霧中飛過來飛過去",
+        "spelling": "it-ti̍t tiām bông-bū tiong pue kuè-lâi pue kuè-khì",
+        "manual_id": "line-48:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 148.33,
+        "online_text": "放袂记伊放伊袂去",
+        "status": "exact",
+        "text": "放袂記伊　放伊袂去",
+        "spelling": "pàng buē kì i pàng i buē khì",
+        "manual_id": "line-51:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 155.47,
+        "online_text": "唔知伊甘有和我有同款的珠泪",
+        "status": "approximate",
+        "text": "嘸知伊甘有和我有同款的珠淚",
+        "spelling": "m̄-tsai i kam ū hām guá ū kāng khuán ê tsu-bī",
+        "manual_id": "line-54:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 162.27,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 198.2,
+        "online_text": "我不愿变做失去爱情的白鹭鸶",
+        "status": "exact",
+        "text": "我不願變做失去愛情的白鷺鷥",
+        "spelling": "guá m̄-guān piàn-tsuè sit-khì ài-tsîng ê pe̍h-līng-si",
+        "manual_id": "line-57:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 206.38,
+        "online_text": "我要来说出那句话",
+        "status": "exact",
+        "text": "我要來說出那句話",
+        "spelling": "guá beh lâi kóng-tshut hit kù-uē",
+        "manual_id": "line-60:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 27,
+        "time": 211.71,
+        "online_text": "那句话吞置咧心肝头这多年",
+        "status": "exact",
+        "text": "那句話吞置咧心肝頭這多年",
+        "spelling": "hit kù-uē thun tì leh sim-kuann thâu tsiah tsē nî",
+        "manual_id": "line-63:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 28,
+        "time": 219.38,
+        "online_text": "一句我爱你　二句我爱你",
+        "status": "exact",
+        "text": "一句我愛你　二句我愛你",
+        "spelling": "tsi̍t kù guá ài lí nn̄g kù guá ài lí",
+        "manual_id": "line-66:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 29,
+        "time": 226.23,
+        "online_text": "我要对你说出千千万万我爱你",
+        "status": "exact",
+        "text": "我要對你說出千千萬萬我愛你",
+        "spelling": "guá beh tuì lí kóng-tshut tshian-tshian-bān-bān guá ài lí",
+        "manual_id": "line-69:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 30,
+        "time": 233.29,
+        "online_text": "一句我爱你　二句我爱你",
+        "status": "exact",
+        "text": "一句我愛你　二句我愛你",
+        "spelling": "tsi̍t kù guá ài lí nn̄g kù guá ài lí",
+        "manual_id": "line-72:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 31,
+        "time": 239.69,
+        "online_text": "我要对你说出千千万万我爱你",
+        "status": "exact",
+        "text": "我要對你說出千千萬萬我愛你",
+        "spelling": "guá beh tuì lí kóng-tshut tshian-tshian-bān-bān guá ài lí",
+        "manual_id": "line-75:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 32,
+        "time": 246.77,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

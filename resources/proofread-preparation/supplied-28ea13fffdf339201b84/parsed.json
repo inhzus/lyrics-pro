@@ -1,0 +1,261 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "天井的月光 照著半開的窗門",
+      "spelling": "thinn-tsínn ê gue̍h-kng tshiō-tio̍h puànn-khui ê thang-mn̂g",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "點一支心酸的煙",
+      "spelling": "tiám tsi̍t ki sim-sng ê hun",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "失去的自由 討不回來的青春",
+      "spelling": "sit-khì ê tsū-iû thó buē tńg-lâi ê tshing-tshun",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "時間染白的頭髮",
+      "spelling": "sî-kan ní pe̍h ê thâu-mn̂g",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "進無步 退無路 袂震袂動 我跳不出",
+      "spelling": "tsìn bô-pōo thuè bô-pōo buē tín buē tāng guá thiàu buē tshut",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "一支啊輕快的舞",
+      "spelling": "tsi̍t ki ah khin-khuài ê bú",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "左是苦 右是澀 袂吞袂吐 我唱不出",
+      "spelling": "tò sī khóo tsiànn sī siap buē thun buē thóo guá tshiùnn buē tshut",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "一首啊甜蜜的歌",
+      "spelling": "tsi̍t siú ah tinn-bi̍t ê gua",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "進無步 退無路 袂震袂動 我跳不出",
+      "spelling": "tsìn bô-pōo thuè bô-pōo buē tín buē tāng guá thiàu buē tshut",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "一支啊輕快的舞",
+      "spelling": "tsi̍t ki ah khin-khuài ê bú",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "左是苦 右是澀 袂吞袂吐 我唱不出",
+      "spelling": "tò sī khóo tsiànn sī siap buē thun buē thóo guá tshiùnn buē tshut",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "一首啊甜蜜的歌",
+      "spelling": "tsi̍t siú ah tinn-bi̍t ê gua",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "鬱卒 憂悶",
+      "spelling": "ut-tsut iu-būn",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "鬱卒 憂悶",
+      "spelling": "ut-tsut iu-būn",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "鬱卒 憂悶",
+      "spelling": "ut-tsut iu-būn",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "鬱卒 憂悶",
+      "spelling": "ut-tsut iu-būn",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "進無步 退無路 袂震袂動 我跳不出",
+      "spelling": "tsìn bô-pōo thuè bô-pōo buē tín buē tāng guá thiàu buē tshut",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "一支啊輕快的舞",
+      "spelling": "tsi̍t ki ah khin-khuài ê bú",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "左是苦 右是澀 袂吞袂吐 我唱不出",
+      "spelling": "tò sī khóo tsiànn sī siap buē thun buē thóo guá tshiùnn buē tshut",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "一首啊甜蜜的歌",
+      "spelling": "tsi̍t siú ah tinn-bi̍t ê gua",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "進無步 退無路 袂震袂動 我跳不出",
+      "spelling": "tsìn bô-pōo thuè bô-pōo buē tín buē tāng guá thiàu buē tshut",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "一支啊輕快的舞",
+      "spelling": "tsi̍t ki ah khin-khuài ê bú",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "左是苦 右是澀 袂吞袂吐 我唱不出",
+      "spelling": "tò sī khóo tsiànn sī siap buē thun buē thóo guá tshiùnn buē tshut",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "一首啊甜蜜的歌",
+      "spelling": "tsi̍t siú ah tinn-bi̍t ê gua",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "天井的月光 照著半開的窗門",
+      "spelling": "thinn-tsínn ê gue̍h-kng tshiō-tio̍h tshuan ê thang-mn̂g",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "點一支絕望的煙",
+      "spelling": "tiám tsi̍t ki tsua̍t-bōng ê hun",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "放棄的抵抗 賭不贏祂的命運",
+      "spelling": "hòng-khì ê té-khòng pua̍h buē iânn i ê miā-ūn",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "天井無言的月光",
+      "spelling": "tshim-tsínn bô-giân ê gue̍h-kng",
+      "source_lines": [
+        82,
+        83
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

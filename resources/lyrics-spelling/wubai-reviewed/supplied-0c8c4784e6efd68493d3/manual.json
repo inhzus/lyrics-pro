@@ -1,0 +1,327 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "是妳來反悖               我的愛和癡迷",
+      "spelling": "sī lí lâi huán puē    guá ê ài kah tshi bê",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "是妳來反悖",
+          "spelling": "sī lí lâi huán puē"
+        },
+        {
+          "text": "我的愛和癡迷",
+          "spelling": "guá ê ài kah tshi bê"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "才害我墜落妳的陷阱為你付出一切",
+      "spelling": "tsiah hāi guá tuī-lo̍h lí ê hām-tsínn uî lí hù-tshut it-tshè",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "才害我墜落妳的陷阱為你付出一切",
+          "spelling": "tsiah hāi guá tuī-lo̍h lí ê hām-tsínn uî lí hù-tshut it-tshè"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "我不應該                擱在貪戀美麗",
+      "spelling": "guá put-ing-kai    koh tsāi tham-luân bí-lē",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "我不應該",
+          "spelling": "guá put-ing-kai"
+        },
+        {
+          "text": "擱在貪戀美麗",
+          "spelling": "koh tsāi tham-luân bí-lē"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "野蝴蝶嘛會墜落花下隨土飛",
+      "spelling": "iá ôo-tia̍p mah ē tuī-lo̍h hue hā suî thóo pue",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "野蝴蝶嘛會墜落花下隨土飛",
+          "spelling": "iá ôo-tia̍p mah ē tuī-lo̍h hue hā suî thóo pue"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "要安怎來放袂記妳的溫柔",
+      "spelling": "beh an-tsuánn lâi pàng buē kì lí ê un-jiû",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "要安怎來放袂記妳的溫柔",
+          "spelling": "beh an-tsuánn lâi pàng buē kì lí ê un-jiû"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "阮猶原相信妳是真心分擔我的憂愁",
+      "spelling": "gún iu-guân siong-sìn lí sī tsin-sim hun-tam guá ê iu-tshiû",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "阮猶原相信妳是真心分擔我的憂愁",
+          "spelling": "gún iu-guân siong-sìn lí sī tsin-sim hun-tam guá ê iu-tshiû"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "離鄉的我                不是不曾孤獨",
+      "spelling": "lī-hiong cguá        m̄ sī m̄ pat koo ta̍k",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "離鄉的我",
+          "spelling": "lī-hiong cguá"
+        },
+        {
+          "text": "不是不曾孤獨",
+          "spelling": "m̄ sī m̄ pat koo ta̍k"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "只是沒想到愛和恨悔這呢靠",
+      "spelling": "tsí-sī bô-siūnn-tio̍h ài kah hūn hué tsia nî uá",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "只是沒想到愛和恨悔這呢靠",
+          "spelling": "tsí-sī bô-siūnn-tio̍h ài kah hūn hué tsia nî uá"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "啊 夜都市的徘徊                               藍色的霓虹燈閃爍著目屎",
+      "spelling": "ah iā too-tshī too-tshī pâi-hôai    nâ sik ê gê-hông-ting siám-sih tio̍h ba̍k-sái",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "啊 夜都市的徘徊",
+          "spelling": "ah iā too-tshī too-tshī pâi-hôai"
+        },
+        {
+          "text": "藍色的霓虹燈閃爍著目屎",
+          "spelling": "nâ sik ê gê-hông-ting siám-sih tio̍h ba̍k-sái"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "啊 一心的期待                    是不是妳咱會凍不曾熟識",
+      "spelling": "ah i̍t sim ê kî-thāi            sī m̄ sī lí lán ē tàng m̄ bat si̍k-sāi",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "啊 一心的期待",
+          "spelling": "ah i̍t sim ê kî-thāi"
+        },
+        {
+          "text": "是不是妳咱會凍不曾熟識",
+          "spelling": "sī m̄ sī lí lán ē tàng m̄ bat si̍k-sāi"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "面前的路                罩著茫茫霧海",
+      "spelling": "bīn-tsîng ē lōo     tà tio̍h bông bông bông bū hái",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "面前的路",
+          "spelling": "bīn-tsîng ē lōo"
+        },
+        {
+          "text": "罩著茫茫霧海",
+          "spelling": "tà tio̍h bông bông bông bū hái"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "我冷冷清清這條路上無人知",
+      "spelling": "guá líng líng tshing tshing tsit-tiâu-lōo siōng bô-lâng tsai",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "我冷冷清清這條路上無人知",
+          "spelling": "guá líng líng tshing tshing tsit-tiâu-lōo siōng bô-lâng tsai"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "啊 夜都市的徘徊                               藍色的霓虹燈閃爍著目屎",
+      "spelling": "ah iā too-tshī too-tshī pâi-hôai    nâ sik ê gê-hông-ting siám-sih tio̍h ba̍k-sái",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "啊 夜都市的徘徊",
+          "spelling": "ah iā too-tshī too-tshī pâi-hôai"
+        },
+        {
+          "text": "藍色的霓虹燈閃爍著目屎",
+          "spelling": "nâ sik ê gê-hông-ting siám-sih tio̍h ba̍k-sái"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "啊 一心的期待                    是不是妳咱會凍不曾熟識",
+      "spelling": "ah i̍t sim ê kî-thāi            sī m̄ sī lí lán ē tàng m̄ bat si̍k-sāi",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "啊 一心的期待",
+          "spelling": "ah i̍t sim ê kî-thāi"
+        },
+        {
+          "text": "是不是妳咱會凍不曾熟識",
+          "spelling": "sī m̄ sī lí lán ē tàng m̄ bat si̍k-sāi"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "面前的路                罩著茫茫霧海",
+      "spelling": "bīn-tsîng ē lōo     tà tio̍h bông bông bông bū hái",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "面前的路",
+          "spelling": "bīn-tsîng ē lōo"
+        },
+        {
+          "text": "罩著茫茫霧海",
+          "spelling": "tà tio̍h bông bông bông bū hái"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "我冷冷清清走在路上無人知",
+      "spelling": "guá líng líng tshing tshing tsit-tiâu-lōo siōng bô-lâng tsai",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "我冷冷清清走在路上無人知",
+          "spelling": "guá líng líng tshing tshing tsit-tiâu-lōo siōng bô-lâng tsai"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "我冷冷清清走在路上無人知",
+      "spelling": "guá líng líng tshing tshing tsit-tiâu-lōo siōng bô-lâng tsai",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "我冷冷清清走在路上無人知",
+          "spelling": "guá líng líng tshing tshing tsit-tiâu-lōo siōng bô-lâng tsai"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "我冷冷清清這條路上無人知",
+      "spelling": "guá líng líng tshing tshing tsit-tiâu-lōo siōng bô-lâng tsai",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "我冷冷清清這條路上無人知",
+          "spelling": "guá líng líng tshing tshing tsit-tiâu-lōo siōng bô-lâng tsai"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "無～人～知～～～",
+      "spelling": "bô～lâng～tsai～ ～ ～",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "無～人～知～～～",
+          "spelling": "bô～lâng～tsai～ ～ ～"
+        }
+      ]
+    }
+  ],
+  "repairs": [],
+  "notes": []
+}

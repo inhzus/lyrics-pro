@@ -1,0 +1,10 @@
+{
+  "candidates": [],
+  "errors": [
+    {
+      "provider": "lrclib",
+      "error": "LRCLIB network request failed: curl: (28) Operation timed out after 15004 milliseconds with 0 bytes received",
+      "retryable": true
+    }
+  ]
+}

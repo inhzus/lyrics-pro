@@ -1,0 +1,295 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "人生海海 甘需要攏了解",
+      "spelling": "lîn-sing hái hái   kam su-iàu lóng liáu-kái",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "有時仔清醒 有時青菜",
+      "spelling": "ū-sî á tshing-tshínn  ū-sî tshinn-tshài",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "有人講好 一定有人講歹",
+      "spelling": "ū-lâng kóng hònn it-tīng ū lâng kóng pháinn",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "若麥想嚇多 咱生活卡自在",
+      "spelling": "ná mái siūnn hiah tsuē  lán sing-ua̍h khah tsū-tsāi",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "歸工嫌車無夠叭 嫌厝無夠大",
+      "spelling": "kui-kang hiâm tshia bô kàu pa  hiâm tshù bô kàu tuā",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "嫌菜煮了無好吃 嫌某尚歹看",
+      "spelling": "hiâm tshài tsú liáu bô hònn tsia̍h  hiâm bóo siūnn pháinn khuànn",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "駛到好車驚人偷 大厝歹拼掃",
+      "spelling": "sái tio̍h hònn tshia kiann lâng thau  tuā tshù pháinn piànn sàu",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "吃甲尚好驚血壓高美某會兌人走",
+      "spelling": "tsia̍h kah siūnn hònn kiann xiěyā gāo suí bóo ē tē lâng tsáu",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "人生短短 好親像塊七逃",
+      "spelling": "lîn-sing to to  hònn tshin-tshiūnn tè tshit tô",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "有時仔煩惱 有時輕可",
+      "spelling": "ū-sî á huân-ló  ū-sî khin-khó",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "問我到底 腹內有啥法寶",
+      "spelling": "mn̄g guá tàu-to  pak-lāi ū siánn huat-pó",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "其實無撇步 歡喜就好",
+      "spelling": "kî-si̍t bô phiat-pōo  huann-hí tio̍h hònn",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "人生海海 甘需要攏了解",
+      "spelling": "lîn-sing hái hái   kam su-iàu lóng liáu-kái",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "有時仔清醒 有時青菜",
+      "spelling": "ū-sî á tshing-tshínn  ū-sî tshinn-tshài",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "有人講好 一定有人講歹",
+      "spelling": "ū-lâng kóng hònn it-tīng ū lâng kóng pháinn",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "若麥想嚇多 咱生活卡自在",
+      "spelling": "ná mái siūnn hiah tsuē  lán sing-ua̍h khah tsū-tsāi",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "歸工嫌車無夠叭 嫌厝無夠大",
+      "spelling": "kui-kang hiâm tshia bô kàu pa  hiâm tshù bô kàu tuā",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "嫌菜煮了無好吃 嫌某尚歹看",
+      "spelling": "hiâm tshài tsú liáu bô hònn tsia̍h  hiâm bóo siūnn pháinn khuànn",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "駛到好車驚人偷 大厝歹拼掃",
+      "spelling": "sái tio̍h hònn tshia kiann lâng thau  tuā tshù pháinn piànn sàu",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "吃甲尚好驚血壓高美某會兌人走",
+      "spelling": "tsia̍h kah siūnn hònn kiann xiěyā gāo suí bóo ē tē lâng tsáu",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "人生短短 好親像塊七逃",
+      "spelling": "lîn-sing to to  hònn tshin-tshiūnn tè tshit tô",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "有時仔煩惱 有時輕可",
+      "spelling": "ū-sî á huân-ló  ū-sî khin-khó",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "問我到底 腹內有啥法寶",
+      "spelling": "mn̄g guá tàu-to  pak-lāi ū siánn huat-pó",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "其實無撇步 歡喜就好",
+      "spelling": "kî-si̍t bô phiat-pōo  huann-hí tio̍h hònn",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "歸工嫌車無夠叭 嫌厝無夠大",
+      "spelling": "kui-kang hiâm tshia bô kàu pa  hiâm tshù bô kàu tuā",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "嫌菜煮了無好吃 嫌某尚歹看",
+      "spelling": "hiâm tshài tsú liáu bô hònn tsia̍h  hiâm bóo siūnn pháinn khuànn",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "駛到好車驚人偷 大厝歹拼掃",
+      "spelling": "sái tio̍h hònn tshia kiann lâng thau  tuā tshù pháinn piànn sàu",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "吃甲尚好驚血壓高美某會兌人走",
+      "spelling": "tsia̍h kah siūnn hònn kiann xiěyā gāo suí bóo ē tē lâng tsáu",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "人生短短 好親像塊七逃",
+      "spelling": "lîn-sing to to  hònn tshin-tshiūnn tè tshit tô",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "有時仔煩惱 有時輕可",
+      "spelling": "ū-sî á huân-ló  ū-sî khin-khó",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "問我到底 腹內有啥法寶",
+      "spelling": "mn̄g guá tàu-to  pak-lāi ū siánn huat-pó",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "其實無撇步 歡喜就好",
+      "spelling": "kî-si̍t bô phiat-pōo  huann-hí tio̍h hònn",
+      "source_lines": [
+        94,
+        95
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

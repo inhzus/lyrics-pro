@@ -1,0 +1,116 @@
+{
+  "candidates": [
+    {
+      "song_id": 248697,
+      "title": "黑咖啡",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "江蕙10年‧典藏精选",
+      "duration": 302.426,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2709141461,
+      "title": "黑咖啡",
+      "artists": [
+        "范旭东"
+      ],
+      "album": "黑咖啡",
+      "duration": 193.2,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1869169412,
+      "title": "黑咖啡",
+      "artists": [
+        "侃迪kandi",
+        "Oliver Jiang"
+      ],
+      "album": "Bad boy mixtape pt.1",
+      "duration": 119.666,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3370639895,
+      "title": "黑咖啡",
+      "artists": [
+        "Hakan"
+      ],
+      "album": "黑咖啡",
+      "duration": 221.918,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2008696698,
+      "title": "黑咖啡",
+      "artists": [
+        "徐子未"
+      ],
+      "album": "小回音",
+      "duration": 198.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 294515,
+      "title": "黑咖啡",
+      "artists": [
+        "唐艾萱"
+      ],
+      "album": "唐艾萱同名专辑",
+      "duration": 210.773,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1425304800,
+      "title": "黑咖啡",
+      "artists": [
+        "张娜"
+      ],
+      "album": "21世纪歌唱家唱片集萃",
+      "duration": 261.459,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 153306,
+      "title": "黑咖啡",
+      "artists": [
+        "Tae"
+      ],
+      "album": "再见加州海滩",
+      "duration": 241.16,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 389071,
+      "title": "黑咖啡",
+      "artists": [
+        "玄公馆"
+      ],
+      "album": "打扰一下",
+      "duration": 208.039,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 26343405,
+      "title": "黑咖啡",
+      "artists": [
+        "高瑜"
+      ],
+      "album": "黑咖啡",
+      "duration": 206.773,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,349 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "別問我 我到底是從哪裡來",
+      "spelling": "mài mn̄g guá guá tàu-té sī tuì tó-uī lâi",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "別問我 答案盡在天涯",
+      "spelling": "mài mn̄g guá tap-àn tsīn tsāi thian-gâi",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "沒名沒字 任由風吹草一支",
+      "spelling": "bô miâ bô lī līm iû hong-tshue tsháu tsi̍t ki",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "置生死於度外 除了自由其他攏不值錢",
+      "spelling": "tì senn-sí û tōo-guā tû-liáu tsū-iû kî-thann lóng bô-ta̍t tsînn",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "海風煽著我欸身 鬍鬚爬滿面",
+      "spelling": "hái-hong siàn-tio̍h guá ê sin tshuì-tshiu pê muá-bīn",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "在塵囂中欸城市來消失隱居",
+      "spelling": "tsāi tîn-siáu tiong ê siânn-tshī lâi siau-sit ún-ki",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "自己彈著吉他孤單欸聲音",
+      "spelling": "ka-kī tuânn-tio̍h gì-tà koo-tuann ê siann-im",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "風流歲月 不擱再返去",
+      "spelling": "hong-liû suè-gua̍t bē koh-tsài tńg-khì",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "擱記得有多少姑娘對我講我愛妳",
+      "spelling": "koh ē-kì-tit ū guā-tsē koo-niû tuì guá kóng guá ài lí",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "我已經沒牽沒掛飛惦空中",
+      "spelling": "guá í-king bô thian bô kuà hui tiām khong-tiong",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "虛華欸現實乎我們看清滄桑",
+      "spelling": "hi-hua ê hiān-si̍t hōo guán khuànn-tshing tshong-song",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "流浪這片大地 我四海為家",
+      "spelling": "liû-lōng tsit phìnn tuā-tē guá sù-hái uî ke",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "oh 我拿人生換瀟灑",
+      "spelling": "oh guá the̍h lîn-sing uānn phiau-phiat",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "我感受不到孤單 榮華富貴到底是算什麼",
+      "spelling": "guá kám-siū buē-tio̍h koo-tuann îng huà hù-kuì tàu-té sī sǹg siánn-mih",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "恁攏猜不著我身影 我為自由生命塊打拼",
+      "spelling": "lin lóng ioh-bē-tio̍h guá sin-iánn guá uî tsū-iû sìnn-miā tè phah-piànn",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "踩上放蕩這條路 喔",
+      "spelling": "ta̍h siōng hòng-tōng tsit tiâu lōo ooh",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "依然倔強淋著雨 喔",
+      "spelling": "i-jiân khut-kiông lâm-tio̍h hōo ooh",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "海風煽著我欸身 鬍鬚爬滿面",
+      "spelling": "hái-hong siàn-tio̍h guá ê sin tshuì-tshiu pê muá-bīn",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "在塵囂中欸城市來消失隱居",
+      "spelling": "tsāi tîn-siáu tiong ê siânn-tshī lâi siau-sit ún-ki",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "自己彈著吉他孤單欸聲音",
+      "spelling": "ka-kī tuânn-tio̍h gì-tà koo-tuann ê siann-im",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "風流歲月 不擱再返去",
+      "spelling": "hong-liû suè-gua̍t bē koh-tsài tńg-khì",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "擱記得有多少姑娘對我講我愛妳",
+      "spelling": "koh ē-kì-tit ū guā-tsē koo-niû tuì guá kóng guá ài lí",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "我已經沒牽沒掛飛惦空中",
+      "spelling": "guá í-king bô thian bô kuà hui tiām khong-tiong",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "虛華欸現實乎我們看清滄桑",
+      "spelling": "hi-hua ê hiān-si̍t hōo guán khuànn-tshing tshong-song",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "流浪這片大地 我四海為家",
+      "spelling": "liû-lōng tsit phìnn tuā-tē guá sù-hái uî ke",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "oh 我拿人生換瀟灑",
+      "spelling": "oh guá the̍h lîn-sing uānn phiau-phiat",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "當初我也曾迷失自己",
+      "spelling": "tong-tshoo guá iā pat bî sit tsū-kí",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "貪婪欸慾望乎我回想過去",
+      "spelling": "tham-am ê io̍k-bōng hōo guá huê sióng kuè-khì",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "我雙腳已踏定 風塵我已經看破",
+      "spelling": "guá siang-kha í ta̍h tīng hong-tîn guá í khuànn-phuà",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "走片天涯無牽掛",
+      "spelling": "tsáu pîng thian-gâi bô thian-kuà",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "我已經沒牽沒掛飛惦空中",
+      "spelling": "guá í-king bô thian bô kuà hui tiām khong-tiong",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "虛華欸現實乎我們看清滄桑",
+      "spelling": "hi-hua ê hiān-si̍t hōo guán khuànn-tshing tshong-song",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "流浪這片大地 我四海為家",
+      "spelling": "liû-lōng tsit phìnn tuā-tē guá sù-hái uî ke",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "oh 我拿人生換瀟灑",
+      "spelling": "oh guá the̍h lîn-sing uānn phiau-phiat",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "我已經沒牽沒掛飛惦空中",
+      "spelling": "guá í-king bô thian bô kuà hui tiām khong-tiong",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "虛華欸現實乎我們看清滄桑",
+      "spelling": "hi-hua ê hiān-si̍t hōo guán khuànn-tshing tshong-song",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "流浪這片大地 我四海為家",
+      "spelling": "liû-lōng tsit phìnn tuā-tē guá sù-hái uî ke",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "oh 我拿人生換瀟灑",
+      "spelling": "oh guá the̍h lîn-sing uānn phiau-phiat",
+      "source_lines": [
+        112,
+        113
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

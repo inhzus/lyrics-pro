@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": "1547227760",
+      "title": "晚安台湾",
+      "artists": [
+        "灭火器"
+      ],
+      "album": "进击下半场",
+      "duration": 215.36,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "375431240",
+      "title": "晚安台灣",
+      "artists": [
+        "灭火器"
+      ],
+      "album": "海上的人",
+      "duration": 215.68,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

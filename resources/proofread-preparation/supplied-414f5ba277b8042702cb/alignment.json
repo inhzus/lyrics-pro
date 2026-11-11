@@ -1,0 +1,730 @@
+{
+  "recording_id": "netease:168365",
+  "timing_source": "NetEase https://music.163.com/song?id=168365",
+  "manual_source": "User-supplied resources/lyrics-spelling/愛這首歌-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 41,
+    "gap": 11
+  },
+  "review_row_count": 41,
+  "unmatched_manual_ids": [
+    "line-4:0",
+    "line-34:0",
+    "line-49:0",
+    "line-52:0"
+  ],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-46:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 胡如虹",
+      "match_text": "作词 : 胡如虹",
+      "text": "作词 : 胡如虹",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 25.62,
+      "online_text": "想欲为你唱一首歌",
+      "match_text": "想欲为你唱一首歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 30.55,
+      "online_text": "歌声永远袜变卦",
+      "match_text": "歌声永远袜变卦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 35.76,
+      "online_text": "这首歌代替阮起誓",
+      "match_text": "这首歌代替阮起誓",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 5,
+      "time": 40.62,
+      "online_text": "这款爱的心晟",
+      "match_text": "这款爱的心晟",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 6,
+      "time": 44.2,
+      "online_text": "你甘知影",
+      "match_text": "你甘知影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 47.1,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 8,
+      "time": 48.3,
+      "online_text": "自从爱着你这个人",
+      "match_text": "自从爱着你这个人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 53.1,
+      "online_text": "惦惦想起你的名",
+      "match_text": "惦惦想起你的名",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 58.11,
+      "online_text": "想欲看到你的形影",
+      "match_text": "想欲看到你的形影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 63.28,
+      "online_text": "这款爱的心晟",
+      "match_text": "这款爱的心晟",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 66.4,
+      "online_text": "特别想唛唱歌",
+      "match_text": "特别想唛唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 71.93,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 14,
+      "time": 73.0,
+      "online_text": "爱这首歌唱乎你一个人听",
+      "match_text": "爱这首歌唱乎你一个人听",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 77.98,
+      "online_text": "不知你甘有听出阮心声",
+      "match_text": "不知你甘有听出阮心声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 83.2,
+      "online_text": "越头看才知这条感情线",
+      "match_text": "越头看才知这条感情线",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 88.11,
+      "online_text": "早已经将你绑惦心肝",
+      "match_text": "早已经将你绑惦心肝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 92.7,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 19,
+      "time": 93.4,
+      "online_text": "爱这首歌你唛唱乎谁人听",
+      "match_text": "爱这首歌你唛唱乎谁人听",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 98.12,
+      "online_text": "我置这等你歌声来作伴",
+      "match_text": "我置这等你歌声来作伴",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 103.37,
+      "online_text": "你爱我我爱你的这首歌",
+      "match_text": "你爱我我爱你的这首歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 108.36,
+      "online_text": "亲像雨乎风拢吹袜散",
+      "match_text": "亲像雨乎风拢吹袜散",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 113.3,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 24,
+      "time": 115.7,
+      "online_text": "自从爱着你这个人",
+      "match_text": "自从爱着你这个人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 120.56,
+      "online_text": "惦惦想起你的名",
+      "match_text": "惦惦想起你的名",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 125.54,
+      "online_text": "想欲看到你的形影",
+      "match_text": "想欲看到你的形影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 130.68,
+      "online_text": "这款爱的心晟",
+      "match_text": "这款爱的心晟",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 133.87,
+      "online_text": "特别想唛唱歌",
+      "match_text": "特别想唛唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 140.56,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 30,
+      "time": 148.16,
+      "online_text": "想欲为你唱一首歌",
+      "match_text": "想欲为你唱一首歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 153.02,
+      "online_text": "歌声永远袜变卦",
+      "match_text": "歌声永远袜变卦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 158.05,
+      "online_text": "这首歌代替阮诅咒",
+      "match_text": "这首歌代替阮诅咒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-34:0"
+    },
+    {
+      "source_row": 33,
+      "time": 163.04,
+      "online_text": "这款爱的心晟",
+      "match_text": "这款爱的心晟",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-34:0"
+    },
+    {
+      "source_row": 34,
+      "time": 166.51,
+      "online_text": "特别想唛唱歌",
+      "match_text": "特别想唛唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 171.94,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 36,
+      "time": 173.11,
+      "online_text": "爱这首歌唱乎你一个人听",
+      "match_text": "爱这首歌唱乎你一个人听",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 178.08,
+      "online_text": "不知你甘有听出阮心声",
+      "match_text": "不知你甘有听出阮心声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 183.14,
+      "online_text": "越头看才知这条感情线",
+      "match_text": "越头看才知这条感情线",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 188.3,
+      "online_text": "早已经将你绑惦心肝",
+      "match_text": "早已经将你绑惦心肝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 192.6,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 41,
+      "time": 193.3,
+      "online_text": "爱这首歌你唛唱乎谁人听",
+      "match_text": "爱这首歌你唛唱乎谁人听",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 198.05,
+      "online_text": "我置这等你歌声来作伴",
+      "match_text": "我置这等你歌声来作伴",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 203.36,
+      "online_text": "你爱我我爱你的这首歌",
+      "match_text": "你爱我我爱你的这首歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 208.5,
+      "online_text": "亲像雨乎风拢吹袜散",
+      "match_text": "亲像雨乎风拢吹袜散",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 213.4,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 46,
+      "time": 216.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 47,
+      "time": 234.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 48,
+      "time": 235.65,
+      "online_text": "真心对待用心感觉",
+      "match_text": "真心对待用心感觉",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-49:0"
+    },
+    {
+      "source_row": 49,
+      "time": 240.55,
+      "online_text": "有你的手做靠山",
+      "match_text": "有你的手做靠山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-49:0"
+    },
+    {
+      "source_row": 50,
+      "time": 245.63,
+      "online_text": "酸甜苦涩两个人担",
+      "match_text": "酸甜苦涩两个人担",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-52:0"
+    },
+    {
+      "source_row": 51,
+      "time": 250.58,
+      "online_text": "只要牵你手",
+      "match_text": "只要牵你手",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-52:0"
+    },
+    {
+      "source_row": 52,
+      "time": 253.76,
+      "online_text": "永远不怕孤单",
+      "match_text": "永远不怕孤单",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 53,
+      "time": 264.78,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "982b6f782c2eb384f8f5a2cb7a173806f11a89403c328b3142c481d720c7dfd0",
+    "manual": "f0daf8c0227e115359234c4235950a0c66e442fa8fa2bc48bd3b36a92924e8f3",
+    "timed": "7c120307173a5742a72793732aa8bbcff36ad4a1a8bb39cac92ab12db7ea0fc0"
+  }
+}

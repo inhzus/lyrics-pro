@@ -1,0 +1,115 @@
+{
+  "candidates": [
+    {
+      "song_id": 5260137,
+      "title": "世界第一等",
+      "artists": [
+        "伍佰"
+      ],
+      "album": "台客摇滚百万惊险辑",
+      "duration": 249.782,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 570839692,
+      "title": "世界第一等",
+      "artists": [
+        "刘德华"
+      ],
+      "album": "BMG全家福Happy Family",
+      "duration": 258.026,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 156706,
+      "title": "世界第一等",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "爱你伍佰年",
+      "duration": 248.626,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 157018,
+      "title": "世界第一等",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "电影歌曲典藏1992-2000",
+      "duration": 248.626,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1913466641,
+      "title": "世界第一等",
+      "artists": [
+        "丢火车"
+      ],
+      "album": "世界第一等",
+      "duration": 264.705,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2627756377,
+      "title": "世界第一等",
+      "artists": [
+        "TieZ"
+      ],
+      "album": "世界第一等（DJ铁柱版）",
+      "duration": 116.25,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2622503490,
+      "title": "世界第一等",
+      "artists": [
+        "7喜"
+      ],
+      "album": "世界第一等",
+      "duration": 236.361,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3429190859,
+      "title": "世界第一等",
+      "artists": [
+        "卡宾先生"
+      ],
+      "album": "世界第一等",
+      "duration": 202.297,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1871529881,
+      "title": "世界第一等",
+      "artists": [
+        "李束婷"
+      ],
+      "album": "世界第一等",
+      "duration": 213.146,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3457066677,
+      "title": "世界第一等",
+      "artists": [
+        "OU PHANABOT"
+      ],
+      "album": "\"如果有一天\"",
+      "duration": 332.4,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

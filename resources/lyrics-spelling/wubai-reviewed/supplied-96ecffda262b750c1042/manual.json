@@ -1,0 +1,434 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "天懸懸                               雲咧飛                 愛妳無目地",
+      "spelling": "thinn kuâinn kuâinn    hûn leh hui        ài lí bô ba̍k-tē",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "天懸懸",
+          "spelling": "thinn kuâinn kuâinn"
+        },
+        {
+          "text": "雲咧飛",
+          "spelling": "hûn leh hui"
+        },
+        {
+          "text": "愛妳無目地",
+          "spelling": "ài lí bô ba̍k-tē"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "規條路                               媠芳花                 只愛妳一个                 哎呀只愛妳一个",
+      "spelling": "kui tiâu loo                      suí phang hue   tsí ài lí tsi̍t ê              ai ya tsí ài lí tsi̍t ê",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "規條路",
+          "spelling": "kui tiâu loo"
+        },
+        {
+          "text": "媠芳花",
+          "spelling": "suí phang hue"
+        },
+        {
+          "text": "只愛妳一个",
+          "spelling": "tsí ài lí tsi̍t ê"
+        },
+        {
+          "text": "哎呀只愛妳一个",
+          "spelling": "ai ya tsí ài lí tsi̍t ê"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "日炎炎                               無蔭遮                 愛妳無條件",
+      "spelling": "ji̍t iām iām                       bô ìm jia            ài lí bô tiâu-kiānn",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "日炎炎",
+          "spelling": "ji̍t iām iām"
+        },
+        {
+          "text": "無蔭遮",
+          "spelling": "bô ìm jia"
+        },
+        {
+          "text": "愛妳無條件",
+          "spelling": "ài lí bô tiâu-kiānn"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "這馬攏無風飛沙                                 只有妳的影                 哎呀只有妳的影",
+      "spelling": "tsit-má lóng-bô hong hui sua        tsí ū lí ê iánn            ai ya tsí ū lí ê iánn",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "這馬攏無風飛沙",
+          "spelling": "tsit-má lóng-bô hong hui sua"
+        },
+        {
+          "text": "只有妳的影",
+          "spelling": "tsí ū lí ê iánn"
+        },
+        {
+          "text": "哎呀只有妳的影",
+          "spelling": "ai ya tsí ū lí ê iánn"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "月光光                                佇花園                 想欲對妳問",
+      "spelling": "gue̍h kng kng                   tī hue-hn̂g        siūnn beh tuì lí mn̄g",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "月光光",
+          "spelling": "gue̍h kng kng"
+        },
+        {
+          "text": "佇花園",
+          "spelling": "tī hue-hn̂g"
+        },
+        {
+          "text": "想欲對妳問",
+          "spelling": "siūnn beh tuì lí mn̄g"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "怎樣環境無允准                                              心頭小酸酸",
+      "spelling": "tsuánn-iūnn khuân-kíng bô ún-tsún        sim-thâu sió sng sng",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "怎樣環境無允准",
+          "spelling": "tsuánn-iūnn khuân-kíng bô ún-tsún"
+        },
+        {
+          "text": "心頭小酸酸",
+          "spelling": "sim-thâu sió sng sng"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "哎呀心頭小酸酸                                              哎呀心頭小酸酸",
+      "spelling": "ai ya sim-thâu sió sng sng                          ai ya sim-thâu sió sng sng",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "哎呀心頭小酸酸",
+          "spelling": "ai ya sim-thâu sió sng sng"
+        },
+        {
+          "text": "哎呀心頭小酸酸",
+          "spelling": "ai ya sim-thâu sió sng sng"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "我欲對佗揣                                                      無人會四配",
+      "spelling": "guá beh tuì tó tshuē                                     bô lâng ē sù-phuè",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "我欲對佗揣",
+          "spelling": "guá beh tuì tó tshuē"
+        },
+        {
+          "text": "無人會四配",
+          "spelling": "bô lâng ē sù-phuè"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "只有妳佇夢中                                                  永遠是我的",
+      "spelling": "tsí-ū lí tī bāng-tiong                                      íng-uán sī guá ē",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "只有妳佇夢中",
+          "spelling": "tsí-ū lí tī bāng-tiong"
+        },
+        {
+          "text": "永遠是我的",
+          "spelling": "íng-uán sī guá ē"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "我踮在曠野                                                      想欲大聲喝",
+      "spelling": "guá liam tsāi khòng-iá                                 siūnn beh tuā-siann-huah",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "我踮在曠野",
+          "spelling": "guá liam tsāi khòng-iá"
+        },
+        {
+          "text": "想欲大聲喝",
+          "spelling": "siūnn beh tuā-siann-huah"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "所有我的頭殼                                                  只有妳的名",
+      "spelling": "sóo-iú guá ē thâu-khak                                tsí ū lí ê miâ",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "所有我的頭殼",
+          "spelling": "sóo-iú guá ē thâu-khak"
+        },
+        {
+          "text": "只有妳的名",
+          "spelling": "tsí ū lí ê miâ"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "天紅紅                              雨拄過                     拄到風颱尾                             哎呀愛妳無目地",
+      "spelling": "thinn âng âng                hōo thuh kuè        thuh tio̍h hong-thai-bué     ai ya ài lí bô ba̍k-tē",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "天紅紅",
+          "spelling": "thinn âng âng"
+        },
+        {
+          "text": "雨拄過",
+          "spelling": "hōo thuh kuè"
+        },
+        {
+          "text": "拄到風颱尾",
+          "spelling": "thuh tio̍h hong-thai-bué"
+        },
+        {
+          "text": "哎呀愛妳無目地",
+          "spelling": "ai ya ài lí bô ba̍k-tē"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "月光光                              佇花園                     想欲對妳問",
+      "spelling": "gue̍h kng kng                 tī hue-hn̂g            siūnn beh tuì lí mn̄g",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "月光光",
+          "spelling": "gue̍h kng kng"
+        },
+        {
+          "text": "佇花園",
+          "spelling": "tī hue-hn̂g"
+        },
+        {
+          "text": "想欲對妳問",
+          "spelling": "siūnn beh tuì lí mn̄g"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "怎樣環境無允准                                             心頭小酸酸                         哎呀心頭小酸酸",
+      "spelling": "tsuánn-iūnn khuân-kíng bô ín-tsún       sim-thâu sió sng sng        ai ya sim-thâu sió sng sng",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "怎樣環境無允准",
+          "spelling": "tsuánn-iūnn khuân-kíng bô ín-tsún"
+        },
+        {
+          "text": "心頭小酸酸",
+          "spelling": "sim-thâu sió sng sng"
+        },
+        {
+          "text": "哎呀心頭小酸酸",
+          "spelling": "ai ya sim-thâu sió sng sng"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "我欲對佗揣                             無人會四配",
+      "spelling": "guá beh tuì tó tshuē            bô lâng ē sù-phuè",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "我欲對佗揣",
+          "spelling": "guá beh tuì tó tshuē"
+        },
+        {
+          "text": "無人會四配",
+          "spelling": "bô lâng ē sù-phuè"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "只有妳佇夢中                         永遠是我的",
+      "spelling": "tsí-ū lí tī bāng-tiong             íng-uán sī guá ē",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "只有妳佇夢中",
+          "spelling": "tsí-ū lí tī bāng-tiong"
+        },
+        {
+          "text": "永遠是我的",
+          "spelling": "íng-uán sī guá ē"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "我踮在曠野                             想欲大聲喝",
+      "spelling": "guá liam tsāi khòng-iá        siūnn beh tuā-siann-huah",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "我踮在曠野",
+          "spelling": "guá liam tsāi khòng-iá"
+        },
+        {
+          "text": "想欲大聲喝",
+          "spelling": "siūnn beh tuā-siann-huah"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "所有我的頭殼                          只有妳的名",
+      "spelling": "sóo-iú guá ē thâu-khak        tsí ū lí ê miâ",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "所有我的頭殼",
+          "spelling": "sóo-iú guá ē thâu-khak"
+        },
+        {
+          "text": "只有妳的名",
+          "spelling": "tsí ū lí ê miâ"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "天紅紅                      雨拄過                     拄到風颱尾                            哎呀愛妳無目地",
+      "spelling": "thinn âng âng        hōo thuh kuè        thuh tio̍h hong-thai-bué    ai ya ài lí bô ba̍k-tē",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "天紅紅",
+          "spelling": "thinn âng âng"
+        },
+        {
+          "text": "雨拄過",
+          "spelling": "hōo thuh kuè"
+        },
+        {
+          "text": "拄到風颱尾",
+          "spelling": "thuh tio̍h hong-thai-bué"
+        },
+        {
+          "text": "哎呀愛妳無目地",
+          "spelling": "ai ya ài lí bô ba̍k-tē"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "哎呀愛妳無目地                            愛妳無目地",
+      "spelling": "ai ya ài lí bô ba̍k-tē                     ài lí bô ba̍k-tē",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "哎呀愛妳無目地",
+          "spelling": "ai ya ài lí bô ba̍k-tē"
+        },
+        {
+          "text": "愛妳無目地",
+          "spelling": "ài lí bô ba̍k-tē"
+        }
+      ]
+    }
+  ],
+  "repairs": [],
+  "notes": []
+}

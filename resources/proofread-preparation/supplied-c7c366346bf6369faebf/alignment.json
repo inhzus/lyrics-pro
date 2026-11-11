@@ -1,0 +1,316 @@
+{
+  "recording_id": "lrcapi:1453013542",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E6%80%AA%E6%89%8B&artist=%E6%B7%BA%E5%A0%A4&album=Demo.+1+-+Single#1453013542",
+  "manual_source": "User-supplied resources/lyrics-spelling/淺堤 (Shallow Levée) – 怪手-淺堤",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "approximate": 6,
+    "exact": 1,
+    "unresolved": 6,
+    "repeat": 8
+  },
+  "review_row_count": 12,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:1",
+    "line-7:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-22:0"
+  ],
+  "unused_repeat_ids": [
+    "line-28:0",
+    "line-28:1",
+    "line-37:0",
+    "line-37:1",
+    "line-43:0",
+    "line-43:1",
+    "line-52:0",
+    "line-52:1"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 33.441,
+      "online_text": "早早就起床 共旗仔囥佇眠床頂",
+      "match_text": "早早就起床 共旗仔囥佇眠床頂",
+      "text": "共旗仔囥佇眠床頂",
+      "spelling": "kāng kî á khǹg teh bîn tshn̂g-tíng",
+      "manual_id": "line-1:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.761905
+    },
+    {
+      "source_row": 1,
+      "time": 41.074,
+      "online_text": "帶著全家大小 來去找媽祖",
+      "match_text": "帶著全家大小 來去找媽祖",
+      "text": "帶著全家大小",
+      "spelling": "tuà-tio̍h tsuân-ke tuā-sè",
+      "manual_id": "line-4:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.705882
+    },
+    {
+      "source_row": 2,
+      "time": 49.428,
+      "online_text": "這流傳一個故事 講勇敢不是比拳頭母",
+      "match_text": "這流傳一個故事 講勇敢不是比拳頭母",
+      "text": "講勇敢不是比拳頭母",
+      "spelling": "kóng ióng-kám m̄ sī pí kûn-thâu bú",
+      "manual_id": "line-7:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.72
+    },
+    {
+      "source_row": 3,
+      "time": 57.573,
+      "online_text": "是你敢 跟我出海𨑨迌",
+      "match_text": "是你敢 跟我出海𨑨迌",
+      "text": "是你敢跟我出海𨑨迌",
+      "spelling": "sī lí kánn tè guá tshut-hái tshit-thô",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 98.275,
+      "online_text": "原本啥物都攏無",
+      "match_text": "原本啥物都攏無",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-13:0"
+    },
+    {
+      "source_row": 5,
+      "time": 102.276,
+      "online_text": "是咱一步一步",
+      "match_text": "是咱一步一步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-13:0"
+    },
+    {
+      "source_row": 6,
+      "time": 106.398,
+      "online_text": "用網仔 牽著全家大小",
+      "match_text": "用網仔 牽著全家大小",
+      "text": "牽著全家大小",
+      "spelling": "khan-tio̍h tsuân-ke tuā-sè",
+      "manual_id": "line-16:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 7,
+      "time": 114.541,
+      "online_text": "開發第二港口 閣用輸送帶閘牢",
+      "match_text": "開發第二港口 閣用輸送帶閘牢",
+      "text": "閣用輸送帶閘牢",
+      "spelling": "koh iōng kò phè a tsa̍h tiâu",
+      "manual_id": "line-19:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.7
+    },
+    {
+      "source_row": 8,
+      "time": 122.67,
+      "online_text": "進步的城市 工業化的機器",
+      "match_text": "進步的城市 工業化的機器",
+      "text": "工業化的機器",
+      "spelling": "kang-gia̍p-huà ê ki-khì",
+      "manual_id": "line-22:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.705882
+    },
+    {
+      "source_row": 9,
+      "time": 163.625,
+      "online_text": "住了世世代代的家",
+      "match_text": "住了世世代代的家",
+      "text": "住了世世代代的家",
+      "spelling": "tuà liáu sè-sè-tāi-tāi ê ke",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 167.274,
+      "online_text": "毋是你講拆 就會使拆",
+      "match_text": "毋是你講拆 就會使拆",
+      "text": "毋是你講拆就會使拆",
+      "spelling": "m̄ sī lí kóng thiah tio̍h ē sái thiah",
+      "manual_id": "line-25:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 170.974,
+      "online_text": "天公伯阿 這咁公平",
+      "match_text": "天公伯阿 這咁公平",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 179.896,
+      "online_text": "怪手拍佇塗跤的聲",
+      "match_text": "怪手拍佇塗跤的聲",
+      "text": "怪手拍佇塗跤的聲",
+      "spelling": "kuài-tshiú puānn tī thôo-kha ê siann",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 183.469,
+      "online_text": "親像拍佇我 的肩舺頭",
+      "match_text": "親像拍佇我 的肩舺頭",
+      "text": "親像拍佇我的肩舺頭",
+      "spelling": "tshin-tshiūnn puānn tī guá ê king kah thâu",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 187.247,
+      "online_text": "天公伯阿 我猶未變老",
+      "match_text": "天公伯阿 我猶未變老",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 196.173,
+      "online_text": "住了世世代代的家",
+      "match_text": "住了世世代代的家",
+      "text": "住了世世代代的家",
+      "spelling": "tuà liáu sè-sè-tāi-tāi ê ke",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 199.773,
+      "online_text": "毋是你講拆 就會使拆",
+      "match_text": "毋是你講拆 就會使拆",
+      "text": "毋是你講拆就會使拆",
+      "spelling": "m̄ sī lí kóng thiah tio̍h ē sái thiah",
+      "manual_id": "line-25:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 203.528,
+      "online_text": "天公伯阿 這咁公平",
+      "match_text": "天公伯阿 這咁公平",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 212.443,
+      "online_text": "怪手拍佇塗跤的聲",
+      "match_text": "怪手拍佇塗跤的聲",
+      "text": "怪手拍佇塗跤的聲",
+      "spelling": "kuài-tshiú puānn tī thôo-kha ê siann",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 215.974,
+      "online_text": "親像拍佇我 的肩舺頭",
+      "match_text": "親像拍佇我 的肩舺頭",
+      "text": "親像拍佇我的肩舺頭",
+      "spelling": "tshin-tshiūnn puānn tī guá ê king kah thâu",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 219.791,
+      "online_text": "天公伯阿 我猶未變老",
+      "match_text": "天公伯阿 我猶未變老",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "7e9c8df1b8280872e8d39026fa6f4482c167ca8d8398d4fdea3d19546b612843",
+    "manual": "c650becbf08a490e11da24d7997246c53ffcdcea0e38c02a6d4006b91b9715ef",
+    "timed": "fa82dbe075a52d349cb5f7bd205a41a5ebb69f8d2edb441e14fa1534fd959949"
+  }
+}

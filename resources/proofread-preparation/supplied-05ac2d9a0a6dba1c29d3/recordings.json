@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": 386035,
+      "title": "永远的永远",
+      "artists": [
+        "五月天"
+      ],
+      "album": "知足 最真杰作选",
+      "duration": 267.029,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 386709,
+      "title": "永远的永远",
+      "artists": [
+        "五月天"
+      ],
+      "album": "人生海海",
+      "duration": 256.066,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

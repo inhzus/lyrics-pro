@@ -1,0 +1,83 @@
+{
+  "candidates": [
+    {
+      "song_id": 1418602383,
+      "title": "没问题.",
+      "artists": [
+        "郑润泽"
+      ],
+      "album": "没问题",
+      "duration": 166.243,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2105445280,
+      "title": "没问题",
+      "artists": [
+        "VaVa毛衍七",
+        "bbno$"
+      ],
+      "album": "NO MOUTAI (没问题)",
+      "duration": 161.187,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 528273298,
+      "title": "没问题",
+      "artists": [
+        "ATM顶级玩家"
+      ],
+      "album": "顶级玩家",
+      "duration": 218.808,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "840578240",
+      "title": "没问题",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "十一台",
+      "duration": 279.627,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1678696457",
+      "title": "没问题",
+      "artists": [
+        "Bumon布蒙 & 骨头"
+      ],
+      "album": "Neon",
+      "duration": 112.798,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1331860544",
+      "title": "没问题",
+      "artists": [
+        "ATM顶级玩家"
+      ],
+      "album": "顶级玩家",
+      "duration": 218.808,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1646017629",
+      "title": "没问题",
+      "artists": [
+        "小六"
+      ],
+      "album": "嘘",
+      "duration": 261.08,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

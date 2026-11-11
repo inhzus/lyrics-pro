@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 543798017,
+      "title": "感觉怎样",
+      "artists": [
+        "草屯囝仔"
+      ],
+      "album": "囝仔",
+      "duration": 151.754,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1269013225",
+      "title": "感觉怎样",
+      "artists": [
+        "臭屁婴仔"
+      ],
+      "album": "囝仔",
+      "duration": 153.928,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1269013225",
+      "title": "感觉怎样",
+      "artists": [
+        "臭屁婴仔"
+      ],
+      "album": "囝仔",
+      "duration": 153.928,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

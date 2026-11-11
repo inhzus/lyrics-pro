@@ -1,0 +1,223 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "總是希望一些人 不曾相遇",
+      "spelling": "tsóng-sī hi-bāng tsi̍t-kuá lâng m̄ bat sio-tú",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "不曾為著伊 牽腸掛肚",
+      "spelling": "m̄ bat uī-tio̍h i khan-tn̂g-kuà-tōo",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "不曾散了一地 心的碎片",
+      "spelling": "m̄ bat suánn liáu i̍t tē sim ê tshuì-phìnn",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "啊 鏗鏗鏘鏘",
+      "spelling": "ah khing-khing-khiang-khiang",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "總是希望一些事 不曾發生",
+      "spelling": "tsóng-sī hi-bāng tsi̍t-kuá sū m̄ bat huat-sing",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "不曾為著伊 一日三秋",
+      "spelling": "m̄ bat uī-tio̍h i i̍t-li̍t sann tshiu",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "不曾落個不停 閃爍淚滴",
+      "spelling": "m̄ bat lo̍h liáu buē thîng siám-sih luī tih",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "啊 滴滴答答",
+      "spelling": "ah tih tih tap tap",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "我有一個夢 一個小小的夢",
+      "spelling": "guá ū tsi̍t ê bāng tsi̍t ê sió sió ê bāng",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "希望有一天 世間不再有傷心的人",
+      "spelling": "hi-bāng ū tsi̍t kang sè-kan put-tsài ū siong-sim ê lâng",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "我有一個夢 一個小小的夢",
+      "spelling": "guá ū tsi̍t ê bāng tsi̍t ê sió sió ê bāng",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "希望相愛的人 可以 永遠 永遠 到永遠",
+      "spelling": "hi-bāng siong-ài ê lâng ē-tàng íng-uán íng-uán kàu íng-uán",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "總是希望一些事 不曾發生",
+      "spelling": "tsóng-sī hi-bāng tsi̍t-kuá sū m̄ bat huat-sing",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "不曾為著伊 一日三秋",
+      "spelling": "m̄ bat uī-tio̍h i i̍t-li̍t sann tshiu",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "不曾落個不停 閃爍淚滴",
+      "spelling": "m̄ bat lo̍h liáu buē thîng siám-sih luī tih",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "啊 滴滴答答",
+      "spelling": "ah tih tih tap tap",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "我有一個夢 一個小小的夢",
+      "spelling": "guá ū tsi̍t ê bāng tsi̍t ê sió sió ê bāng",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "希望有一天 世間不再有傷心的人",
+      "spelling": "hi-bāng ū tsi̍t kang sè-kan put-tsài ū siong-sim ê lâng",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "我有一個夢 一個小小的夢",
+      "spelling": "guá ū tsi̍t ê bāng tsi̍t ê sió sió ê bāng",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "希望相愛的人 可以 永遠 永遠 到永遠",
+      "spelling": "hi-bāng siong-ài ê lâng ē-tàng íng-uán íng-uán kàu íng-uán",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "我有一個夢 一個小小的夢",
+      "spelling": "guá ū tsi̍t ê bāng tsi̍t ê sió sió ê bāng",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "希望有一天 世間不再有傷心的人",
+      "spelling": "hi-bāng ū tsi̍t kang sè-kan put-tsài ū siong-sim ê lâng",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "我有一個夢 一個小小的夢",
+      "spelling": "guá ū tsi̍t ê bāng tsi̍t ê sió sió ê bāng",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "希望相愛的人 可以 永遠 永遠 到永遠",
+      "spelling": "hi-bāng siong-ài ê lâng ē-tàng íng-uán íng-uán kàu íng-uán",
+      "source_lines": [
+        70,
+        71
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

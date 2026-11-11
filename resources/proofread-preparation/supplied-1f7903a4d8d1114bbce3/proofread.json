@@ -1,0 +1,272 @@
+{
+  "recording_id": "lrclib:18267561",
+  "source": "User-supplied resources/lyrics-spelling/恨世生-伍佰",
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "我愛你　        可愛的人　           愛你定定夢",
+      "spelling": "guá ài lí        khó-ài ê lâng        ài lí tiānn tiānn bāng",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "我愛你",
+          "spelling": "guá ài lí"
+        },
+        {
+          "text": "可愛的人",
+          "spelling": "khó-ài ê lâng"
+        },
+        {
+          "text": "愛你定定夢",
+          "spelling": "ài lí tiānn tiānn bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "真情愛你無採工　                           你那親像採花蜂",
+      "spelling": "tsin tsîng-ài lí bô tshái kang        lí nà tshin-tshiūnn tshái hue phang",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "真情愛你無採工",
+          "spelling": "tsin tsîng-ài lí bô tshái kang"
+        },
+        {
+          "text": "你那親像採花蜂",
+          "spelling": "lí nà tshin-tshiūnn tshái hue phang"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "花蕊採了找別叢                                 我愛你可愛的人",
+      "spelling": "hue luí tshái liáu tshuē ba̍t ba̍t    guá ài lí khó-ài ê lâng",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "花蕊採了找別叢",
+          "spelling": "hue luí tshái liáu tshuē ba̍t ba̍t"
+        },
+        {
+          "text": "我愛你可愛的人",
+          "spelling": "guá ài lí khó-ài ê lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "變做冤仇人",
+      "spelling": "piàn-tsuè uan-siû lâng",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "我恨你　           可愛的人　            恨你定定夢",
+      "spelling": "guá hūn lí        khó-ài ê lâng        hūn lí tiānn tiānn bāng",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "我恨你",
+          "spelling": "guá hūn lí"
+        },
+        {
+          "text": "可愛的人",
+          "spelling": "khó-ài ê lâng"
+        },
+        {
+          "text": "恨你定定夢",
+          "spelling": "hūn lí tiānn tiānn bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "一生怨恨你一人　                    你的罪惡是真重",
+      "spelling": "it-sing uàn-hūn lí tsi̍t lâng    lí ê tsuē-ok sī tsin tāng",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "一生怨恨你一人",
+          "spelling": "it-sing uàn-hūn lí tsi̍t lâng"
+        },
+        {
+          "text": "你的罪惡是真重",
+          "spelling": "lí ê tsuē-ok sī tsin tāng"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "可恨女性的毒蟲　                            我恨你可愛的人",
+      "spelling": "khó hūn lú-sìng ê to̍k-thâng        guá hūn lí khó-ài ê lâng",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "可恨女性的毒蟲",
+          "spelling": "khó hūn lú-sìng ê to̍k-thâng"
+        },
+        {
+          "text": "我恨你可愛的人",
+          "spelling": "guá hūn lí khó-ài ê lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "恨你一世人",
+      "spelling": "hūn lí tsi̍t-sì-lâng",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "變做冤仇人",
+      "spelling": "piàn-tsuè uan-siû lâng",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "我恨你　            可愛的人　           恨你定定夢",
+      "spelling": "guá hūn lí        khó-ài ê lâng        hūn lí tiānn tiānn bāng",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "我恨你",
+          "spelling": "guá hūn lí"
+        },
+        {
+          "text": "可愛的人",
+          "spelling": "khó-ài ê lâng"
+        },
+        {
+          "text": "恨你定定夢",
+          "spelling": "hūn lí tiānn tiānn bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "一生怨恨你一人　                       你的罪惡是真重",
+      "spelling": "it-sing uàn-hūn lí tsi̍t lâng       lí ê tsuē-ok sī tsin tāng",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "一生怨恨你一人",
+          "spelling": "it-sing uàn-hūn lí tsi̍t lâng"
+        },
+        {
+          "text": "你的罪惡是真重",
+          "spelling": "lí ê tsuē-ok sī tsin tāng"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "可恨女性的毒蟲　                            我恨你可愛的人",
+      "spelling": "khó hūn lú-sìng ê to̍k-thâng        guá hūn lí khó-ài ê lâng",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "可恨女性的毒蟲",
+          "spelling": "khó hūn lú-sìng ê to̍k-thâng"
+        },
+        {
+          "text": "我恨你可愛的人",
+          "spelling": "guá hūn lí khó-ài ê lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "恨你一世人                恨你一世人",
+      "spelling": "hūn lí tsi̍t-sì-lâng    hūn lí tsi̍t-sì-lâng",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "恨你一世人",
+          "spelling": "hūn lí tsi̍t-sì-lâng"
+        },
+        {
+          "text": "恨你一世人",
+          "spelling": "hūn lí tsi̍t-sì-lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "恨你一世人               恨你一世人",
+      "spelling": "hūn lí tsi̍t-sì-lâng    hūn lí tsi̍t-sì-lâng",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "恨你一世人",
+          "spelling": "hūn lí tsi̍t-sì-lâng"
+        },
+        {
+          "text": "恨你一世人",
+          "spelling": "hūn lí tsi̍t-sì-lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "恨你一世人",
+      "spelling": "hūn lí tsi̍t-sì-lâng",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "啊～",
+      "spelling": "ah",
+      "source_lines": [
+        48,
+        49
+      ]
+    }
+  ]
+}

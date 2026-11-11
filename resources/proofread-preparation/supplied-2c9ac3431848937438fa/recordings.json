@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 350176,
+      "title": "賽鴿",
+      "artists": [
+        "川秋沙"
+      ],
+      "album": "人造沙洲",
+      "duration": 382.546,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

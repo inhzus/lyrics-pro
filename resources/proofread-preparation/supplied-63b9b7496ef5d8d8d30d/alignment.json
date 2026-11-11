@@ -1,0 +1,392 @@
+{
+  "recording_id": "lrclib:18672",
+  "timing_source": "LRCLIB https://lrclib.net/api/get/18672",
+  "manual_source": "User-supplied resources/lyrics-spelling/追追追-蘇打綠",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "unresolved": 12,
+    "repeat": 15,
+    "gap": 1
+  },
+  "review_row_count": 12,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-28:0",
+    "line-31:0",
+    "line-43:0",
+    "line-46:0",
+    "line-52:0",
+    "line-55:0",
+    "line-58:0",
+    "line-61:0",
+    "line-70:0",
+    "line-73:0",
+    "line-85:0",
+    "line-88:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 14.28,
+      "online_text": "千江水 千江月 千里帆 千重山 千里江山 我最水",
+      "match_text": "千江水 千江月 千里帆 千重山 千里江山 我最水",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 24.13,
+      "online_text": "萬里月 萬里城 萬里愁 萬里煙 萬里風霜 我最妖嬌",
+      "match_text": "萬里月 萬里城 萬里愁 萬里煙 萬里風霜 我最妖嬌",
+      "text": "萬里月 萬里城 萬里愁 萬里煙 萬里風霜 我最妖嬌",
+      "spelling": "bān lí ê  bān lí siânn  bān lí siûnn bān lí ian bān lí hong-song guá siōng iau-kiau",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 34.3,
+      "online_text": "什麼款ㄟ殺氣 什麼款ㄟ角色 什麼款ㄟ梟雄 迫阮策馬墜風塵",
+      "match_text": "什麼款ㄟ殺氣 什麼款ㄟ角色 什麼款ㄟ梟雄 迫阮策馬墜風塵",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 46.02,
+      "online_text": "什麼款ㄟ愛情 什麼款ㄟ墜落 什麼款ㄟ溫柔 後阮日夜攏想你",
+      "match_text": "什麼款ㄟ愛情 什麼款ㄟ墜落 什麼款ㄟ溫柔 後阮日夜攏想你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 57.13,
+      "online_text": "很久以前 狼主的傳說 如今狼煙再起",
+      "match_text": "很久以前 狼主的傳說 如今狼煙再起",
+      "text": "很久以前 狼主的傳說 如今狼煙再起",
+      "spelling": "tsin-kú í-tsîng  lông tsú ê thuân-suat  lû-kim lông ian tsài-khí",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 66.89,
+      "online_text": "很久以前 狼主的傳說 如今狼煙再起",
+      "match_text": "很久以前 狼主的傳說 如今狼煙再起",
+      "text": "很久以前 狼主的傳說 如今狼煙再起",
+      "spelling": "tsin-kú í-tsîng  lông tsú ê thuân-suat  lû-kim lông ian tsài-khí",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 75.17,
+      "online_text": "啊 追 追 追 追著你ㄟ心 追著你ㄟ人 追著你ㄟ情 追著你",
+      "match_text": "啊 追 追 追 追著你ㄟ心 追著你ㄟ人 追著你ㄟ情 追著你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 83.55,
+      "online_text": "ㄟ無講理",
+      "match_text": "ㄟ無講理",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 87.49,
+      "online_text": "啊 煩 煩 煩 煩過這世人 心肝如蔥蔥 找無酒來澆",
+      "match_text": "啊 煩 煩 煩 煩過這世人 心肝如蔥蔥 找無酒來澆",
+      "text": "啊 煩 煩 煩 煩過這世人 心肝如蔥蔥 找無酒來澆",
+      "spelling": "ah huân huân huân huân kuè tsit-sì-lâng  sim-kuann lû tshang tshang  tshuē bô tsiú lâi ak",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 97.63,
+      "online_text": "嚥氣啦 麥擱那麼大聲對我說話",
+      "match_text": "嚥氣啦 麥擱那麼大聲對我說話",
+      "text": "嚥氣啦 麥擱那麼大聲對我說話",
+      "spelling": "iàn khì là  mái koh hiâ-nī tuā-siann tuì guá kóng-uē",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 107.57,
+      "online_text": "啊 亂 亂 亂 女人ㄟ心 豆腐做ㄟ 為你破碎 任由針底劃",
+      "match_text": "啊 亂 亂 亂 女人ㄟ心 豆腐做ㄟ 為你破碎 任由針底劃",
+      "text": "啊 亂 亂 亂 女人ㄟ心 豆腐做ㄟ 為你破碎 任由針底劃",
+      "spelling": "ah luān luān luān lú-lîn ê sim  tāu hú tsuè ê  uî lí phò-tshuì līm iû tsiam té ue̍h",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 143.17,
+      "online_text": "千江水 千江月 千里帆 千重山 千里江山 我最水",
+      "match_text": "千江水 千江月 千里帆 千重山 千里江山 我最水",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 153.25,
+      "online_text": "萬里月 萬里城 萬里愁 萬里煙 萬里風霜 我最妖嬌",
+      "match_text": "萬里月 萬里城 萬里愁 萬里煙 萬里風霜 我最妖嬌",
+      "text": "萬里月 萬里城 萬里愁 萬里煙 萬里風霜 我最妖嬌",
+      "spelling": "bān lí ê  bān lí siânn  bān lí siûnn bān lí ian bān lí hong-song guá siōng iau-kiau",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 164.53,
+      "online_text": "什麼款ㄟ殺氣 什麼款ㄟ角色 什麼款ㄟ梟雄 迫阮策馬墜風塵",
+      "match_text": "什麼款ㄟ殺氣 什麼款ㄟ角色 什麼款ㄟ梟雄 迫阮策馬墜風塵",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 175.15,
+      "online_text": "什麼款ㄟ愛情 什麼款ㄟ墜落 什麼款ㄟ溫柔 後阮日夜攏想你",
+      "match_text": "什麼款ㄟ愛情 什麼款ㄟ墜落 什麼款ㄟ溫柔 後阮日夜攏想你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 185.74,
+      "online_text": "很久以前 狼主的傳說 如今狼煙再起",
+      "match_text": "很久以前 狼主的傳說 如今狼煙再起",
+      "text": "很久以前 狼主的傳說 如今狼煙再起",
+      "spelling": "tsin-kú í-tsîng  lông tsú ê thuân-suat  lû-kim lông ian tsài-khí",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 194.6,
+      "online_text": "很久以前 狼主的傳說 如今狼煙再起",
+      "match_text": "很久以前 狼主的傳說 如今狼煙再起",
+      "text": "很久以前 狼主的傳說 如今狼煙再起",
+      "spelling": "tsin-kú í-tsîng  lông tsú ê thuân-suat  lû-kim lông ian tsài-khí",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 203.06,
+      "online_text": "啊 追 追 追 追著你ㄟ心 追著你ㄟ人 追著你ㄟ情 追著你",
+      "match_text": "啊 追 追 追 追著你ㄟ心 追著你ㄟ人 追著你ㄟ情 追著你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 211.77,
+      "online_text": "ㄟ無講理",
+      "match_text": "ㄟ無講理",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 215.01,
+      "online_text": "啊 煩 煩 煩 煩過這世人 心肝如蔥蔥 找無酒來澆",
+      "match_text": "啊 煩 煩 煩 煩過這世人 心肝如蔥蔥 找無酒來澆",
+      "text": "啊 煩 煩 煩 煩過這世人 心肝如蔥蔥 找無酒來澆",
+      "spelling": "ah huân huân huân huân kuè tsit-sì-lâng  sim-kuann lû tshang tshang  tshuē bô tsiú lâi ak",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 225.18,
+      "online_text": "嚥氣啦 麥擱那麼大聲對我說話",
+      "match_text": "嚥氣啦 麥擱那麼大聲對我說話",
+      "text": "嚥氣啦 麥擱那麼大聲對我說話",
+      "spelling": "iàn khì là  mái koh hiâ-nī tuā-siann tuì guá kóng-uē",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 234.95,
+      "online_text": "啊 亂 亂 亂 女人ㄟ心 豆腐做ㄟ 為你破碎 任由針底劃",
+      "match_text": "啊 亂 亂 亂 女人ㄟ心 豆腐做ㄟ 為你破碎 任由針底劃",
+      "text": "啊 亂 亂 亂 女人ㄟ心 豆腐做ㄟ 為你破碎 任由針底劃",
+      "spelling": "ah luān luān luān lú-lîn ê sim  tāu hú tsuè ê  uî lí phò-tshuì līm iû tsiam té ue̍h",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 245.51,
+      "online_text": "啊 追 追 追 追著你ㄟ心 追著你ㄟ人 追著你ㄟ情 追著你",
+      "match_text": "啊 追 追 追 追著你ㄟ心 追著你ㄟ人 追著你ㄟ情 追著你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 255.93,
+      "online_text": "ㄟ無講理",
+      "match_text": "ㄟ無講理",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 257.81,
+      "online_text": "啊 煩 煩 煩 煩過這世人 心肝如蔥蔥 找無酒來澆",
+      "match_text": "啊 煩 煩 煩 煩過這世人 心肝如蔥蔥 找無酒來澆",
+      "text": "啊 煩 煩 煩 煩過這世人 心肝如蔥蔥 找無酒來澆",
+      "spelling": "ah huân huân huân huân kuè tsit-sì-lâng  sim-kuann lû tshang tshang  tshuē bô tsiú lâi ak",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 267.67,
+      "online_text": "嚥氣啦 麥擱那麼大聲對我說話",
+      "match_text": "嚥氣啦 麥擱那麼大聲對我說話",
+      "text": "嚥氣啦 麥擱那麼大聲對我說話",
+      "spelling": "iàn khì là  mái koh hiâ-nī tuā-siann tuì guá kóng-uē",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 277.0,
+      "online_text": "啊 亂 亂 亂 女人ㄟ心 豆腐做ㄟ 為你破碎 任由針底劃",
+      "match_text": "啊 亂 亂 亂 女人ㄟ心 豆腐做ㄟ 為你破碎 任由針底劃",
+      "text": "啊 亂 亂 亂 女人ㄟ心 豆腐做ㄟ 為你破碎 任由針底劃",
+      "spelling": "ah luān luān luān lú-lîn ê sim  tāu hú tsuè ê  uî lí phò-tshuì līm iû tsiam té ue̍h",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 332.89,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "b54ea2be886f2f42701d7e71d5cdfd9e33e44102f933714da9c076963e88000f",
+    "manual": "38fc2d9ea2c456241b5fc8732ccb774d320cefafe678adcde32018e0688bdc31",
+    "timed": "af51053a13fd775e904f5e63d1a1ada42e0e8dd096af44408f445bb2e01661e2"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "candidates": [
+    {
+      "song_id": 3347320545,
+      "title": "无关爱情",
+      "artists": [
+        "陈彦沁"
+      ],
+      "album": "无关爱情",
+      "duration": 227.36,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1356096947,
+      "title": "无关爱情",
+      "artists": [
+        "如如"
+      ],
+      "album": "无关爱情",
+      "duration": 160.285,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2641137024,
+      "title": "无关爱情",
+      "artists": [
+        "刘铭沁"
+      ],
+      "album": "尝试跳跃",
+      "duration": 273.216,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3374957987,
+      "title": "无关爱情",
+      "artists": [
+        "love"
+      ],
+      "album": "小眼睛",
+      "duration": 79.505,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2122979225,
+      "title": "无关爱情",
+      "artists": [
+        "阿霞"
+      ],
+      "album": "罗刹",
+      "duration": 156.117,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1911244868,
+      "title": "无关爱情",
+      "artists": [
+        "啊里LinLin"
+      ],
+      "album": "九点半12",
+      "duration": 210.512,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3368015195,
+      "title": "无关爱情",
+      "artists": [
+        "天真"
+      ],
+      "album": "痛",
+      "duration": 89.361,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2631254461,
+      "title": "无关爱情",
+      "artists": [
+        "吴珍"
+      ],
+      "album": "熊熊的蜂蜜",
+      "duration": 203.28,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 248816,
+      "title": "无关爱情",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "甲你揽牢牢",
+      "duration": 243.0,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

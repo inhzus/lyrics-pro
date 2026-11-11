@@ -1,0 +1,232 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "鬧熱的 忠孝東路口",
+      "spelling": "lāu-jia̍t ê tiong-hàu tang-lōo kháu",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "無閒的 台北火車頭",
+      "spelling": "bô-îng ê Tâi-pak hué-tshia thâu",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "看袂著 輕鬆的笑容",
+      "spelling": "khuànn-buē-tio̍h khin-sang ê tshiò-iông",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "攏全人 台北攏全人",
+      "spelling": "lóng tsuân lâng Tâi-pak lóng tsuân lâng",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "我的心內彼個繁華的所在",
+      "spelling": "guá ê sim-lāi hit-ê huân-huâ ê sóo-tsāi",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "哪會每一個人像無熟似",
+      "spelling": "ná ē muí tsi̍t ê lâng tshiūnn bô si̍k-sāi",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "吵吵鬧鬧規工捙跋反",
+      "spelling": "tshá-tshá-nāu-nāu kui kang tshia-pua̍h-píng",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "這個所在毋是當初彼個所在",
+      "spelling": "tsit-ê sóo-tsāi m̄ sī tong-tshoo hit-ê sóo-tsāi",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "若唱著向前行 就想起故鄉啊",
+      "spelling": "ná tshiùnn-tio̍h hiòng-tsiân kiânn tio̍h siūnn-khí kòo-hiong ah",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "毋知當時才會出頭天 因為台北攏全人",
+      "spelling": "m̄ tsai tong-sî tsiah ē tshut-thâu-thinn in-uī Tâi-pak lóng tsuân lâng",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "有聽人咧講 中國有偌大",
+      "spelling": "ū thiann lâng teh kóng tiong-kok ū juā-tuā",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "少年人 會定定心驚惶",
+      "spelling": "siàu-liân-lâng ē tiānn-tiānn sim-kiann hiânn",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "離開故鄉 來台北拍拼",
+      "spelling": "lī-khui kòo-hiong lâi Tâi-pak phah-piànn",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "離開台北 流浪到北京",
+      "spelling": "lī-khui Tâi-pak liû-lōng kàu Pak-kiann",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "我的心內彼個繁華的所在",
+      "spelling": "guá ê sim-lāi hit-ê huân-huâ ê sóo-tsāi",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "哪會每一個人像無熟似",
+      "spelling": "ná ē muí tsi̍t ê lâng tshiūnn bô si̍k-sāi",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "吵吵鬧鬧規工捙跋反",
+      "spelling": "tshá-tshá-nāu-nāu kui kang tshia-pua̍h-píng",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "這個所在毋是當初彼個所在",
+      "spelling": "tsit-ê sóo-tsāi m̄ sī tong-tshoo hit-ê sóo-tsāi",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "無人欲留落來 逐家攏飛向西",
+      "spelling": "bô-lâng bē lâu-lo̍h-lâi ta̍k-ke lóng pue hiòng sai",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "總有一工我會出頭天 因為台北攏無人",
+      "spelling": "tsóng-ū tsi̍t king guá ē tshut-thâu-thinn in-uī Tâi-pak lóng bô-lâng",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "總有一工我會出頭天 因為台北攏無人",
+      "spelling": "tsóng-ū tsi̍t king guá ē tshut-thâu-thinn in-uī Tâi-pak lóng bô-lâng",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "攏無人 攏無人 我上敖",
+      "spelling": "lóng bô-lâng lóng bô-lâng guá siōng gau",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "攏無人 攏無人 我上敖",
+      "spelling": "lóng bô-lâng lóng bô-lâng guá siōng gau",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "攏無人 攏無人 我上敖",
+      "spelling": "lóng bô-lâng lóng bô-lâng guá siōng gau",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "攏無人",
+      "spelling": "lóng bô-lâng",
+      "source_lines": [
+        73,
+        74
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

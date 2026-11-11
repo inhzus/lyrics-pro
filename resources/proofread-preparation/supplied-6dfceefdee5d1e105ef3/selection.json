@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "song_id": "702818679",
+    "title": "摇婴仔歌",
+    "artists": [
+      "董事长乐团"
+    ],
+    "album": "真的假的",
+    "duration": 175.907,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:702818679",
+      "duration": 175.907,
+      "ready": false,
+      "coverage": 0.23076923076923078,
+      "exact_fraction": 0.0,
+      "summary": {
+        "unresolved": 10,
+        "approximate": 3
+      }
+    }
+  ]
+}

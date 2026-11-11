@@ -1,0 +1,225 @@
+{
+  "candidates": [
+    {
+      "song_id": 3357699977,
+      "title": "无眠",
+      "artists": [
+        "Semo"
+      ],
+      "album": "无眠",
+      "duration": 218.044,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3357700151,
+      "title": "无眠",
+      "artists": [
+        "Semo"
+      ],
+      "album": "无眠",
+      "duration": 218.044,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 482411788,
+      "title": "无眠",
+      "artists": [
+        "夏铜子"
+      ],
+      "album": "无眠",
+      "duration": 266.44,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2731004916,
+      "title": "无眠",
+      "artists": [
+        "高温蒸发"
+      ],
+      "album": "高温蒸发",
+      "duration": 141.479,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3445388765,
+      "title": "无眠",
+      "artists": [
+        "BOBOYOYO"
+      ],
+      "album": "无眠",
+      "duration": 240.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 276296,
+      "title": "无眠",
+      "artists": [
+        "毛阿敏"
+      ],
+      "album": "腔.调",
+      "duration": 131.214,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30500152,
+      "title": "无眠",
+      "artists": [
+        "Drkay"
+      ],
+      "album": "无眠",
+      "duration": 227.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1833799616,
+      "title": "无眠",
+      "artists": [
+        "钙世嘤嘤熊"
+      ],
+      "album": "无眠",
+      "duration": 253.498,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2143578237,
+      "title": "无眠",
+      "artists": [
+        "马木尔"
+      ],
+      "album": "无眠",
+      "duration": 328.206,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 482411788,
+      "title": "无眠",
+      "artists": [
+        "夏铜子"
+      ],
+      "album": "无眠",
+      "duration": 266.44,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3357699977,
+      "title": "无眠",
+      "artists": [
+        "Semo"
+      ],
+      "album": "无眠",
+      "duration": 218.044,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3357700151,
+      "title": "无眠",
+      "artists": [
+        "Semo"
+      ],
+      "album": "无眠",
+      "duration": 218.044,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2731004916,
+      "title": "无眠",
+      "artists": [
+        "高温蒸发"
+      ],
+      "album": "高温蒸发",
+      "duration": 141.479,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3445388765,
+      "title": "无眠",
+      "artists": [
+        "BOBOYOYO"
+      ],
+      "album": "无眠",
+      "duration": 240.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 276296,
+      "title": "无眠",
+      "artists": [
+        "毛阿敏"
+      ],
+      "album": "腔.调",
+      "duration": 131.214,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30500152,
+      "title": "无眠",
+      "artists": [
+        "Drkay"
+      ],
+      "album": "无眠",
+      "duration": 227.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1833799616,
+      "title": "无眠",
+      "artists": [
+        "钙世嘤嘤熊"
+      ],
+      "album": "无眠",
+      "duration": 253.498,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2143578237,
+      "title": "无眠",
+      "artists": [
+        "马木尔"
+      ],
+      "album": "无眠",
+      "duration": 328.206,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3357699977,
+      "title": "无眠",
+      "artists": [
+        "Semo"
+      ],
+      "album": "无眠",
+      "duration": 218.044,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1461735108",
+      "title": "无眠",
+      "artists": [
+        "苏打绿"
+      ],
+      "album": "夏 / 狂热",
+      "duration": 226.453,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

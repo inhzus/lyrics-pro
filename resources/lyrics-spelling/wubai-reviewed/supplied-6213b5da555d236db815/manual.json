@@ -1,0 +1,381 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "不知影有這久沒想到伊",
+      "spelling": "m̄ tsai-iánn ū tsia kú bô siūnn-tio̍h i",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "不知影有這久沒想到伊",
+          "spelling": "m̄ tsai-iánn ū tsia kú bô siūnn-tio̍h i"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "行到這條斷橋才知有這多年",
+      "spelling": "kiânn-kàu tsit tiâu tn̄g kiô tsiah tsai ū tsiah tsē nî",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "行到這條斷橋才知有這多年",
+          "spelling": "kiânn-kàu tsit tiâu tn̄g kiô tsiah tsai ū tsiah tsē nî"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "樹旋籐路發草溪還有水",
+      "spelling": "tshiū suân tîn lōo huat-tsháu khe iáu-ū tsuí",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "樹旋籐路發草溪還有水",
+          "spelling": "tshiū suân tîn lōo huat-tsháu khe iáu-ū tsuí"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "橋上伊的形影煞這袸來浮起",
+      "spelling": "kiô-tíng i ê hîng-iánn suah tsit tshûn lâi phû khí",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "橋上伊的形影煞這袸來浮起",
+          "spelling": "kiô-tíng i ê hîng-iánn suah tsit tshûn lâi phû khí"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "我好像那隻失去愛情的白鷺鷥",
+      "spelling": "guá hó-tshiūnn hit tsiah sit-khì ài-tsîng ê pe̍h-līng-si",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "我好像那隻失去愛情的白鷺鷥",
+          "spelling": "guá hó-tshiūnn hit tsiah sit-khì ài-tsîng ê pe̍h-līng-si"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "後悔沒說出那句話",
+      "spelling": "hiō-hué bô kóng-tshut hit kù-uē",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "後悔沒說出那句話",
+          "spelling": "hiō-hué bô kóng-tshut hit kù-uē"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "一直惦茫霧中飛過來飛過去",
+      "spelling": "it-ti̍t tiām bông-bū tiong pue kuè-lâi pue kuè-khì",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "一直惦茫霧中飛過來飛過去",
+          "spelling": "it-ti̍t tiām bông-bū tiong pue kuè-lâi pue kuè-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "這嘛沒伊　那嘛沒伊",
+      "spelling": "tsia ma bô i hiâ ma bô i",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "這嘛沒伊　那嘛沒伊",
+          "spelling": "tsia ma bô i hiâ ma bô i"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "嘸知伊甘有和我有同款的滋味",
+      "spelling": "m̄-tsai i kam ū hām guá ū kāng khuán ê tsu-bī",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "嘸知伊甘有和我有同款的滋味",
+          "spelling": "m̄-tsai i kam ū hām guá ū kāng khuán ê tsu-bī"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "假使來故事唯頭重行起",
+      "spelling": "ká-sú lâi kòo-sū duî thâu tîng kiânn-khì",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "假使來故事唯頭重行起",
+          "spelling": "ká-sú lâi kòo-sū duî thâu tîng kiânn-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "我沒離開故鄉你還在我身邊",
+      "spelling": "guá bô lī-khui kòo-hiong lí iā tī guá sin-pinn",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "我沒離開故鄉你還在我身邊",
+          "spelling": "guá bô lī-khui kòo-hiong lí iā tī guá sin-pinn"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "樹的青路的花橋下的水",
+      "spelling": "tshiū ê tshinn lōo ê hue kiô-kha ê tsuí",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "樹的青路的花橋下的水",
+          "spelling": "tshiū ê tshinn lōo ê hue kiô-kha ê tsuí"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "橋上的我要來對你說出我愛你",
+      "spelling": "kiô-tíng ê guá beh lâi tuì lí kóng-tshut guá ài lí",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "橋上的我要來對你說出我愛你",
+          "spelling": "kiô-tíng ê guá beh lâi tuì lí kóng-tshut guá ài lí"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "我好像那隻失去愛情的白鷺鷥",
+      "spelling": "guá hó-tshiūnn hit tsia sit-khì ài-tsîng ê pe̍h-līng-si",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "我好像那隻失去愛情的白鷺鷥",
+          "spelling": "guá hó-tshiūnn hit tsia sit-khì ài-tsîng ê pe̍h-līng-si"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "後悔沒說出那句話",
+      "spelling": "hiō-hué bô kóng-tshut hit kù-uē",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "後悔沒說出那句話",
+          "spelling": "hiō-hué bô kóng-tshut hit kù-uē"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "一直惦茫霧中飛過來飛過去",
+      "spelling": "it-ti̍t tiām bông-bū tiong pue kuè-lâi pue kuè-khì",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "一直惦茫霧中飛過來飛過去",
+          "spelling": "it-ti̍t tiām bông-bū tiong pue kuè-lâi pue kuè-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "放袂記伊　放伊袂去",
+      "spelling": "pàng buē kì i pàng i buē khì",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "放袂記伊　放伊袂去",
+          "spelling": "pàng buē kì i pàng i buē khì"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "嘸知伊甘有和我有同款的珠淚",
+      "spelling": "m̄-tsai i kam ū hām guá ū kāng khuán ê tsu-bī",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "嘸知伊甘有和我有同款的珠淚",
+          "spelling": "m̄-tsai i kam ū hām guá ū kāng khuán ê tsu-bī"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "我不願變做失去愛情的白鷺鷥",
+      "spelling": "guá m̄-guān piàn-tsuè sit-khì ài-tsîng ê pe̍h-līng-si",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "我不願變做失去愛情的白鷺鷥",
+          "spelling": "guá m̄-guān piàn-tsuè sit-khì ài-tsîng ê pe̍h-līng-si"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "我要來說出那句話",
+      "spelling": "guá beh lâi kóng-tshut hit kù-uē",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "我要來說出那句話",
+          "spelling": "guá beh lâi kóng-tshut hit kù-uē"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "那句話吞置咧心肝頭這多年",
+      "spelling": "hit kù-uē thun tì leh sim-kuann thâu tsiah tsē nî",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "那句話吞置咧心肝頭這多年",
+          "spelling": "hit kù-uē thun tì leh sim-kuann thâu tsiah tsē nî"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "一句我愛你　二句我愛你",
+      "spelling": "tsi̍t kù guá ài lí nn̄g kù guá ài lí",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "一句我愛你　二句我愛你",
+          "spelling": "tsi̍t kù guá ài lí nn̄g kù guá ài lí"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "我要對你說出千千萬萬我愛你",
+      "spelling": "guá beh tuì lí kóng-tshut tshian-tshian-bān-bān guá ài lí",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "我要對你說出千千萬萬我愛你",
+          "spelling": "guá beh tuì lí kóng-tshut tshian-tshian-bān-bān guá ài lí"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "一句我愛你　二句我愛你",
+      "spelling": "tsi̍t kù guá ài lí nn̄g kù guá ài lí",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "一句我愛你　二句我愛你",
+          "spelling": "tsi̍t kù guá ài lí nn̄g kù guá ài lí"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "我要對你說出千千萬萬我愛你",
+      "spelling": "guá beh tuì lí kóng-tshut tshian-tshian-bān-bān guá ài lí",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "我要對你說出千千萬萬我愛你",
+          "spelling": "guá beh tuì lí kóng-tshut tshian-tshian-bān-bān guá ài lí"
+        }
+      ]
+    }
+  ],
+  "repairs": [],
+  "notes": []
+}

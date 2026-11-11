@@ -1,0 +1,507 @@
+{
+  "recording_id": "netease:399367438",
+  "timing_source": "NetEase https://music.163.com/song?id=399367438",
+  "manual_source": "User-supplied resources/lyrics-spelling/來不及-夕陽武士",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 3,
+    "unresolved": 19,
+    "repeat": 16
+  },
+  "review_row_count": 19,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-13:0",
+    "line-19:0",
+    "line-28:0",
+    "line-43:0",
+    "line-49:0",
+    "line-58:0",
+    "line-61:0",
+    "line-70:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 黄圣峰",
+      "match_text": "作词 : 黄圣峰",
+      "text": "作词 : 黄圣峰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 王立",
+      "match_text": "作曲 : 王立",
+      "text": "作曲 : 王立",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "制作人 : 夕阳武士",
+      "match_text": "制作人 : 夕阳武士",
+      "text": "制作人 : 夕阳武士",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 3.0,
+      "online_text": "编曲人 : 夕阳武士",
+      "match_text": "编曲人 : 夕阳武士",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 4.0,
+      "online_text": "录音工程师 : 陈莹哲",
+      "match_text": "录音工程师 : 陈莹哲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 5.0,
+      "online_text": "混音工程师 : 陈莹哲",
+      "match_text": "混音工程师 : 陈莹哲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 18.01,
+      "online_text": "思念就亲像一阵阵雨",
+      "match_text": "思念就亲像一阵阵雨",
+      "text": "思念就親像一陣陣雨",
+      "spelling": "su-liām tio̍h tshin-tshiūnn tsi̍t tsūn tsūn hōo",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 22.34,
+      "online_text": "看无好天气毋知何时还会落",
+      "match_text": "看无好天气毋知何时还会落",
+      "text": "看無好天氣毋知何時還會落",
+      "spelling": "khuànn bô-hó thinn-khì m̄ tsai hô-sî koh ē lo̍h",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 35.2,
+      "online_text": "最近的心情起起落落",
+      "match_text": "最近的心情起起落落",
+      "text": "最近的心情起起落落",
+      "spelling": "tsuè-kīn ê sim-tsîng khí khí lo̍h lo̍h",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 39.41,
+      "online_text": "墙顶相片就亲像一场真长的梦",
+      "match_text": "墙顶相片就亲像一场真长的梦",
+      "text": "牆頂相片就親像一場真長的夢",
+      "spelling": "piah tíng siòng-phìnn tio̍h tshin-tshiūnn tsi̍t tiûnn tsin tn̂g ê bāng",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 52.32,
+      "online_text": "我也毋知是何时",
+      "match_text": "我也毋知是何时",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 56.67,
+      "online_text": "家己变甲无像家己",
+      "match_text": "家己变甲无像家己",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 61.35,
+      "online_text": "嘛无勇气 去改变家己",
+      "match_text": "嘛无勇气 去改变家己",
+      "text": "嘛無勇氣 去改變家己",
+      "spelling": "mā bô ióng-khì khì kái-piàn ka-kī",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 68.22,
+      "online_text": "你予我一个世界",
+      "match_text": "你予我一个世界",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 72.77,
+      "online_text": "我将伊囥咧心内",
+      "match_text": "我将伊囥咧心内",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 77.03,
+      "online_text": "你所讲过的话 拢找袂转来",
+      "match_text": "你所讲过的话 拢找袂转来",
+      "text": "你所講過的話 攏找袂轉來",
+      "spelling": "lí sóo kóng kuè ê uē lóng tshuē buē tńg-lâi",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 85.1,
+      "online_text": "真无力也真无奈",
+      "match_text": "真无力也真无奈",
+      "text": "真無力也真無奈",
+      "spelling": "tsin bô-la̍t iā tsin bô-nāi",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 89.77,
+      "online_text": "沉重的心石落大海",
+      "match_text": "沉重的心石落大海",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 97.19,
+      "online_text": "思念你无人知",
+      "match_text": "思念你无人知",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 116.76,
+      "online_text": "思念就亲像一阵阵雨",
+      "match_text": "思念就亲像一阵阵雨",
+      "text": "思念就親像一陣陣雨",
+      "spelling": "su-liām tio̍h tshin-tshiūnn tsi̍t tsūn tsūn hōo",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 121.05,
+      "online_text": "看无好天气毋知何时还会落",
+      "match_text": "看无好天气毋知何时还会落",
+      "text": "看無好天氣毋知何時還會落",
+      "spelling": "khuànn bô-hó thinn-khì m̄ tsai hô-sî koh ē lo̍h",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 133.56,
+      "online_text": "最近的心情起起落落",
+      "match_text": "最近的心情起起落落",
+      "text": "最近的心情起起落落",
+      "spelling": "tsuè-kīn ê sim-tsîng khí khí lo̍h lo̍h",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 138.13,
+      "online_text": "墙顶相片就亲像一场真长的梦",
+      "match_text": "墙顶相片就亲像一场真长的梦",
+      "text": "牆頂相片就親像一場真長的夢",
+      "spelling": "piah tíng siòng-phìnn tio̍h tshin-tshiūnn tsi̍t tiûnn tsin tn̂g ê bāng",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 150.94,
+      "online_text": "我也毋知是何时",
+      "match_text": "我也毋知是何时",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 155.19,
+      "online_text": "家己变甲无像家己",
+      "match_text": "家己变甲无像家己",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 159.9,
+      "online_text": "嘛无勇气 去改变家己",
+      "match_text": "嘛无勇气 去改变家己",
+      "text": "嘛無勇氣 去改變家己",
+      "spelling": "mā bô ióng-khì khì kái-piàn ka-kī",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 166.71,
+      "online_text": "你予我一个世界",
+      "match_text": "你予我一个世界",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 171.25,
+      "online_text": "我将伊囥咧心内",
+      "match_text": "我将伊囥咧心内",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 175.49,
+      "online_text": "你所讲过的话 拢找袂转来",
+      "match_text": "你所讲过的话 拢找袂转来",
+      "text": "你所講過的話 攏找袂轉來",
+      "spelling": "lí sóo kóng kuè ê uē lóng tshuē buē tńg-lâi",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 183.68,
+      "online_text": "真无力也真无奈",
+      "match_text": "真无力也真无奈",
+      "text": "真無力也真無奈",
+      "spelling": "tsin bô-la̍t iā tsin bô-nāi",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 188.28,
+      "online_text": "沉重的心石落大海",
+      "match_text": "沉重的心石落大海",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 195.63,
+      "online_text": "思念你无人知",
+      "match_text": "思念你无人知",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 226.82,
+      "online_text": "你予我一个世界",
+      "match_text": "你予我一个世界",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 231.24,
+      "online_text": "我将伊囥咧心内",
+      "match_text": "我将伊囥咧心内",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 235.5,
+      "online_text": "你所讲过的话 拢找袂转来",
+      "match_text": "你所讲过的话 拢找袂转来",
+      "text": "你所講過的話 攏找袂轉來",
+      "spelling": "lí sóo kóng kuè ê uē lóng tshuē buē tńg-lâi",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 243.68,
+      "online_text": "真无力也真无奈",
+      "match_text": "真无力也真无奈",
+      "text": "真無力也真無奈",
+      "spelling": "tsin bô-la̍t iā tsin bô-nāi",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 248.31,
+      "online_text": "沉重的心石落大海",
+      "match_text": "沉重的心石落大海",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 255.62,
+      "online_text": "思念你无人知",
+      "match_text": "思念你无人知",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "adeda01a631b38901c19819b81460264704877a337ceb3b3215e3d323b2df7e6",
+    "manual": "38e48323226ffec9705db45b5a441a796a0ae3a0638d63b8a4ac2e2ea74cb9dd",
+    "timed": "61ff4804cefdfc5f24f50a15cc54c692de408c1d7878595c15a232e877f95cdd"
+  }
+}

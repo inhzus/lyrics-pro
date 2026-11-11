@@ -1,0 +1,314 @@
+{
+  "recording_id": "netease:2706343919",
+  "timing_source": "NetEase https://music.163.com/song?id=2706343919",
+  "manual_source": "User-supplied resources/lyrics-spelling/蝦米態度-男子漢樂團",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 4,
+    "unresolved": 9,
+    "approximate": 6
+  },
+  "review_row_count": 15,
+  "unmatched_manual_ids": [
+    "line-49:0",
+    "line-55:0",
+    "line-61:0",
+    "line-64:0",
+    "line-67:0",
+    "line-70:0",
+    "line-73:0",
+    "line-76:0",
+    "line-79:0",
+    "line-82:0",
+    "line-85:0",
+    "line-88:0",
+    "line-91:0",
+    "line-94:0",
+    "line-121:0"
+  ],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-46:0",
+    "line-97:0",
+    "line-100:0",
+    "line-103:0",
+    "line-106:0",
+    "line-109:0",
+    "line-112:0",
+    "line-115:0",
+    "line-118:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 宏大/狗斌",
+      "match_text": "作词 : 宏大/狗斌",
+      "text": "作词 : 宏大/狗斌",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 宏大",
+      "match_text": "作曲 : 宏大",
+      "text": "作曲 : 宏大",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 33.39,
+      "online_text": "虾米态度",
+      "match_text": "虾米态度",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 34.5,
+      "online_text": "词：宏大／狗斌",
+      "match_text": "词：宏大／狗斌",
+      "text": "词：宏大／狗斌",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 4,
+      "time": 35.52,
+      "online_text": "曲：宏大",
+      "match_text": "曲：宏大",
+      "text": "曲：宏大",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 35.7,
+      "online_text": "今嘛你这是虾米行情 那会装的没大没小",
+      "match_text": "今嘛你这是虾米行情 那会装的没大没小",
+      "text": "今嘛你這細蝦米行情　那耶裝的沒大沒小",
+      "spelling": "tsit-má lí tse sè siánn-mih hâng-tsîng ké ka bô tuā bô sè",
+      "manual_id": "line-13:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.882353
+    },
+    {
+      "source_row": 6,
+      "time": 65.07,
+      "online_text": "是呒是赚了真多 把摇摆当作气势",
+      "match_text": "是呒是赚了真多 把摇摆当作气势",
+      "text": "是嘸是賺了真多　把搖擺當作趨勢",
+      "spelling": "sī m̄ sī thàn-liáu tsin tsē kā iô pái tòng-tsò khi-sè",
+      "manual_id": "line-16:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 7,
+      "time": 71.46,
+      "online_text": "今嘛你这是虾米态度 甲你多讲我就想欲吐",
+      "match_text": "今嘛你这是虾米态度 甲你多讲我就想欲吐",
+      "text": "今嘛你這細蝦米態度　跟你多講我就想欲吐",
+      "spelling": "tsit-má lí tsit sè siánn-mih thài-tōo kā lí kē kóng guá tio̍h siūnn-beh thóo",
+      "manual_id": "line-19:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 8,
+      "time": 87.81,
+      "online_text": "好歹照轮落魄命运 你这是虾米态度",
+      "match_text": "好歹照轮落魄命运 你这是虾米态度",
+      "text": "好歹照輪落魄命運　你這細蝦米態度",
+      "spelling": "hó pháinn tsiàu-lûn lo̍k-phik miā-ūn lí tse sī siánn-mih thài-tōo",
+      "manual_id": "line-22:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.933333
+    },
+    {
+      "source_row": 9,
+      "time": 102.45,
+      "online_text": "喔哦哦 喔哦哦 喔哦哦 你这是虾米态度",
+      "match_text": "喔哦哦 喔哦哦 喔哦哦 你这是虾米态度",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 116.97,
+      "online_text": "RAP：",
+      "match_text": "RAP：",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 122.01,
+      "online_text": "看高你没看低 心机这重你甘讲拢袂歹势",
+      "match_text": "看高你没看低 心机这重你甘讲拢袂歹势",
+      "text": "心機架重你甘講攏袂歹勢",
+      "spelling": "sim-ki tsiah tāng lí kam kóng bē pháinn-sè",
+      "manual_id": "line-52:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.714286
+    },
+    {
+      "source_row": 12,
+      "time": 158.67,
+      "online_text": "摇摇摆摆摆摆摇摇 拿钱压人这是虾米态度",
+      "match_text": "摇摇摆摆摆摆摇摇 拿钱压人这是虾米态度",
+      "text": "拿錢壓人這是蝦米態度",
+      "spelling": "the̍h tsînn ah lâng tse sī siánn-mih thài-tōo",
+      "manual_id": "line-58:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.714286
+    },
+    {
+      "source_row": 13,
+      "time": 162.27,
+      "online_text": "可怜之人有可恶之处 仗势欺人杀人放火",
+      "match_text": "可怜之人有可恶之处 仗势欺人杀人放火",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 164.91,
+      "online_text": "夜路行多呒惝后悔 后悔才来恨天恨地",
+      "match_text": "夜路行多呒惝后悔 后悔才来恨天恨地",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 169.71,
+      "online_text": "人甲人做夥之间 搏心搏情兼搏关系",
+      "match_text": "人甲人做夥之间 搏心搏情兼搏关系",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 173.46,
+      "online_text": "哪没朋友甲阮交陪 活伫世间人生是黑白",
+      "match_text": "哪没朋友甲阮交陪 活伫世间人生是黑白",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 177.21,
+      "online_text": "我讲到嘴角全泡 你到底是吸收多少",
+      "match_text": "我讲到嘴角全泡 你到底是吸收多少",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 180.54,
+      "online_text": "左边听过右边放臭屁 你这是虾米态度",
+      "match_text": "左边听过右边放臭屁 你这是虾米态度",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "d6337235571e694fb682f303dc0e8ec0e2114e43340149971899fa0bf2710a0d",
+    "manual": "323c2bd5cde8480b1a8d6b0991014aac40bc9537d8e6abd20c88610726265290",
+    "timed": "357393d1c0a3e27c713ef654f8f449272a3c6dcb7499f5d95fa7951b65ccc4c6"
+  }
+}

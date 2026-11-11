@@ -1,0 +1,310 @@
+{
+  "recording_id": "netease:157183",
+  "timing_source": "NetEase https://music.163.com/song?id=157183",
+  "manual_source": "User-supplied resources/lyrics-spelling/徘徊夜都市-伍佰",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 3,
+    "approximate": 5,
+    "unresolved": 7,
+    "exact": 2,
+    "repeat": 3
+  },
+  "review_row_count": 14,
+  "unmatched_manual_ids": [
+    "line-3:0",
+    "line-9:0",
+    "line-9:1",
+    "line-21:0",
+    "line-57:0"
+  ],
+  "unused_repeat_ids": [
+    "line-27:0",
+    "line-27:1",
+    "line-30:0",
+    "line-30:1",
+    "line-33:0",
+    "line-33:1",
+    "line-39:0",
+    "line-39:1",
+    "line-42:0",
+    "line-42:1",
+    "line-45:0",
+    "line-45:1"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 伍佰",
+      "match_text": "作词 : 伍佰",
+      "text": "作词 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 伍佰",
+      "match_text": "作曲 : 伍佰",
+      "text": "作曲 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "编曲 : 伍佰 & China Blue",
+      "match_text": "编曲 : 伍佰 & China Blue",
+      "text": "编曲 : 伍佰 & China Blue",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 44.79,
+      "online_text": "是你来反悖　我的爱和癡迷",
+      "match_text": "是你来反悖　我的爱和癡迷",
+      "text": "我的愛和癡迷",
+      "spelling": "guá ê ài kah tshi bê",
+      "manual_id": "line-3:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.705882
+    },
+    {
+      "source_row": 4,
+      "time": 58.18,
+      "online_text": "才害我坠落你的陷阱为你付出一切",
+      "match_text": "才害我坠落你的陷阱为你付出一切",
+      "text": "才害我墜落妳的陷阱為你付出一切",
+      "spelling": "tsiah hāi guá tuī-lo̍h lí ê hām-tsínn uî lí hù-tshut it-tshè",
+      "manual_id": "line-6:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.933333
+    },
+    {
+      "source_row": 5,
+      "time": 65.26,
+      "online_text": "我不应该　搁在贪恋美丽",
+      "match_text": "我不应该　搁在贪恋美丽",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 71.06,
+      "online_text": "野蝴蝶嘛会坠落花下随土飞",
+      "match_text": "野蝴蝶嘛会坠落花下随土飞",
+      "text": "野蝴蝶嘛會墜落花下隨土飛",
+      "spelling": "iá ôo-tia̍p mah ē tuī-lo̍h hue hā suî thóo pue",
+      "manual_id": "line-12:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 80.58,
+      "online_text": "要安怎来放袂记你的温柔",
+      "match_text": "要安怎来放袂记你的温柔",
+      "text": "要安怎來放袂記妳的溫柔",
+      "spelling": "beh an-tsuánn lâi pàng buē kì lí ê un-jiû",
+      "manual_id": "line-15:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 8,
+      "time": 86.1,
+      "online_text": "阮犹原相信你是真心分担我的忧愁",
+      "match_text": "阮犹原相信你是真心分担我的忧愁",
+      "text": "阮猶原相信妳是真心分擔我的憂愁",
+      "spelling": "gún iu-guân siong-sìn lí sī tsin-sim hun-tam guá ê iu-tshiû",
+      "manual_id": "line-18:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.933333
+    },
+    {
+      "source_row": 9,
+      "time": 93.27,
+      "online_text": "离乡的我　不是不曾孤独",
+      "match_text": "离乡的我　不是不曾孤独",
+      "text": "不是不曾孤獨",
+      "spelling": "m̄ sī m̄ pat koo ta̍k",
+      "manual_id": "line-21:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 10,
+      "time": 99.2,
+      "online_text": "只是没想到爱和恨悔这呢靠",
+      "match_text": "只是没想到爱和恨悔这呢靠",
+      "text": "只是沒想到愛和恨悔這呢靠",
+      "spelling": "tsí-sī bô-siūnn-tio̍h ài kah hūn hué tsia nî uá",
+      "manual_id": "line-24:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 108.16,
+      "online_text": "啊夜都市的徘徊蓝色的霓虹灯闪烁着目屎",
+      "match_text": "啊夜都市的徘徊蓝色的霓虹灯闪烁着目屎",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 120.79,
+      "online_text": "啊一心的期待　是不是你咱会冻不曾熟识",
+      "match_text": "啊一心的期待　是不是你咱会冻不曾熟识",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 134.39,
+      "online_text": "面前的路　罩着茫茫雾海",
+      "match_text": "面前的路　罩着茫茫雾海",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 140.89,
+      "online_text": "我冷冷清清这条路上无人知",
+      "match_text": "我冷冷清清这条路上无人知",
+      "text": "我冷冷清清這條路上無人知",
+      "spelling": "guá líng líng tshing tshing tsit-tiâu-lōo siōng bô-lâng tsai",
+      "manual_id": "line-36:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 177.49,
+      "online_text": "啊夜都市的徘徊蓝色的霓虹灯闪烁着目屎",
+      "match_text": "啊夜都市的徘徊蓝色的霓虹灯闪烁着目屎",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 190.46,
+      "online_text": "啊一心的期待　是不是你咱会冻不曾熟识",
+      "match_text": "啊一心的期待　是不是你咱会冻不曾熟识",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 209.27,
+      "online_text": "面前的路　罩着茫茫雾海",
+      "match_text": "面前的路　罩着茫茫雾海",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 214.64,
+      "online_text": "我冷冷清清这条路上无人知",
+      "match_text": "我冷冷清清这条路上无人知",
+      "text": "我冷冷清清這條路上無人知",
+      "spelling": "guá líng líng tshing tshing tsit-tiâu-lōo siōng bô-lâng tsai",
+      "manual_id": "line-36:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 221.28,
+      "online_text": "我冷冷清清走在路上无人知",
+      "match_text": "我冷冷清清走在路上无人知",
+      "text": "我冷冷清清走在路上無人知",
+      "spelling": "guá líng líng tshing tshing tsit-tiâu-lōo siōng bô-lâng tsai",
+      "manual_id": "line-48:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "6bb0cc852edba700da205a5342f6faa21eeb79fde9e6ca4ba639ecf53311d9c2",
+    "manual": "d3fb431b8a800b652ba641922a7ea49b73a677668d178057e3b8060d3aca4aa3",
+    "timed": "c1e229ffdb5492783a3724d0fd822a2f65a3e31d60ebd5a0c9284451e237416c"
+  }
+}

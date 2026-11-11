@@ -1,0 +1,200 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "風雨聲音擾亂秋夜靜　                                        時常聽見蚯蚓哮悲情",
+      "spelling": "hong-ú siann-im jiáu-luān tshiu iān tsīng    sî siông thiann-kìnn thôo-ún hau pi-tsîng",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "風雨聲音擾亂秋夜靜",
+          "spelling": "hong-ú siann-im jiáu-luān tshiu iān tsīng"
+        },
+        {
+          "text": "時常聽見蚯蚓哮悲情",
+          "spelling": "sî siông thiann-kìnn thôo-ún hau pi-tsîng"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "引阮思鄉不知雨水冷　                                  自恨自嘆幸福未完成",
+      "spelling": "ín gún su-hiong m̄ tsai hōo-tsuí líng        tsū hūn tsū thàn hīng-hok bē uân-sîng",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "引阮思鄉不知雨水冷",
+          "spelling": "ín gún su-hiong m̄ tsai hōo-tsuí líng"
+        },
+        {
+          "text": "自恨自嘆幸福未完成",
+          "spelling": "tsū hūn tsū thàn hīng-hok bē uân-sîng"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "啊………前途茫茫　                             宛然失光明",
+      "spelling": "ah . . . . . . tsiân-tôo bâng bâng        uán-liân sit kong-bîng",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "啊………",
+          "spelling": "ah . . . . . ."
+        },
+        {
+          "text": "前途茫茫",
+          "spelling": "tsiân-tôo bâng bâng"
+        },
+        {
+          "text": "宛然失光明",
+          "spelling": "uán-liân sit kong-bîng"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "希望純情結成好鴛鴦　                                      無疑環境阻礙阮自由",
+      "spelling": "hi-bāng sûn-tsîng kiat-sîng hó uan-iunn    bô-gî khuân-kíng tsóo-gāi gún tsū-iû",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "希望純情結成好鴛鴦",
+          "spelling": "hi-bāng sûn-tsîng kiat-sîng hó uan-iunn"
+        },
+        {
+          "text": "無疑環境阻礙阮自由",
+          "spelling": "bô-gî khuân-kíng tsóo-gāi gún tsū-iû"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "秋風夜雨也無替阮想　                                      那通歸暝迫阮添憂愁",
+      "spelling": "tshiu hong iā hōo iā bô thè gún siūnn        nà thàng kui-mî pik gún thiam iu-tshiû",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "秋風夜雨也無替阮想",
+          "spelling": "tshiu hong iā hōo iā bô thè gún siūnn"
+        },
+        {
+          "text": "那通歸暝迫阮添憂愁",
+          "spelling": "nà thàng kui-mî pik gún thiam iu-tshiû"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "啊………思思唸唸　                        一日如三秋",
+      "spelling": "ah . . . . . .su su liām liām            it ji̍t lû sann tshiu",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "啊………",
+          "spelling": "ah . . . . . ."
+        },
+        {
+          "text": "思思唸唸",
+          "spelling": "su su liām liām"
+        },
+        {
+          "text": "一日如三秋",
+          "spelling": "it ji̍t lû sann tshiu"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "秋風夜雨也無替阮想　                                    那通歸暝迫阮添憂愁",
+      "spelling": "tshiu hong iā hōo iā bô thè gún siūnn        nà thàng kui-mî pik gún thiam iu-tshiû",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "秋風夜雨也無替阮想",
+          "spelling": "tshiu hong iā hōo iā bô thè gún siūnn"
+        },
+        {
+          "text": "那通歸暝迫阮添憂愁",
+          "spelling": "nà thàng kui-mî pik gún thiam iu-tshiû"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "啊………思思唸唸　                        一日如三秋",
+      "spelling": "ah . . . . . .su su liām liām            it ji̍t lû sann tshiu",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "啊………",
+          "spelling": "ah . . . . . ."
+        },
+        {
+          "text": "思思唸唸",
+          "spelling": "su su liām liām"
+        },
+        {
+          "text": "一日如三秋",
+          "spelling": "it ji̍t lû sann tshiu"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "一日如三秋                 一日如三秋                     一日如三秋",
+      "spelling": "it ji̍t lû sann tshiu    it ji̍t lû sann tshiu        it ji̍t lû sann tshiu",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "一日如三秋",
+          "spelling": "it ji̍t lû sann tshiu"
+        },
+        {
+          "text": "一日如三秋",
+          "spelling": "it ji̍t lû sann tshiu"
+        },
+        {
+          "text": "一日如三秋",
+          "spelling": "it ji̍t lû sann tshiu"
+        }
+      ]
+    }
+  ],
+  "repairs": [
+    {
+      "line": 22,
+      "before": "tshiu hong iā hōo í-king sī tshiu-hun",
+      "after": "tshiu hong iā hōo iā bô thè gún siūnn",
+      "evidence": "Identical Chinese line in first occurrence supplies this complete reading."
+    }
+  ],
+  "notes": []
+}

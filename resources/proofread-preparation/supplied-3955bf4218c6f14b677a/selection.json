@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 2706343920,
+    "title": "超级掰歌",
+    "artists": [
+      "男子汉乐团"
+    ],
+    "album": "我是男子汉",
+    "duration": 145.866,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:2706343920",
+      "duration": 145.866,
+      "ready": false,
+      "coverage": 0.35570469798657717,
+      "exact_fraction": 0.125,
+      "summary": {
+        "credit": 2,
+        "unresolved": 10,
+        "repeat": 2,
+        "approximate": 4
+      }
+    }
+  ]
+}

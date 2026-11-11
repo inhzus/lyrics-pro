@@ -1,0 +1,232 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "(男)有一種心酸叫作命　一種無奈叫作伴",
+      "spelling": "ū tsi̍t tsióng sim-sng kiò tsuè miā tsi̍t tsióng bô-nāi kiò tsuè phuānn",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "日頭彼大　猶原會落山",
+      "spelling": "li̍t-thâu hiah tuā iû-guân ē lo̍h-suann",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "(女)甘願等你等甲心疼痛　愛你愛甲無性命",
+      "spelling": "kam-guān tán lí tán kā sim thàng-thiànn ài lí ài kā bô sìnn-miā",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "癡情兌換　一領冷被單",
+      "spelling": "tshi-tsîng tuī-uānn tsi̍t niá líng phuē-tuann",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "(女)感情哪像魚無水袂活",
+      "spelling": "kám-tsîng ná tshiūnn hî bô-tsuí bē ua̍h",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "愛著啊　痛嘛無算啥",
+      "spelling": "ài-tio̍h ah thiànn mā bô sǹg siánn",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "(合)希望從今以後你和我",
+      "spelling": "hi-bāng tsiông kim í-āu lí kā guá",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "免咀咒　到老嘛袂變卦",
+      "spelling": "bián tsiù-tsuā kàu láu mā buē piàn-kuà",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "(男)有一種決心叫作愛　一種夢叫作等待",
+      "spelling": "ū tsi̍t tsióng kuat-sim kiò tsuè ài tsi̍t tsióng bāng kiò tsuè tán-thāi",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "望你將我　永遠放心內",
+      "spelling": "bāng lí tsiong guá íng-uán khǹg sim-lāi",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "(女)不怕風雨牽手作陣走　愛是越磨心越定",
+      "spelling": "m̄-kiann hong-hōo khan-tshiú tsuè tīn kiânn ài sī lú buâ sim lú tīng",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "石頭會爛　情火打袂熄",
+      "spelling": "tsio̍h-thâu ē nuā tsîng hué phah buē hua",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "(女)往事哪像風箏打斷線",
+      "spelling": "óng-sū ná tshiūnn hong-tshue phah-tn̄g suànn",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "飛遠啊　追嘛無卡較",
+      "spelling": "pue hn̄g ah jiok mā bô kha̍h tsuah",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "(合)希望從今以後你和我",
+      "spelling": "hi-bāng tsiông kim í-āu lí kā guá",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "免咀咒　到老嘛袂變卦",
+      "spelling": "bián tsiù-tsuā kàu láu mā buē piàn-kuà",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "(合)有一種心酸叫作命　一種無奈叫作伴",
+      "spelling": "kam-guān tán lí tán kā sim thàng-thiànn ài lí ài kā bô sìnn-miā",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "日頭彼大　猶原會落山",
+      "spelling": "li̍t-thâu hiah tuā iû-guân ē lo̍h-suann",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "(女)甘願等你等甲心疼痛　愛你愛甲無性命",
+      "spelling": "kam-guān tán lí tán kā sim thàng-thiànn ài lí ài kā bô sìnn-miā",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "(男)甘願等你等甲心疼痛　愛你愛甲無性命",
+      "spelling": "kam-guān tán lí tán kā sim thàng-thiànn ài lí ài kā bô sìnn-miā",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "(女)癡情兌換　(合)一領冷被單",
+      "spelling": "tshi-tsîng tuī-uānn tsi̍t niá líng phuē-tuann",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "(合)感情哪像魚無水袂活　愛著啊　痛嘛無算啥",
+      "spelling": "kám-tsîng ná tshiūnn hî bô-tsuí bē ua̍h ài-tio̍h ah thiànn mā bô sǹg siánn",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "希望從今以後你和我　免咀咒　到老嘛袂變卦",
+      "spelling": "hi-bāng tsiông kim í-āu lí kā guá bián tsiù-tsuā kàu láu mā buē piàn-kuà",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "(合)往事哪像風箏打斷線　飛遠啊　追嘛無卡較",
+      "spelling": "óng-sū ná tshiūnn hong-tshue phah-tn̄g suànn pue hn̄g ah jiok mā bô kha̍h tsuah",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "希望從今以後你和我　免咀咒　到老嘛袂變卦",
+      "spelling": "hi-bāng tsiông kim í-āu lí kā guá bián tsiù-tsuā kàu láu mā buē piàn-kuà",
+      "source_lines": [
+        73,
+        74
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

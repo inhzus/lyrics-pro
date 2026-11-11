@@ -1,0 +1,30 @@
+{
+  "selected": {
+    "song_id": 490182973,
+    "title": "赤焰",
+    "artists": [
+      "Ripple"
+    ],
+    "album": "袂开的花",
+    "duration": 321.097,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:490182973",
+      "duration": 321.097,
+      "ready": false,
+      "coverage": 0.5,
+      "exact_fraction": 0.42857142857142855,
+      "summary": {
+        "credit": 2,
+        "repeat": 10,
+        "unresolved": 14,
+        "exact": 2,
+        "approximate": 2,
+        "gap": 4
+      }
+    }
+  ]
+}

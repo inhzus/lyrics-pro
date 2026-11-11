@@ -1,0 +1,41 @@
+{
+  "recording_id": "lrcapi:1753653086",
+  "source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E5%8F%B0%E5%8D%81%E4%B8%83&artist=%E6%8B%8D%E8%AC%9D%E5%B0%91%E5%B9%B4&album=%E6%B5%B7%E5%8F%A3%E5%91%B3#1753653086",
+  "lines": [
+    {
+      "time": 56.06,
+      "text": "每工早起的時陣 若來看著你的朋友啊",
+      "kind": "lyric"
+    },
+    {
+      "time": 60.8,
+      "text": "敢會輕鬆寡",
+      "kind": "lyric"
+    },
+    {
+      "time": 62.96,
+      "text": "是按怎我的生活齷齪 心情不時沉重",
+      "kind": "lyric"
+    },
+    {
+      "time": 67.03,
+      "text": "嘛不願共你講",
+      "kind": "lyric"
+    },
+    {
+      "time": 70.1,
+      "text": "轉去過去的海岸 才知影都市的生活咱是袂扭掠",
+      "kind": "lyric"
+    },
+    {
+      "time": 77.05,
+      "text": "是我青春幼稚痟眠夢 大聲喝朋友啊",
+      "kind": "lyric"
+    },
+    {
+      "time": 81.74,
+      "text": "咱著輕鬆活啊",
+      "kind": "lyric"
+    }
+  ]
+}

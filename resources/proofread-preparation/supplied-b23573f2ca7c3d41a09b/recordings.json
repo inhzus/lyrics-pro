@@ -1,0 +1,340 @@
+{
+  "candidates": [
+    {
+      "song_id": 1844149003,
+      "title": "噩梦",
+      "artists": [
+        "TizzyT"
+      ],
+      "album": "Tizzy T",
+      "duration": 198.391,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1391252896,
+      "title": "噩梦",
+      "artists": [
+        "TizzyT"
+      ],
+      "album": "噩梦",
+      "duration": 198.357,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3312623222,
+      "title": "噩梦",
+      "artists": [
+        "APMOZART"
+      ],
+      "album": "赢家圈子",
+      "duration": 148.396,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2674425127,
+      "title": "噩梦",
+      "artists": [
+        "KM LYK"
+      ],
+      "album": "噩梦",
+      "duration": 139.636,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3421832865,
+      "title": "噩梦",
+      "artists": [
+        "伤心",
+        "ly308",
+        "借口",
+        "风流"
+      ],
+      "album": "7",
+      "duration": 14.615,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2033167495,
+      "title": "噩梦",
+      "artists": [
+        "leomantic"
+      ],
+      "album": "新生",
+      "duration": 185.016,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3360104117,
+      "title": "噩梦",
+      "artists": [
+        "鸣潮先约电台",
+        "Koimoon"
+      ],
+      "album": "若期待鎏金",
+      "duration": 88.75,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2615919517,
+      "title": "噩梦",
+      "artists": [
+        "沈学风.硕果",
+        "-ET-"
+      ],
+      "album": "雪子十二支",
+      "duration": 139.294,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1762044720",
+      "title": "噩梦",
+      "artists": [
+        "沈学风.硕果 & -ET-"
+      ],
+      "album": "雪子十二支",
+      "duration": 139.295,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "299032909",
+      "title": "噩梦",
+      "artists": [
+        "麻吉弟弟"
+      ],
+      "album": "Oh My",
+      "duration": 238.867,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1807651477",
+      "title": "噩梦",
+      "artists": [
+        "鱼小摸"
+      ],
+      "album": "隔壁",
+      "duration": 138.082,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1742165236",
+      "title": "噩梦",
+      "artists": [
+        "DreamBeach梦想海滩, REEBX & 周夏影"
+      ],
+      "album": "噩梦 - Single",
+      "duration": 216.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1473780641",
+      "title": "噩梦",
+      "artists": [
+        "雷同二友"
+      ],
+      "album": "噩梦 - Single",
+      "duration": 213.683,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1478869850",
+      "title": "噩梦",
+      "artists": [
+        "雷同二友"
+      ],
+      "album": "METABOLISM - EP",
+      "duration": 208.665,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1761761146",
+      "title": "噩梦",
+      "artists": [
+        "瘦恒SoulHan & 精气神制作"
+      ],
+      "album": "噩梦 - Single",
+      "duration": 171.189,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1807022314",
+      "title": "噩梦",
+      "artists": [
+        "瘦恒SOULHAN & 精气神制作"
+      ],
+      "album": "噩梦 - Single",
+      "duration": 171.189,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1762044720",
+      "title": "噩梦",
+      "artists": [
+        "沈学风.硕果 & -ET-"
+      ],
+      "album": "雪子十二支",
+      "duration": 139.295,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "299032909",
+      "title": "噩梦",
+      "artists": [
+        "麻吉弟弟"
+      ],
+      "album": "Oh My",
+      "duration": 238.867,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1807651477",
+      "title": "噩梦",
+      "artists": [
+        "鱼小摸"
+      ],
+      "album": "隔壁",
+      "duration": 138.082,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1742165236",
+      "title": "噩梦",
+      "artists": [
+        "DreamBeach梦想海滩, REEBX & 周夏影"
+      ],
+      "album": "噩梦 - Single",
+      "duration": 216.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1473780641",
+      "title": "噩梦",
+      "artists": [
+        "雷同二友"
+      ],
+      "album": "噩梦 - Single",
+      "duration": 213.683,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1478869850",
+      "title": "噩梦",
+      "artists": [
+        "雷同二友"
+      ],
+      "album": "METABOLISM - EP",
+      "duration": 208.665,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1761761146",
+      "title": "噩梦",
+      "artists": [
+        "瘦恒SoulHan & 精气神制作"
+      ],
+      "album": "噩梦 - Single",
+      "duration": 171.189,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1807022314",
+      "title": "噩梦",
+      "artists": [
+        "瘦恒SOULHAN & 精气神制作"
+      ],
+      "album": "噩梦 - Single",
+      "duration": 171.189,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 8274057,
+      "title": "噩梦",
+      "artists": [
+        "Tizzy T"
+      ],
+      "album": "Tizzy T",
+      "duration": 198.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 8274058,
+      "title": "噩梦",
+      "artists": [
+        "Tizzy T"
+      ],
+      "album": "噩梦",
+      "duration": 198.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 32337251,
+      "title": "噩梦",
+      "artists": [
+        "TizzyT"
+      ],
+      "album": "3:19",
+      "duration": 198.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 23251715,
+      "title": "噩梦",
+      "artists": [
+        "TizzyT"
+      ],
+      "album": "Tizzy T",
+      "duration": 198.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 36296652,
+      "title": "噩梦",
+      "artists": [
+        "TizzyT"
+      ],
+      "album": "Tizzy T",
+      "duration": 20.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 34475758,
+      "title": "噩梦",
+      "artists": [
+        "TizzyT"
+      ],
+      "album": "Tizzy T",
+      "duration": 249.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,382 @@
+{
+  "schema_version": 1,
+  "id": "supplied-986c502c66ae02629a09",
+  "revision": "1",
+  "title": "汝是我的心肝",
+  "title_aliases": [
+    "汝是我的心肝(Live)"
+  ],
+  "artist": "伍佰",
+  "album": "忘情1015精选辑",
+  "duration": 298.657959,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰/王武雄    作曲：伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "lrclib:15303180",
+    "timing_source": "LRCLIB https://lrclib.net/api/get/15303180",
+    "manual_source": "resources/lyrics-spelling/汝是我的心肝-伍佰",
+    "audio_verified": false,
+    "agent_review": "Repair two inline lyric/reading pairs. LRCLIB 15303180 includes the 嗚 interlude missing from NetEase. Preserve the first 讓我 and final shortened 就算海水 chorus wording in sequence.",
+    "input_sha256": {
+      "original": "d40b460d17c888e00a6759dfcd455c33202e4f57fb4225bb83cccdbde89a6661",
+      "manual": "b6d5b4b633f206b1288d84923c3c0c05385bae7fb40b219cc5eebe2cc85e2db8",
+      "timed": "f6e8801d1ed88207d1a656471cb0e7efb06853233fbabf680cc14ef5da22196d"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "exact": 20,
+      "approximate": 8,
+      "gap": 1
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0.6,
+        "online_text": "你是我的心肝",
+        "status": "exact",
+        "text": "你是我的心肝",
+        "spelling": "lí sī guá ê sim-kuann",
+        "manual_id": "line-25:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 15.15,
+        "online_text": "最近的夜暝 我定定會爬起床",
+        "status": "exact",
+        "text": "最近的夜暝 我定定會爬起床",
+        "spelling": "tsuè-kīn ê àm mî guá tiānn tiānn ē khí-tshn̂g",
+        "manual_id": "line-3:0+line-3:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 23.94,
+        "online_text": "目睭金金看你看到天光",
+        "status": "exact",
+        "text": "目睭金金看你看到天光",
+        "spelling": "ba̍k-tsiu kim kim khuànn lí khuànn-kàu thinn-kng",
+        "manual_id": "line-5:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 32.34,
+        "online_text": "你困的真甜 笑容是彼呢單純",
+        "status": "approximate",
+        "text": "你睏的真甜 笑容是彼呢單純",
+        "spelling": "lí khùn gah tsin tinn tshiò-iông sī hia nî tan-sûn",
+        "manual_id": "line-8:0+line-8:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 41.24,
+        "online_text": "溫暖的愛一時煞充滿心門",
+        "status": "exact",
+        "text": "溫暖的愛一時煞充滿心門",
+        "spelling": "un-luán ê ài tsi̍t sî suah tshiong-buán sim mn̂g",
+        "manual_id": "line-11:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 52.44,
+        "online_text": "真希望能夠 永遠甲你作伴",
+        "status": "exact",
+        "text": "真希望能夠 永遠甲你作伴",
+        "spelling": "tsin hi-bāng ē-tàng íng-uán kah lí tsuè phuānn",
+        "manual_id": "line-13:0+line-13:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 60.98,
+        "online_text": "輕輕松松唱咱快樂的歌",
+        "status": "approximate",
+        "text": "輕輕鬆鬆唱咱快樂的歌",
+        "spelling": "khin khin sang sang tshiùnn lán khuài-lo̍k ē kua",
+        "manual_id": "line-16:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 69.84,
+        "online_text": "人生的路上 總有坎坷的路愛行",
+        "status": "exact",
+        "text": "人生的路上 總有坎坷的路愛行",
+        "spelling": "lîn-sing ē lōo-siōng tsóng ū khám-khia̍t ē lōo ài kiânn",
+        "manual_id": "line-19:0+line-19:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 78.52,
+        "online_text": "不免煩惱 我是你的靠山",
+        "status": "exact",
+        "text": "不免煩惱 我是你的靠山",
+        "spelling": "m̄ bián huân-ló guá sī lí ē khò-suann",
+        "manual_id": "line-22:0+line-22:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 88.57,
+        "online_text": "不管風雨有多大 你是我的心肝",
+        "status": "exact",
+        "text": "不管風雨有多大 你是我的心肝",
+        "spelling": "m̄ kuán hong hōo ū juā-tuā lí sī guá ê sim-kuann",
+        "manual_id": "line-25:0+line-25:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 96.72,
+        "online_text": "有我陪伴你 你永遠不會孤單",
+        "status": "approximate",
+        "text": "讓我陪伴你 你永遠不會孤單",
+        "spelling": "hōo guá puê-phuānn lí lí íng-uán buē koo-tuann",
+        "manual_id": "line-28:0+line-28:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 105.02,
+        "online_text": "就算講海水嘛會幹 你也是我的心肝",
+        "status": "approximate",
+        "text": "就算講海水嘛會乾 你也是我的心肝",
+        "spelling": "tō-sǹg kóng hái-tsuí mah ē kuann lí iā-sī guá ê sim-kuann",
+        "manual_id": "line-31:0+line-31:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 113.94,
+        "online_text": "無人可比 一生一世 最愛你的是我",
+        "status": "exact",
+        "text": "無人可比 一生一世 最愛你的是我",
+        "spelling": "bô-lâng khó-pí it-sing it-sè siōng ài lí ê sī guá",
+        "manual_id": "line-61:0+line-61:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 125.66,
+        "online_text": "嗚 嗚 嗚 嗚",
+        "status": "approximate",
+        "text": "嗚~嗚~~~~~~",
+        "spelling": "oo~oo~~~~~~",
+        "manual_id": "line-37:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 160.57,
+        "online_text": "真希望能夠 永遠甲你作伴",
+        "status": "exact",
+        "text": "真希望能夠 永遠甲你作伴",
+        "spelling": "tsin hi-bāng ē-tàng íng-uán kah lí tsuè phuānn",
+        "manual_id": "line-40:0+line-40:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 169.39,
+        "online_text": "輕輕松松唱咱快樂的歌",
+        "status": "approximate",
+        "text": "輕輕鬆鬆唱咱快樂的歌",
+        "spelling": "khin khin sang sang tshiùnn lán khuài-lo̍k ē kua",
+        "manual_id": "line-43:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 178.18,
+        "online_text": "人生的路上 總有坎坷的路愛行",
+        "status": "exact",
+        "text": "人生的路上 總有坎坷的路愛行",
+        "spelling": "lîn-sing ē lōo-siōng tsóng ū khám-khia̍t ē lōo ài kiânn",
+        "manual_id": "line-46:0+line-46:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 186.72,
+        "online_text": "不免煩惱 我是你的靠山",
+        "status": "exact",
+        "text": "不免煩惱 我是你的靠山",
+        "spelling": "m̄ bián huân-ló guá sī lí ē khò-suann",
+        "manual_id": "line-49:0+line-49:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 196.82,
+        "online_text": "不管風雨有多大 你是我的心肝",
+        "status": "exact",
+        "text": "不管風雨有多大 你是我的心肝",
+        "spelling": "m̄ kuán hong hōo luā-tuā lí sī guá ê sim-kuann",
+        "manual_id": "line-52:0+line-52:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 205.08,
+        "online_text": "有我陪伴你 你永遠不會孤單",
+        "status": "exact",
+        "text": "有我陪伴你 你永遠不會孤單",
+        "spelling": "hoh guá puê-phuānn lí lí íng-uán buē koo-tuann",
+        "manual_id": "line-55:0+line-55:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 213.28,
+        "online_text": "就算講海水嘛會幹 你也是我的心肝",
+        "status": "approximate",
+        "text": "就算講海水嘛會乾 你也是我的心肝",
+        "spelling": "tō-sǹg kóng hái-tsuí mah ē kuann lí iā-sī guá ê sim-kuann",
+        "manual_id": "line-58:0+line-58:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 221.8,
+        "online_text": "無人可比 一生一世 最愛你的是我",
+        "status": "exact",
+        "text": "無人可比 一生一世 最愛你的是我",
+        "spelling": "bô-lâng khó-pí it-sing it-sè siōng ài lí ê sī guá",
+        "manual_id": "line-61:0+line-61:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 232.4,
+        "online_text": "不管風雨有多大 你是我的心肝",
+        "status": "exact",
+        "text": "不管風雨有多大 你是我的心肝",
+        "spelling": "m̄ kuán hong hōo juā-tuā lí sī guá ê sim-kuann",
+        "manual_id": "line-64:0+line-64:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 240.56,
+        "online_text": "有我陪伴你 你永遠不會孤單",
+        "status": "exact",
+        "text": "有我陪伴你 你永遠不會孤單",
+        "spelling": "hoh guá puê-phuānn lí lí íng-uán buē koo-tuann",
+        "manual_id": "line-67:0+line-67:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 248.83,
+        "online_text": "就算講海水嘛會幹 你也是我的心肝",
+        "status": "approximate",
+        "text": "就算海水嘛會乾 你也是我的心肝",
+        "spelling": "tō-sǹg hái-tsuí mah ē kuann lí iā-sī guá ê sim-kuann",
+        "manual_id": "line-70:0+line-70:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 257.26,
+        "online_text": "無人可比 一生一世 最愛你的是我",
+        "status": "exact",
+        "text": "無人可比 一生一世 最愛你的是我",
+        "spelling": "bô-lâng khó-pí it-sing it-sè siōng ài lí ê sī guá",
+        "manual_id": "line-61:0+line-61:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 265.62,
+        "online_text": "無人可比 一生一世 最愛你的是我",
+        "status": "exact",
+        "text": "無人可比 一生一世 最愛你的是我",
+        "spelling": "bô-lâng khó-pí it-sing it-sè siōng ài lí ê sī guá",
+        "manual_id": "line-73:0+line-73:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 27,
+        "time": 273.96,
+        "online_text": "無人可比 一生一世 最愛你的是我",
+        "status": "exact",
+        "text": "無人可比 一生一世 最愛你的是我",
+        "spelling": "bô-lâng khó-pí it-sing it-sè siōng ài lí ê sī guá",
+        "manual_id": "line-76:0+line-76:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 28,
+        "time": 288.16,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

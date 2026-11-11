@@ -1,0 +1,500 @@
+{
+  "recording_id": "netease:28661108",
+  "timing_source": "NetEase https://music.163.com/song?id=28661108",
+  "manual_source": "User-supplied resources/lyrics-spelling/我懷念的西子灣-陳建瑋",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "unresolved": 23,
+    "exact": 4,
+    "repeat": 6
+  },
+  "review_row_count": 27,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-49:0",
+    "line-58:0"
+  ],
+  "unused_repeat_ids": [
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-22:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-43:0",
+    "line-46:0",
+    "line-61:0",
+    "line-64:0",
+    "line-67:0",
+    "line-70:0",
+    "line-79:0",
+    "line-82:0",
+    "line-85:0",
+    "line-91:0",
+    "line-94:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 何启弘",
+      "match_text": "作词 : 何启弘",
+      "text": "作词 : 何启弘",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 0.25,
+      "online_text": "作曲 : 陈建玮",
+      "match_text": "作曲 : 陈建玮",
+      "text": "作曲 : 陈建玮",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 0.501,
+      "online_text": "我怀念的西子湾",
+      "match_text": "我怀念的西子湾",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 6.301,
+      "online_text": "凉亭仔跤生鉎跤踏车",
+      "match_text": "凉亭仔跤生鉎跤踏车",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 12.203,
+      "online_text": "阿公啄龟的声",
+      "match_text": "阿公啄龟的声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 18.103,
+      "online_text": "日头落山抽长的人影",
+      "match_text": "日头落山抽长的人影",
+      "text": "日頭落山 抽長的人影",
+      "spelling": "ji̍t-thâu lo̍h-suann thiu-tn̂g ê lâng-iánn",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 24.217,
+      "online_text": "想起故乡会寒",
+      "match_text": "想起故乡会寒",
+      "text": "想起故鄉會寒",
+      "spelling": "siūnn-khí kòo-hiong ē kuânn",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 29.367,
+      "online_text": "西子湾闹热海产担",
+      "match_text": "西子湾闹热海产担",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 35.723,
+      "online_text": "共咸酸苦涩炒规盘",
+      "match_text": "共咸酸苦涩炒规盘",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 41.376,
+      "online_text": "西子湾哪抽着好签",
+      "match_text": "西子湾哪抽着好签",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 48.233,
+      "online_text": "我的人生敢就会好命",
+      "match_text": "我的人生敢就会好命",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 56.718,
+      "online_text": "等我梦中见",
+      "match_text": "等我梦中见",
+      "text": "等我 夢中見",
+      "spelling": "tán guá bāng-tiong kinn",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 62.327,
+      "online_text": "等我来看你",
+      "match_text": "等我来看你",
+      "text": "等我 來看你",
+      "spelling": "tán guá lâi khuànn lí",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 68.286,
+      "online_text": "囡仔行过的风景阿公的教示",
+      "match_text": "囡仔行过的风景阿公的教示",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 74.99,
+      "online_text": "我拢袂放袂记",
+      "match_text": "我拢袂放袂记",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 80.19,
+      "online_text": "等我去牵你",
+      "match_text": "等我去牵你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 86.391,
+      "online_text": "等我写感情",
+      "match_text": "等我写感情",
+      "text": "等我 寫感情",
+      "spelling": "tán guá siá kám-tsîng",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 92.734,
+      "online_text": "青春坐船过风涌对岸是啥物",
+      "match_text": "青春坐船过风涌对岸是啥物",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 99.285,
+      "online_text": "有我有你",
+      "match_text": "有我有你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 138.389,
+      "online_text": "初恋的伊毋知佗位去",
+      "match_text": "初恋的伊毋知佗位去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 144.19,
+      "online_text": "精彩的少年时",
+      "match_text": "精彩的少年时",
+      "text": "精彩的少年時",
+      "spelling": "tsing-tshái ê siàu-liân sî",
+      "manual_id": "line-52:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 150.193,
+      "online_text": "世界变化街路拢换名",
+      "match_text": "世界变化街路拢换名",
+      "text": "世界變化 街路攏換名",
+      "spelling": "sè-kài piàn-huà ke-lōo lóng uānn miâ",
+      "manual_id": "line-55:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 156.294,
+      "online_text": "旧厝无人咧蹛",
+      "match_text": "旧厝无人咧蹛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 161.403,
+      "online_text": "西子湾闹热海产担",
+      "match_text": "西子湾闹热海产担",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 167.903,
+      "online_text": "共咸酸苦涩炒规盘",
+      "match_text": "共咸酸苦涩炒规盘",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 173.461,
+      "online_text": "西子湾哪抽着好签",
+      "match_text": "西子湾哪抽着好签",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 179.855,
+      "online_text": "我的人生敢就会好命",
+      "match_text": "我的人生敢就会好命",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 188.515,
+      "online_text": "等我梦中见",
+      "match_text": "等我梦中见",
+      "text": "等我 夢中見",
+      "spelling": "tán guá bāng-tiong kinn",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 194.369,
+      "online_text": "等我来看你",
+      "match_text": "等我来看你",
+      "text": "等我 來看你",
+      "spelling": "tán guá lâi khuànn lí",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 200.32,
+      "online_text": "囡仔行过的风景阿公的教示",
+      "match_text": "囡仔行过的风景阿公的教示",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 206.969,
+      "online_text": "我拢袂放袂记",
+      "match_text": "我拢袂放袂记",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 212.221,
+      "online_text": "等我去牵你",
+      "match_text": "等我去牵你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 218.471,
+      "online_text": "等我写感情",
+      "match_text": "等我写感情",
+      "text": "等我 寫感情",
+      "spelling": "tán guá siá kám-tsîng",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 224.372,
+      "online_text": "青春坐船过风涌对岸是啥物",
+      "match_text": "青春坐船过风涌对岸是啥物",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 231.628,
+      "online_text": "有我有你",
+      "match_text": "有我有你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "073283316902807a57ea549c4a19e355665fecc5aa6507b5bfb16519414be448",
+    "manual": "04f4d668941c8065542ea17777c5a7ce8d5cbeb8c65b3ef683c6a44a7bf56b58",
+    "timed": "0010a17117e658041ccac36aa3124a4227254c3bb2873f18700a6cef97d7237e"
+  }
+}

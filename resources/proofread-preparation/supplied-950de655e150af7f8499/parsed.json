@@ -1,0 +1,482 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "免驚講乎別人知",
+      "spelling": "bián-kiann kóng honnh pa̍t-lâng tsai",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "若有好康麥藏在厝內",
+      "spelling": "nā-ū hó khang mài tshàng teh tshù-lāi",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "我的幸福 就是甲汝熟識",
+      "spelling": "guá ê hīng-hok tio̍h sī kah lí si̍k-sāi",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "咱本來 就親像冷風太陽不同世界",
+      "spelling": "lán pún-lâi tio̍h tshin-tshiūnn líng-hong thài-iông bô-kâng sè-kài",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "相對到眼 正是好家在",
+      "spelling": "siong-tuì tio̍h gán tsiànn-sī hó ka tsāi",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "阮少年時 聞到香味就金金看",
+      "spelling": "gún siàu-liân sî phīnn-tio̍h phang-bī tio̍h kim kim khuànn",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "是因為你的真 因為你的心",
+      "spelling": "sī in-uī lí ê tsin in-uī lí ê sim",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "乎我甘願來跟你走",
+      "spelling": "honnh guá kam-guān lâi tè lí kiânn",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "咱兩人的愛 親像雞排甲珍奶",
+      "spelling": "lán nn̄g-lâng ê ài tshin-tshiūnn ke-pâi kah zhēn nǎi",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "山珍海味嘛無咱自在",
+      "spelling": "san-tin-hái-bī mā bô lán sóo-tsāi",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "嘸免驚 吞落腹肚會奇摩歹",
+      "spelling": "m̄-bián-kiann thun làu pak-tóo ē kî môo pháinn",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "咱兩人的愛 親像雞排甲珍奶",
+      "spelling": "lán nn̄g-lâng ê ài tshin-tshiūnn ke-pâi kah zhēn nǎi",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "這款的口味是那麼合拍",
+      "spelling": "tsit-khuán ê kháu-bī sī hiah-nī ha̍h puānn",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "現此時 早就全世界通人知",
+      "spelling": "hiān-tshú-sî tsá tio̍h tsuân sè-kài thong lâng tsai",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "佇這 愛情的巷子內 攏愛",
+      "spelling": "tī tsia ài-tsîng ê hāng-á lāi lóng ài",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "雞排配珍奶",
+      "spelling": "ke-pâi phuè zhēn nǎi",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "什麼條件怎樣就總來",
+      "spelling": "siánn-mih tiâu-kiānn tsuánn-iūnn tio̍h tsóng lâi",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "看款來準備袂凍隨便",
+      "spelling": "khuànn-khuán lâi tsún-pī buē-tàng tshìn-tshái",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "我是想欲照顧咱的未來",
+      "spelling": "guá sī siūnn-beh tsiàu-kòo lán ê bī-lâi",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "汝本來 講想看覓 有好也無歹",
+      "spelling": "lí pún-lâi kóng siūnn khuànn-māi ū-hó iā bô pháinn",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "原來是驚歹勢甲講講出來",
+      "spelling": "guân-lâi sī kiann pháinn-sè kah kóng kóng tshut-lâi",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "阮少年時 一個月賺無幾角銀",
+      "spelling": "gún siàu-liân sî tsi̍t kò gue̍h thàn bô kuí kak gîn",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "是汝在我身邊 連續幾落年",
+      "spelling": "sī lí tī guá sin-pinn liân-sio̍k kuí làu nî",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "嘸捌嫌艱苦袂快活",
+      "spelling": "m̄-pat hiâm kan-khóo buē khuìnn-ua̍h",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "咱兩人的愛 親像雞排甲珍奶",
+      "spelling": "lán nn̄g-lâng ê ài tshin-tshiūnn ke-pâi kah zhēn nǎi",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "山珍海味嘛無咱自在",
+      "spelling": "san-tin-hái-bī mā bô lán sóo-tsāi",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "嘸免驚 景氣無好的煩惱代",
+      "spelling": "m̄-bián-kiann kíng-khì bô-hó ê huân-ló tāi",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "咱兩人的愛 親像雞排甲珍奶",
+      "spelling": "lán nn̄g-lâng ê ài tshin-tshiūnn ke-pâi kah zhēn nǎi",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "這款的口味是那麼合拍",
+      "spelling": "tsit-khuán ê kháu-bī sī hiah-nī ha̍h phainn",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "現此時 早就全世界通人知",
+      "spelling": "hiān-tshú-sî tsá tio̍h tsuân sè-kài thong lâng tsai",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "今已經免講嘛知道",
+      "spelling": "jim í-king bián kóng mā zhīdào",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "佇台灣尾到台灣頭",
+      "spelling": "tī Tâi-uân bué tio̍h Tâi-uân thâu",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "第一名的小吃一定是奶雞包套",
+      "spelling": "tē-it-miâ ê sió-tiám it-tīng sī nǎi jī bāo tào",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "欲辣 欲切 欲重口味就摻蒜頭",
+      "spelling": "bē-hiam bē tshiat bē tiông kháu-bī tio̍h lām suàn thâu",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "百百款的變化擱有芝麻碳烤",
+      "spelling": "pah pah khuán ê piàn-huà koh ū zhīma tàn kǎo",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "吃粗飽 止嘴乾 一杯珍奶來逗",
+      "spelling": "tsia̍h tshoo-pá tsí tshuì ta tsi̍t pue zhēn nǎi lâi tàu",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "欲多冰欲多甜珍珠欲大小粒",
+      "spelling": "bē guā ping bē guā tinn tinn tsu bē tuā-sè lia̍p",
+      "source_lines": [
+        111,
+        112
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "攏會凍幫汝特調",
+      "spelling": "lóng ē-tàng pang lí toh tiâu",
+      "source_lines": [
+        114,
+        115
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "一百塊嘸免找 若要甲人打賭",
+      "spelling": "tsi̍t pah khoo m̄-bián tsò ná beh kah lâng sio-su",
+      "source_lines": [
+        117,
+        118
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "想到嘛是雞排珍奶全套",
+      "spelling": "siūnn-tio̍h mā sī ke-pâi zhēn nǎi quántào",
+      "source_lines": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "什麼款的代誌攏袂凍將汝我分離",
+      "spelling": "siánn-mih khuán ê tāi-tsì lóng buē tàng tsiòng lí guá hun-khui",
+      "source_lines": [
+        123,
+        124
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "兩人逗陣 呷甲百二",
+      "spelling": "nn̄g-lâng tàu-tīn tsiáh kah pah-jī",
+      "source_lines": [
+        126,
+        127
+      ]
+    },
+    {
+      "id": "line-129",
+      "text": "愛情會 越嚼越唰嘴",
+      "spelling": "ài-tsîng ē lú pōo lú sua tshuì",
+      "source_lines": [
+        129,
+        130
+      ]
+    },
+    {
+      "id": "line-132",
+      "text": "我甲汝的愛 親像雞排甲珍奶",
+      "spelling": "guá kah lí ê ài tshin-tshiūnn ke-pâi kah zhēn nǎi",
+      "source_lines": [
+        132,
+        133
+      ]
+    },
+    {
+      "id": "line-135",
+      "text": "山珍海味嘛無咱自在",
+      "spelling": "san-tin-hái-bī mā bô lán sóo-tsāi",
+      "source_lines": [
+        135,
+        136
+      ]
+    },
+    {
+      "id": "line-138",
+      "text": "嘸免驚 人情冷暖的煩惱代 會來",
+      "spelling": "m̄-bián-kiann lîn-tsîng líng luán ê huân-ló tāi ē-lâi",
+      "source_lines": [
+        138,
+        139
+      ]
+    },
+    {
+      "id": "line-141",
+      "text": "我甲汝的愛 親像雞排甲珍奶",
+      "spelling": "guá kah lí ê ài tshin-tshiūnn ke-pâi kah zhēn nǎi",
+      "source_lines": [
+        141,
+        142
+      ]
+    },
+    {
+      "id": "line-144",
+      "text": "欲誠懇逗陣要咱這合拍",
+      "spelling": "bē sîng-khún tàu-tīn ài lán tsiah ha̍h phainn",
+      "source_lines": [
+        144,
+        145
+      ]
+    },
+    {
+      "id": "line-147",
+      "text": "現此時 已經全世界通人知",
+      "spelling": "hiān-tshú-sî í-king tsuân sè-kài thong lâng tsai",
+      "source_lines": [
+        147,
+        148
+      ]
+    },
+    {
+      "id": "line-150",
+      "text": "佇這 愛情的巷子內 攏愛",
+      "spelling": "tī tsia ài-tsîng ê hāng-á lāi lóng ài",
+      "source_lines": [
+        150,
+        151
+      ]
+    },
+    {
+      "id": "line-153",
+      "text": "雞排配珍奶",
+      "spelling": "ke-pâi phuè zhēn nǎi",
+      "source_lines": [
+        153,
+        154
+      ]
+    },
+    {
+      "id": "line-156",
+      "text": "愛汝嘸驚乎人知",
+      "spelling": "ài lí m̄-kiann honnh lâng tsai",
+      "source_lines": [
+        156,
+        157
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：柯大堡 作曲：柯大堡 台羅歌詞：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

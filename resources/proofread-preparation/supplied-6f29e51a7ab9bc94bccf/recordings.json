@@ -1,0 +1,150 @@
+{
+  "candidates": [
+    {
+      "song_id": 156619,
+      "title": "只要为你活一天",
+      "artists": [
+        "伍佰"
+      ],
+      "album": "爱你伍佰年",
+      "duration": 321.666,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 28274183,
+      "title": "只要为你活一天",
+      "artists": [
+        "伍佰"
+      ],
+      "album": "只要为你活一天 电影原声带",
+      "duration": 321.2,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 29999535,
+      "title": "只要为你活一天",
+      "artists": [
+        "黄英华",
+        "刘家昌"
+      ],
+      "album": "武侠音乐系列之后悔莫及",
+      "duration": 164.186,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 169054,
+      "title": "只要为你活一天",
+      "artists": [
+        "谢霆锋"
+      ],
+      "album": "谢谢你的爱1999",
+      "duration": 266.197,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 156996,
+      "title": "只要为你活一天",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "电影歌曲典藏1992-2000",
+      "duration": 319.878,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2061551591,
+      "title": "只要为你活一天",
+      "artists": [
+        "韩宝仪"
+      ],
+      "album": "韩宝仪旧情绵绵 Vol.1",
+      "duration": 212.626,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1873221089,
+      "title": "只要为你活一天",
+      "artists": [
+        "后海"
+      ],
+      "album": "。",
+      "duration": 158.793,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 187875,
+      "title": "只要为你活一天",
+      "artists": [
+        "张学友"
+      ],
+      "album": "雪狼湖(国语版)",
+      "duration": 139.44,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 436633095,
+      "title": "只要为你活一天",
+      "artists": [
+        "珊瑚"
+      ],
+      "album": "红",
+      "duration": 202.501,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 168602,
+      "title": "只要为你活一天",
+      "artists": [
+        "谢霆锋"
+      ],
+      "album": "无形的他全精选",
+      "duration": 269.874,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 103763,
+      "title": "只要为你活一天",
+      "artists": [
+        "姜育恒"
+      ],
+      "album": "刘家昌之歌1:我家在那里",
+      "duration": 224.397,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3424944090,
+      "title": "只要为你活一天",
+      "artists": [
+        "MappleZS"
+      ],
+      "album": "迭奏尘嚣",
+      "duration": 173.428,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1434080130,
+      "title": "只要为你活一天",
+      "artists": [
+        "邸扬",
+        "许玉莲"
+      ],
+      "album": "无他-阮与大提琴的对话",
+      "duration": 294.52,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,750 @@
+{
+  "recording_id": "netease:168248",
+  "timing_source": "NetEase https://music.163.com/song?id=168248",
+  "manual_source": "User-supplied resources/lyrics-spelling/阿爸的虱目魚-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "exact": 33,
+    "unresolved": 11,
+    "approximate": 8,
+    "repeat": 2,
+    "gap": 1
+  },
+  "review_row_count": 19,
+  "unmatched_manual_ids": [
+    "line-9:0",
+    "line-66:0",
+    "line-108:0",
+    "line-114:0"
+  ],
+  "unused_repeat_ids": [],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作词 : 武雄",
+      "match_text": "作词 : 武雄",
+      "text": "作词 : 武雄",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 26.63,
+      "online_text": "彼一年寒冷的冬天寒流来的时",
+      "match_text": "彼一年寒冷的冬天寒流来的时",
+      "text": "彼一年　寒冷的冬天　寒流來的時",
+      "spelling": "hit tsi̍t nî hân-líng ê tang-thinn hân-liû lâi ê sî",
+      "manual_id": "line-3:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 29.01,
+      "online_text": "彼一暝　伊对梦中雄雄惊醒",
+      "match_text": "彼一暝　伊对梦中雄雄惊醒",
+      "text": "彼一暝　伊對夢中雄雄驚醒",
+      "spelling": "hit tsi̍t mî i tuì bāng-tiong hiông hiông kiann-tshínn",
+      "manual_id": "line-6:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 33.45,
+      "online_text": "靴管笼落去　袄仔幔落去",
+      "match_text": "靴管笼落去　袄仔幔落去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-9:0"
+    },
+    {
+      "source_row": 5,
+      "time": 36.63,
+      "online_text": "欲去海边巡鱼池",
+      "match_text": "欲去海边巡鱼池",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-9:0"
+    },
+    {
+      "source_row": 6,
+      "time": 40.03,
+      "online_text": "伊讲伊的虱目鱼拢无臭土味",
+      "match_text": "伊讲伊的虱目鱼拢无臭土味",
+      "text": "伊講　伊的虱目魚　攏無臭土味",
+      "spelling": "i kóng i ê sat-ba̍k-hî lóng bô tshàu-thôo bī",
+      "manual_id": "line-12:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 41.96,
+      "online_text": "真值钱　但是上惊这款天气",
+      "match_text": "真值钱　但是上惊这款天气",
+      "text": "真值錢　但是上驚這款天氣",
+      "spelling": "tsin ta̍t-tsînn tān-sī siōng kiann tsit khuánn thinn-khì",
+      "manual_id": "line-15:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 46.59,
+      "online_text": "若是小可无注意　今年就免想过年",
+      "match_text": "若是小可无注意　今年就免想过年",
+      "text": "若是小可無注意　今年就免想過年",
+      "spelling": "nā-sī sió-khuá bô tsù-ì kin-nî tio̍h bián siūnn-kuè nî",
+      "manual_id": "line-18:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 56.51,
+      "online_text": "伊怨叹客厅内归暗看电视",
+      "match_text": "伊怨叹客厅内归暗看电视",
+      "text": "伊怨嘆　客廳內",
+      "spelling": "i uàn-thàn kheh-thiann lāi",
+      "manual_id": "line-21:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.705882
+    },
+    {
+      "source_row": 10,
+      "time": 60.01,
+      "online_text": "月初嘟退伍的囝儿",
+      "match_text": "月初嘟退伍的囝儿",
+      "text": "歸暗看電視　月初嘟退伍的囝兒",
+      "spelling": "kui-àm khuànn tiān-sī ge̍h tshoo tū thè-ngóo ê kiánn-jî",
+      "manual_id": "line-24:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.761905
+    },
+    {
+      "source_row": 11,
+      "time": 63.32,
+      "online_text": "叫伊斗阵去　伊嘛无愿意",
+      "match_text": "叫伊斗阵去　伊嘛无愿意",
+      "text": "叫伊鬥陣去　伊嘛無願意",
+      "spelling": "kiò i tàu-tīn khì i mā bô guān-ì",
+      "manual_id": "line-27:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 66.64,
+      "online_text": "因为粗重的头路伊无趣味",
+      "match_text": "因为粗重的头路伊无趣味",
+      "text": "因為粗重的頭伊無趣味",
+      "spelling": "in-uī tshoo-tāng ê thâu-lōo i bô tshù-bī",
+      "manual_id": "line-30:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.952381
+    },
+    {
+      "source_row": 13,
+      "time": 70.31,
+      "online_text": "伊讲无论虱目鱼世界好滋味",
+      "match_text": "伊讲无论虱目鱼世界好滋味",
+      "text": "伊講　無論虱目魚　世界好滋味",
+      "spelling": "i kóng bô-lūn sat-ba̍k-hî sè-kài hó tsu-bī",
+      "manual_id": "line-33:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 72.3,
+      "online_text": "有外甜　嘛是乎人嫌相多幼刺",
+      "match_text": "有外甜　嘛是乎人嫌相多幼刺",
+      "text": "有外甜　嘛是乎人嫌相多幼刺",
+      "spelling": "ū guā tinn mā sī hōo lâng hiâm siùnn tsuē iù tshì",
+      "manual_id": "line-36:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 76.43,
+      "online_text": "青春少年时　就爱靠家己",
+      "match_text": "青春少年时　就爱靠家己",
+      "text": "青春少年時　就愛靠家己",
+      "spelling": "tshing-tshun siàu-liân sî tio̍h ài kōo ka-kī",
+      "manual_id": "line-39:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 79.7,
+      "online_text": "惦庄脚所在赚袂着钱",
+      "match_text": "惦庄脚所在赚袂着钱",
+      "text": "惦莊腳所在賺袂著錢",
+      "spelling": "tiām tsng kha sóo-tsāi thàn-buē-tio̍h tsînn",
+      "manual_id": "line-42:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 83.08,
+      "online_text": "伊才会决定愈离开决定飞上天",
+      "match_text": "伊才会决定愈离开决定飞上天",
+      "text": "伊才會　決定愈離開　決定飛上天",
+      "spelling": "i tsiah ē kuat-tīng lú lī-khui kuat-tīng pue tshiūnn-thinn",
+      "manual_id": "line-45:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 85.65,
+      "online_text": "去城市　不管序大人按怎好嘴",
+      "match_text": "去城市　不管序大人按怎好嘴",
+      "text": "去城市　不管序大人按怎好嘴",
+      "spelling": "khì siânn-tshī m̄-kuán sī tuā-lâng án-tsuánn hó tshuì",
+      "manual_id": "line-48:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 89.71,
+      "online_text": "伊欲赚鱼翅　无爱捡鱼刺",
+      "match_text": "伊欲赚鱼翅　无爱捡鱼刺",
+      "text": "伊欲賺魚翅　無愛撿魚刺",
+      "spelling": "i bē thàn hî-tshì bô ài khioh hî-tshì",
+      "manual_id": "line-51:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 20,
+      "time": 93.17,
+      "online_text": "为着将来赚大钱　只要将来赚大钱",
+      "match_text": "为着将来赚大钱　只要将来赚大钱",
+      "text": "為著將來賺大錢　只要將來賺大錢",
+      "spelling": "uī-tio̍h tsiòng lâi thàn tuā-tsînn tsí-iàu tsiòng lâi thàn tuā-tsînn",
+      "manual_id": "line-54:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 98.43,
+      "online_text": "管汰伊　阿爸的虱目鱼",
+      "match_text": "管汰伊　阿爸的虱目鱼",
+      "text": "管汰伊　阿爸的虱目魚",
+      "spelling": "kuán thài i a-pa ê sat-ba̍k-hî",
+      "manual_id": "line-57:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 104.56,
+      "online_text": "......",
+      "match_text": "......",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 113.34,
+      "online_text": "彼一年彼场风台雨淹过彼条路",
+      "match_text": "彼一年彼场风台雨淹过彼条路",
+      "text": "彼一年　彼場風颱雨　淹過彼條路",
+      "spelling": "hit tsi̍t nî hit tiûnn hong-thai hōo im-kuè hit tiâu lōo",
+      "manual_id": "line-60:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 115.77,
+      "online_text": "彼下晡　伊向天公伯叹一口气",
+      "match_text": "彼下晡　伊向天公伯叹一口气",
+      "text": "彼下晡　伊向天公伯嘆一口氣",
+      "spelling": "hit ē-poo i hiòng thinn-kong-peh thàn tsi̍t kháu khuì",
+      "manual_id": "line-63:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 120.09,
+      "online_text": "不听别人的阻止　铁马骑出去",
+      "match_text": "不听别人的阻止　铁马骑出去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-66:0"
+    },
+    {
+      "source_row": 26,
+      "time": 124.1,
+      "online_text": "欲去巡鱼池",
+      "match_text": "欲去巡鱼池",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-66:0"
+    },
+    {
+      "source_row": 27,
+      "time": 126.96,
+      "online_text": "伊讲伊的虱目鱼真用心来饲",
+      "match_text": "伊讲伊的虱目鱼真用心来饲",
+      "text": "伊講　伊的虱目魚　真用心來飼",
+      "spelling": "i kóng i ê sat-ba̍k-hî tsin iōng-sim lâi tshī",
+      "manual_id": "line-69:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 129.02,
+      "online_text": "当值钱　偏偏遇到这款天气",
+      "match_text": "当值钱　偏偏遇到这款天气",
+      "text": "當值錢　偏偏遇到這款天氣",
+      "spelling": "tàng ta̍t-tsînn phian phian tú-tio̍h tsit-khuán thinn-khì",
+      "manual_id": "line-72:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 133.37,
+      "online_text": "如今水拢加淹去　满街路四界拢是",
+      "match_text": "如今水拢加淹去　满街路四界拢是",
+      "text": "如今水攏加淹去　滿街路四界攏是",
+      "spelling": "lû-kim tsuí lóng ka im khì muá ke lōo sì-kè lóng sī",
+      "manual_id": "line-75:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 143.18,
+      "online_text": "伊怨叹伊家己为着虱目鱼",
+      "match_text": "伊怨叹伊家己为着虱目鱼",
+      "text": "伊怨嘆　伊家己　為著虱目魚",
+      "spelling": "i uàn-thàn i ka-kī uī-tio̍h sat-ba̍k-hî",
+      "manual_id": "line-78:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 146.74,
+      "online_text": "连后生拢赶赶出去",
+      "match_text": "连后生拢赶赶出去",
+      "text": "連後生攏趕趕出去",
+      "spelling": "liân āu sinn lóng kuánn kuánn tshut-khì",
+      "manual_id": "line-81:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 149.93,
+      "online_text": "只剩一个人　行到水池边",
+      "match_text": "只剩一个人　行到水池边",
+      "text": "只剩一個人　行到水池邊",
+      "spelling": "tsí tshun tsi̍t ê lâng kiânn-kàu tsuí-tî-pinn",
+      "manual_id": "line-84:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 153.36,
+      "online_text": "面前的一切也已经拢无意义",
+      "match_text": "面前的一切也已经拢无意义",
+      "text": "面前的一切也已經攏無意義",
+      "spelling": "bīn-tsîng ê it-tshè í-king lóng bô ì-gī",
+      "manual_id": "line-87:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 156.88,
+      "online_text": "伊讲无论虱目鱼世界好滋味",
+      "match_text": "伊讲无论虱目鱼世界好滋味",
+      "text": "伊講　無論虱目魚　世界好滋味",
+      "spelling": "i kóng bô-lūn sat-ba̍k-hî sè-kài hó tsu-bī",
+      "manual_id": "line-33:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 158.76,
+      "online_text": "有外甜　嘛是需要顶面的支持",
+      "match_text": "有外甜　嘛是需要顶面的支持",
+      "text": "有外甜　嘛是需要頂面的支持",
+      "spelling": "ū guā tinn mā sī su-iàu tíng-bīn ê tsi-tshî",
+      "manual_id": "line-93:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 163.07,
+      "online_text": "饲料彼呢贵　又搁歹景气",
+      "match_text": "饲料彼呢贵　又搁歹景气",
+      "text": "飼料彼呢貴　又擱歹景氣",
+      "spelling": "tshī-liāu hia-ni kuì iū-koh pháinn-kíng-khì",
+      "manual_id": "line-96:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 37,
+      "time": 166.38,
+      "online_text": "渔会的政策拢荒废",
+      "match_text": "渔会的政策拢荒废",
+      "text": "漁會的政策攏荒廢",
+      "spelling": "hî-huē ê tsìng-tshik lóng hong-huì",
+      "manual_id": "line-99:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 169.65,
+      "online_text": "伊看见水淹彼呢淀四界拢嘛是",
+      "match_text": "伊看见水淹彼呢淀四界拢嘛是",
+      "text": "伊看見　水淹彼呢淀",
+      "spelling": "i khuànn-kìnn tsuí-im hia-ni tîm",
+      "manual_id": "line-102:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.761905
+    },
+    {
+      "source_row": 39,
+      "time": 172.53,
+      "online_text": "伊的鱼　亲像是开嘴咧叫伊",
+      "match_text": "伊的鱼　亲像是开嘴咧叫伊",
+      "text": "四界攏嘛是　伊的魚　親像是開嘴咧叫伊",
+      "spelling": "sì-kè lóng mā sī i ê hî tshin-tshiūnn sī khui tshuì leh kiò i",
+      "manual_id": "line-105:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.814815
+    },
+    {
+      "source_row": 40,
+      "time": 176.4,
+      "online_text": "叫伊紧放弃　叫伊紧返去",
+      "match_text": "叫伊紧放弃　叫伊紧返去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-108:0"
+    },
+    {
+      "source_row": 41,
+      "time": 179.72,
+      "online_text": "伊讲伊有听见",
+      "match_text": "伊讲伊有听见",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-108:0"
+    },
+    {
+      "source_row": 42,
+      "time": 183.01,
+      "online_text": "伊讲伊有看见彼暝的梦中的虱目鱼",
+      "match_text": "伊讲伊有看见彼暝的梦中的虱目鱼",
+      "text": "伊講伊有看見　彼暝的　夢中的虱目魚",
+      "spelling": "i kóng i ū khuànn-kìnn hit mî ê bāng-tiong ê sat-ba̍k-hî",
+      "manual_id": "line-111:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 43,
+      "time": 192.93,
+      "online_text": "......",
+      "match_text": "......",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 213.45,
+      "online_text": "听讲彼暗的电视",
+      "match_text": "听讲彼暗的电视",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-114:0"
+    },
+    {
+      "source_row": 45,
+      "time": 214.74,
+      "online_text": "拢有报到伊　的名字",
+      "match_text": "拢有报到伊　的名字",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-114:0"
+    },
+    {
+      "source_row": 46,
+      "time": 216.99,
+      "online_text": "无人知最后伊流去叨位",
+      "match_text": "无人知最后伊流去叨位",
+      "text": "無人知最後伊流去叨位",
+      "spelling": "bô-lâng tsai tsuè-āu i lâu-khì tó-uī",
+      "manual_id": "line-117:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 47,
+      "time": 219.74,
+      "online_text": "新闻足讽刺　画面足趣味",
+      "match_text": "新闻足讽刺　画面足趣味",
+      "text": "新聞足諷刺　畫面足趣味",
+      "spelling": "sin-bûn tsiok tshì uē-bīn tsiok tshù-bī",
+      "manual_id": "line-120:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 48,
+      "time": 223.06,
+      "online_text": "有人惦马路块捞鱼",
+      "match_text": "有人惦马路块捞鱼",
+      "text": "有人惦馬路塊撈魚",
+      "spelling": "ū-lâng tiām bé-lōo tè hôo hî",
+      "manual_id": "line-123:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 49,
+      "time": 226.49,
+      "online_text": "伊彼个　城市的后生",
+      "match_text": "伊彼个　城市的后生",
+      "text": "伊彼個　城市的後生",
+      "spelling": "i hit-ê siânn-tshī ê hāu-sinn",
+      "manual_id": "line-126:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 50,
+      "time": 228.18,
+      "online_text": "警察来通知彼当时",
+      "match_text": "警察来通知彼当时",
+      "text": "警察來通知彼當時",
+      "spelling": "kíng-tshat lâi thàng tsai hit tong-sî",
+      "manual_id": "line-129:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 51,
+      "time": 230.05,
+      "online_text": "饮茫茫惦路边甲人相争",
+      "match_text": "饮茫茫惦路边甲人相争",
+      "text": "飲茫茫惦路邊甲人相爭",
+      "spelling": "lím bông-bông tiām lōo-pinn kā lâng sio-tsenn",
+      "manual_id": "line-132:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 52,
+      "time": 233.15,
+      "online_text": "伊讲虱目鱼　其实拢无刺",
+      "match_text": "伊讲虱目鱼　其实拢无刺",
+      "text": "伊講虱目魚　其實攏無刺",
+      "spelling": "i kóng sat-ba̍k-hî kî-si̍t lóng bô tshì",
+      "manual_id": "line-135:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 53,
+      "time": 236.4,
+      "online_text": "人讲伊已经醉　伊讲伊无骗你",
+      "match_text": "人讲伊已经醉　伊讲伊无骗你",
+      "text": "人講伊已經醉　伊講伊無騙你",
+      "spelling": "lâng kóng i í-king tsuì i kóng i bô phiàn lí",
+      "manual_id": "line-138:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 54,
+      "time": 241.45,
+      "online_text": "虱目鱼　原本是　伊的名字",
+      "match_text": "虱目鱼　原本是　伊的名字",
+      "text": "虱目魚　原本是　伊的名字",
+      "spelling": "sat-ba̍k-hî kun-pún sī i ê miâ-lī",
+      "manual_id": "line-141:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 55,
+      "time": 251.57,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 56,
+      "time": 257.39,
+      "online_text": "--=End=--",
+      "match_text": "--=End=--",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "83b2b1f883bf0f3c76c7b4509aeda49f6f30e84f926201979bd78ba738711fa2",
+    "manual": "629c3e90e5132d671b04f8cd6ea1aa55c6f7de08a00b650b4af9dcb9f8ef255b",
+    "timed": "526094d6f05d32db1c071d9f22ec040bf27425c5fed54cf0d40a2c0503ab2752"
+  }
+}

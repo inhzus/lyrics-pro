@@ -1,0 +1,346 @@
+{
+  "candidates": [
+    {
+      "song_id": 32405881,
+      "title": "悲哀",
+      "artists": [
+        "百石元"
+      ],
+      "album": "冴えない彼女の育てかた 第4巻 特典CD",
+      "duration": 144.453,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31517126,
+      "title": "悲哀",
+      "artists": [
+        "２８１４"
+      ],
+      "album": "新しい日の誕生",
+      "duration": 563.644,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "840578237",
+      "title": "悲哀",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "十一台",
+      "duration": 125.067,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1406666023",
+      "title": "悲哀",
+      "artists": [
+        "Yasunori Nishiki"
+      ],
+      "album": "OCTOPATH TRAVELER Original Soundtrack",
+      "duration": 191.787,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1669162069",
+      "title": "悲哀",
+      "artists": [
+        "コーエーテクモサウンド"
+      ],
+      "album": "刀剣乱舞無双～胡蝶の調べ オリジナル・サウンドトラック",
+      "duration": 202.2,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1082681392",
+      "title": "悲哀",
+      "artists": [
+        "SIE Sound Team & 見良津健雄"
+      ],
+      "album": "The Legend of Dragoon (Original Soundtrack)",
+      "duration": 85.973,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1699475775",
+      "title": "悲哀",
+      "artists": [
+        "Piano Peace"
+      ],
+      "album": "灰色",
+      "duration": 226.691,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1624643146",
+      "title": "悲哀",
+      "artists": [
+        "佐藤共良"
+      ],
+      "album": "ブレイブ フロンティア レゾナ オリジナルサウンドトラック",
+      "duration": 187.626,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1723126305",
+      "title": "悲哀",
+      "artists": [
+        "スティングサウンドチーム"
+      ],
+      "album": "ナイツ・イン・ザ・ナイトメア サウンドトラック",
+      "duration": 73.561,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1621851490",
+      "title": "悲哀",
+      "artists": [
+        "孟凡琦"
+      ],
+      "album": "丰富",
+      "duration": 81.193,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1251441354",
+      "title": "悲哀",
+      "artists": [
+        "高梨康治"
+      ],
+      "album": "TVアニメ『つぐもも』オリジナルサウンドトラックアルバム",
+      "duration": 123.933,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 4124825,
+      "title": "悲哀",
+      "artists": [
+        "2814"
+      ],
+      "album": "新しい日の誕生",
+      "duration": 564.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 4087827,
+      "title": "悲哀",
+      "artists": [
+        "Mejibray"
+      ],
+      "album": "Agitato GRIMOIRE(通常盤)",
+      "duration": 215.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 4124826,
+      "title": "悲哀",
+      "artists": [
+        "2814"
+      ],
+      "album": "Birth of a New Day (新しい日の誕生)",
+      "duration": 564.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 6542922,
+      "title": "悲哀",
+      "artists": [
+        "Psychic Lover & Ohishi, Kenichiro"
+      ],
+      "album": "TVA『斉木楠雄のΨ難』SOUNDTRACK 1",
+      "duration": 104.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 6542921,
+      "title": "悲哀",
+      "artists": [
+        "斉木ックラバー"
+      ],
+      "album": "TVアニメ「斉木楠雄のΨ難」オリジナル・サウンドトラック",
+      "duration": 104.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16657354,
+      "title": "悲哀",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "十一台",
+      "duration": 125.232,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 16055111,
+      "title": "悲哀",
+      "artists": [
+        "2814"
+      ],
+      "album": "新しい日の誕生",
+      "duration": 547.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 14721763,
+      "title": "悲哀",
+      "artists": [
+        "2814"
+      ],
+      "album": "新しい日の誕生",
+      "duration": 550.008163,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 14205042,
+      "title": "悲哀",
+      "artists": [
+        "２８１４"
+      ],
+      "album": "新しい日の誕生, birth of a new day",
+      "duration": 563.6,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 23051887,
+      "title": "悲哀",
+      "artists": [
+        "Yasuharu Takanashi"
+      ],
+      "album": "TSUGUMOMO Original Soundtrack",
+      "duration": 123.933333,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 11126000,
+      "title": "悲哀",
+      "artists": [
+        "２８１４"
+      ],
+      "album": "Mel ⅤⅠⅤ: Rebirth",
+      "duration": 561.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 11303439,
+      "title": "悲哀",
+      "artists": [
+        "Takanashi, Yasuharu"
+      ],
+      "album": "一騎当千DragonDestiny サウンドトラック&スペシャルwebラジオ",
+      "duration": 107.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 11303438,
+      "title": "悲哀",
+      "artists": [
+        "Yasuharu Takanashi"
+      ],
+      "album": "一騎当千DragonDestiny サウンドトラック&スペシャルwebラジオ",
+      "duration": 107.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 10224030,
+      "title": "悲哀",
+      "artists": [
+        "2814"
+      ],
+      "album": "新しい日の誕生",
+      "duration": 561.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 10032374,
+      "title": "悲哀",
+      "artists": [
+        "２８１４"
+      ],
+      "album": "新しい日の誕生",
+      "duration": 561.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 12814618,
+      "title": "悲哀",
+      "artists": [
+        "２８１４"
+      ],
+      "album": "新しい日の誕��",
+      "duration": 563.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 9490108,
+      "title": "悲哀",
+      "artists": [
+        "２８１４"
+      ],
+      "album": "Birth Of A New Day (新しい日の誕生)",
+      "duration": 563.6,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 9522588,
+      "title": "悲哀",
+      "artists": [
+        "２８１４"
+      ],
+      "album": "新しい日の誕生",
+      "duration": 564.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 36822750,
+      "title": "悲哀",
+      "artists": [
+        "MEJIBRAY"
+      ],
+      "album": "Agitato GRIMOIRE（通常盤）",
+      "duration": 215.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 38573484,
+      "title": "悲哀",
+      "artists": [
+        "2814 (２８１４)"
+      ],
+      "album": "新しい日の誕生",
+      "duration": 563.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

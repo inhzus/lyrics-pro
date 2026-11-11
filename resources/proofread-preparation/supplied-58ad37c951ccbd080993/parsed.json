@@ -1,0 +1,313 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "時間是三點半                                 南下的長途夜車",
+      "spelling": "sî-kan sī sann tiám puànn        lâm-hā ê tn̂g-tôo mî-tshia",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "時間是三點半",
+          "spelling": "sî-kan sī sann tiám puànn"
+        },
+        {
+          "text": "南下的長途夜車",
+          "spelling": "lâm-hā ê tn̂g-tôo mî-tshia"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "路燈的光線                              伴心事邊想邊走",
+      "spelling": "lōo-ting ê kng-suànn            phuānn sim-sū ná siūnn ná kiânn",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "路燈的光線",
+          "spelling": "lōo-ting ê kng-suànn"
+        },
+        {
+          "text": "伴心事邊想邊走",
+          "spelling": "phuānn sim-sū ná siūnn ná kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "說不出口的思念                                 寫不入未完的歌",
+      "spelling": "kóng buē tshut tshuì ê su-liām     siá buē ji̍p bī uân ê kua",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "說不出口的思念",
+          "spelling": "kóng buē tshut tshuì ê su-liām"
+        },
+        {
+          "text": "寫不入未完的歌",
+          "spelling": "siá buē ji̍p bī uân ê kua"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "人生是高速公路                             我是趕路的車",
+      "spelling": "lîn-sing sī ko-sok-kong-lōo         guá sī kuánn-lōo ê tshia",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "人生是高速公路",
+          "spelling": "lîn-sing sī ko-sok-kong-lōo"
+        },
+        {
+          "text": "我是趕路的車",
+          "spelling": "guá sī kuánn-lōo ê tshia"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "想不起來那時怎麼離開                                              漂浪的生活漸漸習慣",
+      "spelling": "siūnn bē khai hit-sî-tsūn tsuánn-iūnn lī-khui    phiau long ê sing-ua̍h tsiām-tsiām kuàn-sì",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "想不起來那時怎麼離開",
+          "spelling": "siūnn bē khai hit-sî-tsūn tsuánn-iūnn lī-khui"
+        },
+        {
+          "text": "漂浪的生活漸漸習慣",
+          "spelling": "phiau long ê sing-ua̍h tsiām-tsiām kuàn-sì"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "迷糊經過這麼多年                                       認識了很多道理",
+      "spelling": "khiàn-thian king-kuè tsiah-tsuē nî        līn-bat liáu tsin tsuē tō-lí",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "迷糊經過這麼多年",
+          "spelling": "khiàn-thian king-kuè tsiah-tsuē nî"
+        },
+        {
+          "text": "認識了很多道理",
+          "spelling": "līn-bat liáu tsin tsuē tō-lí"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "卻找無一條路回去",
+      "spelling": "tshua tshuē bô tsi̍t tiâu lōo tńg-khì",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "看不到出口在哪裡                                        我漸漸失去自己",
+      "spelling": "khuànn-bô-tio̍h tshut-kháu tī tó-uī        guá tsiām-tsiām sit-khì tsū-kí",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "看不到出口在哪裡",
+          "spelling": "khuànn-bô-tio̍h tshut-kháu tī tó-uī"
+        },
+        {
+          "text": "我漸漸失去自己",
+          "spelling": "guá tsiām-tsiām sit-khì tsū-kí"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "在競爭的花花世界                                 拐彎抹角是辜不二終",
+      "spelling": "tī kīng-tsing ê gue gue sè-kài            tńg-uan-se̍h-kak sī koo put lī tsiong",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "在競爭的花花世界",
+          "spelling": "tī kīng-tsing ê gue gue sè-kài"
+        },
+        {
+          "text": "拐彎抹角是辜不二終",
+          "spelling": "tńg-uan-se̍h-kak sī koo put lī tsiong"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "看不到出口在哪裡                                       也不知道該去哪裡",
+      "spelling": "khuànn-bē-tio̍h tshut-kháu tī tó-uī        iā m̄ tsai kai tuì tuē khì",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "看不到出口在哪裡",
+          "spelling": "khuànn-bē-tio̍h tshut-kháu tī tó-uī"
+        },
+        {
+          "text": "也不知道該去哪裡",
+          "spelling": "iā m̄ tsai kai tuì tuē khì"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "我只是暫時失去方向                                       我一定會找到",
+      "spelling": "guá tsí-sī tsiām-sî sit-khì hong-hiòng        guá it-tīng ē tshuē tio̍h",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "我只是暫時失去方向",
+          "spelling": "guá tsí-sī tsiām-sî sit-khì hong-hiòng"
+        },
+        {
+          "text": "我一定會找到",
+          "spelling": "guá it-tīng ē tshuē tio̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "回去的路",
+      "spelling": "tńg-khì ê lōo",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "港邊的路 陣陣海風                                    吹入我的夢中",
+      "spelling": "káng-kînn ê lōo tsūn tsūn hái-hong    tshue li̍p guá ê bāng-tiong",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "港邊的路 陣陣海風",
+          "spelling": "káng-kînn ê lōo tsūn tsūn hái-hong"
+        },
+        {
+          "text": "吹入我的夢中",
+          "spelling": "tshue li̍p guá ê bāng-tiong"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "是當初 離開那個下午",
+      "spelling": "sī tong-tshoo  lī-khui hit-ê ē-gōo",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "走你的路 走你的路                         你對我說",
+      "spelling": "kiânn lí ê lōo  kiânn lí ê lōo        lí tuì guá kóng",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "但是你要將回來的路 放在心中",
+      "spelling": "tān-sī lí ài tsiòng tńg-lâi ê lōo  khǹg tī sim-tiong",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "我等你成功",
+      "spelling": "guá tán lí sîng-kong",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "時間是六點半                             到站的長途夜車",
+      "spelling": "sî-kan sī la̍k tiám puànn        kàu tsām ê tn̂g-tôo mîa-tshia",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "時間是六點半",
+          "spelling": "sî-kan sī la̍k tiám puànn"
+        },
+        {
+          "text": "到站的長途夜車",
+          "spelling": "kàu tsām ê tn̂g-tôo mîa-tshia"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "下車的現在                            我是回來的人",
+      "spelling": "lo̍h-tshia ê tsím-má            guá sī tńg-lâi ê lâng",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "下車的現在",
+          "spelling": "lo̍h-tshia ê tsím-má"
+        },
+        {
+          "text": "我是回來的人",
+          "spelling": "guá sī tńg-lâi ê lâng"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：楊大正   作曲：楊大正 編曲滅火器  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

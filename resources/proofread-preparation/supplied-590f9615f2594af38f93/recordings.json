@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": 168380,
+      "title": "好啦好啦",
+      "artists": [
+        "萧煌奇"
+      ],
+      "album": "真·情·歌",
+      "duration": 236.96,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1973008262,
+      "title": "好啦好啦",
+      "artists": [
+        "冷雪源"
+      ],
+      "album": "好啦好啦",
+      "duration": 266.951,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1805334266,
+      "title": "好啦好啦",
+      "artists": [
+        "吴延睿"
+      ],
+      "album": "二十三十",
+      "duration": 277.472,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 106352,
+      "title": "好啦好啦",
+      "artists": [
+        "江宏恩"
+      ],
+      "album": "心愿",
+      "duration": 234.64,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

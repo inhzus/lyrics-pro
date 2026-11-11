@@ -1,0 +1,10 @@
+{
+  "candidates": [],
+  "errors": [
+    {
+      "provider": "lrclib",
+      "error": "LRCLIB network request failed: curl: (28) SSL connection timeout",
+      "retryable": true
+    }
+  ]
+}

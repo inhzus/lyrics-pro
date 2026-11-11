@@ -1,0 +1,514 @@
+{
+  "blocks": [
+    {
+      "id": "line-5",
+      "text": "我知 妳老母都嫌我醜",
+      "spelling": "guá tsai  lí lāu-bú lóng hiâm guá bái",
+      "source_lines": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "我知 妳老爸都看我不爽快",
+      "spelling": "guá tsai  lí lāu-pē lóng khuànn guá bô sóng khuài",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "我知 妳家的狗 咬我三次",
+      "spelling": "guá tsai  lín tau ê káu  kā guá sann pái",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "全家伙都賭爛 其實我都會知",
+      "spelling": "kui ke-hué lóng tóo lâng  kî-si̍t guá lóng ē tsai",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "我寄呼妳的信 都給妳爸撕掉",
+      "spelling": "guá kià hoo lí ê phue  goo hōo lín pā liah tiāu",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "我打電話去妳家 擱呼妳媽掛掉",
+      "spelling": "guá khà tiān-uē khì lín tau koh hoo lí má kuà tiāu",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "連我走去妳家 都有人來討債",
+      "spelling": "liân guá kiânn-khì lín tau  lóng ū lâng lâi thó-siàu",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "我不敢相信 自己怎會甲衰小",
+      "spelling": "guá m̄ kánn siong-sìn  tsū-kí ná-ē jiǎ shuāi xiǎo",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "妳老爸老母看我無 我選里長給他看",
+      "spelling": "lí lāu-pē lāu-bú khuànn guá bó  guá suán lí tn̂g hōo i khuànn",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "伊嫌我不夠好野 但我有好的心肝",
+      "spelling": "i hiâm guá bô-kàu hó iá  tān guá hó ê sim-kuann",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "送芒果去妳家又呼妳爸丟在地下",
+      "spelling": "sàng suāinn-á khì lín tau koh hoo lín pā tàn leh thôo-kha",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "我發誓 下輩子 我要娶他女兒",
+      "spelling": "guá tsiù-tsuā  āu-sì-lâng  guá beh tshuā i lú-lî tsa-kiánn",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "我拜天 我拜地 求菩薩讓咱作夥",
+      "spelling": "guá pài-thinn  guá pài tē  kiû phôo-sat hōo lán tsò-hué",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "妳永遠 是家裡 最甲意 那一個",
+      "spelling": "lí íng-uán  sī tshù-lāi  siōng kah-ì  hit-tsi̍t-ê",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "這世人沒辦法給妳山盟海誓",
+      "spelling": "tsit-sì-lâng bô-huat-tōo hōo lí san-bîng-hái-sè",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "後世人再帶妳去呷妳最愛的燒酒螺",
+      "spelling": "āu-sì-lâng tsia tshuà lí khì jia lí siōng ài ê sio-tsiú-lê",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "妳說下輩子如果我還記得妳 我們死也要在一起",
+      "spelling": "nǐ shuō xiàbèizi rúguǒ wǒ hái jìdé nǐ wǒmen sǐ yě yào zài yīqǐ",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "像是陷入催眠的指令 我又開始昏迷不醒",
+      "spelling": "xiàng shì xiànrù cuīmián de zhǐlìng wǒ yòu kāishǐ hūnmí bù xǐng",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "好吧下輩子如果我還記得妳 妳的誓言可別忘記",
+      "spelling": "hǎo ba xiàbèizi rúguǒ wǒ hái jìdé nǐ nǐ de shìyán kě bié wàngjì",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "不過一張明信片而已 我已隨他走入",
+      "spelling": "bùguò yī zhāng míngxìnpiàn éryǐ wǒ yǐ suí tā zǒu rù",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "下個輪迴裡",
+      "spelling": "xià gè lúnhuí lǐ",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "這輩子無法的話 那可以下輩子好嗎",
+      "spelling": "zhè bèi zǐ wúfǎ dehuà nà kěyǐ xià bèizi hǎo ma",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "妳說當朋友的話 那我也就這樣做吧",
+      "spelling": "nǐ shuō dāng péngyǒu dehuà nà wǒ yě jiù zhèyàng zuò ba",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "我看著妳去愛誰 比做牛做馬還累",
+      "spelling": "wǒ kànzhe nǐ qù ài shuí bǐ zuò niú zuò mǎ hái lèi",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "妳的另一半在哪裡我 I DONT CARE",
+      "spelling": "nǐ de lìng yībàn zài nǎlǐ wǒ I DONT CARE",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "我什麼時候 會離開 在走上奈何橋",
+      "spelling": "wǒ shénme shíhòu huì líkāi zài zǒu shàng nàihé qiáo",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "不選擇孟婆湯的話 我吞下那不該吃的藥",
+      "spelling": "bù xuǎnzé mèng pó tāng dehuà wǒ tūn xià nà bù gāi chī di yào",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "為了可以在人群之中讓我更快的找到妳",
+      "spelling": "wèile kěyǐ zài rénqún zhī zhōng ràng wǒ gèng kuài de zhǎodào nǐ",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "我決定在離開前 我先來帶個望遠鏡",
+      "spelling": "wǒ juédìng zài líkāi qián wǒ xiān lái dài gè wàngyuǎnjìng",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "COME ON BABY 說好下輩子妳要在我身邊",
+      "spelling": "COME ON BABY shuō hǎo xiàbèizi nǐ yào zài wǒ shēnbiān",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "我還會記得那牌子 跟妳最愛抽的菸",
+      "spelling": "wǒ hái huì jìdé nà pái zǐ gēn nǎi zuì’ài chōu de yān",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "我更他媽的希望時間可以再快一點",
+      "spelling": "wǒ gèng tā mā de xīwàng shíjiān kěyǐ zài kuài yīdiǎn",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "讓我過完這輩子 完成我的心願",
+      "spelling": "ràng wǒguò wán zhè bèizi wánchéng wǒ de xīnyuàn",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "沒有了天長地久 真的我沒差",
+      "spelling": "méiyǒule tiānchángdìjiǔ zhēn de wǒ méi chà",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "下輩子還要記得妳 是我的真心話",
+      "spelling": "xià bèi zǐ huán yào jìdé nǐ shì wǒ de zhēnxīn huà",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "就算是角色互換 那我真的沒關係",
+      "spelling": "jiùsuàn shì jiǎosè hùhuàn nà wǒ zhēn de méiguānxì",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "反正 也 對阿 對阿 我心甘情願的被妳插",
+      "spelling": "fǎnzhèng yě duì ā duì ā wǒ xīngānqíngyuàn de bèi nǐ chā",
+      "source_lines": [
+        111,
+        112
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "妳說下輩子如果我還記得妳 我們死也要在一起",
+      "spelling": "nǐ shuō xiàbèizi rúguǒ wǒ hái jìdé nǐ wǒmen sǐ yě yào zài yīqǐ",
+      "source_lines": [
+        114,
+        115
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "像是陷入催眠的指令 我又開始昏迷不醒",
+      "spelling": "xiàng shì xiànrù cuīmián de zhǐlìng wǒ yòu kāishǐ hūnmí bù xǐng",
+      "source_lines": [
+        117,
+        118
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "好吧下輩子如果我還記得妳 妳的誓言可別忘記",
+      "spelling": "hǎo ba xiàbèizi rúguǒ wǒ hái jìdé nǐ nǐ de shìyán kě bié wàngjì",
+      "source_lines": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "不過一張明信片而已 我已隨他走入",
+      "spelling": "bùguò yī zhāng míngxìnpiàn éryǐ wǒ yǐ suí tā zǒu rù",
+      "source_lines": [
+        123,
+        124
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "下個輪迴裡",
+      "spelling": "xià gè lúnhuí lǐ",
+      "source_lines": [
+        126,
+        127
+      ]
+    },
+    {
+      "id": "line-129",
+      "text": "這輩子無法的話我沒差",
+      "spelling": "zhè bèi zǐ wúfǎ dehuà wǒ méi chà",
+      "source_lines": [
+        129,
+        130
+      ]
+    },
+    {
+      "id": "line-132",
+      "text": "只想跟妳說我的真心話",
+      "spelling": "zhǐ xiǎng gēn nǐ shuō wǒ de zhēnxīn huà",
+      "source_lines": [
+        132,
+        133
+      ]
+    },
+    {
+      "id": "line-135",
+      "text": "一個無理的要求 答應我好嗎",
+      "spelling": "yīgè wúlǐ de yāoqiú dāyìng wǒ hǎo ma",
+      "source_lines": [
+        135,
+        136
+      ]
+    },
+    {
+      "id": "line-138",
+      "text": "不管是天堂地獄 我都沒在怕",
+      "spelling": "bùguǎn shì tiāntáng dìyù wǒ dōu méi zài pà",
+      "source_lines": [
+        138,
+        139
+      ]
+    },
+    {
+      "id": "line-141",
+      "text": "這輩子無法的話我沒差",
+      "spelling": "zhè bèi zǐ wúfǎ dehuà wǒ méi chà",
+      "source_lines": [
+        141,
+        142
+      ]
+    },
+    {
+      "id": "line-144",
+      "text": "只想跟妳說我的真心話",
+      "spelling": "zhǐ xiǎng gēn nǐ shuō wǒ de zhēnxīn huà",
+      "source_lines": [
+        144,
+        145
+      ]
+    },
+    {
+      "id": "line-147",
+      "text": "一個無理的要求 答應我好嗎",
+      "spelling": "yīgè wúlǐ de yāoqiú dāyìng wǒ hǎo ma",
+      "source_lines": [
+        147,
+        148
+      ]
+    },
+    {
+      "id": "line-150",
+      "text": "不管是天堂地獄 我都沒在怕",
+      "spelling": "bùguǎn shì tiāntáng dìyù wǒ dōu méi zài pà",
+      "source_lines": [
+        150,
+        151
+      ]
+    },
+    {
+      "id": "line-153",
+      "text": "妳說下輩子如果我還記得妳 我們死也要在一起",
+      "spelling": "nǐ shuō xiàbèizi rúguǒ wǒ hái jìdé nǐ wǒmen sǐ yě yào zài yīqǐ",
+      "source_lines": [
+        153,
+        154
+      ]
+    },
+    {
+      "id": "line-156",
+      "text": "像是陷入催眠的指令 我又開始昏迷不醒",
+      "spelling": "xiàng shì xiànrù cuīmián de zhǐlìng wǒ yòu kāishǐ hūnmí bù xǐng",
+      "source_lines": [
+        156,
+        157
+      ]
+    },
+    {
+      "id": "line-159",
+      "text": "好吧下輩子如果我還記得妳 妳的誓言可別忘記",
+      "spelling": "hǎo ba xiàbèizi rúguǒ wǒ hái jìdé nǐ nǐ de shìyán kě bié wàngjì",
+      "source_lines": [
+        159,
+        160
+      ]
+    },
+    {
+      "id": "line-162",
+      "text": "不過一張明信片而已 我已隨他走入",
+      "spelling": "bùguò yī zhāng míngxìnpiàn éryǐ wǒ yǐ suí tā zǒu rù",
+      "source_lines": [
+        162,
+        163
+      ]
+    },
+    {
+      "id": "line-165",
+      "text": "下個輪迴裡",
+      "spelling": "xià gè lúnhuí lǐ",
+      "source_lines": [
+        165,
+        166
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：洋蔥 & 春風   作曲：洋蔥 & 春風  台語拼音：關德樂"
+    }
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "text": "Note: Words in italics are English,  words in bold are Taiwanese, all the rest are Chinese."
+    }
+  ],
+  "reasons": [
+    "source_note_requires_review:3"
+  ]
+}

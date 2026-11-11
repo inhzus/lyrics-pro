@@ -1,0 +1,169 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "想欲為你唱一首歌　歌聲永遠袜變卦",
+      "spelling": "siūnn-beh uî lí tshiùnn tsi̍t siú kua kua-siann íng-uán buē piàn-kuà",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "這首歌代替阮詛咒　這款愛的心晟　你甘知影",
+      "spelling": "tsi̍t siú kua piàn-thè gún tsiù-tsuā tsit-khuán ài ê sim tshiânn lí kam tsai-iánn",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "自從愛著你這個人　惦惦想著你的名",
+      "spelling": "tsū-tsiông ài-tio̍h lí tsit-ê lâng tiām-tiām siūnn-tio̍h lí ê miâ",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "想欲看到你的形影　這款愛的心晟　特別想嘜唱歌",
+      "spelling": "siūnn-beh khuànn-tio̍h lí ê hîng-iánn tsit-khuán ài ê sim tsiah ti̍k-pia̍t siūnn bē tshiùnn-kua",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "愛這首歌唱乎你一個人聽　不知你甘有聽出阮心聲",
+      "spelling": "ài tsi̍t siú kua hōo lí tsi̍t ê lâng thiann m̄ tsai lí kam ū thiann-tshut gún sim-siann",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "越頭看才知這條感情線　早已經將你綁惦心肝",
+      "spelling": "ua̍t-thâu khuànn tsiah tsai tsi̍t tiâu kám-tsîng suànn tsá í-king tsiòng lí pa̍k te sim-kuann",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "愛這首歌你嘜唱乎誰人聽　我置這等你歌聲來作伴",
+      "spelling": "tsi̍t siú kua lí bē tshiùnn hōo siáng-lâng thiann guá tì tsia tán lí kua-siann lâi tsuè-phuānn",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "你愛我我愛你的這首歌　親像雨乎風攏吹袜散",
+      "spelling": "lí ài guá guá ài lí ê tsi̍t siú kua tshin-tshiūnn hōo hōo hong lóng tshue buē suánn",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "自從愛著你這個人　惦惦想著你的名",
+      "spelling": "tsū-tsiông ài-tio̍h lí tsit-ê lâng tiām-tiām siūnn-tio̍h lí ê miâ",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "想欲看到你的形影　這款愛的心晟　特別想嘜唱歌",
+      "spelling": "siūnn-beh khuànn-tio̍h lí ê hîng-iánn tsit-khuán ài ê sim tsiah ti̍k-pia̍t siūnn bē tshiùnn-kua",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "想欲為你唱一首歌　歌聲永遠袜變卦",
+      "spelling": "siūnn-beh uî lí tshiùnn tsi̍t siú kua kua-siann íng-uán buē piàn-kuà",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "這首歌代替阮詛咒　這款愛的心晟　特別想嘜唱歌",
+      "spelling": "tsi̍t siú kua piàn-thè gún tsiù-tsuā tsit-khuán ài ê sim tshiânn ti̍k-pia̍t siūnn bē tshiùnn-kua",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "愛這首歌唱乎你一個人聽　不知你甘有聽出阮心聲",
+      "spelling": "ài tsi̍t siú kua hōo lí tsi̍t ê lâng thiann m̄ tsai lí kam ū thiann-tshut gún sim-siann",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "越頭看才知這條感情線　早已經將你綁惦心肝",
+      "spelling": "ua̍t-thâu khuànn tsiah tsai tsi̍t tiâu kám-tsîng suànn tsá í-king tsiòng lí pa̍k te sim-kuann",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "愛這首歌你嘜唱乎誰人聽　我置這等你歌聲來作伴",
+      "spelling": "tsi̍t siú kua lí bē tshiùnn hōo siáng-lâng thiann guá tì tsia tán lí kua-siann lâi tsuè-phuānn",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "你愛我我愛你的這首歌　親像雨乎風攏吹袜散",
+      "spelling": "lí ài guá guá ài lí ê tsi̍t siú kua tshin-tshiūnn hōo hōo hong lóng tshue buē suánn",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "真心對待用心感覺　有你的手做靠山",
+      "spelling": "tsin-sim tuì-thāi iōng-sim kám-kak ū lí ê tshiú tsò khò-suann",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "酸甜苦澀兩個人擔　只要牽你手　永遠不怕孤單",
+      "spelling": "sng-tinn-khóo-siap nn̄g-ê lâng tann tsí-iàu khan lí ê tshiú íng-uán m̄-kiann koo-tuann",
+      "source_lines": [
+        52,
+        53
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

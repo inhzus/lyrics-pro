@@ -1,0 +1,537 @@
+{
+  "candidates": [
+    {
+      "song_id": 378950,
+      "title": "牵阮的手",
+      "artists": [
+        "孙建平 & Sweet Style"
+      ],
+      "album": "音乐磁场5",
+      "duration": 260.173,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 521416119,
+      "title": "牵阮的手",
+      "artists": [
+        "蔡幸娟"
+      ],
+      "album": "绝版情歌(2) 台湾歌声 快乐的出帆",
+      "duration": 264.533,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 235721,
+      "title": "牵阮的手",
+      "artists": [
+        "高胜美"
+      ],
+      "album": "美不胜收",
+      "duration": 264.066,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 520459576,
+      "title": "牵阮的手",
+      "artists": [
+        "音乐磁场"
+      ],
+      "album": "音乐磁场5 台语经典名曲",
+      "duration": 260.205,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 162419,
+      "title": "牵阮的手",
+      "artists": [
+        "温金龙"
+      ],
+      "album": "窃窃私语",
+      "duration": 342.826,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 318742,
+      "title": "牵阮的手",
+      "artists": [
+        "于台烟"
+      ],
+      "album": "一切都还好",
+      "duration": 278.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 34072441,
+      "title": "牵阮的手",
+      "artists": [
+        "高胜美"
+      ],
+      "album": "台湾情歌头一辑",
+      "duration": 262.083,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2001508446,
+      "title": "牵阮的手",
+      "artists": [
+        "高胜美"
+      ],
+      "album": "台语尚好",
+      "duration": 264.066,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 218701,
+      "title": "牵阮的手",
+      "artists": [
+        "陈盈洁",
+        "沉孟生"
+      ],
+      "album": "陈盈洁VS老朋友II 酒醉黑白话",
+      "duration": 254.573,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 378950,
+      "title": "牵阮的手",
+      "artists": [
+        "孙建平 & Sweet Style"
+      ],
+      "album": "音乐磁场5",
+      "duration": 260.173,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 521416119,
+      "title": "牵阮的手",
+      "artists": [
+        "蔡幸娟"
+      ],
+      "album": "绝版情歌(2) 台湾歌声 快乐的出帆",
+      "duration": 264.533,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 235721,
+      "title": "牵阮的手",
+      "artists": [
+        "高胜美"
+      ],
+      "album": "美不胜收",
+      "duration": 264.066,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 520459576,
+      "title": "牵阮的手",
+      "artists": [
+        "音乐磁场"
+      ],
+      "album": "音乐磁场5 台语经典名曲",
+      "duration": 260.205,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 162419,
+      "title": "牵阮的手",
+      "artists": [
+        "温金龙"
+      ],
+      "album": "窃窃私语",
+      "duration": 342.826,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 318742,
+      "title": "牵阮的手",
+      "artists": [
+        "于台烟"
+      ],
+      "album": "一切都还好",
+      "duration": 278.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 34072441,
+      "title": "牵阮的手",
+      "artists": [
+        "高胜美"
+      ],
+      "album": "台湾情歌头一辑",
+      "duration": 262.083,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2001508446,
+      "title": "牵阮的手",
+      "artists": [
+        "高胜美"
+      ],
+      "album": "台语尚好",
+      "duration": 264.066,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 218701,
+      "title": "牵阮的手",
+      "artists": [
+        "陈盈洁",
+        "沉孟生"
+      ],
+      "album": "陈盈洁VS老朋友II 酒醉黑白话",
+      "duration": 254.573,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 521416119,
+      "title": "牵阮的手",
+      "artists": [
+        "蔡幸娟"
+      ],
+      "album": "绝版情歌(2) 台湾歌声 快乐的出帆",
+      "duration": 264.533,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 378950,
+      "title": "牵阮的手",
+      "artists": [
+        "孙建平 & Sweet Style"
+      ],
+      "album": "音乐磁场5",
+      "duration": 260.173,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 235721,
+      "title": "牵阮的手",
+      "artists": [
+        "高胜美"
+      ],
+      "album": "美不胜收",
+      "duration": 264.066,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 520459576,
+      "title": "牵阮的手",
+      "artists": [
+        "音乐磁场"
+      ],
+      "album": "音乐磁场5 台语经典名曲",
+      "duration": 260.205,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 162419,
+      "title": "牵阮的手",
+      "artists": [
+        "温金龙"
+      ],
+      "album": "窃窃私语",
+      "duration": 342.826,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 318742,
+      "title": "牵阮的手",
+      "artists": [
+        "于台烟"
+      ],
+      "album": "一切都还好",
+      "duration": 278.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 34072441,
+      "title": "牵阮的手",
+      "artists": [
+        "高胜美"
+      ],
+      "album": "台湾情歌头一辑",
+      "duration": 262.083,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2001508446,
+      "title": "牵阮的手",
+      "artists": [
+        "高胜美"
+      ],
+      "album": "台语尚好",
+      "duration": 264.066,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 218701,
+      "title": "牵阮的手",
+      "artists": [
+        "陈盈洁",
+        "沉孟生"
+      ],
+      "album": "陈盈洁VS老朋友II 酒醉黑白话",
+      "duration": 254.573,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 370659,
+      "title": "牵阮的手",
+      "artists": [
+        "屏东狮子乡草埔国小学童"
+      ],
+      "album": "山上的百灵鸟(台湾天使之声系列)",
+      "duration": 266.135,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1293953788,
+      "title": "牵阮的手",
+      "artists": [
+        "陈丽莉"
+      ],
+      "album": "最爱台语经典2004 4",
+      "duration": 277.24,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 866049596,
+      "title": "牵阮的手",
+      "artists": [
+        "陈盈洁",
+        "沈孟生"
+      ],
+      "album": "吉马台语排行榜10",
+      "duration": 255.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 520459664,
+      "title": "牵阮的手",
+      "artists": [
+        "音乐磁场"
+      ],
+      "album": "音乐磁场27 孙建平的情歌(Bonus CD)",
+      "duration": 256.548,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 520459677,
+      "title": "牵阮的手",
+      "artists": [
+        "音乐磁场"
+      ],
+      "album": "音乐磁场26 精选台语磁典",
+      "duration": 262.243,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1948056046,
+      "title": "牵阮的手",
+      "artists": [
+        "一婉渔"
+      ],
+      "album": "牵阮的手",
+      "duration": 311.193,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1967448673,
+      "title": "牵阮的手",
+      "artists": [
+        "音乐厨房"
+      ],
+      "album": "现代流行台湾口味",
+      "duration": 276.333,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2638583704,
+      "title": "牵阮的手",
+      "artists": [
+        "赵公子"
+      ],
+      "album": "牵阮的手",
+      "duration": 235.714,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1967102170,
+      "title": "牵阮的手",
+      "artists": [
+        "怡菁"
+      ],
+      "album": "台湾流行歌曲精华 9",
+      "duration": 279.312,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1931751162,
+      "title": "牵阮的手",
+      "artists": [
+        "朱玄"
+      ],
+      "album": "中国浪漫二胡金曲集(二)",
+      "duration": 323.683,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3373139780,
+      "title": "牵阮的手",
+      "artists": [
+        "苏玮"
+      ],
+      "album": "",
+      "duration": 311.125,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2056363874,
+      "title": "牵阮的手",
+      "artists": [
+        "吴锡雄"
+      ],
+      "album": "KTV总动员 28 台语流行金曲",
+      "duration": 266.76,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1532266840",
+      "title": "牵阮的手",
+      "artists": [
+        "于台烟"
+      ],
+      "album": "一切都还好",
+      "duration": 278.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1792362199",
+      "title": "牵阮的手",
+      "artists": [
+        "龚玥"
+      ],
+      "album": "闽南情",
+      "duration": 275.507,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1694511663",
+      "title": "牵阮的手",
+      "artists": [
+        "音乐磁场"
+      ],
+      "album": "音乐磁场26-精选 台语磁典",
+      "duration": 262.2,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1694727902",
+      "title": "牵阮的手",
+      "artists": [
+        "蔡幸娟"
+      ],
+      "album": "绝版情歌(2)台湾歌声-快乐的出帆",
+      "duration": 264.533,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1532266840",
+      "title": "牵阮的手",
+      "artists": [
+        "于台烟"
+      ],
+      "album": "一切都还好",
+      "duration": 278.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1792362199",
+      "title": "牵阮的手",
+      "artists": [
+        "龚玥"
+      ],
+      "album": "闽南情",
+      "duration": 275.507,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1694511663",
+      "title": "牵阮的手",
+      "artists": [
+        "音乐磁场"
+      ],
+      "album": "音乐磁场26-精选 台语磁典",
+      "duration": 262.2,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1694727902",
+      "title": "牵阮的手",
+      "artists": [
+        "蔡幸娟"
+      ],
+      "album": "绝版情歌(2)台湾歌声-快乐的出帆",
+      "duration": 264.533,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16308886,
+      "title": "牵阮的手",
+      "artists": [
+        "苏打绿"
+      ],
+      "album": "十年一刻",
+      "duration": 233.586667,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

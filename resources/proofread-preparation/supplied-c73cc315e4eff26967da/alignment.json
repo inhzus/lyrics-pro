@@ -1,0 +1,243 @@
+{
+  "recording_id": "netease:350180",
+  "timing_source": "NetEase https://music.163.com/song?id=350180",
+  "manual_source": "User-supplied resources/lyrics-spelling/風尾-川秋沙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "repeat": 4,
+    "exact": 4,
+    "approximate": 4,
+    "unresolved": 2
+  },
+  "review_row_count": 10,
+  "unmatched_manual_ids": [
+    "line-31:0",
+    "line-37:0"
+  ],
+  "unused_repeat_ids": [],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 川秋沙",
+      "match_text": "作词 : 川秋沙",
+      "text": "作词 : 川秋沙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 川秋沙",
+      "match_text": "作曲 : 川秋沙",
+      "text": "作曲 : 川秋沙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 43.55,
+      "online_text": "满山欸花 亲像梦 拎欸山 拎欸影",
+      "match_text": "满山欸花 亲像梦 拎欸山 拎欸影",
+      "text": "滿山欸花 親像夢 拎欸山 拎欸影",
+      "spelling": "muá-suann ê hue tshin-tshiūnn bāng lí ê suann lí ê iánn",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 62.11,
+      "online_text": "五彩欸画 亲像梦 拎欸歌 拎欸声",
+      "match_text": "五彩欸画 亲像梦 拎欸歌 拎欸声",
+      "text": "五彩欸畫 親像夢 拎欸歌 拎欸聲",
+      "spelling": "ngóo-tshái ê uē tshin-tshiūnn bāng lí ê kua lí ê siann",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 115.26,
+      "online_text": "满山欸花 亲像梦 拎欸山 拎欸影",
+      "match_text": "满山欸花 亲像梦 拎欸山 拎欸影",
+      "text": "滿山欸花 親像夢 拎欸山 拎欸影",
+      "spelling": "muá-suann ê hue tshin-tshiūnn bāng lí ê suann lí ê iánn",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 133.05,
+      "online_text": "五彩欸画 亲像梦 拎欸歌 拎欸声",
+      "match_text": "五彩欸画 亲像梦 拎欸歌 拎欸声",
+      "text": "五彩欸畫 親像夢 拎欸歌 拎欸聲",
+      "spelling": "ngóo-tshái ê uē tshin-tshiūnn bāng lí ê kua lí ê siann",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 186.46,
+      "online_text": "风尾 花开 巷尾 月明",
+      "match_text": "风尾 花开 巷尾 月明",
+      "text": "風尾 花開 巷尾 月明",
+      "spelling": "hong-bué hue khui hāng-bué gue̍h miâ",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 204.35,
+      "online_text": "树尾 花落 梦醒 搁梦",
+      "match_text": "树尾 花落 梦醒 搁梦",
+      "text": "樹尾 花落 夢醒 擱夢",
+      "spelling": "tshiū-bué hue lo̍h bāng tshínn koh bāng",
+      "manual_id": "line-16:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 8,
+      "time": 220.79,
+      "online_text": "冬夜花落 秋蝉欲落",
+      "match_text": "冬夜花落 秋蝉欲落",
+      "text": "冬夜花落 秋蟬欲落",
+      "spelling": "tang iā hue lo̍h tshiu siâm buē lo̍h",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 230.0,
+      "online_text": "这勒世间 怎样惋叹",
+      "match_text": "这勒世间 怎样惋叹",
+      "text": "這勒世間 怎樣惋歎",
+      "spelling": "tsit ê sè-kan tsuánn-iūnn uan thàn",
+      "manual_id": "line-22:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 238.83,
+      "online_text": "悲欢合离 到底悲哀",
+      "match_text": "悲欢合离 到底悲哀",
+      "text": "悲歡合離 這麼悲哀",
+      "spelling": "pi-huan-ha̍p-lī tsiah-nī pi-ai",
+      "manual_id": "line-25:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 11,
+      "time": 247.58,
+      "online_text": "谁诶身世 到底幽怨",
+      "match_text": "谁诶身世 到底幽怨",
+      "text": "誰誒身世 到底幽怨",
+      "spelling": "tàu-té iu uàn siánn ê sin-sè",
+      "manual_id": "line-28:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 12,
+      "time": 274.33,
+      "online_text": "满山诶花 亲像拎欸影",
+      "match_text": "满山诶花 亲像拎欸影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 283.42,
+      "online_text": "心内欸话 哪里找",
+      "match_text": "心内欸话 哪里找",
+      "text": "心內欸話 叨位找",
+      "spelling": "sim-lāi ê uē tó-uī tshuē",
+      "manual_id": "line-34:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.714286
+    },
+    {
+      "source_row": 14,
+      "time": 292.62,
+      "online_text": "满山诶花 亲像拎欸影",
+      "match_text": "满山诶花 亲像拎欸影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 301.08,
+      "online_text": "心内欸话 心肝底",
+      "match_text": "心内欸话 心肝底",
+      "text": "心內欸話 心肝底",
+      "spelling": "sim-lāi ê uē sim-kuann té",
+      "manual_id": "line-40:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "5f19fdf25f87dc67debd2dc6d97409751c82b509534360be30876a016313255b",
+    "manual": "c3c059e8ac6bd5b59f2a94b65f4b6e557e15942def1d6de62de75c31401e1179",
+    "timed": "793bbc26ad48c0dc99f79023604da415ffc3e2d7396ee8c7eb3dd7781e782241"
+  }
+}

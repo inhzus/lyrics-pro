@@ -1,0 +1,342 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "在你的心中甘還有夢還是甲阮同款還在作夢",
+      "spelling": "tī lí ê sim-tiong kam ia̍h-ū bāng ia̍h sī kā kāng-khuán iáu leh tsuè-bāng",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "期待幸福快樂會通陪咱走過每一工",
+      "spelling": "kî-thāi hīng-hok khuài-lo̍k ē-thang puê lán kiânn-kuè muí tsi̍t kang",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "你擱憨憨置咧等啥米人趕緊提起勇氣講乎伊知",
+      "spelling": "lí koh gōng gōng tì leh tán siánn-mi̍h lâng kuánn-kín thê-khí ióng-khì kóng hōo i tsai",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "嘸通失去機會才來怨嘆無人知無人知",
+      "spelling": "m̄-thang sit-khì ki-huē tsiah lâi uàn-thàn bô-lâng tsai bô-lâng tsai",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "哪會無人知",
+      "spelling": "ná ē bô-lâng tsai",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "人說三年一運好壞照輪這是阿爸對阮講的話",
+      "spelling": "lâng kóng sann nî tsi̍t ūn hó-pháinn tsiàu-lûn tse sī a-pâ tuì gún kóng ê uē",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "若有認真肯打拼相信天公伯嘛會甲咱疼",
+      "spelling": "nā-ū līn-tsin khíng phah-piànn siong-sìn thinn-kong-peh mā ē kā lán thiànn",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "相信總有一工好運嘛會輪到咱",
+      "spelling": "siong-sìn tsóng-ū tsi̍t kang hó-ūn mā ē lûn-tio̍h lán",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "走這條人生的路難免有風有雨",
+      "spelling": "kiânn tsi̍t tiâu lîn-sing ê lōo lân bián ū hong ū hōo",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "只要咱小心踏好每一步嘸免驚找不到出路",
+      "spelling": "tsí-iàu lán sió-sim ta̍h hó muí tsi̍t pōo m̄-bián kiann tshuē-buē-tio̍h tshut-lōo",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "作伙抱著一個夢堅持的心不通放",
+      "spelling": "tsò-hué phō-tio̍h tsi̍t ê bāng ngē-sí ê sim m̄-thang pàng",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "等到若有一天機會若輪到咱要擋也擋不完",
+      "spelling": "tán-kàu nā-ū tsi̍t kang ki-huē ná lûn-tio̍h lán bē tòng mā tòng-buē-uân",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "就是欲出運啦喔",
+      "spelling": "tio̍h-sī buē tshut-ūn là ooh",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "在你的心中甘還有夢還是甲阮同款還在作夢",
+      "spelling": "tī lí ê sim-tiong kam ia̍h-ū bāng ia̍h sī kā kāng-khuán ia̍h leh tsuè-bāng",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "期待心愛的人會通陪咱走過每一工",
+      "spelling": "kî-thāi sim-ài ê lâng ē-tàng puê lán kiânn-kuè muí tsi̍t kang",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "你擱憨憨置咧等啥米人趕緊提起勇氣講乎伊知",
+      "spelling": "lí koh gōng gōng tì leh tán siánn-mi̍h lâng kuánn-kín thê-khí ióng-khì kóng hōo i tsai",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "嘸通失去一切才來怨嘆無人知無人知",
+      "spelling": "m̄-thang sit-khì it-tshè tsiah lâi uàn-thàn bô-lâng tsai bô-lâng tsai",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "哪會無人知",
+      "spelling": "ná ē bô-lâng tsai",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "人說三年一運好壞照輪這是阿爸對阮講的話",
+      "spelling": "lâng kóng sann nî tsi̍t ūn hó-pháinn tsiàu-lûn tse sī a-pâ tuì gún kóng ê uē",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "若有認真肯打拼相信天公伯嘛會甲咱疼",
+      "spelling": "nā-ū līn-tsin khíng phah-piànn siong-sìn thinn-kong-peh mā ē kā lán thiànn",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "相信總有一工好運嘛會輪到咱",
+      "spelling": "siong-sìn tsóng-ū tsi̍t kang hó-ūn mā ē lûn-tio̍h lán",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "走這條人生的路難免有風有雨",
+      "spelling": "kiânn tsi̍t tiâu lîn-sing ê lōo lân bián ū hong ū hōo",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "只要咱小心踏好每一步嘸免驚找不到出路",
+      "spelling": "tsí-iàu lán sió-sim ta̍h hó muí tsi̍t pōo m̄-bián kiann tshuē-buē-tio̍h tshut-lōo",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "作伙抱著一個夢堅持的心不通放",
+      "spelling": "tsò-hué phō-tio̍h tsi̍t ê bāng ngē-sí ê sim m̄-thang pàng",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "等到若有一天機會若輪到咱要擋也擋不完",
+      "spelling": "tán-kàu nā-ū tsi̍t kang ki-huē ná lûn-tio̍h lán bē tòng mā tòng-buē-uân",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "就是欲出運啦喔",
+      "spelling": "tio̍h-sī buē tshut-ūn là ooh",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "換你欲出運啦喔",
+      "spelling": "uānn lí bē tshut-ūn là ooh",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "換我欲出運啦喔",
+      "spelling": "uānn lí bē tshut-ūn là ooh",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "咱攏袂出運啦喔",
+      "spelling": "lán lóng bē tshut-ūn là ooh",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "走這條人生的路難免有風有雨",
+      "spelling": "kiânn tsi̍t tiâu lîn-sing ê lōo lân bián ū hong ū hōo",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "只要咱小心踏好每一步嘸免驚找不到出路",
+      "spelling": "tsí-iàu lán sió-sim ta̍h hó muí tsi̍t pōo m̄-bián kiann tshuē-buē-tio̍h tshut-lōo",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "作伙抱著一個夢堅持的心不通放",
+      "spelling": "tsò-hué phō-tio̍h tsi̍t ê bāng ngē-sí ê sim m̄-thang pàng",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "等到若有一天機會若輪到咱要擋也擋不完",
+      "spelling": "tán-kàu nā-ū tsi̍t kang ki-huē ná lûn-tio̍h lán bē tòng mā tòng-buē-uân",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "就是欲出運啦喔",
+      "spelling": "tio̍h-sī buē tshut-ūn là ooh",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "換你欲出運啦喔",
+      "spelling": "uānn lí bē tshut-ūn là ooh",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "換我欲出運啦喔",
+      "spelling": "uānn lí bē tshut-ūn là ooh",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "咱攏袂出運啦喔",
+      "spelling": "lán lóng bē tshut-ūn là ooh",
+      "source_lines": [
+        109,
+        110
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

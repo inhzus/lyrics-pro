@@ -1,0 +1,39 @@
+{
+  "selected": {
+    "song_id": "375431195",
+    "title": "日子",
+    "artists": [
+      "灭火器"
+    ],
+    "album": "海上的人",
+    "duration": 182.049,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:375431195",
+      "duration": 182.049,
+      "ready": false,
+      "coverage": 1.0,
+      "exact_fraction": 0.9523809523809523,
+      "summary": {
+        "exact": 7,
+        "repeat": 13,
+        "approximate": 1
+      }
+    },
+    {
+      "recording_id": "lrcapi:1547227433",
+      "duration": 181.027,
+      "ready": false,
+      "coverage": 0.5714285714285714,
+      "exact_fraction": 0.2857142857142857,
+      "summary": {
+        "approximate": 6,
+        "repeat": 6,
+        "unresolved": 9
+      }
+    }
+  ]
+}

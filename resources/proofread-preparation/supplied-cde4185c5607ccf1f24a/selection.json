@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 156643,
+    "title": "Kiss Me(星星知我心)",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "爱你伍佰年",
+    "duration": 257.555,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:156643",
+      "duration": 257.555,
+      "ready": false,
+      "coverage": 0.47619047619047616,
+      "exact_fraction": 0.2857142857142857,
+      "summary": {
+        "unresolved": 11,
+        "repeat": 4,
+        "exact": 2,
+        "approximate": 4,
+        "gap": 1
+      }
+    }
+  ]
+}

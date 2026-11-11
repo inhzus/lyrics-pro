@@ -1,0 +1,321 @@
+{
+  "schema_version": 1,
+  "id": "supplied-794b992d79807fc0f460",
+  "revision": "1",
+  "title": "心愛的再會啦",
+  "title_aliases": [],
+  "artist": "伍佰 & China Blue",
+  "album": "树枝孤鸟",
+  "duration": 335.389,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:157180",
+    "timing_source": "NetEase https://music.163.com/song?id=157180",
+    "manual_source": "resources/lyrics-spelling/心愛的再會啦-伍佰",
+    "audio_verified": false,
+    "agent_review": "Explicitly reviewed supplied phrase grouping, sequence, repetitions and wording differences. Keep source words/readings; preserve every provider timestamp. No audio verification.",
+    "input_sha256": {
+      "original": "693259e61230d64a4aa735799fd903388b48ce3d39cfe4283a32ce4bfe47820c",
+      "manual": "7a42c8813333923c345dce10e3ab8e17e4f41b58e3891dfea42fe6ce757483ab",
+      "timed": "1c2d30a93b1efb20b750f7a954f99b5de7587207d730d119b3c6d9a45e9ab231"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "credit": 4,
+      "exact": 16,
+      "approximate": 2,
+      "gap": 2
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作词 : 伍佰",
+        "status": "credit",
+        "text": "作词 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 1.0,
+        "online_text": "作曲 : 伍佰",
+        "status": "credit",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 2.0,
+        "online_text": "编曲 : 伍佰 & China Blue",
+        "status": "credit",
+        "text": "编曲 : 伍佰 & China Blue",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 3.0,
+        "online_text": "制作人 : 伍佰",
+        "status": "credit",
+        "text": "制作人 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 44.0,
+        "online_text": "海上的 船螺声已经响起",
+        "status": "exact",
+        "text": "海上的 船螺聲已經響起",
+        "spelling": "hái-siōng ê tsûn lê siann í-king hiáng-khí",
+        "manual_id": "line-3:0+line-3:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 50.0,
+        "online_text": "对你犹原情绵绵 今日要来离开",
+        "status": "exact",
+        "text": "對你猶原情綿綿 今日要來離開",
+        "spelling": "tuì lí iu-guân tsîng mî mî kim ji̍t beh lâi lī-khui",
+        "manual_id": "line-6:0+line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 58.0,
+        "online_text": "心爱的 不甘看你珠泪滴",
+        "status": "exact",
+        "text": "心愛的 不甘看你珠淚滴",
+        "spelling": "tshin-ài ê m̄ kam khuànn lī tsu luī tih",
+        "manual_id": "line-9:0+line-9:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 65.0,
+        "online_text": "在我不在的日子 你着保重自己",
+        "status": "exact",
+        "text": "在我不在的日子 你著保重自己",
+        "spelling": "tī guá put-tsāi ê ji̍t tsí lī tio̍h pó-tiōng tsū-kí",
+        "manual_id": "line-12:0+line-12:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 73.0,
+        "online_text": "异乡啊 总有坎坷路要行",
+        "status": "exact",
+        "text": "異鄉啊 總有坎坷路要行",
+        "spelling": "ī-hiong tsóng ū khám khia̍t lōo ài kiânn",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 81.0,
+        "online_text": "我袂寂寞 有你在我的心肝",
+        "status": "exact",
+        "text": "我袂寂寞 有你在我的心肝",
+        "spelling": "guá buē siok-bo̍k ū lī tī guá ê sim-kuann",
+        "manual_id": "line-18:0+line-18:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 88.0,
+        "online_text": "男儿啊 立志他乡为生活",
+        "status": "exact",
+        "text": "男兒啊 立志他鄉為生活",
+        "spelling": "lâm-jî ah li̍p-tsì thann-hiong uî sing-ua̍h",
+        "manual_id": "line-21:0+line-21:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 96.0,
+        "online_text": "和你团圆 在我成功的时",
+        "status": "approximate",
+        "text": "和妳團圓 在我成功的時",
+        "spelling": "kah lī thuân-înn tsāi-guá sîng-kong ê sî",
+        "manual_id": "line-24:0+line-24:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 103.0,
+        "online_text": "最后的 船螺声又再响起",
+        "status": "exact",
+        "text": "最後的 船螺聲又再響起",
+        "spelling": "tsuè-āu ê tsûn lê siann iū tsài hiáng-khí",
+        "manual_id": "line-27:0+line-27:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 110.0,
+        "online_text": "犹原不甘来离开",
+        "status": "exact",
+        "text": "猶原不甘來離開",
+        "spelling": "iu-guân put kam lâi lī-khui",
+        "manual_id": "line-30:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 114.0,
+        "online_text": "手牵着心爱的 再会啦",
+        "status": "exact",
+        "text": "手牽著心愛的 再會啦",
+        "spelling": "tshiú khan tio̍h tshin-ài ê tsài-huē là",
+        "manual_id": "line-30:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 131.0,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 149.0,
+        "online_text": "异乡啊 总有坎坷路要行",
+        "status": "exact",
+        "text": "異鄉啊 總有坎坷路要行",
+        "spelling": "ī-hiong tsóng ū khám khia̍t lōo ài kiânn",
+        "manual_id": "line-33:0+line-33:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 156.0,
+        "online_text": "我袂寂寞 有你在我的心肝",
+        "status": "exact",
+        "text": "我袂寂寞 有你在我的心肝",
+        "spelling": "guá buē siok-bo̍k ū lī tī guá ê sim-kuann",
+        "manual_id": "line-36:0+line-36:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 163.0,
+        "online_text": "男儿啊 立志他乡为生活",
+        "status": "exact",
+        "text": "男兒啊 立志他鄉為生活",
+        "spelling": "lâm-jî ah li̍p-tsì tha hiong uî sing-ua̍h",
+        "manual_id": "line-39:0+line-39:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 171.0,
+        "online_text": "和你团圆 在我成功的时",
+        "status": "approximate",
+        "text": "和妳團圓 在我成功的時",
+        "spelling": "kah lī thuân-înn tsāi-guá sîng-kong ê sî",
+        "manual_id": "line-43:0+line-43:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 179.0,
+        "online_text": "最后的 船螺声又再响起",
+        "status": "exact",
+        "text": "最後的 船螺聲又再響起",
+        "spelling": "tsuè-āu ê tsûn lê siann iū tsài hiáng-khí",
+        "manual_id": "line-46:0+line-46:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 186.0,
+        "online_text": "犹原不甘来离开",
+        "status": "exact",
+        "text": "猶原不甘來離開",
+        "spelling": "iu-guân put kam lâi lī-khui",
+        "manual_id": "line-49:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 190.0,
+        "online_text": "手牵着心爱的 再会啦",
+        "status": "exact",
+        "text": "手牽著心愛的 再會啦",
+        "spelling": "tshiú khan tio̍h tshin-ài ê tsài-huē là",
+        "manual_id": "line-49:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 205.0,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

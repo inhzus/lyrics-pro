@@ -1,0 +1,608 @@
+{
+  "recording_id": "lrcapi:1230303050",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E5%8D%8A%E7%9C%A0&artist=%E5%AD%A9%E5%AD%90%E7%8E%8B&album=%E6%9C%80%E7%AA%98%E4%B8%B8#1230303050",
+  "manual_source": "User-supplied resources/lyrics-spelling/半眠-孩子王",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "unresolved": 26,
+    "repeat": 12,
+    "exact": 3,
+    "approximate": 2
+  },
+  "review_row_count": 31,
+  "unmatched_manual_ids": [
+    "line-27:0",
+    "line-30:0"
+  ],
+  "unused_repeat_ids": [
+    "line-6:0",
+    "line-15:0",
+    "line-18:0",
+    "line-21:0",
+    "line-33:0",
+    "line-36:0",
+    "line-39:0",
+    "line-42:0",
+    "line-48:0",
+    "line-57:0",
+    "line-60:0",
+    "line-75:0",
+    "line-78:0",
+    "line-81:0",
+    "line-84:0",
+    "line-90:0",
+    "line-99:0",
+    "line-102:0",
+    "line-108:0",
+    "line-117:0",
+    "line-120:0",
+    "line-126:0",
+    "line-135:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0.713,
+      "online_text": "我看著那年的電影‭ ‬演阿演‭ ‬",
+      "match_text": "我看著那年的電影‭ ‬演阿演‭ ‬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 5.066,
+      "online_text": "每一段只有影卻沒聲",
+      "match_text": "每一段只有影卻沒聲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 2,
+      "time": 9.265,
+      "online_text": "身軀它提醒著我 那時的燒熱",
+      "match_text": "身軀它提醒著我 那時的燒熱",
+      "text": "身軀它提醒著我那時的燒熱",
+      "spelling": "sin-khu i thinn-tshínn-tio̍h guá hit-sî ê sio-jua̍h",
+      "manual_id": "line-9:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 18.019,
+      "online_text": "我看著那年的電影‭ ‬搬阿搬",
+      "match_text": "我看著那年的電影‭ ‬搬阿搬",
+      "text": "我看著那年的電影 搬阿搬",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn puann ah puann",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 22.151,
+      "online_text": "每一段只有心內它知道",
+      "match_text": "每一段只有心內它知道",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 26.464,
+      "online_text": "屬於我們的歌 會永遠留在我的心肝‭ ‬",
+      "match_text": "屬於我們的歌 會永遠留在我的心肝‭ ‬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 36.318,
+      "online_text": "半眠兩點多‭ ‬想起之前的生活",
+      "match_text": "半眠兩點多‭ ‬想起之前的生活",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 43.613,
+      "online_text": "經過了這多年‭ ‬最懷念‭依然是那段",
+      "match_text": "經過了這多年‭ ‬最懷念‭依然是那段",
+      "text": "經過了這多年 最懷念 依然是那段",
+      "spelling": "king-kuè-liáu tsiah tsē nî siōng huâi-liām iû-uân sī hit tuānn",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 52.111,
+      "online_text": "我們在頂樓玩耍‭ ‬有月娘偷偷的看",
+      "match_text": "我們在頂樓玩耍‭ ‬有月娘偷偷的看",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 61.01,
+      "online_text": "也有街坊鄰居跑過來罵",
+      "match_text": "也有街坊鄰居跑過來罵",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 70.565,
+      "online_text": "什麼都不怕的年輕人 現在是跑去哪",
+      "match_text": "什麼都不怕的年輕人 現在是跑去哪",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 79.268,
+      "online_text": "心內那麼簡單的快樂 現在在哪裡啊",
+      "match_text": "心內那麼簡單的快樂 現在在哪裡啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 86.412,
+      "online_text": "我看著那年的電影‭ ‬演阿演‭ ‬",
+      "match_text": "我看著那年的電影‭ ‬演阿演‭ ‬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 90.718,
+      "online_text": "每一段只有影卻沒聲",
+      "match_text": "每一段只有影卻沒聲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 94.962,
+      "online_text": "身軀它提醒著我 那時的燒熱",
+      "match_text": "身軀它提醒著我 那時的燒熱",
+      "text": "身軀它提醒著我那時的燒熱",
+      "spelling": "sin-khu i thinn-tshínn-tio̍h guá hit-sî ê sio-jua̍h",
+      "manual_id": "line-9:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 103.564,
+      "online_text": "我看著那年的電影‭ ‬搬阿搬",
+      "match_text": "我看著那年的電影‭ ‬搬阿搬",
+      "text": "我看著那年的電影 搬阿搬",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn puann ah puann",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 107.914,
+      "online_text": "每一段只有心內它知道",
+      "match_text": "每一段只有心內它知道",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 112.116,
+      "online_text": "屬於我們的歌 會永遠留在我的心肝‭ ‬",
+      "match_text": "屬於我們的歌 會永遠留在我的心肝‭ ‬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 139.234,
+      "online_text": "半眠兩點多‭ ‬沒了你們的生活",
+      "match_text": "半眠兩點多‭ ‬沒了你們的生活",
+      "text": "半眠兩點多 沒了你們的生活",
+      "spelling": "puànn bîn nn̄g tiám guā bô-liáu lín ê sing-ua̍h",
+      "manual_id": "line-63:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 146.415,
+      "online_text": "奮鬥的這幾年‭ ‬最懷念‭依然是那段",
+      "match_text": "奮鬥的這幾年‭ ‬最懷念‭依然是那段",
+      "text": "奮鬥的這幾年 最懷念 依然是那段",
+      "spelling": "hùn-tàu ê tsit-kuí-nî siōng huâi-liām iû-uân sī hit tuānn",
+      "manual_id": "line-66:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 155.011,
+      "online_text": "咱唱著歌烤肉‭ ‬咱作伙瘋到透早",
+      "match_text": "咱唱著歌烤肉‭ ‬咱作伙瘋到透早",
+      "text": "咱唱著歌夯肉 咱作伙瘋到透早",
+      "spelling": "lán tshiùnn-tio̍h kua hang bah lán tsò-hué siáu-kah thàu-tsá",
+      "manual_id": "line-69:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 21,
+      "time": 163.619,
+      "online_text": "沒錢就一起買泡麵來吃",
+      "match_text": "沒錢就一起買泡麵來吃",
+      "text": "沒錢就當至買泡麵來吃",
+      "spelling": "bô tshînn tio̍h tang tsì bé phàu-mī lâi tsia̍h",
+      "manual_id": "line-72:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 22,
+      "time": 173.413,
+      "online_text": "什麼都不怕的年輕人 現在是跑去哪",
+      "match_text": "什麼都不怕的年輕人 現在是跑去哪",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 182.066,
+      "online_text": "心內那麼簡單的快樂 現在在哪裡啊",
+      "match_text": "心內那麼簡單的快樂 現在在哪裡啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 189.31,
+      "online_text": "我看著那年的電影‭ ‬演阿演‭ ‬",
+      "match_text": "我看著那年的電影‭ ‬演阿演‭ ‬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 193.568,
+      "online_text": "每一段只有影卻沒聲",
+      "match_text": "每一段只有影卻沒聲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 197.833,
+      "online_text": "身軀它提醒著我 那時的燒熱",
+      "match_text": "身軀它提醒著我 那時的燒熱",
+      "text": "身軀它提醒著我那時的燒熱",
+      "spelling": "sin-khu i thinn-tshínn-tio̍h guá hit-sî ê sio-jua̍h",
+      "manual_id": "line-9:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 206.313,
+      "online_text": "我看著那年的電影‭ ‬搬阿搬",
+      "match_text": "我看著那年的電影‭ ‬搬阿搬",
+      "text": "我看著那年的電影 搬阿搬",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn puann ah puann",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 210.718,
+      "online_text": "每一段只有心內它知道",
+      "match_text": "每一段只有心內它知道",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 215.012,
+      "online_text": "屬於我們的歌 會永遠留在我的心肝‭ ‬",
+      "match_text": "屬於我們的歌 會永遠留在我的心肝‭ ‬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 223.564,
+      "online_text": "我看著那年的電影‭ ‬演阿演‭ ‬",
+      "match_text": "我看著那年的電影‭ ‬演阿演‭ ‬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 227.868,
+      "online_text": "每一段只有影卻沒聲",
+      "match_text": "每一段只有影卻沒聲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 232.169,
+      "online_text": "身軀它提醒著我 那時的燒熱",
+      "match_text": "身軀它提醒著我 那時的燒熱",
+      "text": "身軀它提醒著我那時的燒熱",
+      "spelling": "sin-khu i thinn-tshínn-tio̍h guá hit-sî ê sio-jua̍h",
+      "manual_id": "line-9:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 240.716,
+      "online_text": "我看著那年的電影‭ ‬搬阿搬",
+      "match_text": "我看著那年的電影‭ ‬搬阿搬",
+      "text": "我看著那年的電影 搬阿搬",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn puann ah puann",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 245.063,
+      "online_text": "每一段只有心內它知道",
+      "match_text": "每一段只有心內它知道",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 249.216,
+      "online_text": "屬於我們的歌 會永遠留在我的心肝‭ ‬",
+      "match_text": "屬於我們的歌 會永遠留在我的心肝‭ ‬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 257.964,
+      "online_text": "我看著那年的電影‭ ‬演阿演‭ ‬",
+      "match_text": "我看著那年的電影‭ ‬演阿演‭ ‬",
+      "text": "我看著那年的電影 演阿演",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn ián ah ián",
+      "manual_id": "line-87:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 262.162,
+      "online_text": "每一段只有影卻沒聲",
+      "match_text": "每一段只有影卻沒聲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 266.419,
+      "online_text": "身軀它提醒著我 那時的燒熱",
+      "match_text": "身軀它提醒著我 那時的燒熱",
+      "text": "身軀它提醒著我那時的燒熱",
+      "spelling": "sin-khu i thinn-tshínn-tio̍h guá hit-sî ê sio-jua̍h",
+      "manual_id": "line-9:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 274.967,
+      "online_text": "我看著那年的電影‭ ‬搬阿搬",
+      "match_text": "我看著那年的電影‭ ‬搬阿搬",
+      "text": "我看著那年的電影 搬阿搬",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn puann ah puann",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 279.318,
+      "online_text": "每一段只有心內它知道",
+      "match_text": "每一段只有心內它知道",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 296.015,
+      "online_text": "半眠兩點多‭ ‬沒了你們的生活",
+      "match_text": "半眠兩點多‭ ‬沒了你們的生活",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 302.866,
+      "online_text": "經過了這多年‭ ‬最懷念‭依然是那段",
+      "match_text": "經過了這多年‭ ‬最懷念‭依然是那段",
+      "text": "經過了這多年 最懷念 依然是那段",
+      "spelling": "king-kuè-liáu tsiah tsē nî siōng huâi-liām iû-uân sī hit tuānn",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "ee3a97cec5b41818ded3fc84132fc472adb5fb323f2534b60dd83065851ed171",
+    "manual": "620d1c7ca39a881f0162db52313b7fa448c24c63bf0482b85963e66fec7a6e3f",
+    "timed": "b0c62b5ed8743395ba72d3b47b5e06eba3fbc3130738b146b71dd437e2134fed"
+  }
+}

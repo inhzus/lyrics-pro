@@ -1,0 +1,292 @@
+{
+  "candidates": [
+    {
+      "song_id": 175576,
+      "title": "红尘",
+      "artists": [
+        "小曲儿"
+      ],
+      "album": "欲 黑鸢",
+      "duration": 252.969,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 318225,
+      "title": "红尘",
+      "artists": [
+        "叶蒨文"
+      ],
+      "album": "红尘",
+      "duration": 262.16,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 406089325,
+      "title": "红尘",
+      "artists": [
+        "叶蒨文"
+      ],
+      "album": "华纳我爱经典系列-叶倩文",
+      "duration": 262.191,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 426833092,
+      "title": "红尘",
+      "artists": [
+        "流浪的蛙蛙"
+      ],
+      "album": "红尘",
+      "duration": 253.022,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 400161333,
+      "title": "红尘",
+      "artists": [
+        "叶蒨文"
+      ],
+      "album": "华纳23周年纪念精选系列 - 叶蒨文",
+      "duration": 262.191,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1363947720,
+      "title": "红尘",
+      "artists": [
+        "德格叶",
+        "黎智坚措"
+      ],
+      "album": "红尘",
+      "duration": 232.502,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3362276442,
+      "title": "红尘",
+      "artists": [
+        "叶倩文"
+      ],
+      "album": "",
+      "duration": 261.666,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1679437719",
+      "title": "红尘",
+      "artists": [
+        "若水音乐工作室"
+      ],
+      "album": "神秘的国度",
+      "duration": 291.892,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1703552486",
+      "title": "红尘",
+      "artists": [
+        "马雨阳"
+      ],
+      "album": "马雨阳早期作品集 - EP",
+      "duration": 226.282,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "626696591",
+      "title": "红尘",
+      "artists": [
+        "王崴"
+      ],
+      "album": "灵动",
+      "duration": 487.84,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1787389980",
+      "title": "红尘",
+      "artists": [
+        "山海安乐"
+      ],
+      "album": "红尘 - Single",
+      "duration": 172.235,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1669992857",
+      "title": "红尘",
+      "artists": [
+        "夏婉安"
+      ],
+      "album": "红尘 - Single",
+      "duration": 233.514,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "983537629",
+      "title": "红尘",
+      "artists": [
+        "黄思婷"
+      ],
+      "album": "红尘",
+      "duration": 295.267,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1686367928",
+      "title": "红尘",
+      "artists": [
+        "李翊君"
+      ],
+      "album": "勇敢的爱",
+      "duration": 256.04,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "201572890",
+      "title": "红尘",
+      "artists": [
+        "叶蒨文"
+      ],
+      "album": "红尘",
+      "duration": 262.16,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "201537227",
+      "title": "红尘",
+      "artists": [
+        "叶蒨文"
+      ],
+      "album": "24K Mastersonic 精选: 叶蒨文 II",
+      "duration": 262.16,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1679437719",
+      "title": "红尘",
+      "artists": [
+        "若水音乐工作室"
+      ],
+      "album": "神秘的国度",
+      "duration": 291.892,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1703552486",
+      "title": "红尘",
+      "artists": [
+        "马雨阳"
+      ],
+      "album": "马雨阳早期作品集 - EP",
+      "duration": 226.282,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "626696591",
+      "title": "红尘",
+      "artists": [
+        "王崴"
+      ],
+      "album": "灵动",
+      "duration": 487.84,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1787389980",
+      "title": "红尘",
+      "artists": [
+        "山海安乐"
+      ],
+      "album": "红尘 - Single",
+      "duration": 172.235,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1669992857",
+      "title": "红尘",
+      "artists": [
+        "夏婉安"
+      ],
+      "album": "红尘 - Single",
+      "duration": 233.514,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "983537629",
+      "title": "红尘",
+      "artists": [
+        "黄思婷"
+      ],
+      "album": "红尘",
+      "duration": 295.267,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1686367928",
+      "title": "红尘",
+      "artists": [
+        "李翊君"
+      ],
+      "album": "勇敢的爱",
+      "duration": 256.04,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "201572890",
+      "title": "红尘",
+      "artists": [
+        "叶蒨文"
+      ],
+      "album": "红尘",
+      "duration": 262.16,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "201537227",
+      "title": "红尘",
+      "artists": [
+        "叶蒨文"
+      ],
+      "album": "24K Mastersonic 精选: 叶蒨文 II",
+      "duration": 262.16,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 38608112,
+      "title": "紅塵",
+      "artists": [
+        "黃思婷"
+      ],
+      "album": "紅塵",
+      "duration": 295.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

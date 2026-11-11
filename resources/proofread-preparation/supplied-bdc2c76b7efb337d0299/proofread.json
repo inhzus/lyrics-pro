@@ -1,0 +1,231 @@
+{
+  "recording_id": "lrcapi:1753652884",
+  "source": "User-supplied resources/lyrics-spelling/貳伍這冬-拍謝少年",
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "佇這款無夢的日",
+      "spelling": "tī tsit-khuán bô bāng ê li̍t",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "隨風搧動的人生",
+      "spelling": "suî-hong siàn tōng ê lîn-sing",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "是阮無夠打拼",
+      "spelling": "sī gún bô-kàu phah-piànn",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "抑是無緣份",
+      "spelling": "ia̍h-sī bô-iân hun",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "一世人無暝無日",
+      "spelling": "tsi̍t-sì-lâng bô-mî-bô-li̍t",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "為著賺食來浮沈",
+      "spelling": "uī-tio̍h thàn-tsia̍h lâi phû-tîm",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "怨嘆袂當改變",
+      "spelling": "uàn-thàn buē-tàng kái-piàn",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "阮飄泊的一生",
+      "spelling": "gún phiau-pi̍k ê it-sing",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "故鄉的夢、親情的心",
+      "spelling": "kòo-hiong ê bāng tshin-tsîng ê sim",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "生份的人疼痛",
+      "spelling": "tshinn-hūn ê lâng thiànn-thàng",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "原諒阮愛眠夢",
+      "spelling": "guân-liōng gún ài bîn-bāng",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "見講一句：有我無別人",
+      "spelling": "kiàn kóng tsi̍t kù ū guá bô pa̍t-lâng",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "你講自由的路",
+      "spelling": "lí kóng tsū-iû ê lōo",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "毋通拖沙",
+      "spelling": "m̄-thang thua-sua",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "青春才是夢啊",
+      "spelling": "tshing-tshun tsiah sī bāng ah",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "只有講著一句、喝著一句",
+      "spelling": "tsí-ū kóng tio̍h tsi̍t kù huah-tio̍h tsi̍t kù",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "唉～唉～唉～唉",
+      "spelling": "haih haih haih haih",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "思念的心",
+      "spelling": "su-liām ê sim",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "這擺我攏敢擔",
+      "spelling": "tsit-pái guá lóng kánn tann",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "自由佇眠夢",
+      "spelling": "tsū-iû te bîn-bāng",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "夢中我佇佗位啊",
+      "spelling": "bāng-tiong guá tī tó-uī ah",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "堅強的男兒",
+      "spelling": "kian-kiông ê lâm-lî",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "孤單的烏暗暝",
+      "spelling": "koo-tuann ê oo-àm-mî",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "溫柔的男兒",
+      "spelling": "un-liû ê lâm-lî",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "毋驚風雨去",
+      "spelling": "m̄-kiann hong hōo khì",
+      "source_lines": [
+        73,
+        74
+      ]
+    }
+  ]
+}

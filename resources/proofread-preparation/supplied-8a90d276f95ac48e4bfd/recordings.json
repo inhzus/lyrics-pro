@@ -1,0 +1,106 @@
+{
+  "candidates": [
+    {
+      "song_id": 28528289,
+      "title": "饮水思源",
+      "artists": [
+        "萧煌奇"
+      ],
+      "album": "上水的花",
+      "duration": 262.733,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2037153193,
+      "title": "饮水思源",
+      "artists": [
+        "扎西尼玛"
+      ],
+      "album": "饮水思源",
+      "duration": 252.546,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1883173057,
+      "title": "饮水思源",
+      "artists": [
+        "王丽达"
+      ],
+      "album": "饮水思源",
+      "duration": 266.112,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2143273249,
+      "title": "饮水思源",
+      "artists": [
+        "温金翰",
+        "小婧少吃点"
+      ],
+      "album": "饮水思源",
+      "duration": 213.399,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3397380561,
+      "title": "飲水思源",
+      "artists": [
+        "宋俊明",
+        "辦桌阿傑"
+      ],
+      "album": "我挺你",
+      "duration": 265.285,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1341677673,
+      "title": "饮水思源",
+      "artists": [
+        "大先生BPBPBP"
+      ],
+      "album": "饮水思源 # Thanksgiving",
+      "duration": 211.8,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1443111586,
+      "title": "饮水思源",
+      "artists": [
+        "Kz"
+      ],
+      "album": "饮水思源",
+      "duration": 178.368,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1999634636,
+      "title": "饮水思源",
+      "artists": [
+        "Jahnava Devi Dasi"
+      ],
+      "album": "金色月光",
+      "duration": 241.229,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3386182250,
+      "title": "饮水思源",
+      "artists": [
+        "钱筱源"
+      ],
+      "album": "饮水思源",
+      "duration": 213.123,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,135 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "你咁都不知道 這片土地不是咱的",
+      "spelling": "lí kam lóng m̄ tsai-iánn tsit phìnn thóo-tē m̄ sī lán ê",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "是宇宙萬物暫時借給咱來用",
+      "spelling": "sī ú-tiū bān-mi̍h tsiām-sî tsioh hōo lán lâi iōng",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "你那忍心傷害他讓他悲傷流目屎",
+      "spelling": "lí ná lím-sim siong-hāi i hōo i pi-siong lâu ba̍k-sái",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "Formosa 為你寫一條母親的歌",
+      "spelling": "Formosa uî lí siá tsi̍t tiâu bú-tshin ê kua",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "Formosa 你咁有聽到我為你大聲唱歌",
+      "spelling": "Formosa lí kam ū thiann-tio̍h gún ài uî lí uî lí tuā-siann tshiùnn-kua",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "Formosa 為你寫一條母親的歌",
+      "spelling": "Formosa uî lí siá tsi̍t tiâu bú-tshin ê kua",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "Formosa 你咁有聽到我為你大聲唱歌",
+      "spelling": "Formosa lí kam ū thiann-tio̍h gún ài uî lí uî lí tuā-siann tshiùnn-kua",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "你咁都不知道 這片海洋不是咱的",
+      "spelling": "lí kam lóng m̄ tsai-iánn tsit phìnn hái-iûnn m̄ sī lán ê",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "是地球萬物共同分享的美麗",
+      "spelling": "sī tē-kiû bān-mi̍h kiōng-tông hun-hiáng ê bí-lē",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "你那忍心傷害他讓他悲傷流目屎",
+      "spelling": "lí ná lím-sim siong-hāi i hōo i pi-siong lâu ba̍k-sái",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "媽祖魚 為你寫一條思念的歌",
+      "spelling": "Má-tsóo-hî uî lí siá tsi̍t tiâu su-liām ê kua",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "媽祖魚 你咁有聽到我為你大聲唱歌",
+      "spelling": "Má-tsóo-hî lí kam ū thiann-tio̍h gún ài uî lí uî lí tuā-siann tshiùnn-kua",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "媽祖魚 為你寫一條思念的歌",
+      "spelling": "Má-tsóo-hî uî lí siá tsi̍t tiâu su-liām ê kua",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "媽祖魚 你咁有聽到我為你大聲唱歌",
+      "spelling": "Má-tsóo-hî lí kam ū thiann-tio̍h gún ài uî lí uî lí tuā-siann tshiùnn-kua",
+      "source_lines": [
+        42,
+        43
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:1,3"
+  ]
+}

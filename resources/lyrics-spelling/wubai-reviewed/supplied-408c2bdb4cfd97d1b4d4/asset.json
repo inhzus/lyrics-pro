@@ -1,0 +1,441 @@
+{
+  "schema_version": 1,
+  "id": "supplied-408c2bdb4cfd97d1b4d4",
+  "revision": "1",
+  "title": "往事欲如何",
+  "title_aliases": [],
+  "artist": "伍佰 & China Blue",
+  "album": "忘情1015精选辑",
+  "duration": 263.053,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:156372",
+    "timing_source": "NetEase https://music.163.com/song?id=156372",
+    "manual_source": "resources/lyrics-spelling/往事欲如何-伍佰",
+    "audio_verified": false,
+    "agent_review": "Explicitly reviewed supplied phrase grouping, sequence, repetitions and wording differences. Keep source words/readings; preserve every provider timestamp. No audio verification.",
+    "input_sha256": {
+      "original": "a5bd7a0ea467b4099021c9fbb002fba11d47331e613a35483c666ccf98156352",
+      "manual": "f4f1e12d046a6d7770dc8839b28a98170d32c35b2137d84944dee00b65283c0e",
+      "timed": "d23dbe812cf4cd871bbcdbd2d14a4608bf9c79b905d2ec633307ac8d839693bf"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "credit": 3,
+      "exact": 21,
+      "approximate": 7,
+      "gap": 3
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作词 : 伍佰",
+        "status": "credit",
+        "text": "作词 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 1.0,
+        "online_text": "作曲 : 伍佰",
+        "status": "credit",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 2.0,
+        "online_text": "编曲 : 伍佰 & China Blue",
+        "status": "credit",
+        "text": "编曲 : 伍佰 & China Blue",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 28.27,
+        "online_text": "风吹影摇移",
+        "status": "exact",
+        "text": "風吹影搖移",
+        "spelling": "hong-tshue iánn iô î",
+        "manual_id": "line-3:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 31.54,
+        "online_text": "伴着 麻黄的树枝",
+        "status": "exact",
+        "text": "伴著 麻黃的樹枝",
+        "spelling": "phuānn tio̍h mah n̂g ê tshiū-ki",
+        "manual_id": "line-3:1+line-6:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 39.37,
+        "online_text": "看见海面的",
+        "status": "exact",
+        "text": "看見海面的",
+        "spelling": "khuànn kìnn hái-bīn ê",
+        "manual_id": "line-9:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 43.43,
+        "online_text": "烧风 拆破了云碎",
+        "status": "approximate",
+        "text": "燒風 拆破了雲碎",
+        "spelling": "sio hong thiah-phuà liáu hûn tshuì",
+        "manual_id": "line-9:1+line-12:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 50.63,
+        "online_text": "难免轰轰叫",
+        "status": "exact",
+        "text": "難免轟轟叫",
+        "spelling": "lân-bián hong hong kiò",
+        "manual_id": "line-15:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 55.19,
+        "online_text": "海螺 听见你踌蹴",
+        "status": "exact",
+        "text": "海螺 聽見你躊蹴",
+        "spelling": "hái lê thiann-kìnn lí tiû-tî",
+        "manual_id": "line-15:1+line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 61.89,
+        "online_text": "眼前离别时",
+        "status": "exact",
+        "text": "眼前離別時",
+        "spelling": "gán-tsiân lī-pia̍t sî",
+        "manual_id": "line-21:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 66.24,
+        "online_text": "你是 波浪伊是水",
+        "status": "approximate",
+        "text": "妳是 波浪伊是水",
+        "spelling": "lí sī pho-lōng i sī tsuí",
+        "manual_id": "line-21:1+line-24:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 71.36,
+        "online_text": "越头伊不愿切",
+        "status": "exact",
+        "text": "越頭伊不願切",
+        "spelling": "ua̍t-thâu i m̄ guān tshè",
+        "manual_id": "line-27:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 77.53,
+        "online_text": "往事欲如何",
+        "status": "exact",
+        "text": "往事欲如何",
+        "spelling": "óng-sū beh lû-hô",
+        "manual_id": "line-27:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 82.77,
+        "online_text": "要将伊初恋心肝放在佗",
+        "status": "exact",
+        "text": "要將伊初戀心肝放在佗",
+        "spelling": "beh tsiòng i tshoo luân sim-kuann khǹg tī tui",
+        "manual_id": "line-30:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 88.45,
+        "online_text": "熟识你了后佗位找",
+        "status": "approximate",
+        "text": "熟識妳了後佗位找",
+        "spelling": "si̍k-sāi lí liáu-āu tó-uī tshuē",
+        "manual_id": "line-33:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 94.14,
+        "online_text": "眼泪嘛不愿切",
+        "status": "exact",
+        "text": "眼淚嘛不願切",
+        "spelling": "gán luī mah m̄ guān tshè",
+        "manual_id": "line-36:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 99.94,
+        "online_text": "以后欲如何",
+        "status": "exact",
+        "text": "以後欲如何",
+        "spelling": "í-āu beh lû-hô",
+        "manual_id": "line-36:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 104.25,
+        "online_text": "我知影恁拢暂时不要想这",
+        "status": "exact",
+        "text": "我知影恁攏暫時不要想這",
+        "spelling": "guá tsai-iánn lín lóng tsiām-sî bô ài siūnn tse",
+        "manual_id": "line-39:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 110.19,
+        "online_text": "拢说无话",
+        "status": "exact",
+        "text": "攏說無話",
+        "spelling": "lóng kóng bô uē",
+        "manual_id": "line-42:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 113.51,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 161.74,
+        "online_text": "越头伊不愿切",
+        "status": "exact",
+        "text": "越頭伊不願切",
+        "spelling": "ua̍t-thâu i m̄ guān tshè",
+        "manual_id": "line-45:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 166.03,
+        "online_text": "往事欲如何",
+        "status": "exact",
+        "text": "往事欲如何",
+        "spelling": "óng-sū beh lû-hô",
+        "manual_id": "line-45:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 172.08,
+        "online_text": "要将伊失恋心肝放在佗",
+        "status": "approximate",
+        "text": "要將伊失戀心肝放在哪",
+        "spelling": "beh tsiòng i sit luân sim-kuann khǹg tī tui",
+        "manual_id": "line-48:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 178.81,
+        "online_text": "离开你了后佗位找",
+        "status": "approximate",
+        "text": "離開妳了後佗位找",
+        "spelling": "lī-khui lí liáu-āu tó-uī tshuē",
+        "manual_id": "line-51:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 184.26,
+        "online_text": "海风嘛不愿切",
+        "status": "exact",
+        "text": "海風嘛不願切",
+        "spelling": "hái-hong mah m̄ guān tshè",
+        "manual_id": "line-54:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 189.26,
+        "online_text": "白云欲如何",
+        "status": "exact",
+        "text": "白雲欲如何",
+        "spelling": "pe̍h-hûn beh lû-hô",
+        "manual_id": "line-54:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 193.96,
+        "online_text": "我知影恁拢暂时不要受罪",
+        "status": "exact",
+        "text": "我知影恁攏暫時不要受罪",
+        "spelling": "guá tsai-iánn lín lóng tsiām-sî bô ài siū-tsuē",
+        "manual_id": "line-57:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 27,
+        "time": 200.23,
+        "online_text": "爱情是假",
+        "status": "exact",
+        "text": "愛情是假",
+        "spelling": "ài-tsîng sī ké",
+        "manual_id": "line-60:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 28,
+        "time": 203.72,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 29,
+        "time": 208.61,
+        "online_text": "站在你身边",
+        "status": "approximate",
+        "text": "站在妳身邊",
+        "spelling": "khiā tsāi lí sin-pinn",
+        "manual_id": "line-63:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 30,
+        "time": 211.8,
+        "online_text": "犁头 没说半个字",
+        "status": "approximate",
+        "text": "犁頭 沒說半個字",
+        "spelling": "lê-thâu bô kóng puànn ê jī",
+        "manual_id": "line-63:1+line-66:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 31,
+        "time": 218.0,
+        "online_text": "难免轰轰叫",
+        "status": "exact",
+        "text": "難免轟轟叫",
+        "spelling": "lân-bián hong hong kiò",
+        "manual_id": "line-69:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 32,
+        "time": 223.56,
+        "online_text": "海螺 欲来潜水鼻",
+        "status": "exact",
+        "text": "海螺 欲來潛水鼻",
+        "spelling": "hái lê beh lâi tsiâm tsuí phīnn",
+        "manual_id": "line-69:1+line-72:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 33,
+        "time": 228.0,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

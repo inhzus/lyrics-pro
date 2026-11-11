@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 2089497128,
+      "title": "怀念你妈妈",
+      "artists": [
+        "林根阵"
+      ],
+      "album": "半醉半清醒",
+      "duration": 264.96,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

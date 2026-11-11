@@ -1,0 +1,219 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "街頭街尾　短短的一條街",
+      "spelling": "kue-thâu ka ke te té té ê tsi̍t tiâu ke",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "囡仔仔時候 走到大漢　不知要走幾回",
+      "spelling": "gín-á sî-tsūn kiânn-kah tuā-hàn m̄ tsai beh kiânn kuí huê",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "古早厝的巷仔尾　阮來掩古雞",
+      "spelling": "kóo-tsá tshù ê hāng-á bé gún lâi ng kóo ke",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "師公在彼廟口唸經與弄樓是亂亂轉",
+      "spelling": "sai kong tī he biō-kháu liām king kah lāng lâu sī lāng lāng se̍h",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "阿母叫阮去街尾　給憨春仔買發糕",
+      "spelling": "a-bú kiò gún khì ke bé kā gōng tshun á bué huat-ké",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "拖著淺拖來到街尾",
+      "spelling": "thua tio̍h tshián thua lâi kah kue bé",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "來福仔在殺雞",
+      "spelling": "lâi hok á tī thâi ke",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "隔壁的木杞仔 跟人在冤家",
+      "spelling": "keh-piah ê bo̍k kí á kā lâng tī uan-ke",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "阿涼伯阿佇的茶店仔講古是真笑虧",
+      "spelling": "a liâng peh ah kong tī tê-tiàm-á kóng kóo sī tsin tshiò ke",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "走呀走呀　走呀走　走到了街尾",
+      "spelling": "kiânn ah kiânn ah kiânn ah kiânn kiânn-kàu liáu kue bé",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "憨春仔講伊生意不做　講伊要去吹鼓吹",
+      "spelling": "gōng tshun á kóng i sing-lí buē tsuè kóng i bē khì m̄ kóo-tshui",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "街頭街尾　短短的一條街",
+      "spelling": "kue-thâu ka ke te té té ê tsi̍t tiâu ke",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "囡仔仔時候 走到大漢　不知要走幾回",
+      "spelling": "gín-á sî-tsūn kiânn-kah tuā-hàn m̄ tsai beh kiânn kuí huê",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "古早厝的巷仔尾　阮來掩古雞",
+      "spelling": "kóo-tsá tshù ê hāng-á bé gún lâi ng kóo ke",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "師公在彼廟口唸經與弄樓是亂亂轉",
+      "spelling": "sai kong tī he biō-kháu liām king kah lāng lâu sī lāng lāng se̍h",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "走呀走斂　走呀走　走到了街尾",
+      "spelling": "kiânn ah kiânn liám kiânn ah kiânn-kàu liáu kue bé",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "憨春仔講伊生意不做　講伊要去吹鼓吹",
+      "spelling": "gōng tshun á kóng i sing-lí buē tsuè kóng i bē khì m̄ kóo-tshui",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "走呀走斂　走呀走　走到了街尾",
+      "spelling": "kiânn ah kiânn liám kiânn ah kiânn-kàu liáu kue bé",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "憨春仔講伊生意不做　講伊要去吹鼓吹",
+      "spelling": "gōng tshun á kóng i sing-lí buē tsuè kóng i bē khì m̄ kóo-tshui",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "走呀走斂　走呀走　走到了街尾",
+      "spelling": "kiânn ah kiânn liám kiânn ah kiânn-kàu liáu kue bé",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "憨春仔講伊生意不做　講伊要去吹鼓吹",
+      "spelling": "gōng tshun á kóng i sing-lí buē tsuè kóng i bē khì m̄ kóo-tshui",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "走呀走斂　走呀走　走到了街尾",
+      "spelling": "kiânn ah kiânn liám kiânn ah kiânn-kàu liáu kue bé",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "憨春仔講伊生意不做　講伊要去吹鼓吹",
+      "spelling": "gōng tshun á kóng i sing-lí buē tsuè kóng i bē khì m̄ kóo-tshui",
+      "source_lines": [
+        69,
+        70
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：陳明瑜 作曲：陳明章 台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

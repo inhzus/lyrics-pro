@@ -1,0 +1,95 @@
+{
+  "candidates": [
+    {
+      "song_id": 386942,
+      "title": "黑白讲",
+      "artists": [
+        "五月天"
+      ],
+      "album": "第一张创作专辑",
+      "duration": 235.6,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 534902298,
+      "title": "黑白讲",
+      "artists": [
+        "Minsta音乐厂牌"
+      ],
+      "album": "黑白讲",
+      "duration": 240.172,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 533480792,
+      "title": "黑白讲",
+      "artists": [
+        "J-Mo",
+        "Am",
+        "Big Daddy"
+      ],
+      "album": "黑白讲",
+      "duration": 240.332,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1335819615,
+      "title": "黑白讲",
+      "artists": [
+        "石尤"
+      ],
+      "album": "小姐卖song",
+      "duration": 213.239,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3430747852,
+      "title": "黑白讲",
+      "artists": [
+        "xiangxiaoshi"
+      ],
+      "album": "黑白讲",
+      "duration": 286.44,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2683015790,
+      "title": "黑白讲",
+      "artists": [
+        "那川"
+      ],
+      "album": "黑白讲",
+      "duration": 206.533,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2683019019,
+      "title": "黑白讲",
+      "artists": [
+        "祁松涛"
+      ],
+      "album": "黑白讲",
+      "duration": 209.2,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2683010316,
+      "title": "黑白讲",
+      "artists": [
+        "秦博"
+      ],
+      "album": "黑白讲",
+      "duration": 213.133,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

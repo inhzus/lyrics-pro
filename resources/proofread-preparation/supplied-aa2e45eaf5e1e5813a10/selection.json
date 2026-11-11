@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "song_id": "375431208",
+    "title": "自由路",
+    "artists": [
+      "灭火器"
+    ],
+    "album": "海上的人",
+    "duration": 194.229,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:375431208",
+      "duration": 194.229,
+      "ready": false,
+      "coverage": 0.6847826086956522,
+      "exact_fraction": 0.7272727272727273,
+      "summary": {
+        "unresolved": 6,
+        "repeat": 12,
+        "exact": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 3423332434,
+      "title": "吃饭皇帝大",
+      "artists": [
+        "王侦亦"
+      ],
+      "album": "光明之城",
+      "duration": 280.758,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1510912564",
+      "title": "吃饭皇帝大",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "众神护台湾 (黑胶版)",
+      "duration": 192.893,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "842352312",
+      "title": "吃饭皇帝大",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "众神护台湾",
+      "duration": 192.893,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

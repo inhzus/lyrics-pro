@@ -1,0 +1,156 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "麥擱講這濟 麥擱講廢話 我有我的路 無人通呼擋",
+      "spelling": "mái koh kóng tsiah tsē  mái koh kóng huì-uē  guá ū guá ê lōo  bô-lâng thàng hoo keh",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "油門加摧落 ハンドル  甲轉落 來就是欲贏",
+      "spelling": "iû-mn̂g ka tshui lo̍h  handoru  kā tńg lo̍h  lâi tio̍h sī beh iânn",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "誰插汝第二名 速度親像風 這條我雄熊 這是我地盤",
+      "spelling": "siáng tshah lí tē lī miâ  sok-tōo tshin-tshiūnn hong  tsit tiâu guá siông hîm  tse sī guá tē-puânn",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "角頭我尚派 眼神親像豹 誰看誰就驚 這是我的命",
+      "spelling": "kak-thâu guá siōng phài  gán-sîn tshin-tshiūnn pà  siáng khuànn siáng tio̍h kiann  tsit sī guá ê miā",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "早就天注定",
+      "spelling": "tsá tio̍h thinn tsù-tiānn",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "舞台我雄大 我是恁的王 我叫恁衝啥 恁著愛站聲",
+      "spelling": "bú-tâi guá siông tuā  guá sī lín ê ông  guá kiò lín tshòng-siánn  lín tio̍h ài tsām siann",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "生命唱的歌 土地寫的歌 雙腳站佇這 啥咪攏嘸驚",
+      "spelling": "sènn-miā tshiùnn ê kua  thóo-tē siá ê kua  siang-kha tsām tī tsia  siánn-mih lóng m̄-kiann",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "伊的一句話 永遠會記的 無論是安怎 攏愛繼續行",
+      "spelling": "i ê tsi̍t kù uē  íng-uán ē kì ē  bô-lūn sī an-tsuánn  lóng ài kè-sio̍k kiânn",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "無啥咪好怨忿 無啥咪倘後悔 一人一款命 死嘛要死惦底這",
+      "spelling": "bô siánn-mih hó uàn tseh  bô siánn-mih tǎng hiō-hué  tsi̍t lâng tsi̍t khuán miā  sí mā beh sú tiām té tsia",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "嗚嗚～ 嗚嗚～ 嗚嗚～ 嗚嗚～",
+      "spelling": "oo oo～ oo oo～ oo oo～ oo oo～",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "速度親像風 這條我雄熊 這是我地盤",
+      "spelling": "sok-tōo tshin-tshiūnn hong  tsit tiâu guá siông hîm  tse sī guá tē-puânn",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "角頭我尚派 眼神親像豹 誰看誰就驚 這是我的命",
+      "spelling": "kak-thâu guá siōng phài  gán-sîn tshin-tshiūnn pà  siáng khuànn siáng tio̍h kiann  tsit sī guá ê miā",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "早就天注定",
+      "spelling": "tsá tio̍h thinn tsù-tiānn",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "速度親像風 這條我雄熊 這是我地盤",
+      "spelling": "sok-tōo tshin-tshiūnn hong  tsit tiâu guá siông hîm  tse sī guá tē-puânn",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "角頭我尚派 眼神親像豹 誰看誰就驚",
+      "spelling": "kak-thâu guá siōng phài  gán-sîn tshin-tshiūnn pà  siáng khuànn siáng tio̍h kiann",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "一人一款命　死嘛要死惦底這",
+      "spelling": "tsi̍t lâng tsi̍t khuán miā  sí mā beh sú tiām té tsia",
+      "source_lines": [
+        48,
+        49
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳永吉   作曲：吳永吉   台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

@@ -1,0 +1,333 @@
+{
+  "schema_version": 1,
+  "id": "supplied-893fcbba0b343b0ad07b",
+  "revision": "1",
+  "title": "萬丈深坑",
+  "title_aliases": [],
+  "source_path": "resources/lyrics-spelling/萬丈深坑-伍佰",
+  "approved": true,
+  "audio_verified": false,
+  "recording": {
+    "reference": "netease:157178",
+    "duration": 248.533,
+    "album": "树枝孤鸟",
+    "title": "万丈深坑",
+    "artist": "伍佰 & China Blue"
+  },
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂",
+  "reason": "Split explicit three-column pairs and preserve inspected wording variants.",
+  "source_spelling_notes": [],
+  "assignments": [
+    {
+      "source_row": 0,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 1,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 2,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 3,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:0"
+      ],
+      "reason": "Split explicit three-column pairs and preserve inspected wording variants."
+    },
+    {
+      "source_row": 4,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 5,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:2"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 6,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-6:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 7,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 8,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-6:2"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 9,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-9:0"
+      ],
+      "reason": "Split explicit three-column pairs and preserve inspected wording variants."
+    },
+    {
+      "source_row": 10,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-9:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 11,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-9:2"
+      ],
+      "reason": "Split explicit three-column pairs and preserve inspected wording variants."
+    },
+    {
+      "source_row": 12,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-12:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 13,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-12:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 14,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-12:2"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 15,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 16,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 17,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-18:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 18,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:0"
+      ],
+      "reason": "Split explicit three-column pairs and preserve inspected wording variants."
+    },
+    {
+      "source_row": 19,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 20,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:2"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 21,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-6:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 22,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 23,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-6:2"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 24,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-9:0"
+      ],
+      "reason": "Split explicit three-column pairs and preserve inspected wording variants."
+    },
+    {
+      "source_row": 25,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-9:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 26,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-9:2"
+      ],
+      "reason": "Split explicit three-column pairs and preserve inspected wording variants."
+    },
+    {
+      "source_row": 27,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-12:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 28,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-12:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 29,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-12:2"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 30,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 31,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 32,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-18:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 33,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 34,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 35,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-18:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 36,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 37,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 38,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-48:0"
+      ],
+      "reason": "Split explicit three-column pairs and preserve inspected wording variants."
+    }
+  ],
+  "input_sha256": {
+    "original": "8ede184eba23a93d235f3cfecef3990b67fd80a49834c578bfdf47942e13f3df",
+    "manual": "374c63bc83e417ee9342632926a81d884b5ea474e06872fbcf0d9bd21a3dfa5a",
+    "timed": "1191d73d2f815a5e53291cb444a508b7aac2529e0564947c8bbf30fdc65e5abc"
+  }
+}

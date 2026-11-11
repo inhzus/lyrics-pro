@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "id": "supplied-6c7e22788a5a450a65b2",
+  "revision": "1",
+  "title": "台十七",
+  "artist": "拍謝少年",
+  "album": "海口味",
+  "duration": 208.144,
+  "language": "supplied",
+  "attribution": "User-provided transcription. ",
+  "alignment": {
+    "recording_id": "lrcapi:1753653086",
+    "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E5%8F%B0%E5%8D%81%E4%B8%83&artist=%E6%8B%8D%E8%AC%9D%E5%B0%91%E5%B9%B4&album=%E6%B5%B7%E5%8F%A3%E5%91%B3#1753653086",
+    "manual_source": "User-supplied resources/lyrics-spelling/台十七-拍謝少年",
+    "audio_verified": false,
+    "strict_complete": true,
+    "ambiguous_sequence_alignment": false,
+    "summary": {
+      "exact": 7
+    },
+    "review_row_count": 0,
+    "unmatched_manual_ids": [],
+    "unused_repeat_ids": [],
+    "duplicate_timestamp_values": [],
+    "boundary_warnings": [],
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 56.06,
+        "online_text": "每工早起的時陣 若來看著你的朋友啊",
+        "match_text": "每工早起的時陣 若來看著你的朋友啊",
+        "text": "每工早起的時陣 若來看著你的朋友啊",
+        "spelling": "mué-kang tsá-khí ê sî-tsūn ná lâi khuànn-tio̍h lí ê pîng-iú ah",
+        "manual_id": "line-1:0+line-4:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 1,
+        "time": 60.8,
+        "online_text": "敢會輕鬆寡",
+        "match_text": "敢會輕鬆寡",
+        "text": "敢會輕鬆寡",
+        "spelling": "kám-ē khin-sang kuá",
+        "manual_id": "line-7:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 2,
+        "time": 62.96,
+        "online_text": "是按怎我的生活齷齪 心情不時沉重",
+        "match_text": "是按怎我的生活齷齪 心情不時沉重",
+        "text": "是按怎我的生活齷齪 心情不時沉重",
+        "spelling": "sī án-tsuánn guá ê sing-ua̍h ok-tshok sim-tsîng put-sî tîm-tāng",
+        "manual_id": "line-10:0+line-13:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 3,
+        "time": 67.03,
+        "online_text": "嘛不願共你講",
+        "match_text": "嘛不願共你講",
+        "text": "嘛不願共你講",
+        "spelling": "mā m̄-guān kā lí kóng",
+        "manual_id": "line-16:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 4,
+        "time": 70.1,
+        "online_text": "轉去過去的海岸 才知影都市的生活咱是袂扭掠",
+        "match_text": "轉去過去的海岸 才知影都市的生活咱是袂扭掠",
+        "text": "轉去過去的海岸 才知影都市的生活咱是袂扭掠",
+        "spelling": "tńg-khì kuè-khì ê hái-huānn tsiah tsai-iánn too-tshī ê sing-ua̍h lán sī bē liú-lia̍h",
+        "manual_id": "line-19:0+line-22:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 5,
+        "time": 77.05,
+        "online_text": "是我青春幼稚痟眠夢 大聲喝朋友啊",
+        "match_text": "是我青春幼稚痟眠夢 大聲喝朋友啊",
+        "text": "是我青春幼稚痟眠夢 大聲喝朋友啊",
+        "spelling": "sī guá tshing-tshun iù-tī siáu bîn-bāng tuā-siann huah pîng-iú ah",
+        "manual_id": "line-25:0+line-28:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 6,
+        "time": 81.74,
+        "online_text": "咱著輕鬆活啊",
+        "match_text": "咱著輕鬆活啊",
+        "text": "咱著輕鬆活啊",
+        "spelling": "lán tio̍h khin-sang ua̍h ah",
+        "manual_id": "line-31:0",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      }
+    ],
+    "input_sha256": {
+      "original_source": "56c1feef0091fbe4563b823bc3f17cbaa812353a6b609108333e811b5c3bfd93",
+      "manual": "7ccde7b71d32c1547eabf27c979d792c13ac29358d743f3b1f3887427c83cbb6",
+      "timed": "cd7a5c25f362da3b3d582c774a2a1c9f4082942f3a5ce64d9d48647c97af4004"
+    }
+  }
+}

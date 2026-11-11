@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 29717872,
+    "title": "一幕一幕",
+    "artists": [
+      "农村武装青年"
+    ],
+    "album": "幸福在哪里",
+    "duration": 339.093,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:29717872",
+      "duration": 339.093,
+      "ready": false,
+      "coverage": 0.8571428571428571,
+      "exact_fraction": 0.6190476190476191,
+      "summary": {
+        "repeat": 6,
+        "approximate": 5,
+        "exact": 7,
+        "unresolved": 3,
+        "gap": 2
+      }
+    }
+  ]
+}

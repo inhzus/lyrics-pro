@@ -1,0 +1,687 @@
+{
+  "recording_id": "netease:385793",
+  "timing_source": "NetEase https://music.163.com/song?id=385793",
+  "manual_source": "User-supplied resources/lyrics-spelling/出頭天-五月天",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 4,
+    "approximate": 7,
+    "unresolved": 33,
+    "gap": 4,
+    "exact": 1
+  },
+  "review_row_count": 41,
+  "unmatched_manual_ids": [
+    "line-6:0",
+    "line-18:0",
+    "line-33:0",
+    "line-39:0",
+    "line-87:0"
+  ],
+  "unused_repeat_ids": [
+    "line-21:0",
+    "line-24:0",
+    "line-27:0",
+    "line-30:0",
+    "line-51:0",
+    "line-54:0",
+    "line-57:0",
+    "line-60:0",
+    "line-63:0",
+    "line-66:0",
+    "line-69:0",
+    "line-72:0",
+    "line-75:0",
+    "line-78:0",
+    "line-81:0",
+    "line-84:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 五月天 阿信",
+      "match_text": "作词 : 五月天 阿信",
+      "text": "作词 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 五月天 阿信",
+      "match_text": "作曲 : 五月天 阿信",
+      "text": "作曲 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "编曲 : 五月天",
+      "match_text": "编曲 : 五月天",
+      "text": "编曲 : 五月天",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 3.0,
+      "online_text": "制作人 : 五月天",
+      "match_text": "制作人 : 五月天",
+      "text": "制作人 : 五月天",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 4,
+      "time": 10.749,
+      "online_text": "伫我的天顶 敢有人会看见",
+      "match_text": "伫我的天顶 敢有人会看见",
+      "text": "在我的天頂 甘有人會看見",
+      "spelling": "tī guá ê thinn-tíng kam ū lâng ē khuànn-kìnn",
+      "manual_id": "line-3:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.818182
+    },
+    {
+      "source_row": 5,
+      "time": 16.809,
+      "online_text": "看着我毋甘愿按呢过一生",
+      "match_text": "看着我毋甘愿按呢过一生",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 22.379,
+      "online_text": "伫我的一生 我甘愿来相信",
+      "match_text": "伫我的一生 我甘愿来相信",
+      "text": "在我的一生 我甘願來相信",
+      "spelling": "tī guá ê it-sing guá kam-guān lâi siong-sìn",
+      "manual_id": "line-9:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 7,
+      "time": 28.439,
+      "online_text": "每一蕊花拢有家己的春天",
+      "match_text": "每一蕊花拢有家己的春天",
+      "text": "每一朵花都有自己的春天",
+      "spelling": "muí tsi̍t luí hue lóng ū ka-kī ê tshun-thinn",
+      "manual_id": "line-12:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.727273
+    },
+    {
+      "source_row": 8,
+      "time": 34.499,
+      "online_text": "伫我的天顶 大雨落袂停",
+      "match_text": "伫我的天顶 大雨落袂停",
+      "text": "在我的天頂 大雨落不停",
+      "spelling": "tī guá ê thinn-tíng  tuā-hōo làu buē thîng",
+      "manual_id": "line-15:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 9,
+      "time": 40.599,
+      "online_text": "嘛袂当改变着我的条直",
+      "match_text": "嘛袂当改变着我的条直",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 47.87,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 11,
+      "time": 48.999,
+      "online_text": "永远等待彼一日",
+      "match_text": "永远等待彼一日",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 53.199,
+      "online_text": "咱会当出头天",
+      "match_text": "咱会当出头天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 55.519,
+      "online_text": "人生毋惊风涌 只惊家己无志气",
+      "match_text": "人生毋惊风涌 只惊家己无志气",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 62.199,
+      "online_text": "彼一日 咱会当出头天",
+      "match_text": "彼一日 咱会当出头天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 66.82,
+      "online_text": "我向望的日子",
+      "match_text": "我向望的日子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 70.429,
+      "online_text": "会真紧来到阮身边",
+      "match_text": "会真紧来到阮身边",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 77.899,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 18,
+      "time": 84.22,
+      "online_text": "伫我的天顶 敢有人咧保庇",
+      "match_text": "伫我的天顶 敢有人咧保庇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 90.5,
+      "online_text": "为怎样我定定摔甲头壳流血",
+      "match_text": "为怎样我定定摔甲头壳流血",
+      "text": "為怎樣我常常摔的頭殼流血",
+      "spelling": "uî tsuánn-iūnn guá tiānn-tiānn siak ka thâu-khak lâu-hueh",
+      "manual_id": "line-36:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 20,
+      "time": 95.52,
+      "online_text": "血焦会坚疕 失败嘛无失志",
+      "match_text": "血焦会坚疕 失败嘛无失志",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 101.53,
+      "online_text": "成功是咱家己看家己会起",
+      "match_text": "成功是咱家己看家己会起",
+      "text": "成功是咱自己看自己得起",
+      "spelling": "sîng-kong sī lán ka-kī khuànn ka-kī ê khí",
+      "manual_id": "line-42:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.727273
+    },
+    {
+      "source_row": 22,
+      "time": 108.0,
+      "online_text": "飘浪的日子 等待着时机",
+      "match_text": "飘浪的日子 等待着时机",
+      "text": "飄浪的日子 等待著時機",
+      "spelling": "phiau long ê li̍t-tsí tán-thāi tio̍h sî-ki",
+      "manual_id": "line-45:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 113.75,
+      "online_text": "我毋信命运会遮尔无情",
+      "match_text": "我毋信命运会遮尔无情",
+      "text": "我不信命運會這麼無情",
+      "spelling": "guá m̄ sìn miā-ūn ē tsiah-nī bô-tsîng",
+      "manual_id": "line-48:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.7
+    },
+    {
+      "source_row": 24,
+      "time": 121.399,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 25,
+      "time": 122.89,
+      "online_text": "永远等待彼一日",
+      "match_text": "永远等待彼一日",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 126.339,
+      "online_text": "咱会当出头天",
+      "match_text": "咱会当出头天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 129.19,
+      "online_text": "人生毋惊风涌",
+      "match_text": "人生毋惊风涌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 131.949,
+      "online_text": "只惊家己无志气",
+      "match_text": "只惊家己无志气",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 135.339,
+      "online_text": "彼一日 咱会当出头天",
+      "match_text": "彼一日 咱会当出头天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 140.29,
+      "online_text": "我向望的日子",
+      "match_text": "我向望的日子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 143.749,
+      "online_text": "会真紧来到阮身边",
+      "match_text": "会真紧来到阮身边",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 151.839,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 33,
+      "time": 172.39,
+      "online_text": "永远等待彼一日",
+      "match_text": "永远等待彼一日",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 176.69,
+      "online_text": "咱会当出头天",
+      "match_text": "咱会当出头天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 178.449,
+      "online_text": "人生毋惊风涌",
+      "match_text": "人生毋惊风涌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 181.729,
+      "online_text": "只惊家己无志气",
+      "match_text": "只惊家己无志气",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 185.79,
+      "online_text": "彼一日咱会当出头天",
+      "match_text": "彼一日咱会当出头天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 189.739,
+      "online_text": "我向望的日子",
+      "match_text": "我向望的日子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 193.478,
+      "online_text": "会真紧来到阮身边",
+      "match_text": "会真紧来到阮身边",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 199.509,
+      "online_text": "咱会当出头天",
+      "match_text": "咱会当出头天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 201.859,
+      "online_text": "人生毋惊风涌",
+      "match_text": "人生毋惊风涌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 206.59,
+      "online_text": "只惊家己无志气",
+      "match_text": "只惊家己无志气",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 208.449,
+      "online_text": "彼一日咱会当出头天",
+      "match_text": "彼一日咱会当出头天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 213.999,
+      "online_text": "我向望的日子",
+      "match_text": "我向望的日子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 216.809,
+      "online_text": "会真紧来到阮身边",
+      "match_text": "会真紧来到阮身边",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 223.329,
+      "online_text": "la~la~la~la~la~",
+      "match_text": "la~la~la~la~la~",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 228.969,
+      "online_text": "la~la~la~la~la~",
+      "match_text": "la~la~la~la~la~",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 48,
+      "time": 236.269,
+      "online_text": "la~la~la~la~la~",
+      "match_text": "la~la~la~la~la~",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "44578d5b7d7c253ce5e3c2aa2c939bd33ba4847185d2cf43c2d7ade0e43e4c8d",
+    "manual": "a8d95284ee7a5623ed2578642a7556c495a08846514b1f29b43b95a4b3e4b329",
+    "timed": "03f8988ab63696697e3e78d6ef5318e7c433541aa92b62e7137f15bf51f6ad79"
+  }
+}

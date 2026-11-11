@@ -1,0 +1,25 @@
+{
+  "selected": {
+    "song_id": "1753652884",
+    "title": "贰伍这冬",
+    "artists": [
+      "拍谢少年"
+    ],
+    "album": "海口味",
+    "duration": 214.167,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1753652884",
+      "duration": 214.167,
+      "ready": true,
+      "coverage": 1.0,
+      "exact_fraction": 1.0,
+      "summary": {
+        "exact": 25
+      }
+    }
+  ]
+}

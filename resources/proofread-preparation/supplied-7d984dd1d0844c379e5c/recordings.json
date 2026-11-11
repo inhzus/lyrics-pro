@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 2706345336,
+      "title": "歹逗阵",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "我是男子汉",
+      "duration": 284.0,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2078019266,
+      "title": "歹逗阵",
+      "artists": [
+        "影子计划 Shadow Project"
+      ],
+      "album": "城市的影",
+      "duration": 191.059,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 574908014,
+      "title": "歹逗阵",
+      "artists": [
+        "张穆庭"
+      ],
+      "album": "张穆庭流行钢琴演奏专辑-云",
+      "duration": 235.52,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,432 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "嘸免擱問我愛你有多少",
+      "spelling": "m̄-bián koh mn̄g guá ài lí ū guā-tsuē",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "若是你嘸願甲我鬥陣做伙",
+      "spelling": "nā-sī lí m̄-guān kā guá tàu-tīn tsò-hué",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "我對你講的情話",
+      "spelling": "guá tuì lí kóng ê tsîng uē",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "攏總是假",
+      "spelling": "lóng-tsóng sī ké",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "惦在你的身邊遞練肖話",
+      "spelling": "tiām tī lí ê sin-pinn tē liān siàu uē",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "嘛不是我黑白講的笑虧",
+      "spelling": "mā m̄ sī guá oo-pe̍h kóng ê tshiò khui",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "只要你給我機會",
+      "spelling": "tsí-iàu lí hoo guá ki-huē",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "有頭有尾",
+      "spelling": "ū thâu ū bué",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "你說的傷心過去 攏總甲伊放袂去",
+      "spelling": "lí kóng ê siong-sim kuè-khì lóng-tsóng kā i pàng-buē-khì",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "麥擱為彼個人 對你的反背",
+      "spelling": "mài koh uî hit-ê lâng tuì lí ê huán-puē",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "擱再哭歸暝",
+      "spelling": "koh-tsài khàu kui mî",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "愛你的人 你嘸免找",
+      "spelling": "ài lí ê lâng lí m̄-bián tshuē",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "我就惦在你的身邊",
+      "spelling": "guá tio̍h tiām tsāi lí ê sin-pinn",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "聽你說你的心內話",
+      "spelling": "thiann lí kóng lí ê sim-lāi-uē",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "陪你走到天色白",
+      "spelling": "puê lí kiânn-kàu thinn-sik pe̍h",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "愛你的人 你嘸免找",
+      "spelling": "ài lí ê lâng lí m̄-bián tshuē",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "只要你開嘴講出一句話 那句話",
+      "spelling": "tsí-iàu lí khui-tshuì kóng-tshut tsi̍t kù uē hit kù uē",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "我會愛你擱加千萬倍",
+      "spelling": "guá ē ài lí koh ka tshian-bān puē",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "是真的",
+      "spelling": "sī tsin ê",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "親像時鐘陪你遞憨憨旋",
+      "spelling": "tshin-tshiūnn sî-tsing puê lí tē gōng gōng seh",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "嘛不是我欲貪戀你的美麗",
+      "spelling": "mā m̄ sī guá bē tham-luân lí ê bí-lē",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "我愛你所有一切",
+      "spelling": "guá ài lí sóo-ú it-tshè",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "愈來愈多",
+      "spelling": "lú lâi lú tsuē",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "嘜講你驚你吔欠我太多",
+      "spelling": "mài kóng lí kiann lí khiam-khiàm guá siunn-tsue",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "嘜去管別人講吔閒話",
+      "spelling": "mài khì kuán pa̍t-lâng kóng ê îng uē",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "感情無法度控制",
+      "spelling": "kám-tsîng bô-huat-tōo khòng-tsè",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "放在心底",
+      "spelling": "khǹg te sim té",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "你說的傷心過去 攏總甲伊放袂去",
+      "spelling": "lí kóng ê siong-sim kuè-khì lóng-tsóng i pàng-buē-khì",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "麥擱為彼個人 對你的反背",
+      "spelling": "mài koh uî hit-ê lâng tuì lí ê huán-puē",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "擱再哭歸暝",
+      "spelling": "koh-tsài khàu kui mê",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "愛你的人 你嘸免找",
+      "spelling": "ài lí ê lâng lí m̄-bián tshuē",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "我就惦在你的身邊",
+      "spelling": "guá tio̍h tiām tsāi lí ê sin-pinn",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "聽你說你的心內話",
+      "spelling": "thiann lí kóng lí ê sim-lāi-uē",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "陪你走到天色白",
+      "spelling": "puê lí kiânn-kàu thinn-sik pe̍h",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "愛你的人 你嘸免找",
+      "spelling": "ài lí ê lâng lí m̄-bián tshuē",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "只要你開嘴講出一句話 那句話",
+      "spelling": "tsí-iàu lí khui-tshuì kóng-tshut tsi̍t kù uē hit kù uē",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "就親像山盟海誓 那呢美麗 * 這呢美麗",
+      "spelling": "tio̍h tshin-tshiūnn san-bîng-hái-sè hiâ-ne bí-lē tsia-ni bí-lē",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "愛你的人 你嘸免找",
+      "spelling": "ài lí ê lâng lí m̄-bián tshuē",
+      "source_lines": [
+        112,
+        113
+      ]
+    },
+    {
+      "id": "line-115",
+      "text": "我就惦在你的身邊",
+      "spelling": "guá tio̍h tiām tsāi lí ê sin-pinn",
+      "source_lines": [
+        115,
+        116
+      ]
+    },
+    {
+      "id": "line-118",
+      "text": "聽你說你的心內話",
+      "spelling": "thiann lí kóng lí ê sim-lāi-uē",
+      "source_lines": [
+        118,
+        119
+      ]
+    },
+    {
+      "id": "line-121",
+      "text": "陪你走到天色白",
+      "spelling": "puê lí kiânn-kàu thinn-sik pe̍h",
+      "source_lines": [
+        121,
+        122
+      ]
+    },
+    {
+      "id": "line-124",
+      "text": "愛你的人 你嘸免找",
+      "spelling": "ài lí ê lâng lí m̄-bián tshuē",
+      "source_lines": [
+        124,
+        125
+      ]
+    },
+    {
+      "id": "line-127",
+      "text": "只要你開嘴講出一句話 那句話",
+      "spelling": "tsí-iàu lí khui-tshuì kóng-tshut tsi̍t kù uē hit kù uē",
+      "source_lines": [
+        127,
+        128
+      ]
+    },
+    {
+      "id": "line-130",
+      "text": "就親像山盟海誓 那呢美麗",
+      "spelling": "tio̍h tshin-tshiūnn san-bîng-hái-sè hiâ-ne bí-lē",
+      "source_lines": [
+        130,
+        131
+      ]
+    },
+    {
+      "id": "line-133",
+      "text": "我愛你的話 用講的 用寫的",
+      "spelling": "guá ài lí ê uē iōng kóng ê iōng siá ê",
+      "source_lines": [
+        133,
+        134
+      ]
+    },
+    {
+      "id": "line-136",
+      "text": "還是愛哩嘢多 放在心底",
+      "spelling": "ia̍h-sī ài li tsē khǹg te sim té",
+      "source_lines": [
+        136,
+        137
+      ]
+    },
+    {
+      "id": "line-139",
+      "text": "啊你哩",
+      "spelling": "ah li leh",
+      "source_lines": [
+        139,
+        140
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

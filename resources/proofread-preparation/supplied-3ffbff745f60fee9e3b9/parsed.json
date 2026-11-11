@@ -1,0 +1,446 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "小時候我 是妳眼中的猴死囜仔",
+      "spelling": "xiǎoshíhòu wǒ shì nǐ yǎnzhōng de kâu sí kín-á",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "不喜歡讀書 每天只會跟老師頂嘴吵架",
+      "spelling": "bù xǐhuān dúshū měitiān zhǐ huì gēn lǎoshī dǐngzuǐ chǎojià",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "風雨不改地 每天拖著 我走路去上課",
+      "spelling": "fēngyǔ bù gǎi de měitiān tuōzhe wǒ zǒulù qù shàngkè",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "雖然我總是想著 害妳丟臉到左鄰右舍",
+      "spelling": "suīrán wǒ zǒng shì xiǎngzhe hài nǐ diūliǎn dào zuǒ lín yòu shè",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "妳抓緊藤條 用力揮舞 多少夜的無助",
+      "spelling": "nǐ zhuājǐn téng tiáo yònglì huīwǔ duōshǎo yè de wú zhù",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "告訴我三遷的孟母 到底為什麼痛苦",
+      "spelling": "gàosù wǒ sān qiān de mèng mǔ dàodǐ wèishéme tòngkǔ",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "妳打我罵我 太反骨 在反撲",
+      "spelling": "nǐ dǎ wǒ mà wǒ tài fǎngǔ zài fǎnpū",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "打完後 自己反而不由自主地在那邊發聲大哭",
+      "spelling": "dǎ wán hòu zìjǐ fǎn’ér bùyóuzìzhǔ dì zài nà biān fāshēng dà kū",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "沒日沒夜的忙忙碌碌 為整個家在付出",
+      "spelling": "méi rì méi yè de máng mang lùlù wèi zhěnggè jiā zài fùchū",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "夜深人靜了妳陪我 抱著佛腳連夜在K書",
+      "spelling": "yèshēnrénjìngle nǐ péi wǒ bàozhe fó jiǎo liányè zài K shū",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "上了中學 我玩音樂 啊誰又會在乎",
+      "spelling": "shàngle zhōngxué wǒ wán yīnyuè a shuí yòu huì zàihū",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "而每次在學校演出 妳總會在台下鼓掌歡呼",
+      "spelling": "ér měi cì zài xuéxiào yǎnchū nǐ zǒng huì zài tái xià gǔzhǎng huānhū",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "高中畢業 我下定決心到台灣深造",
+      "spelling": "gāozhōng bìyè wǒ xiàdìng juéxīn dào táiwān shēnzào",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "離別的那個破曉 妳眼淚不停地往下掉",
+      "spelling": "líbié dì nàgè pòxiǎo nǐ yǎnlèi bù tíng de wǎng xià diào",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "我知道 這一別將很久才能品嘗到",
+      "spelling": "wǒ zhīdào zhè yī bié jiāng hěnjiǔ cáinéng pǐncháng dào",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "那最熟悉的嘮叨 和妳最拿手的娘惹炒",
+      "spelling": "nà zuì shúxī de láo dāo hé nǐ zuì náshǒu de niáng rě chǎo",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "你置外頭認真打拼 離開家鄉甘會孤單",
+      "spelling": "lí tì guā-thâu līn-tsin phah-piànn lī-khui ka-hiong kam ē koo-tuann",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "心內的艱苦跟辛酸 阿母攏知影",
+      "spelling": "sim-lāi kan-khóo kā sin-sng a-bú lóng tsai-iánn",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "為著理想認真打拼 明知前方的路難行",
+      "spelling": "uī-tio̍h lí-sióng līn-tsin phah-piànn bîng-tsai tsiân-hong ê lōo pháinn-kiânn",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "外頭風大若畏寒 就返來啊…",
+      "spelling": "guā-thâu hong-tuā nā uì kuânn tio̍h tńg-lâi ah~",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "畢業回到老家 還沒來得及陪老媽",
+      "spelling": "bìyè huí dào lǎojiā hái méi láidéjí péi lǎo mā",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "我搬到了KL追尋夢想 好像比較偉大",
+      "spelling": "wǒ bān dàole KL zhuīxún mèngxiǎng hǎoxiàng bǐjiào wěidà",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "工作一天比一天繁重 日子一天比一天難過",
+      "spelling": "gōngzuò yītiān bǐ yītiān fánzhòng rìzi yītiān bǐ yītiān nánguò",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "返鄉的次數一次比一次間隔的時間還要久",
+      "spelling": "fǎn xiāng de cì shǔ yīcì bǐ yīcì jiàngé de shíjiān hái yào jiǔ",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "她透過Facebook 來關心我最近的行蹤",
+      "spelling": "tā tòuguò Facebook lái guānxīn wǒ zuìjìn de xíngzōng",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "她透過朋友的口中知道我的官司大禍臨頭",
+      "spelling": "tā tòuguò péngyǒu de kǒuzhōng zhīdào wǒ de guānsī dà huò líntóu",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "在家裡默默哀愁 著急著求神拜佛",
+      "spelling": "zài jiālǐ mòmò āichóu zhāojízhuó qiú shén bàifó",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "卻不敢打來問我 擔心我忙碌又沒空",
+      "spelling": "què bù gǎn dǎ lái wèn wǒ dānxīn wǒ mánglù yòu méi kōng",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "看我偶爾僥倖成功 她在電腦前猛拍手",
+      "spelling": "kàn wǒ ǒu’ěr jiǎoxìng chénggōng tā zài diànnǎo qián měng pāishǒu",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "看我經常碰釘撞頭 她沉默著陪我失落",
+      "spelling": "kàn wǒ jīngcháng pèng dīng zhuàng tóu tā chénmòzhe péi wǒ shīluò",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "手機響鈴 她寫來了一長串簡訊",
+      "spelling": "shǒujī xiǎng líng tā xiě láile yī cháng chuàn jiǎnxùn",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "那是我最大的鼓勵 但辛酸都留在她那裡",
+      "spelling": "nà shì wǒ zuìdà de gǔlì dàn xīnsuān dōuliú zài tā nàlǐ",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "偶爾回到家裡 她忙著下廚又燙衣",
+      "spelling": "ǒu’ěr huí dào jiālǐ tā mángzhe xià chú yòu tàng yī",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "準備了一桌的拿手好菜 搞得像大年除夕",
+      "spelling": "zhǔnbèile yī zhuō de náshǒu hào cài gǎo dé xiàng dà nián chúxì",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "我含淚夾起 一口口放進了嘴裡",
+      "spelling": "wǒ hán lèi jiā qǐ yīkǒu kǒu fàng jìnle zuǐ lǐ",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "那是我最渴望的 最窩心的 阿母的愛心料理…",
+      "spelling": "nà shì wǒ zuì kěwàng de zuì wōxīn de ā mǔ de àixīn liàolǐ…",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "你置外頭認真打拼 離開家鄉甘會孤單",
+      "spelling": "lí tì guā-thâu līn-tsin phah-piànn lī-khui ka-hiong kam ē koo-tuann",
+      "source_lines": [
+        111,
+        112
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "心內的艱苦跟辛酸 阿母攏知影",
+      "spelling": "sim-lāi kan-khóo kā sin-sng a-bú lóng tsai-iánn",
+      "source_lines": [
+        114,
+        115
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "為著理想認真打拼 明知前方的路難行",
+      "spelling": "uī-tio̍h lí-sióng līn-tsin phah-piànn bîng-tsai tsiân-hong ê lōo pháinn-kiânn",
+      "source_lines": [
+        117,
+        118
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "外頭風大若畏寒 就返來啊…",
+      "spelling": "guā-thâu hong-tuā nā uì kuânn tio̍h tńg-lâi ah~",
+      "source_lines": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "我最親愛的阿母啊 攏免驚 不要害怕",
+      "spelling": "wǒ zuì qīn’ài de a-bú ah lóng bián m̄-kiann bùyào hàipà",
+      "source_lines": [
+        123,
+        124
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "所有恁心內的心聲 已經攏知影",
+      "spelling": "sóo-iú lin sim-lāi ê sim-siann í-king lóng tsai-iánn",
+      "source_lines": [
+        126,
+        127
+      ]
+    },
+    {
+      "id": "line-129",
+      "text": "乖乖聽醫生的話 一定欲健康快樂置暇",
+      "spelling": "kuai-kuai thiann i-sing ê uē it-tīng beh kiān-khong khuài-lo̍k tì hiâ",
+      "source_lines": [
+        129,
+        130
+      ]
+    },
+    {
+      "id": "line-132",
+      "text": "等我成功返來啊",
+      "spelling": "děng wǒ sîng-kong tńg-lâi ah",
+      "source_lines": [
+        132,
+        133
+      ]
+    },
+    {
+      "id": "line-135",
+      "text": "你置外頭認真打拼 離開家鄉甘會孤單",
+      "spelling": "lí tì guā-thâu līn-tsin phah-piànn lī-khui ka-hiong kam ē koo-tuann",
+      "source_lines": [
+        135,
+        136
+      ]
+    },
+    {
+      "id": "line-138",
+      "text": "心內的艱苦跟辛酸 阿母攏知影",
+      "spelling": "sim-lāi kan-khóo kā sin-sng a-bú lóng tsai-iánn",
+      "source_lines": [
+        138,
+        139
+      ]
+    },
+    {
+      "id": "line-141",
+      "text": "為著理想認真打拼 明知前方的路難行",
+      "spelling": "uī-tio̍h lí-sióng līn-tsin phah-piànn bîng-tsai tsiân-hong ê lōo pháinn-kiânn",
+      "source_lines": [
+        141,
+        142
+      ]
+    },
+    {
+      "id": "line-144",
+      "text": "外頭風大若畏寒 就返來啊…",
+      "spelling": "guā-thâu hong-tuā nā uì kuânn tio̍h tńg-lâi ah~",
+      "source_lines": [
+        144,
+        145
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [
+    {
+      "line": 1,
+      "text": "Note: Words in italics are in Chinese. Everything else is in Taiwanese."
+    }
+  ],
+  "reasons": [
+    "source_note_requires_review:1"
+  ]
+}

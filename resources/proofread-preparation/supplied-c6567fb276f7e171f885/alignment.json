@@ -1,0 +1,639 @@
+{
+  "recording_id": "netease:386942",
+  "timing_source": "NetEase https://music.163.com/song?id=386942",
+  "manual_source": "User-supplied resources/lyrics-spelling/黑白講-五月天",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 3,
+    "repeat": 18,
+    "unresolved": 25,
+    "exact": 1
+  },
+  "review_row_count": 26,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-25:0",
+    "line-28:0",
+    "line-34:0",
+    "line-40:0",
+    "line-40:1",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0",
+    "line-67:0",
+    "line-70:0",
+    "line-76:0",
+    "line-82:0",
+    "line-82:1",
+    "line-85:0",
+    "line-88:0",
+    "line-94:0",
+    "line-100:0",
+    "line-100:1",
+    "line-106:0",
+    "line-106:1"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 五月天 阿信",
+      "match_text": "作词 : 五月天 阿信",
+      "text": "作词 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 五月天 阿信",
+      "match_text": "作曲 : 五月天 阿信",
+      "text": "作曲 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "编曲 : 五月天",
+      "match_text": "编曲 : 五月天",
+      "text": "编曲 : 五月天",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 20.47,
+      "online_text": "转过了一遍又一遍的街仔路",
+      "match_text": "转过了一遍又一遍的街仔路",
+      "text": "轉過了一遍又一遍的街仔路",
+      "spelling": "se̍h kuè ah tsi̍t pái koh tsi̍t pái ê ke-á-lōo",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 24.09,
+      "online_text": "整天是拢无意义的走冲",
+      "match_text": "整天是拢无意义的走冲",
+      "text": "整天是攏無意義的走衝",
+      "spelling": "kui-kang sī lóng bô ì-gī ê tsáu tshiong",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 27.46,
+      "online_text": "天光到天黑 万事拢照常",
+      "match_text": "天光到天黑 万事拢照常",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 30.97,
+      "online_text": "无聊叫人要起狂",
+      "match_text": "无聊叫人要起狂",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 41.38,
+      "online_text": "忍受着一遍又一遍的啰嗦",
+      "match_text": "忍受着一遍又一遍的啰嗦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 44.92,
+      "online_text": "你给我的世界只有一条路",
+      "match_text": "你给我的世界只有一条路",
+      "text": "你給我的世界只有一條路",
+      "spelling": "lí hōo guá ê sè-kài tsí-ū tsi̍t tiâu lōo",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 48.54,
+      "online_text": "爱拼才会赢 我不是听无",
+      "match_text": "爱拼才会赢 我不是听无",
+      "text": "愛拼才會贏 我不是聽無",
+      "spelling": "ài piànn tsiah ē iânn  guá m̄ sī thiann bô",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 51.96,
+      "online_text": "前途 我拢看不着",
+      "match_text": "前途 我拢看不着",
+      "text": "前途 我攏看不著",
+      "spelling": "tsiân-tôo  guá lóng khuànn-buē-tio̍h",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 59.12,
+      "online_text": "那会世界拢无声音",
+      "match_text": "那会世界拢无声音",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 62.34,
+      "online_text": "青春是战争 我渴望流血",
+      "match_text": "青春是战争 我渴望流血",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 66.63,
+      "online_text": "有什么绝招 做你变",
+      "match_text": "有什么绝招 做你变",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 69.34,
+      "online_text": "我的好兄弟 我打拢不死",
+      "match_text": "我的好兄弟 我打拢不死",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 72.66,
+      "online_text": "我想要走路有风",
+      "match_text": "我想要走路有风",
+      "text": "我想要走路有風",
+      "spelling": "guá siūnn beh kiânn lōo ū hong",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 75.92,
+      "online_text": "我想要做真真正正的英雄",
+      "match_text": "我想要做真真正正的英雄",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 79.54,
+      "online_text": "你叫我麦憨 麦憨 麦憨",
+      "match_text": "你叫我麦憨 麦憨 麦憨",
+      "text": "你叫我「麥憨!麥憨!麥憨!」",
+      "spelling": "lí kiò guá 「mái gōng! mái gōng! mái gōng!」",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 81.69,
+      "online_text": "我听你在黑白讲",
+      "match_text": "我听你在黑白讲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 89.35,
+      "online_text": "转过了一遍又一遍的街仔路",
+      "match_text": "转过了一遍又一遍的街仔路",
+      "text": "轉過了一遍又一遍的街仔路",
+      "spelling": "se̍h kuè ah tsi̍t pái koh tsi̍t pái ê ke-á-lōo",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 93.24,
+      "online_text": "整天是拢无意义的走冲",
+      "match_text": "整天是拢无意义的走冲",
+      "text": "整天是攏無意義的走衝",
+      "spelling": "kui-kang sī lóng bô ì-gī ê tsáu tshiong",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 97.03,
+      "online_text": "天光到天黑 万事拢照常",
+      "match_text": "天光到天黑 万事拢照常",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 100.39,
+      "online_text": "无聊叫人要起狂",
+      "match_text": "无聊叫人要起狂",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 111.03,
+      "online_text": "忍受着一遍又一遍的啰嗦",
+      "match_text": "忍受着一遍又一遍的啰嗦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 114.19,
+      "online_text": "你给我的世界只有一条路",
+      "match_text": "你给我的世界只有一条路",
+      "text": "你給我的世界只有一條路",
+      "spelling": "lí hōo guá ê sè-kài tsí-ū tsi̍t tiâu lōo",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 117.74,
+      "online_text": "爱拼才会赢 我不是听无",
+      "match_text": "爱拼才会赢 我不是听无",
+      "text": "愛拼才會贏 我不是聽無",
+      "spelling": "ài piànn tsiah ē iânn  guá m̄ sī thiann bô",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 121.16,
+      "online_text": "前途 我拢看不着",
+      "match_text": "前途 我拢看不着",
+      "text": "前途 我攏看不著",
+      "spelling": "tsiân-tôo  guá lóng khuànn-buē-tio̍h",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 128.99,
+      "online_text": "那会世界拢无声音",
+      "match_text": "那会世界拢无声音",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 131.87,
+      "online_text": "青春是战争 我渴望流血",
+      "match_text": "青春是战争 我渴望流血",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 136.19,
+      "online_text": "有什么绝招 做你变",
+      "match_text": "有什么绝招 做你变",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 138.62,
+      "online_text": "我的好兄弟 我打拢不死",
+      "match_text": "我的好兄弟 我打拢不死",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 142.06,
+      "online_text": "我想要走路有风",
+      "match_text": "我想要走路有风",
+      "text": "我想要走路有風",
+      "spelling": "guá siūnn beh kiânn lōo ū hong",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 145.32,
+      "online_text": "我想要做真真正正的英雄",
+      "match_text": "我想要做真真正正的英雄",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 148.92,
+      "online_text": "你叫我麦憨 麦憨 麦憨",
+      "match_text": "你叫我麦憨 麦憨 麦憨",
+      "text": "你叫我「麥憨!麥憨!麥憨!」",
+      "spelling": "lí kiò guá 「mái gōng! mái gōng! mái gōng!」",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 151.23,
+      "online_text": "我听你在黑白讲",
+      "match_text": "我听你在黑白讲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 174.31,
+      "online_text": "那会世界拢无声音",
+      "match_text": "那会世界拢无声音",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 176.71,
+      "online_text": "青春是战争 我渴望流血",
+      "match_text": "青春是战争 我渴望流血",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 181.07,
+      "online_text": "有什么绝招 做你变",
+      "match_text": "有什么绝招 做你变",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 183.75,
+      "online_text": "我的好兄弟 我打拢不死",
+      "match_text": "我的好兄弟 我打拢不死",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 187.28,
+      "online_text": "我想要走路有风",
+      "match_text": "我想要走路有风",
+      "text": "我想要走路有風",
+      "spelling": "guá siūnn beh kiânn lōo ū hong",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 190.55,
+      "online_text": "我想要做真真正正的英雄",
+      "match_text": "我想要做真真正正的英雄",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 193.86,
+      "online_text": "你叫我麦憨 麦憨 麦憨",
+      "match_text": "你叫我麦憨 麦憨 麦憨",
+      "text": "你叫我「麥憨!麥憨!麥憨!」",
+      "spelling": "lí kiò guá 「mái gōng! mái gōng! mái gōng!」",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 196.47,
+      "online_text": "我听你在黑白讲",
+      "match_text": "我听你在黑白讲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 201.02,
+      "online_text": "你叫我麦憨 麦憨 麦憨",
+      "match_text": "你叫我麦憨 麦憨 麦憨",
+      "text": "你叫我「麥憨!麥憨!麥憨!」",
+      "spelling": "lí kiò guá 「mái gōng! mái gōng! mái gōng!」",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 44,
+      "time": 203.27,
+      "online_text": "我听你在黑白讲",
+      "match_text": "我听你在黑白讲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 208.36,
+      "online_text": "你叫我麦憨 麦憨 麦憨",
+      "match_text": "你叫我麦憨 麦憨 麦憨",
+      "text": "你叫我「麥憨!麥憨!麥憨!」",
+      "spelling": "lí kiò guá 「mái gōng! mái gōng! mái gōng!」",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 46,
+      "time": 210.42,
+      "online_text": "我听你在黑白讲",
+      "match_text": "我听你在黑白讲",
+      "text": "我聽你在 黑白講",
+      "spelling": "guá thiann lí teh  oo-pe̍h kóng!",
+      "manual_id": "line-109:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "79295d43e2475cefb8eda8807371d494d88e26df3832d9f473cd3fdbb97a739a",
+    "manual": "4bace48df157e94e5bc95be31a430eba99437111a2e3dc75acf5a1b5b564f075",
+    "timed": "233fdd122076cc4bd7c6f23ad6b88d13202904a31df3985988ceed281fb7548a"
+  }
+}

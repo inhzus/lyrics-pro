@@ -1,0 +1,187 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "你袂了解 袂了解我的悲哀",
+      "spelling": "lí buē liáu-kái  bē liáu-kái guá ê pi-ai",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "你袂了解 袂了解我的心情",
+      "spelling": "lí buē liáu-kái  bē liáu-kái guá ê sim-tsîng",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "你袂了解 袂了解我的痛苦",
+      "spelling": "lí buē liáu-kái  bē liáu-kái guá ê thòng-khóo",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "你袂了解 (哭餓啊！你無講我哪會了解)",
+      "spelling": "lí buē liáu-kái (khàu iau ah!  lí bô kóng guá ná ē liáu-kái)",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "你袂了解 袂了解我的悲哀",
+      "spelling": "lí buē liáu-kái  bē liáu-kái guá ê pi-ai",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "你袂了解 袂了解我的心情",
+      "spelling": "lí buē liáu-kái  bē liáu-kái guá ê sim-tsîng",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "你袂了解 袂了解我的痛苦",
+      "spelling": "lí buē liáu-kái  bē liáu-kái guá ê thòng-khóo",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "你袂了解 我想欲來找伊 我想欲來找伊",
+      "spelling": "lí buē liáu-kái  guá siūnn-beh lâi tshuē i guá siūnn-beh lâi tshuē i",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "我想欲來找伊 我想欲來找伊",
+      "spelling": "guá siūnn-beh lâi tshuē i  guá siūnn-beh lâi tshuē i",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "等伊我等到天亮 看到一台摩托車飆過頭前",
+      "spelling": "tán i guá tán-kàu thinn-kng  khuànn-tio̍h tsi̍t tâi oo-tóo-bái phe-kuè thâu-tsîng",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "哪會是你 哪會是你 我才了解 我完全了解",
+      "spelling": "ná ē sī lí  ná ē sī lí  guá ē sī lí  guá tsiah liáu-kái  guá uân-tsuân liáu-kái",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "好朋友你嘜鬱卒 查埔囝是袂凍哭",
+      "spelling": "hó-pîng-iú lí mái ut-tsut  tsa-poo kiánn sī bē tàng khàu",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "若是凍袂住 就吞咧腹肚內",
+      "spelling": "nā-sī tàng bē tiâu  tio̍h thun leh pak-tóo lāi",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "若是欲買醉 阮挺你夠夠",
+      "spelling": "nā-sī bē bé tsuì  gún thīn lí kàu-kàu",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "查某人擱找就有 像你這緣投 免驚推無炮",
+      "spelling": "tsa-bóo lâng koh tshuē tō ū  tshiūnn lí tsia iân-tâu  bián-kiann sak bô phàu",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "啦~啦~啦~ 茫酥酥 啦~ 茫酥酥 你嘜想這多",
+      "spelling": "là~ là~ là~ bâng su su là~  bâng su su  lí mái siūnn tsia tsē",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "啦~啦~啦~ 茫酥酥 你嘜想這多 啦~啦~啦~ 茫酥酥",
+      "spelling": "là~ là~ là~ bâng su su  lí mái siūnn tsia tsē  là~ là~ là~ bâng su su",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "你嘜想這多 啦~啦~啦~ 茫酥酥",
+      "spelling": "lí mái siūnn tsia tsē  là~ là~ là~ bâng su su",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "啦~啦~啦~ 茫酥酥",
+      "spelling": "là~ là~ là~ bâng su su",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "啦~啦~啦~ 茫酥酥",
+      "spelling": "là~ là~ là~ bâng su su",
+      "source_lines": [
+        58,
+        59
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

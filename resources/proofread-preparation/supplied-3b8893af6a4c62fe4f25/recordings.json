@@ -1,0 +1,192 @@
+{
+  "candidates": [
+    {
+      "song_id": 357839,
+      "title": "伤心无话",
+      "artists": [
+        "叶树茵"
+      ],
+      "album": "抓狂歌",
+      "duration": 170.109,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 357839,
+      "title": "伤心无话",
+      "artists": [
+        "叶树茵"
+      ],
+      "album": "抓狂歌",
+      "duration": 170.109,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 357839,
+      "title": "伤心无话",
+      "artists": [
+        "叶树茵"
+      ],
+      "album": "抓狂歌",
+      "duration": 170.109,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 316983,
+      "title": "伤心无话",
+      "artists": [
+        "叶树茵"
+      ],
+      "album": "数叶集 [3首新歌+14首精选]",
+      "duration": 289.253,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 528272028,
+      "title": "伤心无话",
+      "artists": [
+        "王莉"
+      ],
+      "album": "你照亮我",
+      "duration": 320.666,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 317188,
+      "title": "伤心无话",
+      "artists": [
+        "叶树茵"
+      ],
+      "album": "不太认识",
+      "duration": 315.297,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5283252,
+      "title": "伤心无话",
+      "artists": [
+        "叶树茵"
+      ],
+      "album": "10年朋友9",
+      "duration": 175.49,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3368165361,
+      "title": "伤心无话",
+      "artists": [
+        "杨静"
+      ],
+      "album": "情爱放水流",
+      "duration": 223.453,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1967105646,
+      "title": "伤心无话",
+      "artists": [
+        "陈平"
+      ],
+      "album": "台湾流行歌曲精华 30",
+      "duration": 227.239,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3404895243,
+      "title": "伤心无话",
+      "artists": [
+        "双向奔赴的病情"
+      ],
+      "album": "",
+      "duration": 203.337,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3354782410,
+      "title": "伤心无话",
+      "artists": [
+        "群星"
+      ],
+      "album": "年度精选2",
+      "duration": 229.426,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 35470019,
+      "title": "伤心无话",
+      "artists": [
+        "叶树茵"
+      ],
+      "album": "军中乐园 电影歌曲",
+      "duration": 171.826,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 147604,
+      "title": "伤心无话",
+      "artists": [
+        "孙协志"
+      ],
+      "album": "伤心无话",
+      "duration": 229.426,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1636471815",
+      "title": "伤心无话",
+      "artists": [
+        "陈平"
+      ],
+      "album": "台湾流行歌曲精华 30",
+      "duration": 227.239,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1636471815",
+      "title": "伤心无话",
+      "artists": [
+        "陈平"
+      ],
+      "album": "台湾流行歌曲精华 30",
+      "duration": 227.239,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 32710529,
+      "title": "傷心無話",
+      "artists": [
+        "黑名單工作室"
+      ],
+      "album": "抓狂歌",
+      "duration": 172.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 39692254,
+      "title": "傷心無話",
+      "artists": [
+        "黑名單工作室"
+      ],
+      "album": "滾石十年朋友 Vol.9",
+      "duration": 176.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

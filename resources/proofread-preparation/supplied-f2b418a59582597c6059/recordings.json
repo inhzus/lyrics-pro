@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": 478229292,
+      "title": "树仔下",
+      "artists": [
+        "孩子王"
+      ],
+      "album": "最窘丸",
+      "duration": 283.92,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1230303051",
+      "title": "树仔下",
+      "artists": [
+        "孩子王"
+      ],
+      "album": "最窘丸",
+      "duration": 283.88,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

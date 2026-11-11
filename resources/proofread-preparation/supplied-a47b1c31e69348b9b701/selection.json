@@ -1,0 +1,30 @@
+{
+  "selected": {
+    "song_id": 168251,
+    "title": "幸福在叫我",
+    "artists": [
+      "萧煌奇"
+    ],
+    "album": "思念会惊",
+    "duration": 324.937,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:168251",
+      "duration": 324.937,
+      "ready": false,
+      "coverage": 0.9318181818181818,
+      "exact_fraction": 0.8409090909090909,
+      "summary": {
+        "credit": 2,
+        "exact": 35,
+        "approximate": 4,
+        "gap": 5,
+        "unresolved": 3,
+        "repeat": 2
+      }
+    }
+  ]
+}

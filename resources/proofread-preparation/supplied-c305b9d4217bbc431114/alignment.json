@@ -1,0 +1,412 @@
+{
+  "recording_id": "netease:248711",
+  "timing_source": "NetEase https://music.163.com/song?id=248711",
+  "manual_source": "User-supplied resources/lyrics-spelling/老樂師-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "unresolved": 4,
+    "exact": 7,
+    "gap": 6,
+    "approximate": 2,
+    "repeat": 11
+  },
+  "review_row_count": 13,
+  "unmatched_manual_ids": [
+    "line-1:0"
+  ],
+  "unused_repeat_ids": [
+    "line-34:0",
+    "line-58:0",
+    "line-70:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 17.36,
+      "online_text": "真多人夸奖你的歌喉",
+      "match_text": "真多人夸奖你的歌喉",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 24.67,
+      "online_text": "不过伊的名字 真少人介绍",
+      "match_text": "不过伊的名字 真少人介绍",
+      "text": "不過伊的名字　真少人介紹",
+      "spelling": "put-kò i ê miâ-lī tsin tsió lâng kài-siāu",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 32.66,
+      "online_text": "西装青青 皮鞋金海结啊头",
+      "match_text": "西装青青 皮鞋金海结啊头",
+      "text": "西裝青青　皮鞋金海結啊頭",
+      "spelling": "se-tsong tshinn tshinn phuê-ê kim hái kat ah thâu",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 40.87,
+      "online_text": "大场小场 随传随到",
+      "match_text": "大场小场 随传随到",
+      "text": "大場小場　隨傳隨到",
+      "spelling": "tuā tiûnn sè tiûnn suî thuân suî kàu",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 47.54,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 50.11,
+      "online_text": "伊的功夫讲起来真正",
+      "match_text": "伊的功夫讲起来真正",
+      "text": "伊的功夫講起來真正摮",
+      "spelling": "i ê kang-hu kóng-khí-lâi tsin-tsiànn kau",
+      "manual_id": "line-13:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.947368
+    },
+    {
+      "source_row": 6,
+      "time": 56.91,
+      "online_text": "随便教阮几落招学袂了",
+      "match_text": "随便教阮几落招学袂了",
+      "text": "青菜教阮幾落招學不了",
+      "spelling": "tshinn-tshài kà gún kuí lo̍h tsiau o̍h-bē-liáu",
+      "manual_id": "line-16:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.7
+    },
+    {
+      "source_row": 7,
+      "time": 64.67,
+      "online_text": "生命的曲调 愈弹心愈透",
+      "match_text": "生命的曲调 愈弹心愈透",
+      "text": "生命的曲調　愈彈心愈透",
+      "spelling": "sìnn-miā ê khik-tiāu lú tuânn sim lú thàu",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 73.41,
+      "online_text": "伊讲椅仔 爱坐会着",
+      "match_text": "伊讲椅仔 爱坐会着",
+      "text": "伊講椅仔　愛坐會著",
+      "spelling": "i kóng í-á ài tsē ē tio̍h",
+      "manual_id": "line-22:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 79.87,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 10,
+      "time": 80.52,
+      "online_text": "阮唱歌伊伴奏 一支吉他弹到老",
+      "match_text": "阮唱歌伊伴奏 一支吉他弹到老",
+      "text": "阮唱歌伊伴奏　一支吉他彈到老",
+      "spelling": "gún tshiùnn-kua i phuānn-tsàu tsi̍t ki gì-tà tuânn-kàu láu",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 89.71,
+      "online_text": "惦惦坐咧舞台背後 上惊弹不对人生的调",
+      "match_text": "惦惦坐咧舞台背後 上惊弹不对人生的调",
+      "text": "惦惦坐咧舞台背後　上驚彈不對人生的調",
+      "spelling": "tiām-tiām tsē leh bú-tâi puē-āu siōng kiann tuânn m̄-tio̍h lîn-sing ê tiâu",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 100.9,
+      "online_text": "若不是伊伴奏 阮袂唱甲目屎流",
+      "match_text": "若不是伊伴奏 阮袂唱甲目屎流",
+      "text": "若不是伊伴奏　阮袂唱甲目屎流",
+      "spelling": "ná m̄ sī i phuānn-tsàu gún buē tshiùnn kā ba̍k-sái lâu",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 109.88,
+      "online_text": "惦惦坐咧掌声背後 无人知影伊多重要",
+      "match_text": "惦惦坐咧掌声背後 无人知影伊多重要",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 121.47,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 15,
+      "time": 135.29,
+      "online_text": "真材实料免甲人抢风头",
+      "match_text": "真材实料免甲人抢风头",
+      "text": "真材實料免甲人搶風頭",
+      "spelling": "tsin tsâi si̍t liāu bián kā lâng tshiúnn hong-thâu",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 142.42,
+      "online_text": "表演是伊的目标 未无聊",
+      "match_text": "表演是伊的目标 未无聊",
+      "text": "表演是伊的目標　未無聊",
+      "spelling": "piáu-ián sī i ê bo̍k-piau buē bô-liâu",
+      "manual_id": "line-40:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 150.55,
+      "online_text": "生命的曲调 愈弹心愈透",
+      "match_text": "生命的曲调 愈弹心愈透",
+      "text": "生命的曲調　愈彈心愈透",
+      "spelling": "sìnn-miā ê khik-tiāu lú tuânn sim lú thàu",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 158.6,
+      "online_text": "无做主角 伊嘛无计较",
+      "match_text": "无做主角 伊嘛无计较",
+      "text": "無做主角　伊嘛無計較",
+      "spelling": "bô tsuè tsú-kak i mā bô kè-kàu",
+      "manual_id": "line-46:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 165.49,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 20,
+      "time": 165.97,
+      "online_text": "阮唱歌伊伴奏 一支吉他弹到老",
+      "match_text": "阮唱歌伊伴奏 一支吉他弹到老",
+      "text": "阮唱歌伊伴奏　一支吉他彈到老",
+      "spelling": "gún tshiùnn-kua i phuānn-tsàu tsi̍t ki gì-tà tuânn-kàu láu",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 174.93,
+      "online_text": "惦惦坐咧舞台背後 上惊弹不对人生的调",
+      "match_text": "惦惦坐咧舞台背後 上惊弹不对人生的调",
+      "text": "惦惦坐咧舞台背後　上驚彈不對人生的調",
+      "spelling": "tiām-tiām tsē leh bú-tâi puē-āu siōng kiann tuânn m̄-tio̍h lîn-sing ê tiâu",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 186.24,
+      "online_text": "若不是伊伴奏 阮袂唱甲目屎流",
+      "match_text": "若不是伊伴奏 阮袂唱甲目屎流",
+      "text": "若不是伊伴奏　阮袂唱甲目屎流",
+      "spelling": "ná m̄ sī i phuānn-tsàu gún buē tshiùnn kā ba̍k-sái lâu",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 195.24,
+      "online_text": "惦惦坐咧掌声背後 无人知影伊多重要",
+      "match_text": "惦惦坐咧掌声背後 无人知影伊多重要",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 205.83,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 25,
+      "time": 206.51,
+      "online_text": "阮唱歌伊伴奏 一支吉他弹到老",
+      "match_text": "阮唱歌伊伴奏 一支吉他弹到老",
+      "text": "阮唱歌伊伴奏　一支吉他彈到老",
+      "spelling": "gún tshiùnn-kua i phuānn-tsàu tsi̍t ki gì-tà tuânn-kàu láu",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 215.68,
+      "online_text": "惦惦坐咧舞台背後 上惊弹不对人生的调",
+      "match_text": "惦惦坐咧舞台背後 上惊弹不对人生的调",
+      "text": "惦惦坐咧舞台背後　上驚彈不對人生的調",
+      "spelling": "tiām-tiām tsē leh bú-tâi puē-āu siōng kiann tuânn m̄-tio̍h lîn-sing ê tiâu",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 226.88,
+      "online_text": "若不是伊伴奏 阮袂唱甲目屎流",
+      "match_text": "若不是伊伴奏 阮袂唱甲目屎流",
+      "text": "若不是伊伴奏　阮袂唱甲目屎流",
+      "spelling": "ná m̄ sī i phuānn-tsàu gún buē tshiùnn kā ba̍k-sái lâu",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 236.02,
+      "online_text": "惦惦坐咧掌声背後 无人知影伊多重要",
+      "match_text": "惦惦坐咧掌声背後 无人知影伊多重要",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 248.18,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "76422075d8e5d60e6e5a23421634c5d72ffc42c63964f536c57bb9eb031b1a70",
+    "manual": "751b1692fb7533629ebded46784d90e0910aaca7430460d6a9043f6395ac8dbc",
+    "timed": "3582ee06d379f563c066bdd968daf6b90135d0c5e46f82e66dd09e2e60321db3"
+  }
+}

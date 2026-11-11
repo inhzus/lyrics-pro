@@ -1,0 +1,200 @@
+{
+  "candidates": [
+    {
+      "song_id": 543798025,
+      "title": "浪人",
+      "artists": [
+        "草屯囝仔"
+      ],
+      "album": "囝仔",
+      "duration": 218.5,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 28940041,
+      "title": "浪人",
+      "artists": [
+        "Supper Moment"
+      ],
+      "album": "世界变了样",
+      "duration": 292.255,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3339106731,
+      "title": "浪人",
+      "artists": [
+        "Supper Moment"
+      ],
+      "album": "THE MOMENTUM LIVE 时刻定律",
+      "duration": 289.372,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1400563126,
+      "title": "浪人",
+      "artists": [
+        "杨诒"
+      ],
+      "album": "Fantasia: Rolling Sky 2 Original Soundtrack (Full Collection)",
+      "duration": 110.791,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3455910707,
+      "title": "浪人",
+      "artists": [
+        "Dead Signal OK"
+      ],
+      "album": "窗上雾色与暖灯",
+      "duration": 47.717,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3339518413,
+      "title": "浪人",
+      "artists": [
+        "DJ阿梦",
+        "rich-zovf",
+        "吃了嘛",
+        "808bass",
+        "是叫赵赵",
+        "han",
+        "Fyyy",
+        "星",
+        "Abraham x",
+        "积极查学历",
+        "牧白",
+        "landq",
+        "小嘎哥",
+        "为霞满天",
+        "谢_肆忧",
+        "yet",
+        "毛毛虫",
+        "ciacia瓜子",
+        "Liingen",
+        "毛豆的豆"
+      ],
+      "album": "DJ阿梦",
+      "duration": 33.799,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2104369464,
+      "title": "浪人",
+      "artists": [
+        "黄艺明"
+      ],
+      "album": "流浪",
+      "duration": 226.269,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 39443481,
+      "title": "浪人",
+      "artists": [
+        "说书人乐团"
+      ],
+      "album": "说书人",
+      "duration": 307.246,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2024616492,
+      "title": "浪人",
+      "artists": [
+        "命犯桃花"
+      ],
+      "album": "命犯桃花",
+      "duration": 239.957,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 120981,
+      "title": "浪人",
+      "artists": [
+        "林保怡"
+      ],
+      "album": "爱不出口",
+      "duration": 292.066,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1269013233",
+      "title": "浪人",
+      "artists": [
+        "草屯囝仔"
+      ],
+      "album": "囝仔",
+      "duration": 219.195,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1230385346",
+      "title": "浪人",
+      "artists": [
+        "Supper Moment"
+      ],
+      "album": "世界变了样",
+      "duration": 292.255,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1164961020",
+      "title": "浪人",
+      "artists": [
+        "卢宜均"
+      ],
+      "album": "咏.无邪",
+      "duration": 217.879,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29417744,
+      "title": "浪人",
+      "artists": [
+        "草屯囝仔"
+      ],
+      "album": "囝仔",
+      "duration": 219.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 32669265,
+      "title": "浪人",
+      "artists": [
+        "羅文"
+      ],
+      "album": "朋友一個",
+      "duration": 209.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16815430,
+      "title": "浪人",
+      "artists": [
+        "Supper Moment"
+      ],
+      "album": "世界變了樣",
+      "duration": 292.693333,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

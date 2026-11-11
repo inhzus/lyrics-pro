@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": "840578243",
+      "title": "加暝班 (Original)",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "十一台",
+      "duration": 209.867,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": 16556657,
+      "title": "加暝班 (Original)",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "十一台",
+      "duration": 210.024,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 28783069,
+      "title": "加暝班 (original)",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "十一台",
+      "duration": 268.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

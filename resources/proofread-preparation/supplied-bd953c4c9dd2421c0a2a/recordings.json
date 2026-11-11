@@ -1,0 +1,535 @@
+{
+  "candidates": [
+    {
+      "song_id": 2098125552,
+      "title": "Forever and More",
+      "artists": [
+        "Rick Astley"
+      ],
+      "album": "Are We There Yet?",
+      "duration": 217.092,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17499948,
+      "title": "Forever and More",
+      "artists": [
+        "Ehsan"
+      ],
+      "album": "Genuine",
+      "duration": 198.933,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1405418294,
+      "title": "Forever and More",
+      "artists": [
+        "Jaguar Sun"
+      ],
+      "album": "Forever and More",
+      "duration": 262.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1846565479,
+      "title": "Forever and More",
+      "artists": [
+        "Beícoli"
+      ],
+      "album": "The Longest Road on Earth (Original Video Game Soundtrack)",
+      "duration": 194.351,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1854840205,
+      "title": "Forever and More",
+      "artists": [
+        "Jaguar Sun"
+      ],
+      "album": "Nice Guys Love You, Vol. 3 (Vol. 3)",
+      "duration": 262.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2635576224,
+      "title": "Forever and More",
+      "artists": [
+        "Rick Astley"
+      ],
+      "album": "The Best Of Me: Never Edition",
+      "duration": 217.092,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2707958909,
+      "title": "Forever and More",
+      "artists": [
+        "Rick Astley"
+      ],
+      "album": "Chart Toppers",
+      "duration": 217.092,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2128228264,
+      "title": "Forever and More",
+      "artists": [
+        "Narysal"
+      ],
+      "album": "Forever and More",
+      "duration": 188.26,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 21250132,
+      "title": "Forever and more",
+      "artists": [
+        "The Michael Schenker Group"
+      ],
+      "album": "The unforgiven",
+      "duration": 345.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1492628170,
+      "title": "Forever and More",
+      "artists": [
+        "Hanne Leland"
+      ],
+      "album": "Forever and More",
+      "duration": 188.585,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2678801970,
+      "title": "Forever and More",
+      "artists": [
+        "LIL Phenix"
+      ],
+      "album": "Summertime Kingdom",
+      "duration": 206.4,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 27557724,
+      "title": "Forever and More",
+      "artists": [
+        "In Strict Confidence"
+      ],
+      "album": "Schwarze Welle Vol. 5",
+      "duration": 273.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2664650567,
+      "title": "Forever and More",
+      "artists": [
+        "Green Installations on Earth"
+      ],
+      "album": "Negotiations Between Heart and Reason",
+      "duration": 361.16,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2674749914,
+      "title": "Forever and More",
+      "artists": [
+        "ZEROFREE"
+      ],
+      "album": "ElectricBeat",
+      "duration": 184.884,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2675526143,
+      "title": "Forever and More",
+      "artists": [
+        "Botex Boy",
+        "Botex Angel"
+      ],
+      "album": "Botex Love",
+      "duration": 139.154,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2678417228,
+      "title": "Forever and More",
+      "artists": [
+        "LYNDON SOROTE MUSIK"
+      ],
+      "album": "I LOVE YOU (WEDDING SONG ALBUM VOLUME 1 2025)",
+      "duration": 214.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2680213818,
+      "title": "Forever and More",
+      "artists": [
+        "MONA"
+      ],
+      "album": "Only You",
+      "duration": 172.44,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3932176,
+      "title": "Forever and More",
+      "artists": [
+        "Amplifier"
+      ],
+      "album": "The Octopus",
+      "duration": 562.813,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2680212015,
+      "title": "Forever and More",
+      "artists": [
+        "MONA",
+        "Khawla"
+      ],
+      "album": "Forever and More",
+      "duration": 187.8,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3430761473,
+      "title": "Forever and more",
+      "artists": [
+        "EmberGrace"
+      ],
+      "album": "Doubts to Diamonds",
+      "duration": 314.4,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3446106942,
+      "title": "forever and more",
+      "artists": [
+        "Miss Rain & The Lightnings"
+      ],
+      "album": "forever and more",
+      "duration": 210.708,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1918792053,
+      "title": "Forever and More",
+      "artists": [
+        "Darius Cortez"
+      ],
+      "album": "Forever and More",
+      "duration": 181.875,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2098125552,
+      "title": "Forever and More",
+      "artists": [
+        "Rick Astley"
+      ],
+      "album": "Are We There Yet?",
+      "duration": 217.092,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17499948,
+      "title": "Forever and More",
+      "artists": [
+        "Ehsan"
+      ],
+      "album": "Genuine",
+      "duration": 198.933,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1846565479,
+      "title": "Forever and More",
+      "artists": [
+        "Beícoli"
+      ],
+      "album": "The Longest Road on Earth (Original Video Game Soundtrack)",
+      "duration": 194.351,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1405418294,
+      "title": "Forever and More",
+      "artists": [
+        "Jaguar Sun"
+      ],
+      "album": "Forever and More",
+      "duration": 262.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1854840205,
+      "title": "Forever and More",
+      "artists": [
+        "Jaguar Sun"
+      ],
+      "album": "Nice Guys Love You, Vol. 3 (Vol. 3)",
+      "duration": 262.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2635576224,
+      "title": "Forever and More",
+      "artists": [
+        "Rick Astley"
+      ],
+      "album": "The Best Of Me: Never Edition",
+      "duration": 217.092,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5060317,
+      "title": "Forever And More",
+      "artists": [
+        "In Strict Confidence"
+      ],
+      "album": "Utopia",
+      "duration": 275.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 4493235,
+      "title": "Forever and More",
+      "artists": [
+        "Rick Astley"
+      ],
+      "album": "Are We There Yet?",
+      "duration": 217.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1380712,
+      "title": "Forever and More",
+      "artists": [
+        "Michael Schenker Group"
+      ],
+      "album": "The Unforgiven",
+      "duration": 345.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 723706,
+      "title": "Forever and More",
+      "artists": [
+        "Amplifier"
+      ],
+      "album": "The Octopus",
+      "duration": 563.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30278590,
+      "title": "Forever and More",
+      "artists": [
+        "Jaguar Sun"
+      ],
+      "album": "BIRP! January 2020",
+      "duration": 262.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 33124177,
+      "title": "Forever And More",
+      "artists": [
+        "Michael Schenker Group"
+      ],
+      "album": "The Unforgiven",
+      "duration": 341.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 32926316,
+      "title": "Forever and More",
+      "artists": [
+        "In Strict Confidence"
+      ],
+      "album": "Gothic Spirits pres. Schwarze Weihnacht",
+      "duration": 277.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 19646113,
+      "title": "Forever and More",
+      "artists": [
+        "Rick Astley"
+      ],
+      "album": "Are We There Yet?",
+      "duration": 226.272653,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18182688,
+      "title": "Forever and More",
+      "artists": [
+        "Rick Astley"
+      ],
+      "album": "The Best Of Me: Never Edition",
+      "duration": 217.092063,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17923737,
+      "title": "Forever And More",
+      "artists": [
+        "Amplifier"
+      ],
+      "album": "The Octopus [2CD]",
+      "duration": 563.043265,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 20148675,
+      "title": "Forever and More",
+      "artists": [
+        "Rick Astley [mp3xa.cc]"
+      ],
+      "album": "mp3xa.cc",
+      "duration": 217.129796,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 19277314,
+      "title": "Forever and More",
+      "artists": [
+        "Rick Astley"
+      ],
+      "album": "Are We There Yet？",
+      "duration": 217.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18835786,
+      "title": "Forever and More",
+      "artists": [
+        "Amplifier"
+      ],
+      "album": "The Octopus",
+      "duration": 560.6933504,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17313751,
+      "title": "Forever and more",
+      "artists": [
+        "Michael Schenker"
+      ],
+      "album": "The Unforgiven",
+      "duration": 344.395312,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17303075,
+      "title": "Forever And More",
+      "artists": [
+        "Rick Astley"
+      ],
+      "album": "Rick Astley - Are We There Yet",
+      "duration": 217.129796,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17205569,
+      "title": "Forever And More",
+      "artists": [
+        "M.S.G"
+      ],
+      "album": "The Unforgiven",
+      "duration": 345.312653,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 15581904,
+      "title": "Forever and More",
+      "artists": [
+        "Astley Rick"
+      ],
+      "album": "Are We There Yet?",
+      "duration": 217.092063,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 21361253,
+      "title": "Forever And More",
+      "artists": [
+        "Michael Schenker"
+      ],
+      "album": "Metal Ballads Charter 5",
+      "duration": 345.760719,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 24681445,
+      "title": "Forever and More",
+      "artists": [
+        "Rick Astley"
+      ],
+      "album": "Chart Toppers",
+      "duration": 217.129796,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 24819998,
+      "title": "Forever and More",
+      "artists": [
+        "In Strict Confidence"
+      ],
+      "album": "Schwarze Welle 5",
+      "duration": 273.554286,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

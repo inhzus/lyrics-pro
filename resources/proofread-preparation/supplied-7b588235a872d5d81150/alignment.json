@@ -1,0 +1,203 @@
+{
+  "recording_id": "lrclib:16308886",
+  "timing_source": "LRCLIB https://lrclib.net/api/get/16308886",
+  "manual_source": "User-supplied resources/lyrics-spelling/牽阮的手-蘇打綠",
+  "audio_verified": false,
+  "strict_complete": true,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "repeat": 12,
+    "gap": 2,
+    "exact": 1
+  },
+  "review_row_count": 0,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 27.58,
+      "online_text": "牽阮的手 淋著小雨 牽阮的手 跟你腳步",
+      "match_text": "牽阮的手 淋著小雨 牽阮的手 跟你腳步",
+      "text": "牽阮的手 淋著小雨                                  牽阮的手 跟你腳步",
+      "spelling": "khan gún ê tshiú  lâm tio̍h sió hōo    khan gún ê tshiú tuè lí kha-pōo",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 41.73,
+      "online_text": "牽你的手 走咱的路 牽你的手 不驚艱苦",
+      "match_text": "牽你的手 走咱的路 牽你的手 不驚艱苦",
+      "text": "牽你的手 走咱的路                           牽你的手 不驚艱苦",
+      "spelling": "khan lí ê tshiú  kiânn lán ê lōo    khan lí ê tshiú  m̄-kiann kan-khóo",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 55.69,
+      "online_text": "牽阮的手 淋著小雨 牽阮的手 跟你腳步",
+      "match_text": "牽阮的手 淋著小雨 牽阮的手 跟你腳步",
+      "text": "牽阮的手 淋著小雨                                  牽阮的手 跟你腳步",
+      "spelling": "khan gún ê tshiú  lâm tio̍h sió hōo    khan gún ê tshiú tuè lí kha-pōo",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 70.05,
+      "online_text": "牽你的手 走咱的路 牽你的手 不驚艱苦",
+      "match_text": "牽你的手 走咱的路 牽你的手 不驚艱苦",
+      "text": "牽你的手 走咱的路                           牽你的手 不驚艱苦",
+      "spelling": "khan lí ê tshiú  kiânn lán ê lōo    khan lí ê tshiú  m̄-kiann kan-khóo",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 84.16,
+      "online_text": "雖然路途有風有雨 我也甘願受盡苦楚",
+      "match_text": "雖然路途有風有雨 我也甘願受盡苦楚",
+      "text": "雖然路途 有風有雨 我也甘願 受盡苦楚",
+      "spelling": "sui-liân lōo tôo ū hong ū hōo guá iā kam-guān siū tsīn khóo-tshóo",
+      "manual_id": "line-13:0+line-13:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 98.11,
+      "online_text": "希望甲你白頭偕老 牽阮的手 走咱的路",
+      "match_text": "希望甲你白頭偕老 牽阮的手 走咱的路",
+      "text": "希望甲你 白頭偕老                            牽阮的手 走咱的路",
+      "spelling": "hi-bāng kah lí  pe̍h-thioh kài-ló    khan gún ê tshiú  kiânn lán ê lōo",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 112.71,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 7,
+      "time": 126.48,
+      "online_text": "牽阮的手 淋著小雨 牽阮的手 跟你腳步",
+      "match_text": "牽阮的手 淋著小雨 牽阮的手 跟你腳步",
+      "text": "牽阮的手 淋著小雨                                  牽阮的手 跟你腳步",
+      "spelling": "khan gún ê tshiú  lâm tio̍h sió hōo    khan gún ê tshiú tuè lí kha-pōo",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 140.37,
+      "online_text": "牽你的手 走咱的路 牽你的手 不驚艱苦",
+      "match_text": "牽你的手 走咱的路 牽你的手 不驚艱苦",
+      "text": "牽你的手 走咱的路                           牽你的手 不驚艱苦",
+      "spelling": "khan lí ê tshiú  kiânn lán ê lōo    khan lí ê tshiú  m̄-kiann kan-khóo",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 154.59,
+      "online_text": "雖然路途有風有雨 我也甘願受盡苦楚",
+      "match_text": "雖然路途有風有雨 我也甘願受盡苦楚",
+      "text": "雖然路途 有風有雨 我也甘願 受盡苦楚",
+      "spelling": "sui-liân lōo tôo ū hong ū hōo guá iā kam-guān siū tsīn khóo-tshóo",
+      "manual_id": "line-13:0+line-13:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 168.61,
+      "online_text": "希望甲你白頭偕老 牽阮的手 走咱的路",
+      "match_text": "希望甲你白頭偕老 牽阮的手 走咱的路",
+      "text": "希望甲你 白頭偕老                            牽阮的手 走咱的路",
+      "spelling": "hi-bāng kah lí  pe̍h-thioh kài-ló    khan gún ê tshiú  kiânn lán ê lōo",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 182.7,
+      "online_text": "雖然路途有風有雨 我也甘願受盡苦楚",
+      "match_text": "雖然路途有風有雨 我也甘願受盡苦楚",
+      "text": "雖然路途 有風有雨 我也甘願 受盡苦楚",
+      "spelling": "sui-liân lōo tôo ū hong ū hōo guá iā kam-guān siū tsīn khóo-tshóo",
+      "manual_id": "line-13:0+line-13:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 196.82,
+      "online_text": "希望甲你白頭偕老 牽阮的手 走咱的路",
+      "match_text": "希望甲你白頭偕老 牽阮的手 走咱的路",
+      "text": "希望甲你 白頭偕老                            牽阮的手 走咱的路",
+      "spelling": "hi-bāng kah lí  pe̍h-thioh kài-ló    khan gún ê tshiú  kiânn lán ê lōo",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 211.29,
+      "online_text": "牽阮的手 走咱的路",
+      "match_text": "牽阮的手 走咱的路",
+      "text": "牽阮的手 走咱的路",
+      "spelling": "khan gún ê tshiú  kiânn lán ê lōo",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 222.46,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "input_sha256": {
+    "original_source": "1fd6f83ef9f74145484909a7b6382705a6a0d263f117593b7f0d57a04443afd7",
+    "manual": "740f0807800cf48f9c31418b6185841fd41d35436b9735ad6ed7f735cbc52e4f",
+    "timed": "d6246cd4cda53679fd5ecbf95ce9a09f096991bf9eefa298397124ca0ba5216d"
+  }
+}

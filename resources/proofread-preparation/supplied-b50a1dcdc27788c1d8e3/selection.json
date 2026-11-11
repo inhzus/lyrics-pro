@@ -1,0 +1,39 @@
+{
+  "selected": {
+    "song_id": 156994,
+    "title": "无声的所在",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "电影歌曲典藏1992-2000",
+    "duration": 267.933,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:156994",
+      "duration": 267.933,
+      "ready": false,
+      "coverage": 0.48,
+      "exact_fraction": 0.04,
+      "summary": {
+        "approximate": 11,
+        "unresolved": 13,
+        "exact": 1
+      }
+    },
+    {
+      "recording_id": "netease:5260134",
+      "duration": 273.716,
+      "ready": false,
+      "coverage": 0.4230769230769231,
+      "exact_fraction": 0.0,
+      "summary": {
+        "unresolved": 15,
+        "approximate": 11,
+        "gap": 1
+      }
+    }
+  ]
+}

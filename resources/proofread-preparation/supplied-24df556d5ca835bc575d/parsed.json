@@ -1,0 +1,259 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "每晚轉去的時袸 你攏底睏",
+      "spelling": "muí-àm tńg-khì ê sî tsūn  lí lóng té khùn",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "一天甲算算的 咱嘛講無兩句話",
+      "spelling": "tsi̍t kang kah sǹg sǹg ê  lán mah kóng bô nn̄g kù uē",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "天亮你要上班 天黑我愛乎茫",
+      "spelling": "thinn-kng lí ài siōng-pan  thinn-àm guá ài honnh bâng",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "你甲我的世界 那會愈差愈遠",
+      "spelling": "lí kā guá ê sè-kài  ná-ē lú tsha lú hn̄g",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "眠床頭放著一張批 寫出你的心內話",
+      "spelling": "bîn-tshn̂g thâu khǹg-tio̍h tsi̍t tiunn phue  siá-tshut lí ê sim-lāi uē",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "勸我麥擱做夢 勸我麥逐工攏喝乎茫",
+      "spelling": "khǹg guá mái koh tsuè-bāng  khǹg guá mái ta̍k-kang lóng lim honnh bâng",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "欲嫁乎我 欲甲我生子 友孝我的世大人",
+      "spelling": "beh kè honnh guá  beh kā guá senn-kiánn  iú hàu guá ê sì tuā lâng",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "我真想要哭 我哭不出來 我甘擱是人",
+      "spelling": "guá tsin siūnn beh khàu  guá khàu bē tshut-lâi  guá kam koh sī lâng",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "我底醉 你底睏 住做伙有啥意義",
+      "spelling": "guá té tsuì  lí té khùn  tuà tsò-hué ū siánn ì-gī",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "你底哭 我底笑 攏知繼續無可能",
+      "spelling": "lí té khàu  guá té tshiò  lóng tsai kè-sio̍k bô khó-lîng",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "我底醉 你底睏 你是天光 我是暗暝",
+      "spelling": "guá té tsuì  lí té khùn  lí sī thinn-kng  guá sī àm-mî",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "你底哭 我底笑 你是希望 我是落魄",
+      "spelling": "lí té khàu  guá té tshiò  lí sī hi-bāng  guá sī lo̍k-phik",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "眠床頭放著一張批 寫出你的心內話",
+      "spelling": "bîn-tshn̂g thâu khǹg-tio̍h tsi̍t tiunn phue  siá-tshut lí ê sim-lāi uē",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "勸我麥擱做夢 勸我麥逐工攏喝乎茫",
+      "spelling": "khǹg guá mái koh tsuè-bāng  khǹg guá mái ta̍k-kang lóng lim honnh bâng",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "欲嫁乎我 欲甲我生子 友孝我的世大人",
+      "spelling": "beh kè honnh guá  beh kā guá senn-kiánn  iú hàu guá ê sì tuā lâng",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "我真想要哭 我哭不出來 我甘擱是人",
+      "spelling": "guá tsin siūnn beh khàu  guá khàu bē tshut-lâi  guá kam koh sī lâng",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "我底醉 你底睏 住做伙有啥意義",
+      "spelling": "guá té tsuì  lí té khùn  tuà tsò-hué ū siánn ì-gī",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "你底哭 我底笑 攏知繼續無可能",
+      "spelling": "lí té khàu  guá té tshiò  lóng tsai kè-sio̍k bô khó-lîng",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "我底醉 你底睏 你是天光 我是暗暝",
+      "spelling": "guá té tsuì  lí té khùn  lí sī thinn-kng  guá sī àm-mî",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "你底哭 我底笑 你是希望 我是落魄",
+      "spelling": "lí té khàu  guá té tshiò  lí sī hi-bāng  guá sī lo̍k-phik",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "我底醉 你底睏 住做伙有啥意義",
+      "spelling": "guá té tsuì  lí té khùn  tuà tsò-hué ū siánn ì-gī",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "你底哭 我底笑 攏知繼續無可能",
+      "spelling": "lí té khàu  guá té tshiò  lóng tsai kè-sio̍k bô khó-lîng",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "我底醉 你底睏 你是天光 我是暗暝",
+      "spelling": "guá té tsuì  lí té khùn  lí sī thinn-kng  guá sī àm-mî",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "你底哭 我底笑 你是希望 我是落魄",
+      "spelling": "lí té khàu  guá té tshiò  lí sī hi-bāng  guá sī lo̍k-phik",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "我底醉 你底睏 住做伙有啥意義",
+      "spelling": "guá té tsuì  lí té khùn  tuà tsò-hué ū siánn ì-gī",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "你底哭 我底笑 攏知繼續無可能",
+      "spelling": "lí té khàu  guá té tshiò  lóng tsai kè-sio̍k bô khó-lîng",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "我底醉 你底睏 你是天光 我是暗暝",
+      "spelling": "guá té tsuì  lí té khùn  lí sī thinn-kng  guá sī àm-mî",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "你底哭 我底笑 你是希望 我是落魄",
+      "spelling": "lí té khàu  guá té tshiò  lí sī hi-bāng  guá sī lo̍k-phik",
+      "source_lines": [
+        82,
+        83
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

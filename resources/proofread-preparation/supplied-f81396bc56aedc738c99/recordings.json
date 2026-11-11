@@ -1,0 +1,172 @@
+{
+  "candidates": [
+    {
+      "song_id": 3384793624,
+      "title": "种子",
+      "artists": [
+        "罗可Lorkin",
+        "音乐合伙人"
+      ],
+      "album": "种子",
+      "duration": 148.125,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3429890755,
+      "title": "种子",
+      "artists": [
+        "陈静琳"
+      ],
+      "album": "哪天的形状",
+      "duration": 258.526,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1949056389,
+      "title": "种子",
+      "artists": [
+        "易烊千玺"
+      ],
+      "album": "种子",
+      "duration": 232.807,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2646567389,
+      "title": "种子",
+      "artists": [
+        "韩红"
+      ],
+      "album": "西北岁月 电视剧原声带",
+      "duration": 243.855,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 449769021,
+      "title": "种子",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "钉子花",
+      "duration": 317.371,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 350971,
+      "title": "种子",
+      "artists": [
+        "地下婴儿"
+      ],
+      "album": "觉醒",
+      "duration": 132.173,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2608755545,
+      "title": "种子",
+      "artists": [
+        "Carsick Cars"
+      ],
+      "album": "口",
+      "duration": 311.203,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 390868,
+      "title": "种子",
+      "artists": [
+        "羽·泉"
+      ],
+      "album": "没你不行",
+      "duration": 231.786,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5275382,
+      "title": "种子",
+      "artists": [
+        "地下婴儿"
+      ],
+      "album": "中国火III",
+      "duration": 132.173,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1380756220,
+      "title": "种子",
+      "artists": [
+        "甫平"
+      ],
+      "album": "种子2014",
+      "duration": 276.138,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 189173,
+      "title": "种子",
+      "artists": [
+        "张学友",
+        "符润光"
+      ],
+      "album": "雪狼湖",
+      "duration": 222.893,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 471882163,
+      "title": "种子",
+      "artists": [
+        "宋瑀哲"
+      ],
+      "album": "直播人生·楚门的世界",
+      "duration": 174.26,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3372850247,
+      "title": "种子",
+      "artists": [
+        "凯瑟喵"
+      ],
+      "album": "种子",
+      "duration": 250.961,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2635844997,
+      "title": "种子",
+      "artists": [
+        "火星电台"
+      ],
+      "album": "平行世界的往事「上」",
+      "duration": 298.32,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3460148964,
+      "title": "种子",
+      "artists": [
+        "眸"
+      ],
+      "album": "种子",
+      "duration": 207.773,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

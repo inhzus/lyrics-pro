@@ -1,0 +1,335 @@
+{
+  "candidates": [
+    {
+      "song_id": 1398654850,
+      "title": "火车",
+      "artists": [
+        "快乐儿童合唱团"
+      ],
+      "album": "快乐歌第二集",
+      "duration": 99.533,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 388691,
+      "title": "火车",
+      "artists": [
+        "小紫荆儿童合唱团"
+      ],
+      "album": "快乐儿歌",
+      "duration": 87.883,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 108745,
+      "title": "火车",
+      "artists": [
+        "上海交响乐团"
+      ],
+      "album": "古典 · 经典 · 罗大佑",
+      "duration": 359.186,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1398654850,
+      "title": "火车",
+      "artists": [
+        "快乐儿童合唱团"
+      ],
+      "album": "快乐歌第二集",
+      "duration": 99.533,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 388691,
+      "title": "火车",
+      "artists": [
+        "小紫荆儿童合唱团"
+      ],
+      "album": "快乐儿歌",
+      "duration": 87.883,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 108745,
+      "title": "火车",
+      "artists": [
+        "上海交响乐团"
+      ],
+      "album": "古典 · 经典 · 罗大佑",
+      "duration": 359.186,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 109069,
+      "title": "火车",
+      "artists": [
+        "罗大佑"
+      ],
+      "album": "原乡",
+      "duration": 268.493,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5282373,
+      "title": "火车",
+      "artists": [
+        "罗大佑"
+      ],
+      "album": "滚石第一流台湾歌12王牌大车拼",
+      "duration": 268.493,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 388691,
+      "title": "火车",
+      "artists": [
+        "小紫荆儿童合唱团"
+      ],
+      "album": "快乐儿歌",
+      "duration": 87.883,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29429854,
+      "title": "火车",
+      "artists": [
+        "程璧"
+      ],
+      "album": "诗遇上歌",
+      "duration": 257.045,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 27583454,
+      "title": "火车",
+      "artists": [
+        "嘎调"
+      ],
+      "album": "灯火",
+      "duration": 351.066,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2729300308,
+      "title": "火车",
+      "artists": [
+        "李怡然同学"
+      ],
+      "album": "火车",
+      "duration": 202.368,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1389882755,
+      "title": "火车",
+      "artists": [
+        "THE BOOTLEGS 靴腿"
+      ],
+      "album": "I Feel Good",
+      "duration": 143.309,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2751591550,
+      "title": "火车",
+      "artists": [
+        "超级市场"
+      ],
+      "album": "阳光，空气，还有水",
+      "duration": 330.902,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 866049662,
+      "title": "火车",
+      "artists": [
+        "吉马合唱团"
+      ],
+      "album": "吉马台语排行榜 6",
+      "duration": 282.506,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1532278975",
+      "title": "火车",
+      "artists": [
+        "一步乐团"
+      ],
+      "album": "刺鸟",
+      "duration": 276.012,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1654557087",
+      "title": "火车",
+      "artists": [
+        "牛仔裤音乐 & 蓝调音乐"
+      ],
+      "album": "冬日歌单合集 - 冬日天冷的时候,必听的温暖乡村歌曲, 放松吉他背景音乐,布鲁斯音乐,放松情绪",
+      "duration": 169.667,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1808899757",
+      "title": "火车",
+      "artists": [
+        "新裤子乐队"
+      ],
+      "album": "Disco Girl",
+      "duration": 138.762,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1642344383",
+      "title": "火车",
+      "artists": [
+        "牛仔裤音乐 & 咖啡香"
+      ],
+      "album": "秋天的乡村音乐:深度放松的乡村音乐为了放松、学习、工作,书店背景音乐,轻松听的咖啡厅bgm",
+      "duration": 181.333,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1733337944",
+      "title": "火车",
+      "artists": [
+        "四海儿童合唱团 & 新竹师专附小合唱团"
+      ],
+      "album": "音乐欣赏大全二年级(三)",
+      "duration": 157.208,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1644846864",
+      "title": "火车",
+      "artists": [
+        "乡城儿童合唱团"
+      ],
+      "album": "哈奇波奇 (英文童谣6)",
+      "duration": 62.146,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1650517385",
+      "title": "火车",
+      "artists": [
+        "蒲露蓓"
+      ],
+      "album": "Days",
+      "duration": 104.178,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1515225721",
+      "title": "火车",
+      "artists": [
+        "浅堤"
+      ],
+      "album": "不完整的村庄",
+      "duration": 305.455,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1695850099",
+      "title": "火车",
+      "artists": [
+        "丁薇"
+      ],
+      "album": "林朝阳&丁薇影视音乐精选集3",
+      "duration": 59.029,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18894663,
+      "title": "火車",
+      "artists": [
+        "羅大佑"
+      ],
+      "album": "二零二零八月宜花東鹿記",
+      "duration": 169.0435,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16608884,
+      "title": "火車",
+      "artists": [
+        "淺堤"
+      ],
+      "album": "不完整的村莊",
+      "duration": 305.502041,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 23745732,
+      "title": "火車",
+      "artists": [
+        "Lo Ta-You"
+      ],
+      "album": "原鄉",
+      "duration": 268.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 10535520,
+      "title": "火車",
+      "artists": [
+        "明日の叙景"
+      ],
+      "album": "わたしと私だったもの",
+      "duration": 299.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 9644259,
+      "title": "火車",
+      "artists": [
+        "羅大佑"
+      ],
+      "album": "原鄉",
+      "duration": 269.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 27313719,
+      "title": "火車",
+      "artists": [
+        "羅大佑"
+      ],
+      "album": "原鄉",
+      "duration": 283.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

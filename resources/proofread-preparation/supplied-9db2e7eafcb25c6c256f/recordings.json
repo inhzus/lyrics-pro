@@ -1,0 +1,94 @@
+{
+  "candidates": [
+    {
+      "song_id": 2706345337,
+      "title": "八字",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "我是男子汉",
+      "duration": 336.946,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 3369492457,
+      "title": "八字",
+      "artists": [
+        "尘易"
+      ],
+      "album": "术衍天机",
+      "duration": 210.84,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3440209651,
+      "title": "八字",
+      "artists": [
+        "谷腾"
+      ],
+      "album": "一袋人",
+      "duration": 285.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2660332798,
+      "title": "八字",
+      "artists": [
+        "17Evers",
+        "Azzz5"
+      ],
+      "album": "双重人格",
+      "duration": 148.831,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1899491316,
+      "title": "八字",
+      "artists": [
+        "秀兰玛雅"
+      ],
+      "album": "绣一蕊花",
+      "duration": 250.872,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3340500297,
+      "title": "八字",
+      "artists": [
+        "ilanna"
+      ],
+      "album": "众生",
+      "duration": 217.599,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2061707354,
+      "title": "八字",
+      "artists": [
+        "龙阁文化传播有限公司"
+      ],
+      "album": "客家童谣 精选辑 CD09",
+      "duration": 199.523,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2041118230,
+      "title": "八字",
+      "artists": [
+        "张涵雅"
+      ],
+      "album": "湯味",
+      "duration": 269.433,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

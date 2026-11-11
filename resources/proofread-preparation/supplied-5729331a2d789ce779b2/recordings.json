@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": 168296,
+      "title": "台湾味",
+      "artists": [
+        "萧煌奇"
+      ],
+      "album": "爱作梦的人",
+      "duration": 299.52,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1510912780",
+      "title": "台湾味",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "众神护台湾 (黑胶版)",
+      "duration": 183.32,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "842352315",
+      "title": "台湾味",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "众神护台湾",
+      "duration": 183.32,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": 32376430,
+      "title": "台灣味",
+      "artists": [
+        "蕭煌奇"
+      ],
+      "album": "愛作夢的人",
+      "duration": 301.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

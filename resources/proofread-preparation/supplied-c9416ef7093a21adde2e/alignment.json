@@ -1,0 +1,436 @@
+{
+  "recording_id": "netease:350191",
+  "timing_source": "NetEase https://music.163.com/song?id=350191",
+  "manual_source": "User-supplied resources/lyrics-spelling/川秋沙-川秋沙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 21,
+    "gap": 9
+  },
+  "review_row_count": 21,
+  "unmatched_manual_ids": [
+    "line-3:0",
+    "line-6:0"
+  ],
+  "unused_repeat_ids": [
+    "line-9:0",
+    "line-12:0",
+    "line-15:0",
+    "line-18:0",
+    "line-21:0",
+    "line-24:0",
+    "line-27:0",
+    "line-30:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 川秋沙",
+      "match_text": "作词 : 川秋沙",
+      "text": "作词 : 川秋沙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 0.71,
+      "online_text": "作曲 : 川秋沙",
+      "match_text": "作曲 : 川秋沙",
+      "text": "作曲 : 川秋沙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 1.42,
+      "online_text": "川秋沙 - 川秋沙",
+      "match_text": "川秋沙 - 川秋沙",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 2.94,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 4,
+      "time": 10.47,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 11.97,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 6,
+      "time": 15.95,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 7,
+      "time": 24.03,
+      "online_text": "川秋沙 迷路的人",
+      "match_text": "川秋沙 迷路的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-3:0"
+    },
+    {
+      "source_row": 8,
+      "time": 31.27,
+      "online_text": "在这个所在 找不到 返去的路线",
+      "match_text": "在这个所在 找不到 返去的路线",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-3:0"
+    },
+    {
+      "source_row": 9,
+      "time": 39.95,
+      "online_text": "孤鸟飞 那会知道",
+      "match_text": "孤鸟飞 那会知道",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-6:0"
+    },
+    {
+      "source_row": 10,
+      "time": 46.95,
+      "online_text": "在这片天顶 找不到 月娘的光线",
+      "match_text": "在这片天顶 找不到 月娘的光线",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-6:0"
+    },
+    {
+      "source_row": 11,
+      "time": 56.41,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 12,
+      "time": 71.17,
+      "online_text": "川秋沙 孤单的人",
+      "match_text": "川秋沙 孤单的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 78.58,
+      "online_text": "在这个所在 找不到 抚慰的歌声",
+      "match_text": "在这个所在 找不到 抚慰的歌声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 87.18,
+      "online_text": "孤鸟飞 那会知道",
+      "match_text": "孤鸟飞 那会知道",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 94.28,
+      "online_text": "在这片天顶 找不到 思慕的前途",
+      "match_text": "在这片天顶 找不到 思慕的前途",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 103.16,
+      "online_text": "那是 那场虚华的梦",
+      "match_text": "那是 那场虚华的梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 110.13,
+      "online_text": "将你的身影 牵引到这",
+      "match_text": "将你的身影 牵引到这",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 119.56,
+      "online_text": "那会 到最後清醒时",
+      "match_text": "那会 到最後清醒时",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 125.71,
+      "online_text": "对这块土地的梦 却变成空",
+      "match_text": "对这块土地的梦 却变成空",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 138.7,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 21,
+      "time": 166.62,
+      "online_text": "那是 那场虚华的梦",
+      "match_text": "那是 那场虚华的梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 173.02,
+      "online_text": "将你的身影 牵引到这",
+      "match_text": "将你的身影 牵引到这",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 182.53,
+      "online_text": "那会 到最後清醒时",
+      "match_text": "那会 到最後清醒时",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 188.56,
+      "online_text": "对这块土地的梦 却变成空",
+      "match_text": "对这块土地的梦 却变成空",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 196.86,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 26,
+      "time": 197.76,
+      "online_text": "川秋沙 孤单的人",
+      "match_text": "川秋沙 孤单的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 204.4,
+      "online_text": "在这个所在 找不到 抚慰的歌声",
+      "match_text": "在这个所在 找不到 抚慰的歌声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 212.83,
+      "online_text": "孤鸟飞 那会知道",
+      "match_text": "孤鸟飞 那会知道",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 220.1,
+      "online_text": "在这片天顶 找不到 思慕的前途",
+      "match_text": "在这片天顶 找不到 思慕的前途",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 229.08,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 31,
+      "time": 230.68,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "b739f62a2bfa0bf4be62c34a905f275c2202e0309d3c1cf3e16bf2e5dab8d3bb",
+    "manual": "496638d8bd3d904dbd0a98394ee799e207979c2540b35c7de97a7f575bf0198b",
+    "timed": "61a04450a280c76c32380af72371b0fd4cdeb87117e2d9a8dae23b4d7d39c5a5"
+  }
+}

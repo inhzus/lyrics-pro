@@ -1,0 +1,422 @@
+{
+  "blocks": [
+    {
+      "id": "line-5",
+      "text": "唱歌我可以                            來吃苦我可以",
+      "spelling": "tshiùnn-kua guá ē-sái        lâi tsia̍h khóo guá ē-sái",
+      "source_lines": [
+        5,
+        6
+      ],
+      "parts": [
+        {
+          "text": "唱歌我可以",
+          "spelling": "tshiùnn-kua guá ē-sái"
+        },
+        {
+          "text": "來吃苦我可以",
+          "spelling": "lâi tsia̍h khóo guá ē-sái"
+        }
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "不管作啥我可以                                什麼事情我都可以",
+      "spelling": "m̄ kuán tsoh siánn guá ē-sái        siánn-mih tāi-tsì guá ē-sái",
+      "source_lines": [
+        8,
+        9
+      ],
+      "parts": [
+        {
+          "text": "不管作啥我可以",
+          "spelling": "m̄ kuán tsoh siánn guá ē-sái"
+        },
+        {
+          "text": "什麼事情我都可以",
+          "spelling": "siánn-mih tāi-tsì guá ē-sái"
+        }
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "唱歌我可以                             來吃苦我可以",
+      "spelling": "tshiùnn-kua guá ē-sái        lâi tsia̍h khóo guá ē-sái",
+      "source_lines": [
+        11,
+        12
+      ],
+      "parts": [
+        {
+          "text": "唱歌我可以",
+          "spelling": "tshiùnn-kua guá ē-sái"
+        },
+        {
+          "text": "來吃苦我可以",
+          "spelling": "lâi tsia̍h khóo guá ē-sái"
+        }
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "不管作啥我可以                                什麼事情我都可以",
+      "spelling": "m̄ kuán tsoh siánn guá ē-sái        siánn-mih tāi-tsì guá lóng ē-sái",
+      "source_lines": [
+        14,
+        15
+      ],
+      "parts": [
+        {
+          "text": "不管作啥我可以",
+          "spelling": "m̄ kuán tsoh siánn guá ē-sái"
+        },
+        {
+          "text": "什麼事情我都可以",
+          "spelling": "siánn-mih tāi-tsì guá lóng ē-sái"
+        }
+      ]
+    },
+    {
+      "id": "line-17",
+      "text": "細漢時                選到歹路來走",
+      "spelling": "sè-hàn sî            kíng tio̍h pháinn-lōo lâi kiânn",
+      "source_lines": [
+        17,
+        18
+      ],
+      "parts": [
+        {
+          "text": "細漢時",
+          "spelling": "sè-hàn sî"
+        },
+        {
+          "text": "選到歹路來走",
+          "spelling": "kíng tio̍h pháinn-lōo lâi kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-20",
+      "text": "厝裡人的話都沒再給他聽",
+      "spelling": "tshù lāi lâng ê uē lóng bô leh kā thiann",
+      "source_lines": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "對人來做兄弟                        想欲改變生活",
+      "spelling": "tuì lâng lâi tsuè hiann-tī    siūnn-beh kái-piàn sing-ua̍h",
+      "source_lines": [
+        23,
+        24
+      ],
+      "parts": [
+        {
+          "text": "對人來做兄弟",
+          "spelling": "tuì lâng lâi tsuè hiann-tī"
+        },
+        {
+          "text": "想欲改變生活",
+          "spelling": "siūnn-beh kái-piàn sing-ua̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-26",
+      "text": "有時陣要錢                   咱也不要命",
+      "spelling": "ū sî tsūn ài tsînn        lán mā bô ài miā",
+      "source_lines": [
+        26,
+        27
+      ],
+      "parts": [
+        {
+          "text": "有時陣要錢",
+          "spelling": "ū sî tsūn ài tsînn"
+        },
+        {
+          "text": "咱也不要命",
+          "spelling": "lán mā bô ài miā"
+        }
+      ]
+    },
+    {
+      "id": "line-29",
+      "text": "說到你 我友情親像斷背山",
+      "spelling": "kóng-tio̍h lí  guá iú-tsîng tshin-tshiūnn tuàn pè san",
+      "source_lines": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "line-32",
+      "text": "我常常幫你度過真多難關",
+      "spelling": "guá tiānn-tiānn pang lí tōo-kuè tsin tsē lân-kuan",
+      "source_lines": [
+        32,
+        33
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "感謝你在我身邊 將我往正路來牽",
+      "spelling": "kám-siā lí tī guá sin-pinn  tsiòng guá óng tsiànn lōo lâi khan",
+      "source_lines": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "這份情我這世人還不完",
+      "spelling": "tsit hūn tsîng guá tsit-sì-lâng hîng buē uân",
+      "source_lines": [
+        38,
+        39
+      ]
+    },
+    {
+      "id": "line-41",
+      "text": "這是我選擇的路 管他有誰人在乎 一切的哭的 笑的 痛的幸福一起共度",
+      "spelling": "zhè shì wǒ xuǎnzé de lù guǎn tā yǒu shéi rén zàihū yīqiè de kū de xiào de tòng de xìngfú yīqǐ gòngdù",
+      "source_lines": [
+        41,
+        42
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "我們要一起長大 共同到每個國度 要聽到你的掌聲 尖叫就是我的全部",
+      "spelling": "wǒmen yào yīqǐ zhǎngdà gòngtóng dào měi gè guódù yào tīngdào nǐ de zhǎngshēng jiān jiào jiùshì wǒ de quánbù",
+      "source_lines": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "這是我們走的路 管他有誰人在乎 感謝你在我身邊 給我扶持給我幫助",
+      "spelling": "zhè shì wǒmen zǒu de lù guǎn tā yǒu shéi rén zàihū gǎnxiè nǐ zài wǒ shēnbiān gěi wǒ fúchí gěi wǒ bāngzhù",
+      "source_lines": [
+        47,
+        48
+      ]
+    },
+    {
+      "id": "line-50",
+      "text": "我絕不會認輸 慢慢走一步一步 兄弟我們心連著心走 我們的路",
+      "spelling": "wǒ jué bù huì rènshū màn man zǒu yībù yībù xiōngdì wǒmen xīn liánzhe xīn zǒu wǒmen de lù",
+      "source_lines": [
+        50,
+        51
+      ]
+    },
+    {
+      "id": "line-53",
+      "text": "唱歌我可以                            來吃苦我可以",
+      "spelling": "tshiùnn-kua guá ē-sái        lâi tsia̍h khóo guá ē-sái",
+      "source_lines": [
+        53,
+        54
+      ],
+      "parts": [
+        {
+          "text": "唱歌我可以",
+          "spelling": "tshiùnn-kua guá ē-sái"
+        },
+        {
+          "text": "來吃苦我可以",
+          "spelling": "lâi tsia̍h khóo guá ē-sái"
+        }
+      ]
+    },
+    {
+      "id": "line-56",
+      "text": "不管作啥我可以                                什麼事情我都可以",
+      "spelling": "m̄ kuán tsoh siánn guá ē-sái        siánn-mih tāi-tsì guá ē-sái",
+      "source_lines": [
+        56,
+        57
+      ],
+      "parts": [
+        {
+          "text": "不管作啥我可以",
+          "spelling": "m̄ kuán tsoh siánn guá ē-sái"
+        },
+        {
+          "text": "什麼事情我都可以",
+          "spelling": "siánn-mih tāi-tsì guá ē-sái"
+        }
+      ]
+    },
+    {
+      "id": "line-59",
+      "text": "唱歌我可以                             來吃苦我可以",
+      "spelling": "tshiùnn-kua guá ē-sái        lâi tsia̍h khóo guá ē-sái",
+      "source_lines": [
+        59,
+        60
+      ],
+      "parts": [
+        {
+          "text": "唱歌我可以",
+          "spelling": "tshiùnn-kua guá ē-sái"
+        },
+        {
+          "text": "來吃苦我可以",
+          "spelling": "lâi tsia̍h khóo guá ē-sái"
+        }
+      ]
+    },
+    {
+      "id": "line-62",
+      "text": "不管作啥我可以                                什麼事情我都可以",
+      "spelling": "m̄ kuán tsoh siánn guá ē-sái        siánn-mih tāi-tsì guá lóng ē-sái",
+      "source_lines": [
+        62,
+        63
+      ],
+      "parts": [
+        {
+          "text": "不管作啥我可以",
+          "spelling": "m̄ kuán tsoh siánn guá ē-sái"
+        },
+        {
+          "text": "什麼事情我都可以",
+          "spelling": "siánn-mih tāi-tsì guá lóng ē-sái"
+        }
+      ]
+    },
+    {
+      "id": "line-65",
+      "text": "有的人非常渴望自己夢想 能夠實現 就會以實際行動去完成他",
+      "spelling": "yǒu de rén fēicháng kěwàng zìjǐ mèngxiǎng nénggòu shíxiàn jiù huì yǐ shíjì xíngdòng qù wánchéng tā",
+      "source_lines": [
+        65,
+        66
+      ]
+    },
+    {
+      "id": "line-68",
+      "text": "有的人每天都在做白日夢 以為就會實現夢想 你省省吧~",
+      "spelling": "yǒu de rén měitiān dōu zài zuò bái rì mèng yǐwéi jiù huì shíxiàn mèngxiǎng nǐ shěng shěng ba ~",
+      "source_lines": [
+        68,
+        69
+      ]
+    },
+    {
+      "id": "line-71",
+      "text": "媽媽擔心我會學壞 到廟裏求福到廟裡拜拜",
+      "spelling": "māmā dānxīn wǒ huì xué huài dào miào lǐ qiú fú dào miào lǐ bàibài",
+      "source_lines": [
+        71,
+        72
+      ]
+    },
+    {
+      "id": "line-74",
+      "text": "希望自己兒子有個好的未來 普遍家庭都這樣我不意外",
+      "spelling": "xīwàng zìjǐ érzi yǒu gè hǎo de wèilái pǔbiàn jiātíng dōu zhèyàng wǒ bù yìwài",
+      "source_lines": [
+        74,
+        75
+      ]
+    },
+    {
+      "id": "line-77",
+      "text": "你的路 繼續走 你的夢 不會停 只要你想完成 這一局 一定行",
+      "spelling": "nǐ de lù jìxù zǒu nǐ de mèng bù huì tíng zhǐyào nǐ xiǎng wánchéng zhè yī jú yīdìng xíng",
+      "source_lines": [
+        77,
+        78
+      ]
+    },
+    {
+      "id": "line-80",
+      "text": "走一半 走一半 就放棄 不做作完 太可惜 不就白費所有力氣",
+      "spelling": "zǒu yībàn zǒu yībàn jiù fàngqì bù zuòzuo wán tài kěxí bù jiù báifèi suǒyǒu lìqì",
+      "source_lines": [
+        80,
+        81
+      ]
+    },
+    {
+      "id": "line-83",
+      "text": "就算翻腳都還是繼續 走 不會游泳的人也都學會 游",
+      "spelling": "jiùsuàn nńg kha dōu háishì jìxù zǒu bù huì yóuyǒng de rén yě dū xuéhuì yóu",
+      "source_lines": [
+        83,
+        84
+      ]
+    },
+    {
+      "id": "line-86",
+      "text": "每個環節我與我的兄弟團結 遇到困難就解決 這是我的路",
+      "spelling": "měi gè huánjié wǒ yǔ wǒ de xiōngdì tuánjié yù dào kùn nàn jiù jiějué zhè shì wǒ de lù",
+      "source_lines": [
+        86,
+        87
+      ]
+    },
+    {
+      "id": "line-89",
+      "text": "這是我的路..",
+      "spelling": "zhè shì wǒ de lù..",
+      "source_lines": [
+        89,
+        90
+      ]
+    },
+    {
+      "id": "line-92",
+      "text": "這是我選擇的路 管他有誰人在乎 一切的哭的 笑的 痛的幸福一起共度",
+      "spelling": "zhè shì wǒ xuǎnzé de lù guǎn tā yǒu shéi rén zàihū yīqiè de kū de xiào de tòng de xìngfú yīqǐ gòngdù",
+      "source_lines": [
+        92,
+        93
+      ]
+    },
+    {
+      "id": "line-95",
+      "text": "我們要一起長大 共同到每個國度 要聽到你的掌聲 尖叫就是我的全部",
+      "spelling": "wǒmen yào yīqǐ zhǎngdà gòngtóng dào měi gè guódù yào tīngdào nǐ de zhǎngshēng jiān jiào jiùshì wǒ de quánbù",
+      "source_lines": [
+        95,
+        96
+      ]
+    },
+    {
+      "id": "line-98",
+      "text": "這是我們走的路 管他有誰人在乎 感謝你在我身邊 給我扶持給我幫助",
+      "spelling": "zhè shì wǒmen zǒu de lù guǎn tā yǒu shéi rén zàihū gǎnxiè nǐ zài wǒ shēnbiān gěi wǒ fúchí gěi wǒ bāngzhù",
+      "source_lines": [
+        98,
+        99
+      ]
+    },
+    {
+      "id": "line-101",
+      "text": "我絕不會認輸 慢慢走一步一步 兄弟我們心連著心走 我們的路",
+      "spelling": "wǒ jué bù huì rènshū màn man zǒu yībù yībù xiōngdì wǒmen xīn liánzhe xīn zǒu wǒmen de lù",
+      "source_lines": [
+        101,
+        102
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：玖壹壹   作曲：陳皓宇  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:3,5",
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

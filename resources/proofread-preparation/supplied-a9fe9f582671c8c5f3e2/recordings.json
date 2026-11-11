@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 68875,
+      "title": "出运",
+      "artists": [
+        "陈雷"
+      ],
+      "album": "出运",
+      "duration": 223.28,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

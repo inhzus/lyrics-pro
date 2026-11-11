@@ -1,0 +1,528 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "來去　         來去　        來去　        來去",
+      "spelling": "lâi-khì         lâi-khì        lâi-khì        lâi-khì",
+      "source_lines": [
+        1,
+        2
+      ],
+      "parts": [
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "咱來去 GO TO 夏威夷",
+      "spelling": "lán lâi-khì GO TO HAWAII (hā wāi i)",
+      "source_lines": [
+        4,
+        5
+      ],
+      "parts": [
+        {
+          "text": "咱來去 GO TO 夏威夷",
+          "spelling": "lán lâi-khì GO TO HAWAII (hā wāi i)"
+        }
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "來去　         來去　        來去　         來去",
+      "spelling": "lâi-khì         lâi-khì        lâi-khì        lâi-khì",
+      "source_lines": [
+        7,
+        8
+      ],
+      "parts": [
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "咱欲位台灣飛出去",
+      "spelling": "lán beh uī tâi-uân pue tshut-khì",
+      "source_lines": [
+        10,
+        11
+      ],
+      "parts": [
+        {
+          "text": "咱欲位台灣飛出去",
+          "spelling": "lán beh uī tâi-uân pue tshut-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "海水鹹鹹　                       日頭炎炎",
+      "spelling": "hái-tsuí kiâm kiâm        ji̍t-thâu iām iām",
+      "source_lines": [
+        13,
+        14
+      ],
+      "parts": [
+        {
+          "text": "海水鹹鹹",
+          "spelling": "hái-tsuí kiâm kiâm"
+        },
+        {
+          "text": "日頭炎炎",
+          "spelling": "ji̍t-thâu iām iām"
+        }
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "今仔日咱欲來去剃頭店",
+      "spelling": "kin-á-lit lán beh lâi-khì thì-thâu tiàm",
+      "source_lines": [
+        16,
+        17
+      ],
+      "parts": [
+        {
+          "text": "今仔日咱欲來去剃頭店",
+          "spelling": "kin-á-lit lán beh lâi-khì thì-thâu tiàm"
+        }
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "為什麼緣故　                       因為咱欲 GO TO 夏威夷",
+      "spelling": "uī-siánn-mi̍h iân-kòo        in-uī lán beh GO TO HAWAII (hā wāi i)",
+      "source_lines": [
+        19,
+        20
+      ],
+      "parts": [
+        {
+          "text": "為什麼緣故",
+          "spelling": "uī-siánn-mi̍h iân-kòo"
+        },
+        {
+          "text": "因為咱欲 GO TO 夏威夷",
+          "spelling": "in-uī lán beh GO TO HAWAII (hā wāi i)"
+        }
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "來去　         來去　        來去　         來去",
+      "spelling": "lâi-khì         lâi-khì        lâi-khì        lâi-khì",
+      "source_lines": [
+        22,
+        23
+      ],
+      "parts": [
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "咱欲位台灣飛出去",
+      "spelling": "lán beh uī tâi-uân pue tshut-khì",
+      "source_lines": [
+        25,
+        26
+      ],
+      "parts": [
+        {
+          "text": "咱欲位台灣飛出去",
+          "spelling": "lán beh uī tâi-uân pue tshut-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "天地闊闊　                             人生打拼　                     世間的歹路咱黑白行",
+      "spelling": "thinn-tē khuah khuah        lîn-sing phah-piànn    sè-kan ê pháinn-lōo lán oo pe̍h kiânn",
+      "source_lines": [
+        28,
+        29
+      ],
+      "parts": [
+        {
+          "text": "天地闊闊",
+          "spelling": "thinn-tē khuah khuah"
+        },
+        {
+          "text": "人生打拼",
+          "spelling": "lîn-sing phah-piànn"
+        },
+        {
+          "text": "世間的歹路咱黑白行",
+          "spelling": "sè-kan ê pháinn-lōo lán oo pe̍h kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "WOULD YOU PLEASE　    HELLO 甭客氣",
+      "spelling": "WOULD YOU PLEASE        HELLO māi kheh-khì",
+      "source_lines": [
+        31,
+        32
+      ],
+      "parts": [
+        {
+          "text": "WOULD YOU PLEASE",
+          "spelling": "WOULD YOU PLEASE"
+        },
+        {
+          "text": "HELLO 甭客氣",
+          "spelling": "HELLO māi kheh-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "THANK YOU VERY MUCH",
+      "spelling": "THANK YOU VERY MUCH",
+      "source_lines": [
+        34,
+        35
+      ],
+      "parts": [
+        {
+          "text": "THANK YOU VERY MUCH",
+          "spelling": "THANK YOU VERY MUCH"
+        }
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "來去　         來去　        來去　         來去",
+      "spelling": "lâi-khì         lâi-khì        lâi-khì        lâi-khì",
+      "source_lines": [
+        37,
+        38
+      ],
+      "parts": [
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "今仔日這隻鳥仔欲放出籠",
+      "spelling": "kin-á-lit tsit tsiah tsiáu-á beh pàng tshut-lam",
+      "source_lines": [
+        40,
+        41
+      ],
+      "parts": [
+        {
+          "text": "今仔日這隻鳥仔欲放出籠",
+          "spelling": "kin-á-lit tsit tsiah tsiáu-á beh pàng tshut-lam"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "FLY FLY FLY FLY FLY FLY FLY FLY",
+      "spelling": "FLY FLY FLY FLY FLY FLY FLY FLY",
+      "source_lines": [
+        43,
+        44
+      ],
+      "parts": [
+        {
+          "text": "FLY FLY FLY FLY FLY FLY FLY FLY",
+          "spelling": "FLY FLY FLY FLY FLY FLY FLY FLY"
+        }
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "來去　         來去　         來去　        來去",
+      "spelling": "lâi-khì         lâi-khì        lâi-khì        lâi-khì",
+      "source_lines": [
+        46,
+        47
+      ],
+      "parts": [
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "咱來去 GO TO 夏威夷",
+      "spelling": "lán lâi-khì GO TO HAWAII (hā wāi i)",
+      "source_lines": [
+        49,
+        50
+      ],
+      "parts": [
+        {
+          "text": "咱來去 GO TO 夏威夷",
+          "spelling": "lán lâi-khì GO TO HAWAII (hā wāi i)"
+        }
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "來去　         來去　        來去　         來去",
+      "spelling": "lâi-khì         lâi-khì        lâi-khì        lâi-khì",
+      "source_lines": [
+        52,
+        53
+      ],
+      "parts": [
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "咱欲位台灣飛出去",
+      "spelling": "lán beh uī tâi-uân pue tshut-khì",
+      "source_lines": [
+        55,
+        56
+      ],
+      "parts": [
+        {
+          "text": "咱欲位台灣飛出去",
+          "spelling": "lán beh uī tâi-uân pue tshut-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "天公疼咱　                             憨憨仔生活　                        雖然苦楚是歸大攤",
+      "spelling": "thinn-kong thiànn lán        gōng gōng á sing-ua̍h        sui-jiân khóo-tshóo sī kui tuā thuann",
+      "source_lines": [
+        58,
+        59
+      ],
+      "parts": [
+        {
+          "text": "天公疼咱",
+          "spelling": "thinn-kong thiànn lán"
+        },
+        {
+          "text": "憨憨仔生活",
+          "spelling": "gōng gōng á sing-ua̍h"
+        },
+        {
+          "text": "雖然苦楚是歸大攤",
+          "spelling": "sui-jiân khóo-tshóo sī kui tuā thuann"
+        }
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "命運安排　                   展開歌聲",
+      "spelling": "miā-ūn an-pâi            tián-khui kua-siann",
+      "source_lines": [
+        61,
+        62
+      ],
+      "parts": [
+        {
+          "text": "命運安排",
+          "spelling": "miā-ūn an-pâi"
+        },
+        {
+          "text": "展開歌聲",
+          "spelling": "tián-khui kua-siann"
+        }
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "惜惜的咱心肝                           惜惜的咱心肝",
+      "spelling": "sioh sioh ê lán sim-kuann    sioh sioh ê lán sim-kuann",
+      "source_lines": [
+        64,
+        65
+      ],
+      "parts": [
+        {
+          "text": "惜惜的咱心肝",
+          "spelling": "sioh sioh ê lán sim-kuann"
+        },
+        {
+          "text": "惜惜的咱心肝",
+          "spelling": "sioh sioh ê lán sim-kuann"
+        }
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "來去　         來去　         來去　        來去",
+      "spelling": "lâi-khì         lâi-khì        lâi-khì        lâi-khì",
+      "source_lines": [
+        67,
+        68
+      ],
+      "parts": [
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "咱來去 GO TO 夏威夷",
+      "spelling": "lán lâi-khì GO TO HAWAII (hā wāi i)",
+      "source_lines": [
+        70,
+        71
+      ],
+      "parts": [
+        {
+          "text": "咱來去 GO TO 夏威夷",
+          "spelling": "lán lâi-khì GO TO HAWAII (hā wāi i)"
+        }
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "來去　         來去　         來去　        來去",
+      "spelling": "lâi-khì         lâi-khì        lâi-khì        lâi-khì",
+      "source_lines": [
+        73,
+        74
+      ],
+      "parts": [
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        },
+        {
+          "text": "來去",
+          "spelling": "lâi-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "咱欲位台灣飛出去",
+      "spelling": "lán beh uī tâi-uân pue tshut-khì",
+      "source_lines": [
+        76,
+        77
+      ],
+      "parts": [
+        {
+          "text": "咱欲位台灣飛出去",
+          "spelling": "lán beh uī tâi-uân pue tshut-khì"
+        }
+      ]
+    }
+  ],
+  "repairs": [],
+  "notes": []
+}

@@ -1,0 +1,78 @@
+{
+  "recording_id": "netease:350178",
+  "source": "User-supplied resources/lyrics-spelling/管芒-川秋沙",
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "天日昇 貓霧仔光",
+      "spelling": "thinn li̍t tshìng bâ bôo á kng",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "光照山氣 天露欲凝",
+      "spelling": "kng tsiò suann khì thinn-lōo khuann gîng",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "南風起 追隨光影",
+      "spelling": "lâm hong-khí tui suî kng iánn",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "影對風行 搖曳欸葉",
+      "spelling": "iánn tuì hong-kiânn iô-iô ê hio̍h",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "嗚呼～ 癡迷芒雪 白花振動",
+      "spelling": "oo-hoo～ tshi bê bâng suat pe̍h-hue tín-tāng",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "心迷濛 管芒花散 風停隨人放啊",
+      "spelling": "sim bî bông mā bông hue suánn hong thîng suî-lâng pàng ah",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "凍露水 情催面紅",
+      "spelling": "tàng-lōo-tsuí tsîng tshui bīn-âng",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "紅花離離 哪驚逝去(管芒花啊)",
+      "spelling": "âng hue lī lī ná kiann sē khì (mā bông hue ah)",
+      "source_lines": [
+        22,
+        23
+      ]
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "熟悉的聲音               問我吃飽沒",
+      "spelling": "si̍k-sāi ê siann        mn̄g guá tsia̍h-pá buē",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "熟悉的聲音",
+          "spelling": "si̍k-sāi ê siann"
+        },
+        {
+          "text": "問我吃飽沒",
+          "spelling": "mn̄g guá tsia̍h-pá buē"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "怎麼這麼慢接電話",
+      "spelling": "ná iūnn tsia bān tsiap tiān-uē",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "我沒說話                 不知道說什麼",
+      "spelling": "guá bô kóng-uē    m̄ tsai kóng siánn-huè",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "我沒說話",
+          "spelling": "guá bô kóng-uē"
+        },
+        {
+          "text": "不知道說什麼",
+          "spelling": "m̄ tsai kóng siánn-huè"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "結束一天工作                                              什麼攏不想要做",
+      "spelling": "kiat-sok tsi̍t kang ê khang-khuè            siánn-mih lóng bô siūnn bē tsuè",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "結束一天工作",
+          "spelling": "kiat-sok tsi̍t kang ê khang-khuè"
+        },
+        {
+          "text": "什麼攏不想要做",
+          "spelling": "siánn-mih lóng bô siūnn bē tsuè"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "為何心裡總是空空                                                          親像欠一塊",
+      "spelling": "uī-tsuánn-iūnn sim-lāi tsóng-sī khàng khàng        tshin-tshiūnn khiàm tsi̍t tè",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "為何心裡總是空空",
+          "spelling": "uī-tsuánn-iūnn sim-lāi tsóng-sī khàng khàng"
+        },
+        {
+          "text": "親像欠一塊",
+          "spelling": "tshin-tshiūnn khiàm tsi̍t tè"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "阿～思念親像萬丈深坑",
+      "spelling": "a～su-liām tshin-tshiūnn bān tn̄g tshim-khenn",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "一旦墜入深坑底                                   想要脫離要說出心內話",
+      "spelling": "it-tàn tuī li̍p tshim-khenn té            siūnn bē thuat-lī ài kóng tshut sim-lāi uē",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "一旦墜入深坑底",
+          "spelling": "it-tàn tuī li̍p tshim-khenn té"
+        },
+        {
+          "text": "想要脫離要說出心內話",
+          "spelling": "siūnn bē thuat-lī ài kóng tshut sim-lāi uē"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "怕你們擔心                  怕你們捨不得            怕你們受風寒",
+      "spelling": "kiann lín kuàn-loh    kiann lín m̄-kam    kiann lín siū hong kuânn",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "怕你們擔心",
+          "spelling": "kiann lín kuàn-loh"
+        },
+        {
+          "text": "怕你們捨不得",
+          "spelling": "kiann lín m̄-kam"
+        },
+        {
+          "text": "怕你們受風寒",
+          "spelling": "kiann lín siū hong kuânn"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "我很認真                 也很打拼                       想要作讓您驕傲的孩子",
+      "spelling": "guá tsin līn-tsin    iā tsin phah-piànn    siūnn bē tsoh hōo lí kiau-ngōo ê kín-á",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "我很認真",
+          "spelling": "guá tsin līn-tsin"
+        },
+        {
+          "text": "也很打拼",
+          "spelling": "iā tsin phah-piànn"
+        },
+        {
+          "text": "想要作讓您驕傲的孩子",
+          "spelling": "siūnn bē tsoh hōo lí kiau-ngōo ê kín-á"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "怕你們擔心                   怕你們捨不得           怕你們受風寒",
+      "spelling": "kiann lín kuàn-loh    kiann lín m̄-kam    kiann lín siū hong-hân",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "怕你們擔心",
+          "spelling": "kiann lín kuàn-loh"
+        },
+        {
+          "text": "怕你們捨不得",
+          "spelling": "kiann lín m̄-kam"
+        },
+        {
+          "text": "怕你們受風寒",
+          "spelling": "kiann lín siū hong-hân"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "天公伯阿                    你若有在看                  請你保庇                    保庇這一家人",
+      "spelling": "thinn-kong peh a    lí ná ū teh khuànn    tshiánn lí pó pì        pó pì tsi̍t ke-hui a",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "天公伯阿",
+          "spelling": "thinn-kong peh a"
+        },
+        {
+          "text": "你若有在看",
+          "spelling": "lí ná ū teh khuànn"
+        },
+        {
+          "text": "請你保庇",
+          "spelling": "tshiánn lí pó pì"
+        },
+        {
+          "text": "保庇這一家人",
+          "spelling": "pó pì tsi̍t ke-hui a"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "家裡的你們            吃飽沒                  想要給你們打電話",
+      "spelling": "tshù-lāi ê lín        tsia̍h-pá buē        siūnn bē kā lín khà tiān-uē",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "家裡的你們",
+          "spelling": "tshù-lāi ê lín"
+        },
+        {
+          "text": "吃飽沒",
+          "spelling": "tsia̍h-pá buē"
+        },
+        {
+          "text": "想要給你們打電話",
+          "spelling": "siūnn bē kā lín khà tiān-uē"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "電話拿起卻開始猶豫                                     不知該說什麼",
+      "spelling": "tiān-uē gia̍h-khai suah khai-sí iû-tû        m̄ tsai kóng siánn-huè",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "電話拿起卻開始猶豫",
+          "spelling": "tiān-uē gia̍h-khai suah khai-sí iû-tû"
+        },
+        {
+          "text": "不知該說什麼",
+          "spelling": "m̄ tsai kóng siánn-huè"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "我很認真工作                                        生活也算舒適",
+      "spelling": "guá tsin līn-tsin khang-khuè            sing-ua̍h mā sǹg sâm-sè",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "我很認真工作",
+          "spelling": "guá tsin līn-tsin khang-khuè"
+        },
+        {
+          "text": "生活也算舒適",
+          "spelling": "sing-ua̍h mā sǹg sâm-sè"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "只是有時喝酒會           黑白發脾氣                     抽菸又罵髒話",
+      "spelling": "tsí-sī ū sî lim tsiú ē    oo-pe̍h huat phî-khì    tsia̍h-hun koh kiāu pháinn-uē",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "只是有時喝酒會",
+          "spelling": "tsí-sī ū sî lim tsiú ē"
+        },
+        {
+          "text": "黑白發脾氣",
+          "spelling": "oo-pe̍h huat phî-khì"
+        },
+        {
+          "text": "抽菸又罵髒話",
+          "spelling": "tsia̍h-hun koh kiāu pháinn-uē"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "阿～思念親像萬丈深坑",
+      "spelling": "a～su-liām tshin-tshiūnn bān tn̄g tshim-khenn",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "一旦墜入深坑底                               想要脫離要說出心內話",
+      "spelling": "it-tàn tuī li̍p tshim-khenn té        siūnn bē thuat-lī ài kóng tshut sim-lāi uē",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "一旦墜入深坑底",
+          "spelling": "it-tàn tuī li̍p tshim-khenn té"
+        },
+        {
+          "text": "想要脫離要說出心內話",
+          "spelling": "siūnn bē thuat-lī ài kóng tshut sim-lāi uē"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "怕你們擔心                  怕你們捨不得            怕你們受風寒",
+      "spelling": "kiann lín kuàn-loh    kiann lín m̄-kam    kiann lín siū hong kuânn",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "怕你們擔心",
+          "spelling": "kiann lín kuàn-loh"
+        },
+        {
+          "text": "怕你們捨不得",
+          "spelling": "kiann lín m̄-kam"
+        },
+        {
+          "text": "怕你們受風寒",
+          "spelling": "kiann lín siū hong kuânn"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "我很認真                  也很打拼                     想要作讓您驕傲的孩子",
+      "spelling": "guá tsin līn-tsin    iā tsin phah-piànn    siūnn bē tsoh hōo lí kiau-ngōo ê kín-á",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "我很認真",
+          "spelling": "guá tsin līn-tsin"
+        },
+        {
+          "text": "也很打拼",
+          "spelling": "iā tsin phah-piànn"
+        },
+        {
+          "text": "想要作讓您驕傲的孩子",
+          "spelling": "siūnn bē tsoh hōo lí kiau-ngōo ê kín-á"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "怕你們擔心                    怕你們捨不得          怕你們受風寒",
+      "spelling": "kiann lín kuàn-loh    kiann lín m̄-kam    kiann lín siū hong kuânn",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "怕你們擔心",
+          "spelling": "kiann lín kuàn-loh"
+        },
+        {
+          "text": "怕你們捨不得",
+          "spelling": "kiann lín m̄-kam"
+        },
+        {
+          "text": "怕你們受風寒",
+          "spelling": "kiann lín siū hong kuânn"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "天公伯阿                    你若有在看                  就要保庇               保庇這一家人",
+      "spelling": "thinn-kong peh a    lí ná ū teh khuànn    tio̍h ài pó pì        pó pì tsi̍t ke-hui a",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "天公伯阿",
+          "spelling": "thinn-kong peh a"
+        },
+        {
+          "text": "你若有在看",
+          "spelling": "lí ná ū teh khuànn"
+        },
+        {
+          "text": "就要保庇",
+          "spelling": "tio̍h ài pó pì"
+        },
+        {
+          "text": "保庇這一家人",
+          "spelling": "pó pì tsi̍t ke-hui a"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "怕你們擔心                  怕你們捨不得            怕你們受風寒",
+      "spelling": "kiann lín kuàn-loh    kiann lín m̄-kam    kiann lín siū hong kuânn",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "怕你們擔心",
+          "spelling": "kiann lín kuàn-loh"
+        },
+        {
+          "text": "怕你們捨不得",
+          "spelling": "kiann lín m̄-kam"
+        },
+        {
+          "text": "怕你們受風寒",
+          "spelling": "kiann lín siū hong kuânn"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "我很認真                 也很打拼                      想要作讓您驕傲的孩子",
+      "spelling": "guá tsin līn-tsin    iā tsin phah-piànn    siūnn bē tsoh hōo lí kiau-ngōo ê kín-á",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "我很認真",
+          "spelling": "guá tsin līn-tsin"
+        },
+        {
+          "text": "也很打拼",
+          "spelling": "iā tsin phah-piànn"
+        },
+        {
+          "text": "想要作讓您驕傲的孩子",
+          "spelling": "siūnn bē tsoh hōo lí kiau-ngōo ê kín-á"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "怕你們擔心                   怕你們捨不得           怕你們受風寒",
+      "spelling": "kiann lín kuàn-loh    kiann lín m̄-kam    kiann lín siū hong kuânn",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "怕你們擔心",
+          "spelling": "kiann lín kuàn-loh"
+        },
+        {
+          "text": "怕你們捨不得",
+          "spelling": "kiann lín m̄-kam"
+        },
+        {
+          "text": "怕你們受風寒",
+          "spelling": "kiann lín siū hong kuânn"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "天公伯阿                    你若有在看                  就要保庇               保庇這一家人",
+      "spelling": "thinn-kong peh a    lí ná ū teh khuànn    tio̍h ài pó pì        pó pì tsi̍t ke-hui a",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "天公伯阿",
+          "spelling": "thinn-kong peh a"
+        },
+        {
+          "text": "你若有在看",
+          "spelling": "lí ná ū teh khuànn"
+        },
+        {
+          "text": "就要保庇",
+          "spelling": "tio̍h ài pó pì"
+        },
+        {
+          "text": "保庇這一家人",
+          "spelling": "pó pì tsi̍t ke-hui a"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "天公伯阿                    你若有在看                  拜託你保庇              保庇這一家人",
+      "spelling": "thinn-kong peh a    lí ná ū teh khuànn    pài-thok lí pó pì    pó pì tsi̍t ke-hui a",
+      "source_lines": [
+        78,
+        79
+      ],
+      "parts": [
+        {
+          "text": "天公伯阿",
+          "spelling": "thinn-kong peh a"
+        },
+        {
+          "text": "你若有在看",
+          "spelling": "lí ná ū teh khuànn"
+        },
+        {
+          "text": "拜託你保庇",
+          "spelling": "pài-thok lí pó pì"
+        },
+        {
+          "text": "保庇這一家人",
+          "spelling": "pó pì tsi̍t ke-hui a"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：楊大正　作曲：楊大正    台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

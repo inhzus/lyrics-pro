@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "song_id": "1753652888",
+    "title": "新迪爵恋曲",
+    "artists": [
+      "拍谢少年"
+    ],
+    "album": "海口味",
+    "duration": 221.694,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1753652888",
+      "duration": 221.694,
+      "ready": true,
+      "coverage": 1.0,
+      "exact_fraction": 1.0,
+      "summary": {
+        "repeat": 2,
+        "exact": 10
+      }
+    }
+  ]
+}

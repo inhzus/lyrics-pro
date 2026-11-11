@@ -1,0 +1,262 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "祢上尾的一口氣                                對天涯漂流到溪邊",
+      "spelling": "lí siōng-bué ê tsi̍t kháu khuì        tuì thian-gâi phiau-liû kàu khe-pinn",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "祢上尾的一口氣",
+          "spelling": "lí siōng-bué ê tsi̍t kháu khuì"
+        },
+        {
+          "text": "對天涯漂流到溪邊",
+          "spelling": "tuì thian-gâi phiau-liû kàu khe-pinn"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "閃過天羅地網的禁令                                    注入白石神木的盤根",
+      "spelling": "siám kuè thian-lô-tē-bāng ê kìm-līng    tsù-ji̍p pe̍h tsio̍h sîn-bo̍k ê puânn kin",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "閃過天羅地網的禁令",
+          "spelling": "siám kuè thian-lô-tē-bāng ê kìm-līng"
+        },
+        {
+          "text": "注入白石神木的盤根",
+          "spelling": "tsù-ji̍p pe̍h tsio̍h sîn-bo̍k ê puânn kin"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "注入白石神木的盤根",
+      "spelling": "tsù-ji̍p pe̍h tsio̍h sîn-bo̍k ê puânn kin",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "悲號 苦雨煙吹                            皇蔭 掩天蓋地",
+      "spelling": "pi hào  khóo hōo ian tshue    hông ìm ám thinn khàm tē",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "岩木根 斬袂斷                            愛糾纏 恨袂退",
+      "spelling": "gâm ba̍k kin tsàm buē tn̄g    ài kiù-tînn  hūn buē thuè",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "烏雲遮天 霧迷離                      披落葉 枕殘枝",
+      "spelling": "oo-hûn jia thinn  bū bê lī    phi lo̍h hio̍h  tsím tshân ki",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "踏無路 見無明                        虹橋斷 魂路止",
+      "spelling": "ta̍h bô lōo  kìnn bô bîng    khīng kiô tn̄g  hûn lōo tsí",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "撥雲升皇旗                            赤日煦殘枝",
+      "spelling": "phuah hûn tsin hông kî     tshiah ji̍t ù tshân ki",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "撥雲升皇旗",
+          "spelling": "phuah hûn tsin hông kî"
+        },
+        {
+          "text": "赤日煦殘枝",
+          "spelling": "tshiah ji̍t ù tshân ki"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "踏無路 見無明                        虹橋斷 魂路止",
+      "spelling": "ta̍h bô lōo  kìnn bô bîng    khīng kiô tn̄g  hûn lōo tsí",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "祢上尾的一口氣                                    對幽冥爬起到岸邊",
+      "spelling": "lí siōng-bué ê tsi̍t kháu khuì            tuì iu bîng pê khí kàu huānn-pîng",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "祢上尾的一口氣",
+          "spelling": "lí siōng-bué ê tsi̍t kháu khuì"
+        },
+        {
+          "text": "對幽冥爬起到岸邊",
+          "spelling": "tuì iu bîng pê khí kàu huānn-pîng"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "接引天長地久的祖靈                                        注入白石神木的盤根",
+      "spelling": "tsiap ín thian-tiông-tē-kiú ê tsóo lîng        tsù-ji̍p pe̍h tsio̍h sîn-bo̍k ê puânn kin",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "接引天長地久的祖靈",
+          "spelling": "tsiap ín thian-tiông-tē-kiú ê tsóo lîng"
+        },
+        {
+          "text": "注入白石神木的盤根",
+          "spelling": "tsù-ji̍p pe̍h tsio̍h sîn-bo̍k ê puânn kin"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "注入白石神木的盤根",
+      "spelling": "tsù-ji̍p pe̍h tsio̍h sîn-bo̍k ê puânn kin",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "悲號 苦雨煙吹                            皇蔭 掩天蓋地",
+      "spelling": "pi hào  khóo hōo ian tshue    hông ìm ám thinn khàm tē",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "岩木根 斬袂斷                            愛糾纏 恨袂退",
+      "spelling": "gâm ba̍k kin tsàm buē tn̄g    ài kiù-tînn  hūn buē thuè",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "烏雲遮天 霧迷離                     披落葉 枕殘枝",
+      "spelling": "oo-hûn jia thinn  bū bê lī    phi lo̍h hio̍h  tsím tshân ki",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "踏無路 見無明                       虹橋斷 魂路止",
+      "spelling": "ta̍h bô lōo  kìnn bô bîng    khīng kiô tn̄g  hûn lōo tsí",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "撥雲升皇旗                             赤日煦殘枝",
+      "spelling": "phuah hûn tsin hông kî     tshiah ji̍t ù tshân ki",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "撥雲升皇旗",
+          "spelling": "phuah hûn tsin hông kî"
+        },
+        {
+          "text": "赤日煦殘枝",
+          "spelling": "tshiah ji̍t ù tshân ki"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "踏無路 見無明                       虹橋斷 魂路",
+      "spelling": "ta̍h bô lōo  kìnn bô bîng    khīng kiô tn̄g  hûn lōo",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "撥雲升皇旗                             赤日煦殘枝",
+      "spelling": "phuah hûn tsin hông kî     tshiah ji̍t ù tshân ki",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "撥雲升皇旗",
+          "spelling": "phuah hûn tsin hông kî"
+        },
+        {
+          "text": "赤日煦殘枝",
+          "spelling": "tshiah ji̍t ù tshân ki"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "踏無路 見無明                        虹橋斷 魂路止",
+      "spelling": "ta̍h bô lōo  kìnn bô bîng    khīng kiô tn̄g  hûn lōo tsí",
+      "source_lines": [
+        60,
+        61
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：閃靈   作曲：閃靈  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

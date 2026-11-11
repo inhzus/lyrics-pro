@@ -1,0 +1,366 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "我蹛佇牆圍 路邊的牆圍",
+      "spelling": "guá tuà ti tshiûnn-uî  lōo-pinn ê tshiûnn-uî",
+      "source_lines": [
+        1,
+        2
+      ],
+      "parts": [
+        {
+          "text": "我蹛佇牆圍 路邊的牆圍",
+          "spelling": "guá tuà ti tshiûnn-uî  lōo-pinn ê tshiûnn-uî"
+        }
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "你逐工經過我攏毋捌斟酌我的水",
+      "spelling": "lí ta̍k-kang king-kuè góa lóng m̄ bat chim-chiok guá ê suí",
+      "source_lines": [
+        4,
+        5
+      ],
+      "parts": [
+        {
+          "text": "你逐工經過我攏毋捌斟酌我的水",
+          "spelling": "lí ta̍k-kang king-kuè góa lóng m̄ bat chim-chiok guá ê suí"
+        }
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "我就是紅紅 足紅的紅紅",
+      "spelling": "guá tio̍h-sī âng âng，   chiok âng ê âng âng",
+      "source_lines": [
+        7,
+        8
+      ],
+      "parts": [
+        {
+          "text": "我就是紅紅 足紅的紅紅",
+          "spelling": "guá tio̍h-sī âng âng，   chiok âng ê âng âng"
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "若熱天風吹有熱情溫柔的滋味",
+      "spelling": "nā jo̍ah thinn-hong tshue ú jia̍t-tsîng un-jiû ê tsu-bī",
+      "source_lines": [
+        10,
+        11
+      ],
+      "parts": [
+        {
+          "text": "若熱天風吹有熱情溫柔的滋味",
+          "spelling": "nā jo̍ah thinn-hong tshue ú jia̍t-tsîng un-jiû ê tsu-bī"
+        }
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "我生做大辨 有我的浪漫",
+      "spelling": "guá senn-tsuè tuā pān， ú guá ê lōng-bān",
+      "source_lines": [
+        13,
+        14
+      ],
+      "parts": [
+        {
+          "text": "我生做大辨 有我的浪漫",
+          "spelling": "guá senn-tsuè tuā pān， ú guá ê lōng-bān"
+        }
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "佇棉被頂看到我印滿滿的風範",
+      "spelling": "tī mî phuē tíng khuànn-tio̍h guá ìn móa-móa ê hong-huān",
+      "source_lines": [
+        16,
+        17
+      ],
+      "parts": [
+        {
+          "text": "佇棉被頂看到我印滿滿的風範",
+          "spelling": "tī mî phuē tíng khuànn-tio̍h guá ìn móa-móa ê hong-huān"
+        }
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "咱毋是生份 你嘛捌挽過",
+      "spelling": "lán m̄ sī senn-hūn，lí mah m̄ bat bán kuè",
+      "source_lines": [
+        19,
+        20
+      ],
+      "parts": [
+        {
+          "text": "咱毋是生份 你嘛捌挽過",
+          "spelling": "lán m̄ sī senn-hūn，lí mah m̄ bat bán kuè"
+        }
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "你還有佇我身軀邊佇咧覕相找（放風吹）",
+      "spelling": "lí iáu-ū tī guá sin khu pinn tī leh bih sio-tshuē（pàng-hong-tshue）",
+      "source_lines": [
+        22,
+        23
+      ],
+      "parts": [
+        {
+          "text": "你還有佇我身軀邊佇咧覕相找（放風吹）",
+          "spelling": "lí iáu-ū tī guá sin khu pinn tī leh bih sio-tshuē（pàng-hong-tshue）"
+        }
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "按怎這ㄟ兩字 簡單這ㄟ兩字",
+      "spelling": "án-tsuánn tsit-ê nn̄g-gī， kán-tan tsit-ê nn̄g-gī",
+      "source_lines": [
+        25,
+        26
+      ],
+      "parts": [
+        {
+          "text": "按怎這ㄟ兩字 簡單這ㄟ兩字",
+          "spelling": "án-tsuánn tsit-ê nn̄g-gī， kán-tan tsit-ê nn̄g-gī"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "咱熟悉著遮久 你毋捌對我問起",
+      "spelling": "lán se̍k-sāi tio̍h cha̍h kú lí，lí m̄ bat tuì guá mn̄g khí",
+      "source_lines": [
+        28,
+        29
+      ],
+      "parts": [
+        {
+          "text": "咱熟悉著遮久 你毋捌對我問起",
+          "spelling": "lán se̍k-sāi tio̍h cha̍h kú lí，lí m̄ bat tuì guá mn̄g khí"
+        }
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "當做我是歹鐵 當做我攏無佇",
+      "spelling": "tòng-tsuè guá sī pháinn thih， tòng-tsuè guá láng bô tī",
+      "source_lines": [
+        31,
+        32
+      ],
+      "parts": [
+        {
+          "text": "當做我是歹鐵 當做我攏無佇",
+          "spelling": "tòng-tsuè guá sī pháinn thih， tòng-tsuè guá láng bô tī"
+        }
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "這馬你佇都市 這馬才來問起",
+      "spelling": "tsit-má lí tī too-tshī， tsit-má tsiah-lâi mn̄g khí",
+      "source_lines": [
+        34,
+        35
+      ],
+      "parts": [
+        {
+          "text": "這馬你佇都市 這馬才來問起",
+          "spelling": "tsit-má lí tī too-tshī， tsit-má tsiah-lâi mn̄g khí"
+        }
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "是看袂起著過去 咱仝款的過去",
+      "spelling": "sī khuànn-bē-khí tio̍h kuè-khì， lán kāng khuán ê kuè-khì",
+      "source_lines": [
+        37,
+        38
+      ],
+      "parts": [
+        {
+          "text": "是看袂起著過去 咱仝款的過去",
+          "spelling": "sī khuànn-bē-khí tio̍h kuè-khì， lán kāng khuán ê kuè-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "我是倯倯啊媠 你嘛有著這味",
+      "spelling": "guá sī sông sông ah suí，lí mā ū tio̍h tsit bī",
+      "source_lines": [
+        40,
+        41
+      ],
+      "parts": [
+        {
+          "text": "我是倯倯啊媠 你嘛有著這味",
+          "spelling": "guá sī sông sông ah suí，lí mā ū tio̍h tsit bī"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "心情就愛放清 目睭就愛看明",
+      "spelling": "sim-tsîng tō ài pàng tshing，ba̍k-tsiu tō ài khuànn bîng",
+      "source_lines": [
+        43,
+        44
+      ],
+      "parts": [
+        {
+          "text": "心情就愛放清 目睭就愛看明",
+          "spelling": "sim-tsîng tō ài pàng tshing，ba̍k-tsiu tō ài khuànn bîng"
+        }
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "有一工想起我 妳目屎輾輾滴",
+      "spelling": "ū tsi̍t kang siūnn-khí guá lí ba̍k-sái lìn lìn tih",
+      "source_lines": [
+        46,
+        47
+      ],
+      "parts": [
+        {
+          "text": "有一工想起我 妳目屎輾輾滴",
+          "spelling": "ū tsi̍t kang siūnn-khí guá lí ba̍k-sái lìn lìn tih"
+        }
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "我是被誤解誤解的釘子花",
+      "spelling": "guá sī pī gō͘-kái gō͘-kái ê teng-á hue",
+      "source_lines": [
+        49,
+        50
+      ],
+      "parts": [
+        {
+          "text": "我是被誤解誤解的釘子花",
+          "spelling": "guá sī pī gō͘-kái gō͘-kái ê teng-á hue"
+        }
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "有遮多人根本不知著我的名",
+      "spelling": "ú tsiah tsē lâng kun-pún m̄ tsai tio̍h guá ê miâ",
+      "source_lines": [
+        52,
+        53
+      ],
+      "parts": [
+        {
+          "text": "有遮多人根本不知著我的名",
+          "spelling": "ú tsiah tsē lâng kun-pún m̄ tsai tio̍h guá ê miâ"
+        }
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "我是會諒解諒解的釘子花",
+      "spelling": "guá sī ē liōng-kái liōng-kái ê teng-á hue",
+      "source_lines": [
+        55,
+        56
+      ],
+      "parts": [
+        {
+          "text": "我是會諒解諒解的釘子花",
+          "spelling": "guá sī ē liōng-kái liōng-kái ê teng-á hue"
+        }
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "毋管時代改變 我嘛佇咧開花",
+      "spelling": "m̄-kuán sî-tāi kái-piàn，guá mah pī leh khui-hue",
+      "source_lines": [
+        58,
+        59
+      ],
+      "parts": [
+        {
+          "text": "毋管時代改變 我嘛佇咧開花",
+          "spelling": "m̄-kuán sî-tāi kái-piàn，guá mah pī leh khui-hue"
+        }
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "我是被誤解誤解的釘子花",
+      "spelling": "guá sī pī gō͘-kái gō͘-kái ê teng-á hoe",
+      "source_lines": [
+        61,
+        62
+      ],
+      "parts": [
+        {
+          "text": "我是被誤解誤解的釘子花",
+          "spelling": "guá sī pī gō͘-kái gō͘-kái ê teng-á hoe"
+        }
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "我就佇你身邊你熟悉的土地",
+      "spelling": "guá tō tī lí sin-pinn lí se̍k-sāi ê thóo-tē",
+      "source_lines": [
+        64,
+        65
+      ],
+      "parts": [
+        {
+          "text": "我就佇你身邊你熟悉的土地",
+          "spelling": "guá tō tī lí sin-pinn lí se̍k-sāi ê thóo-tē"
+        }
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "我用大海大海的心交陪",
+      "spelling": "guá iōng tuā-hái tuā-hái ê sim kau-puê",
+      "source_lines": [
+        67,
+        68
+      ],
+      "parts": [
+        {
+          "text": "我用大海大海的心交陪",
+          "spelling": "guá iōng tuā-hái tuā-hái ê sim kau-puê"
+        }
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "咱是做伙大 我是釘子花",
+      "spelling": "lán sī tsò hué tuā góa sī teng-á hue",
+      "source_lines": [
+        70,
+        71
+      ],
+      "parts": [
+        {
+          "text": "咱是做伙大 我是釘子花",
+          "spelling": "lán sī tsò hué tuā góa sī teng-á hue"
+        }
+      ]
+    }
+  ],
+  "repairs": [],
+  "notes": []
+}

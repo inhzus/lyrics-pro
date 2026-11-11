@@ -1,0 +1,533 @@
+{
+  "recording_id": "netease:412951601",
+  "timing_source": "NetEase https://music.163.com/song?id=412951601",
+  "manual_source": "User-supplied resources/lyrics-spelling/歡迎光臨-陳建瑋",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 1,
+    "gap": 20,
+    "unresolved": 10,
+    "repeat": 8,
+    "exact": 3
+  },
+  "review_row_count": 10,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0"
+  ],
+  "unused_repeat_ids": [
+    "line-10:0",
+    "line-22:0",
+    "line-28:0",
+    "line-40:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作曲 : 陈建玮",
+      "match_text": "作曲 : 陈建玮",
+      "text": "作曲 : 陈建玮",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 3.01,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 6.06,
+      "online_text": "毋知影啥物时阵",
+      "match_text": "毋知影啥物时阵",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 3,
+      "time": 10.51,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 4,
+      "time": 12.3,
+      "online_text": "你吗吗哮孵出来",
+      "match_text": "你吗吗哮孵出来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 5,
+      "time": 14.75,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 6,
+      "time": 17.18,
+      "online_text": "枵饱吵规厝内",
+      "match_text": "枵饱吵规厝内",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 7,
+      "time": 21.64,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 8,
+      "time": 22.47,
+      "online_text": "缘份画出咱的未来",
+      "match_text": "缘份画出咱的未来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 9,
+      "time": 25.7,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 10,
+      "time": 28.44,
+      "online_text": "你会大时间咧行我会骨力拼",
+      "match_text": "你会大时间咧行我会骨力拼",
+      "text": "你會大 時間咧行 我會骨力拼",
+      "spelling": "lí ē-tuā sî-kan leh kiânn guá ē kut la̍t piànn",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 36.85,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 12,
+      "time": 39.51,
+      "online_text": "这个家添一名是圆满抑是惊",
+      "match_text": "这个家添一名是圆满抑是惊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 46.88,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 14,
+      "time": 47.67,
+      "online_text": "等你来做伙搬",
+      "match_text": "等你来做伙搬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 49.99,
+      "online_text": "欢迎你光临花花的世界客满的现在",
+      "match_text": "欢迎你光临花花的世界客满的现在",
+      "text": "歡迎你光臨花花的世界 客滿的現在",
+      "spelling": "huan-gîng lí kong-lîm hue hue ê sè-kài kheh-muá ê hiān-tsāi",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 55.17,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 17,
+      "time": 55.84,
+      "online_text": "日子不时咧变化爱拼无一定赢",
+      "match_text": "日子不时咧变化爱拼无一定赢",
+      "text": "日子不時咧變化 愛拼無一定贏",
+      "spelling": "li̍t-tsí put-sî leh piàn-huà ài piànn bô it-tīng iânn",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 59.33,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 19,
+      "time": 61.17,
+      "online_text": "欢迎你光临可爱的世界丰派的时代",
+      "match_text": "欢迎你光临可爱的世界丰派的时代",
+      "text": "歡迎你光臨可愛的世界 豐派的時代",
+      "spelling": "huan-gîng lí kong-lîm khó-ài ê sè-kài hong phài ê sî-tāi",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 66.17,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 21,
+      "time": 66.91,
+      "online_text": "即只船欲去陀其实无人知",
+      "match_text": "即只船欲去陀其实无人知",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 71.77,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 23,
+      "time": 105.08,
+      "online_text": "你会大时间咧行我会骨力拼",
+      "match_text": "你会大时间咧行我会骨力拼",
+      "text": "你會大 時間咧行 我會骨力拼",
+      "spelling": "lí ē-tuā sî-kan leh kiânn guá ē kut la̍t piànn",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 113.34,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 25,
+      "time": 116.25,
+      "online_text": "这个家添一名是圆满抑是惊",
+      "match_text": "这个家添一名是圆满抑是惊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 123.37,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 27,
+      "time": 124.39,
+      "online_text": "等你来做伙搬",
+      "match_text": "等你来做伙搬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 126.15,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 29,
+      "time": 126.69,
+      "online_text": "欢迎你光临花花的世界客满的现在",
+      "match_text": "欢迎你光临花花的世界客满的现在",
+      "text": "歡迎你光臨花花的世界 客滿的現在",
+      "spelling": "huan-gîng lí kong-lîm hue hue ê sè-kài kheh-muá ê hiān-tsāi",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 131.79,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 31,
+      "time": 132.53,
+      "online_text": "日子不时咧变化爱拼无一定赢",
+      "match_text": "日子不时咧变化爱拼无一定赢",
+      "text": "日子不時咧變化 愛拼無一定贏",
+      "spelling": "li̍t-tsí put-sî leh piàn-huà ài piànn bô it-tīng iânn",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 135.84,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 33,
+      "time": 137.87,
+      "online_text": "欢迎你光临可爱的世界丰派的时代",
+      "match_text": "欢迎你光临可爱的世界丰派的时代",
+      "text": "歡迎你光臨可愛的世界 豐派的時代",
+      "spelling": "huan-gîng lí kong-lîm khó-ài ê sè-kài hong phài ê sî-tāi",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 142.85,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 35,
+      "time": 143.66,
+      "online_text": "即只船欲去陀其实无人知",
+      "match_text": "即只船欲去陀其实无人知",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 148.47,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 37,
+      "time": 153.95,
+      "online_text": "日头啊伊阁落西月娘光起来",
+      "match_text": "日头啊伊阁落西月娘光起来",
+      "text": "日頭啊 伊閣落西 月娘光起來",
+      "spelling": "li̍t-thâu ah i koh lo̍h sai ge̍h-niû kng-khí-lâi",
+      "manual_id": "line-43:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 162.17,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 39,
+      "time": 165.06,
+      "online_text": "免烦恼我等伫遮爱滇滇规片海",
+      "match_text": "免烦恼我等伫遮爱滇滇规片海",
+      "text": "免煩惱 我等佇遮 愛滇滇 規片海",
+      "spelling": "bián huân-ló guá tán tī tsiâ ài tīnn tīnn kui pîng hái",
+      "manual_id": "line-46:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 172.19,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 41,
+      "time": 173.21,
+      "online_text": "毋管东无管西等你来",
+      "match_text": "毋管东无管西等你来",
+      "text": "毋管東 無管西 等你來",
+      "spelling": "m̄-kuán tang m̄-kuán sai tán lí lâi",
+      "manual_id": "line-49:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "c7398ea8a2c83571086ffceaf252a9363f409c2990b1386d484c9bd237e8c37a",
+    "manual": "abfdd5fa675de029444d3ec38315042b4b2e326c7788163dc76de7b6b450fad4",
+    "timed": "b60205e96b4305a78b000251a890f2fc25400bba4d371cf51cbc3e1170184f2b"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 543798583,
+      "title": "11点的约会",
+      "artists": [
+        "李娅莎"
+      ],
+      "album": "希望‧幸福",
+      "duration": 351.546,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 543798583,
+      "title": "11点的约会",
+      "artists": [
+        "李娅莎"
+      ],
+      "album": "希望‧幸福",
+      "duration": 351.546,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 543798583,
+      "title": "11点的约会",
+      "artists": [
+        "李娅莎"
+      ],
+      "album": "希望‧幸福",
+      "duration": 351.546,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

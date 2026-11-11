@@ -1,0 +1,189 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "謝天又謝地 謝你賜阮源源的水源地",
+      "spelling": "siā thinn koh siā tē siā lí sù gún guân guân ê tsuí-guân tē",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "望天又望地 望阮這冬稻仔收成沒問題",
+      "spelling": "bāng thinn koh bāng tē bāng gún tsit tang tiū-á siu-sîng bô būn-tê",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "濁濁的水啊 感謝你來疼惜故鄉的作田人",
+      "spelling": "lô-lô ê tsuí ah kám-siā lí lâi thiànn-sioh kòo-hiong ê tsoh-tshân lâng",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "水頭流到水尾 讓家園厝地世世代代永流傳",
+      "spelling": "tsuí-thâu lâu-kàu tsuí-bué khí hōo tshân-hn̂g tshù-tē sè-sè-tāi-tāi íng liû-thuân",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "水啊水 你要流去兜位 有水才有巢 讓咱的後代長歲壽",
+      "spelling": "tsuí ah tsuí lí beh lâu khì tó-uī ū tsuí tsiah ū siū hōo lán ê hiō-tāi tn̂g huè-siū",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "水啊水 你要流去兜位 有水才有稻 讓咱的未來免憂愁",
+      "spelling": "tsuí ah tsuí lí beh lâu khì tó-uī ū tsuí tsiah ū tiū a hōo lán ê bī-lâi bián iu-tshiû",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "敬天又敬地 求你保庇這塊百年的水源地",
+      "spelling": "kìng thinn koh kìng tē kiû lí pó-pì tsit tè pah-nî ê tsuí guân-tē",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "望天又望地 望這條水圳永永遠遠袂破病",
+      "spelling": "bāng thinn koh bāng tē bāng tsit tiâu tsuí tsùn íng-íng-uán-uán buē phuà-pīnn",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "阿公咧說起是這條埤圳的水飼大了子兒細小平安又順遂",
+      "spelling": "a-kong leh kóng-khí tsit tiâu pi-tsùn ê tsuí tshī-tuā liáu kiánn-lî si sè pîng-an koh sūn-suī",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "如今政府財團要來這搶奪這條百年歷史的水圳",
+      "spelling": "lû-kim tsìng-hú tsâi-thuân beh lâi tsia tshiúnn to tsit tiâu pah-nî li̍k-sú ê tsuí-tsùn",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "他說阮不愛 阮不愛 阮要讓子孫久久長長生活在這片的水寶地",
+      "spelling": "i kóng gún bô ài gún bô ài gún beh hōo kiánn-sun kú kú tn̂g tn̂g sing-ua̍h tī tsit phìnn ê tsuí pó-tē",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "水啊水 你要流去兜位 流入田底飼稻仔 讓咱的子孫萬萬歲",
+      "spelling": "tsuí ah tsuí lí beh lâu khì tó-uī lâu-ji̍p tshân té tshī tiū-á hōo lán ê kiánn-sun bān-bān suè",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "水啊水 你要流去兜位 流入土底飼土地 讓咱的糧食好開花",
+      "spelling": "tsuí ah tsuí lí beh lâu khì tó-uī lâu-ji̍p thôo-té tshī thóo-tē hōo lán ê niû-si̍t hó khui-hue",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "水啊水 要流去兜位 流入田底飼稻仔",
+      "spelling": "tsuí ah tsuí lí beh lâu khì tó-uī lâu-ji̍p tshân té tshī tiū-á",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "水啊水 要流去兜位 讓咱的子孫萬萬歲",
+      "spelling": "tsuí ah tsuí lí beh lâu khì tó-uī hōo lán ê kiánn-sun bān-bān suè",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "水啊水 要流去兜位 流入土底飼土地",
+      "spelling": "tsuí ah tsuí lí beh lâu khì tó-uī lâu-ji̍p thôo-té tshī thóo-tē",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "水啊水 要流去兜位 讓咱的子孫萬萬歲",
+      "spelling": "tsuí ah tsuí lí beh lâu khì tó-uī hōo lán ê kiánn-sun bān-bān suè",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "萬萬歲 萬萬歲",
+      "spelling": "bān-bān suè bān-bān suè",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "水啊水 你要流去兜位 流入田底飼稻仔 讓咱的子孫萬萬歲",
+      "spelling": "tsuí ah tsuí lí beh lâu khì tó-uī lâu-ji̍p tshân té tshī tiū-á hōo lán ê kiánn-sun bān-bān suè",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "水啊水 你要流去兜位 流入土底飼土地 讓咱的糧食好開花",
+      "spelling": "tsuí ah tsuí lí beh lâu khì tó-uī lâu-ji̍p thôo-té tshī thóo-tē hōo lán ê niû-si̍t hó khui-hue",
+      "source_lines": [
+        60,
+        61
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:1,3"
+  ]
+}

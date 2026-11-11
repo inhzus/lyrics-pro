@@ -1,0 +1,271 @@
+{
+  "blocks": [
+    {
+      "id": "line-5",
+      "text": "在我細漢的時候 你攏會騎著Kawasaki",
+      "spelling": "tī guá sè-hàn ê sî-tsūn lí lóng ē khiâ tio̍h Kawasaki",
+      "source_lines": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "載我去四處黑白繞 看人放風吹",
+      "spelling": "tsài guá khì sì-kè oo-pe̍h se̍h khuànn lâng pàng hong tshue",
+      "source_lines": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "在我細漢的時候 你攏會騎著Kawasaki",
+      "spelling": "tī guá sè-hàn ê sî-tsūn lí lóng ē khiâ tio̍h Kawasaki",
+      "source_lines": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "載我去廟嘴的攤子 買大腸香腸",
+      "spelling": "tsài guá khì biō kāu ê tànn bé tuā tn̂g ian-tshiân",
+      "source_lines": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "line-17",
+      "text": "已經過歸落冬 多古拉棟高樓大廈",
+      "spelling": "í-king kuè kui lo̍h tang ke gǔ lā dònggāo lóu dàshà",
+      "source_lines": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "line-20",
+      "text": "大腸香腸猶原在那 頭家猶原沒換",
+      "spelling": "tuā tn̂g ian-tshiân iû-uân tī hia thâu-ke iu-guân bô uānn",
+      "source_lines": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "大腸香腸 永遠袂變卦",
+      "spelling": "tuā tn̂g ian-tshiân íng-uán bē piàn-kuà",
+      "source_lines": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "line-26",
+      "text": "每一嘴 攏有你陪我吹風的甘甜",
+      "spelling": "muí tsi̍t tshuì lóng ū lí puê guá tshue-hong ê kam-tinn",
+      "source_lines": [
+        26,
+        27
+      ]
+    },
+    {
+      "id": "line-29",
+      "text": "每一嘴 攏有你陪我七逃的滋味",
+      "spelling": "muí tsi̍t tshuì lóng ū lí puê guá tshit tô ê tsu-bī",
+      "source_lines": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "line-32",
+      "text": "每一嘴 攏是你種田的記憶",
+      "spelling": "muí tsi̍t tshuì lóng sī lí tsìng-tshân ê kì-ik",
+      "source_lines": [
+        32,
+        33
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "卡早你甲我講過 叫我就要好好啊讀冊",
+      "spelling": "khá-tsá lí kah guá kóng-kuè kiò guá tio̍h ài hó hó ah tha̍k-tsheh",
+      "source_lines": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "以後長大賺大錢 要幫助大家",
+      "spelling": "í-āu tuā-hàn thàn tuā-tsînn ài pang-tsōo ta̍k-ke",
+      "source_lines": [
+        38,
+        39
+      ]
+    },
+    {
+      "id": "line-41",
+      "text": "卡早你跟我講過 要看我娶老婆生厚生",
+      "spelling": "khá-tsá lí kā guá kóng-kuè beh khuànn guá tshuā-bóo senn kāu senn",
+      "source_lines": [
+        41,
+        42
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "以後也要帶孫子 去吃大腸香腸",
+      "spelling": "í-āu mā beh tuà sun-á khì tsia̍h tuā tn̂g ian-tshiân",
+      "source_lines": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "已經過歸落冬 多古拉棟高樓大廈",
+      "spelling": "í-king kuè kui lo̍h tang ke gǔ lā dònggāo lóu dàshà",
+      "source_lines": [
+        47,
+        48
+      ]
+    },
+    {
+      "id": "line-50",
+      "text": "大腸香腸猶原在那 頭家猶原沒換",
+      "spelling": "tuā tn̂g ian-tshiân iû-uân tī hia thâu-ke iu-guân bô uānn",
+      "source_lines": [
+        50,
+        51
+      ]
+    },
+    {
+      "id": "line-53",
+      "text": "大腸香腸 永遠袂變卦",
+      "spelling": "tuā tn̂g ian-tshiân íng-uán bē piàn-kuà",
+      "source_lines": [
+        53,
+        54
+      ]
+    },
+    {
+      "id": "line-56",
+      "text": "每一嘴 攏有你陪我吹風的甘甜",
+      "spelling": "muí tsi̍t tshuì lóng ū lí puê guá tshue-hong ê kam-tinn",
+      "source_lines": [
+        56,
+        57
+      ]
+    },
+    {
+      "id": "line-59",
+      "text": "每一嘴 攏有你陪我七逃的滋味",
+      "spelling": "muí tsi̍t tshuì lóng ū lí puê guá tshit tô ê tsu-bī",
+      "source_lines": [
+        59,
+        60
+      ]
+    },
+    {
+      "id": "line-62",
+      "text": "每一嘴 攏是你種田的記憶",
+      "spelling": "muí tsi̍t tshuì lóng sī lí tsìng-tshân ê kì-ik",
+      "source_lines": [
+        62,
+        63
+      ]
+    },
+    {
+      "id": "line-65",
+      "text": "現在你沒載著我 剩我一個人來這",
+      "spelling": "tsit-má lí bô tsài-tio̍h guá tshun guá tsi̍t ê lâng lâi tsia",
+      "source_lines": [
+        65,
+        66
+      ]
+    },
+    {
+      "id": "line-68",
+      "text": "有一個阿公載著孫子 就親像你載著我",
+      "spelling": "ū tsi̍t ê a-kong tsài-tio̍h sun-á tio̍h tshin-tshiūnn lí tsài-tio̍h guá",
+      "source_lines": [
+        68,
+        69
+      ]
+    },
+    {
+      "id": "line-71",
+      "text": "現在你沒載著我 剩我一個人來這",
+      "spelling": "tsit-má lí bô tsài-tio̍h guá tshun guá tsi̍t ê lâng lâi tsia",
+      "source_lines": [
+        71,
+        72
+      ]
+    },
+    {
+      "id": "line-74",
+      "text": "我會把最好吃的留給你吃",
+      "spelling": "guá ē kā siōng hó-tsia̍h ê lâu hōo lí tsia̍h",
+      "source_lines": [
+        74,
+        75
+      ]
+    },
+    {
+      "id": "line-77",
+      "text": "大腸香腸 永遠袂變卦",
+      "spelling": "tuā tn̂g ian-tshiân íng-uán bē piàn-kuà",
+      "source_lines": [
+        77,
+        78
+      ]
+    },
+    {
+      "id": "line-80",
+      "text": "每一嘴 攏有你陪我吹風的甘甜",
+      "spelling": "muí tsi̍t tshuì lóng ū lí puê guá tshue-hong ê kam-tinn",
+      "source_lines": [
+        80,
+        81
+      ]
+    },
+    {
+      "id": "line-83",
+      "text": "每一嘴 攏有你陪我七逃的滋味",
+      "spelling": "muí tsi̍t tshuì lóng ū lí puê guá tshit tô ê tsu-bī",
+      "source_lines": [
+        83,
+        84
+      ]
+    },
+    {
+      "id": "line-86",
+      "text": "每一嘴 攏是我對你的相",
+      "spelling": "muí tsi̍t tshuì lóng sī guá tuì lí ê siang-sìn",
+      "source_lines": [
+        86,
+        87
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳建達 作曲：吳建達 台羅拼音：關德樂"
+    }
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "text": "Note:  The 建達’s pronounciation of “腸香腸” didn’t quite match up with what all my dictionaries and resources said.  I’ve tried to write my best approximation of the way he sings it, but it is important to note that this may not be accurate.  Enjoy!"
+    }
+  ],
+  "reasons": [
+    "source_note_requires_review:3"
+  ]
+}

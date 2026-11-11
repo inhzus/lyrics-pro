@@ -1,0 +1,403 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "伴奏著吉他聲　唱出阮心內的歌",
+      "spelling": "phuānn-tsàu-tio̍h gì-tà siann tshiùnn-tshut gún sim-lāi ê kua",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "這幾年來感謝你的陪伴",
+      "spelling": "tsit kuí nî lâi kám-siā lí ê puê-phuānn",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "做阮的方向盤　乎我一個靠岸",
+      "spelling": "tsò gún ê hong-hiòng-puânn hōo guá tsi̍t ê khò-huānn",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "失望的雨有厝瓦通遮",
+      "spelling": "sit-bāng ê hōo ū tshù-hiā thàng jia",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "看著你的背影 有時陣猶原會驚",
+      "spelling": "khuànn-tio̍h lí ê puē-iánn ū-sî-tsūn iû-guân ē kiann",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "不知甘會是阮在作夢",
+      "spelling": "m̄ tsai kam-ē sī gún leh tsuè-bāng",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "誰叫你遐迷人 溫柔體貼",
+      "spelling": "siáng kiò lí tshiâ bê lâng un-liû thé-thiap",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "親像載著希望的船隻",
+      "spelling": "tshin-tshiūnn tsáinn-tio̍h hi-bāng ê tsûn-tsiah",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "像我頇顢煮呷　無外豪額　嘛無介高大",
+      "spelling": "tshiūnn guá han-bān tsú tsiah bô guā hô gia̍h mā bô kài kuân-tuā",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "講濟笑虧　亦無人愛聽",
+      "spelling": "kóng tsuè tshiò khui ia̍h bô-lâng ài thiann",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "只是你知影　愛你的心肝",
+      "spelling": "tsí-sī lí tsai-iánn ài lí ê sim-kuann",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "絕對無人會當揣我拚輸贏",
+      "spelling": "tsua̍t-tuì bô-lâng ē-tàng tshuē guá piànn su-iânn",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "我聽到天在笑我　笑我這個憨人",
+      "spelling": "guá thiann-tio̍h thinn leh tshiò guá tshiò guá tsit-ê gōng-lâng",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "像你這款的伴　還在等啥",
+      "spelling": "tshiūnn lí tsit-khuán ê phuānn iáu leh tán siánn",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "對熟悉你彼天　就跛落癡情的網",
+      "spelling": "tuì si̍k-sāi lí hit kang tio̍h phuà lo̍h tshi-tsîng ê bāng",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "後半世人阮的希望請你斟酌聽",
+      "spelling": "āu puànn sè-lâng gún ê hi-bāng tshiánn lí tsim-tsiok thiann",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "不管花開花謝　無論秋冬春夏",
+      "spelling": "m̄-kuán hue khui hue siā bô-lūn tshiu-tang tshun hā",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "心意絕袂變卦 堅定如山",
+      "spelling": "sim-ì tsua̍t buē piàn-kuà kian-tīng lû-suann",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "貓頭鴣在喚聲　躲置樹頂睛睛在看",
+      "spelling": "niau-thâu koo leh huà siann bih tì tshiū tíng gíng gíng leh khuànn",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "幸福在叫我 牽著你來行",
+      "spelling": "hīng-hok leh kiò guá khan-tio̍h lí lâi kiânn",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "愛情的尾班車　到站的鐘一直響",
+      "spelling": "ài-tsîng ê bué-pan-tshia kàu tsām ê tsing it-ti̍t hiáng",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "後壁的路叫同齊打拚",
+      "spelling": "āu-piah ê lōo kiò tâng tsê phah-piànn",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "今後是一家人　相依相偎",
+      "spelling": "kim-āu sī tsi̍t ke lâng siò-i siò-uá",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "人生的擔兩個人來擔",
+      "spelling": "lîn-sing ê tann nn̄g-ê lâng lâi tann",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "親像電影在扮　歌詞在寫　吉他置咧彈",
+      "spelling": "tshin-tshiūnn tiān-iánn leh puann kua-sû leh siá gì-tà tì leh tuānn",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "鹹酸苦汫 滋味層層疊",
+      "spelling": "kiâm sng khóo tsiánn tsu-bī tîng tîng tha̍h",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "只有你知影　守著咱的青春夢",
+      "spelling": "tsí-ū lí tsai-iánn siú-tio̍h lán ê tshing-tshun bāng",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "絕對無人會當比我卡憨膽",
+      "spelling": "tsua̍t-tuì bô-lâng ē-tàng pí guá khá gōng tám",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "我聽到天在笑我　笑我這個憨人",
+      "spelling": "guá thiann-tio̍h thinn leh tshiò guá tshiò guá tsit-ê gōng-lâng",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "犁頭惦惦在拚 無怨無聲",
+      "spelling": "lê-thâu tiām-tiām leh piànn bô-uàn bô-siann",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "想欲乎你好命　不免煩惱安怎討呷",
+      "spelling": "siūnn-bē hōo lí hó-miā m̄-bián huân-ló an-tsuánn thó tsiah",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "會當過著平凡無欠安穩的生活",
+      "spelling": "ē-tàng kuè-tio̍h pîng-huân bô-khiàm an-ún ê sing-ua̍h",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "不管花開花謝　無論秋冬春夏",
+      "spelling": "m̄-kuán hue khui hue siā bô-lūn tshiu-tang tshun hā",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "只要有妳作伴　我攏袂驚",
+      "spelling": "tsí-iàu ū lí tsuè-phuānn guá lóng buē kiann",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "燕仔含土做壁　躲置厝腳睛睛在看",
+      "spelling": "ìnn-á kâm thóo tsuè piah bih tì tshù kha gíng gíng leh khuànn",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "甘是在叫我 幸福家己寫",
+      "spelling": "kam sī leh kiò guá hīng-hok ka-kī siá",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "聽到天在贊聲　唱著歡喜的歌",
+      "spelling": "thiann-tio̍h thinn leh tsàn-siann tshiùnn-tio̍h huann-hí ê kua",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "姻緣簿牽紅線　結著你我",
+      "spelling": "in-iân phōo khan âng suànn kat-tio̍h lí guá",
+      "source_lines": [
+        112,
+        113
+      ]
+    },
+    {
+      "id": "line-115",
+      "text": "新娘花雙手捧　美麗合影笑容滿滿",
+      "spelling": "sin-niû hue siang-tshiú phâng bí-lē ha̍p-iánn tshiò-iông muá-muá",
+      "source_lines": [
+        115,
+        116
+      ]
+    },
+    {
+      "id": "line-118",
+      "text": "無驚無惶共行共命安定的心晟",
+      "spelling": "bô-kiann bô-hiânn kāng kiânn kāng miā an-tīng ê sim tshiânn",
+      "source_lines": [
+        118,
+        119
+      ]
+    },
+    {
+      "id": "line-121",
+      "text": "不管天邊海角　無論庄腳都城",
+      "spelling": "m̄-kuán thinn-pinn hái-kak bô-lūn tsng kha too-siânn",
+      "source_lines": [
+        121,
+        122
+      ]
+    },
+    {
+      "id": "line-124",
+      "text": "只要有妳作伴　厝就置彼",
+      "spelling": "tsí-iàu ū lí tsuè-phuānn tshù tio̍h tì hia",
+      "source_lines": [
+        124,
+        125
+      ]
+    },
+    {
+      "id": "line-127",
+      "text": "鴛鴦雙雙相帶　泅置被單睛睛在看",
+      "spelling": "uan-iunn siang siang sio-tuà siû tì phuē tuann gíng gíng leh khuànn",
+      "source_lines": [
+        127,
+        128
+      ]
+    },
+    {
+      "id": "line-130",
+      "text": "幸福在叫我 甲你疼命命",
+      "spelling": "hīng-hok leh kiò guá kā lí thiànn miā miā",
+      "source_lines": [
+        130,
+        131
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

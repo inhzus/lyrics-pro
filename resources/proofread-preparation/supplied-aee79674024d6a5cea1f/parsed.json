@@ -1,0 +1,304 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "甘有一首 這款的情歌",
+      "spelling": "kam-ū tsi̍t siú tsit-khuán ê tsîng-kua",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "寫著幸福女人的孤單",
+      "spelling": "siá-tio̍h hīng-hok lú-lîn ê koo-tuann",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "歸日笑笑 雄雄想起啥",
+      "spelling": "kui-li̍t tshiò-tshiò hiông-hiông siūnn-khí siánn",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "突然惦惦不出聲",
+      "spelling": "tu-liân tiām-tiām bô tshut-siann",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "過去若是 已經放乎煞",
+      "spelling": "kuè-khì nā-sī í-king pàng hōo suah",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "為何記著誰人的形影",
+      "spelling": "uī-hô kì-tio̍h siánn-lâng ê hîng-iánn",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "心所愛的 已經惦身畔",
+      "spelling": "sim sóo ài ê í-king tiām sin puān",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "哪擱親像欠著啥",
+      "spelling": "ná koh tshin-tshiūnn khiàm-tio̍h siánn",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "啊 甘會太超過",
+      "spelling": "ah kam-ē siunn tshiau-kuè",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "天公伯仔 已經甲咱安排甲這好適",
+      "spelling": "thinn-kong-peh-á í-king kā lán an-pâi kā tsiah hó se",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "啊 若是無怨差",
+      "spelling": "ah nā-sī bô uàn tshe",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "遇到風 微微地吹",
+      "spelling": "tū-tio̍h hong bî-bî tē tshue",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "想起啥 又擱吞腹底",
+      "spelling": "siūnn-khí siánn iū-koh thun pak té",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "啊 甘會太超過",
+      "spelling": "ah kam-ē siunn tshiau-kuè",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "阮的人生 已經乎人欣羨甲沒底找",
+      "spelling": "gún ê lîn-sing í-king hōo him-siān suān kā bô té tshuē",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "啊 若是無啥通反悔",
+      "spelling": "ah nā-sī bô siánn thàng huán-hué",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "無眠時陣 目周為何",
+      "spelling": "bô-bîn sî-tsūn ba̍k-tsiu uī-hô",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "猶原底金金啊找",
+      "spelling": "iû-guân té kim-kim ah tshuē",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "過去若是 已經放乎煞",
+      "spelling": "kuè-khì nā-sī í-king pàng hōo suah",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "為何記著誰人的形影",
+      "spelling": "uī-hô kì-tio̍h siánn-lâng ê hîng-iánn",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "心所愛的 已經惦身畔",
+      "spelling": "sim sóo ài ê í-king tiām sin puān",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "哪擱親像欠著啥",
+      "spelling": "ná koh tshin-tshiūnn khiàm-tio̍h siánn",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "啊 甘會太超過",
+      "spelling": "ah kam-ē siunn tshiau-kuè",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "天公伯仔 已經甲咱安排甲這好適",
+      "spelling": "thinn-kong-peh-á í-king kā lán an-pâi kā tsiah hó se",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "啊 若是無怨差",
+      "spelling": "ah nā-sī bô uàn tshe",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "遇到風 微微地吹",
+      "spelling": "tū-tio̍h hong bî-bî tē tshue",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "想起啥 又擱吞腹底",
+      "spelling": "siūnn-khí siánn iū-koh thun pak té",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "啊 甘會太超過",
+      "spelling": "ah kam-ē siunn tshiau-kuè",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "阮的人生 已經乎人欣羨甲沒底找",
+      "spelling": "gún ê lîn-sing í-king hōo him-siān suān kā bô té tshuē",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "啊 若是無啥通反悔",
+      "spelling": "ah nā-sī bô siánn thàng huán-hué",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "無眠時陣 目周為何",
+      "spelling": "bô-bîn sî-tsūn ba̍k-tsiu uī-hô",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "猶原底金金啊找",
+      "spelling": "iû-guân té kim-kim ah tshuē",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "誰人了解 幸福的孤單",
+      "spelling": "siánn-lâng liáu-kái hīng-hok ê koo-tuann",
+      "source_lines": [
+        97,
+        98
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

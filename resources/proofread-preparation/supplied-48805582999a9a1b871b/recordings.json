@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "song_id": "840578238",
+      "title": "牵拖",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "十一台",
+      "duration": 251.64,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": [
+    {
+      "provider": "lrclib",
+      "error": "LRCLIB network request failed: curl: (28) SSL connection timeout",
+      "retryable": true
+    }
+  ]
+}

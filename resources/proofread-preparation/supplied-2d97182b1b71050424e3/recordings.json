@@ -1,0 +1,82 @@
+{
+  "candidates": [
+    {
+      "song_id": 1363343771,
+      "title": "枉費青春",
+      "artists": [
+        "夕阳武士"
+      ],
+      "album": "風",
+      "duration": 271.714,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1363343771,
+      "title": "枉費青春",
+      "artists": [
+        "夕阳武士"
+      ],
+      "album": "風",
+      "duration": 271.714,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1363343771,
+      "title": "枉費青春",
+      "artists": [
+        "夕阳武士"
+      ],
+      "album": "風",
+      "duration": 271.714,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1602828225",
+      "title": "枉费青春",
+      "artists": [
+        "夕阳武士"
+      ],
+      "album": "风",
+      "duration": 271.714,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1602828225",
+      "title": "枉费青春",
+      "artists": [
+        "夕阳武士"
+      ],
+      "album": "风",
+      "duration": 271.714,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 21201274,
+      "title": "枉费青春",
+      "artists": [
+        "伍佰"
+      ],
+      "album": "伍佰的Live",
+      "duration": 167.7333329,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 15282045,
+      "title": "枉费青春",
+      "artists": [
+        "伍佰 And China Blue"
+      ],
+      "album": "伍佰的Live",
+      "duration": 167.78449,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

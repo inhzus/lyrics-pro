@@ -1,0 +1,553 @@
+{
+  "recording_id": "lrcapi:1445521617",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E8%8E%8E%E5%96%B2%E5%A8%9C%E6%8B%89&artist=%E6%B1%9F%E8%95%99&album=%E5%BD%93%E6%97%B6%E6%AC%B2%E5%AB%81#1445521617",
+  "manual_source": "User-supplied resources/lyrics-spelling/莎喲娜拉-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "unresolved": 36,
+    "repeat": 2
+  },
+  "review_row_count": 36,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-25:0",
+    "line-28:0",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0",
+    "line-58:0"
+  ],
+  "unused_repeat_ids": [
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 28.911,
+      "online_text": "野草無花 嘛會當活",
+      "match_text": "野草無花 嘛會當活",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 1,
+      "time": 35.58,
+      "online_text": "暗暝無月 還有燈影",
+      "match_text": "暗暝無月 還有燈影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 2,
+      "time": 41.71,
+      "online_text": "若會當將情字參破",
+      "match_text": "若會當將情字參破",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 3,
+      "time": 48.641,
+      "online_text": "心剩一半 甲誰換",
+      "match_text": "心剩一半 甲誰換",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 4,
+      "time": 54.667,
+      "online_text": "傷心雷雨 怎樣閃避",
+      "match_text": "傷心雷雨 怎樣閃避",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 61.47,
+      "online_text": "癡情目屎 奈擦袂乾",
+      "match_text": "癡情目屎 奈擦袂乾",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 67.984,
+      "online_text": "往事若移巢的螞蟻",
+      "match_text": "往事若移巢的螞蟻",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 74.23,
+      "online_text": "思念請你放阮煞",
+      "match_text": "思念請你放阮煞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 79.094,
+      "online_text": "莎喲娜啦",
+      "match_text": "莎喲娜啦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 81.834,
+      "online_text": "明知空咒誓並無算啥",
+      "match_text": "明知空咒誓並無算啥",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 85.817,
+      "online_text": "為怎樣我",
+      "match_text": "為怎樣我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 88.169,
+      "online_text": "割情線像割性命",
+      "match_text": "割情線像割性命",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 92.005,
+      "online_text": "莎喲娜啦",
+      "match_text": "莎喲娜啦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 94.265,
+      "online_text": "麥講賣想甘就袂心痛",
+      "match_text": "麥講賣想甘就袂心痛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 98.982,
+      "online_text": "愛凝情磨誰知影",
+      "match_text": "愛凝情磨誰知影",
+      "text": "愛凝情磨誰知影",
+      "spelling": "ài gîng tsîng thua tsai-iánn",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 132.315,
+      "online_text": "怨嘆當初 無斟酌看",
+      "match_text": "怨嘆當初 無斟酌看",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-25:0"
+    },
+    {
+      "source_row": 16,
+      "time": 138.677,
+      "online_text": "未來安怎 甘著認命",
+      "match_text": "未來安怎 甘著認命",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-25:0"
+    },
+    {
+      "source_row": 17,
+      "time": 144.865,
+      "online_text": "若會當將緣分參破",
+      "match_text": "若會當將緣分參破",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-28:0"
+    },
+    {
+      "source_row": 18,
+      "time": 151.465,
+      "online_text": "心剩一半 甲誰換",
+      "match_text": "心剩一半 甲誰換",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-28:0"
+    },
+    {
+      "source_row": 19,
+      "time": 157.717,
+      "online_text": "傷心雷雨 怎樣閃避",
+      "match_text": "傷心雷雨 怎樣閃避",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 164.555,
+      "online_text": "癡情目屎 奈擦袂乾",
+      "match_text": "癡情目屎 奈擦袂乾",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 170.488,
+      "online_text": "往事若移巢的螞蟻",
+      "match_text": "往事若移巢的螞蟻",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 177.222,
+      "online_text": "思念請你放阮煞",
+      "match_text": "思念請你放阮煞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 182.307,
+      "online_text": "莎喲娜啦",
+      "match_text": "莎喲娜啦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 184.871,
+      "online_text": "明知空咒誓並無算啥",
+      "match_text": "明知空咒誓並無算啥",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 188.774,
+      "online_text": "為怎樣我",
+      "match_text": "為怎樣我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 191.11,
+      "online_text": "割情線像割性命",
+      "match_text": "割情線像割性命",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 195.101,
+      "online_text": "莎喲娜啦",
+      "match_text": "莎喲娜啦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 197.984,
+      "online_text": "麥講賣想甘就袂心痛",
+      "match_text": "麥講賣想甘就袂心痛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 202.067,
+      "online_text": "愛凝情磨誰知影",
+      "match_text": "愛凝情磨誰知影",
+      "text": "愛凝情磨誰知影",
+      "spelling": "ài gîng tsîng thua tsai-iánn",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 208.088,
+      "online_text": "莎喲娜啦",
+      "match_text": "莎喲娜啦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-49:0"
+    },
+    {
+      "source_row": 31,
+      "time": 210.634,
+      "online_text": "要叫阮怎樣袂想你啊",
+      "match_text": "要叫阮怎樣袂想你啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-49:0"
+    },
+    {
+      "source_row": 32,
+      "time": 214.455,
+      "online_text": "不驚孤單",
+      "match_text": "不驚孤單",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-52:0"
+    },
+    {
+      "source_row": 33,
+      "time": 216.978,
+      "online_text": "只驚你心內無我",
+      "match_text": "只驚你心內無我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-52:0"
+    },
+    {
+      "source_row": 34,
+      "time": 220.864,
+      "online_text": "莎喲娜啦",
+      "match_text": "莎喲娜啦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-55:0"
+    },
+    {
+      "source_row": 35,
+      "time": 222.874,
+      "online_text": "麥猜麥問甘就袂心痛",
+      "match_text": "麥猜麥問甘就袂心痛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-55:0"
+    },
+    {
+      "source_row": 36,
+      "time": 227.884,
+      "online_text": "阮的心",
+      "match_text": "阮的心",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-58:0"
+    },
+    {
+      "source_row": 37,
+      "time": 229.554,
+      "online_text": "你甘知影",
+      "match_text": "你甘知影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-58:0"
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "de2218bbb4769748bf558a42499781d2b2b32a1f69dfb79fb7d4d1667eee81dc",
+    "manual": "745b705390c60d9b43148fb48af3d49e45920d9860f468111df73ca9dbf7b511",
+    "timed": "9df9b13dd133bf4caa862e91e810e8810fde24670042a2d5003b26ae54c46df0"
+  }
+}

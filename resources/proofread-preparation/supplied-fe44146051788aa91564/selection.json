@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 412951592,
+    "title": "劝世歌",
+    "artists": [
+      "陈建玮"
+    ],
+    "album": "古伦美亚",
+    "duration": 122.045,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:412951592",
+      "duration": 122.045,
+      "ready": false,
+      "coverage": 0.5833333333333334,
+      "exact_fraction": 0.4166666666666667,
+      "summary": {
+        "credit": 2,
+        "unresolved": 5,
+        "approximate": 2,
+        "exact": 5
+      }
+    }
+  ]
+}

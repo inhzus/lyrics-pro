@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": 161277,
+      "title": "爱到无命不知惊",
+      "artists": [
+        "王识贤"
+      ],
+      "album": "爱到无命不知惊",
+      "duration": 241.853,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 5249575,
+      "title": "爱到无命不知惊",
+      "artists": [
+        "王识贤"
+      ],
+      "album": "台语至尊 1",
+      "duration": 91.141,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1815993084,
+      "title": "爱到无命不知惊",
+      "artists": [
+        "蓝颜"
+      ],
+      "album": "爱到无命不知惊",
+      "duration": 243.428,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2610233168,
+      "title": "爱到无命不知惊",
+      "artists": [
+        "张蓉蓉"
+      ],
+      "album": "新台湾歌曲5",
+      "duration": 215.186,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

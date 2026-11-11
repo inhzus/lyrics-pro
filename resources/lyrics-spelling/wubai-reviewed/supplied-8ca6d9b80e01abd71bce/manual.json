@@ -1,0 +1,437 @@
+{
+  "recording_id": "netease:449769019",
+  "source": "User-supplied resources/lyrics-spelling/仝款的月娘-伍佰",
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "毋知妳佇遐遠的所在好無",
+      "spelling": "m̄ tsai lí tī hiâ hn̄g ê sóo tsāi hó-bô",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "毋知妳佇遐遠的所在好無",
+          "spelling": "m̄ tsai lí tī hiâ hn̄g ê sóo tsāi hó-bô"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "敢有好好仔食飯                                   敢有逐工較早睏",
+      "spelling": "kám ū hó hó á tsia̍h pn̄g                  kám ū ta̍k-kang khah-tsá khùn",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "敢有好好仔食飯",
+          "spelling": "kám ū hó hó á tsia̍h pn̄g"
+        },
+        {
+          "text": "敢有逐工較早睏",
+          "spelling": "kám ū ta̍k-kang khah-tsá khùn"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "敢有心情鬱卒抑是寂寞的",
+      "spelling": "kám ū sim-tsîng ut-tsut ia̍h sī siok-bo̍k ê",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "敢有心情鬱卒抑是寂寞的",
+          "spelling": "kám ū sim-tsîng ut-tsut ia̍h sī siok-bo̍k ê"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "敢有出去曝日頭                                   曷是吹吹仔風",
+      "spelling": "kám ū tshut-khì pha̍k-ji̍t-thâu        a̍h sī tshue tshue á hong",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "敢有出去曝日頭",
+          "spelling": "kám ū tshut-khì pha̍k-ji̍t-thâu"
+        },
+        {
+          "text": "曷是吹吹仔風",
+          "spelling": "a̍h sī tshue tshue á hong"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "敢有親情朋友不時去相揣",
+      "spelling": "kám ū tshin-tsiânn pîng-iú put-sî khì sio-tshuē",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "敢有親情朋友不時去相揣",
+          "spelling": "kám ū tshin-tsiânn pîng-iú put-sî khì sio-tshuē"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "敢有逐工講寡話                                    敢有揣代誌來做",
+      "spelling": "kám ū ta̍k-kang kóng kuá uē           kám ū tshuē tāi tsì lâi tsuè",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "敢有逐工講寡話",
+          "spelling": "kám ū ta̍k-kang kóng kuá uē"
+        },
+        {
+          "text": "敢有揣代誌來做",
+          "spelling": "kám ū tshuē tāi tsì lâi tsuè"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "我佇這咧所在一切攏好勢",
+      "spelling": "guá tī tsit leh sóo-tsāi it-tshè lóng hó-sè",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "我佇這咧所在一切攏好勢",
+          "spelling": "guá tī tsit leh sóo-tsāi it-tshè lóng hó-sè"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "妳嘛毋免掛心                                        嘛著照顧身體",
+      "spelling": "lí mah m̄ bián kuà sim                      mah tio̍h tsiàu-kòo sin-thé",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "妳嘛毋免掛心",
+          "spelling": "lí mah m̄ bián kuà sim"
+        },
+        {
+          "text": "嘛著照顧身體",
+          "spelling": "mah tio̍h tsiàu-kòo sin-thé"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "是不是想我的暗時                                四爿攏恬靜靜",
+      "spelling": "sī m̄ sī siūnn guá ê àm-sî                  sì-pîng lóng tiām tsīng tsīng",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "是不是想我的暗時",
+          "spelling": "sī m̄ sī siūnn guá ê àm-sî"
+        },
+        {
+          "text": "四爿攏恬靜靜",
+          "spelling": "sì-pîng lóng tiām tsīng tsīng"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "我想妳和我親像                                             咱來拍開窗",
+      "spelling": "guá siūnn lí hām guá tshin tshiūnn        lán lâi phah khui thang",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "我想妳和我親像",
+          "spelling": "guá siūnn lí hām guá tshin tshiūnn"
+        },
+        {
+          "text": "咱來拍開窗",
+          "spelling": "lán lâi phah khui thang"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "咱來看到仝款的月娘",
+      "spelling": "lán lâi khuànn-tio̍h kâng-khuán ê gue̍h-niû",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "咱來看到仝款的月娘",
+          "spelling": "lán lâi khuànn-tio̍h kâng-khuán ê gue̍h-niû"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "妳若出去行路就行較慢咧",
+      "spelling": "lí ná tshut-khì kiânn-lōo khah bān leh",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "妳若出去行路就行較慢咧",
+          "spelling": "lí ná tshut-khì kiânn-lōo khah bān leh"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "路裏不時足濟車                                  塗跤不是平坦坦",
+      "spelling": "lōo lí put sî tsiok tsè tshia               thôo-kha m̄ sī pênn-thánn-thánn",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "路裏不時足濟車",
+          "spelling": "lōo lí put sî tsiok tsè tshia"
+        },
+        {
+          "text": "塗跤不是平坦坦",
+          "spelling": "thôo-kha m̄ sī pênn-thánn-thánn"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "天氣寒的時陣就穿較燒咧",
+      "spelling": "thinn-khì kuânn ê sî-tsūn tō tshīng khah sio leh",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "天氣寒的時陣就穿較燒咧",
+          "spelling": "thinn-khì kuânn ê sî-tsūn tō tshīng khah sio leh"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "咱遐風透地閣闊                                  感到就閣去注射",
+      "spelling": "lán hiâ hong thàu tē koh khuah    kám tio̍h tō koh-khì tsù-siā",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "咱遐風透地閣闊",
+          "spelling": "lán hiâ hong thàu tē koh khuah"
+        },
+        {
+          "text": "感到就閣去注射",
+          "spelling": "kám tio̍h tō koh-khì tsù-siā"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "心情就愛放予伊鬆鬆仔的",
+      "spelling": "sim-tsîng tō ài pàng hōo i sam-sam á ê",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "心情就愛放予伊鬆鬆仔的",
+          "spelling": "sim-tsîng tō ài pàng hōo i sam-sam á ê"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "頭殼毋免想遐濟                                  想到就愛敲電話",
+      "spelling": "thâu-khak m̄-bián siūnn hiâ tsè    siūnn tio̍h tō ài khà tiān-uē",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "頭殼毋免想遐濟",
+          "spelling": "thâu-khak m̄-bián siūnn hiâ tsè"
+        },
+        {
+          "text": "想到就愛敲電話",
+          "spelling": "siūnn tio̍h tō ài khà tiān-uē"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "我佇這咧所在一切攏好勢",
+      "spelling": "guá tī tsit leh sóo-tsāi it-tshè lóng hó-sè",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "我佇這咧所在一切攏好勢",
+          "spelling": "guá tī tsit leh sóo-tsāi it-tshè lóng hó-sè"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "妳嘛毋免掛心                                     上重要妳身體",
+      "spelling": "lí mah m̄ bián kuà sim                   mah tio̍h tsiàu-kòo sin-thé",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "妳嘛毋免掛心",
+          "spelling": "lí mah m̄ bián kuà sim"
+        },
+        {
+          "text": "上重要妳身體",
+          "spelling": "mah tio̍h tsiàu-kòo sin-thé"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "是不是想我的暗時                             四爿攏恬靜靜",
+      "spelling": "sī m̄ sī siūnn guá ê àm-sî               sì-pîng lóng tiām tsīng tsīng",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "是不是想我的暗時",
+          "spelling": "sī m̄ sī siūnn guá ê àm-sî"
+        },
+        {
+          "text": "四爿攏恬靜靜",
+          "spelling": "sì-pîng lóng tiām tsīng tsīng"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "我想妳和我親像                                             咱來拍開窗",
+      "spelling": "guá siūnn lí hām guá tshin tshiūnn        lán lâi phah khui thang",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "我想妳和我親像",
+          "spelling": "guá siūnn lí hām guá tshin tshiūnn"
+        },
+        {
+          "text": "咱來拍開窗",
+          "spelling": "lán lâi phah khui thang"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "咱來看到仝款的月娘",
+      "spelling": "lán lâi khuànn-tio̍h kâng-khuán ê gue̍h-niû",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "咱來看到仝款的月娘",
+          "spelling": "lán lâi khuànn-tio̍h kâng-khuán ê gue̍h-niû"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "愛知影想我的時陣                             妳毋是一个人",
+      "spelling": "ài tsai-iánn siūnn guá ê sî-tsūn     lí m̄ sī tsi̍t ê lâng",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "愛知影想我的時陣",
+          "spelling": "ài tsai-iánn siūnn guá ê sî-tsūn"
+        },
+        {
+          "text": "妳毋是一个人",
+          "spelling": "lí m̄ sī tsi̍t ê lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "我佇遮和妳相像",
+      "spelling": "guá tī jia hām lí sio-siāng",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "我佇遮和妳相像",
+          "spelling": "guá tī jia hām lí sio-siāng"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "咱來拍開窗                                咱來看到仝款的月娘",
+      "spelling": "lán lâi phah khui thang         lán lâi khuànn-tio̍h kâng-khuán ê gue̍h-niû",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "咱來拍開窗",
+          "spelling": "lán lâi phah khui thang"
+        },
+        {
+          "text": "咱來看到仝款的月娘",
+          "spelling": "lán lâi khuànn-tio̍h kâng-khuán ê gue̍h-niû"
+        }
+      ]
+    }
+  ]
+}

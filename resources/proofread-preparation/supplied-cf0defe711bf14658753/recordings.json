@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 2074044459,
+      "title": "你在叨位",
+      "artists": [
+        "捲捲澡堂 Soul Bath"
+      ],
+      "album": "你在叨位",
+      "duration": 237.809,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 162646,
+      "title": "你在叨位",
+      "artists": [
+        "王建杰"
+      ],
+      "album": "一世情",
+      "duration": 275.986,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1794040697",
+      "title": "你在叨位",
+      "artists": [
+        "邵羽"
+      ],
+      "album": "你在叨位 - Single",
+      "duration": 190.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

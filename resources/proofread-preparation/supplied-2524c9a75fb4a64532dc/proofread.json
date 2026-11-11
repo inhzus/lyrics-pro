@@ -1,0 +1,195 @@
+{
+  "recording_id": "netease:29717872",
+  "source": "User-supplied resources/lyrics-spelling/一幕一幕-農村武裝青年",
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "青春的風景 一幕一幕",
+      "spelling": "tshing-tshun ê hong-kíng tsi̍t bōo tsi̍t bōo",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "面前吹來一陣清香的風",
+      "spelling": "bīn-tsîng tshue lâi tsi̍t tsūn tshing-phang ê hong",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "牽起你的手 嘴唸囝仔的歌",
+      "spelling": "khan khí lí ê tshiú tshuì liām kín-á ê kua",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "脫赤腳來散步吹著稻仔香的風",
+      "spelling": "thǹg-tshiah-kha lâi sàn-pōo tshue-tio̍h tiū-á phang ê hong",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "禮拜三下埔 是囝仔的天空",
+      "spelling": "lé-pài sann ē poo sī kín-á ê thian-khong",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "作伙來七逃 控番薯摳",
+      "spelling": "tsò-hué lâi tshit tô khōng han tsî kho̍k",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "溪水冷吱吱 心涼脾透開",
+      "spelling": "khe-tsuí líng-ki-ki sim liâng pî thàu khui",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "摺好一隻船 放給水裡說要去大海",
+      "spelling": "áu hó tsi̍t tsiah tshua tsûn-á khǹg hōo khenn-te lâu hiòng tuā-hái",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "這是阮故鄉的土地 青青的菜瓜 黃黃的花",
+      "spelling": "lim kòo-hiong ê tī-leh tshinn tshinn ê tshài-kue kā n̂g n̂g ê hue",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "惦在他鄉打拼的我 思念家鄉辛苦的阿母",
+      "spelling": "tiām tsāi tà hiong phah-piànn ê guá su-liām tshù-lāi sin-khóo ê a-bú",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "故鄉寫來一張思念批 帶著一朵黃黃的菜瓜花",
+      "spelling": "kòo-hiong siá lâi tsi̍t tiunn su-liām ê phue tuà-tio̍h tsi̍t luí n̂g n̂g ê tshài-kue hue",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "阿母望阮頭路順遂 去媽祖婆那替我求來一個平安火",
+      "spelling": "a-bú bāng gún lâi thâu lōo sūn-suī khì má-tsóo pô hiâ thè gún kiû tsi̍t ê pîng-an hué",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "這是阮故鄉的土地 青青的菜瓜 黃黃的花",
+      "spelling": "lim kòo-hiong ê tī-leh tshinn tshinn ê tshài-kue kā n̂g n̂g ê hue",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "惦在他鄉打拼的我 思念家鄉辛苦的阿母",
+      "spelling": "tiām tsāi tà hiong phah-piànn ê guá su-liām tshù-lāi sin-khóo ê a-bú",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "西北雨直直落，鯽仔魚卜娶某，",
+      "spelling": "sai-pak hōo ti̍t-ti̍t lo̍h tsit-á-hî peh tshuā-bóo",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "鮕鮐兄拍鑼鼓，媒人婆仔土虱嫂，",
+      "spelling": "ko tái hiann phah lô-kó muê-lâng pô-á thôo-sat só",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "青春的風景 一幕一幕",
+      "spelling": "tshing-tshun ê hong-kíng tsi̍t bōo tsi̍t bōo",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "面前吹來一陣清香的風",
+      "spelling": "bīn-tsîng tshue lâi tsi̍t tsūn tshing-phang ê hong",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "牽起你的手 嘴念囝仔歌",
+      "spelling": "khan khí lí ê tshiú tshuì liām kín-á kua",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "脫赤腳來散步 卻聞無稻仔香的風",
+      "spelling": "thǹg-tshiah-kha lâi sàn-pōo soh phīnn-bô tiū-á phang ê hong",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "阮找無囝仔時袸的幸福",
+      "spelling": "gún tshuē bô kín-á sî tsūn ê hīng-hok",
+      "source_lines": [
+        61,
+        62
+      ]
+    }
+  ]
+}

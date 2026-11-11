@@ -1,0 +1,330 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "雖然你脾氣壞　                對待朋友又差　              凸槌又更愛牽拖",
+      "spelling": "sui-liân lí phî-khì pháinn    tuì-thāi pîng-iú koh tsha    khok thuî iū ài khan-thua",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "雖然你脾氣壞",
+          "spelling": "sui-liân lí phî-khì pháinn"
+        },
+        {
+          "text": "對待朋友又差",
+          "spelling": "tuì-thāi pîng-iú koh tsha"
+        },
+        {
+          "text": "凸槌又更愛牽拖",
+          "spelling": "khok thuî iū ài khan-thua"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "佳在你遇到我　             不愛計較的我　         算你壞人有好命",
+      "spelling": "ka tsāi lí gū-tio̍h guá        bô ài kè-kàu ê guá        sǹg lí pháinn-lâng ū hó-miā",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "佳在你遇到我",
+          "spelling": "ka tsāi lí gū-tio̍h guá"
+        },
+        {
+          "text": "不愛計較的我",
+          "spelling": "bô ài kè-kàu ê guá"
+        },
+        {
+          "text": "算你壞人有好命",
+          "spelling": "sǹg lí pháinn-lâng ū hó-miā"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "我走路你坐車　                你吃飯我洗碗　            你被欺負我拼命",
+      "spelling": "guá kiânn-lōo lí tsē-tshia    lí tsia̍h-pn̄g guá sé-uán    lí hōo khi-hū guá piànn-miā",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "我走路你坐車",
+          "spelling": "guá kiânn-lōo lí tsē-tshia"
+        },
+        {
+          "text": "你吃飯我洗碗",
+          "spelling": "lí tsia̍h-pn̄g guá sé-uán"
+        },
+        {
+          "text": "你被欺負我拼命",
+          "spelling": "lí hōo khi-hū guá piànn-miā"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "若為了爽到你　              可以艱苦到我　              因為咱緣分不可散",
+      "spelling": "ná uī-tio̍h sóng tio̍h lí        ē-sái kan-khóo tio̍h guá    in-uī lán iân hun m̄ thang suánn",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "若為了爽到你",
+          "spelling": "ná uī-tio̍h sóng tio̍h lí"
+        },
+        {
+          "text": "可以艱苦到我",
+          "spelling": "ē-sái kan-khóo tio̍h guá"
+        },
+        {
+          "text": "因為咱緣分不可散",
+          "spelling": "in-uī lán iân hun m̄ thang suánn"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "有你我才未孤單　                 有你的陪伴　           我才有靠山",
+      "spelling": "ū lí guá tsiah buē koo-tuann    ū lí ê puê-phuānn        guá tsiah ū khò-suann",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "有你我才未孤單",
+          "spelling": "ū lí guá tsiah buē koo-tuann"
+        },
+        {
+          "text": "有你的陪伴",
+          "spelling": "ū lí ê puê-phuānn"
+        },
+        {
+          "text": "我才有靠山",
+          "spelling": "guá tsiah ū khò-suann"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "你若不爽　我            是你的垃圾車　        每天聽你的心聲",
+      "spelling": "lí ná bē-sóng guá        sī lí ê pùn-sò-tshia        ta̍k-kang thiann lí ê sim-siann",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "你若不爽　我",
+          "spelling": "lí ná bē-sóng guá"
+        },
+        {
+          "text": "是你的垃圾車",
+          "spelling": "sī lí ê pùn-sò-tshia"
+        },
+        {
+          "text": "每天聽你的心聲",
+          "spelling": "ta̍k-kang thiann lí ê sim-siann"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "有你　我才未孤單　            有你的陪伴　            我才有靠山",
+      "spelling": "ū lí guá tsiah buē koo-tuann    ū lí ê puê-phuānn        guá tsiah ū khò-suann",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "有你　我才未孤單",
+          "spelling": "ū lí guá tsiah buē koo-tuann"
+        },
+        {
+          "text": "有你的陪伴",
+          "spelling": "ū lí ê puê-phuānn"
+        },
+        {
+          "text": "我才有靠山",
+          "spelling": "guá tsiah ū khò-suann"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "你若歡喜　               我是你的垃圾車　        每天為你唱歌",
+      "spelling": "lí ná  huann-hí            guá sī lí ê pùn-sò-tshia    ta̍k-kang uî lí tshiùnn-kua",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "愛情有影傷肝　                    想到我就會驚　                  親像熱天洗溫泉",
+      "spelling": "ài-tsîng ū-iánn siunn kuann    siūnn-tio̍h guá tio̍h ē kiann    tshin-tshiūnn jua̍h-thinn sé un-tsuânn",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "愛情有影傷肝",
+          "spelling": "ài-tsîng ū-iánn siunn kuann"
+        },
+        {
+          "text": "想到我就會驚",
+          "spelling": "siūnn-tio̍h guá tio̍h ē kiann"
+        },
+        {
+          "text": "親像熱天洗溫泉",
+          "spelling": "tshin-tshiūnn jua̍h-thinn sé un-tsuânn"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "頭暈目暗的我　                     愛到整身軀汗",
+      "spelling": "thâu-hîn ba̍k àm ê guá            ài-tio̍h kui sin-khu kuānn",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "頭暈目暗的我",
+          "spelling": "thâu-hîn ba̍k àm ê guá"
+        },
+        {
+          "text": "愛到整身軀汗",
+          "spelling": "ài-tio̍h kui sin-khu kuānn"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "我歡喜又擱甘願　                     給你快活",
+      "spelling": "guá huann-hí iū-koh kam-guān    hōo lí khuìnn-ua̍h",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "我歡喜又擱甘願",
+          "spelling": "guá huann-hí iū-koh kam-guān"
+        },
+        {
+          "text": "給你快活",
+          "spelling": "hōo lí khuìnn-ua̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "有你我才未孤單　                 有你的陪伴　           我才有靠山",
+      "spelling": "ū lí guá tsiah buē koo-tuann    ū lí ê puê-phuānn        guá tsiah ū khò-suann",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "有你我才未孤單",
+          "spelling": "ū lí guá tsiah buē koo-tuann"
+        },
+        {
+          "text": "有你的陪伴",
+          "spelling": "ū lí ê puê-phuānn"
+        },
+        {
+          "text": "我才有靠山",
+          "spelling": "guá tsiah ū khò-suann"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "你若不爽　我           是你的垃圾車　          每天聽你的心聲",
+      "spelling": "lí ná bē-sóng guá        sī lí ê pùn-sò-tshia        ta̍k-kang thiann lí ê sim-siann",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "你若不爽　我",
+          "spelling": "lí ná bē-sóng guá"
+        },
+        {
+          "text": "是你的垃圾車",
+          "spelling": "sī lí ê pùn-sò-tshia"
+        },
+        {
+          "text": "每天聽你的心聲",
+          "spelling": "ta̍k-kang thiann lí ê sim-siann"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "有你　我才未孤單　             有你的陪伴　            我才有靠山",
+      "spelling": "ū lí guá tsiah buē koo-tuann    ū lí ê puê-phuānn        guá tsiah ū khò-suann",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "有你　我才未孤單",
+          "spelling": "ū lí guá tsiah buē koo-tuann"
+        },
+        {
+          "text": "有你的陪伴",
+          "spelling": "ū lí ê puê-phuānn"
+        },
+        {
+          "text": "我才有靠山",
+          "spelling": "guá tsiah ū khò-suann"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "你若歡喜　                我是你的垃圾車　       每天為你唱歌",
+      "spelling": "lí ná  huann-hí            guá sī lí ê pùn-sò-tshia    ta̍k-kang uî lí tshiùnn-kua",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "為你唱歌",
+      "spelling": "uî lí tshiùnn-kua",
+      "source_lines": [
+        48,
+        49
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：阿信　作曲： 五月天  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

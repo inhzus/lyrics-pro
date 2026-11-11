@@ -1,0 +1,175 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "夜稀微 霜冷風 吹歸暝",
+      "spelling": "iā hi-bî  sng líng hong  tshue kui mî",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "心愛的 你在哪裡 夜夜想 你到深更",
+      "spelling": "sim-ài ê nǐ zài nǎlǐ  iā iā siūnn lí kàu tshim kinn",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "夜 纏綿 霜冷雨 落歸暝",
+      "spelling": "iā tînn mî  sng líng hōo lo̍h kui-mî",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "心愛的 你在哪裡 夜夜叫 你的名字",
+      "spelling": "sim-ài ê nǐ zài nǎlǐ  iā iā kiò lí ê miâ-lī",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "阿魯娜 夢三更  阿魯娜  我想你",
+      "spelling": "ā lǔ nà bōng sann kìnn  ā lǔ nà guá siūnn lín",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "阿魯娜 葉離枝 為你醉了 又醉",
+      "spelling": "ā lǔ nà hio̍h lī ki  uî lí tsuì liáu iū tsuì",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "千萬年",
+      "spelling": "tshian bān nî",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "夜稀微 霜冷風 吹歸暝",
+      "spelling": "iā hi-bî  sng líng hong  tshue kui mî",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "心愛的 你在哪裡 夜夜想 你到深更",
+      "spelling": "sim-ài ê nǐ zài nǎlǐ  iā iā siūnn lí kàu tshim kinn",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "夜 纏綿 霜冷雨 落歸暝",
+      "spelling": "iā tînn mî  sng líng hōo lo̍h kui-mî",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "心愛的 你在哪裡 夜夜叫 你的名字",
+      "spelling": "sim-ài ê nǐ zài nǎlǐ  iā iā kiò lí ê miâ-lī",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "阿魯娜 夢三更 阿魯娜  我想你",
+      "spelling": "ā lǔ nà bōng sann kìnn  ā lǔ nà guá siūnn lín",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "阿魯娜 夢三更 阿魯娜",
+          "spelling": "ā lǔ nà bōng sann kìnn"
+        },
+        {
+          "text": "我想你",
+          "spelling": "ā lǔ nà guá siūnn lín"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "阿魯娜 葉離枝 為你醉了 又醉",
+      "spelling": "ā lǔ nà hio̍h lī ki  uî lí tsuì liáu iū tsuì",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "千萬年",
+      "spelling": "tshian bān nî",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "阿魯娜 夢三更  阿魯娜  我想你",
+      "spelling": "ā lǔ nà bōng sann kìnn  ā lǔ nà guá siūnn lín",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "阿魯娜 葉離枝 為你醉了 又醉",
+      "spelling": "ā lǔ nà hio̍h lī ki  uî lí tsuì liáu iū tsuì",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "千萬年",
+      "spelling": "tshian bān nî",
+      "source_lines": [
+        51,
+        52
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

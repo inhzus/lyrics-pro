@@ -1,0 +1,396 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "行這呢久                     是不是感覺有淡薄仔累",
+      "spelling": "kiânn tsia nî kú        sī m̄ sī kám-kak ū tām-po̍h á thiám",
+      "source_lines": [
+        3,
+        5
+      ],
+      "parts": [
+        {
+          "text": "行這呢久",
+          "spelling": "kiânn tsia nî kú"
+        },
+        {
+          "text": "是不是感覺有淡薄仔累",
+          "spelling": "sī m̄ sī kám-kak ū tām-po̍h á thiám"
+        }
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "趕緊找一個無聲的所在 一個會凍喘大氣的所在",
+      "spelling": "kuánn-kín tshuē tsi̍t ê bô-siann ê sóo-tsāi tsi̍t ê ē tàng tshuán tuā-khùi ê sóo-tsāi",
+      "source_lines": [
+        7,
+        9
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "緩緩仔                              躺落來",
+      "spelling": "khuann khuann á         the lo̍h-lâi",
+      "source_lines": [
+        11,
+        13
+      ],
+      "parts": [
+        {
+          "text": "緩緩仔",
+          "spelling": "khuann khuann á"
+        },
+        {
+          "text": "躺落來",
+          "spelling": "the lo̍h-lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "撐這呢久                       險險嘛地要忘記仔要衝啥物",
+      "spelling": "kēng tsia nî kú            hiám hiám mah to beh bē-kìt tit á beh tshiong siánn mi̍h",
+      "source_lines": [
+        15,
+        17
+      ],
+      "parts": [
+        {
+          "text": "撐這呢久",
+          "spelling": "kēng tsia nî kú"
+        },
+        {
+          "text": "險險嘛地要忘記仔要衝啥物",
+          "spelling": "hiám hiám mah to beh bē-kìt tit á beh tshiong siánn mi̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "趕緊找一個無聲的所在 一個會凍放大氣的所在",
+      "spelling": "kuánn-kín tshuē tsi̍t ê bô-siann ê sóo-tsāi tsi̍t ê ē tàng tuā-khùi ê sóo-tsāi",
+      "source_lines": [
+        19,
+        21
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "慢慢仔                   想看嘛",
+      "spelling": "bān bān ê            siūnn khuànn mah",
+      "source_lines": [
+        23,
+        25
+      ],
+      "parts": [
+        {
+          "text": "慢慢仔",
+          "spelling": "bān bān ê"
+        },
+        {
+          "text": "想看嘛",
+          "spelling": "siūnn khuànn mah"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "踮在這座銅牆鐵壁的深山林內",
+      "spelling": "liam tiàm tsit tsō tâng tshiûnn thih piah ê tshim-suann nâ-lāi",
+      "source_lines": [
+        27,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "紛紛擾擾                     吵吵鬧鬧的日子活下來",
+      "spelling": "hun-hun jiáu jiáu    tshau tshau nāu nāu ê ji̍t-tsí ua̍h lo̍h-lâi",
+      "source_lines": [
+        31,
+        33
+      ],
+      "parts": [
+        {
+          "text": "紛紛擾擾",
+          "spelling": "hun-hun jiáu jiáu"
+        },
+        {
+          "text": "吵吵鬧鬧的日子活下來",
+          "spelling": "tshau tshau nāu nāu ê ji̍t-tsí ua̍h lo̍h-lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "安怎艱苦的心事                                  顛倒愛吞落腹肚內",
+      "spelling": "an-tsuánn kan-khóo ê sim-sū        tian-tò ài thun lo̍h pak tóo lāi",
+      "source_lines": [
+        35,
+        37
+      ],
+      "parts": [
+        {
+          "text": "安怎艱苦的心事",
+          "spelling": "an-tsuánn kan-khóo ê sim-sū"
+        },
+        {
+          "text": "顛倒愛吞落腹肚內",
+          "spelling": "tian-tò ài thun lo̍h pak tóo lāi"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "踮在這個漂流之島                             無情的世界",
+      "spelling": "liam tsāi tsit-hō phiau-liû tsi tó    bô-tsîng ê sè-kài",
+      "source_lines": [
+        39,
+        41
+      ],
+      "parts": [
+        {
+          "text": "踮在這個漂流之島",
+          "spelling": "liam tsāi tsit-hō phiau-liû tsi tó"
+        },
+        {
+          "text": "無情的世界",
+          "spelling": "bô-tsîng ê sè-kài"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "生生死死                 分分合合的日子看過來",
+      "spelling": "sing sing sí sí        hun hun ha̍p ha̍p ê ji̍t-tsí khuànn kuè-lâi",
+      "source_lines": [
+        43,
+        45
+      ],
+      "parts": [
+        {
+          "text": "生生死死",
+          "spelling": "sing sing sí sí"
+        },
+        {
+          "text": "分分合合的日子看過來",
+          "spelling": "hun hun ha̍p ha̍p ê ji̍t-tsí khuànn kuè-lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "安怎摻血的目屎",
+      "spelling": "an-tsuánn tshàm-hueh ê ba̍k-sái",
+      "source_lines": [
+        47,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "就愛一擺擱流一擺",
+      "spelling": "tio̍h ài tsi̍t-pái kô͘ lâu tsi̍t-pái",
+      "source_lines": [
+        51,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "撐這呢久                 險險嘛地要賣記仔要衝啥物",
+      "spelling": "kiânn tsia nî kú    hiám hiám mah to beh bē-kìt tit á beh tshiong siánn mi̍h",
+      "source_lines": [
+        55,
+        57
+      ],
+      "parts": [
+        {
+          "text": "撐這呢久",
+          "spelling": "kiânn tsia nî kú"
+        },
+        {
+          "text": "險險嘛地要賣記仔要衝啥物",
+          "spelling": "hiám hiám mah to beh bē-kìt tit á beh tshiong siánn mi̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-59",
+      "text": "趕緊找一個無聲的所在 一個會凍放輕鬆的所在",
+      "spelling": "kuánn-kín tshuē tsi̍t ê bô-siann ê sóo-tsāi tsi̍t ê ē tàng tuā-khùi ê sóo-tsāi",
+      "source_lines": [
+        59,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "慢慢仔                   想看嘛",
+      "spelling": "bān bān ê            siūnn khuànn mah",
+      "source_lines": [
+        63,
+        65
+      ],
+      "parts": [
+        {
+          "text": "慢慢仔",
+          "spelling": "bān bān ê"
+        },
+        {
+          "text": "想看嘛",
+          "spelling": "siūnn khuànn mah"
+        }
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "踮在這座銅牆鐵壁的深山林內",
+      "spelling": "liam tiàm tsit tsō tâng tshiûnn thih piah ê tshim-suann nâ-lāi",
+      "source_lines": [
+        67,
+        69
+      ]
+    },
+    {
+      "id": "line-71",
+      "text": "紛紛擾擾                     吵吵鬧鬧的日子活下來",
+      "spelling": "hun-hun jiáu jiáu    tshau tshau nāu nāu ê ji̍t-tsí ua̍h lo̍h-lâi",
+      "source_lines": [
+        71,
+        73
+      ],
+      "parts": [
+        {
+          "text": "紛紛擾擾",
+          "spelling": "hun-hun jiáu jiáu"
+        },
+        {
+          "text": "吵吵鬧鬧的日子活下來",
+          "spelling": "tshau tshau nāu nāu ê ji̍t-tsí ua̍h lo̍h-lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "安怎艱苦的心事                                  顛倒愛吞落腹肚內",
+      "spelling": "an-tsuánn kan-khóo ê sim-sū        tian-tò ài thun lo̍h pak tóo lāi",
+      "source_lines": [
+        75,
+        77
+      ],
+      "parts": [
+        {
+          "text": "安怎艱苦的心事",
+          "spelling": "an-tsuánn kan-khóo ê sim-sū"
+        },
+        {
+          "text": "顛倒愛吞落腹肚內",
+          "spelling": "tian-tò ài thun lo̍h pak tóo lāi"
+        }
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "踮在這個漂流之島 無情的世界",
+      "spelling": "liam tsāi tsit-hō phiau-liû tsi tó    bô-tsîng ê sè-kài",
+      "source_lines": [
+        79,
+        81
+      ]
+    },
+    {
+      "id": "line-83",
+      "text": "生生死死 分分        合合的日子看過來",
+      "spelling": "sing sing sí sí        hun hun ha̍p ha̍p ê ji̍t-tsí khuànn kuè-lâi",
+      "source_lines": [
+        83,
+        85
+      ],
+      "parts": [
+        {
+          "text": "生生死死 分分",
+          "spelling": "sing sing sí sí"
+        },
+        {
+          "text": "合合的日子看過來",
+          "spelling": "hun hun ha̍p ha̍p ê ji̍t-tsí khuànn kuè-lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "安怎摻血的目屎",
+      "spelling": "an-tsuánn tshàm-hueh ê ba̍k-sái",
+      "source_lines": [
+        87,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "就愛一擺擱流一擺",
+      "spelling": "tio̍h ài tsi̍t-pái kô͘ lâu tsi̍t-pái",
+      "source_lines": [
+        91,
+        93
+      ]
+    },
+    {
+      "id": "line-95",
+      "text": "痛這呢久                  親像浮在無底的大海",
+      "spelling": "thiànn tsia nî kú    tshin tshiūnn phû tī bô-té ê tuā-hái",
+      "source_lines": [
+        95,
+        97
+      ],
+      "parts": [
+        {
+          "text": "痛這呢久",
+          "spelling": "thiànn tsia nî kú"
+        },
+        {
+          "text": "親像浮在無底的大海",
+          "spelling": "tshin tshiūnn phû tī bô-té ê tuā-hái"
+        }
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "趕緊找一個無聲的所在 一個真正無聲無息的所在",
+      "spelling": "kuánn-kín tshuē tsi̍t ê bô-siann ê sóo-tsāi tsi̍t ê ē tàng tshuán tuā-khùi ê sóo-tsāi",
+      "source_lines": [
+        99,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "恬恬仔 一個人         哭悲哀",
+      "spelling": "tiām-tiām á tsi̍t ê lâng        khàu pi-ai",
+      "source_lines": [
+        103,
+        105
+      ],
+      "parts": [
+        {
+          "text": "恬恬仔 一個人",
+          "spelling": "tiām-tiām á tsi̍t ê lâng"
+        },
+        {
+          "text": "哭悲哀",
+          "spelling": "khàu pi-ai"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：陳世杰   作曲：伍佰  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

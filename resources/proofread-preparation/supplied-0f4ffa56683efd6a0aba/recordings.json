@@ -1,0 +1,39 @@
+{
+  "candidates": [
+    {
+      "song_id": 3438601119,
+      "title": "金小姐",
+      "artists": [
+        "RawKei"
+      ],
+      "album": "钱钱钱",
+      "duration": 127.302,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2657713121,
+      "title": "金小姐",
+      "artists": [
+        "四了四了",
+        "V3am"
+      ],
+      "album": "WAUGTD",
+      "duration": 172.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1393950635",
+      "title": "金小姐",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "台南",
+      "duration": 323.013,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

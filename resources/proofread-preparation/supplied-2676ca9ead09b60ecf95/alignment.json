@@ -1,0 +1,711 @@
+{
+  "recording_id": "netease:161137",
+  "timing_source": "NetEase https://music.163.com/song?id=161137",
+  "manual_source": "User-supplied resources/lyrics-spelling/王識賢 & 孫淑媚 – 雪中花-王識賢",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 5,
+    "unresolved": 14,
+    "repeat": 33,
+    "approximate": 1,
+    "exact": 2
+  },
+  "review_row_count": 15,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-12:0",
+    "line-33:0",
+    "line-39:0",
+    "line-48:0",
+    "line-63:0",
+    "line-84:0",
+    "line-90:0",
+    "line-99:0",
+    "line-114:0",
+    "line-120:0",
+    "line-129:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "词曲 : 郭之仪",
+      "match_text": "词曲 : 郭之仪",
+      "text": "词曲 : 郭之仪",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "制作 : 郭之仪",
+      "match_text": "制作 : 郭之仪",
+      "text": "制作 : 郭之仪",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "编曲 : 丘旺苍",
+      "match_text": "编曲 : 丘旺苍",
+      "text": "编曲 : 丘旺苍",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 3.0,
+      "online_text": "和声 : 萧蔓萱 谢文德",
+      "match_text": "和声 : 萧蔓萱 谢文德",
+      "text": "和声 : 萧蔓萱 谢文德",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 4,
+      "time": 4.0,
+      "online_text": "吉他 : 倪方来",
+      "match_text": "吉他 : 倪方来",
+      "text": "吉他 : 倪方来",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 5.0,
+      "online_text": "发行 : 广东飞碟文化传播有限公司",
+      "match_text": "发行 : 广东飞碟文化传播有限公司",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 35.04,
+      "online_text": "(女)爱好亲像过客",
+      "match_text": "(女)爱好亲像过客",
+      "text": "(女)愛 好親像過客",
+      "spelling": "ài  hònn tshin-tshiūnn kuè-kheh",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 37.82,
+      "online_text": "(男)情好亲像冬雪",
+      "match_text": "(男)情好亲像冬雪",
+      "text": "(男)情 好親像冬雪",
+      "spelling": "tsîng  hònn tshin-tshiūnn tang seh",
+      "manual_id": "line-6:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 41.57,
+      "online_text": "(女)一场风雨的经过 将你咱绑作伙",
+      "match_text": "(女)一场风雨的经过 将你咱绑作伙",
+      "text": "(女)一場風雨的經過 將你咱綁作伙",
+      "spelling": "tsi̍t-tiûnn hong-hōo ê king-kuè  tsiòng lí lán pa̍k tsò-hué",
+      "manual_id": "line-9:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 48.57,
+      "online_text": "(男)无论风块吹 云块飞 情爱像梅花",
+      "match_text": "(男)无论风块吹 云块飞 情爱像梅花",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 58.14,
+      "online_text": "(男)天愈冷",
+      "match_text": "(男)天愈冷",
+      "text": "(男)天愈冷",
+      "spelling": "thinn lú líng",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 59.76,
+      "online_text": "(女)心愈撑",
+      "match_text": "(女)心愈撑",
+      "text": "(女)心愈撐",
+      "spelling": "sim lú kīng",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 61.45,
+      "online_text": "(合)感情愈坚定",
+      "match_text": "(合)感情愈坚定",
+      "text": "(合)感情愈堅定",
+      "spelling": "kám-tsîng lú kian-tīng",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 66.01,
+      "online_text": "(男)爱可比雪中花",
+      "match_text": "(男)爱可比雪中花",
+      "text": "(男)愛可比雪中花",
+      "spelling": "ài khó-pí suat tiong hue",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 69.64,
+      "online_text": "(女)若是打袂开心内的谜题",
+      "match_text": "(女)若是打袂开心内的谜题",
+      "text": "(女)若是打袂開心內的謎題",
+      "spelling": "ná sī phah buē khui sim-lāi ê bê tê",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 73.39,
+      "online_text": "(合)情爱真真假假 有魂无体",
+      "match_text": "(合)情爱真真假假 有魂无体",
+      "text": "(合)情愛真真假假 有魂無體",
+      "spelling": "tsîng-ài tsin-tsin-ké-ké  ū hûn bô thé",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 77.51,
+      "online_text": "(女)雪嘛呒讲话",
+      "match_text": "(女)雪嘛呒讲话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 79.32,
+      "online_text": "(男)花嘛无声无说",
+      "match_text": "(男)花嘛无声无说",
+      "text": "(男)花嘛無聲無說",
+      "spelling": "hue mah bô siann bô suè",
+      "manual_id": "line-36:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 81.01,
+      "online_text": "(男)情可比云中月",
+      "match_text": "(男)情可比云中月",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 84.89,
+      "online_text": "(女)若是打开了心内的谜题",
+      "match_text": "(女)若是打开了心内的谜题",
+      "text": "(女)若是打開了心內的謎題",
+      "spelling": "ná sī phah khui liáu sim-lāi ê bê tê",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 88.45,
+      "online_text": "(合)情爱欢欢喜喜永远作伙",
+      "match_text": "(合)情爱欢欢喜喜永远作伙",
+      "text": "(合)情愛歡歡喜喜永遠作伙",
+      "spelling": "tsîng-ài huann-huann-hí-hí íng-uán tsuè-hué",
+      "manual_id": "line-45:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 92.14,
+      "online_text": "(男)云嘛真厚话",
+      "match_text": "(男)云嘛真厚话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 94.45,
+      "online_text": "(女)月嘛听归暝",
+      "match_text": "(女)月嘛听归暝",
+      "text": "(女)月嘛聽歸暝",
+      "spelling": "gue̍h mah thiann kui-mî",
+      "manual_id": "line-51:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 100.14,
+      "online_text": "Music",
+      "match_text": "Music",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 115.76,
+      "online_text": "(女)爱好亲像过客",
+      "match_text": "(女)爱好亲像过客",
+      "text": "(女)愛 好親像過客",
+      "spelling": "ài  hònn tshin-tshiūnn kuè-kheh",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 119.14,
+      "online_text": "(男)情好亲像冬雪",
+      "match_text": "(男)情好亲像冬雪",
+      "text": "(男)情 好親像冬雪",
+      "spelling": "tsîng  hònn tshin-tshiūnn tang seh",
+      "manual_id": "line-6:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 122.89,
+      "online_text": "(女)一场风雨的经过 将你咱绑作伙",
+      "match_text": "(女)一场风雨的经过 将你咱绑作伙",
+      "text": "(女)一場風雨的經過 將你咱綁作伙",
+      "spelling": "tsi̍t-tiûnn hong-hōo ê king-kuè  tsiòng lí lán pa̍k tsò-hué",
+      "manual_id": "line-9:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 129.64,
+      "online_text": "(男)无论风块吹 云块飞 情爱像梅花",
+      "match_text": "(男)无论风块吹 云块飞 情爱像梅花",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 139.51,
+      "online_text": "(男)天愈冷",
+      "match_text": "(男)天愈冷",
+      "text": "(男)天愈冷",
+      "spelling": "thinn lú líng",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 140.89,
+      "online_text": "(女)心愈撑",
+      "match_text": "(女)心愈撑",
+      "text": "(女)心愈撐",
+      "spelling": "sim lú kīng",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 142.7,
+      "online_text": "(合)感情愈坚定",
+      "match_text": "(合)感情愈坚定",
+      "text": "(合)感情愈堅定",
+      "spelling": "kám-tsîng lú kian-tīng",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 146.95,
+      "online_text": "(男)爱可比雪中花",
+      "match_text": "(男)爱可比雪中花",
+      "text": "(男)愛可比雪中花",
+      "spelling": "ài khó-pí suat tiong hue",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 151.01,
+      "online_text": "(女)若是打袂开心内的谜题",
+      "match_text": "(女)若是打袂开心内的谜题",
+      "text": "(女)若是打袂開心內的謎題",
+      "spelling": "ná sī phah buē khui sim-lāi ê bê tê",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 155.34,
+      "online_text": "(合)情爱真真假假 有魂无体",
+      "match_text": "(合)情爱真真假假 有魂无体",
+      "text": "(合)情愛真真假假 有魂無體",
+      "spelling": "tsîng-ài tsin-tsin-ké-ké  ū hûn bô thé",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 159.65,
+      "online_text": "(女)雪嘛呒讲话",
+      "match_text": "(女)雪嘛呒讲话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 161.34,
+      "online_text": "(男)花嘛无声无说",
+      "match_text": "(男)花嘛无声无说",
+      "text": "(男)花嘛無聲無說",
+      "spelling": "hue mah bô siann bô suè",
+      "manual_id": "line-36:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 162.51,
+      "online_text": "(男)情可比云中月",
+      "match_text": "(男)情可比云中月",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 166.32,
+      "online_text": "(女)若是打开了心内的谜题",
+      "match_text": "(女)若是打开了心内的谜题",
+      "text": "(女)若是打開了心內的謎題",
+      "spelling": "ná sī phah khui liáu sim-lāi ê bê tê",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 169.95,
+      "online_text": "(合)情爱欢欢喜喜永远作伙",
+      "match_text": "(合)情爱欢欢喜喜永远作伙",
+      "text": "(合)情愛歡歡喜喜永遠作伙",
+      "spelling": "tsîng-ài huann-huann-hí-hí íng-uán tsuè-hué",
+      "manual_id": "line-45:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 174.98,
+      "online_text": "(男)云嘛真厚话",
+      "match_text": "(男)云嘛真厚话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 177.23,
+      "online_text": "(女)月嘛听归暝",
+      "match_text": "(女)月嘛听归暝",
+      "text": "(女)月嘛聽歸暝",
+      "spelling": "gue̍h mah thiann kui-mî",
+      "manual_id": "line-51:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 41,
+      "time": 182.79,
+      "online_text": "(男)爱可比雪中花",
+      "match_text": "(男)爱可比雪中花",
+      "text": "(男)愛可比雪中花",
+      "spelling": "ài khó-pí suat tiong hue",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 186.48,
+      "online_text": "(女)若是打袂开心内的谜题",
+      "match_text": "(女)若是打袂开心内的谜题",
+      "text": "(女)若是打袂開心內的謎題",
+      "spelling": "ná sī phah buē khui sim-lāi ê bê tê",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 43,
+      "time": 190.17,
+      "online_text": "(合)情爱真真假假 有魂无体",
+      "match_text": "(合)情爱真真假假 有魂无体",
+      "text": "(合)情愛真真假假 有魂無體",
+      "spelling": "tsîng-ài tsin-tsin-ké-ké  ū hûn bô thé",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 44,
+      "time": 194.39,
+      "online_text": "(女)雪嘛呒讲话",
+      "match_text": "(女)雪嘛呒讲话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 196.07,
+      "online_text": "(男)花嘛无声无说",
+      "match_text": "(男)花嘛无声无说",
+      "text": "(男)花嘛無聲無說",
+      "spelling": "hue mah bô siann bô suè",
+      "manual_id": "line-36:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 46,
+      "time": 197.82,
+      "online_text": "(男)情可比云中月",
+      "match_text": "(男)情可比云中月",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 201.57,
+      "online_text": "(女)若是打开了心内的谜题",
+      "match_text": "(女)若是打开了心内的谜题",
+      "text": "(女)若是打開了心內的謎題",
+      "spelling": "ná sī phah khui liáu sim-lāi ê bê tê",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 48,
+      "time": 205.14,
+      "online_text": "(合)情爱欢欢喜喜永远作伙",
+      "match_text": "(合)情爱欢欢喜喜永远作伙",
+      "text": "(合)情愛歡歡喜喜永遠作伙",
+      "spelling": "tsîng-ài huann-huann-hí-hí íng-uán tsuè-hué",
+      "manual_id": "line-45:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 49,
+      "time": 208.7,
+      "online_text": "(男)云嘛真厚话",
+      "match_text": "(男)云嘛真厚话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 50,
+      "time": 211.26,
+      "online_text": "(女)月嘛听归暝",
+      "match_text": "(女)月嘛听归暝",
+      "text": "(女)月嘛聽歸暝",
+      "spelling": "gue̍h mah thiann kui-mî",
+      "manual_id": "line-51:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 51,
+      "time": 215.26,
+      "online_text": "(男)阿～天愈冷",
+      "match_text": "(男)阿～天愈冷",
+      "text": "(男)啊～天愈冷",
+      "spelling": "ah ～ thinn lú líng",
+      "manual_id": "line-135:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 52,
+      "time": 219.51,
+      "online_text": "(女)心愈坚定",
+      "match_text": "(女)心愈坚定",
+      "text": "(女)心愈堅定",
+      "spelling": "sim lú kian-tīng",
+      "manual_id": "line-138:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 53,
+      "time": 220.14,
+      "online_text": "(合)恩爱过一生",
+      "match_text": "(合)恩爱过一生",
+      "text": "(合)恩愛過一生",
+      "spelling": "un-ài kuè it-sing",
+      "manual_id": "line-141:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 54,
+      "time": 224.7,
+      "online_text": "Over",
+      "match_text": "Over",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "110195a6137a39a19f2614550c360c390b7f2d0f215191cd432ff733fdc1812a",
+    "manual": "a7dd57dc682d57947a177ed22d7853ebf679dd6176042cc257cf16cd89be2ff8",
+    "timed": "1a3dc47d5454f4eac72a2f7906248b15ba462a5efca96e3be570600d21c51bdf"
+  }
+}

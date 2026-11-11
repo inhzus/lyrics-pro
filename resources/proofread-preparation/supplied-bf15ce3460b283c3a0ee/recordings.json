@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 157024,
+      "title": "何时再见梦中人",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "电影歌曲典藏1992-2000",
+      "duration": 231.573,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 452614918,
+      "title": "何时再见梦中人",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "圣石传说 电影原声带",
+      "duration": 231.573,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2165377215,
+      "title": "何時再見夢中人",
+      "artists": [
+        "pekkon"
+      ],
+      "album": "華語歌曲精選集 - 伍佰 Vol.6",
+      "duration": 182.758,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "song_id": "1753652893",
+    "title": "梦中见",
+    "artists": [
+      "拍谢少年"
+    ],
+    "album": "海口味",
+    "duration": 359.156,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1753652893",
+      "duration": 359.156,
+      "ready": false,
+      "coverage": 0.8,
+      "exact_fraction": 0.8,
+      "summary": {
+        "exact": 16,
+        "unresolved": 4
+      }
+    }
+  ]
+}

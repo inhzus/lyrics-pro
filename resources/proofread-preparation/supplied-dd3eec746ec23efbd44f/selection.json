@@ -1,0 +1,51 @@
+{
+  "selected": {
+    "song_id": 29760563,
+    "title": "殺手驪歌",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "順流逆流",
+    "duration": 280.0,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrclib:29760563",
+      "duration": 280.0,
+      "ready": false,
+      "coverage": 0.29411764705882354,
+      "exact_fraction": 0.0,
+      "summary": {
+        "unresolved": 12,
+        "approximate": 5,
+        "gap": 1
+      }
+    },
+    {
+      "recording_id": "lrclib:34227934",
+      "duration": 280.0,
+      "ready": false,
+      "coverage": 0.29411764705882354,
+      "exact_fraction": 0.0,
+      "summary": {
+        "unresolved": 12,
+        "approximate": 5,
+        "gap": 1
+      }
+    },
+    {
+      "recording_id": "lrclib:38853541",
+      "duration": 280.0,
+      "ready": false,
+      "coverage": 0.29411764705882354,
+      "exact_fraction": 0.0,
+      "summary": {
+        "unresolved": 12,
+        "approximate": 5,
+        "gap": 1
+      }
+    }
+  ]
+}

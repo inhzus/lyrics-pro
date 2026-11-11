@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 412951427,
+      "title": "卡归去",
+      "artists": [
+        "张三李四"
+      ],
+      "album": "张三李四",
+      "duration": 251.309,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

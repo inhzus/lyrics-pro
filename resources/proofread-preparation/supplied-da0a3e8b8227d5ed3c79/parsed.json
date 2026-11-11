@@ -1,0 +1,309 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "小時候到長大 都是他們在疼我們",
+      "spelling": "sè-hàn kàu tuā-hàn lóng sī in teh kā lán thiànn",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "不曾罵過我們 只有煩惱我們昨夜是否睡飽",
+      "spelling": "m̄ bat kā lán mā tsí-ū huân-ló lán tsa-mê kám-ū khùn-pá",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "小時候到長大 都是他們在疼惜我們",
+      "spelling": "sè-hàn kàu tuā-hàn lóng sī in teh kā lán sioh miâ miâ",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "不曾打過我們 只有煩惱我們三餐是否吃飽",
+      "spelling": "m̄ bat kā lán phah tsí-ū huân-ló lán sann tǹg kám-ū tsia̍h-pá",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "時間已經過去了",
+      "spelling": "sî-kan í-king kuè-khì ah",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "你已經不是一個臭小子",
+      "spelling": "lí í-king m̄ sī tsi̍t tshàu sió-kiánn",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "都這麼大了 他們講的話就要聽",
+      "spelling": "lóng tsiah tuā-hàn ná in kóng ê uē tio̍h ài thiann",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "時間已經過去了",
+      "spelling": "sî-kan í-king kuè-khì ah",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "你已經不是一個臭小子",
+      "spelling": "lí í-king m̄ sī tsi̍t tshàu sió-kiánn",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "都這麼大了 就要替他們多想些",
+      "spelling": "lóng tsiah tuā-hàn ná tio̍h ài thè in ke siūnn kuá",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "他們的恩情 比海還要闊",
+      "spelling": "in ê un-tsîng pí hái koh khuah",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "再多的話 也無法來表達",
+      "spelling": "koh kha̍h tsē ê uē mā bô-huat-tōo lâi piáu-ta̍t",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "他們的恩情 比山還要大",
+      "spelling": "in ê un-tsîng pí suann koh tuā",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "他們不需要金山 銀山",
+      "spelling": "in bô su-iàu kim-suann gîn suann",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "要孝順長輩",
+      "spelling": "ài iú-hàu sī-tuā",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "你是否有在聽",
+      "spelling": "lí kám-ū teh thiann",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "你這個臭小子",
+      "spelling": "lí tsit-ê tshàu sió-kiánn",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "時間已經過去了",
+      "spelling": "sî-kan í-king kuè-khì ah",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "你已經不是一個臭小子",
+      "spelling": "lí í-king m̄ sī tsi̍t tshàu sió-kiánn",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "都這麼大了 他們講的話就要聽",
+      "spelling": "lóng tsiah tuā-hàn ná in kóng ê uē tio̍h ài thiann",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "時間已經過去了",
+      "spelling": "sî-kan í-king kuè-khì ah",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "你已經不是一個臭小子",
+      "spelling": "lí í-king m̄ sī tsi̍t tshàu sió-kiánn",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "都這麼大了 就要替他們多想些",
+      "spelling": "lóng tsiah tuā-hàn ná tio̍h ài thè in ke siūnn kuá",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "他們的恩情 比海還要闊",
+      "spelling": "in ê un-tsîng pí hái koh khuah",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "再多的話 也無法來表達",
+      "spelling": "koh kha̍h tsē ê uē mā bô-huat-tōo lâi piáu-ta̍t",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "他們的恩情 比山還要大",
+      "spelling": "in ê un-tsîng pí suann koh tuā",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "他們不需要金山 銀山",
+      "spelling": "in bô su-iàu kim-suann gîn suann",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "要孝順長輩",
+      "spelling": "ài iú-hàu sī-tuā",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "你是否有在聽",
+      "spelling": "lí kám-ū teh thiann",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "你這個臭小子",
+      "spelling": "lí tsit-ê tshàu sió-kiánn",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "小時候到長大 都是他們在疼我們",
+      "spelling": "sè-hàn kàu tuā-hàn lóng sī in teh kā lán thiànn",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "你是否有在聽 你是否有在聽",
+      "spelling": "lí kám-ū teh thiann lí kám-ū teh thiann",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "臭小子",
+      "spelling": "tshàu sió-kiánn",
+      "source_lines": [
+        99,
+        100
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳建達 作曲：吳建達 台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

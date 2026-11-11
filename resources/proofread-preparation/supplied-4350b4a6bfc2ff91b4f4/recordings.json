@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 516721459,
+      "title": "波克比的爱",
+      "artists": [
+        "茄子蛋"
+      ],
+      "album": "卡通人物",
+      "duration": 331.493,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

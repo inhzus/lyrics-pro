@@ -1,0 +1,432 @@
+{
+  "blocks": [
+    {
+      "id": "line-5",
+      "text": "目睭金金看你看到天光",
+      "spelling": "ba̍k-tsiu kim kim khuànn lí khuànn-kàu thinn-kng",
+      "source_lines": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "你睏的真甜                      笑容是彼呢單純",
+      "spelling": "lí khùn gah tsin tinn    tshiò-iông sī hia nî tan-sûn",
+      "source_lines": [
+        8,
+        9
+      ],
+      "parts": [
+        {
+          "text": "你睏的真甜",
+          "spelling": "lí khùn gah tsin tinn"
+        },
+        {
+          "text": "笑容是彼呢單純",
+          "spelling": "tshiò-iông sī hia nî tan-sûn"
+        }
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "真希望能夠                   永遠甲你作伴",
+      "spelling": "tsin hi-bāng ē-tàng    íng-uán kah lí tsuè phuānn",
+      "source_lines": [
+        13,
+        14
+      ],
+      "parts": [
+        {
+          "text": "真希望能夠",
+          "spelling": "tsin hi-bāng ē-tàng"
+        },
+        {
+          "text": "永遠甲你作伴",
+          "spelling": "íng-uán kah lí tsuè phuānn"
+        }
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "輕輕鬆鬆唱咱快樂的歌",
+      "spelling": "khin khin sang sang tshiùnn lán khuài-lo̍k ē kua",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "人生的路上                   總有坎坷的路愛行",
+      "spelling": "lîn-sing ē lōo-siōng    tsóng ū khám-khia̍t ē lōo ài kiânn",
+      "source_lines": [
+        19,
+        20
+      ],
+      "parts": [
+        {
+          "text": "人生的路上",
+          "spelling": "lîn-sing ē lōo-siōng"
+        },
+        {
+          "text": "總有坎坷的路愛行",
+          "spelling": "tsóng ū khám-khia̍t ē lōo ài kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "不免煩惱                 我是你的靠山",
+      "spelling": "m̄ bián huân-ló    guá sī lí ē khò-suann",
+      "source_lines": [
+        22,
+        23
+      ],
+      "parts": [
+        {
+          "text": "不免煩惱",
+          "spelling": "m̄ bián huân-ló"
+        },
+        {
+          "text": "我是你的靠山",
+          "spelling": "guá sī lí ē khò-suann"
+        }
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "不管風雨有多大                                   你是我的心肝",
+      "spelling": "m̄ kuán hong hōo ū juā-tuā            lí sī guá ê sim-kuann",
+      "source_lines": [
+        25,
+        26
+      ],
+      "parts": [
+        {
+          "text": "不管風雨有多大",
+          "spelling": "m̄ kuán hong hōo ū juā-tuā"
+        },
+        {
+          "text": "你是我的心肝",
+          "spelling": "lí sī guá ê sim-kuann"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "讓我陪伴你                                   你永遠不會孤單",
+      "spelling": "hōo guá puê-phuānn lí             lí íng-uán buē koo-tuann",
+      "source_lines": [
+        28,
+        29
+      ],
+      "parts": [
+        {
+          "text": "讓我陪伴你",
+          "spelling": "hōo guá puê-phuānn lí"
+        },
+        {
+          "text": "你永遠不會孤單",
+          "spelling": "lí íng-uán buē koo-tuann"
+        }
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "就算講海水嘛會乾                                      你也是我的心肝",
+      "spelling": "tō-sǹg kóng hái-tsuí mah ē kuann        lí iā-sī guá ê sim-kuann",
+      "source_lines": [
+        31,
+        32
+      ],
+      "parts": [
+        {
+          "text": "就算講海水嘛會乾",
+          "spelling": "tō-sǹg kóng hái-tsuí mah ē kuann"
+        },
+        {
+          "text": "你也是我的心肝",
+          "spelling": "lí iā-sī guá ê sim-kuann"
+        }
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "無人可比 一生一世                            最愛你的是我",
+      "spelling": "bô-lâng khó-pí it-sing it-sè            siōng ài lí ê sī guá",
+      "source_lines": [
+        34,
+        35
+      ],
+      "parts": [
+        {
+          "text": "無人可比 一生一世",
+          "spelling": "bô-lâng khó-pí it-sing it-sè"
+        },
+        {
+          "text": "最愛你的是我",
+          "spelling": "siōng ài lí ê sī guá"
+        }
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "嗚~嗚~~~~~~",
+      "spelling": "oo~oo~~~~~~",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "真希望能夠                   永遠甲你作伴",
+      "spelling": "tsin hi-bāng ē-tàng    íng-uán kah lí tsuè phuānn",
+      "source_lines": [
+        40,
+        41
+      ],
+      "parts": [
+        {
+          "text": "真希望能夠",
+          "spelling": "tsin hi-bāng ē-tàng"
+        },
+        {
+          "text": "永遠甲你作伴",
+          "spelling": "íng-uán kah lí tsuè phuānn"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "輕輕鬆鬆唱咱快樂的歌",
+      "spelling": "khin khin sang sang tshiùnn lán khuài-lo̍k ē kua",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "人生的路上                   總有坎坷的路愛行",
+      "spelling": "lîn-sing ē lōo-siōng    tsóng ū khám-khia̍t ē lōo ài kiânn",
+      "source_lines": [
+        46,
+        47
+      ],
+      "parts": [
+        {
+          "text": "人生的路上",
+          "spelling": "lîn-sing ē lōo-siōng"
+        },
+        {
+          "text": "總有坎坷的路愛行",
+          "spelling": "tsóng ū khám-khia̍t ē lōo ài kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "不免煩惱                 我是你的靠山",
+      "spelling": "m̄ bián huân-ló    guá sī lí ē khò-suann",
+      "source_lines": [
+        49,
+        50
+      ],
+      "parts": [
+        {
+          "text": "不免煩惱",
+          "spelling": "m̄ bián huân-ló"
+        },
+        {
+          "text": "我是你的靠山",
+          "spelling": "guá sī lí ē khò-suann"
+        }
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "不管風雨有多大                               你是我的心肝",
+      "spelling": "m̄ kuán hong hōo luā-tuā            lí sī guá ê sim-kuann",
+      "source_lines": [
+        52,
+        53
+      ],
+      "parts": [
+        {
+          "text": "不管風雨有多大",
+          "spelling": "m̄ kuán hong hōo luā-tuā"
+        },
+        {
+          "text": "你是我的心肝",
+          "spelling": "lí sī guá ê sim-kuann"
+        }
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "有我陪伴你                                   你永遠不會孤單",
+      "spelling": "hoh guá puê-phuānn lí             lí íng-uán buē koo-tuann",
+      "source_lines": [
+        55,
+        56
+      ],
+      "parts": [
+        {
+          "text": "有我陪伴你",
+          "spelling": "hoh guá puê-phuānn lí"
+        },
+        {
+          "text": "你永遠不會孤單",
+          "spelling": "lí íng-uán buē koo-tuann"
+        }
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "就算講海水嘛會乾                                      你也是我的心肝",
+      "spelling": "tō-sǹg kóng hái-tsuí mah ē kuann        lí iā-sī guá ê sim-kuann",
+      "source_lines": [
+        58,
+        59
+      ],
+      "parts": [
+        {
+          "text": "就算講海水嘛會乾",
+          "spelling": "tō-sǹg kóng hái-tsuí mah ē kuann"
+        },
+        {
+          "text": "你也是我的心肝",
+          "spelling": "lí iā-sī guá ê sim-kuann"
+        }
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "無人可比 一生一世                            最愛你的是我",
+      "spelling": "bô-lâng khó-pí it-sing it-sè            siōng ài lí ê sī guá",
+      "source_lines": [
+        61,
+        62
+      ],
+      "parts": [
+        {
+          "text": "無人可比 一生一世",
+          "spelling": "bô-lâng khó-pí it-sing it-sè"
+        },
+        {
+          "text": "最愛你的是我",
+          "spelling": "siōng ài lí ê sī guá"
+        }
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "不管風雨有多大                               你是我的心肝",
+      "spelling": "m̄ kuán hong hōo juā-tuā            lí sī guá ê sim-kuann",
+      "source_lines": [
+        64,
+        65
+      ],
+      "parts": [
+        {
+          "text": "不管風雨有多大",
+          "spelling": "m̄ kuán hong hōo juā-tuā"
+        },
+        {
+          "text": "你是我的心肝",
+          "spelling": "lí sī guá ê sim-kuann"
+        }
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "有我陪伴你                                   你永遠不會孤單",
+      "spelling": "hoh guá puê-phuānn lí             lí íng-uán buē koo-tuann",
+      "source_lines": [
+        67,
+        68
+      ],
+      "parts": [
+        {
+          "text": "有我陪伴你",
+          "spelling": "hoh guá puê-phuānn lí"
+        },
+        {
+          "text": "你永遠不會孤單",
+          "spelling": "lí íng-uán buē koo-tuann"
+        }
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "就算海水嘛會乾                                    你也是我的心肝",
+      "spelling": "tō-sǹg hái-tsuí mah ē kuann            lí iā-sī guá ê sim-kuann",
+      "source_lines": [
+        70,
+        71
+      ],
+      "parts": [
+        {
+          "text": "就算海水嘛會乾",
+          "spelling": "tō-sǹg hái-tsuí mah ē kuann"
+        },
+        {
+          "text": "你也是我的心肝",
+          "spelling": "lí iā-sī guá ê sim-kuann"
+        }
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "無人可比 一生一世                            最愛你的是我",
+      "spelling": "bô-lâng khó-pí it-sing it-sè            siōng ài lí ê sī guá",
+      "source_lines": [
+        73,
+        74
+      ],
+      "parts": [
+        {
+          "text": "無人可比 一生一世",
+          "spelling": "bô-lâng khó-pí it-sing it-sè"
+        },
+        {
+          "text": "最愛你的是我",
+          "spelling": "siōng ài lí ê sī guá"
+        }
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "無人可比 一生一世                            最愛你的是我",
+      "spelling": "bô-lâng khó-pí it-sing it-sè            siōng ài lí ê sī guá",
+      "source_lines": [
+        76,
+        77
+      ],
+      "parts": [
+        {
+          "text": "無人可比 一生一世",
+          "spelling": "bô-lâng khó-pí it-sing it-sè"
+        },
+        {
+          "text": "最愛你的是我",
+          "spelling": "siōng ài lí ê sī guá"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：伍佰/王武雄    作曲：伍佰  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:11,13",
+    "ambiguous_pair:3,5",
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

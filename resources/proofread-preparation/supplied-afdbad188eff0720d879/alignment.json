@@ -1,0 +1,551 @@
+{
+  "recording_id": "netease:461811476",
+  "timing_source": "NetEase https://music.163.com/song?id=461811476",
+  "manual_source": "User-supplied resources/lyrics-spelling/再會吧青春-男子漢樂團",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 3,
+    "exact": 13,
+    "unresolved": 12,
+    "approximate": 3,
+    "repeat": 10
+  },
+  "review_row_count": 15,
+  "unmatched_manual_ids": [
+    "line-19:0",
+    "line-22:0",
+    "line-43:0",
+    "line-46:0"
+  ],
+  "unused_repeat_ids": [
+    "line-67:0",
+    "line-91:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 张国斌 / 作曲 : 潘政宏 / 再会吧！青春-男子汉乐团",
+      "match_text": "作词 : 张国斌 / 作曲 : 潘政宏 / 再会吧！青春-男子汉乐团",
+      "text": "作词 : 张国斌 / 作曲 : 潘政宏 / 再会吧！青春-男子汉乐团",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 14.52,
+      "online_text": "词：张国斌",
+      "match_text": "词：张国斌",
+      "text": "词：张国斌",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 29.5,
+      "online_text": "曲：潘政宏",
+      "match_text": "曲：潘政宏",
+      "text": "曲：潘政宏",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 43.589,
+      "online_text": "坐着最后一班车我欲离开",
+      "match_text": "坐着最后一班车我欲离开",
+      "text": "坐著最後一班車我欲離開",
+      "spelling": "tsē-tio̍h tsuè-āu tsi̍t pan tshia guá beh lī-khui",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 54.487,
+      "online_text": "含着目屎无讲再会",
+      "match_text": "含着目屎无讲再会",
+      "text": "含著目屎無講再會",
+      "spelling": "kâm-tio̍h ba̍k-sái bô kóng tsài-huē",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 58.847,
+      "online_text": "若无成功未更转来",
+      "match_text": "若无成功未更转来",
+      "text": "若無成功未更轉來",
+      "spelling": "ná bô sîng-kong buē khah tńg-lâi",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 63.955,
+      "online_text": "车内载着异乡兮过客",
+      "match_text": "车内载着异乡兮过客",
+      "text": "車內載著異鄉兮過客",
+      "spelling": "tshia lāi tsáinn-tio̍h ī-hiong ê kuè-kheh",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 68.485,
+      "online_text": "请问恁欲位佗去",
+      "match_text": "请问恁欲位佗去",
+      "text": "請問恁欲位佗去",
+      "spelling": "tshiánn-mn̄g lín beh uī-tó khì",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 74.868,
+      "online_text": "敢是合我共款决定向前行",
+      "match_text": "敢是合我共款决定向前行",
+      "text": "敢是合我共款決定向前行",
+      "spelling": "kám sī kap guá kāng-khuán kuat-tīng hiòng-tsiân kiânn",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 84.378,
+      "online_text": "穿着正式兮西装衫",
+      "match_text": "穿着正式兮西装衫",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-19:0"
+    },
+    {
+      "source_row": 10,
+      "time": 88.92,
+      "online_text": "开始为着生活在打拼",
+      "match_text": "开始为着生活在打拼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-19:0"
+    },
+    {
+      "source_row": 11,
+      "time": 94.629,
+      "online_text": "无暝无日啊在走闯",
+      "match_text": "无暝无日啊在走闯",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-22:0"
+    },
+    {
+      "source_row": 12,
+      "time": 99.604,
+      "online_text": "心情总是起起落落",
+      "match_text": "心情总是起起落落",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-22:0"
+    },
+    {
+      "source_row": 13,
+      "time": 107.43,
+      "online_text": "来到繁华兮都市我也未惯势",
+      "match_text": "来到繁华兮都市我也未惯势",
+      "text": "來到繁華兮都市我也未慣勢",
+      "spelling": "lâi kàu huân-huâ ê too-tshī guá iā buē kuàn-sì",
+      "manual_id": "line-25:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 118.291,
+      "online_text": "举头看生份兮路灯",
+      "match_text": "举头看生份兮路灯",
+      "text": "舉頭看生份兮路燈",
+      "spelling": "gia̍h-thâu khuànn senn-hūn ê lōo-ting",
+      "manual_id": "line-28:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 122.573,
+      "online_text": "孤单寻无熟识兮气味",
+      "match_text": "孤单寻无熟识兮气味",
+      "text": "孤單尋無熟識兮氣味",
+      "spelling": "koo-tuann tshuē bô si̍k-sāi ê khì-bī",
+      "manual_id": "line-31:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 127.635,
+      "online_text": "充满了竞争欲何者面对",
+      "match_text": "充满了竞争欲何者面对",
+      "text": "充滿了競爭欲按怎面對",
+      "spelling": "tshiong-buán liáu kīng-tsing beh án-tsuánn bīn-tuì",
+      "manual_id": "line-34:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 17,
+      "time": 132.311,
+      "online_text": "请问未来置佗位",
+      "match_text": "请问未来置佗位",
+      "text": "請問未來置佗位",
+      "spelling": "tshiánn-mn̄g bī-lâi tì tó-uī",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 138.699,
+      "online_text": "诸甫囝总是爱成长啊",
+      "match_text": "诸甫囝总是爱成长啊",
+      "text": "查埔囝總是愛成長啊",
+      "spelling": "tsa-poo kiánn tsóng-sī ài sîng-tióng ah",
+      "manual_id": "line-40:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.777778
+    },
+    {
+      "source_row": 19,
+      "time": 148.448,
+      "online_text": "挈置手兮旧相片",
+      "match_text": "挈置手兮旧相片",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-43:0"
+    },
+    {
+      "source_row": 20,
+      "time": 152.218,
+      "online_text": "若亲像听到彼时兮笑声",
+      "match_text": "若亲像听到彼时兮笑声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-43:0"
+    },
+    {
+      "source_row": 21,
+      "time": 157.432,
+      "online_text": "感慨啊",
+      "match_text": "感慨啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 159.941,
+      "online_text": "时间呐",
+      "match_text": "时间呐",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-46:0"
+    },
+    {
+      "source_row": 23,
+      "time": 162.941,
+      "online_text": "哪会总是留未着青春",
+      "match_text": "哪会总是留未着青春",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-46:0"
+    },
+    {
+      "source_row": 24,
+      "time": 170.291,
+      "online_text": "过去啊咱兮梦",
+      "match_text": "过去啊咱兮梦",
+      "text": "過去啊咱兮夢",
+      "spelling": "kuè-khì ah lán ê bāng",
+      "manual_id": "line-49:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 175.364,
+      "online_text": "甭回头再会吧我兮青春",
+      "match_text": "甭回头再会吧我兮青春",
+      "text": "甭回頭再會吧我兮青春",
+      "spelling": "mái huê-thâu tsài-huē pa guá ê tshing-tshun",
+      "manual_id": "line-52:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 181.87,
+      "online_text": "思念留予月娘兮光",
+      "match_text": "思念留予月娘兮光",
+      "text": "思念留予月娘兮光",
+      "spelling": "su-liām lâu hōo gue̍h-niû ê kng",
+      "manual_id": "line-55:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 186.342,
+      "online_text": "深夜总是孤单",
+      "match_text": "深夜总是孤单",
+      "text": "深夜總是孤單",
+      "spelling": "tshim-iā tsóng-sī koo-tuann",
+      "manual_id": "line-58:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 190.73,
+      "online_text": "行着坚定兮脚步",
+      "match_text": "行着坚定兮脚步",
+      "text": "行著堅定兮腳步",
+      "spelling": "kiânn-tio̍h kian-tīng ê kha-pōo",
+      "manual_id": "line-61:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 195.905,
+      "online_text": "勇敢兮再会吧我兮青春",
+      "match_text": "勇敢兮再会吧我兮青春",
+      "text": "勇敢兮再會吧我兮青春",
+      "spelling": "ióng-kám ê tsài-huē pa guá ê tshing-tshun",
+      "manual_id": "line-64:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 201.726,
+      "online_text": "期待兮心内什么模样兮未来",
+      "match_text": "期待兮心内什么模样兮未来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 206.861,
+      "online_text": "头顶兮日头渐渐光",
+      "match_text": "头顶兮日头渐渐光",
+      "text": "頭頂兮日頭漸漸光",
+      "spelling": "thâu-tíng ê li̍t-thâu tsiām-tsiām kng",
+      "manual_id": "line-70:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 237.128,
+      "online_text": "踏着感慨兮脚步",
+      "match_text": "踏着感慨兮脚步",
+      "text": "踏著感慨兮腳步",
+      "spelling": "ta̍h-tio̍h kám-khài ê kha-pōo",
+      "manual_id": "line-73:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 242.774,
+      "online_text": "再会吧我兮青春",
+      "match_text": "再会吧我兮青春",
+      "text": "再回頭再會吧我兮青春",
+      "spelling": "tsài huê-thâu tsài-huē pa guá ê tshing-tshun",
+      "manual_id": "line-76:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.823529
+    },
+    {
+      "source_row": 34,
+      "time": 247.742,
+      "online_text": "思念留予月娘兮光",
+      "match_text": "思念留予月娘兮光",
+      "text": "思念留予月娘兮光",
+      "spelling": "su-liām lâu hōo gue̍h-niû ê kng",
+      "manual_id": "line-55:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 252.801,
+      "online_text": "深夜总是孤单",
+      "match_text": "深夜总是孤单",
+      "text": "深夜總是孤單",
+      "spelling": "tshim-iā tsóng-sī koo-tuann",
+      "manual_id": "line-58:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 257.35,
+      "online_text": "行着坚定兮脚步",
+      "match_text": "行着坚定兮脚步",
+      "text": "行著堅定兮腳步",
+      "spelling": "kiânn-tio̍h kian-tīng ê kha-pōo",
+      "manual_id": "line-61:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 262.153,
+      "online_text": "勇敢兮再会吧我兮青春",
+      "match_text": "勇敢兮再会吧我兮青春",
+      "text": "勇敢兮再會吧我兮青春",
+      "spelling": "ióng-kám ê tsài-huē pa guá ê tshing-tshun",
+      "manual_id": "line-64:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 268.18,
+      "online_text": "期待兮心内什么模样兮未来",
+      "match_text": "期待兮心内什么模样兮未来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 273.279,
+      "online_text": "头顶兮日头渐渐光",
+      "match_text": "头顶兮日头渐渐光",
+      "text": "頭頂兮日頭漸漸光",
+      "spelling": "thâu-tíng ê li̍t-thâu tsiām-tsiām kng",
+      "manual_id": "line-70:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 282.596,
+      "online_text": "渐渐光",
+      "match_text": "渐渐光",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "4bd2fee003b170a1bf4d3df54bc8d234135104ce30c2668a3ad572b78d877229",
+    "manual": "10f6a584daa31efd2a8f9088acd638a31141ab21423f7bda18165206d273b66a",
+    "timed": "015e0c5c35ed212521dd87fe8064d9eb18899c6dcc28d98b287f30d8116d188d"
+  }
+}

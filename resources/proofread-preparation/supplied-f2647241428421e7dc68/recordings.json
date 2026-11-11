@@ -1,0 +1,72 @@
+{
+  "candidates": [
+    {
+      "song_id": 248689,
+      "title": "炮仔声",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "江蕙10年‧典藏精选",
+      "duration": 287.24,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 3327736562,
+      "title": "炮仔声",
+      "artists": [
+        "林火火"
+      ],
+      "album": "鼓楼岗",
+      "duration": 295.774,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 249109,
+      "title": "炮仔声",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "爱作梦的鱼",
+      "duration": 287.24,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 28038101,
+      "title": "炮仔声",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "戏梦演唱会Live",
+      "duration": 242.04,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 160940,
+      "title": "炮仔声",
+      "artists": [
+        "翁立友"
+      ],
+      "album": "十年坚持-好胆你就来",
+      "duration": 283.866,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5249697,
+      "title": "炮仔声",
+      "artists": [
+        "吴俊宏",
+        "林良欢"
+      ],
+      "album": "对唱情歌 纸甲笔",
+      "duration": 285.893,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

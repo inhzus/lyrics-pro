@@ -1,0 +1,368 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "親愛的媽媽  請你毋通煩惱我",
+      "spelling": "tshin-ài ê má má  tshiánn lí m̄-thang huân-ló guá",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "親愛的媽媽",
+          "spelling": "tshin-ài ê má má"
+        },
+        {
+          "text": "請你毋通煩惱我",
+          "spelling": "tshiánn lí m̄-thang huân-ló guá"
+        }
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "原諒我   行袂開跤",
+      "spelling": "guân-liōng guá  kiânn buē khui-kha",
+      "source_lines": [
+        7,
+        8
+      ],
+      "parts": [
+        {
+          "text": "原諒我",
+          "spelling": "guân-liōng guá"
+        },
+        {
+          "text": "行袂開跤",
+          "spelling": "kiânn buē khui-kha"
+        }
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "我欲去對抗袂當原諒的人",
+      "spelling": "guá buē khì tuì-khòng bē-tàng guân-liōng ê lâng",
+      "source_lines": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "歹勢啦 愛人啊  袂當陪你去看電影",
+      "spelling": "pháinn-sè lah ài-lîn-á buē-tàng puê lí khì khuànn tiān-iánn",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "原諒我 行 袂開跤",
+      "spelling": "guân-liōng guá kiânn buē khui-kha",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "我欲去對抗欺負咱的人",
+      "spelling": "uá bē khì tuì-khòng khi-hū lán ê lâng",
+      "source_lines": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "天色漸漸光 遮有一陣人",
+      "spelling": "thinn-sik tsiām tsiām kng  jia ū tsi̍t tīn lâng",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "為了守護咱的夢 成做更加勇敢的人",
+      "spelling": "uī-tio̍h siú-hōo lán ê bāng  tsiânn tsuè kìng-ka ióng-kám ê lâng",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "天色漸漸光  已經不再驚惶",
+      "spelling": "thinn-sik tsiām tsiām kng  í-king put-tsài kiann-hiânn",
+      "source_lines": [
+        35,
+        36
+      ],
+      "parts": [
+        {
+          "text": "天色漸漸光",
+          "spelling": "thinn-sik tsiām tsiām kng"
+        },
+        {
+          "text": "已經不再驚惶",
+          "spelling": "í-king put-tsài kiann-hiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "現在就是彼一工   換阮做守護恁的人",
+      "spelling": "hiān tsāi tio̍h sī hit tsi̍t kang  uānn gún tsuè siú-hōo lín ê lâng",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "現在就是彼一工",
+          "spelling": "hiān tsāi tio̍h sī hit tsi̍t kang"
+        },
+        {
+          "text": "換阮做守護恁的人",
+          "spelling": "uānn gún tsuè siú-hōo lín ê lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "已經袂記哩   是第幾工   請毋通煩惱我",
+      "spelling": "í-king buē kì lih  sī tē-kuí kang  tshiánn m̄-thang huân-ló guá",
+      "source_lines": [
+        43,
+        44
+      ],
+      "parts": [
+        {
+          "text": "已經袂記哩",
+          "spelling": "í-king buē kì lih"
+        },
+        {
+          "text": "是第幾工",
+          "spelling": "sī tē-kuí kang"
+        },
+        {
+          "text": "請毋通煩惱我",
+          "spelling": "tshiánn m̄-thang huân-ló guá"
+        }
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "因為阮知影 無行過寒冬 袂有花開的彼一工",
+      "spelling": "in-uī gún tsai-iánn bô kiânn-kuè hân-tang  buē ū hue khui ê hit tsi̍t kang",
+      "source_lines": [
+        47,
+        48
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "天色漸漸光  天色漸漸光",
+      "spelling": "thinn-sik tsiām tsiām kng  thinn-sik tsiām tsiām kng",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "天色漸漸光",
+          "spelling": "thinn-sik tsiām tsiām kng"
+        },
+        {
+          "text": "天色漸漸光",
+          "spelling": "thinn-sik tsiām tsiām kng"
+        }
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "已經是更加勇敢的人",
+      "spelling": "í-king sī kìng-ka ióng-kám ê lâng",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-59",
+      "text": "天色漸漸光   咱就大聲來唱著歌",
+      "spelling": "thinn-sik tsiām tsiām kng  lán tio̍h tuā-siann lâi tshiùnn tio̍h kua",
+      "source_lines": [
+        59,
+        60
+      ],
+      "parts": [
+        {
+          "text": "天色漸漸光",
+          "spelling": "thinn-sik tsiām tsiām kng"
+        },
+        {
+          "text": "咱就大聲來唱著歌",
+          "spelling": "lán tio̍h tuā-siann lâi tshiùnn tio̍h kua"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "一直到希望的光線  照著島嶼每一個人",
+      "spelling": "it-ti̍t kàu hi-bāng ê kng-suànn    tsiáu tio̍h tó-sū muí tsi̍t ê lâng",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "一直到希望的光線",
+          "spelling": "it-ti̍t kàu hi-bāng ê kng-suànn"
+        },
+        {
+          "text": "照著島嶼每一個人",
+          "spelling": "tsiáu tio̍h tó-sū muí tsi̍t ê lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "天色漸漸光咱就大聲來唱著歌",
+      "spelling": "thinn-sik tsiām tsiām kng lán tio̍h tuā-siann lâi tshiùnn tio̍h kua",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-71",
+      "text": "日頭一(足百)上山  就會使轉去啦",
+      "spelling": "ji̍t-thâu tsi̍t pe̍h tsiūnn-suann  tio̍h ē sái tńg-khì lah",
+      "source_lines": [
+        71,
+        72
+      ],
+      "parts": [
+        {
+          "text": "日頭一(足百)上山",
+          "spelling": "ji̍t-thâu tsi̍t pe̍h tsiūnn-suann"
+        },
+        {
+          "text": "就會使轉去啦",
+          "spelling": "tio̍h ē sái tńg-khì lah"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "天色漸漸光  咱就大聲來唱著歌",
+      "spelling": "thinn-sik tsiām tsiām kng  lán tio̍h tuā-siann lâi tshiùnn tio̍h kua",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "天色漸漸光",
+          "spelling": "thinn-sik tsiām tsiām kng"
+        },
+        {
+          "text": "咱就大聲來唱著歌",
+          "spelling": "lán tio̍h tuā-siann lâi tshiùnn tio̍h kua"
+        }
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "一直到希望的光線  照著島嶼每一個人",
+      "spelling": "it-ti̍t kàu hi-bāng ê kng-suànn    tsiáu tio̍h tó-sū muí tsi̍t ê lâng",
+      "source_lines": [
+        79,
+        80
+      ],
+      "parts": [
+        {
+          "text": "一直到希望的光線",
+          "spelling": "it-ti̍t kàu hi-bāng ê kng-suànn"
+        },
+        {
+          "text": "照著島嶼每一個人",
+          "spelling": "tsiáu tio̍h tó-sū muí tsi̍t ê lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-83",
+      "text": "天色漸漸光 咱就大聲來唱著歌",
+      "spelling": "thinn-sik tsiām tsiām kng lán tio̍h tuā-siann lâi tshiùnn tio̍h kua",
+      "source_lines": [
+        83,
+        84
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "日頭一(足百)上山  就會使轉去啦",
+      "spelling": "ji̍t-thâu tsi̍t pe̍h tsiūnn-suann  tio̍h ē sái tńg-khì lah",
+      "source_lines": [
+        87,
+        88
+      ],
+      "parts": [
+        {
+          "text": "日頭一(足百)上山",
+          "spelling": "ji̍t-thâu tsi̍t pe̍h tsiūnn-suann"
+        },
+        {
+          "text": "就會使轉去啦",
+          "spelling": "tio̍h ē sái tńg-khì lah"
+        }
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "現在是彼一工 勇敢的台灣人",
+      "spelling": "hiān tsāi tio̍h sī hit tsi̍t kang ióng-kám ê tâi-uân lâng",
+      "source_lines": [
+        91,
+        92
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [
+    {
+      "line": 1,
+      "text": "Note: The English lyrics for this song were taken directly from the MV.  However, I took a few liberties with a few of the parts to make them closer to their original intended meaning."
+    }
+  ],
+  "reasons": [
+    "ambiguous_pair:13,15",
+    "ambiguous_pair:17,19",
+    "ambiguous_pair:21,23",
+    "ambiguous_pair:25,27",
+    "ambiguous_pair:29,31",
+    "ambiguous_pair:33,35",
+    "ambiguous_pair:37,39",
+    "ambiguous_pair:41,43",
+    "ambiguous_pair:45,47",
+    "ambiguous_pair:49,51",
+    "ambiguous_pair:5,7",
+    "ambiguous_pair:53,55",
+    "ambiguous_pair:57,59",
+    "ambiguous_pair:61,63",
+    "ambiguous_pair:65,67",
+    "ambiguous_pair:69,71",
+    "ambiguous_pair:73,75",
+    "ambiguous_pair:77,79",
+    "ambiguous_pair:81,83",
+    "ambiguous_pair:85,87",
+    "ambiguous_pair:89,91",
+    "ambiguous_pair:9,11",
+    "source_note_requires_review:1",
+    "unpaired_line:93"
+  ]
+}

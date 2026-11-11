@@ -1,0 +1,115 @@
+{
+  "candidates": [
+    {
+      "song_id": 157189,
+      "title": "空袭警报",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "树枝孤鸟",
+      "duration": 244.466,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1355940215,
+      "title": "空襲警報",
+      "artists": [
+        "効果音"
+      ],
+      "album": "効果音セレクション (5) アクション・スポーツ・クラブ活動",
+      "duration": 65.666,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2001015571,
+      "title": "空襲警報",
+      "artists": [
+        "効果音"
+      ],
+      "album": "【実用決定版！】効果音セレクション 3 アクション、スポーツ、場面効果、バラエティ",
+      "duration": 65.666,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2056259110,
+      "title": "空袭警报",
+      "artists": [
+        "黄飞豪"
+      ],
+      "album": "KTV总动员 21 台语流行金曲",
+      "duration": 256.56,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1892563136,
+      "title": "空袭警报",
+      "artists": [
+        "Bumper"
+      ],
+      "album": "猪迪克之蓝海奇缘",
+      "duration": 82.52,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3312151793,
+      "title": "空襲警報",
+      "artists": [
+        "SC-Mirai"
+      ],
+      "album": "サイレン ベル ブザー チャイム 警告音 警報音 2",
+      "duration": 34.354,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1811908049,
+      "title": "空襲警報",
+      "artists": [
+        "D-19"
+      ],
+      "album": "False Prophets",
+      "duration": 202.886,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2756559144,
+      "title": "空襲警報",
+      "artists": [
+        "効果音"
+      ],
+      "album": "効果音ください！― Rock'n Roll Band Kids 専用CD ―",
+      "duration": 51.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2719637033,
+      "title": "空襲警報",
+      "artists": [
+        "柴田新之助"
+      ],
+      "album": "Various Music Collection Vol.340 -Selected & Music-Published by Audiostock-",
+      "duration": 80.3,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2641072946,
+      "title": "空襲警報",
+      "artists": [
+        "柴田新之助"
+      ],
+      "album": "ソロピアノ, Vol. 179 -Instrumental BGM- by Audiostock",
+      "duration": 80.3,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

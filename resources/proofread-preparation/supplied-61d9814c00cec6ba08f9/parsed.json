@@ -1,0 +1,266 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "相招來七逃 歐兜賣騎勒趴趴走 四界迺",
+      "spelling": "sio-tsio lâi tshit tô oo-tóo-bái khiâ li̍k tà tà tsáu sì-kè se̍h",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "漂撇的青春嘟嘟好 沒煩惱",
+      "spelling": "phiau-phiat ê tshing-tshun lu̍t lu̍t hó bô huân-ló",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "妳就要甲我抱啊緊 麥囉嗦",
+      "spelling": "lí tio̍h ài kah guá phō ah ân mài lo-so",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "氣氛登勒燒 咱唱歌跳舞管太伊 蝦米寶",
+      "spelling": "khì-hun ting li̍k sio lán tshiùnn-kua thiàu-bú kuán thài i siánn-mih pó",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "鬧熱的世界有夠High 有夠好",
+      "spelling": "lāu-lia̍t ê sè-kài ū kàu High ū kàu hó",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "你唔倘太慢來作伙 風梭",
+      "spelling": "lí m̄-thàng siunn bān lâi tsò-hué hong so",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "男子漢 一身好功夫 要輕鬆找我攏有",
+      "spelling": "lâm-tsú-hàn tsi̍t sin hó kang-hu beh khin-sang tshuē guá lóng ū",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "不要哭 趕緊對我來 享受",
+      "spelling": "bùyào kū kuánn-kín tuì guá lâi hiáng-siū",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "來 鬥陣來 甲音樂 催進蹦 搖落去",
+      "spelling": "lâi tàu-tīn lâi kah im-ga̍k tshui tsìn pho̍k iô lo̍h khì",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "來 鬥陣來 搬山過嶺 快樂唱歌 趁這時",
+      "spelling": "lâi tàu-tīn lâi puann suann kuè niá khuài-lo̍k tshiùnn-kua thàn tsit-sî",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "來 鬥陣來 爽甲咱 攏失去 理智",
+      "spelling": "lâi tàu-tīn lâi sóng kah lán lóng sit-khì lí-tì",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "來 鬥陣來 心花開 談情愛 沒藥醫",
+      "spelling": "lâi tàu-tīn lâi sim hue khui tâm tsîng-ài bô io̍h i",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "沒關係",
+      "spelling": "méiguānxì",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "氣氛登勒燒 咱唱歌跳舞管太伊 蝦米寶",
+      "spelling": "khì-hun ting li̍k sio lán tshiùnn-kua thiàu-bú kuán thài i siánn-mih pó",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "鬧熱的世界有夠High 有夠好",
+      "spelling": "lāu-lia̍t ê sè-kài ū kàu High ū kàu hó",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "你唔倘太慢來作伙 風梭",
+      "spelling": "lí m̄-thàng siunn bān lâi tsò-hué hong so",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "男子漢 一身好功夫 要輕鬆找我攏有",
+      "spelling": "lâm-tsú-hàn tsi̍t sin hó kang-hu beh khin-sang tshuē guá lóng ū",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "不要哭 趕緊對我來 享受",
+      "spelling": "bùyào kū kuánn-kín tuì guá lâi hiáng-siū",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "來 鬥陣來 甲音樂 催進蹦 搖落去",
+      "spelling": "lâi tàu-tīn lâi kah im-ga̍k tshui tsìn pho̍k iô lo̍h khì",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "來 鬥陣來 搬山過嶺 快樂唱歌 趁這時",
+      "spelling": "lâi tàu-tīn lâi puann suann kuè niá khuài-lo̍k tshiùnn-kua thàn tsit-sî",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "來 鬥陣來 爽甲咱 攏失去 理智",
+      "spelling": "lâi tàu-tīn lâi sóng kah lán lóng sit-khì lí-tì",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "來 鬥陣來 心花開 談情愛 沒藥醫",
+      "spelling": "lâi tàu-tīn lâi sim hue khui tâm tsîng-ài bô io̍h i",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "沒關係",
+      "spelling": "méiguānxì",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "來 鬥陣來 甲速度 催進蹦 搖落去",
+      "spelling": "lâi tàu-tīn lâi kah sok-tōo tshui tsìn pho̍k iô lo̍h khì",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "來 鬥陣來 叫乎別人聽 越大聲 越有勇氣",
+      "spelling": "lâi tàu-tīn lâi kiò hōo pa̍t-lâng thiann lú tuā-siann lú ū ióng-khì",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "來 鬥陣來 跳甲咱 無人要 返去",
+      "spelling": "lâi tàu-tīn lâi thiàu kah lán bô-lâng buē tńg-khì",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "來 鬥陣來 心花開 談情愛 沒藥醫",
+      "spelling": "lâi tàu-tīn lâi sim hue khui tâm tsîng-ài bô io̍h i",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "喔喔喔",
+      "spelling": "ooh ooh ooh",
+      "source_lines": [
+        84,
+        85
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [
+    {
+      "line": 1,
+      "text": "Note:  Words in Italics are in Chinese."
+    }
+  ],
+  "reasons": [
+    "source_note_requires_review:1"
+  ]
+}

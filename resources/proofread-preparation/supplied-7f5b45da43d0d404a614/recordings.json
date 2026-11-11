@@ -1,0 +1,303 @@
+{
+  "candidates": [
+    {
+      "song_id": 3423462793,
+      "title": "无题",
+      "artists": [
+        "姜云升"
+      ],
+      "album": "无题",
+      "duration": 165.365,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3458376880,
+      "title": "无题",
+      "artists": [
+        "致碎"
+      ],
+      "album": "hiphop",
+      "duration": 171.744,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3430407772,
+      "title": "无题",
+      "artists": [
+        "宇宙引力"
+      ],
+      "album": "无题",
+      "duration": 139.284,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2740883223,
+      "title": "无题",
+      "artists": [
+        "陈楚生"
+      ],
+      "album": "十二乐章 第2期",
+      "duration": 265.043,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29393038,
+      "title": "无题",
+      "artists": [
+        "陈亮"
+      ],
+      "album": "无题",
+      "duration": 337.272,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1456446172,
+      "title": "无题",
+      "artists": [
+        "寸铁"
+      ],
+      "album": "近人可读",
+      "duration": 166.124,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1363093553,
+      "title": "无题",
+      "artists": [
+        "元子弹吉他"
+      ],
+      "album": "元子弹吉他【指弹合集1】",
+      "duration": 330.083,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1865377022,
+      "title": "无题",
+      "artists": [
+        "闹闹丶",
+        "洛天依"
+      ],
+      "album": "YUo",
+      "duration": 188.096,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2641367655,
+      "title": "无题",
+      "artists": [
+        "jackzebra"
+      ],
+      "album": "王中王",
+      "duration": 138.439,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 188093,
+      "title": "无题",
+      "artists": [
+        "张雨生"
+      ],
+      "album": "带我去月球",
+      "duration": 303.066,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 300207,
+      "title": "无题",
+      "artists": [
+        "王菲"
+      ],
+      "album": "Di-Dar",
+      "duration": 260.173,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3317936569,
+      "title": "无题",
+      "artists": [
+        "空城"
+      ],
+      "album": "为你",
+      "duration": 191.137,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 387452,
+      "title": "无题",
+      "artists": [
+        "未卜乐队"
+      ],
+      "album": "未卜之路",
+      "duration": 276.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3312702929,
+      "title": "无题",
+      "artists": [
+        "烂活MAKER"
+      ],
+      "album": "狐作非为",
+      "duration": 105.107,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1891783878,
+      "title": "无题",
+      "artists": [
+        "卦者灵风"
+      ],
+      "album": "无题",
+      "duration": 240.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 32046766,
+      "title": "無題",
+      "artists": [
+        "amazarashi"
+      ],
+      "album": "あまざらし 千分の一夜物語 スターライト",
+      "duration": 379.344,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2093008685,
+      "title": "无题",
+      "artists": [
+        "知行合一"
+      ],
+      "album": "知行合一",
+      "duration": 26.965,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1434948071,
+      "title": "无题",
+      "artists": [
+        "吴子健REmi"
+      ],
+      "album": "好听的音乐",
+      "duration": 225.125,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 187010,
+      "title": "无题",
+      "artists": [
+        "张雨生"
+      ],
+      "album": "如燕盘旋而来的思念",
+      "duration": 303.173,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 366544,
+      "title": "无题",
+      "artists": [
+        "梦剧院"
+      ],
+      "album": "遍雾遍雨",
+      "duration": 201.533,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 34828907,
+      "title": "无题",
+      "artists": [
+        "超级市场"
+      ],
+      "album": "有限无限",
+      "duration": 264.019,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1410745089,
+      "title": "無 題",
+      "artists": [
+        "巫娜"
+      ],
+      "album": "六有六无 (笔墨有法喜 禅悦在新声 古琴 巫娜)",
+      "duration": 253.413,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1753653081",
+      "title": "无题",
+      "artists": [
+        "拍谢少年"
+      ],
+      "album": "海口味",
+      "duration": 312.679,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1552181585",
+      "title": "无题",
+      "artists": [
+        "陆锦花"
+      ],
+      "album": "乐典:评弹——陆锦花",
+      "duration": 151.102,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1631641811",
+      "title": "無題",
+      "artists": [
+        "鳴海寛"
+      ],
+      "album": "AROUND THE THRU TRAFFIC",
+      "duration": 185.076,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1060474838",
+      "title": "无题",
+      "artists": [
+        "麦田守望者"
+      ],
+      "album": "麦田守望者",
+      "duration": 234.53,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1800405254",
+      "title": "无题",
+      "artists": [
+        "Alanya桉榄桠"
+      ],
+      "album": "中华唱诗班",
+      "duration": 124.211,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

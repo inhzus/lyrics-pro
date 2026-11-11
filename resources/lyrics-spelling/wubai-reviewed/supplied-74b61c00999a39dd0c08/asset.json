@@ -1,0 +1,731 @@
+{
+  "schema_version": 1,
+  "id": "supplied-74b61c00999a39dd0c08",
+  "revision": "1",
+  "title": "樹枝孤鳥",
+  "title_aliases": [],
+  "artist": "伍佰 & China Blue",
+  "album": "树枝孤鸟",
+  "duration": 297.36,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:157192",
+    "timing_source": "NetEase https://music.163.com/song?id=157192",
+    "manual_source": "resources/lyrics-spelling/樹枝孤鳥-伍佰",
+    "audio_verified": false,
+    "agent_review": "Explicitly reviewed supplied phrase grouping, sequence, repetitions and wording differences. Keep source words/readings; preserve every provider timestamp. No audio verification.",
+    "input_sha256": {
+      "original": "72c7c0331964e3fb988fdd70037a5d052bd53d5fd5723ef46ea8c2dace1893b8",
+      "manual": "c54d6bfca2deb8135d9c920107dd4a8450369b644f67b4d26baa1c03856aae17",
+      "timed": "bd2bdf32aa0ed7e48ab70573cfe77019e5c49a8283f654d9b2f71715d46c290f"
+    },
+    "source_spelling_notes": [
+      "Source line 49 pairs 戲弄著我…憨憨轉啊 with the earlier 欺騙著我…癡情花啊 reading. Preserved as supplied; needs pronunciation proofreading."
+    ],
+    "summary": {
+      "credit": 5,
+      "gap": 6,
+      "approximate": 14,
+      "exact": 33
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作词 : 伍佰",
+        "status": "credit",
+        "text": "作词 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 0.75,
+        "online_text": "作曲 : 伍佰",
+        "status": "credit",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 1.5,
+        "online_text": "编曲 : 伍佰 & China Blue",
+        "status": "credit",
+        "text": "编曲 : 伍佰 & China Blue",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 2.25,
+        "online_text": "制作人 : 伍佰",
+        "status": "credit",
+        "text": "制作人 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 3.0,
+        "online_text": "制作人 : 伍佰 & China Blue",
+        "status": "credit",
+        "text": "制作人 : 伍佰 & China Blue",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 4.0,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 49.886,
+        "online_text": "爱人 你是在佗位",
+        "status": "approximate",
+        "text": "愛人妳是在佗位",
+        "spelling": "ài jîn lí sī tī tó-uī",
+        "manual_id": "line-3:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 55.319,
+        "online_text": "无留着批信",
+        "status": "exact",
+        "text": "無留著批信",
+        "spelling": "bô lâu tio̍h phue-sìn",
+        "manual_id": "line-3:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 58.383,
+        "online_text": "无留半个字",
+        "status": "approximate",
+        "text": "無留半個字",
+        "spelling": "bô lâu puàn ê jī",
+        "manual_id": "line-3:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 61.471,
+        "online_text": "啊~ 爱人 无见你的面",
+        "status": "approximate",
+        "text": "啊~愛人無見妳的面",
+        "spelling": "ah~ài jîn bô kìnn lí ê bīn",
+        "manual_id": "line-6:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 67.67,
+        "online_text": "亲像风在透",
+        "status": "exact",
+        "text": "親像風在透",
+        "spelling": "tshin tshiūnn hong teh thàu",
+        "manual_id": "line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 70.687,
+        "online_text": "亲像针在揻",
+        "status": "approximate",
+        "text": "親像針在威",
+        "spelling": "tshin tshiūnn tsiam teh ui",
+        "manual_id": "line-6:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 73.849,
+        "online_text": "为何 堂堂男儿 无路用",
+        "status": "exact",
+        "text": "為何 堂堂男兒 無路用",
+        "spelling": "uī-hô tông-tông lâm-jî bô lōo iōng",
+        "manual_id": "line-9:0+line-9:1+line-9:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 77.691,
+        "online_text": "心肝全碎 太倔强",
+        "status": "exact",
+        "text": "心肝全碎 太倔強",
+        "spelling": "sim-kuann tsuân tshuì siunn khut-kiông",
+        "manual_id": "line-12:0+line-12:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 80.812,
+        "online_text": "欺骗着我 这呢熊",
+        "status": "approximate",
+        "text": "欺騙著我 著呢熊",
+        "spelling": "khi pián tio̍h guá tsiah nî hiong",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 83.89,
+        "online_text": "痴情花啊",
+        "status": "exact",
+        "text": "癡情花啊",
+        "spelling": "tshi-tsîng hue ah",
+        "manual_id": "line-15:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 87.233,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 99.403,
+        "online_text": "爱人 你是去佗位",
+        "status": "approximate",
+        "text": "愛人妳是去佗位",
+        "spelling": "ài jîn lí sī tī tó-uī",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 104.812,
+        "online_text": "无代念我情",
+        "status": "exact",
+        "text": "無代念我情",
+        "spelling": "bô tāi liām guá tsîng",
+        "manual_id": "line-18:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 107.921,
+        "online_text": "无代念我意",
+        "status": "exact",
+        "text": "無代念我意",
+        "spelling": "bô tāi liām guá ì",
+        "manual_id": "line-18:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 111.008,
+        "online_text": "啊~ 爱人 想你的香味",
+        "status": "approximate",
+        "text": "啊~愛人想妳的香味",
+        "spelling": "ah~ài jîn bô siūnn lí ê phang-bī",
+        "manual_id": "line-21:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 117.207,
+        "online_text": "望你快回头",
+        "status": "approximate",
+        "text": "望妳快回頭",
+        "spelling": "bāng lí kín huê-thâu",
+        "manual_id": "line-21:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 120.277,
+        "online_text": "转来阮身边",
+        "status": "exact",
+        "text": "轉來阮身邊",
+        "spelling": "tńg lâi gún sin-pinn",
+        "manual_id": "line-21:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 123.388,
+        "online_text": "为何 堂堂男儿 无路用",
+        "status": "exact",
+        "text": "為何                   堂堂男兒 無路用",
+        "spelling": "uī-hô                 tông-tông lâm-jî        bô lōo iōng",
+        "manual_id": "line-24:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 127.301,
+        "online_text": "心肝全碎 太倔强",
+        "status": "exact",
+        "text": "心肝全碎 太倔強",
+        "spelling": "sim-kuann tsuân tshuì siunn khut-kiông",
+        "manual_id": "line-27:0+line-27:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 130.404,
+        "online_text": "欺骗着我 这呢熊",
+        "status": "approximate",
+        "text": "欺騙著我 著呢熊",
+        "spelling": "khi-phiàn tio̍h guá ne hîm",
+        "manual_id": "line-30:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 133.463,
+        "online_text": "痴情花啊",
+        "status": "exact",
+        "text": "癡情花啊",
+        "spelling": "siunn tshi-tsîng hue ah",
+        "manual_id": "line-30:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 27,
+        "time": 136.648,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 28,
+        "time": 148.941,
+        "online_text": "爱人 你哪这酷刑",
+        "status": "approximate",
+        "text": "愛人妳哪這酷刑",
+        "spelling": "ài jîn lí ná tsia khok-hîng",
+        "manual_id": "line-33:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 29,
+        "time": 154.427,
+        "online_text": "无采我在撞",
+        "status": "exact",
+        "text": "無采我在撞",
+        "spelling": "bô tshái guá teh tōng",
+        "manual_id": "line-33:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 30,
+        "time": 157.461,
+        "online_text": "心情陇未清",
+        "status": "approximate",
+        "text": "心情隴未清",
+        "spelling": "sim-tsîng lóng buē tshing",
+        "manual_id": "line-33:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 31,
+        "time": 160.559,
+        "online_text": "啊~ 我无法度 疯疯活下去",
+        "status": "exact",
+        "text": "啊~我無法度 瘋瘋活下去",
+        "spelling": "ah~ guá bô huat-tōo siáu siáu ua̍h-lo̍h-khì",
+        "manual_id": "line-36:0+line-36:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 32,
+        "time": 166.769,
+        "online_text": "无你我会空",
+        "status": "approximate",
+        "text": "無妳我會空",
+        "spelling": "bô lí guá ē khòng",
+        "manual_id": "line-39:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 33,
+        "time": 169.877,
+        "online_text": "无你我会死",
+        "status": "approximate",
+        "text": "無妳我會死",
+        "spelling": "bô lí guá ē sí",
+        "manual_id": "line-39:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 34,
+        "time": 172.954,
+        "online_text": "为何 堂堂男儿 无路用",
+        "status": "exact",
+        "text": "為何 堂堂男兒 無路用",
+        "spelling": "uī-hô tông-tông lâm-jî bô lōo iōng",
+        "manual_id": "line-42:0+line-42:1+line-42:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 35,
+        "time": 176.81,
+        "online_text": "心肝全碎 太倔强",
+        "status": "exact",
+        "text": "心肝全碎 太倔強",
+        "spelling": "sim-kuann tsuân tshuì siunn khut-kiông",
+        "manual_id": "line-45:0+line-45:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 36,
+        "time": 179.91,
+        "online_text": "戏弄着我 这呢熊",
+        "status": "approximate",
+        "text": "戲弄著我 著呢熊",
+        "spelling": "khi pián tio̍h guá tsiah nî hiong",
+        "manual_id": "line-48:0+line-48:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 37,
+        "time": 182.996,
+        "online_text": "憨憨转啊",
+        "status": "exact",
+        "text": "憨憨轉啊",
+        "spelling": "tshi-tsîng hue ah",
+        "manual_id": "line-48:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 38,
+        "time": 186.188,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 39,
+        "time": 198.499,
+        "online_text": "树枝孤鸟",
+        "status": "exact",
+        "text": "樹枝孤鳥",
+        "spelling": "tshiū-ki koo-tsiáu",
+        "manual_id": "line-51:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 40,
+        "time": 204.712,
+        "online_text": "树枝孤鸟",
+        "status": "exact",
+        "text": "樹枝孤鳥",
+        "spelling": "tshiū-ki koo-tsiáu",
+        "manual_id": "line-51:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 41,
+        "time": 210.906,
+        "online_text": "树枝孤鸟",
+        "status": "exact",
+        "text": "樹枝孤鳥",
+        "spelling": "tshiū-ki koo-tsiáu",
+        "manual_id": "line-54:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 42,
+        "time": 217.101,
+        "online_text": "树枝孤鸟",
+        "status": "exact",
+        "text": "樹枝孤鳥",
+        "spelling": "tshiū-ki koo-tsiáu",
+        "manual_id": "line-54:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 43,
+        "time": 225.615,
+        "online_text": "偷偷在哭",
+        "status": "exact",
+        "text": "偷偷在哭",
+        "spelling": "thau-thau-á háu",
+        "manual_id": "line-57:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 44,
+        "time": 229.514,
+        "online_text": "堂堂男儿",
+        "status": "exact",
+        "text": "堂堂男兒",
+        "spelling": "tông-tông lâm-jî",
+        "manual_id": "line-60:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 45,
+        "time": 232.618,
+        "online_text": "心肝全碎",
+        "status": "exact",
+        "text": "心肝全碎",
+        "spelling": "sim-kuann tsuân tshuì",
+        "manual_id": "line-60:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 46,
+        "time": 235.665,
+        "online_text": "欺骗着我",
+        "status": "exact",
+        "text": "欺騙著我",
+        "spelling": "khi pián tio̍h guá",
+        "manual_id": "line-63:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 47,
+        "time": 238.756,
+        "online_text": "痴情花啊",
+        "status": "exact",
+        "text": "癡情花啊",
+        "spelling": "tshi-tsîng hue ah",
+        "manual_id": "line-63:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 48,
+        "time": 241.926,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 49,
+        "time": 244.92,
+        "online_text": "我哪会安呢生",
+        "status": "exact",
+        "text": "我哪會安呢生",
+        "spelling": "guá ná ē an neh senn",
+        "manual_id": "line-66:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 50,
+        "time": 248.002,
+        "online_text": "我哪会安呢生",
+        "status": "exact",
+        "text": "我哪會安呢生",
+        "spelling": "guá ná ē an neh senn",
+        "manual_id": "line-66:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 51,
+        "time": 251.195,
+        "online_text": "我哪会安呢生",
+        "status": "exact",
+        "text": "我哪會安呢生",
+        "spelling": "guá ná ē an neh senn",
+        "manual_id": "line-66:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 52,
+        "time": 254.214,
+        "online_text": "我哪会安呢生",
+        "status": "exact",
+        "text": "我哪會安呢生",
+        "spelling": "guá ná ē an neh senn",
+        "manual_id": "line-66:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 53,
+        "time": 257.338,
+        "online_text": "我哪会安呢生",
+        "status": "exact",
+        "text": "我哪會安呢生",
+        "spelling": "guá ná ē an neh senn",
+        "manual_id": "line-66:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 54,
+        "time": 260.448,
+        "online_text": "我哪会安呢生",
+        "status": "exact",
+        "text": "我哪會安呢生",
+        "spelling": "guá ná ē an neh senn",
+        "manual_id": "line-66:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 55,
+        "time": 263.501,
+        "online_text": "我哪会安呢生",
+        "status": "exact",
+        "text": "我哪會安呢生",
+        "spelling": "guá ná ē an neh senn",
+        "manual_id": "line-66:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 56,
+        "time": 266.551,
+        "online_text": "我哪会安呢生",
+        "status": "exact",
+        "text": "我哪會安呢生",
+        "spelling": "guá ná ē an neh senn",
+        "manual_id": "line-66:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 57,
+        "time": 269.738,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

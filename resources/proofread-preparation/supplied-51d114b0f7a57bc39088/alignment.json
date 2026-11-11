@@ -1,0 +1,454 @@
+{
+  "recording_id": "lrclib:13889850",
+  "timing_source": "LRCLIB https://lrclib.net/api/get/13889850",
+  "manual_source": "User-supplied resources/lyrics-spelling/糞埽人-陳建瑋",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "exact": 11,
+    "approximate": 6,
+    "unresolved": 9,
+    "repeat": 3,
+    "gap": 1
+  },
+  "review_row_count": 26,
+  "unmatched_manual_ids": [
+    "line-61:0"
+  ],
+  "unused_repeat_ids": [
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0",
+    "line-88:0",
+    "line-91:0",
+    "line-94:0",
+    "line-97:0",
+    "line-100:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 16.65,
+      "online_text": "歹銅舊錫糞埽緊來抨 分予好 愛環保",
+      "match_text": "歹銅舊錫糞埽緊來抨 分予好 愛環保",
+      "text": "歹銅舊錫糞埽緊來抨 分予好 愛環保",
+      "spelling": "pháinn tâng kū siah pùn-sò kín lâi piann hun hōo hó ài khuân-pó",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 24.88,
+      "online_text": "會害人的糞埽緊來抨 詳細看 歸大車",
+      "match_text": "會害人的糞埽緊來抨 詳細看 歸大車",
+      "text": "會害人的糞埽緊來抨 詳細看 啊規大車",
+      "spelling": "ē hāi-lâng ê pùn-sò kín lâi piann siông-sè khuànn ah kui tuā-tshia",
+      "manual_id": "line-4:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.903226
+    },
+    {
+      "source_row": 2,
+      "time": 32.74,
+      "online_text": "人 變糞掃 啥情形 看未曉",
+      "match_text": "人 變糞掃 啥情形 看未曉",
+      "text": "人 變糞埽 啥情形 看袂曉",
+      "spelling": "lâng piàn pùn-sò siánn tsîng-hîng khuànn-buē-hiáu",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 3,
+      "time": 40.62,
+      "online_text": "路 攏伊行 挖空予別人跳家己快活",
+      "match_text": "路 攏伊行 挖空予別人跳家己快活",
+      "text": "路 攏伊行 挖空予別人跳家己快活",
+      "spelling": "lōo lóng i kiânn óo-khang hōo pa̍t-lâng thiàu ka-kī khuìnn-ua̍h",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 48.42,
+      "online_text": "規身軀攏糞埽的人 生做緣投 喙夭壽刁 腹內頭殼規組害了了",
+      "match_text": "規身軀攏糞埽的人 生做緣投 喙夭壽刁 腹內頭殼規組害了了",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 56.18,
+      "online_text": "人前人後溫柔善良 假仙假怪 攏伊上敖 皮一剝開敢會看口",
+      "match_text": "人前人後溫柔善良 假仙假怪 攏伊上敖 皮一剝開敢會看口",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 64.07,
+      "online_text": "惡質擱假敖 好笑 無人擋會牢",
+      "match_text": "惡質擱假敖 好笑 無人擋會牢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 72.14,
+      "online_text": "磕著伊連鞭隨無命 這款糞埽猶毋緊來抨",
+      "match_text": "磕著伊連鞭隨無命 這款糞埽猶毋緊來抨",
+      "text": "磕著伊連鞭隨無命 這款糞埽猶毋緊來抨",
+      "spelling": "kha̍p-tio̍h i liâm-mi suî bô-miā tsit-khuán pùn-sò iáu m̄-kín lâi piann",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 94.56,
+      "online_text": "奧的壞的糞埽緊來抨 烏心肝 假清芳",
+      "match_text": "奧的壞的糞埽緊來抨 烏心肝 假清芳",
+      "text": "漚的歹的糞埽緊來抨 烏心肝 假清芳",
+      "spelling": "au ê pháinn ê pùn-sò kín lâi piann oo sim-kuann ké tshing-phang",
+      "manual_id": "line-31:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.866667
+    },
+    {
+      "source_row": 9,
+      "time": 102.85,
+      "online_text": "無情無義糞埽緊來抨 愛小心 歹物仔",
+      "match_text": "無情無義糞埽緊來抨 愛小心 歹物仔",
+      "text": "無情無義糞埽緊來抨 愛小心 遐的歹物仔",
+      "spelling": "bô-tsîng-bô-gī pùn-sò kín lâi phinn ài sió-sim hiâ-ê pháinn mi̍h-á",
+      "manual_id": "line-34:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.9375
+    },
+    {
+      "source_row": 10,
+      "time": 110.24,
+      "online_text": "吃 攏全毒 爽自己 死別人",
+      "match_text": "吃 攏全毒 爽自己 死別人",
+      "text": "食 攏全毒 爽家己 死別人",
+      "spelling": "tsia̍h lóng tsuân to̍k sóng ka-kī sí pa̍t-lâng",
+      "manual_id": "line-37:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 11,
+      "time": 118.1,
+      "online_text": "騙 哪有騙 伊講這是為著台灣打拼",
+      "match_text": "騙 哪有騙 伊講這是為著台灣打拼",
+      "text": "騙 猶有騙 伊講這是為著台灣拍拼",
+      "spelling": "pián iá ū pián i kóng tsit sī uī-tio̍h Tâi-uân phah-piànn",
+      "manual_id": "line-40:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 12,
+      "time": 125.66,
+      "online_text": "規身軀攏糞埽的人 生做緣投 喙夭壽刁 腹內頭殼規組害了了",
+      "match_text": "規身軀攏糞埽的人 生做緣投 喙夭壽刁 腹內頭殼規組害了了",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 133.51,
+      "online_text": "人前人後溫柔善良 假仙假怪 攏伊上敖 皮一剝開敢會看口",
+      "match_text": "人前人後溫柔善良 假仙假怪 攏伊上敖 皮一剝開敢會看口",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 140.98,
+      "online_text": "惡質擱假敖 好笑 無人擋會牢",
+      "match_text": "惡質擱假敖 好笑 無人擋會牢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 149.53,
+      "online_text": "磕著伊連鞭隨無命 這款糞埽猶毋緊來抨",
+      "match_text": "磕著伊連鞭隨無命 這款糞埽猶毋緊來抨",
+      "text": "磕著伊連鞭隨無命 這款糞埽猶毋緊來抨",
+      "spelling": "kha̍p-tio̍h i liâm-mi suî bô-miā tsit-khuán pùn-sò iáu m̄-kín lâi piann",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 157.38,
+      "online_text": "『今仔日欲共逐家 介紹 啥物是 糞埽人",
+      "match_text": "『今仔日欲共逐家 介紹 啥物是 糞埽人",
+      "text": "今仔日欲共逐家 介紹 啥物是 糞埽人",
+      "spelling": "kin-á-li̍t bē kāng ta̍k-ke kài-siāu siánn-mih sī pùn-sò lâng",
+      "manual_id": "line-64:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 160.42,
+      "online_text": "糞埽的糞 糞埽的埽 歹人的人",
+      "match_text": "糞埽的糞 糞埽的埽 歹人的人",
+      "text": "糞埽的糞 糞埽的埽 歹人的人",
+      "spelling": "pùn-sò ê pùn pùn-sò ê sò pháinn lâng ê lâng",
+      "manual_id": "line-67:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 162.54,
+      "online_text": "來 逐家念一遍 啊 糞埽人",
+      "match_text": "來 逐家念一遍 啊 糞埽人",
+      "text": "來 逐家念一遍 啊 糞埽人",
+      "spelling": "lâi ta̍k-ke liām tsi̍t piàn ah pùn-sò lâng",
+      "manual_id": "line-70:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 164.42,
+      "online_text": "這個糞埽人呢 就是無血無淚屎無心肝",
+      "match_text": "這個糞埽人呢 就是無血無淚屎無心肝",
+      "text": "這個糞埽人呢 就是無血無淚屎無心肝",
+      "spelling": "tsit-ê pùn-sò lâng ne tio̍h-sī bô-hueh bô-ba̍k-sái bô-sim-kuann",
+      "manual_id": "line-73:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 167.11,
+      "online_text": "凡事蹧躂人 閣創空縫",
+      "match_text": "凡事蹧躂人 閣創空縫",
+      "text": "凡事蹧躂人 閣創空縫",
+      "spelling": "huân-sū tsau-that lâng koh tshong khang-phāng",
+      "manual_id": "line-76:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 169.56,
+      "online_text": "以後若拄著這號人 應該按怎",
+      "match_text": "以後若拄著這號人 應該按怎",
+      "text": "以後若拄著這號人 應該按怎",
+      "spelling": "í-āu ná tú-tio̍h tsit-hō lâng ing-kai án-tsuánn",
+      "manual_id": "line-79:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 171.56,
+      "online_text": "啊 緊來抨",
+      "match_text": "啊 緊來抨",
+      "text": "啊 緊來抨",
+      "spelling": "ah kín lâi piann",
+      "manual_id": "line-82:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 173.55,
+      "online_text": "啊 糞埽人』",
+      "match_text": "啊 糞埽人』",
+      "text": "啊 糞埽人",
+      "spelling": "ah pùn-sò lâng",
+      "manual_id": "line-85:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 186.81,
+      "online_text": "規身軀攏糞埽的人 生做緣投 喙夭壽刁 腹內頭殼規組害了了",
+      "match_text": "規身軀攏糞埽的人 生做緣投 喙夭壽刁 腹內頭殼規組害了了",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 195.47,
+      "online_text": "人前人後溫柔善良 假仙假怪 攏伊上敖 皮一剝開敢會看口",
+      "match_text": "人前人後溫柔善良 假仙假怪 攏伊上敖 皮一剝開敢會看口",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 203.22,
+      "online_text": "惡質擱假敖 好笑 無人擋會牢",
+      "match_text": "惡質擱假敖 好笑 無人擋會牢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 211.49,
+      "online_text": "磕著伊連鞭隨無命 這款糞埽猶毋緊來抨",
+      "match_text": "磕著伊連鞭隨無命 這款糞埽猶毋緊來抨",
+      "text": "磕著伊連鞭隨無命 這款糞埽猶毋緊來抨",
+      "spelling": "kha̍p-tio̍h i liâm-mi suî bô-miā tsit-khuán pùn-sò iáu m̄-kín lâi piann",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 222.33,
+      "online_text": "hey 彼個 糞埽人 oh hey伊就是糞埽人",
+      "match_text": "hey 彼個 糞埽人 oh hey伊就是糞埽人",
+      "text": "hey 彼個 糞埽人 oh hey 伊就是糞埽人",
+      "spelling": "hey hit-ê pùn-sò lâng oh hey i tio̍h-sī pùn-sò lâng",
+      "manual_id": "line-106:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 233.62,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "2fedac0dc88db93288d2a7037e27ff4b17986c4b2c37534be9e139bd64743840",
+    "manual": "3c3a0d176c84f83fde087ddfe7d04afcbc315eefaa9b323048e1225012b44bcb",
+    "timed": "32c96e740fb5e2c5c9587914d65743d5c1ddce388aef8c82a67c6e6401d29135"
+  }
+}

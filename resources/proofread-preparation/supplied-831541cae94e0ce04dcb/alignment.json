@@ -1,0 +1,1013 @@
+{
+  "recording_id": "netease:168373",
+  "timing_source": "NetEase https://music.163.com/song?id=168373",
+  "manual_source": "User-supplied resources/lyrics-spelling/唱歌乎恁聽-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "gap": 15,
+    "unresolved": 46,
+    "exact": 7,
+    "repeat": 2,
+    "approximate": 4
+  },
+  "review_row_count": 50,
+  "unmatched_manual_ids": [
+    "line-9:0",
+    "line-12:0",
+    "line-21:0",
+    "line-39:0",
+    "line-60:0",
+    "line-102:0"
+  ],
+  "unused_repeat_ids": [
+    "line-24:0",
+    "line-27:0",
+    "line-30:0",
+    "line-33:0",
+    "line-36:0",
+    "line-63:0",
+    "line-66:0",
+    "line-69:0",
+    "line-72:0",
+    "line-75:0",
+    "line-87:0",
+    "line-90:0",
+    "line-93:0",
+    "line-96:0",
+    "line-99:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 萧煌奇",
+      "match_text": "作词 : 萧煌奇",
+      "text": "作词 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 0.02,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 0.05,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 14.0,
+      "online_text": "带你心飞",
+      "match_text": "带你心飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 19.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 20.64,
+      "online_text": "对我会晓弹吉他到今嘛",
+      "match_text": "对我会晓弹吉他到今嘛",
+      "text": "對我會曉彈吉他到今嘛",
+      "spelling": "tuì guá ē-hiáu tuânn gì-tà kàu tsit-má",
+      "manual_id": "line-3:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 27.24,
+      "online_text": "唱歌来乎人听嘛欲归十年啦",
+      "match_text": "唱歌来乎人听嘛欲归十年啦",
+      "text": "唱歌來乎人聽　嘛欲歸十年啦",
+      "spelling": "tshiùnn-kua lâi hōo lâng thiann mā beh kui tsa̍p nî là",
+      "manual_id": "line-6:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 34.14,
+      "online_text": "对什么拢无的囝仔",
+      "match_text": "对什么拢无的囝仔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-9:0"
+    },
+    {
+      "source_row": 8,
+      "time": 37.38,
+      "online_text": "变成一个受尽风霜的大人",
+      "match_text": "变成一个受尽风霜的大人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-9:0"
+    },
+    {
+      "source_row": 9,
+      "time": 40.86,
+      "online_text": "置咧舞台上表演乎人看",
+      "match_text": "置咧舞台上表演乎人看",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-12:0"
+    },
+    {
+      "source_row": 10,
+      "time": 44.35,
+      "online_text": "接受恁的扑仔声",
+      "match_text": "接受恁的扑仔声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-12:0"
+    },
+    {
+      "source_row": 11,
+      "time": 47.15,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 12,
+      "time": 47.85,
+      "online_text": "啊不知经过外多风风雨雨的生活",
+      "match_text": "啊不知经过外多风风雨雨的生活",
+      "text": "啊不知經過外多風風雨雨的生活",
+      "spelling": "ah m̄ tsai king-kuè guā tsuē hong-hong-ú-ú ê sing-ua̍h",
+      "manual_id": "line-15:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 54.65,
+      "online_text": "啊不管别人安怎甲阮看",
+      "match_text": "啊不管别人安怎甲阮看",
+      "text": "啊不管別人安怎甲阮看",
+      "spelling": "ah m̄ kuán pa̍t-lâng an-tsuánn kā gún khuànn",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 58.05,
+      "online_text": "只要阮会当唱歌",
+      "match_text": "只要阮会当唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-21:0"
+    },
+    {
+      "source_row": 15,
+      "time": 60.54,
+      "online_text": "伊就是阮的性命",
+      "match_text": "伊就是阮的性命",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-21:0"
+    },
+    {
+      "source_row": 16,
+      "time": 65.8,
+      "online_text": "啊～　啊～　啊～",
+      "match_text": "啊～　啊～　啊～",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 75.15,
+      "online_text": "阮欲唱甲尚大声",
+      "match_text": "阮欲唱甲尚大声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 78.7,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 19,
+      "time": 79.4,
+      "online_text": "我欲来唱歌",
+      "match_text": "我欲来唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 82.03,
+      "online_text": "虽然这条路是很歹行",
+      "match_text": "虽然这条路是很歹行",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 85.71,
+      "online_text": "只要咱唱甲尚大声",
+      "match_text": "只要咱唱甲尚大声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 88.23,
+      "online_text": "什么拢嘛呒免惊",
+      "match_text": "什么拢嘛呒免惊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 91.62,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 24,
+      "time": 92.87,
+      "online_text": "我欲来唱歌",
+      "match_text": "我欲来唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 95.51,
+      "online_text": "呒管是出名抑是袂出名",
+      "match_text": "呒管是出名抑是袂出名",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 99.25,
+      "online_text": "只要咱唱甲尚大声",
+      "match_text": "只要咱唱甲尚大声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 101.92,
+      "online_text": "天地拢嘛会知影",
+      "match_text": "天地拢嘛会知影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 105.19,
+      "online_text": "嘛会甲阮疼",
+      "match_text": "嘛会甲阮疼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 110.2,
+      "online_text": "啊～　啊～　啊～",
+      "match_text": "啊～　啊～　啊～",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-39:0"
+    },
+    {
+      "source_row": 30,
+      "time": 119.84,
+      "online_text": "阮欲唱歌",
+      "match_text": "阮欲唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-39:0"
+    },
+    {
+      "source_row": 31,
+      "time": 125.81,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 32,
+      "time": 128.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 33,
+      "time": 136.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 34,
+      "time": 137.03,
+      "online_text": "细汉甲爸爸妈妈殷咧学念歌",
+      "match_text": "细汉甲爸爸妈妈殷咧学念歌",
+      "text": "細漢甲爸爸媽媽殷咧學唸歌",
+      "spelling": "sè-hàn kā pā-pā-má-mah in leh o̍h liām kua",
+      "manual_id": "line-42:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.916667
+    },
+    {
+      "source_row": 35,
+      "time": 144.22,
+      "online_text": "大汉去pub西餐厅表演乎人看",
+      "match_text": "大汉去pub西餐厅表演乎人看",
+      "text": "大漢去 pub 西餐廳表演乎人看",
+      "spelling": "tuā-hàn khì pub se tshan-thiann piáu-ián hōo lâng khuànn",
+      "manual_id": "line-45:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 150.91,
+      "online_text": "对日本时代的歌唱甲今嘛",
+      "match_text": "对日本时代的歌唱甲今嘛",
+      "text": "對日本時代的歌唱甲今嘛",
+      "spelling": "tuì li̍t-pún sî-tāi ê kua tshiùnn kā tsit-má",
+      "manual_id": "line-48:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 157.69,
+      "online_text": "对别人的歌唱甲自己的心声",
+      "match_text": "对别人的歌唱甲自己的心声",
+      "text": "對唱別人的歌唱甲自己的心聲",
+      "spelling": "tuì tshiùnn pa̍t-lâng ê kua tshiùnn kā ka-kī ê sim-siann",
+      "manual_id": "line-51:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.96
+    },
+    {
+      "source_row": 38,
+      "time": 163.49,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 39,
+      "time": 164.3,
+      "online_text": "啊不知经过外多风风雨雨的拖磨",
+      "match_text": "啊不知经过外多风风雨雨的拖磨",
+      "text": "啊不知經過外多風風雨雨的拖磨",
+      "spelling": "ah m̄ tsai king-kuè guā tsuē hong-hong-ú-ú ê thua-buà",
+      "manual_id": "line-54:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 171.12,
+      "online_text": "啊不管别人安怎甲阮看",
+      "match_text": "啊不管别人安怎甲阮看",
+      "text": "啊不管別人安怎甲阮看",
+      "spelling": "ah m̄ kuán pa̍t-lâng an-tsuánn kā gún khuànn",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 41,
+      "time": 174.68,
+      "online_text": "只要阮认真唱歌",
+      "match_text": "只要阮认真唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-60:0"
+    },
+    {
+      "source_row": 42,
+      "time": 177.13,
+      "online_text": "伊就是阮的性命",
+      "match_text": "伊就是阮的性命",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-60:0"
+    },
+    {
+      "source_row": 43,
+      "time": 181.8,
+      "online_text": "啊～　啊～　啊～",
+      "match_text": "啊～　啊～　啊～",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 192.04,
+      "online_text": "阮欲唱甲尚大声",
+      "match_text": "阮欲唱甲尚大声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 195.3,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 46,
+      "time": 196.0,
+      "online_text": "我欲来唱歌",
+      "match_text": "我欲来唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 198.4,
+      "online_text": "虽然这条路是很歹行",
+      "match_text": "虽然这条路是很歹行",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 48,
+      "time": 202.2,
+      "online_text": "只要咱唱甲尚大声",
+      "match_text": "只要咱唱甲尚大声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 49,
+      "time": 204.8,
+      "online_text": "什么拢嘛呒免惊",
+      "match_text": "什么拢嘛呒免惊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 50,
+      "time": 208.14,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 51,
+      "time": 209.38,
+      "online_text": "我欲来唱歌",
+      "match_text": "我欲来唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 52,
+      "time": 212.02,
+      "online_text": "呒管是出名抑是袂出名",
+      "match_text": "呒管是出名抑是袂出名",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 53,
+      "time": 215.98,
+      "online_text": "只要咱唱甲尚大声",
+      "match_text": "只要咱唱甲尚大声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 54,
+      "time": 218.47,
+      "online_text": "天地拢嘛会知影",
+      "match_text": "天地拢嘛会知影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 55,
+      "time": 221.94,
+      "online_text": "嘛会甲阮疼",
+      "match_text": "嘛会甲阮疼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 56,
+      "time": 226.24,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 57,
+      "time": 226.94,
+      "online_text": "虽然这个社会黑暗路歹行",
+      "match_text": "虽然这个社会黑暗路歹行",
+      "text": "雖然這個社會黑暗路歹行",
+      "spelling": "sui-liân tsit-ê siā-huē oo-àm lōo pháinn-kiânn",
+      "manual_id": "line-78:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 58,
+      "time": 233.44,
+      "online_text": "但是阮会认真用 斟酌听",
+      "match_text": "但是阮会认真用 斟酌听",
+      "text": "但是阮會認真用心　斟酌聽",
+      "spelling": "tān-sī gún ē līn-tsin iōng-sim tsim-tsiok thiann",
+      "manual_id": "line-81:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.952381
+    },
+    {
+      "source_row": 59,
+      "time": 240.27,
+      "online_text": "有你甲阮逗阵陪伴 永远袂孤单",
+      "match_text": "有你甲阮逗阵陪伴 永远袂孤单",
+      "text": "有你甲阮逗陣陪伴　永遠袂孤單",
+      "spelling": "ū lí kā gún tàu-tīn puê-phuānn íng-uán buē koo-tuann",
+      "manual_id": "line-84:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 60,
+      "time": 246.37,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 61,
+      "time": 247.2,
+      "online_text": "我欲来唱歌",
+      "match_text": "我欲来唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 62,
+      "time": 249.83,
+      "online_text": "虽然这条路是很歹行",
+      "match_text": "虽然这条路是很歹行",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 63,
+      "time": 253.72,
+      "online_text": "只要咱唱甲尚大声",
+      "match_text": "只要咱唱甲尚大声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 64,
+      "time": 256.28,
+      "online_text": "什么拢嘛呒免惊",
+      "match_text": "什么拢嘛呒免惊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 65,
+      "time": 259.2,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 66,
+      "time": 260.83,
+      "online_text": "我欲来唱歌",
+      "match_text": "我欲来唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 67,
+      "time": 263.45,
+      "online_text": "呒管是出名抑是袂出名",
+      "match_text": "呒管是出名抑是袂出名",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 68,
+      "time": 267.3,
+      "online_text": "只要咱唱甲尚大声",
+      "match_text": "只要咱唱甲尚大声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 69,
+      "time": 269.92,
+      "online_text": "天地拢嘛会知影",
+      "match_text": "天地拢嘛会知影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 70,
+      "time": 273.28,
+      "online_text": "嘛会甲阮疼",
+      "match_text": "嘛会甲阮疼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 71,
+      "time": 278.2,
+      "online_text": "啊～　啊～　啊～",
+      "match_text": "啊～　啊～　啊～",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 72,
+      "time": 287.81,
+      "online_text": "阮欲唱歌",
+      "match_text": "阮欲唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 73,
+      "time": 291.89,
+      "online_text": "啊～　啊～　啊～",
+      "match_text": "啊～　啊～　啊～",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-102:0"
+    },
+    {
+      "source_row": 74,
+      "time": 301.4,
+      "online_text": "唱歌乎恁听",
+      "match_text": "唱歌乎恁听",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-102:0"
+    },
+    {
+      "source_row": 75,
+      "time": 309.39,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "5f1012ab7a918812c160e1cc1d8c2201327bbd2835743dde3bbd133c1d01ec35",
+    "manual": "4ba6b990d15d8c45468f9c370d2680562ec056da42e7f57fa1f63bf44ceaf062",
+    "timed": "09a505277a3f36e0130e6578e7e3853ef41f550451b59ece7a897f561c085db6"
+  }
+}

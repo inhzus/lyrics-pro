@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": "1620827203",
+    "title": "黑鸟",
+    "artists": [
+      "陈建玮"
+    ],
+    "album": "古伦美亚",
+    "duration": 272.14,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1620827203",
+      "duration": 272.14,
+      "ready": false,
+      "coverage": 0.15789473684210525,
+      "exact_fraction": 0.14473684210526316,
+      "summary": {
+        "unresolved": 64,
+        "repeat": 6,
+        "exact": 5,
+        "approximate": 1
+      }
+    }
+  ]
+}

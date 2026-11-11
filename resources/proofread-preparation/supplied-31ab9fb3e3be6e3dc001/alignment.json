@@ -1,0 +1,704 @@
+{
+  "recording_id": "netease:168250",
+  "timing_source": "NetEase https://music.163.com/song?id=168250",
+  "manual_source": "User-supplied resources/lyrics-spelling/情路無尾巷-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 45,
+    "repeat": 2
+  },
+  "review_row_count": 45,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0",
+    "line-58:0",
+    "line-64:0",
+    "line-67:0",
+    "line-70:0",
+    "line-73:0",
+    "line-76:0",
+    "line-79:0",
+    "line-82:0",
+    "line-85:0",
+    "line-88:0",
+    "line-91:0",
+    "line-94:0",
+    "line-97:0",
+    "line-100:0",
+    "line-103:0",
+    "line-106:0",
+    "line-109:0",
+    "line-112:0",
+    "line-115:0",
+    "line-118:0",
+    "line-121:0",
+    "line-124:0",
+    "line-127:0",
+    "line-130:0",
+    "line-133:0",
+    "line-136:0",
+    "line-139:0",
+    "line-142:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 施立",
+      "match_text": "作词 : 施立",
+      "text": "作词 : 施立",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 18.71,
+      "online_text": "敢会当莫来问 我的过去",
+      "match_text": "敢会当莫来问 我的过去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 21.95,
+      "online_text": "过去的无聊的梦 无记忆",
+      "match_text": "过去的无聊的梦 无记忆",
+      "text": "過去的 無聊的夢 無記憶",
+      "spelling": "kuè-khì ê bô-liâu ê bāng bô kì-ik",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 27.05,
+      "online_text": "啉一杯无糖咖啡 我敬汝",
+      "match_text": "啉一杯无糖咖啡 我敬汝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 30.41,
+      "online_text": "爱情 随侬 滋味",
+      "match_text": "爱情 随侬 滋味",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 35.82,
+      "online_text": "上惊是三更半暝睏袂去",
+      "match_text": "上惊是三更半暝睏袂去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 39.35,
+      "online_text": "绵绵的旧情 犹原浮伫眼前",
+      "match_text": "绵绵的旧情 犹原浮伫眼前",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 44.06,
+      "online_text": "汝踮我的身边 窗外雨水声音是空",
+      "match_text": "汝踮我的身边 窗外雨水声音是空",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 52.13,
+      "online_text": "爱过的侬 斟酌听",
+      "match_text": "爱过的侬 斟酌听",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 55.77,
+      "online_text": "孤单是多情侬 心内的疼",
+      "match_text": "孤单是多情侬 心内的疼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 60.8,
+      "online_text": "原谅我也毋敢望",
+      "match_text": "原谅我也毋敢望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 64.42,
+      "online_text": "明明汝爱我 将汝当做是过路的侬",
+      "match_text": "明明汝爱我 将汝当做是过路的侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 70.83,
+      "online_text": "汝爱的侬 伊毋是无情侬",
+      "match_text": "汝爱的侬 伊毋是无情侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 74.24,
+      "online_text": "伊只是毋敢行过 情路无尾巷",
+      "match_text": "伊只是毋敢行过 情路无尾巷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 78.69,
+      "online_text": "感情予伊一侬 爱遘无酒也茫茫",
+      "match_text": "感情予伊一侬 爱遘无酒也茫茫",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 83.73,
+      "online_text": "头前是乌暗 越头也无望",
+      "match_text": "头前是乌暗 越头也无望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 88.46,
+      "online_text": "汝爱的侬 看破做无情侬",
+      "match_text": "汝爱的侬 看破做无情侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 91.91,
+      "online_text": "毋愿佫再来行过 情路无尾巷",
+      "match_text": "毋愿佫再来行过 情路无尾巷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 96.27,
+      "online_text": "感情莫看遐重 有缘感谢汝陪伴",
+      "match_text": "感情莫看遐重 有缘感谢汝陪伴",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 101.18,
+      "online_text": "幸福有来过 只是袂当到永远",
+      "match_text": "幸福有来过 只是袂当到永远",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 127.77,
+      "online_text": "敢会当莫来问 我的过去",
+      "match_text": "敢会当莫来问 我的过去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 131.09,
+      "online_text": "过去的无聊的梦 无记忆",
+      "match_text": "过去的无聊的梦 无记忆",
+      "text": "過去的 無聊的夢 無記憶",
+      "spelling": "kuè-khì ê bô-liâu ê bāng bô kì-ik",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 136.65,
+      "online_text": "啉一杯无糖咖啡 我敬汝",
+      "match_text": "啉一杯无糖咖啡 我敬汝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 139.72,
+      "online_text": "爱情 随侬 滋味",
+      "match_text": "爱情 随侬 滋味",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 145.02,
+      "online_text": "上惊是三更半暝睏袂去",
+      "match_text": "上惊是三更半暝睏袂去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 148.38,
+      "online_text": "绵绵的旧情 犹原浮伫眼前",
+      "match_text": "绵绵的旧情 犹原浮伫眼前",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 152.93,
+      "online_text": "汝踮我的身边 窗外雨水声音是空",
+      "match_text": "汝踮我的身边 窗外雨水声音是空",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 161.1,
+      "online_text": "爱过的侬 斟酌听",
+      "match_text": "爱过的侬 斟酌听",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 164.73,
+      "online_text": "孤单是多情侬 心内的疼",
+      "match_text": "孤单是多情侬 心内的疼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 169.94,
+      "online_text": "原谅我也毋敢望",
+      "match_text": "原谅我也毋敢望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 173.81,
+      "online_text": "明明汝爱我 将汝当做是过路的侬",
+      "match_text": "明明汝爱我 将汝当做是过路的侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 179.86,
+      "online_text": "汝爱的侬 伊毋是无情侬",
+      "match_text": "汝爱的侬 伊毋是无情侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 183.23,
+      "online_text": "伊只是毋敢行过 情路无尾巷",
+      "match_text": "伊只是毋敢行过 情路无尾巷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 187.76,
+      "online_text": "感情予伊一侬 爱遘无酒也茫茫",
+      "match_text": "感情予伊一侬 爱遘无酒也茫茫",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 192.69,
+      "online_text": "头前是乌暗 越头也无望",
+      "match_text": "头前是乌暗 越头也无望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 197.6,
+      "online_text": "汝爱的侬 看破做无情侬",
+      "match_text": "汝爱的侬 看破做无情侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 200.94,
+      "online_text": "毋愿佫再来行过 情路无尾巷",
+      "match_text": "毋愿佫再来行过 情路无尾巷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 205.29,
+      "online_text": "感情莫看遐重 有缘感谢汝陪伴",
+      "match_text": "感情莫看遐重 有缘感谢汝陪伴",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 210.3,
+      "online_text": "幸福有来过 只是袂当到永远",
+      "match_text": "幸福有来过 只是袂当到永远",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 223.87,
+      "online_text": "汝爱的侬 伊毋是无情侬",
+      "match_text": "汝爱的侬 伊毋是无情侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 226.94,
+      "online_text": "伊只是毋敢行过 情路无尾巷",
+      "match_text": "伊只是毋敢行过 情路无尾巷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 231.5,
+      "online_text": "感情予伊一侬 爱遘无酒也茫茫",
+      "match_text": "感情予伊一侬 爱遘无酒也茫茫",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 236.32,
+      "online_text": "头前是乌暗 越头也无望",
+      "match_text": "头前是乌暗 越头也无望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 241.17,
+      "online_text": "汝爱的侬 看破做无情侬",
+      "match_text": "汝爱的侬 看破做无情侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 244.58,
+      "online_text": "毋愿佫再来行过 情路无尾巷",
+      "match_text": "毋愿佫再来行过 情路无尾巷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 248.8,
+      "online_text": "感情莫看遐重 有缘感谢汝陪伴",
+      "match_text": "感情莫看遐重 有缘感谢汝陪伴",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 254.06,
+      "online_text": "幸福有来过 只是袂当到永远",
+      "match_text": "幸福有来过 只是袂当到永远",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 48,
+      "time": 298.58,
+      "online_text": "人声 : Hsiao Huang Chi",
+      "match_text": "人声 : Hsiao Huang Chi",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "5290ba80a4568f170a98fc95a9c5ba77e39c25c1b9a9611d13863947c9cec960",
+    "manual": "2d33dd12aa324adb963dc7823839086b62d981ef733bc12dd4214cf52ad3be68",
+    "timed": "e02d5df528982aaf7fc720924e9c4e566907e39b00e5e6c65d51049dcecff910"
+  }
+}

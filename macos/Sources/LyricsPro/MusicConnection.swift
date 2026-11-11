@@ -155,7 +155,7 @@ final class MusicConnection: ObservableObject {
     }
 
     func selectLanguage(_ value: PronunciationLanguage) {
-        guard language != value else { return }
+        guard PronunciationLanguage.choices.contains(value), language != value else { return }
         language = value
         UserDefaults.standard.set(value.rawValue, forKey: PronunciationLanguage.preferenceKey)
         sendLyricCommand("language")

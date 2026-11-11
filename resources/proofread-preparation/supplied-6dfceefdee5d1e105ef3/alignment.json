@@ -1,0 +1,213 @@
+{
+  "recording_id": "lrcapi:702818679",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E6%90%96%E5%AC%B0%E4%BB%94%E6%AD%8C&artist=%E8%91%A3%E4%BA%8B%E9%95%B7%E6%A8%82%E5%9C%98&album=%E7%9C%9F%E7%9A%84%E5%81%87%E7%9A%84#702818679",
+  "manual_source": "User-supplied resources/lyrics-spelling/搖嬰仔歌-董事長樂團",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "unresolved": 10,
+    "approximate": 3
+  },
+  "review_row_count": 13,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-7:0",
+    "line-19:0",
+    "line-22:0",
+    "line-28:0",
+    "line-40:0"
+  ],
+  "unused_repeat_ids": [
+    "line-13:0",
+    "line-16:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 37.77,
+      "online_text": "甲汝搖甲汝惜 甲汝當作一個寶",
+      "match_text": "甲汝搖甲汝惜 甲汝當作一個寶",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 44.09,
+      "online_text": "甲汝疼甲汝抱 汝是阮的小朋友",
+      "match_text": "甲汝疼甲汝抱 汝是阮的小朋友",
+      "text": "甲你疼 甲你抱 你是阮的小朋友",
+      "spelling": "kā lí thiànn kā lí phō  lí sī gún ê xiǎopéngyǒu",
+      "manual_id": "line-4:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.769231
+    },
+    {
+      "source_row": 2,
+      "time": 50.69,
+      "online_text": "今仔日明仔載 永遠健康擱快樂",
+      "match_text": "今仔日明仔載 永遠健康擱快樂",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 56.89,
+      "online_text": "無憂愁無煩惱 以後帶汝去打棒球",
+      "match_text": "無憂愁無煩惱 以後帶汝去打棒球",
+      "text": "無憂愁 無煩惱 以後帶你去打棒球",
+      "spelling": "bô iu-tshiû  bô huân-ló  í-āu tài lí khì phah bàngqiú",
+      "manual_id": "line-10:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.928571
+    },
+    {
+      "source_row": 4,
+      "time": 64.02,
+      "online_text": "嬰仔嬰嬰困 一眠大一吋",
+      "match_text": "嬰仔嬰嬰困 一眠大一吋",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 76.63,
+      "online_text": "嬰仔嬰嬰秀 一眠大一尺",
+      "match_text": "嬰仔嬰嬰秀 一眠大一尺",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 113.68,
+      "online_text": "汝若無乖 我會甲汝罵",
+      "match_text": "汝若無乖 我會甲汝罵",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 117.05,
+      "online_text": "汝若無款 阮會甲汝打",
+      "match_text": "汝若無款 阮會甲汝打",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 120.14,
+      "online_text": "寵子不孝 寵豬舉灶",
+      "match_text": "寵子不孝 寵豬舉灶",
+      "text": "寵兒不孝 寵豬舉灶",
+      "spelling": "sīng-kiánn put hàu sīng kí gia̍h tsàu",
+      "manual_id": "line-25:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 9,
+      "time": 123.2,
+      "online_text": "打到汝的手 疼到阮心內",
+      "match_text": "打到汝的手 疼到阮心內",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 127.09,
+      "online_text": "嬰仔嬰嬰困 一眠大一吋",
+      "match_text": "嬰仔嬰嬰困 一眠大一吋",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 139.52,
+      "online_text": "嬰仔嬰嬰秀 一眠大一尺",
+      "match_text": "嬰仔嬰嬰秀 一眠大一尺",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 152.48,
+      "online_text": "嬰仔嬰嬰秀 一眠大一尺 一眠大一尺",
+      "match_text": "嬰仔嬰嬰秀 一眠大一尺 一眠大一尺",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "8eb260fa1714f508d24910316b2511989df183b2d25dc741508eaea7cd01f9a2",
+    "manual": "ba52d9972dc01b8665efcf7b571e4ca837f1e802503c95acb15a6efc1a26efed",
+    "timed": "57425f8f8e41ecf6436f2593622bb401aa339fab26117cd6770ce20f8bac9234"
+  }
+}

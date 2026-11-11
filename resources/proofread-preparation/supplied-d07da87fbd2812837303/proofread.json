@@ -1,0 +1,290 @@
+{
+  "recording_id": "netease:865040271",
+  "source": "User-supplied resources/lyrics-spelling/淺堤 (Shallow Levée) – 叨位是你的厝-淺堤",
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "溪海抓無魚                 土地種無果",
+      "spelling": "khe hái lia̍h bô hî    thóo-tē tsíng bô kó",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "溪海抓無魚",
+          "spelling": "khe hái lia̍h bô hî"
+        },
+        {
+          "text": "土地種無果",
+          "spelling": "thóo-tē tsíng bô kó"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "人出世落土                       同款歹賺吃",
+      "spelling": "lâng tshut-sì lo̍h-thóo    kāng khuán pháinn thàn tsia̍h",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "人出世落土",
+          "spelling": "lâng tshut-sì lo̍h-thóo"
+        },
+        {
+          "text": "同款歹賺吃",
+          "spelling": "kāng khuán pháinn thàn tsia̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "美麗的海岸                笑笑甲溫講",
+      "spelling": "bí-lē ê hái-huānn    tshiò tshiò kah un kóng",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "美麗的海岸",
+          "spelling": "bí-lē ê hái-huānn"
+        },
+        {
+          "text": "笑笑甲溫講",
+          "spelling": "tshiò tshiò kah un kóng"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "阮仔心頂動                  不像我不像我",
+      "spelling": "gún á sim tín-tāng    bô tshiūnn guá bô tshiūnn guá",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "阮仔心頂動",
+          "spelling": "gún á sim tín-tāng"
+        },
+        {
+          "text": "不像我不像我",
+          "spelling": "bô tshiūnn guá bô tshiūnn guá"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "阿嬤帶咱走                   黃牛甲咱扶",
+      "spelling": "a má tuà lán kiânn    n̂g-gû kah lán huānn",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "阿嬤帶咱走",
+          "spelling": "a má tuà lán kiânn"
+        },
+        {
+          "text": "黃牛甲咱扶",
+          "spelling": "n̂g-gû kah lán huānn"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "樹仔借咱踩                     看天地不怕",
+      "spelling": "tshiū-á tsioh lán ta̍h    khuànn thinn-tē bián-kiann",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "樹仔借咱踩",
+          "spelling": "tshiū-á tsioh lán ta̍h"
+        },
+        {
+          "text": "看天地不怕",
+          "spelling": "khuànn thinn-tē bián-kiann"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "軟土擱深掘                           窩著不會走",
+      "spelling": "nńg thóo koh tshim ku̍t    khut beh bē-hiáu kiânn",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "軟土擱深掘",
+          "spelling": "nńg thóo koh tshim ku̍t"
+        },
+        {
+          "text": "窩著不會走",
+          "spelling": "khut beh bē-hiáu kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "窗仔內的鳥隻                       飛袂頂動",
+      "spelling": "thang-á lāi ê tsiáu-tsiah    pue bē tín-tāng",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "窗仔內的鳥隻",
+          "spelling": "thang-á lāi ê tsiáu-tsiah"
+        },
+        {
+          "text": "飛袂頂動",
+          "spelling": "pue bē tín-tāng"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "溪海抓無魚                 土地種無果",
+      "spelling": "khe hái lia̍h bô hî    thóo-tē tsíng bô kó",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "溪海抓無魚",
+          "spelling": "khe hái lia̍h bô hî"
+        },
+        {
+          "text": "土地種無果",
+          "spelling": "thóo-tē tsíng bô kó"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "人出世落土                        同款歹賺吃",
+      "spelling": "lâng tshut-sì lo̍h-thóo    kāng khuán pháinn thàn tsia̍h",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "人出世落土",
+          "spelling": "lâng tshut-sì lo̍h-thóo"
+        },
+        {
+          "text": "同款歹賺吃",
+          "spelling": "kāng khuán pháinn thàn tsia̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "美麗的海岸                笑笑甲溫講",
+      "spelling": "bí-lē ê hái-huānn    tshiò tshiò kah un kóng",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "美麗的海岸",
+          "spelling": "bí-lē ê hái-huānn"
+        },
+        {
+          "text": "笑笑甲溫講",
+          "spelling": "tshiò tshiò kah un kóng"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "阮仔心頂動                  不像我不像我",
+      "spelling": "gún á sim tín-tāng    bô tshiūnn guá bô tshiūnn guá",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "阮仔心頂動",
+          "spelling": "gún á sim tín-tāng"
+        },
+        {
+          "text": "不像我不像我",
+          "spelling": "bô tshiūnn guá bô tshiūnn guá"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "青面獠牙                      餵囡大漢",
+      "spelling": "tshenn-bīn-liâu-gê    tshī gín tuā-hàn",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "青面獠牙",
+          "spelling": "tshenn-bīn-liâu-gê"
+        },
+        {
+          "text": "餵囡大漢",
+          "spelling": "tshī gín tuā-hàn"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "ㄧ天又ㄧ天變化",
+      "spelling": "tsi̍t kang iū tsi̍t kang piàn-huà",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "後代子孫擱煩惱吃穿",
+      "spelling": "āu-tāi kiánn sun koh huân-ló tsia̍h tshīng",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "問伊咁知影                     叨位是你的厝",
+      "spelling": "mn̄g i kam tsai-iánn    tó-uī sī lí ê tshù",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "問伊咁知影",
+          "spelling": "mn̄g i kam tsai-iánn"
+        },
+        {
+          "text": "叨位是你的厝",
+          "spelling": "tó-uī sī lí ê tshù"
+        }
+      ]
+    }
+  ]
+}

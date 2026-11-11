@@ -1,0 +1,386 @@
+{
+  "recording_id": "lrcapi:1620827203",
+  "source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E9%BB%91%E9%B3%A5&artist=%E9%99%B3%E5%BB%BA%E7%91%8B&album=%E5%8F%A4%E4%BC%A6%E7%BE%8E%E4%BA%9A#1620827203",
+  "lines": [
+    {
+      "time": 11.989,
+      "text": "黑雲天",
+      "kind": "lyric"
+    },
+    {
+      "time": 14.171,
+      "text": "毋知到底啥原因",
+      "kind": "lyric"
+    },
+    {
+      "time": 17.457,
+      "text": "總是雄雄出現",
+      "kind": "lyric"
+    },
+    {
+      "time": 19.64,
+      "text": "阻擋咱路程",
+      "kind": "lyric"
+    },
+    {
+      "time": 25.108,
+      "text": "雨在嚷",
+      "kind": "lyric"
+    },
+    {
+      "time": 27.279,
+      "text": "一雙翅仔飛袂行",
+      "kind": "lyric"
+    },
+    {
+      "time": 30.576,
+      "text": "我是惦在空中",
+      "kind": "lyric"
+    },
+    {
+      "time": 32.759,
+      "text": "打拚的鳥仔",
+      "kind": "lyric"
+    },
+    {
+      "time": 36.021,
+      "text": "賣笑我",
+      "kind": "lyric"
+    },
+    {
+      "time": 42.413,
+      "text": "憨憨唱台語",
+      "kind": "lyric"
+    },
+    {
+      "time": 48.125,
+      "text": "若是",
+      "kind": "lyric"
+    },
+    {
+      "time": 48.998,
+      "text": "全世界的人",
+      "kind": "lyric"
+    },
+    {
+      "time": 51.688,
+      "text": "攏唱咱的歌",
+      "kind": "lyric"
+    },
+    {
+      "time": 52.821,
+      "text": "黑人白人",
+      "kind": "lyric"
+    },
+    {
+      "time": 54.133,
+      "text": "攏知咱的文化",
+      "kind": "lyric"
+    },
+    {
+      "time": 55.236,
+      "text": "我不管路有多難走",
+      "kind": "lyric"
+    },
+    {
+      "time": 59.727,
+      "text": "我的膽是鐵打",
+      "kind": "lyric"
+    },
+    {
+      "time": 62.159,
+      "text": "全世界的人",
+      "kind": "lyric"
+    },
+    {
+      "time": 63.2,
+      "text": "都唱咱的歌",
+      "kind": "lyric"
+    },
+    {
+      "time": 65.113,
+      "text": "好人歹人",
+      "kind": "lyric"
+    },
+    {
+      "time": 66.463,
+      "text": "大家都攏免驚啦",
+      "kind": "lyric"
+    },
+    {
+      "time": 68.645,
+      "text": "給我一個舞台",
+      "kind": "lyric"
+    },
+    {
+      "time": 72.402,
+      "text": "我會飛得很高",
+      "kind": "lyric"
+    },
+    {
+      "time": 91.772,
+      "text": "Ah",
+      "kind": "lyric"
+    },
+    {
+      "time": 98.332,
+      "text": "留聲機",
+      "kind": "lyric"
+    },
+    {
+      "time": 100.526,
+      "text": "唱著滿山的春色",
+      "kind": "lyric"
+    },
+    {
+      "time": 103.812,
+      "text": "那是我的阿公",
+      "kind": "lyric"
+    },
+    {
+      "time": 106.453,
+      "text": "青春的熱情",
+      "kind": "lyric"
+    },
+    {
+      "time": 110.36,
+      "text": "收音機",
+      "kind": "lyric"
+    },
+    {
+      "time": 113.634,
+      "text": "唱著浪子的心情",
+      "kind": "lyric"
+    },
+    {
+      "time": 116.868,
+      "text": "那是我的爸爸",
+      "kind": "lyric"
+    },
+    {
+      "time": 118.737,
+      "text": "打拼的勇氣",
+      "kind": "lyric"
+    },
+    {
+      "time": 122.945,
+      "text": "賣笑我",
+      "kind": "lyric"
+    },
+    {
+      "time": 129.242,
+      "text": "堅持唱台語",
+      "kind": "lyric"
+    },
+    {
+      "time": 137.446,
+      "text": "若是",
+      "kind": "lyric"
+    },
+    {
+      "time": 138.537,
+      "text": "全世界的人",
+      "kind": "lyric"
+    },
+    {
+      "time": 140.732,
+      "text": "攏唱咱的歌",
+      "kind": "lyric"
+    },
+    {
+      "time": 142.141,
+      "text": "黑人白人",
+      "kind": "lyric"
+    },
+    {
+      "time": 143.573,
+      "text": "攏知咱的文化",
+      "kind": "lyric"
+    },
+    {
+      "time": 145.122,
+      "text": "我不管路有多難走",
+      "kind": "lyric"
+    },
+    {
+      "time": 149.018,
+      "text": "我的膽是鐵打",
+      "kind": "lyric"
+    },
+    {
+      "time": 151.145,
+      "text": "全世界的人",
+      "kind": "lyric"
+    },
+    {
+      "time": 152.748,
+      "text": "都唱咱的歌",
+      "kind": "lyric"
+    },
+    {
+      "time": 153.839,
+      "text": "好人歹人",
+      "kind": "lyric"
+    },
+    {
+      "time": 154.931,
+      "text": "大家都攏免驚啦",
+      "kind": "lyric"
+    },
+    {
+      "time": 158.112,
+      "text": "給我一個舞台",
+      "kind": "lyric"
+    },
+    {
+      "time": 161.386,
+      "text": "我會飛得真高",
+      "kind": "lyric"
+    },
+    {
+      "time": 167.401,
+      "text": "我會飛過大海 Oh",
+      "kind": "lyric"
+    },
+    {
+      "time": 178.278,
+      "text": "Hey yeah",
+      "kind": "lyric"
+    },
+    {
+      "time": 184.17,
+      "text": "Oh",
+      "kind": "lyric"
+    },
+    {
+      "time": 187.768,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 190.597,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 194.228,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 197.098,
+      "text": "這是我的舞台",
+      "kind": "lyric"
+    },
+    {
+      "time": 200.372,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 202.566,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 205.852,
+      "text": "Oh",
+      "kind": "lyric"
+    },
+    {
+      "time": 206.717,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 209.509,
+      "text": "自由自在的舞台",
+      "kind": "lyric"
+    },
+    {
+      "time": 212.795,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 215.14,
+      "text": "Oh-oh-oh-oh-oh",
+      "kind": "lyric"
+    },
+    {
+      "time": 215.895,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 217.578,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 221.932,
+      "text": "這是我的舞台",
+      "kind": "lyric"
+    },
+    {
+      "time": 225.183,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 227.37,
+      "text": "Ah",
+      "kind": "lyric"
+    },
+    {
+      "time": 227.841,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 231.115,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 236.386,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 239.66,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 243.377,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 246.197,
+      "text": "這是我的舞台",
+      "kind": "lyric"
+    },
+    {
+      "time": 249.297,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 252.792,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 255.789,
+      "text": "(La-la-la-la-la-la-la-la-la)",
+      "kind": "lyric"
+    },
+    {
+      "time": 258.778,
+      "text": "這是咱的舞台",
+      "kind": "lyric"
+    }
+  ]
+}

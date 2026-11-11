@@ -1,0 +1,642 @@
+{
+  "recording_id": "lrclib:14668213",
+  "timing_source": "LRCLIB https://lrclib.net/api/get/14668213",
+  "manual_source": "User-supplied resources/lyrics-spelling/港邊男兒-盧廣仲",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "repeat": 10,
+    "unresolved": 19,
+    "approximate": 8,
+    "exact": 5,
+    "gap": 3
+  },
+  "review_row_count": 32,
+  "unmatched_manual_ids": [
+    "line-55:0",
+    "line-58:0",
+    "line-67:0",
+    "line-121:0"
+  ],
+  "unused_repeat_ids": [
+    "line-4:0",
+    "line-16:0",
+    "line-28:0",
+    "line-31:0",
+    "line-37:0",
+    "line-40:0",
+    "line-52:0",
+    "line-64:0",
+    "line-76:0",
+    "line-79:0",
+    "line-85:0",
+    "line-88:0",
+    "line-109:0",
+    "line-112:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 16.22,
+      "online_text": "花花世界 無聊情愛",
+      "match_text": "花花世界 無聊情愛",
+      "text": "花花世界 無聊情愛",
+      "spelling": "hua hua sè-kài bô-liâu tsîng-ài",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 23.73,
+      "online_text": "我感覺佮我完全攏無關",
+      "match_text": "我感覺佮我完全攏無關",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 2,
+      "time": 30.98,
+      "online_text": "轉來到我的故鄉 阮阿公仝款早起",
+      "match_text": "轉來到我的故鄉 阮阿公仝款早起",
+      "text": "回來到我的故鄉 阮阿公同款早起",
+      "spelling": "tńg-lâi kàu guá ê kòo-hiong gún a-kong kāng-khuán tsá-khí",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 3,
+      "time": 38.47,
+      "online_text": "海邊掠魚 看天過日",
+      "match_text": "海邊掠魚 看天過日",
+      "text": "海邊抓魚 看天過日",
+      "spelling": "hái-pinn lia̍h-hî khuànn thinn kuè-li̍t",
+      "manual_id": "line-10:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 4,
+      "time": 45.55,
+      "online_text": "行過的路 忝 擱無奈",
+      "match_text": "行過的路 忝 擱無奈",
+      "text": "行過的路 累 又無奈",
+      "spelling": "kiânn-kuè ê lōo thiám koh bô-nāi",
+      "manual_id": "line-13:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 5,
+      "time": 52.99,
+      "online_text": "為著理想 我拼一个將來",
+      "match_text": "為著理想 我拼一个將來",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 60.23,
+      "online_text": "落大雨的故鄉 等待我的成功",
+      "match_text": "落大雨的故鄉 等待我的成功",
+      "text": "落大雨的故鄉 等待我的成功",
+      "spelling": "lo̍h-tuā-hōo ê kòo-hiong tán-thāi guá ê sîng-kong",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 67.37,
+      "online_text": "心愛的伊是呣是 仝款純情",
+      "match_text": "心愛的伊是呣是 仝款純情",
+      "text": "心愛的伊是不是 同款純情",
+      "spelling": "sim-ài ê i sī-m̄-sī kāng-khuán sûn-tsîng",
+      "manual_id": "line-22:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.818182
+    },
+    {
+      "source_row": 8,
+      "time": 74.76,
+      "online_text": "我想欲對伊講出心內話",
+      "match_text": "我想欲對伊講出心內話",
+      "text": "我想欲對伊講出心內話",
+      "spelling": "guá siūnn-beh tuì i kóng-tshut sim-lāi uē",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 78.25,
+      "online_text": "咁講我已經無機會",
+      "match_text": "咁講我已經無機會",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 82.63,
+      "online_text": "伊看起來孤單一个",
+      "match_text": "伊看起來孤單一个",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 85.55,
+      "online_text": "企佇海邊任風吹",
+      "match_text": "企佇海邊任風吹",
+      "text": "站佇海邊任風吹",
+      "spelling": "khiā tsāi hái-pinn līm hong-tshue",
+      "manual_id": "line-34:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 12,
+      "time": 90.54,
+      "online_text": "安怎世事的變化",
+      "match_text": "安怎世事的變化",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 93.6,
+      "online_text": "我 已經失去這資格",
+      "match_text": "我 已經失去這資格",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 97.36,
+      "online_text": "看著伊離開我",
+      "match_text": "看著伊離開我",
+      "text": "看著伊離開我",
+      "spelling": "khuànn-tio̍h i lī-khui guá",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 101.27,
+      "online_text": "親像大雨 流落港邊",
+      "match_text": "親像大雨 流落港邊",
+      "text": "親像大雨 流落港邊",
+      "spelling": "tshin-tshiūnn tuā-hōo lâu-lo̍h káng-pinn",
+      "manual_id": "line-46:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 109.08,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 17,
+      "time": 119.21,
+      "online_text": "花花世界 無聊情愛",
+      "match_text": "花花世界 無聊情愛",
+      "text": "花花世界 無聊情愛",
+      "spelling": "hua hua sè-kài bô-liâu tsîng-ài",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 126.48,
+      "online_text": "我感覺佮我完全攏無關",
+      "match_text": "我感覺佮我完全攏無關",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 133.55,
+      "online_text": "轉來到我的故鄉",
+      "match_text": "轉來到我的故鄉",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-55:0"
+    },
+    {
+      "source_row": 20,
+      "time": 137.01,
+      "online_text": "看阮阿爸透早做工 拼命 無怨慼",
+      "match_text": "看阮阿爸透早做工 拼命 無怨慼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-55:0"
+    },
+    {
+      "source_row": 21,
+      "time": 148.53,
+      "online_text": "行過的路 是上天的安排",
+      "match_text": "行過的路 是上天的安排",
+      "text": "行過的路 是上天的安排",
+      "spelling": "kiânn-kuè ê lōo sī siōng-thinn ê an-pâi",
+      "manual_id": "line-61:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 155.91,
+      "online_text": "為著理想 我拼一个將來",
+      "match_text": "為著理想 我拼一个將來",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 163.17,
+      "online_text": "細漢咱講過的痟話",
+      "match_text": "細漢咱講過的痟話",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-67:0"
+    },
+    {
+      "source_row": 24,
+      "time": 166.99,
+      "online_text": "每一句囥心肝底",
+      "match_text": "每一句囥心肝底",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-67:0"
+    },
+    {
+      "source_row": 25,
+      "time": 170.09,
+      "online_text": "心愛的伊千萬嘜嫁予厝邊",
+      "match_text": "心愛的伊千萬嘜嫁予厝邊",
+      "text": "心愛的伊千萬嘜嫁予厝邊",
+      "spelling": "sim-ài ê i tshian-bān mài kè hōo tshù-pinn",
+      "manual_id": "line-70:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 177.49,
+      "online_text": "我想欲對伊講出心內話",
+      "match_text": "我想欲對伊講出心內話",
+      "text": "我想欲對伊講出心內話",
+      "spelling": "guá siūnn-beh tuì i kóng-tshut sim-lāi uē",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 181.02,
+      "online_text": "咁講我已經無機會",
+      "match_text": "咁講我已經無機會",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 185.53,
+      "online_text": "伊看起來孤單一个",
+      "match_text": "伊看起來孤單一个",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 188.68,
+      "online_text": "為怎樣攏呣愛我來陪",
+      "match_text": "為怎樣攏呣愛我來陪",
+      "text": "為怎樣攏呣愛我來陪",
+      "spelling": "uî-tsuánn-iūnn lóng m̄-ài guá lâi puê",
+      "manual_id": "line-82:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 193.55,
+      "online_text": "安怎世事的變化",
+      "match_text": "安怎世事的變化",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 196.44,
+      "online_text": "我咁已經失去這資格",
+      "match_text": "我咁已經失去這資格",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 200.0,
+      "online_text": "看著伊離開我",
+      "match_text": "看著伊離開我",
+      "text": "看著伊離開我",
+      "spelling": "khuànn-tio̍h i lī-khui guá",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 204.29,
+      "online_text": "親像大雨 流落港邊",
+      "match_text": "親像大雨 流落港邊",
+      "text": "親像大雨 流落港邊",
+      "spelling": "tshin-tshiūnn tuā-hōo lâu-lo̍h káng-pinn",
+      "manual_id": "line-46:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 214.87,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 35,
+      "time": 221.42,
+      "online_text": "我想欲對伊講出心內話",
+      "match_text": "我想欲對伊講出心內話",
+      "text": "我想欲對伊講出心內話",
+      "spelling": "guá siūnn-beh tuì i kóng-tshut sim-lāi uē",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 225.28,
+      "online_text": "踮在這个尚溫柔的港邊",
+      "match_text": "踮在這个尚溫柔的港邊",
+      "text": "惦在這個尚溫柔的港邊",
+      "spelling": "tiām tsāi tsit-ê siōng un-jiû ê káng-kînn",
+      "manual_id": "line-100:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 37,
+      "time": 229.65,
+      "online_text": "伊看起來比我較傷悲",
+      "match_text": "伊看起來比我較傷悲",
+      "text": "伊看起來比我卡傷悲",
+      "spelling": "i khuànn-khí-lâi pí guá khá siong pi",
+      "manual_id": "line-103:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 38,
+      "time": 232.52,
+      "online_text": "我無法度按呢作伊去",
+      "match_text": "我無法度按呢作伊去",
+      "text": "我沒法度按呢作伊去",
+      "spelling": "guá bô-huat-tōo án-ne tsò i khì",
+      "manual_id": "line-106:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 39,
+      "time": 237.31,
+      "online_text": "安怎世事的變化",
+      "match_text": "安怎世事的變化",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 240.52,
+      "online_text": "我咁已經失去這資格",
+      "match_text": "我咁已經失去這資格",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 244.59,
+      "online_text": "看著伊離開我",
+      "match_text": "看著伊離開我",
+      "text": "看著伊離開我",
+      "spelling": "khuànn-tio̍h i lī-khui guá",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 248.27,
+      "online_text": "親像大雨流出",
+      "match_text": "親像大雨流出",
+      "text": "親像大雨流出",
+      "spelling": "tshin-tshiūnn tuā-hōo lâu-tshut",
+      "manual_id": "line-118:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 43,
+      "time": 250.85,
+      "online_text": "目屎 袂當滴落 的港邊",
+      "match_text": "目屎 袂當滴落 的港邊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 261.05,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "b8919a00943ec15e37e8ac49161ba917eb62408dc189ddfed17f45c0d7fa5a47",
+    "manual": "7fa37a883d8ed4430a8782ef4614993cd183517e2c1485f7ca5a9e251d224a92",
+    "timed": "4e90049f47f2ce9f97928c01eb159020d5df2c27e711b0f13a9ee5a8e02c5379"
+  }
+}

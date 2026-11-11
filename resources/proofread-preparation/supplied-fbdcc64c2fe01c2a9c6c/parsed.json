@@ -1,0 +1,467 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "刀 保庄頭 顧鄉土                                 武裝！規暝日武裝！",
+      "spelling": "to  pó tsng-thâu  kòo hiong-thóo    bú-tsong！kui-mî ji̍t bú-tsong！",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "拼地盤 殺仇敵                                提高警戒 應變隨機",
+      "spelling": "piànn tē-puânn  sat siû-ti̍k        thê-ko kíng-kài  ìng-piàn suî-ki",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "劍 守田園 護家族                                     武裝！滿街路武裝！",
+      "spelling": "kiàm tsiú tshân-hn̂g  hōo ka-tso̍k    bú-tsong！kui ke-lōo bú-tsong ！",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "斬貪官 刜汙吏                                 民反官逼",
+      "spelling": "tsàm tham kuann phut ù lī        bîn gôan kuan pik",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "斬貪官 刜汙吏",
+          "spelling": "tsàm tham kuann phut ù lī"
+        },
+        {
+          "text": "民反官逼",
+          "spelling": "bîn gôan kuan pik"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "鴨母王登基大天后宮 (萬歲吾皇)",
+      "spelling": "ah-bó ông ting-ki tāi thian hiō-kiong  (bān-suè ngôo hông)",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "順天盟主天地會稱王 (五十萬武勇)",
+      "spelling": "sūn thian bîng-tsú thian tē huē tshing-ông  (gōo tsa̍p bān bú ióng)",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "八卦萬生作東王大將 (天符人應)",
+      "spelling": "pat-kuà bān sing tsoh-tang ông tāi-tsiòng  (thian hû lîn ìng)",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "旌義應褒忠封義民公 (鎮邪四方)",
+      "spelling": "tshing gī ìng po-tiong hong gī-bîn kong  (tìn siâ sù hong)",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "衝 承名聲 擔聲望",
+      "spelling": "tshiong sîn miâ siann tànn siann bōng",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "武裝！透心神武裝！",
+      "spelling": "bú-tsong！thàu-sim sîn bú-tsong！",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "持義理 扶正道",
+      "spelling": "tî gī lí  hû tsìng tō",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "懲惡賭強",
+      "spelling": "giâm ònn tóo-kiông",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "清水祖師 戰 開漳聖王",
+      "spelling": "tshing-tsuí tsóo-su  tsiàn  khai tsiang sìng ông",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "觀音嬤 拼 媽祖婆",
+      "spelling": "kuan-im má piànn má-tsóo pô",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "三山國王 戰 五谷神農",
+      "spelling": "Sam-san-kok-ông tsiàn  gōo kok sîn-lông",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "太子爺 拼 王爺公",
+      "spelling": "thài-tsú iâ piànn ông iâ kong",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "咱來 大立家規                       強行王法",
+      "spelling": "lán lâi tāi li̍p ka kui            kiông-hîng ông-huat",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "咱來 大立家規",
+          "spelling": "lán lâi tāi li̍p ka kui"
+        },
+        {
+          "text": "強行王法",
+          "spelling": "kiông-hîng ông-huat"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "土地 隨我封                              山河 隨我開",
+      "spelling": "thóo-tē  suî guá hong            suann-hô  suî guá khai",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "兄弟 隨我姓                              公媽 隨我祀",
+      "spelling": "hiann-tī suî guá sìng            kong-má suî guá sāi",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "兄弟 隨我姓",
+          "spelling": "hiann-tī suî guá sìng"
+        },
+        {
+          "text": "公媽 隨我祀",
+          "spelling": "kong-má suî guá sāi"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "大展家威 強建王權",
+      "spelling": "tāi-tián ka ui  kiông kiàn ông kuân",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "戰鼓 隨我擂 戰旗 隨我「立在」",
+      "spelling": "tsiàn-kóo  suî guá luî  tsiàn kî suî guá tshāi",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "人民 隨我起 歷史 隨我改",
+      "spelling": "jîn-bîn  suî guá khí  li̍k-sú  suî guá kái",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "搶水                   毀家           拆廟             倒厝",
+      "spelling": "tshiúnn tsuí    huí ka        thiah biō    tó tshù",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "搶水",
+          "spelling": "tshiúnn tsuí"
+        },
+        {
+          "text": "毀家",
+          "spelling": "huí ka"
+        },
+        {
+          "text": "拆廟",
+          "spelling": "thiah biō"
+        },
+        {
+          "text": "倒厝",
+          "spelling": "tó tshù"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "枉法             逆天            忤神            招拖注",
+      "spelling": "óng-huat    gi̍k-thian    ngóo sîn    tsio thua tù",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "枉法",
+          "spelling": "óng-huat"
+        },
+        {
+          "text": "逆天",
+          "spelling": "gi̍k-thian"
+        },
+        {
+          "text": "忤神",
+          "spelling": "ngóo sîn"
+        },
+        {
+          "text": "招拖注",
+          "spelling": "tsio thua tù"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "割海             佔地           農毀           漁傷",
+      "spelling": "kuah hái    tsiàm-tē    lông huí    hî siong",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "割海",
+          "spelling": "kuah hái"
+        },
+        {
+          "text": "佔地",
+          "spelling": "tsiàm-tē"
+        },
+        {
+          "text": "農毀",
+          "spelling": "lông huí"
+        },
+        {
+          "text": "漁傷",
+          "spelling": "hî siong"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "刣人             放火             鬥爭            報冤仇",
+      "spelling": "thâi lâng    pàng hué    tàu-tsing    pò-uan-siû",
+      "source_lines": [
+        78,
+        79
+      ],
+      "parts": [
+        {
+          "text": "刣人",
+          "spelling": "thâi lâng"
+        },
+        {
+          "text": "放火",
+          "spelling": "pàng hué"
+        },
+        {
+          "text": "鬥爭",
+          "spelling": "tàu-tsing"
+        },
+        {
+          "text": "報冤仇",
+          "spelling": "pò-uan-siû"
+        }
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "清水祖師 戰 開漳聖王",
+      "spelling": "tshing-tsuí tsóo-su  tsiàn  khai tsiang sìng ông",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "觀音嬤 拼 媽祖婆",
+      "spelling": "kuan-im má piànn má-tsóo pô",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "三山國王 戰 五谷神農",
+      "spelling": "Sam-san-kok-ông tsiàn  gōo kok sîn-lông",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "太子爺 拼 王爺公",
+      "spelling": "thài-tsú iâ piànn ông iâ kong",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "咱來 大立家規                   強行王法",
+      "spelling": "lán lâi tāi li̍p ka kui        kiông-hîng ông-huat",
+      "source_lines": [
+        93,
+        94
+      ],
+      "parts": [
+        {
+          "text": "咱來 大立家規",
+          "spelling": "lán lâi tāi li̍p ka kui"
+        },
+        {
+          "text": "強行王法",
+          "spelling": "kiông-hîng ông-huat"
+        }
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "土地 隨我封                          山河 隨我開",
+      "spelling": "thóo-tē  suî guá hong        suann-hô  suî guá khai",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "兄弟 隨我姓 公                    媽 隨我祀",
+      "spelling": "hiann-tī suî guá sìng        kong-má suî guá sāi",
+      "source_lines": [
+        99,
+        100
+      ],
+      "parts": [
+        {
+          "text": "兄弟 隨我姓 公",
+          "spelling": "hiann-tī suî guá sìng"
+        },
+        {
+          "text": "媽 隨我祀",
+          "spelling": "kong-má suî guá sāi"
+        }
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "大展家威 強建王權",
+      "spelling": "tāi-tián ka ui  kiông kiàn ông kuân",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "戰鼓 隨我擂     戰旗 隨我「立在」",
+      "spelling": "tsiàn-kóo  suî guá luî  tsiàn kî suî guá tshāi",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "人民 隨我起 歷史 隨我改",
+      "spelling": "jîn-bîn  suî guá khí  li̍k-sú  suî guá kái",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "誰來大展家威",
+      "spelling": "siáng lâi tāi-tián ka ui",
+      "source_lines": [
+        111,
+        112
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：閃靈   作曲：閃靈  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

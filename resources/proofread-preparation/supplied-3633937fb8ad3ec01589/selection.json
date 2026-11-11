@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "song_id": 350174,
+    "title": "二十四節氣",
+    "artists": [
+      "川秋沙"
+    ],
+    "album": "人造沙洲",
+    "duration": 368.906,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:350174",
+      "duration": 368.906,
+      "ready": false,
+      "coverage": 0.1111111111111111,
+      "exact_fraction": 0.1111111111111111,
+      "summary": {
+        "credit": 2,
+        "unresolved": 16,
+        "exact": 2
+      }
+    }
+  ]
+}

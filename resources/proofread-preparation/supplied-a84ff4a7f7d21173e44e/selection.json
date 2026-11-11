@@ -1,0 +1,39 @@
+{
+  "selected": {
+    "song_id": "1547227760",
+    "title": "晚安台湾",
+    "artists": [
+      "灭火器"
+    ],
+    "album": "进击下半场",
+    "duration": 215.36,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1547227760",
+      "duration": 215.36,
+      "ready": false,
+      "coverage": 0.96,
+      "exact_fraction": 0.96,
+      "summary": {
+        "repeat": 21,
+        "exact": 3,
+        "unresolved": 1
+      }
+    },
+    {
+      "recording_id": "lrcapi:375431240",
+      "duration": 215.68,
+      "ready": false,
+      "coverage": 0.96,
+      "exact_fraction": 0.96,
+      "summary": {
+        "repeat": 21,
+        "exact": 3,
+        "unresolved": 1
+      }
+    }
+  ]
+}

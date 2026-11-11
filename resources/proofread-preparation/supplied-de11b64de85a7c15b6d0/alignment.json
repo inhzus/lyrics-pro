@@ -1,0 +1,665 @@
+{
+  "recording_id": "netease:168238",
+  "timing_source": "NetEase https://music.163.com/song?id=168238",
+  "manual_source": "User-supplied resources/lyrics-spelling/思念會驚-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "approximate": 4,
+    "unresolved": 39,
+    "repeat": 2
+  },
+  "review_row_count": 43,
+  "unmatched_manual_ids": [
+    "line-7:0",
+    "line-61:0",
+    "line-64:0",
+    "line-73:0"
+  ],
+  "unused_repeat_ids": [
+    "line-16:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-40:0",
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0",
+    "line-58:0",
+    "line-70:0",
+    "line-76:0",
+    "line-79:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 姚若龙",
+      "match_text": "作词 : 姚若龙",
+      "text": "作词 : 姚若龙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 30.22,
+      "online_text": "因为想汝 爱着啉咖啡",
+      "match_text": "因为想汝 爱着啉咖啡",
+      "text": "因為想你愛著飲咖啡",
+      "spelling": "in-uī siūnn lí ài-tio̍h lím ka-pi",
+      "manual_id": "line-1:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.777778
+    },
+    {
+      "source_row": 3,
+      "time": 36.65,
+      "online_text": "怀念过去 汝鼻咖啡的表情",
+      "match_text": "怀念过去 汝鼻咖啡的表情",
+      "text": "懷念過去你聞咖啡的表情",
+      "spelling": "huâi-liām kuè-khì lí phīnn ka-pi ê piáu-tsîng",
+      "manual_id": "line-4:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.818182
+    },
+    {
+      "source_row": 4,
+      "time": 42.28,
+      "online_text": "许当阵 咱拢笑微微",
+      "match_text": "许当阵 咱拢笑微微",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 45.54,
+      "online_text": "许当阵 （啥侬）拢拆袂离",
+      "match_text": "许当阵 （啥侬）拢拆袂离",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 48.88,
+      "online_text": "每一工 拢有讲袂完的甜蜜",
+      "match_text": "每一工 拢有讲袂完的甜蜜",
+      "text": "每一工攏有講袜完的甜蜜",
+      "spelling": "muí tsi̍t kang lóng ū kóng buē uân ê tinn-bi̍t",
+      "manual_id": "line-10:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 7,
+      "time": 56.35,
+      "online_text": "原来幸福拢会变流星",
+      "match_text": "原来幸福拢会变流星",
+      "text": "原來幸福攏會變流星",
+      "spelling": "guân-lâi hīng-hok lóng ē piàn liû-tshinn",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 62.99,
+      "online_text": "永远袂变 只有两侬的个性",
+      "match_text": "永远袂变 只有两侬的个性",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 68.48,
+      "online_text": "后来咱太倔强固执",
+      "match_text": "后来咱太倔强固执",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 71.95,
+      "online_text": "后来煞无法度转去",
+      "match_text": "后来煞无法度转去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 75.19,
+      "online_text": "两个侬愈来愈远",
+      "match_text": "两个侬愈来愈远",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 77.49,
+      "online_text": "听无后悔吼哀悲",
+      "match_text": "听无后悔吼哀悲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 84.57,
+      "online_text": "无暝无日思念会惊",
+      "match_text": "无暝无日思念会惊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 88.07,
+      "online_text": "心酸无地藏",
+      "match_text": "心酸无地藏",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 91.18,
+      "online_text": "全无心情阁爱别侬",
+      "match_text": "全无心情阁爱别侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 94.31,
+      "online_text": "若无汝 快乐已经无望",
+      "match_text": "若无汝 快乐已经无望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 98.76,
+      "online_text": "胸坎破了几落空",
+      "match_text": "胸坎破了几落空",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 101.77,
+      "online_text": "犹原飘撇假轻松",
+      "match_text": "犹原飘撇假轻松",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 105.75,
+      "online_text": "我恨我是倔强的戆侬",
+      "match_text": "我恨我是倔强的戆侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 108.91,
+      "online_text": "毋敢老实讲出爱的侬",
+      "match_text": "毋敢老实讲出爱的侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 145.5,
+      "online_text": "原来幸福拢会变流星",
+      "match_text": "原来幸福拢会变流星",
+      "text": "原來幸福攏會變流星",
+      "spelling": "guân-lâi hīng-hok lóng ē piàn liû-tshinn",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 151.7,
+      "online_text": "永远袂变只有两侬的个性",
+      "match_text": "永远袂变只有两侬的个性",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 157.37,
+      "online_text": "后来咱太倔强固执",
+      "match_text": "后来咱太倔强固执",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 160.71,
+      "online_text": "后来煞无法度转去",
+      "match_text": "后来煞无法度转去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 164.08,
+      "online_text": "两个侬愈来愈远",
+      "match_text": "两个侬愈来愈远",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 166.58,
+      "online_text": "听无后悔吼哀悲",
+      "match_text": "听无后悔吼哀悲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 173.28,
+      "online_text": "无暝无日思念会惊",
+      "match_text": "无暝无日思念会惊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 176.41,
+      "online_text": "心酸无地藏",
+      "match_text": "心酸无地藏",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 179.77,
+      "online_text": "全无心情阁爱别侬",
+      "match_text": "全无心情阁爱别侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 183.12,
+      "online_text": "若无汝 快乐已经无望",
+      "match_text": "若无汝 快乐已经无望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 187.28,
+      "online_text": "胸坎破了几落孔",
+      "match_text": "胸坎破了几落孔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 190.46,
+      "online_text": "犹原飘撇假轻松",
+      "match_text": "犹原飘撇假轻松",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 194.33,
+      "online_text": "我恨我是倔强的戆侬",
+      "match_text": "我恨我是倔强的戆侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 197.67,
+      "online_text": "毋敢老实讲出爱的侬",
+      "match_text": "毋敢老实讲出爱的侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 202.6,
+      "online_text": "目睭䀫䀫 看着汝咧讲话煞无声",
+      "match_text": "目睭䀫䀫 看着汝咧讲话煞无声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 206.98,
+      "online_text": "会当感觉 伫我身边 汝咧做梦",
+      "match_text": "会当感觉 伫我身边 汝咧做梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 213.22,
+      "online_text": "头鬃佮笑容透出茉莉芳",
+      "match_text": "头鬃佮笑容透出茉莉芳",
+      "text": "頭鬃甲笑容透出茉莉香",
+      "spelling": "thâu-tsang kā tshiò-iông thàu-tshut ba̍k-ni phang",
+      "manual_id": "line-67:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 38,
+      "time": 235.89,
+      "online_text": "无暝无日思念会惊",
+      "match_text": "无暝无日思念会惊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 239.03,
+      "online_text": "心酸无地藏",
+      "match_text": "心酸无地藏",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 242.19,
+      "online_text": "全无心情阁再爱别侬",
+      "match_text": "全无心情阁再爱别侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-73:0"
+    },
+    {
+      "source_row": 41,
+      "time": 245.69,
+      "online_text": "用独身等待汝会来揣我",
+      "match_text": "用独身等待汝会来揣我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-73:0"
+    },
+    {
+      "source_row": 42,
+      "time": 250.06,
+      "online_text": "胸坎破了几落孔",
+      "match_text": "胸坎破了几落孔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 253.34,
+      "online_text": "犹原飘撇假轻松",
+      "match_text": "犹原飘撇假轻松",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 256.95,
+      "online_text": "我恨我是倔强的戆侬",
+      "match_text": "我恨我是倔强的戆侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 260.11,
+      "online_text": "毋敢老实讲出爱的侬",
+      "match_text": "毋敢老实讲出爱的侬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 283.4,
+      "online_text": "人声 : Hsiao Huang Chi",
+      "match_text": "人声 : Hsiao Huang Chi",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "9e220b8fcf63ec254d453041e82ba4423d67ee689cf519cd407bfdbd8f217a94",
+    "manual": "64084e23ad29c95a0a03d99b8854a3f2dc5c60542d807bb5779bf0ab6952605c",
+    "timed": "8fa97416b97905d4a08bde40f55a77efa26f000adcf89e76eaa0fd1c5124d6df"
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "徛佇遮 冬天的海岸",
+      "spelling": "khiā tī jia tang-thinn ê hái huānn",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "恬恬聽我講出心情",
+      "spelling": "tiām tiām thiann guá kóng tshut sim-tsiânn",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "困頓的生活何時才會煞",
+      "spelling": "khùn tùn ê sing-ua̍h hô-sî tsiah ē suah",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "斟酌聽 冬天的海岸",
+      "spelling": "tsim-tsiok thiann tang-thinn ê hái huānn",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "我用倔強改變運命",
+      "spelling": "guá iōng khut-kiông kái-piàn ūn-miā",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "生活愈歹過 我會用力唱甲愈大聲",
+      "spelling": "sing-ua̍h lú pháinn-kuè guá ē iōng la̍t tshiùnn kah lú tuā-siann",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "徛佇遮 感受天色變化",
+      "spelling": "khiā tī jia kám-siū thinn-sik piàn-huà",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "佇暗頭時金色海岸我一个人",
+      "spelling": "tī àm-thâu sî kim-sik hái-huānn guá tsi̍t ê lâng",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "這幾年四界走傱的生活",
+      "spelling": "tsit-kuí-nî sì-kuè tsáu-tsông ê sing-ua̍h",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "毋知影按怎講出我心中的孤單",
+      "spelling": "m̄ tsai-iánn án-tsuánn kóng-tshut guá sim-tiong ê koo-tuann",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "肩擔所有人對你的期望有千萬斤重",
+      "spelling": "king tànn sóo-iú lâng tuì lí ê kî-bāng ū tshian-bān kun tāng",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "我嘛想欲成功 但是成功是啥",
+      "spelling": "guá mah siūnn-beh sîng-kong tān-sī siūnn-kong sī siánn",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "你的夢中的理想的生活佇千里之外",
+      "spelling": "lí ê bāng-tiong ê lí-sióng ê sing-ua̍h tī tshian-lí tsi-guā",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "這馬我只想欲恬恬徛佇遮",
+      "spelling": "tsit-má guá tsí siūnn-beh tiām tiām khiā tī jia",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "徛佇遮 感受心情變化",
+      "spelling": "khiā tī jia kám-siū thinn-sik piàn-huà",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "佇入夜的烏色海岸我一个人",
+      "spelling": "tī ji̍p iā ê oo-sik hái huānn guá tsi̍t ê lâng",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "這幾年 將人情冷暖看破",
+      "spelling": "tsit-kuí-nî tsiòng lîn-tsîng líng luán khuànn phuà",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "真心的朋友有幾人 我用心感謝",
+      "spelling": "tsin-sim ê pîng-iú ū kuí lâng guá iōng-sim kám-siā",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "肩擔所有人對你的期望有千萬斤重",
+      "spelling": "king tànn sóo-iú lâng tuì lí ê kî-bāng ū tshian-bān kun tāng",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "我嘛想欲成功 但是成功是啥",
+      "spelling": "guá mah siūnn-beh sîng-kong tān-sī siūnn-kong sī siánn",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "你的夢中的理想的生活佇千里之外",
+      "spelling": "lí ê bāng-tiong ê lí-sióng ê sing-ua̍h tī tshian-lí tsi-guā",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "這馬我只想欲恬恬徛佇遮",
+      "spelling": "tsit-má guá tsí siūnn-beh tiām tiām khiā tī jia",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "徛佇遮 冬天的海岸",
+      "spelling": "khiā tī jia tang-thinn ê hái huānn",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "恬恬聽我講出心情",
+      "spelling": "tiām tiām thiann guá kóng tshut sim-tsiânn",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "困頓的生活何時才會煞",
+      "spelling": "khùn tùn ê sing-ua̍h hô-sî tsiah ē suah",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "斟酌聽 冬天的海岸",
+      "spelling": "tsim-tsiok thiann tang-thinn ê hái huānn",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "我用倔強改變運命",
+      "spelling": "guá iōng khut-kiông kái-piàn ūn-miā",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "生活愈歹過 我會用力唱甲愈大聲",
+      "spelling": "sing-ua̍h lú pháinn-kuè guá ē iōng la̍t tshiùnn kah lú tuā-siann",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "毋是毋捌想過放棄我的夢",
+      "spelling": "m̄ sī m̄ bat siūnn kuè hòng-khì guá ê bāng",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "放棄理想的生活",
+      "spelling": "hòng-khì lí-sióng ê sing-ua̍h",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "總是問我家己敢無夠拍拚",
+      "spelling": "tsóng-sī mn̄g guá ka-kī kám bô-kàu phah-piànn",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "敢是家己傷荏懶",
+      "spelling": "kám sī ka-kī siunn lám-nuā",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "才會活甲遮爾忝",
+      "spelling": "tsiah ē ua̍h kah tsiah-nī thiám",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "徛佇遮 冬天的海岸",
+      "spelling": "khiā tī jia tang-thinn ê hái huānn",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "恬恬聽我講出心情",
+      "spelling": "tiām tiām thiann guá kóng tshut sim-tsiânn",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "困頓的生活 何時才會煞",
+      "spelling": "khùn tùn ê sing-ua̍h hô-sî tsiah ē suah",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "斟酌聽 冬天的海岸",
+      "spelling": "tsim-tsiok thiann tang-thinn ê hái huānn",
+      "source_lines": [
+        111,
+        112
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "我用倔強改變運命",
+      "spelling": "guá iōng khut-kiông kái-piàn ūn-miā",
+      "source_lines": [
+        114,
+        115
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "生活愈歹過 我會用力唱甲愈大聲",
+      "spelling": "sing-ua̍h lú pháinn-kuè guá ē iōng la̍t tshiùnn kah lú tuā-siann",
+      "source_lines": [
+        117,
+        118
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "徛佇遮 冬天的海岸",
+      "spelling": "khiā tī jia tang-thinn ê hái huānn",
+      "source_lines": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "恬恬聽我講出心情",
+      "spelling": "tiām tiām thiann guá kóng tshut sim-tsiânn",
+      "source_lines": [
+        123,
+        124
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "困頓的生活 何時才會煞",
+      "spelling": "khùn tùn ê sing-ua̍h hô-sî tsiah ē suah",
+      "source_lines": [
+        126,
+        127
+      ]
+    },
+    {
+      "id": "line-129",
+      "text": "斟酌聽 冬天的海岸",
+      "spelling": "tsim-tsiok thiann tang-thinn ê hái huānn",
+      "source_lines": [
+        129,
+        130
+      ]
+    },
+    {
+      "id": "line-132",
+      "text": "我用倔強改變運命",
+      "spelling": "guá iōng khut-kiông kái-piàn ūn-miā",
+      "source_lines": [
+        132,
+        133
+      ]
+    },
+    {
+      "id": "line-135",
+      "text": "生活愈歹過 我會用力唱甲愈大聲",
+      "spelling": "sing-ua̍h lú pháinn-kuè guá ē iōng la̍t tshiùnn kah lú tuā-siann",
+      "source_lines": [
+        135,
+        136
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：楊大正   作曲：楊大正 編曲滅火器  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

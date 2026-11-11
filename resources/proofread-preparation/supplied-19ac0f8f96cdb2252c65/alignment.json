@@ -1,0 +1,428 @@
+{
+  "recording_id": "netease:248698",
+  "timing_source": "NetEase https://music.163.com/song?id=248698",
+  "manual_source": "User-supplied resources/lyrics-spelling/頭仔-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "exact": 12,
+    "approximate": 2,
+    "unresolved": 6,
+    "repeat": 12
+  },
+  "review_row_count": 8,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-25:0",
+    "line-40:0",
+    "line-55:0",
+    "line-70:0",
+    "line-73:0",
+    "line-88:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 22.36,
+      "online_text": "日子嘛是按呢过",
+      "match_text": "日子嘛是按呢过",
+      "text": "日子嘛是按呢過",
+      "spelling": "ji̍t-tsí mā sī án-ne kuè",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 28.15,
+      "online_text": "知影你甲阮块躲相找",
+      "match_text": "知影你甲阮块躲相找",
+      "text": "知影你甲阮塊躲相找",
+      "spelling": "tsai-iánn lí kā gún tè bih sio-tshuē",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 34.01,
+      "online_text": "像咱少年时 找无你就冤家",
+      "match_text": "像咱少年时 找无你就冤家",
+      "text": "像咱少年時 找無你就冤家",
+      "spelling": "tshiūnn lán siàu-liân sî tshuē bô lí tio̍h uan-ke",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 40.69,
+      "online_text": "这遍你是躲去缀",
+      "match_text": "这遍你是躲去缀",
+      "text": "這遍你是躲去綴",
+      "spelling": "tsit piàn lí sī bih khì tuè",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 46.09,
+      "online_text": "你的椅仔让我坐",
+      "match_text": "你的椅仔让我坐",
+      "text": "你的椅仔讓我坐",
+      "spelling": "lí ê í-á niū guá tsē",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 51.57,
+      "online_text": "作主的人以後欠一个",
+      "match_text": "作主的人以後欠一个",
+      "text": "作主的人以後欠一個",
+      "spelling": "tsuè-tsú ê lâng í-āu khiàm tsi̍t ê",
+      "manual_id": "line-16:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 6,
+      "time": 57.5,
+      "online_text": "初初跟你时 你空手起家",
+      "match_text": "初初跟你时 你空手起家",
+      "text": "初初跟你時 你空手起家",
+      "spelling": "tshoo-tshoo tuè lí sî lí khang tshiú khí-ke",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 63.57,
+      "online_text": "烦恼厝内吃会饱不",
+      "match_text": "烦恼厝内吃会饱不",
+      "text": "煩惱厝內吃會飽不",
+      "spelling": "huân-ló tshù-lāi tsia̍h ē pá buē",
+      "manual_id": "line-22:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 71.54,
+      "online_text": "阮叫你头仔 你留乎阮是咱这个家",
+      "match_text": "阮叫你头仔 你留乎阮是咱这个家",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 81.1,
+      "online_text": "头仔只是想欲歇困一咧",
+      "match_text": "头仔只是想欲歇困一咧",
+      "text": "頭仔只是想欲歇睏一咧",
+      "spelling": "thâu-e tsí-sī siūnn-beh hioh khùn tsi̍t leh",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 86.68,
+      "online_text": "牵一条线彼边放风吹",
+      "match_text": "牵一条线彼边放风吹",
+      "text": "牽一條線彼邊放風吹",
+      "spelling": "khan tsi̍t tiâu suànn hit pinn pàng-hong-tshue",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 92.5,
+      "online_text": "你叫阮牵仔 阮不甘放手 乎你去飞",
+      "match_text": "你叫阮牵仔 阮不甘放手 乎你去飞",
+      "text": "你叫阮牽仔 阮不甘放手 乎你去飛",
+      "spelling": "lí kiò gún khan-e gún m̄-kam pàng-tshiú hōo lí khì pue",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 101.6,
+      "online_text": "牵到天顶的线 头仔稍等一咧",
+      "match_text": "牵到天顶的线 头仔稍等一咧",
+      "text": "牽到天頂的線 頭仔稍等一咧",
+      "spelling": "khan-m̄ thinn-tíng ê suànn thâu-e sió-tán tsi̍t leh",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 107.56,
+      "online_text": "不通放乎阮 孤单一个",
+      "match_text": "不通放乎阮 孤单一个",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 124.59,
+      "online_text": "人前人後带阮进退",
+      "match_text": "人前人後带阮进退",
+      "text": "人前人後帶阮進退",
+      "spelling": "lîn tsiân lîn āu tshuā gún tsìn-thè",
+      "manual_id": "line-43:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 130.69,
+      "online_text": "大风大涌不曾失陪",
+      "match_text": "大风大涌不曾失陪",
+      "text": "大風大湧不曾失陪",
+      "spelling": "tuā-hong tuā-íng m̄ bat sit-puê",
+      "manual_id": "line-46:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 136.54,
+      "online_text": "一路陪伴你 行到头鬃白",
+      "match_text": "一路陪伴你 行到头鬃白",
+      "text": "一路陪伴你 行到頭鬃白",
+      "spelling": "tsi̍t-lōo puê-phuānn lí kiânn-kàu thâu-tsang pe̍h",
+      "manual_id": "line-49:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 142.17,
+      "online_text": "友孝你有这些世小",
+      "match_text": "友孝你有这些世小",
+      "text": "友孝你有這些世小",
+      "spelling": "iú hàu lí ū tsia-ê sì sè",
+      "manual_id": "line-52:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 150.53,
+      "online_text": "阮叫你头仔 你留乎阮是咱这个家",
+      "match_text": "阮叫你头仔 你留乎阮是咱这个家",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 159.65,
+      "online_text": "头仔只是想欲歇困一咧",
+      "match_text": "头仔只是想欲歇困一咧",
+      "text": "頭仔只是想欲歇睏一咧",
+      "spelling": "thâu-e tsí-sī siūnn-beh hioh khùn tsi̍t leh",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 165.58,
+      "online_text": "牵一条线彼边放风吹",
+      "match_text": "牵一条线彼边放风吹",
+      "text": "牽一條線彼邊放風吹",
+      "spelling": "khan tsi̍t tiâu suànn hit pinn pàng-hong-tshue",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 171.01,
+      "online_text": "你叫阮牵仔 阮不甘放手乎你去飞",
+      "match_text": "你叫阮牵仔 阮不甘放手乎你去飞",
+      "text": "你叫阮牽仔 阮不甘放手 乎你去飛",
+      "spelling": "lí kiò gún khan-e gún m̄-kam pàng-tshiú hōo lí khì pue",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 179.75,
+      "online_text": "牵到天顶的线 头仔稍等一咧",
+      "match_text": "牵到天顶的线 头仔稍等一咧",
+      "text": "牽到天頂的線 頭仔稍等一咧",
+      "spelling": "khan-m̄ thinn-tíng ê suànn thâu-e sió-tán tsi̍t leh",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 185.86,
+      "online_text": "不通放乎阮 孤单一个",
+      "match_text": "不通放乎阮 孤单一个",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 196.99,
+      "online_text": "阮叫你头仔 你留乎阮是咱这个家",
+      "match_text": "阮叫你头仔 你留乎阮是咱这个家",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 205.87,
+      "online_text": "头仔只是想欲歇困一咧",
+      "match_text": "头仔只是想欲歇困一咧",
+      "text": "頭仔只是想欲歇睏一咧",
+      "spelling": "thâu-e tsí-sī siūnn-beh hioh khùn tsi̍t leh",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 211.8,
+      "online_text": "牵一条线彼边放风吹",
+      "match_text": "牵一条线彼边放风吹",
+      "text": "牽一條線彼邊放風吹",
+      "spelling": "khan tsi̍t tiâu suànn hit pinn pàng-hong-tshue",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 217.24,
+      "online_text": "你叫阮牵仔 阮不甘放手乎你去飞",
+      "match_text": "你叫阮牵仔 阮不甘放手乎你去飞",
+      "text": "你叫阮牽仔 阮不甘放手 乎你去飛",
+      "spelling": "lí kiò gún khan-e gún m̄-kam pàng-tshiú hōo lí khì pue",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 225.93,
+      "online_text": "牵到天顶的线 头仔稍等一咧",
+      "match_text": "牵到天顶的线 头仔稍等一咧",
+      "text": "牽到天頂的線 頭仔稍等一咧",
+      "spelling": "khan-m̄ thinn-tíng ê suànn thâu-e sió-tán tsi̍t leh",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 231.87,
+      "online_text": "不通放乎阮 孤单一个",
+      "match_text": "不通放乎阮 孤单一个",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 243.33,
+      "online_text": "牵到天顶的线 阮会牵乎好势",
+      "match_text": "牵到天顶的线 阮会牵乎好势",
+      "text": "牽到天頂的線 阮會牽乎好勢",
+      "spelling": "khan-kàu thinn-tíng ê suànn gún ē khan hōo hó-sè",
+      "manual_id": "line-91:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 250.03,
+      "online_text": "搁叫一声...头仔 会记得甲阮牵咧",
+      "match_text": "搁叫一声...头仔 会记得甲阮牵咧",
+      "text": "擱叫一聲…頭仔 會記得甲阮牽咧",
+      "spelling": "koh kiò tsi̍t siann thâu-e ē-kì-tit kā gún khan leh",
+      "manual_id": "line-94:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.923077
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "801364f0561ff3ed98b45ce1d977f83748ce1221a28f9ee0feec62316ec70934",
+    "manual": "ee09dd401cae586fb5bf872c24674b1397eb8f906ad8f3e74911aba7e9f013d2",
+    "timed": "e0344b1f8064ad76cb8f295cdc1d5520701c4ff2bca33a758fdf2cd4931ae0b8"
+  }
+}

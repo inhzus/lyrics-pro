@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 412951601,
+    "title": "欢迎光临",
+    "artists": [
+      "陈建玮"
+    ],
+    "album": "古伦美亚",
+    "duration": 212.857,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:412951601",
+      "duration": 212.857,
+      "ready": false,
+      "coverage": 0.5238095238095238,
+      "exact_fraction": 0.5238095238095238,
+      "summary": {
+        "credit": 1,
+        "gap": 20,
+        "unresolved": 10,
+        "repeat": 8,
+        "exact": 3
+      }
+    }
+  ]
+}

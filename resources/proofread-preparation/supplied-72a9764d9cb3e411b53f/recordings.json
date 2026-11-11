@@ -1,0 +1,150 @@
+{
+  "candidates": [
+    {
+      "song_id": 64867,
+      "title": "槟榔西施",
+      "artists": [
+        "成龙"
+      ],
+      "album": "第一次",
+      "duration": 280.137,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5260168,
+      "title": "槟榔西施",
+      "artists": [
+        "成龙"
+      ],
+      "album": "台客摇滚百万惊险辑",
+      "duration": 277.386,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5237903,
+      "title": "槟榔西施",
+      "artists": [
+        "成龙"
+      ],
+      "album": "生命之歌",
+      "duration": 277.386,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 346050,
+      "title": "槟榔西施",
+      "artists": [
+        "壁虎"
+      ],
+      "album": "壁虎大乐队 同名专辑",
+      "duration": 313.286,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 147403,
+      "title": "槟榔西施",
+      "artists": [
+        "施文彬"
+      ],
+      "album": "大家乐欢天",
+      "duration": 241.226,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1476455538,
+      "title": "檳榔西施",
+      "artists": [
+        "LIU KOI",
+        "HighBoy",
+        "CuzyBoii"
+      ],
+      "album": "在地",
+      "duration": 183.495,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 147536,
+      "title": "槟榔西施",
+      "artists": [
+        "施文彬"
+      ],
+      "album": "文迹奇武-按怎死都不知",
+      "duration": 246.066,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 90492,
+      "title": "槟榔西施",
+      "artists": [
+        "郭桂彬"
+      ],
+      "album": "极道演歌第二辑：恋人啊",
+      "duration": 182.962,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5271839,
+      "title": "槟榔西施",
+      "artists": [
+        "Timmy"
+      ],
+      "album": "台湾阿兜仔",
+      "duration": 313.626,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1967105667,
+      "title": "槟榔西施",
+      "artists": [
+        "张明辉"
+      ],
+      "album": "台湾流行歌曲精华 8",
+      "duration": 276.276,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "840578236",
+      "title": "槟榔西施",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "十一台",
+      "duration": 158.002,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": 16631861,
+      "title": "檳榔西施",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "十一台",
+      "duration": 158.088,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 34091166,
+      "title": "檳榔西施",
+      "artists": [
+        "成龍"
+      ],
+      "album": "第一次",
+      "duration": 280.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

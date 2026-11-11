@@ -1,0 +1,149 @@
+{
+  "candidates": [
+    {
+      "song_id": 157195,
+      "title": "飞在风中的小雨",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "树枝孤鸟",
+      "duration": 255.266,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1464475988,
+      "title": "飛在風中的小雨",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "江蕙台湾红歌",
+      "duration": 217.373,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 156682,
+      "title": "飞在风中的小雨",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "爱你伍佰年",
+      "duration": 251.489,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 378304,
+      "title": "飞在风中的小雨",
+      "artists": [
+        "孙建平 & Sweet Style"
+      ],
+      "album": "音乐家庭 蝴蝶梦飞",
+      "duration": 225.04,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2655992231,
+      "title": "飞在风中的小雨",
+      "artists": [
+        "小握"
+      ],
+      "album": "《树枝孤鸟》小握闽南语三部曲Ⅴ",
+      "duration": 252.886,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 249299,
+      "title": "飞在风中的小雨",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "江蕙台灣紅歌",
+      "duration": 217.373,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5237902,
+      "title": "飞在风中的小雨",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "生命之歌",
+      "duration": 255.266,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 3354784266,
+      "title": "飞在风中的小雨",
+      "artists": [
+        "叶胜钦",
+        "翁立友"
+      ],
+      "album": "99大旗欢唱巴士",
+      "duration": 261.786,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2055768608,
+      "title": "飞在风中的小雨",
+      "artists": [
+        "陈子岗"
+      ],
+      "album": "KTV总动员 19 台语流行金曲",
+      "duration": 255.575,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 248795,
+      "title": "飞在风中的小雨",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "再会啦！心爱的无缘的人 空笑梦",
+      "duration": 217.373,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1464242994,
+      "title": "飛在風中的小雨",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "江蕙 精选2 (黄金典藏版)",
+      "duration": 216.96,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 249254,
+      "title": "飞在风中的小雨",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "黄金典藏版",
+      "duration": 216.96,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 543965401,
+      "title": "飞在风中的小雨",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "民视情义连续剧主题曲 全精华",
+      "duration": 217.373,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

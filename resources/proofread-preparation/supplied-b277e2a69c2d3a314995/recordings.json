@@ -1,0 +1,104 @@
+{
+  "candidates": [
+    {
+      "song_id": 28528284,
+      "title": "感谢你爱我",
+      "artists": [
+        "萧煌奇"
+      ],
+      "album": "上水的花",
+      "duration": 300.866,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1939402148,
+      "title": "感谢你爱我",
+      "artists": [
+        "丢火车"
+      ],
+      "album": "万事",
+      "duration": 275.625,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3455477568,
+      "title": "感谢你爱我",
+      "artists": [
+        "一粒麦子"
+      ],
+      "album": "",
+      "duration": 156.014,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 220651,
+      "title": "感谢你爱我",
+      "artists": [
+        "陈美玲"
+      ],
+      "album": "EMI星声传集之陈美玲",
+      "duration": 217.269,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 220727,
+      "title": "感谢你爱我",
+      "artists": [
+        "陈美玲"
+      ],
+      "album": "Pat Chan",
+      "duration": 217.8,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2147752620,
+      "title": "感谢你爱我",
+      "artists": [
+        "张老丝儿"
+      ],
+      "album": "我只是一只发黑的黄桃",
+      "duration": 178.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1859657501,
+      "title": "感谢你爱我",
+      "artists": [
+        "姜懿清"
+      ],
+      "album": "感谢你爱我",
+      "duration": 78.889,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1950430028,
+      "title": "感谢你爱我",
+      "artists": [
+        "PenG"
+      ],
+      "album": "善缘",
+      "duration": 367.525,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3389694597,
+      "title": "感谢你爱我",
+      "artists": [
+        "尧尧"
+      ],
+      "album": "",
+      "duration": 243.53,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

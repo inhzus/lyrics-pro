@@ -1,0 +1,606 @@
+{
+  "blocks": [
+    {
+      "id": "line-5",
+      "text": "周末出遠門 放鬆 阿唷",
+      "spelling": "zhōumò chū yuǎnmén fàngsōng ā yō",
+      "source_lines": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "陽光照綠地 海洋配 beach 黑對",
+      "spelling": "yángguāng zhào lǜdì hǎiyáng pèi beach hēi tio̍h",
+      "source_lines": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "沒錯 安排個時間給自己除鏽",
+      "spelling": "méicuò   ānpái gè shíjiān gěi zìjǐ chú xiù",
+      "source_lines": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "沒空 都是藉口                       那都是多講",
+      "spelling": "méi kōng dōu shì jíkǒu     he lóng sī ke kóng",
+      "source_lines": [
+        14,
+        15
+      ],
+      "parts": [
+        {
+          "text": "沒空 都是藉口",
+          "spelling": "méi kōng dōu shì jíkǒu"
+        },
+        {
+          "text": "那都是多講",
+          "spelling": "he lóng sī ke kóng"
+        }
+      ]
+    },
+    {
+      "id": "line-17",
+      "text": "給我放假                    我哩 作夥鬆一下",
+      "spelling": "kā guá pàng-ká      guá lih  tsò-hué song yīxià",
+      "source_lines": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "line-20",
+      "text": "我若放假                    厝邊隔壁都會 OH MY GOD",
+      "spelling": "guá ná pàng-ká      tshù-pinn keh-piah lóng uē  OH MY GOD",
+      "source_lines": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "給我放假 我喊到火大",
+      "spelling": "kā guá pàng-ká  guá huah kah hué-tuā",
+      "source_lines": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "line-26",
+      "text": "這個周末請妳幫我排個假",
+      "spelling": "zhège zhōumò qǐng nǐ bāng wǒ pái gè jiǎ",
+      "source_lines": [
+        26,
+        27
+      ]
+    },
+    {
+      "id": "line-29",
+      "text": "可以嗎",
+      "spelling": "ē-sái mah",
+      "source_lines": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "line-32",
+      "text": "我搖擺的走在金色的沙灘上",
+      "spelling": "wǒ yáobǎi de zǒu zài jīnsè de shātān shàng",
+      "source_lines": [
+        32,
+        33
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "搭搭啷搭搭啷搭搭啷搭搭啷",
+      "spelling": "dā dā lāng dā dā lāng dā dā lāng dā dā lāng",
+      "source_lines": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "我望著遙遠的綠色的仙人掌",
+      "spelling": "wǒ wàngzhe yáoyuǎn de lǜsè de xiānrénzhǎng",
+      "source_lines": [
+        38,
+        39
+      ]
+    },
+    {
+      "id": "line-41",
+      "text": "搭搭啷搭搭啷",
+      "spelling": "dā dā lāng dā dā lāng",
+      "source_lines": [
+        41,
+        42
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "(9453)  就是有鬆    有鬆             有鬆",
+      "spelling": "tio̍h sī ū sang        ū sang        ū sang",
+      "source_lines": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "我搖擺的走在金色的沙灘上",
+      "spelling": "wǒ yáobǎi de zǒu zài jīnsè de shātān shàng",
+      "source_lines": [
+        47,
+        48
+      ]
+    },
+    {
+      "id": "line-50",
+      "text": "金色的沙灘上                         金色的沙灘上",
+      "spelling": "jīnsè de shātān shàng         jīnsè de shātān shàng",
+      "source_lines": [
+        50,
+        51
+      ],
+      "parts": [
+        {
+          "text": "金色的沙灘上",
+          "spelling": "jīnsè de shātān shàng"
+        },
+        {
+          "text": "金色的沙灘上",
+          "spelling": "jīnsè de shātān shàng"
+        }
+      ]
+    },
+    {
+      "id": "line-53",
+      "text": "我望著遙遠的綠色的仙人掌",
+      "spelling": "wǒ wàngzhe yáoyuǎn de lǜsè de xiānrénzhǎng",
+      "source_lines": [
+        53,
+        54
+      ]
+    },
+    {
+      "id": "line-56",
+      "text": "綠色的仙人掌                        綠色的仙人掌",
+      "spelling": "lǜsè de xiānrénzhǎng        lǜsè de xiānrénzhǎng",
+      "source_lines": [
+        56,
+        57
+      ],
+      "parts": [
+        {
+          "text": "綠色的仙人掌",
+          "spelling": "lǜsè de xiānrénzhǎng"
+        },
+        {
+          "text": "綠色的仙人掌",
+          "spelling": "lǜsè de xiānrénzhǎng"
+        }
+      ]
+    },
+    {
+      "id": "line-59",
+      "text": "這首歌送給你                          鬆到不知在做甚麼",
+      "spelling": "tsit siú kua sàng hōo lí      sang kah m̄ tsāi beh tshòng sannh-mih",
+      "source_lines": [
+        59,
+        60
+      ],
+      "parts": [
+        {
+          "text": "這首歌送給你",
+          "spelling": "tsit siú kua sàng hōo lí"
+        },
+        {
+          "text": "鬆到不知在做甚麼",
+          "spelling": "sang kah m̄ tsāi beh tshòng sannh-mih"
+        }
+      ]
+    },
+    {
+      "id": "line-62",
+      "text": "心情若快活                                 音樂就要大聲奏落去",
+      "spelling": "sim-tsîng ná khuìnn-ua̍h     im-ga̍k tō ài tuā-siann tsàu lo̍h-khì",
+      "source_lines": [
+        62,
+        63
+      ],
+      "parts": [
+        {
+          "text": "心情若快活",
+          "spelling": "sim-tsîng ná khuìnn-ua̍h"
+        },
+        {
+          "text": "音樂就要大聲奏落去",
+          "spelling": "im-ga̍k tō ài tuā-siann tsàu lo̍h-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-65",
+      "text": "我不喝酒 PARTY                  我都喝椰子水",
+      "spelling": "guá bô lim tsiú PARTY     guá lóng lim iâ-tsí tsuí",
+      "source_lines": [
+        65,
+        66
+      ],
+      "parts": [
+        {
+          "text": "我不喝酒 PARTY",
+          "spelling": "guá bô lim tsiú PARTY"
+        },
+        {
+          "text": "我都喝椰子水",
+          "spelling": "guá lóng lim iâ-tsí tsuí"
+        }
+      ]
+    },
+    {
+      "id": "line-68",
+      "text": "俗擱好喝                       止嘴乾 又不會礙胃",
+      "spelling": "sio̍k koh hó lim         tsí tshuì kan koh bē gāi-uī",
+      "source_lines": [
+        68,
+        69
+      ],
+      "parts": [
+        {
+          "text": "俗擱好喝",
+          "spelling": "sio̍k koh hó lim"
+        },
+        {
+          "text": "止嘴乾 又不會礙胃",
+          "spelling": "tsí tshuì kan koh bē gāi-uī"
+        }
+      ]
+    },
+    {
+      "id": "line-71",
+      "text": "我鬆 我爽                           我每天都STONE",
+      "spelling": "guá sang guá sóng        guá ta̍k-kang lóng STONE",
+      "source_lines": [
+        71,
+        72
+      ],
+      "parts": [
+        {
+          "text": "我鬆 我爽",
+          "spelling": "guá sang guá sóng"
+        },
+        {
+          "text": "我每天都STONE",
+          "spelling": "guá ta̍k-kang lóng STONE"
+        }
+      ]
+    },
+    {
+      "id": "line-74",
+      "text": "我只要放假                        我話就拿來黑白講",
+      "spelling": "guá tsí-iàu pàng-ká       guá uē tio̍h sa lei oo-pe̍h kóng",
+      "source_lines": [
+        74,
+        75
+      ],
+      "parts": [
+        {
+          "text": "我只要放假",
+          "spelling": "guá tsí-iàu pàng-ká"
+        },
+        {
+          "text": "我話就拿來黑白講",
+          "spelling": "guá uē tio̍h sa lei oo-pe̍h kóng"
+        }
+      ]
+    },
+    {
+      "id": "line-77",
+      "text": "我鬆 我爽                           打斷手骨顛倒勇",
+      "spelling": "guá sang guá sóng        phah-tn̄g tshiú-kut tian-tò ióng",
+      "source_lines": [
+        77,
+        78
+      ],
+      "parts": [
+        {
+          "text": "我鬆 我爽",
+          "spelling": "guá sang guá sóng"
+        },
+        {
+          "text": "打斷手骨顛倒勇",
+          "spelling": "phah-tn̄g tshiú-kut tian-tò ióng"
+        }
+      ]
+    },
+    {
+      "id": "line-80",
+      "text": "放假就是有鬆                       作夥 ALL NIGHT LONG",
+      "spelling": "pàng-ká tio̍h-sī ū sang    tsò-hué ALL NIGHT LONG",
+      "source_lines": [
+        80,
+        81
+      ],
+      "parts": [
+        {
+          "text": "放假就是有鬆",
+          "spelling": "pàng-ká tio̍h-sī ū sang"
+        },
+        {
+          "text": "作夥 ALL NIGHT LONG",
+          "spelling": "tsò-hué ALL NIGHT LONG"
+        }
+      ]
+    },
+    {
+      "id": "line-83",
+      "text": "我搖擺的走在金色的沙灘上",
+      "spelling": "wǒ yáobǎi de zǒu zài jīnsè de shātān shàng",
+      "source_lines": [
+        83,
+        84
+      ]
+    },
+    {
+      "id": "line-86",
+      "text": "搭搭啷搭搭啷搭搭啷搭搭啷",
+      "spelling": "dā dā lāng dā dā lāng dā dā lāng dā dā lāng",
+      "source_lines": [
+        86,
+        87
+      ]
+    },
+    {
+      "id": "line-89",
+      "text": "我望著遙遠的綠色的仙人掌",
+      "spelling": "wǒ wàngzhe yáoyuǎn de lǜsè de xiānrénzhǎng",
+      "source_lines": [
+        89,
+        90
+      ]
+    },
+    {
+      "id": "line-92",
+      "text": "搭搭啷搭搭啷",
+      "spelling": "dā dā lāng dā dā lāng",
+      "source_lines": [
+        92,
+        93
+      ]
+    },
+    {
+      "id": "line-95",
+      "text": "(9453)  就是有鬆    有鬆             有鬆",
+      "spelling": "tio̍h sī ū sang        ū sang        ū sang",
+      "source_lines": [
+        95,
+        96
+      ]
+    },
+    {
+      "id": "line-98",
+      "text": "我搖擺的走在金色的沙灘上",
+      "spelling": "wǒ yáobǎi de zǒu zài jīnsè de shātān shàng",
+      "source_lines": [
+        98,
+        99
+      ]
+    },
+    {
+      "id": "line-101",
+      "text": "金色的沙灘上                         金色的沙灘上",
+      "spelling": "jīnsè de shātān shàng         jīnsè de shātān shàng",
+      "source_lines": [
+        101,
+        102
+      ],
+      "parts": [
+        {
+          "text": "金色的沙灘上",
+          "spelling": "jīnsè de shātān shàng"
+        },
+        {
+          "text": "金色的沙灘上",
+          "spelling": "jīnsè de shātān shàng"
+        }
+      ]
+    },
+    {
+      "id": "line-104",
+      "text": "我望著遙遠的綠色的仙人掌",
+      "spelling": "wǒ wàngzhe yáoyuǎn de lǜsè de xiānrénzhǎng",
+      "source_lines": [
+        104,
+        105
+      ]
+    },
+    {
+      "id": "line-107",
+      "text": "綠色的仙人掌                        綠色的仙人掌",
+      "spelling": "lǜsè de xiānrénzhǎng        lǜsè de xiānrénzhǎng",
+      "source_lines": [
+        107,
+        108
+      ],
+      "parts": [
+        {
+          "text": "綠色的仙人掌",
+          "spelling": "lǜsè de xiānrénzhǎng"
+        },
+        {
+          "text": "綠色的仙人掌",
+          "spelling": "lǜsè de xiānrénzhǎng"
+        }
+      ]
+    },
+    {
+      "id": "line-110",
+      "text": "今仔日馬鬆                     明阿仔馬鬆",
+      "spelling": "kin-á-lit má sang        miâ-tsài má sang",
+      "source_lines": [
+        110,
+        111
+      ],
+      "parts": [
+        {
+          "text": "今仔日馬鬆",
+          "spelling": "kin-á-lit má sang"
+        },
+        {
+          "text": "明阿仔馬鬆",
+          "spelling": "miâ-tsài má sang"
+        }
+      ]
+    },
+    {
+      "id": "line-113",
+      "text": "若看到海景心情就會水噹噹",
+      "spelling": "ná khuànn-tio̍h hái-kíng sim-tsîng tio̍h ē suí-tang-tang",
+      "source_lines": [
+        113,
+        114
+      ]
+    },
+    {
+      "id": "line-116",
+      "text": "對我作夥鬆                            對我作夥鬆",
+      "spelling": "tuì guá tsò-hué sang        tuì guá tsò-hué sang",
+      "source_lines": [
+        116,
+        117
+      ],
+      "parts": [
+        {
+          "text": "對我作夥鬆",
+          "spelling": "tuì guá tsò-hué sang"
+        },
+        {
+          "text": "對我作夥鬆",
+          "spelling": "tuì guá tsò-hué sang"
+        }
+      ]
+    },
+    {
+      "id": "line-119",
+      "text": "我若有好康                      揪妳來聞香",
+      "spelling": "guá ná ū hó khng        khiú lí lâi phīnn-phang",
+      "source_lines": [
+        119,
+        120
+      ],
+      "parts": [
+        {
+          "text": "我若有好康",
+          "spelling": "guá ná ū hó khng"
+        },
+        {
+          "text": "揪妳來聞香",
+          "spelling": "khiú lí lâi phīnn-phang"
+        }
+      ]
+    },
+    {
+      "id": "line-122",
+      "text": "今仔日馬鬆                     明阿仔馬鬆",
+      "spelling": "kin-á-lit má sang        miâ-tsài má sang",
+      "source_lines": [
+        122,
+        123
+      ],
+      "parts": [
+        {
+          "text": "今仔日馬鬆",
+          "spelling": "kin-á-lit má sang"
+        },
+        {
+          "text": "明阿仔馬鬆",
+          "spelling": "miâ-tsài má sang"
+        }
+      ]
+    },
+    {
+      "id": "line-125",
+      "text": "若看到海景心情就會水噹噹",
+      "spelling": "ná khuànn-tio̍h hái-kíng sim-tsîng tio̍h ē suí-tang-tang",
+      "source_lines": [
+        125,
+        126
+      ]
+    },
+    {
+      "id": "line-128",
+      "text": "對我作夥鬆                            對我作夥鬆",
+      "spelling": "tuì guá tsò-hué song        tuì guá tsò-hué song",
+      "source_lines": [
+        128,
+        129
+      ],
+      "parts": [
+        {
+          "text": "對我作夥鬆",
+          "spelling": "tuì guá tsò-hué song"
+        },
+        {
+          "text": "對我作夥鬆",
+          "spelling": "tuì guá tsò-hué song"
+        }
+      ]
+    },
+    {
+      "id": "line-131",
+      "text": "我若有好康                      揪妳來聞香",
+      "spelling": "guá ná ū hó khng        khiú lí lâi phīnn-phang",
+      "source_lines": [
+        131,
+        132
+      ],
+      "parts": [
+        {
+          "text": "我若有好康",
+          "spelling": "guá ná ū hó khng"
+        },
+        {
+          "text": "揪妳來聞香",
+          "spelling": "khiú lí lâi phīnn-phang"
+        }
+      ]
+    },
+    {
+      "id": "line-134",
+      "text": "(9453)  就是有鬆",
+      "spelling": "tio̍h sī ū sang",
+      "source_lines": [
+        134,
+        135
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：玖壹壹   作曲：陳皓宇  台語拼音：關德樂"
+    }
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "text": "Note:  Words in italics are English,  words in bold are Taiwanese, all the rest are Chinese."
+    }
+  ],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text",
+    "source_note_requires_review:3"
+  ]
+}

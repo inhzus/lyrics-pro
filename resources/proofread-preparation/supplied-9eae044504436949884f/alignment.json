@@ -1,0 +1,860 @@
+{
+  "recording_id": "netease:386860",
+  "timing_source": "NetEase https://music.163.com/song?id=386860",
+  "manual_source": "User-supplied resources/lyrics-spelling/雨眠-五月天",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 3,
+    "unresolved": 20,
+    "repeat": 37,
+    "approximate": 2,
+    "exact": 4
+  },
+  "review_row_count": 26,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-10:0",
+    "line-16:1",
+    "line-28:1",
+    "line-31:0",
+    "line-43:0",
+    "line-49:1",
+    "line-61:1",
+    "line-64:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 五月天 阿信",
+      "match_text": "作词 : 五月天 阿信",
+      "text": "作词 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 0.27,
+      "online_text": "作曲 : 五月天 阿信",
+      "match_text": "作曲 : 五月天 阿信",
+      "text": "作曲 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 0.54,
+      "online_text": "编曲 : 五月天",
+      "match_text": "编曲 : 五月天",
+      "text": "编曲 : 五月天",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 0.81,
+      "online_text": "親愛的你甘放未記",
+      "match_text": "親愛的你甘放未記",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 3.71,
+      "online_text": "彼個有你的暗眠",
+      "match_text": "彼個有你的暗眠",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 7.259,
+      "online_text": "雨聲撞不停",
+      "match_text": "雨聲撞不停",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 13.643,
+      "online_text": "你親像溫柔的海浪",
+      "match_text": "你親像溫柔的海浪",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 16.71,
+      "online_text": "棉被下跤的代志",
+      "match_text": "棉被下跤的代志",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 20.276,
+      "online_text": "已經不再可能",
+      "match_text": "已經不再可能",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 29.91,
+      "online_text": "天頂是小雨落不停",
+      "match_text": "天頂是小雨落不停",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 32.909,
+      "online_text": "海底是目屎落未漧",
+      "match_text": "海底是目屎落未漧",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 36.476,
+      "online_text": "我是雲一朵",
+      "match_text": "我是雲一朵",
+      "text": "我是雲一朵",
+      "spelling": "guá sī hûn tsi̍t luí",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 42.934,
+      "online_text": "命運將你我逗作陣",
+      "match_text": "命運將你我逗作陣",
+      "text": "命運將你我逗作陣",
+      "spelling": "miā-ūn tsiòng lí guá lāng tsuè tīn",
+      "manual_id": "line-13:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 45.792,
+      "online_text": "享受到愛人的甜蜜",
+      "match_text": "享受到愛人的甜蜜",
+      "text": "享受到愛人的甜蜜",
+      "spelling": "hiáng-siū tio̍h ài-jîn ê tinn-bi̍t",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 49.559,
+      "online_text": "再將你甲我拆分開",
+      "match_text": "再將你甲我拆分開",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 59.241,
+      "online_text": "親愛的",
+      "match_text": "親愛的",
+      "text": "親愛的",
+      "spelling": "tshin-ài ê",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 60.041,
+      "online_text": "親愛的",
+      "match_text": "親愛的",
+      "text": "親愛的",
+      "spelling": "tshin-ài ê",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 60.841,
+      "online_text": "你所講過的話",
+      "match_text": "你所講過的話",
+      "text": "你所講過的話",
+      "spelling": "lí sóo kóng kuè ê uē",
+      "manual_id": "line-19:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 62.558,
+      "online_text": "哪會到今仔日",
+      "match_text": "哪會到今仔日",
+      "text": "哪會到今仔日",
+      "spelling": "ná ē kàu kin-á-li̍t",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 64.024,
+      "online_text": "攏總無地找",
+      "match_text": "攏總無地找",
+      "text": "攏總無地找",
+      "spelling": "lóng tsóng bô tē tshuē",
+      "manual_id": "line-22:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 65.642,
+      "online_text": "人生太無知",
+      "match_text": "人生太無知",
+      "text": "人生太無知",
+      "spelling": "lîn-sing thài bû ti",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 68.875,
+      "online_text": "愛情是什麼",
+      "match_text": "愛情是什麼",
+      "text": "愛情是什麼",
+      "spelling": "ài-tsîng sī siánn-mih",
+      "manual_id": "line-25:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 72.408,
+      "online_text": "永遠太空虛",
+      "match_text": "永遠太空虛",
+      "text": "永遠太空虛",
+      "spelling": "íng-uán thài khang-hi",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 74.475,
+      "online_text": "无人担当会起",
+      "match_text": "无人担当会起",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 78.541,
+      "online_text": "將你的",
+      "match_text": "將你的",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 79.459,
+      "online_text": "將我的",
+      "match_text": "將我的",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 80.207,
+      "online_text": "昨日說過的話",
+      "match_text": "昨日說過的話",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 81.792,
+      "online_text": "放水流",
+      "match_text": "放水流",
+      "text": "放水流",
+      "spelling": "pàng tsuí-lâu",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 82.701,
+      "online_text": "受風吹",
+      "match_text": "受風吹",
+      "text": "受風吹",
+      "spelling": "siū hong tshue",
+      "manual_id": "line-34:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 83.943,
+      "online_text": "葬入海底",
+      "match_text": "葬入海底",
+      "text": "葬入海底",
+      "spelling": "tsòng ji̍p hái-té",
+      "manual_id": "line-34:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 85.058,
+      "online_text": "將你放未記",
+      "match_text": "將你放未記",
+      "text": "將你放未記",
+      "spelling": "tsiòng lí pàng bē kì",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 88.274,
+      "online_text": "永遠麥想起",
+      "match_text": "永遠麥想起",
+      "text": "永遠麥想起",
+      "spelling": "íng-uán mái siūnn-khí",
+      "manual_id": "line-37:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 91.674,
+      "online_text": "你是彼粒星",
+      "match_text": "你是彼粒星",
+      "text": "你是彼粒星",
+      "spelling": "lí sī hit lia̍p tshinn",
+      "manual_id": "line-37:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 94.008,
+      "online_text": "飛過我的天頂",
+      "match_text": "飛過我的天頂",
+      "text": "飛過我的天頂",
+      "spelling": "pue-kuè guá ê thinn-tíng",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 101.317,
+      "online_text": "親愛的你甘放未記",
+      "match_text": "親愛的你甘放未記",
+      "text": "心愛的你甘放未記",
+      "spelling": "sim-ài-ê lí kam pàng buē kì",
+      "manual_id": "line-1:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 35,
+      "time": 104.218,
+      "online_text": "彼個有你的暗眠",
+      "match_text": "彼個有你的暗眠",
+      "text": "彼個有你的暗眠",
+      "spelling": "hit-ê ū lí ê àm bîn",
+      "manual_id": "line-1:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 107.901,
+      "online_text": "雨聲撞不停",
+      "match_text": "雨聲撞不停",
+      "text": "雨聲撞不停",
+      "spelling": "hōo siann lòng buē-thîng",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 114.136,
+      "online_text": "你親像溫柔的海浪",
+      "match_text": "你親像溫柔的海浪",
+      "text": "你親像溫柔的海浪",
+      "spelling": "lí tshin-tshiūnn un-liû ê hái-íng",
+      "manual_id": "line-4:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 117.217,
+      "online_text": "棉被下跤的代志",
+      "match_text": "棉被下跤的代志",
+      "text": "棉被底下的代誌",
+      "spelling": "mî-phuē ē-kha ê tāi-tsì",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 39,
+      "time": 120.768,
+      "online_text": "已經不再可能",
+      "match_text": "已經不再可能",
+      "text": "已經不再可能",
+      "spelling": "í-king put tsài khó-lîng",
+      "manual_id": "line-7:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 130.542,
+      "online_text": "天頂是小雨落不停",
+      "match_text": "天頂是小雨落不停",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 133.458,
+      "online_text": "海底是目屎落未漧",
+      "match_text": "海底是目屎落未漧",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 136.959,
+      "online_text": "我是雲一朵",
+      "match_text": "我是雲一朵",
+      "text": "我是雲一朵",
+      "spelling": "guá sī hûn tsi̍t luí",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 43,
+      "time": 143.625,
+      "online_text": "命運將你我逗作陣",
+      "match_text": "命運將你我逗作陣",
+      "text": "命運將你我逗作陣",
+      "spelling": "miā-ūn tsiòng lí guá lāng tsuè tīn",
+      "manual_id": "line-13:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 44,
+      "time": 146.408,
+      "online_text": "享受到愛人的甜蜜",
+      "match_text": "享受到愛人的甜蜜",
+      "text": "享受到愛人的甜蜜",
+      "spelling": "hiáng-siū tio̍h ài-jîn ê tinn-bi̍t",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 45,
+      "time": 149.991,
+      "online_text": "再將你甲我拆分開",
+      "match_text": "再將你甲我拆分開",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 169.798,
+      "online_text": "親愛的",
+      "match_text": "親愛的",
+      "text": "親愛的",
+      "spelling": "tshin-ài ê",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 47,
+      "time": 170.381,
+      "online_text": "親愛的",
+      "match_text": "親愛的",
+      "text": "親愛的",
+      "spelling": "tshin-ài ê",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 48,
+      "time": 171.148,
+      "online_text": "你所講過的話",
+      "match_text": "你所講過的話",
+      "text": "你所講過的話",
+      "spelling": "lí sóo kóng kuè ê uē",
+      "manual_id": "line-19:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 49,
+      "time": 172.698,
+      "online_text": "哪會到今仔日",
+      "match_text": "哪會到今仔日",
+      "text": "哪會到今仔日",
+      "spelling": "ná ē kàu kin-á-li̍t",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 50,
+      "time": 174.398,
+      "online_text": "攏總無地找",
+      "match_text": "攏總無地找",
+      "text": "攏總無地找",
+      "spelling": "lóng tsóng bô tē tshuē",
+      "manual_id": "line-22:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 51,
+      "time": 175.931,
+      "online_text": "人生太無知",
+      "match_text": "人生太無知",
+      "text": "人生太無知",
+      "spelling": "lîn-sing thài bû ti",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 52,
+      "time": 179.097,
+      "online_text": "愛情是什麼",
+      "match_text": "愛情是什麼",
+      "text": "愛情是什麼",
+      "spelling": "ài-tsîng sī siánn-mih",
+      "manual_id": "line-25:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 53,
+      "time": 182.431,
+      "online_text": "永遠太空虛",
+      "match_text": "永遠太空虛",
+      "text": "永遠太空虛",
+      "spelling": "íng-uán thài khang-hi",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 54,
+      "time": 184.816,
+      "online_text": "无人担当会起",
+      "match_text": "无人担当会起",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 55,
+      "time": 188.998,
+      "online_text": "將你的",
+      "match_text": "將你的",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 56,
+      "time": 189.681,
+      "online_text": "將我的",
+      "match_text": "將我的",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 57,
+      "time": 190.565,
+      "online_text": "昨日說過的話",
+      "match_text": "昨日說過的話",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 58,
+      "time": 192.047,
+      "online_text": "放水流",
+      "match_text": "放水流",
+      "text": "放水流",
+      "spelling": "pàng tsuí-lâu",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 59,
+      "time": 192.831,
+      "online_text": "受風吹",
+      "match_text": "受風吹",
+      "text": "受風吹",
+      "spelling": "siū hong tshue",
+      "manual_id": "line-34:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 60,
+      "time": 194.197,
+      "online_text": "葬入海底",
+      "match_text": "葬入海底",
+      "text": "葬入海底",
+      "spelling": "tsòng ji̍p hái-té",
+      "manual_id": "line-34:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 61,
+      "time": 195.497,
+      "online_text": "將你放未記",
+      "match_text": "將你放未記",
+      "text": "將你放未記",
+      "spelling": "tsiòng lí pàng bē kì",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 62,
+      "time": 198.664,
+      "online_text": "永遠麥想起",
+      "match_text": "永遠麥想起",
+      "text": "永遠麥想起",
+      "spelling": "íng-uán mái siūnn-khí",
+      "manual_id": "line-37:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 63,
+      "time": 201.898,
+      "online_text": "你是彼粒星",
+      "match_text": "你是彼粒星",
+      "text": "你是彼粒星",
+      "spelling": "lí sī hit lia̍p tshinn",
+      "manual_id": "line-37:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 64,
+      "time": 204.331,
+      "online_text": "飛過我的天頂",
+      "match_text": "飛過我的天頂",
+      "text": "飛過我的天頂",
+      "spelling": "pue-kuè guá ê thinn-tíng",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 65,
+      "time": 210.73,
+      "online_text": "又擱是落雨的暗眠",
+      "match_text": "又擱是落雨的暗眠",
+      "text": "又擱是落雨的暗眠",
+      "spelling": "iū koh sī lo̍h hōo ê àm bîn",
+      "manual_id": "line-40:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "4ff7142663be83f6f9a91fdf78b659d9d130a258c071ada512d4ecce07c8803a",
+    "manual": "2df8f55fefb6dcf458883921bf33e2695740324cdfff667ee58f349e98ea81ac",
+    "timed": "21a7da25ceb97e1864468d2acad7b11be56ebcc48416b2d34db1cb24ba83669b"
+  }
+}

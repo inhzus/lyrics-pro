@@ -1,0 +1,435 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "(女)愛 好親像過客",
+      "spelling": "ài  hònn tshin-tshiūnn kuè-kheh",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "(男)情 好親像冬雪",
+      "spelling": "tsîng  hònn tshin-tshiūnn tang seh",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "(女)一場風雨的經過 將你咱綁作伙",
+      "spelling": "tsi̍t-tiûnn hong-hōo ê king-kuè  tsiòng lí lán pa̍k tsò-hué",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "(男)無論風塊吹 雲塊飛 情愛像梅花",
+      "spelling": "bô-lūn hong tè tshue  hûn tè pue  tsîng-ài tshiūnn muî-hue",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "(男)天愈冷",
+      "spelling": "thinn lú líng",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "(女)心愈撐",
+      "spelling": "sim lú kīng",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "(合)感情愈堅定",
+      "spelling": "kám-tsîng lú kian-tīng",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "(男)愛可比雪中花",
+      "spelling": "ài khó-pí suat tiong hue",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "(女)若是打袂開心內的謎題",
+      "spelling": "ná sī phah buē khui sim-lāi ê bê tê",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "(合)情愛真真假假 有魂無體",
+      "spelling": "tsîng-ài tsin-tsin-ké-ké  ū hûn bô thé",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "(女)雪嘛嘸講話",
+      "spelling": "seh mah m̄ kóng-uē",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "(男)花嘛無聲無說",
+      "spelling": "hue mah bô siann bô suè",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "(男)情可比雲中月",
+      "spelling": "tsîng khó-pí hûn tiong gue̍h",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "(女)若是打開了心內的謎題",
+      "spelling": "ná sī phah khui liáu sim-lāi ê bê tê",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "(合)情愛歡歡喜喜永遠作伙",
+      "spelling": "tsîng-ài huann-huann-hí-hí íng-uán tsuè-hué",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "(男)雲嘛真厚話",
+      "spelling": "hûn mah tsin kāu-uē",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "(女)月嘛聽歸暝",
+      "spelling": "gue̍h mah thiann kui-mî",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "(女)愛 好親像過客",
+      "spelling": "ài  hònn tshin-tshiūnn kuè-kheh",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "(男)情 好親像冬雪",
+      "spelling": "tsîng  hònn tshin-tshiūnn tang seh",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "(女)一場風雨的經過 將你咱綁作伙",
+      "spelling": "tsi̍t-tiûnn hong-hōo ê king-kuè  tsiòng lí lán pa̍k tsò-hué",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "(男)無論風塊吹 雲塊飛 情愛像梅花",
+      "spelling": "bô-lūn hong tè tshue  hûn tè pue  tsîng-ài tshiūnn muî-hue",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "(男)天愈冷",
+      "spelling": "thinn lú líng",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "(女)心愈撐",
+      "spelling": "sim lú kīng",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "(合)感情愈堅定",
+      "spelling": "kám-tsîng lú kian-tīng",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "(男)愛可比雪中花",
+      "spelling": "ài khó-pí suat tiong hue",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "(女)若是打袂開心內的謎題",
+      "spelling": "ná sī phah buē khui sim-lāi ê bê tê",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "(合)情愛真真假假 有魂無體",
+      "spelling": "tsîng-ài tsin-tsin-ké-ké  ū hûn bô thé",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "(女)雪嘛嘸講話",
+      "spelling": "seh mah m̄ kóng-uē",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "(男)花嘛無聲無說",
+      "spelling": "hue mah bô siann bô suè",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "(男)情可比雲中月",
+      "spelling": "tsîng khó-pí hûn tiong gue̍h",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "(女)若是打開了心內的謎題",
+      "spelling": "ná sī phah khui liáu sim-lāi ê bê tê",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "(合)情愛歡歡喜喜永遠作伙",
+      "spelling": "tsîng-ài huann-huann-hí-hí íng-uán tsuè-hué",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "(男)雲嘛真厚話",
+      "spelling": "hûn mah tsin kāu-uē",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "(女)月嘛聽歸暝",
+      "spelling": "gue̍h mah thiann kui-mî",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "(男)愛可比雪中花",
+      "spelling": "ài khó-pí suat tiong hue",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "(女)若是打袂開心內的謎題",
+      "spelling": "ná sī phah buē khui sim-lāi ê bê tê",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "(合)情愛真真假假 有魂無體",
+      "spelling": "tsîng-ài tsin-tsin-ké-ké  ū hûn bô thé",
+      "source_lines": [
+        111,
+        112
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "(女)雪嘛嘸講話",
+      "spelling": "seh mah m̄ kóng-uē",
+      "source_lines": [
+        114,
+        115
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "(男)花嘛無聲無說",
+      "spelling": "hue mah bô siann bô suè",
+      "source_lines": [
+        117,
+        118
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "(男)情可比雲中月",
+      "spelling": "tsîng khó-pí hûn tiong gue̍h",
+      "source_lines": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "(女)若是打開了心內的謎題",
+      "spelling": "ná sī phah khui liáu sim-lāi ê bê tê",
+      "source_lines": [
+        123,
+        124
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "(合)情愛歡歡喜喜永遠作伙",
+      "spelling": "tsîng-ài huann-huann-hí-hí íng-uán tsuè-hué",
+      "source_lines": [
+        126,
+        127
+      ]
+    },
+    {
+      "id": "line-129",
+      "text": "(男)雲嘛真厚話",
+      "spelling": "hûn mah tsin kāu-uē",
+      "source_lines": [
+        129,
+        130
+      ]
+    },
+    {
+      "id": "line-132",
+      "text": "(女)月嘛聽歸暝",
+      "spelling": "gue̍h mah thiann kui-mî",
+      "source_lines": [
+        132,
+        133
+      ]
+    },
+    {
+      "id": "line-135",
+      "text": "(男)啊～天愈冷",
+      "spelling": "ah ～ thinn lú líng",
+      "source_lines": [
+        135,
+        136
+      ]
+    },
+    {
+      "id": "line-138",
+      "text": "(女)心愈堅定",
+      "spelling": "sim lú kian-tīng",
+      "source_lines": [
+        138,
+        139
+      ]
+    },
+    {
+      "id": "line-141",
+      "text": "(合)恩愛過一生",
+      "spelling": "un-ài kuè it-sing",
+      "source_lines": [
+        141,
+        142
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：郭之儀   作曲：郭之儀   台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

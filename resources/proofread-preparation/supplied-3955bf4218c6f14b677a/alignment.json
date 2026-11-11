@@ -1,0 +1,281 @@
+{
+  "recording_id": "netease:2706343920",
+  "timing_source": "NetEase https://music.163.com/song?id=2706343920",
+  "manual_source": "User-supplied resources/lyrics-spelling/超級掰歌-男子漢樂團",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "unresolved": 10,
+    "repeat": 2,
+    "approximate": 4
+  },
+  "review_row_count": 14,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-73:0"
+  ],
+  "unused_repeat_ids": [
+    "line-22:0",
+    "line-25:0",
+    "line-28:0",
+    "line-52:0",
+    "line-58:0",
+    "line-64:0",
+    "line-67:0",
+    "line-70:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 宏大",
+      "match_text": "作词 : 宏大",
+      "text": "作词 : 宏大",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 宏大",
+      "match_text": "作曲 : 宏大",
+      "text": "作曲 : 宏大",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 21.93,
+      "online_text": "超级掰歌",
+      "match_text": "超级掰歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 22.32,
+      "online_text": "词／曲：宏大",
+      "match_text": "词／曲：宏大",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 22.71,
+      "online_text": "楼顶邀楼下 阿公邀阿嬷 两粒卤蛋一块豆干",
+      "match_text": "楼顶邀楼下 阿公邀阿嬷 两粒卤蛋一块豆干",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 24.6,
+      "online_text": "全家是我家 逐天屈底那 恁老师的三轮车",
+      "match_text": "全家是我家 逐天屈底那 恁老师的三轮车",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 28.47,
+      "online_text": "吼吼嘿吼 吼吼吼嘿吼",
+      "match_text": "吼吼嘿吼 吼吼吼嘿吼",
+      "text": "吼吼嘿吼吼吼吼嘿吼",
+      "spelling": "háu háu heh háu háu háu háu heh háu",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 46.62,
+      "online_text": "真正会害 笑到落下巴",
+      "match_text": "真正会害 笑到落下巴",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 48.3,
+      "online_text": "真正会害 帅哥挖肚脐",
+      "match_text": "真正会害 帅哥挖肚脐",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 48.9,
+      "online_text": "真正会害 啥咪拢是因为爱",
+      "match_text": "真正会害 啥咪拢是因为爱",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 56.31,
+      "online_text": "真正会害(厉害) 真正有够害(超级掰)",
+      "match_text": "真正会害(厉害) 真正有够害(超级掰)",
+      "text": "真正耶害 真正有夠害(真正超級掰)",
+      "spelling": "tsin-tsiànn ê hāi tsin-tsiànn ū kàu hāi (tsin-tsiànn tshiau-kip pué)",
+      "manual_id": "line-31:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.785714
+    },
+    {
+      "source_row": 11,
+      "time": 72.72,
+      "online_text": "阿秋槟榔摊 两粒卖一百 排队排去到桥下",
+      "match_text": "阿秋槟榔摊 两粒卖一百 排队排去到桥下",
+      "text": "阿秋檳榔攤 兩粒賣一百",
+      "spelling": "ah tshiu pin-nn̂g tànn nn̄g lia̍p bē tsi̍t pà",
+      "manual_id": "line-34:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.740741
+    },
+    {
+      "source_row": 12,
+      "time": 75.51,
+      "online_text": "庙口榕树下 逐天十八啦 胡须长到脚赤背",
+      "match_text": "庙口榕树下 逐天十八啦 胡须长到脚赤背",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 80.4,
+      "online_text": "吼吼嘿吼 吼吼吼嘿吼",
+      "match_text": "吼吼嘿吼 吼吼吼嘿吼",
+      "text": "吼吼嘿吼吼吼吼嘿吼",
+      "spelling": "háu háu heh háu háu háu háu heh háu",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 98.61,
+      "online_text": "真正会害 笑到落下巴",
+      "match_text": "真正会害 笑到落下巴",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 102.42,
+      "online_text": "真正会害 烟斗大枯呆",
+      "match_text": "真正会害 烟斗大枯呆",
+      "text": "真正耶害 煙斗的大枯呆",
+      "spelling": "tsin-tsiànn ê hāi ian-táu tuā khoo tai",
+      "manual_id": "line-55:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.842105
+    },
+    {
+      "source_row": 16,
+      "time": 104.31,
+      "online_text": "真正会害 啥咪拢是因为爱",
+      "match_text": "真正会害 啥咪拢是因为爱",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 111.51,
+      "online_text": "真正会害 真正有够害",
+      "match_text": "真正会害 真正有够害",
+      "text": "真正耶(厲)害 真正有夠害",
+      "spelling": "tsin-tsiànn ê hāi tsin-tsiànn ū kàu hāi",
+      "manual_id": "line-61:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.842105
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "44c0eea27b52bd8e6b9ed33ee313024e80ce89523cac0c1e37388a2b34a0f535",
+    "manual": "af40843bfdddfa42657046e36874d9ca3957775f27cca30c20133ecb2b586b23",
+    "timed": "93b6d22201c4fbc56b8b663a71be4dd94721036a17fec4989f32635d8647ec2a"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 490182967,
+    "title": "袂开的花",
+    "artists": [
+      "Ripple"
+    ],
+    "album": "袂开的花",
+    "duration": 266.135,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:490182967",
+      "duration": 266.135,
+      "ready": false,
+      "coverage": 0.7373737373737373,
+      "exact_fraction": 0.7407407407407407,
+      "summary": {
+        "credit": 2,
+        "repeat": 20,
+        "unresolved": 7,
+        "gap": 1
+      }
+    }
+  ]
+}

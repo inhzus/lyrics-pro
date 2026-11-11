@@ -1,0 +1,697 @@
+{
+  "blocks": [
+    {
+      "id": "line-5",
+      "text": "胡搞瞎搞啦啦　                  胡搞瞎搞啦",
+      "spelling": "hú gǎo xiā gǎo lah lah     hú gǎo xiā gǎo lah",
+      "source_lines": [
+        5,
+        6
+      ],
+      "parts": [
+        {
+          "text": "胡搞瞎搞啦啦",
+          "spelling": "hú gǎo xiā gǎo lah lah"
+        },
+        {
+          "text": "胡搞瞎搞啦",
+          "spelling": "hú gǎo xiā gǎo lah"
+        }
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "我是燒酒仙啦啦　                     我是燒酒仙啦",
+      "spelling": "guá sī sio-tsiú sian lah lah     guá sī sio-tsiú sian lah",
+      "source_lines": [
+        8,
+        9
+      ],
+      "parts": [
+        {
+          "text": "我是燒酒仙啦啦",
+          "spelling": "guá sī sio-tsiú sian lah lah"
+        },
+        {
+          "text": "我是燒酒仙啦",
+          "spelling": "guá sī sio-tsiú sian lah"
+        }
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "頭暈腦鈍鈍啦啦　                         頭暈腦鈍鈍啦",
+      "spelling": "thâu hîn náu tùn tùn lah lah    thâu-hîn náu tùn tùn",
+      "source_lines": [
+        11,
+        12
+      ],
+      "parts": [
+        {
+          "text": "頭暈腦鈍鈍啦啦",
+          "spelling": "thâu hîn náu tùn tùn lah lah"
+        },
+        {
+          "text": "頭暈腦鈍鈍啦",
+          "spelling": "thâu-hîn náu tùn tùn"
+        }
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "每日就食醉啦 醉",
+      "spelling": "ta̍k-kin tio̍h si̍t tsuì lah tsuì",
+      "source_lines": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "line-17",
+      "text": "田唇的月光　到下夜落山背",
+      "spelling": "tiěn sǔn ge ngied góng do há ia log sán boi",
+      "source_lines": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "line-20",
+      "text": "俺行到路巷　目瞇瞇尋路轉",
+      "spelling": "ngaǐ hǎng do lu hong mug mì mì qǐm lu zòn",
+      "source_lines": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "那樹仔直搖　涼風吹過來　心情也舒爽",
+      "spelling": "ge su è ging ieǔ liǒng fúng coí go loǐ xím qǐn iá sú sòng",
+      "source_lines": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "line-26",
+      "text": "人生快樂　愛使麼人教",
+      "spelling": "ngǐn sén kuai log oi siì mà ngǐn gaú",
+      "source_lines": [
+        26,
+        27
+      ]
+    },
+    {
+      "id": "line-29",
+      "text": "俺邊行邊唱　哥是仙妹係嫦娥",
+      "spelling": "ngaǐ gín hǎng gin cong gó he xién moi he cháng ngò",
+      "source_lines": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "line-32",
+      "text": "也唔使多講　唱出山歌俺　真會哦",
+      "spelling": "iá m siì dó gòng cong cùd sán gó ngaǐ jit kiang o",
+      "source_lines": [
+        32,
+        33
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "那電火燉直搖　日頭撐過來",
+      "spelling": "ge tien fò dún ngid ieǔ ngìd teǔ cang go loǐ",
+      "source_lines": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "心情也真艱苦    人生快樂",
+      "spelling": "xím qǐn iá gán na kù    ngǐn sén kuai log",
+      "source_lines": [
+        38,
+        39
+      ],
+      "parts": [
+        {
+          "text": "心情也真艱苦",
+          "spelling": "xím qǐn iá gán na kù"
+        },
+        {
+          "text": "人生快樂",
+          "spelling": "ngǐn sén kuai log"
+        }
+      ]
+    },
+    {
+      "id": "line-41",
+      "text": "沒酒哪會爽",
+      "spelling": "mud jiù nai voi sòng",
+      "source_lines": [
+        41,
+        42
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "我常常攏愛喝到天光",
+      "spelling": "guá tiānn-tiānn lóng ài lim kàu thinn kng",
+      "source_lines": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "頭暈腦鈍鈍啦",
+      "spelling": "thâu-hîn náu tùn tùn lah",
+      "source_lines": [
+        47,
+        48
+      ]
+    },
+    {
+      "id": "line-50",
+      "text": "我是燒酒仙　                      看到你不要罵阮目眶紅像鬼",
+      "spelling": "guá sī sio-tsiú sian            khuànn-tio̍h lí mai mā gún ba̍k khoo âng na kuí",
+      "source_lines": [
+        50,
+        51
+      ],
+      "parts": [
+        {
+          "text": "我是燒酒仙",
+          "spelling": "guá sī sio-tsiú sian"
+        },
+        {
+          "text": "看到你不要罵阮目眶紅像鬼",
+          "spelling": "khuànn-tio̍h lí mai mā gún ba̍k khoo âng na kuí"
+        }
+      ]
+    },
+    {
+      "id": "line-53",
+      "text": "人生像遊戲　                       要做嘛要喝淡薄",
+      "spelling": "lîn-sing na tshit-thô          beh tsò mah ài lim tām-po̍h",
+      "source_lines": [
+        53,
+        54
+      ],
+      "parts": [
+        {
+          "text": "人生像遊戲",
+          "spelling": "lîn-sing na tshit-thô"
+        },
+        {
+          "text": "要做嘛要喝淡薄",
+          "spelling": "beh tsò mah ài lim tām-po̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-56",
+      "text": "歡喜　            管他日頭來撐　                     我暗時仔一尾龍",
+      "spelling": "huann-hí       kuán-i ngìd teǔ loì cang     guá àm-sî á tsi̍t bué liông",
+      "source_lines": [
+        56,
+        57
+      ],
+      "parts": [
+        {
+          "text": "歡喜",
+          "spelling": "huann-hí"
+        },
+        {
+          "text": "管他日頭來撐",
+          "spelling": "kuán-i ngìd teǔ loì cang"
+        },
+        {
+          "text": "我暗時仔一尾龍",
+          "spelling": "guá àm-sî á tsi̍t bué liông"
+        }
+      ]
+    },
+    {
+      "id": "line-59",
+      "text": "胡搞瞎搞啦啦　                  胡搞瞎搞啦",
+      "spelling": "hú gǎo xiā gǎo lah lah     hú gǎo xiā gǎo lah",
+      "source_lines": [
+        59,
+        60
+      ],
+      "parts": [
+        {
+          "text": "胡搞瞎搞啦啦",
+          "spelling": "hú gǎo xiā gǎo lah lah"
+        },
+        {
+          "text": "胡搞瞎搞啦",
+          "spelling": "hú gǎo xiā gǎo lah"
+        }
+      ]
+    },
+    {
+      "id": "line-62",
+      "text": "我是燒酒仙啦啦　                     我是燒酒仙啦",
+      "spelling": "guá sī sio-tsiú sian lah lah     guá sī sio-tsiú sian lah",
+      "source_lines": [
+        62,
+        63
+      ],
+      "parts": [
+        {
+          "text": "我是燒酒仙啦啦",
+          "spelling": "guá sī sio-tsiú sian lah lah"
+        },
+        {
+          "text": "我是燒酒仙啦",
+          "spelling": "guá sī sio-tsiú sian lah"
+        }
+      ]
+    },
+    {
+      "id": "line-65",
+      "text": "頭暈腦鈍鈍啦啦　                         頭暈腦鈍鈍啦",
+      "spelling": "thâu hîn náu tùn tùn lah lah    thâu-hîn náu tùn tùn",
+      "source_lines": [
+        65,
+        66
+      ],
+      "parts": [
+        {
+          "text": "頭暈腦鈍鈍啦啦",
+          "spelling": "thâu hîn náu tùn tùn lah lah"
+        },
+        {
+          "text": "頭暈腦鈍鈍啦",
+          "spelling": "thâu-hîn náu tùn tùn"
+        }
+      ]
+    },
+    {
+      "id": "line-68",
+      "text": "每日就食醉啦 醉",
+      "spelling": "ta̍k-kin tio̍h si̍t tsuì lah tsuì",
+      "source_lines": [
+        68,
+        69
+      ]
+    },
+    {
+      "id": "line-71",
+      "text": "田唇的月光　                             到下夜落山背",
+      "spelling": "tiěn sǔn ge ngied góng           do há ia log sán boi",
+      "source_lines": [
+        71,
+        72
+      ],
+      "parts": [
+        {
+          "text": "田唇的月光",
+          "spelling": "tiěn sǔn ge ngied góng"
+        },
+        {
+          "text": "到下夜落山背",
+          "spelling": "do há ia log sán boi"
+        }
+      ]
+    },
+    {
+      "id": "line-74",
+      "text": "俺行到路巷　目瞇瞇尋路轉",
+      "spelling": "ngaǐ hǎng do lu hong mug mì mì qǐm lu zòn",
+      "source_lines": [
+        74,
+        75
+      ]
+    },
+    {
+      "id": "line-77",
+      "text": "電火柱一直搖　日頭照過來　心情真艱苦",
+      "spelling": "tiān-huè thiāu ti̍t-ti̍t iô  ji̍t-thâu tshiō kuè-lâi  sim-tsîng tsiânn kan-khóo",
+      "source_lines": [
+        77,
+        78
+      ]
+    },
+    {
+      "id": "line-80",
+      "text": "人生快樂　沒酒哪會爽",
+      "spelling": "lîn-sing khuài-lo̍k  bô tsiú ná ē sóng",
+      "source_lines": [
+        80,
+        81
+      ]
+    },
+    {
+      "id": "line-83",
+      "text": "我常常攏愛喝到天光",
+      "spelling": "guá tiānn-tiānn lóng ài lim kàu thinn kng",
+      "source_lines": [
+        83,
+        84
+      ]
+    },
+    {
+      "id": "line-86",
+      "text": "頭暈腦鈍鈍啦",
+      "spelling": "thâu-hîn náu tùn tùn loh",
+      "source_lines": [
+        86,
+        87
+      ]
+    },
+    {
+      "id": "line-89",
+      "text": "我是燒酒仙　                      看到你不要罵阮頭毛亂亂像鬼",
+      "spelling": "guá sī sio-tsiú sian            khuànn-tio̍h lí mai mā gún thâu mn̂g hôo-nà-sannh na kuí",
+      "source_lines": [
+        89,
+        90
+      ],
+      "parts": [
+        {
+          "text": "我是燒酒仙",
+          "spelling": "guá sī sio-tsiú sian"
+        },
+        {
+          "text": "看到你不要罵阮頭毛亂亂像鬼",
+          "spelling": "khuànn-tio̍h lí mai mā gún thâu mn̂g hôo-nà-sannh na kuí"
+        }
+      ]
+    },
+    {
+      "id": "line-92",
+      "text": "人生像遊戲　                       要做嘛要喝淡薄",
+      "spelling": "lîn-sing na tshit-thô          beh tsò mah ài lim tām-po̍h",
+      "source_lines": [
+        92,
+        93
+      ],
+      "parts": [
+        {
+          "text": "人生像遊戲",
+          "spelling": "lîn-sing na tshit-thô"
+        },
+        {
+          "text": "要做嘛要喝淡薄",
+          "spelling": "beh tsò mah ài lim tām-po̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-95",
+      "text": "歡喜　            管他日頭來撐　                     我暗時仔一",
+      "spelling": "huann-hí       kuán-i ngìd teǔ loì cang     guá àm-sî á tsi̍t bué liông",
+      "source_lines": [
+        95,
+        96
+      ],
+      "parts": [
+        {
+          "text": "歡喜",
+          "spelling": "huann-hí"
+        },
+        {
+          "text": "管他日頭來撐",
+          "spelling": "kuán-i ngìd teǔ loì cang"
+        },
+        {
+          "text": "我暗時仔一",
+          "spelling": "guá àm-sî á tsi̍t bué liông"
+        }
+      ]
+    },
+    {
+      "id": "line-98",
+      "text": "我常常攏愛喝到天光",
+      "spelling": "guá tiānn-tiānn lóng ài lim kàu thinn kng",
+      "source_lines": [
+        98,
+        99
+      ]
+    },
+    {
+      "id": "line-101",
+      "text": "頭暈腦鈍鈍啦",
+      "spelling": "thâu-hîn náu tùn tùn lah",
+      "source_lines": [
+        101,
+        102
+      ]
+    },
+    {
+      "id": "line-104",
+      "text": "我是燒酒仙　                       看到你不要罵阮目眶紅像鬼",
+      "spelling": "guá sī sio-tsiú sian            khuànn-tio̍h lí mai mā gún ba̍k khoo âng na kuí",
+      "source_lines": [
+        104,
+        105
+      ],
+      "parts": [
+        {
+          "text": "我是燒酒仙",
+          "spelling": "guá sī sio-tsiú sian"
+        },
+        {
+          "text": "看到你不要罵阮目眶紅像鬼",
+          "spelling": "khuànn-tio̍h lí mai mā gún ba̍k khoo âng na kuí"
+        }
+      ]
+    },
+    {
+      "id": "line-107",
+      "text": "人生像遊戲　                       要做嘛要喝淡薄",
+      "spelling": "lîn-sing na tshit-thô          beh tsò mah ài lim tām-po̍h",
+      "source_lines": [
+        107,
+        108
+      ],
+      "parts": [
+        {
+          "text": "人生像遊戲",
+          "spelling": "lîn-sing na tshit-thô"
+        },
+        {
+          "text": "要做嘛要喝淡薄",
+          "spelling": "beh tsò mah ài lim tām-po̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-110",
+      "text": "歡喜　            管他日頭來撐　                      我暗時仔一尾龍",
+      "spelling": "huann-hí       kuán-i ngìd teǔ loì cang     guá àm-sî á tsi̍t bué liông",
+      "source_lines": [
+        110,
+        111
+      ],
+      "parts": [
+        {
+          "text": "歡喜",
+          "spelling": "huann-hí"
+        },
+        {
+          "text": "管他日頭來撐",
+          "spelling": "kuán-i ngìd teǔ loì cang"
+        },
+        {
+          "text": "我暗時仔一尾龍",
+          "spelling": "guá àm-sî á tsi̍t bué liông"
+        }
+      ]
+    },
+    {
+      "id": "line-113",
+      "text": "管他日頭來撐　                     我暗時仔一尾龍",
+      "spelling": "kuán-i ngìd teǔ loì cang     guá àm-sî á tsi̍t bué liông",
+      "source_lines": [
+        113,
+        114
+      ],
+      "parts": [
+        {
+          "text": "管他日頭來撐",
+          "spelling": "kuán-i ngìd teǔ loì cang"
+        },
+        {
+          "text": "我暗時仔一尾龍",
+          "spelling": "guá àm-sî á tsi̍t bué liông"
+        }
+      ]
+    },
+    {
+      "id": "line-116",
+      "text": "胡搞瞎搞啦啦　                  胡搞瞎搞啦",
+      "spelling": "hú gǎo xiā gǎo lah lah     hú gǎo xiā gǎo lah",
+      "source_lines": [
+        116,
+        117
+      ],
+      "parts": [
+        {
+          "text": "胡搞瞎搞啦啦",
+          "spelling": "hú gǎo xiā gǎo lah lah"
+        },
+        {
+          "text": "胡搞瞎搞啦",
+          "spelling": "hú gǎo xiā gǎo lah"
+        }
+      ]
+    },
+    {
+      "id": "line-119",
+      "text": "我是燒酒仙啦啦　                      我是燒酒仙啦",
+      "spelling": "guá sī sio-tsiú sian lah lah     guá sī sio-tsiú sian lah",
+      "source_lines": [
+        119,
+        120
+      ],
+      "parts": [
+        {
+          "text": "我是燒酒仙啦啦",
+          "spelling": "guá sī sio-tsiú sian lah lah"
+        },
+        {
+          "text": "我是燒酒仙啦",
+          "spelling": "guá sī sio-tsiú sian lah"
+        }
+      ]
+    },
+    {
+      "id": "line-122",
+      "text": "頭暈腦鈍鈍啦啦　                         頭暈腦鈍鈍啦",
+      "spelling": "thâu hîn náu tùn tùn lah lah    thâu-hîn náu tùn tùn",
+      "source_lines": [
+        122,
+        123
+      ],
+      "parts": [
+        {
+          "text": "頭暈腦鈍鈍啦啦",
+          "spelling": "thâu hîn náu tùn tùn lah lah"
+        },
+        {
+          "text": "頭暈腦鈍鈍啦",
+          "spelling": "thâu-hîn náu tùn tùn"
+        }
+      ]
+    },
+    {
+      "id": "line-125",
+      "text": "每日就食醉啦 醉                        每日就食醉啦 醉",
+      "spelling": "ta̍k-kin tio̍h si̍t tsuì lah lah    ta̍k-kin tio̍h si̍t tsuì lah lah",
+      "source_lines": [
+        125,
+        126
+      ],
+      "parts": [
+        {
+          "text": "每日就食醉啦 醉",
+          "spelling": "ta̍k-kin tio̍h si̍t tsuì lah lah"
+        },
+        {
+          "text": "每日就食醉啦 醉",
+          "spelling": "ta̍k-kin tio̍h si̍t tsuì lah lah"
+        }
+      ]
+    },
+    {
+      "id": "line-128",
+      "text": "胡搞瞎搞啦啦　                  胡搞瞎搞啦",
+      "spelling": "hú gǎo xiā gǎo lah lah     hú gǎo xiā gǎo lah",
+      "source_lines": [
+        128,
+        129
+      ],
+      "parts": [
+        {
+          "text": "胡搞瞎搞啦啦",
+          "spelling": "hú gǎo xiā gǎo lah lah"
+        },
+        {
+          "text": "胡搞瞎搞啦",
+          "spelling": "hú gǎo xiā gǎo lah"
+        }
+      ]
+    },
+    {
+      "id": "line-131",
+      "text": "我是燒酒仙啦啦　                     我是燒酒仙啦",
+      "spelling": "guá sī sio-tsiú sian lah lah     guá sī sio-tsiú sian lah",
+      "source_lines": [
+        131,
+        132
+      ],
+      "parts": [
+        {
+          "text": "我是燒酒仙啦啦",
+          "spelling": "guá sī sio-tsiú sian lah lah"
+        },
+        {
+          "text": "我是燒酒仙啦",
+          "spelling": "guá sī sio-tsiú sian lah"
+        }
+      ]
+    },
+    {
+      "id": "line-134",
+      "text": "頭暈腦鈍鈍啦啦　                         頭暈腦鈍鈍啦",
+      "spelling": "thâu hîn náu tùn tùn lah lah    thâu-hîn náu tùn tùn",
+      "source_lines": [
+        134,
+        135
+      ],
+      "parts": [
+        {
+          "text": "頭暈腦鈍鈍啦啦",
+          "spelling": "thâu hîn náu tùn tùn lah lah"
+        },
+        {
+          "text": "頭暈腦鈍鈍啦",
+          "spelling": "thâu-hîn náu tùn tùn"
+        }
+      ]
+    },
+    {
+      "id": "line-137",
+      "text": "每日就食醉啦 醉                        每日就食醉啦 醉",
+      "spelling": "ta̍k-kin tio̍h si̍t tsuì lah lah    ta̍k-kin tio̍h si̍t tsuì lah lah",
+      "source_lines": [
+        137,
+        138
+      ],
+      "parts": [
+        {
+          "text": "每日就食醉啦 醉",
+          "spelling": "ta̍k-kin tio̍h si̍t tsuì lah lah"
+        },
+        {
+          "text": "每日就食醉啦 醉",
+          "spelling": "ta̍k-kin tio̍h si̍t tsuì lah lah"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "詞曲：黃連煜   台羅拼音：關德樂   客家拼音：關德樂"
+    }
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "text": "Note:  Words in italics are in Hakka, everything else is in Taiwanese.  There is a line towards the end that reads “頭毛亂亂像鬼”.  I’ve tried my best to translate this to what I think they’re saying, but it is very possible that I’m wrong.  Clarification on this line is more than welcome."
+    }
+  ],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text",
+    "source_note_requires_review:3"
+  ]
+}

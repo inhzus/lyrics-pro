@@ -1,0 +1,193 @@
+{
+  "recording_id": "netease:350178",
+  "timing_source": "NetEase https://music.163.com/song?id=350178",
+  "manual_source": "User-supplied resources/lyrics-spelling/管芒-川秋沙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "approximate": 2,
+    "exact": 6,
+    "gap": 4
+  },
+  "review_row_count": 2,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 川秋沙",
+      "match_text": "作词 : 川秋沙",
+      "text": "作词 : 川秋沙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 川秋沙",
+      "match_text": "作曲 : 川秋沙",
+      "text": "作曲 : 川秋沙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 35.49,
+      "online_text": "天日升 猫雾仔光",
+      "match_text": "天日升 猫雾仔光",
+      "text": "天日昇 貓霧仔光",
+      "spelling": "thinn li̍t tshìng bâ bôo á kng",
+      "manual_id": "line-1:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 3,
+      "time": 51.87,
+      "online_text": "光照山气 天露欲凝",
+      "match_text": "光照山气 天露欲凝",
+      "text": "光照山氣 天露欲凝",
+      "spelling": "kng tsiò suann khì thinn-lōo khuann gîng",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 70.64,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 83.29,
+      "online_text": "南风起 追随光影",
+      "match_text": "南风起 追随光影",
+      "text": "南風起 追隨光影",
+      "spelling": "lâm hong-khí tui suî kng iánn",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 100.49,
+      "online_text": "影对风行 摇曳欸叶",
+      "match_text": "影对风行 摇曳欸叶",
+      "text": "影對風行 搖曳欸葉",
+      "spelling": "iánn tuì hong-kiânn iô-iô ê hio̍h",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 115.86,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 8,
+      "time": 116.87,
+      "online_text": "呜呼～ 痴迷芒雪 白花振动",
+      "match_text": "呜呼～ 痴迷芒雪 白花振动",
+      "text": "嗚呼～ 癡迷芒雪 白花振動",
+      "spelling": "oo-hoo～ tshi bê bâng suat pe̍h-hue tín-tāng",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 133.09,
+      "online_text": "心迷蒙 管芒花散 风停随人放啊",
+      "match_text": "心迷蒙 管芒花散 风停随人放啊",
+      "text": "心迷濛 管芒花散 風停隨人放啊",
+      "spelling": "sim bî bông mā bông hue suánn hong thîng suî-lâng pàng ah",
+      "manual_id": "line-16:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 10,
+      "time": 149.12,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 11,
+      "time": 181.97,
+      "online_text": "冻露水 情催面红",
+      "match_text": "冻露水 情催面红",
+      "text": "凍露水 情催面紅",
+      "spelling": "tàng-lōo-tsuí tsîng tshui bīn-âng",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 198.2,
+      "online_text": "红花离离 哪惊逝去（管芒花啊）",
+      "match_text": "红花离离 哪惊逝去（管芒花啊）",
+      "text": "紅花離離 哪驚逝去(管芒花啊)",
+      "spelling": "âng hue lī lī ná kiann sē khì (mā bông hue ah)",
+      "manual_id": "line-22:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 326.45,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "2fe9e188c9fc523367b060cfddbfae7629bc4db8085011ce5b89123e88c36f89",
+    "manual": "68b9f723ba6e135831e0478d3ff4673e5b4781015f20bc95645ef5cb329de451",
+    "timed": "52cde5b16505cea13234d406a0dcb4399fce9f2f50584e107315dac745012015"
+  }
+}

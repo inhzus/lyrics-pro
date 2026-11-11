@@ -1,0 +1,489 @@
+{
+  "recording_id": "netease:168252",
+  "timing_source": "NetEase https://music.163.com/song?id=168252",
+  "manual_source": "User-supplied resources/lyrics-spelling/疼惜-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "exact": 10,
+    "gap": 5,
+    "approximate": 5,
+    "repeat": 6,
+    "unresolved": 7
+  },
+  "review_row_count": 22,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-31:0",
+    "line-34:0",
+    "line-55:0",
+    "line-58:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : Chu Wan Hua",
+      "match_text": "作词 : Chu Wan Hua",
+      "text": "作词 : Chu Wan Hua",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 34.39,
+      "online_text": "远远传来 熟悉歌声 亲像你啦！",
+      "match_text": "远远传来 熟悉歌声 亲像你啦！",
+      "text": "遠遠傳來 熟悉歌聲 親像你啦",
+      "spelling": "hn̄g-hn̄g thuân-lâi si̍k-sāi kua-siann tshin-tshiūnn lí là",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 41.13,
+      "online_text": "春天的花 秋天的月 拢在那！",
+      "match_text": "春天的花 秋天的月 拢在那！",
+      "text": "春天的花 秋天的月 攏在那！",
+      "spelling": "tshun-thinn ê hue tshiu-thinn ê gue̍h lóng tī hiâ",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 47.03,
+      "online_text": "虽然路途坎坷 起起落落 得要向前行",
+      "match_text": "虽然路途坎坷 起起落落 得要向前行",
+      "text": "雖然路途坎坷 起起落落 得要向前行",
+      "spelling": "sui-liân lōo-tôo khám-khia̍t khí-khí-lo̍h-lo̍h tio̍h-ài hiòng-tsiân kiânn",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 53.18,
+      "online_text": "有你陪伴 虽然疼痛 阮不孤单。",
+      "match_text": "有你陪伴 虽然疼痛 阮不孤单。",
+      "text": "有你陪伴 雖然疼痛 阮不孤單",
+      "spelling": "ū lí puê-phuānn sui-liân thàng-thiànn gún buē koo-tuann",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 59.77,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 7,
+      "time": 70.36,
+      "online_text": "你的双手 牵阮大汉 乎阮美梦！",
+      "match_text": "你的双手 牵阮大汉 乎阮美梦！",
+      "text": "妳的雙手 牽阮大漢 乎阮美夢",
+      "spelling": "lí ê siang-tshiú khan gún tuā-hàn hoo gún bí-bāng",
+      "manual_id": "line-13:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.916667
+    },
+    {
+      "source_row": 8,
+      "time": 76.08,
+      "online_text": "夏天日曝 冬天霜冻 阮真呒甘！",
+      "match_text": "夏天日曝 冬天霜冻 阮真呒甘！",
+      "text": "夏天日曝 冬天霜凍 阮真嘸甘",
+      "spelling": "jua̍h-thinn li̍t-pha̍k tang-thinn sng tàng gún tsin m̄-kam",
+      "manual_id": "line-16:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.916667
+    },
+    {
+      "source_row": 9,
+      "time": 82.17,
+      "online_text": "虽然人生总有咸酸苦涩 命运创制人！",
+      "match_text": "虽然人生总有咸酸苦涩 命运创制人！",
+      "text": "雖然人生總有鹹酸苦澀 命運創制人",
+      "spelling": "sui-liân lîn-sing tsóng ū kiâm sng khóo-sia̍p miā-ūn tshong ti lâng",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 88.48,
+      "online_text": "你的期待 阮的奋斗 呒了工。",
+      "match_text": "你的期待 阮的奋斗 呒了工。",
+      "text": "妳的期待 阮的奮鬥 嘸了工",
+      "spelling": "lí ê kî-thāi gún ê hùn-tàu buē liáu kang",
+      "manual_id": "line-22:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.818182
+    },
+    {
+      "source_row": 11,
+      "time": 95.13,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 12,
+      "time": 99.96,
+      "online_text": "阿母的歌 叫阮小心行",
+      "match_text": "阿母的歌 叫阮小心行",
+      "text": "阿母的歌 叫阮小心行",
+      "spelling": "a-bú ê kua kiò gún sió-sim kiânn",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 104.8,
+      "online_text": "叫阮斟酌看 不要来荡晃！",
+      "match_text": "叫阮斟酌看 不要来荡晃！",
+      "text": "叫阮斟酌看 不要來蕩晃",
+      "spelling": "kiò gún tsim-tsiok khuànn m̄-thang lâi tann hiánn",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 111.47,
+      "online_text": "温暖的歌 你唱乎阮听",
+      "match_text": "温暖的歌 你唱乎阮听",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 117.14,
+      "online_text": "疼惜阮的心情 阮拢会知影",
+      "match_text": "疼惜阮的心情 阮拢会知影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 126.15,
+      "online_text": "是你陪阮行。",
+      "match_text": "是你陪阮行。",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 132.92,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 18,
+      "time": 155.17,
+      "online_text": "幸福歌声 住在心里 陪伴你我",
+      "match_text": "幸福歌声 住在心里 陪伴你我",
+      "text": "幸福歌聲 住在心裡 陪伴你我",
+      "spelling": "hīng-hok kua-siann tuà tī sim-lāi puê-phuānn lí guá",
+      "manual_id": "line-37:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.916667
+    },
+    {
+      "source_row": 19,
+      "time": 161.23,
+      "online_text": "你的体谅 阮的笑容 拢在这！",
+      "match_text": "你的体谅 阮的笑容 拢在这！",
+      "text": "妳的體諒 阮的笑容 攏在這",
+      "spelling": "lí ê thé-liōng gún ê tshiò-iông lóng tī jia",
+      "manual_id": "line-40:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 20,
+      "time": 167.06,
+      "online_text": "虽然路途遥远 绕来绕去 一天又一天！",
+      "match_text": "虽然路途遥远 绕来绕去 一天又一天！",
+      "text": "雖然路途遙遠 繞來繞去 一天又一天",
+      "spelling": "sui-liân lōo-tôo iâu-uán se̍h lâi se̍h khì tsi̍t kang iū tsi̍t kang",
+      "manual_id": "line-43:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 173.47,
+      "online_text": "阮的成功 你的满足 甜又甘！",
+      "match_text": "阮的成功 你的满足 甜又甘！",
+      "text": "阮的成功 你的滿足 甜又甘",
+      "spelling": "gún ê sîng-kong lí ê buán-tsiok tinn iū kam",
+      "manual_id": "line-46:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 179.39,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 23,
+      "time": 184.15,
+      "online_text": "阿母的歌 叫阮小心行",
+      "match_text": "阿母的歌 叫阮小心行",
+      "text": "阿母的歌 叫阮小心行",
+      "spelling": "a-bú ê kua kiò gún sió-sim kiânn",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 189.36,
+      "online_text": "叫阮斟酌看 不要来荡晃！",
+      "match_text": "叫阮斟酌看 不要来荡晃！",
+      "text": "叫阮斟酌看 不要來蕩晃",
+      "spelling": "kiò gún tsim-tsiok khuànn m̄-thang lâi tann hiánn",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 195.97,
+      "online_text": "温暖的歌 你唱乎阮听",
+      "match_text": "温暖的歌 你唱乎阮听",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 201.87,
+      "online_text": "疼惜阮的心情 阮拢会知影",
+      "match_text": "疼惜阮的心情 阮拢会知影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 210.3,
+      "online_text": "是你陪阮行。",
+      "match_text": "是你陪阮行。",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 217.51,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 29,
+      "time": 240.58,
+      "online_text": "阿母的歌 叫阮小心行",
+      "match_text": "阿母的歌 叫阮小心行",
+      "text": "阿母的歌 叫阮小心行",
+      "spelling": "a-bú ê kua kiò gún sió-sim kiânn",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 246.87,
+      "online_text": "叫阮斟酌看 不要来荡晃！",
+      "match_text": "叫阮斟酌看 不要来荡晃！",
+      "text": "叫阮斟酌看 不要來蕩晃",
+      "spelling": "kiò gún tsim-tsiok khuànn m̄-thang lâi tann hiánn",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 253.18,
+      "online_text": "温暖的歌 你唱乎阮听",
+      "match_text": "温暖的歌 你唱乎阮听",
+      "text": "溫暖的歌 你唱乎阮聽",
+      "spelling": "un-luán ê kua lí tshiùnn hoo gún thiann",
+      "manual_id": "line-67:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 259.07,
+      "online_text": "疼惜阮的心情 阮拢会知影",
+      "match_text": "疼惜阮的心情 阮拢会知影",
+      "text": "疼惜阮的心情 阮攏會知影",
+      "spelling": "thiànn-sioh gún ê sim-tsiânn gún lóng ē tsai-iánn",
+      "manual_id": "line-70:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 268.72,
+      "online_text": "是你陪阮行。",
+      "match_text": "是你陪阮行。",
+      "text": "是你陪阮行",
+      "spelling": "sī lí puê gún kiânn",
+      "manual_id": "line-73:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 307.45,
+      "online_text": "人声 : Hsiao Huang Chi",
+      "match_text": "人声 : Hsiao Huang Chi",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "dd6061e37df8418cdf6065ca925c78b5549374d69afc7979ac6a17ae6bd86e15",
+    "manual": "299213aebb73c47c207d9e2287e9993c2d5af863b9fa784ec8646ac795cb159b",
+    "timed": "78b3bb067084de771fedf845931b18bbe37097481f934596e4382d520f8c00b5"
+  }
+}

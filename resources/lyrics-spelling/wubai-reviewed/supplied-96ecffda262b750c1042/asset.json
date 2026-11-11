@@ -1,0 +1,416 @@
+{
+  "schema_version": 1,
+  "id": "supplied-96ecffda262b750c1042",
+  "revision": "1",
+  "title": "愛妳無目地",
+  "title_aliases": [],
+  "artist": "伍佰 & China Blue",
+  "album": "夏日告白情歌",
+  "duration": 218.42,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰 台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:2051740555",
+    "timing_source": "NetEase https://music.163.com/song?id=2051740555",
+    "manual_source": "resources/lyrics-spelling/愛妳無目地-伍佰",
+    "audio_verified": false,
+    "agent_review": "Explicitly reviewed supplied phrase grouping, sequence, repetitions and wording differences. Keep source words/readings; preserve every provider timestamp. No audio verification.",
+    "input_sha256": {
+      "original": "07918c3193801f9566f8f32a0445dbfa783ea1a2d5cab6827040a72f5d77e3e6",
+      "manual": "534dd36a1ea11743281f770b29d1a5e8ca6a7cd175808170403659f98f603da9",
+      "timed": "961690a78990ee66070bc06ec8ef3ac2bb8b4a3fa1fd633c4e8f2f3c56214d75"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "credit": 2,
+      "approximate": 1,
+      "exact": 29
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作词 : 伍佰",
+        "status": "credit",
+        "text": "作词 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 1.0,
+        "online_text": "作曲 : 伍佰",
+        "status": "credit",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 7.47,
+        "online_text": "天悬悬 云咧飞",
+        "status": "approximate",
+        "text": "天懸懸 雲咧飛",
+        "spelling": "thinn kuâinn kuâinn hûn leh hui",
+        "manual_id": "line-3:0+line-3:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 11.16,
+        "online_text": "爱妳无目地",
+        "status": "exact",
+        "text": "愛妳無目地",
+        "spelling": "ài lí bô ba̍k-tē",
+        "manual_id": "line-3:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 15.01,
+        "online_text": "规条路 媠芳花",
+        "status": "exact",
+        "text": "規條路 媠芳花",
+        "spelling": "kui tiâu loo suí phang hue",
+        "manual_id": "line-6:0+line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 18.84,
+        "online_text": "只爱妳一个 哎呀只爱妳一个",
+        "status": "exact",
+        "text": "只愛妳一个 哎呀只愛妳一个",
+        "spelling": "tsí ài lí tsi̍t ê ai ya tsí ài lí tsi̍t ê",
+        "manual_id": "line-6:2+line-6:3",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 26.7,
+        "online_text": "日炎炎 无荫遮",
+        "status": "exact",
+        "text": "日炎炎 無蔭遮",
+        "spelling": "ji̍t iām iām bô ìm jia",
+        "manual_id": "line-9:0+line-9:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 30.65,
+        "online_text": "爱妳无条件",
+        "status": "exact",
+        "text": "愛妳無條件",
+        "spelling": "ài lí bô tiâu-kiānn",
+        "manual_id": "line-9:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 34.56,
+        "online_text": "这马拢无风飞沙",
+        "status": "exact",
+        "text": "這馬攏無風飛沙",
+        "spelling": "tsit-má lóng-bô hong hui sua",
+        "manual_id": "line-12:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 38.26,
+        "online_text": "只有妳的影 哎呀只有妳的影",
+        "status": "exact",
+        "text": "只有妳的影 哎呀只有妳的影",
+        "spelling": "tsí ū lí ê iánn ai ya tsí ū lí ê iánn",
+        "manual_id": "line-12:1+line-12:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 65.32,
+        "online_text": "月光光 伫花园",
+        "status": "exact",
+        "text": "月光光 佇花園",
+        "spelling": "gue̍h kng kng tī hue-hn̂g",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 69.26,
+        "online_text": "想欲对妳问",
+        "status": "exact",
+        "text": "想欲對妳問",
+        "spelling": "siūnn beh tuì lí mn̄g",
+        "manual_id": "line-15:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 73.51,
+        "online_text": "怎样环境无允准",
+        "status": "exact",
+        "text": "怎樣環境無允准",
+        "spelling": "tsuánn-iūnn khuân-kíng bô ún-tsún",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 77.27,
+        "online_text": "心头小酸酸 哎呀心头小酸酸",
+        "status": "exact",
+        "text": "心頭小酸酸 哎呀心頭小酸酸",
+        "spelling": "sim-thâu sió sng sng ai ya sim-thâu sió sng sng",
+        "manual_id": "line-18:1+line-21:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 84.76,
+        "online_text": "我欲对佗揣 无人会四配",
+        "status": "exact",
+        "text": "我欲對佗揣 無人會四配",
+        "spelling": "guá beh tuì tó tshuē bô lâng ē sù-phuè",
+        "manual_id": "line-24:0+line-24:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 92.52,
+        "online_text": "只有妳伫梦中 永远是我的",
+        "status": "exact",
+        "text": "只有妳佇夢中 永遠是我的",
+        "spelling": "tsí-ū lí tī bāng-tiong íng-uán sī guá ē",
+        "manual_id": "line-27:0+line-27:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 100.06,
+        "online_text": "我踮在旷野 想欲大声喝",
+        "status": "exact",
+        "text": "我踮在曠野 想欲大聲喝",
+        "spelling": "guá liam tsāi khòng-iá siūnn beh tuā-siann-huah",
+        "manual_id": "line-30:0+line-30:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 107.78,
+        "online_text": "所有我的头壳 只有妳的名",
+        "status": "exact",
+        "text": "所有我的頭殼 只有妳的名",
+        "spelling": "sóo-iú guá ē thâu-khak tsí ū lí ê miâ",
+        "manual_id": "line-33:0+line-33:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 115.86,
+        "online_text": "天红红 雨拄过",
+        "status": "exact",
+        "text": "天紅紅 雨拄過",
+        "spelling": "thinn âng âng hōo thuh kuè",
+        "manual_id": "line-36:0+line-36:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 119.57,
+        "online_text": "拄到风台尾 哎呀爱妳无目地",
+        "status": "exact",
+        "text": "拄到風颱尾 哎呀愛妳無目地",
+        "spelling": "thuh tio̍h hong-thai-bué ai ya ài lí bô ba̍k-tē",
+        "manual_id": "line-36:2+line-36:3",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 148.07,
+        "online_text": "月光光 伫花园",
+        "status": "exact",
+        "text": "月光光 佇花園",
+        "spelling": "gue̍h kng kng tī hue-hn̂g",
+        "manual_id": "line-39:0+line-39:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 152.32,
+        "online_text": "想欲对妳问",
+        "status": "exact",
+        "text": "想欲對妳問",
+        "spelling": "siūnn beh tuì lí mn̄g",
+        "manual_id": "line-39:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 156.1,
+        "online_text": "怎样环境无允准",
+        "status": "exact",
+        "text": "怎樣環境無允准",
+        "spelling": "tsuánn-iūnn khuân-kíng bô ín-tsún",
+        "manual_id": "line-42:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 159.99,
+        "online_text": "心头小酸酸 哎呀心头小酸酸",
+        "status": "exact",
+        "text": "心頭小酸酸 哎呀心頭小酸酸",
+        "spelling": "sim-thâu sió sng sng ai ya sim-thâu sió sng sng",
+        "manual_id": "line-42:1+line-42:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 168.31,
+        "online_text": "我欲对佗揣 无人会四配",
+        "status": "exact",
+        "text": "我欲對佗揣 無人會四配",
+        "spelling": "guá beh tuì tó tshuē bô lâng ē sù-phuè",
+        "manual_id": "line-45:0+line-45:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 175.31,
+        "online_text": "只有妳伫梦中 永远是我的",
+        "status": "exact",
+        "text": "只有妳佇夢中 永遠是我的",
+        "spelling": "tsí-ū lí tī bāng-tiong íng-uán sī guá ē",
+        "manual_id": "line-48:0+line-48:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 183.59,
+        "online_text": "我踮在旷野 想欲大声喝",
+        "status": "exact",
+        "text": "我踮在曠野 想欲大聲喝",
+        "spelling": "guá liam tsāi khòng-iá siūnn beh tuā-siann-huah",
+        "manual_id": "line-51:0+line-51:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 27,
+        "time": 191.02,
+        "online_text": "所有我的头壳 只有妳的名",
+        "status": "exact",
+        "text": "所有我的頭殼 只有妳的名",
+        "spelling": "sóo-iú guá ē thâu-khak tsí ū lí ê miâ",
+        "manual_id": "line-54:0+line-54:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 28,
+        "time": 198.86,
+        "online_text": "天红红 雨拄过",
+        "status": "exact",
+        "text": "天紅紅 雨拄過",
+        "spelling": "thinn âng âng hōo thuh kuè",
+        "manual_id": "line-57:0+line-57:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 29,
+        "time": 202.82,
+        "online_text": "拄到风台尾 哎呀爱妳无目地",
+        "status": "exact",
+        "text": "拄到風颱尾 哎呀愛妳無目地",
+        "spelling": "thuh tio̍h hong-thai-bué ai ya ài lí bô ba̍k-tē",
+        "manual_id": "line-57:2+line-57:3",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 30,
+        "time": 210.03,
+        "online_text": "哎呀爱妳无目地",
+        "status": "exact",
+        "text": "哎呀愛妳無目地",
+        "spelling": "ai ya ài lí bô ba̍k-tē",
+        "manual_id": "line-60:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 31,
+        "time": 214.07,
+        "online_text": "爱妳无目地",
+        "status": "exact",
+        "text": "愛妳無目地",
+        "spelling": "ài lí bô ba̍k-tē",
+        "manual_id": "line-60:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

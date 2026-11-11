@@ -1,0 +1,222 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "你是我 最愛的人                      從這時 直到永遠",
+      "spelling": "lí sī guá  siōng ài ê lâng        tuì tsit-sî  ti̍t-kàu íng-uán",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "你是我 最愛的人                      從這時 直到永遠",
+      "spelling": "lí sī guá  siōng ài ê lâng        tuì tsit-sî  ti̍t-kàu íng-uán",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "牽手吧 你跟我                           一世人 你跟我",
+      "spelling": "khan-tshiú pa  lí kā guá        tsi̍t-sì-lâng  lí kā guá",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "這條甜蜜的歌                            只來唱給你聽",
+      "spelling": "tsit tiâu tinn-bi̍t ê kua            tsí lâi tshiùnn hōo lí thiann",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "這條甜蜜的歌",
+          "spelling": "tsit tiâu tinn-bi̍t ê kua"
+        },
+        {
+          "text": "只來唱給你聽",
+          "spelling": "tsí lâi tshiùnn hōo lí thiann"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "我的心跟你飛                      為著你憨憨轉",
+      "spelling": "guá ê sim tè lí pue            uī-tio̍h lí gōng gōng tshē",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "我的心跟你飛",
+          "spelling": "guá ê sim tè lí pue"
+        },
+        {
+          "text": "為著你憨憨轉",
+          "spelling": "uī-tio̍h lí gōng gōng tshē"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "這條純情的歌（這條純情的歌）",
+      "spelling": "tsit tiâu sûn-tsîng ê kua (tsit tiâu sûn-tsîng  ê kua)",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "面紅紅心驚驚（我在這我在這）",
+      "spelling": "bīn âng âng sim kiann kiann (guá tī tsia  guá tī tsia)",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "因為老實的話（一句簡單地講）",
+      "spelling": "in-uī láu-si̍t ê uē (tsi̍t kù kán-tan tē kóng)",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "我只愛你一個",
+      "spelling": "guá tsí ài lí tsi̍t ê",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "你是我 最愛的人                      你是我 最愛的人",
+      "spelling": "lí sī guá  siōng ài ê lâng        lí sī guá  siōng ài ê lâng",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "牽手吧 你跟我                          一世人 你跟我",
+      "spelling": "khan-tshiú pa lí kā guá        tsi̍t-sì-lâng lí kā guá",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "牽手吧 你跟我",
+          "spelling": "khan-tshiú pa lí kā guá"
+        },
+        {
+          "text": "一世人 你跟我",
+          "spelling": "tsi̍t-sì-lâng lí kā guá"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "這條甜蜜的歌（這條甜蜜的歌）",
+      "spelling": "tsit tiâu tinn-bi̍t ê kua (tsit tiâu tinn-bi̍t ê kua)",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "只來唱給你聽（我來唱給你聽）",
+      "spelling": "tsí lâi tshiùnn hōo lí thiann (guá lâi tshiùnn hōo lí thiann)",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "我的心跟你飛（我的水潑落地）",
+      "spelling": "guá ê sim tè lí pue (guá ê tsuí phuah lo̍k-tē)",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "為著你憨憨轉",
+      "spelling": "uī-tio̍h lí gōng gōng tshē",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "這條純情的歌（這條純情的歌）",
+      "spelling": "tsit tiâu sûn-tsîng ê kua (tsit tiâu sûn-tsîng  ê kua)",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "面紅紅心驚驚（我在這我在這）",
+      "spelling": "bīn âng âng sim kiann kiann (guá tī tsia  guá tī tsia)",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "因為老實的話（一句簡單地講）",
+      "spelling": "in-uī láu-si̍t ê uē (tsi̍t kù kán-tan tē kóng)",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "我只愛你一個",
+      "spelling": "guá tsí ài lí tsi̍t ê",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "你是我 最愛的人                      你是我 最愛的人",
+      "spelling": "lí sī guá  siōng ài ê lâng        lí sī guá  siōng ài ê lâng",
+      "source_lines": [
+        60,
+        61
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：阿弟仔   作曲：阿弟仔  台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

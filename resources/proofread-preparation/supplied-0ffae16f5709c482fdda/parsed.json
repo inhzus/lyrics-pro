@@ -1,0 +1,354 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "人生這條路 這麼折磨",
+      "spelling": "lîn-sing tsit tiâu lōo tsiah-nī tsiat-buâ",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "一年三百六十天在打拼",
+      "spelling": "tsit nî sann pà la̍k tsa̍p kang teh phah-piànn",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "只有五天 讓我們休息",
+      "spelling": "tsí-ū gōo kang hōo lán hioh-khùn",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "思考這條路要怎麼走",
+      "spelling": "su-khó tsit tiâu lōo beh an-tsuánn kiânn",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "人生這條路 一直在變化",
+      "spelling": "lîn-sing tsit tiâu lōo it-ti̍t teh piàn-huà",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "整條三百公里不平坦",
+      "spelling": "kui-lōo sann pà kong-lí bē-pênn-thánn",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "只有八公里 讓我們喘氣",
+      "spelling": "tsí-ū peh kong-lí hōo lán tshuán-khuì",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "思考這條路往哪走",
+      "spelling": "su-khó tsit tiâu lōo óng tó-uī kiânn",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "不管前面的路有多斜",
+      "spelling": "bô-lūn thâu-tsîng ê lōo ū guā kiā",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "我都不怕",
+      "spelling": "guá lóng m̄-kiann",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "就算前面的洞很難跨",
+      "spelling": "tsiū-sǹg thâu-tsîng ê khang tsin pháinn hānn",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "也要向天借膽",
+      "spelling": "mā beh hiòng thinn tsioh tám",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "台二一線 根本不算啥",
+      "spelling": "tâi lī i̍t suànn kin-pún bô-sǹg siánn",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "我們的路比它還難行",
+      "spelling": "lán ê lōo pí ta ka pháinn kiânn",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "就算整年都在打拼 我也不怕",
+      "spelling": "tsiū-sǹg kui-nî lóng teh phah-piànn gún mā m̄-kiann",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "人生的路 本來就無人知曉",
+      "spelling": "lîn-sing ê lōo pún-lâi tio̍h bô-lâng tsai hiáu",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "千萬別肖想選簡單來走",
+      "spelling": "tshian-bān pa̍t siàu siūnn suán kán-tan leh lâi kiânn",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "人生這條路 這麼折磨",
+      "spelling": "lîn-sing tsit tiâu lōo tsiah-nī tsiat-buâ",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "一年三百六十天在打拼",
+      "spelling": "tsit nî sann pà la̍k tsa̍p kang teh phah-piànn",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "只有五天 讓我們休息",
+      "spelling": "tsí-ū gōo kang hōo lán hioh-khùn",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "思考這條路要怎麼走",
+      "spelling": "su-khó tsit tiâu lōo beh an-tsuánn kiânn",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "人生這條路 一直在變化",
+      "spelling": "lîn-sing tsit tiâu lōo it-ti̍t teh piàn-huà",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "整條三百公里不平坦",
+      "spelling": "kui-lōo sann pà kong-lí bē-pênn-thánn",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "只有八公里 讓我們喘氣",
+      "spelling": "tsí-ū peh kong-lí hōo lán tshuán-khuì",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "思考這條路往哪走",
+      "spelling": "su-khó tsit tiâu lōo óng tó-uī kiânn",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "不管前面的路有多斜",
+      "spelling": "bô-lūn thâu-tsîng ê lōo ū guā kiā",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "就算前面的洞很難跨",
+      "spelling": "tsiū-sǹg thâu-tsîng ê khang tsin pháinn hānn",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "也要向天借膽",
+      "spelling": "mā beh hiòng thinn tsioh tám",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "台二一線 根本不算啥",
+      "spelling": "tâi lī i̍t suànn kin-pún bô-sǹg siánn",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "我們的路比它還難行",
+      "spelling": "lán ê lōo pí ta ka pháinn kiânn",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "就算整年都在打拼 我也不怕",
+      "spelling": "tsiū-sǹg kui-nî lóng teh phah-piànn gún mā m̄-kiann",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "人生的路 本來就無人知曉",
+      "spelling": "lîn-sing ê lōo pún-lâi tio̍h bô-lâng tsai hiáu",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "千萬別肖想選簡單來走",
+      "spelling": "tshian-bān pa̍t siàu siūnn suán kán-tan leh lâi kiânn",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "台二一線 根本不算啥",
+      "spelling": "tâi lī i̍t suànn kin-pún bô-sǹg siánn",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "我們的路比它還難行",
+      "spelling": "lán ê lōo pí ta ka pháinn kiânn",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "就算整條都不平坦 我也不怕",
+      "spelling": "tsiū-sǹg kui-tiâu lóng bē-pênn-thánn guá mā m̄-kiann",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "人生的路 要靠自己的雙腳",
+      "spelling": "lîn-sing ê lōo ài kōo ka-kī ê siang-kha",
+      "source_lines": [
+        111,
+        112
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "不是他說天注定就是天注定",
+      "spelling": "m̄ sī i kóng thinn tsù-tiānn tio̍h-sī thinn tsù-tiānn",
+      "source_lines": [
+        114,
+        115
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳建達 作曲：吳建達 台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

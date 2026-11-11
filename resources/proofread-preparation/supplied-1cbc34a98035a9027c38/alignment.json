@@ -1,0 +1,374 @@
+{
+  "recording_id": "netease:157168",
+  "timing_source": "NetEase https://music.163.com/song?id=157168",
+  "manual_source": "User-supplied resources/lyrics-spelling/少女的心-伍佰",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 3,
+    "unresolved": 7,
+    "repeat": 2,
+    "exact": 8,
+    "approximate": 5
+  },
+  "review_row_count": 20,
+  "unmatched_manual_ids": [
+    "line-12:1",
+    "line-18:1",
+    "line-24:1",
+    "line-24:2",
+    "line-30:1"
+  ],
+  "unused_repeat_ids": [
+    "line-3:0",
+    "line-15:0",
+    "line-18:0",
+    "line-21:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 伍佰",
+      "match_text": "作词 : 伍佰",
+      "text": "作词 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 伍佰",
+      "match_text": "作曲 : 伍佰",
+      "text": "作曲 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "编曲 : 伍佰 & China Blue",
+      "match_text": "编曲 : 伍佰 & China Blue",
+      "text": "编曲 : 伍佰 & China Blue",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 49.37,
+      "online_text": "放舍这段情",
+      "match_text": "放舍这段情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 53.39,
+      "online_text": "是绝对无人会冻原谅",
+      "match_text": "是绝对无人会冻原谅",
+      "text": "是絕對無人會凍原諒",
+      "spelling": "sī tsua̍t-tuì bô-lâng ē tàng guân-liōng",
+      "manual_id": "line-3:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 58.95,
+      "online_text": "哪不是天在安排",
+      "match_text": "哪不是天在安排",
+      "text": "哪不是天在安排",
+      "spelling": "ná m̄ sī thinn teh an-pâi",
+      "manual_id": "line-6:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 64.19,
+      "online_text": "命运是完全抹了解",
+      "match_text": "命运是完全抹了解",
+      "text": "命運是完全抹了解",
+      "spelling": "miā-ūn sī uân-tsuân huê liáu-kái",
+      "manual_id": "line-6:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 69.72,
+      "online_text": "若想起那时相逢的时候",
+      "match_text": "若想起那时相逢的时候",
+      "text": "若想起那時相逢的時袸",
+      "spelling": "ná siūnn-khí he sî siong hông ē sî tsūn",
+      "manual_id": "line-9:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 8,
+      "time": 75.81,
+      "online_text": "是满心充满意爱",
+      "match_text": "是满心充满意爱",
+      "text": "是滿心充滿意愛",
+      "spelling": "sī muá sim tshiong-buán ì ài",
+      "manual_id": "line-9:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 80.65,
+      "online_text": "那会来一阵风",
+      "match_text": "那会来一阵风",
+      "text": "那會來一陣風",
+      "spelling": "nà ē-lâi tsi̍t-tsūn-hong",
+      "manual_id": "line-12:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 83.97,
+      "online_text": "就吹散我 热情的对待",
+      "match_text": "就吹散我 热情的对待",
+      "text": "熱情的對待",
+      "spelling": "lia̍t-tsîng ē tuì-thāi",
+      "manual_id": "line-12:2",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.714286
+    },
+    {
+      "source_row": 11,
+      "time": 92.539,
+      "online_text": "*爱人 为何你眼神充满伤害",
+      "match_text": "*爱人 为何你眼神充满伤害",
+      "text": "為何你眼神充滿傷害",
+      "spelling": "uī-hô lí gán-sîn tshiong-buán siong-hāi",
+      "manual_id": "line-15:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 12,
+      "time": 103.33,
+      "online_text": "爱人 怎么你变做",
+      "match_text": "爱人 怎么你变做",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 110.9,
+      "online_text": "这么无奈 心内事无人知",
+      "match_text": "这么无奈 心内事无人知",
+      "text": "心內事無人知",
+      "spelling": "sim-lāi sū bô lâng-tsai",
+      "manual_id": "line-18:2",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 14,
+      "time": 114.539,
+      "online_text": "放舍这段情",
+      "match_text": "放舍这段情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 118.69,
+      "online_text": "是绝对无人会冻原谅",
+      "match_text": "是绝对无人会冻原谅",
+      "text": "是絕對無人會凍原諒",
+      "spelling": "sī tsua̍t-tuì bô-lâng ē tàng guân-liōng",
+      "manual_id": "line-3:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 123.92,
+      "online_text": "如何将情来忘",
+      "match_text": "如何将情来忘",
+      "text": "如何將情來忘",
+      "spelling": "jû-hô tsiong tsîng lâi bông",
+      "manual_id": "line-24:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 127.6,
+      "online_text": "形影无踪 是昨日的放荡",
+      "match_text": "形影无踪 是昨日的放荡",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 161.19,
+      "online_text": "爱人 为何你眼神充满伤害",
+      "match_text": "爱人 为何你眼神充满伤害",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 172.16,
+      "online_text": "爱人 怎么你变做",
+      "match_text": "爱人 怎么你变做",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 178.55,
+      "online_text": "这么无奈 心内事无人知",
+      "match_text": "这么无奈 心内事无人知",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 188.22,
+      "online_text": "少女的心",
+      "match_text": "少女的心",
+      "text": "少女的心",
+      "spelling": "siàu-lú ē sim",
+      "manual_id": "line-27:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 192.77,
+      "online_text": "是一朵多情含蕊的花",
+      "match_text": "是一朵多情含蕊的花",
+      "text": "是一朵多情含蕊的花",
+      "spelling": "sī tsi̍t luí to-tsîng hâm-luí ē hue",
+      "manual_id": "line-27:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 198.42,
+      "online_text": "哪通乎雨来淋",
+      "match_text": "哪通乎雨来淋",
+      "text": "哪通乎雨來淋",
+      "spelling": "ná thang honnh hōo lâi lâm",
+      "manual_id": "line-30:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 201.829,
+      "online_text": "乎霜来降 薄情郎来戏弄",
+      "match_text": "乎霜来降 薄情郎来戏弄",
+      "text": "薄情郎來戲弄",
+      "spelling": "bô-tsîng lông lâi hì-lāng",
+      "manual_id": "line-30:2",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "729ac12d42e8d7e36d1b67d464f5159c6ea06eaf514c6b238b8eecd60576b507",
+    "manual": "b178a0a6df2ba24411b1b1d72a719375e52e229af3d26cf1ccf7c79d8a23c59c",
+    "timed": "be28aa9e31f01133c9bd639ed7aac65183aefe199b4705d30d42d721955ea56c"
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "又閣咧落雨                      已經落規下晡",
+      "spelling": "iū-koh leh lo̍h hōo        í-king lo̍h kui ē-poo",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "又閣咧落雨",
+          "spelling": "iū-koh leh lo̍h hōo"
+        },
+        {
+          "text": "已經落規下晡",
+          "spelling": "í-king lo̍h kui ē-poo"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "心情齷齪感覺袂爽快",
+      "spelling": "sim-tsîng ok-tshok kám-kak bē sóng khuài",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "又閣咧冤家                     到底咧冤啥貨",
+      "spelling": "iū-koh leh uan-ke        tàu-té leh uan siánn-huè",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "又閣咧冤家",
+          "spelling": "iū-koh leh uan-ke"
+        },
+        {
+          "text": "到底咧冤啥貨",
+          "spelling": "tàu-té leh uan siánn-huè"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "問題規大堆                     毋知按怎解",
+      "spelling": "būn-tê kui tuā-tui        m̄ tsai án-tsuánn kái",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "問題規大堆",
+          "spelling": "būn-tê kui tuā-tui"
+        },
+        {
+          "text": "毋知按怎解",
+          "spelling": "m̄ tsai án-tsuánn kái"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "心情愈來愈害                        脾氣愈來愈䆀",
+      "spelling": "sim-tsîng lú lâi lú hāi        phî-khì lú lâi lú bái",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "心情愈來愈害",
+          "spelling": "sim-tsîng lú lâi lú hāi"
+        },
+        {
+          "text": "脾氣愈來愈䆀",
+          "spelling": "phî-khì lú lâi lú bái"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "朋友講阮變甲真奇怪",
+      "spelling": "pîng-iú kóng gún piàn kah tsin kî-kuài",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "袂當閣等待                            欲離開這所在",
+      "spelling": "buē-tàng koh tán-thāi        beh lī-khui tse sóo-tsāi",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "袂當閣等待",
+          "spelling": "buē-tàng koh tán-thāi"
+        },
+        {
+          "text": "欲離開這所在",
+          "spelling": "beh lī-khui tse sóo-tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "問題規大堆                     我毋願閣忍耐",
+      "spelling": "būn-tê kui tuā-tui        guá m̄-guān koh lím-nāi",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "問題規大堆",
+          "spelling": "būn-tê kui tuā-tui"
+        },
+        {
+          "text": "我毋願閣忍耐",
+          "spelling": "guá m̄-guān koh lím-nāi"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "離開這个所在                      去四界流浪看覓",
+      "spelling": "lī-khui tsit ê sóo-tsāi        khì sì-kè liû-lōng khuànn-māi",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "離開這个所在",
+          "spelling": "lī-khui tsit ê sóo-tsāi"
+        },
+        {
+          "text": "去四界流浪看覓",
+          "spelling": "khì sì-kè liû-lōng khuànn-māi"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "走揣佇咧心內的                       美麗世界",
+      "spelling": "tsáu-tshuē tī-leh sim-lāi ê    bí-lē sè-kài",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "走揣佇咧心內的",
+          "spelling": "tsáu-tshuē tī-leh sim-lāi ê"
+        },
+        {
+          "text": "美麗世界",
+          "spelling": "bí-lē sè-kài"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "南國的風吹來                          我漸漸了解",
+      "spelling": "lâm kok ê hong tshue lâi    guá tsiām-tsiām liáu-kái",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "南國的風吹來",
+          "spelling": "lâm kok ê hong tshue lâi"
+        },
+        {
+          "text": "我漸漸了解",
+          "spelling": "guá tsiām-tsiām liáu-kái"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "答案一直攏佇我心內",
+      "spelling": "tap-àn it-ti̍t lóng tī guá sim-lāi",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "太平洋的風                              吹著輕鬆的跤步",
+      "spelling": "Thài-pîng-iûnn ê hong        tshue tio̍h khin-sang ê kha-pōo",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "太平洋的風",
+          "spelling": "Thài-pîng-iûnn ê hong"
+        },
+        {
+          "text": "吹著輕鬆的跤步",
+          "spelling": "tshue tio̍h khin-sang ê kha-pōo"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "敢會成功袂當傷勉強",
+      "spelling": "kám ē sîng-kong bē-tàng siunn bián-kióng",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "天頂的彼粒星                             是當初的夢想",
+      "spelling": "thinn-tíng ê hit lia̍p tshinn    sī tong-tshoo ê bāng-sióng",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "天頂的彼粒星",
+          "spelling": "thinn-tíng ê hit lia̍p tshinn"
+        },
+        {
+          "text": "是當初的夢想",
+          "spelling": "sī tong-tshoo ê bāng-sióng"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "已經有偌久                    毋捌遮感動",
+      "spelling": "í-king ū juā-kú            m̄ bat jia kám-tōng",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "已經有偌久",
+          "spelling": "í-king ū juā-kú"
+        },
+        {
+          "text": "毋捌遮感動",
+          "spelling": "m̄ bat jia kám-tōng"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "離開這个所在                      去四界流浪看覓",
+      "spelling": "lī-khui tsit ê sóo-tsāi        khì sì-kè liû-lōng khuànn-māi",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "離開這个所在",
+          "spelling": "lī-khui tsit ê sóo-tsāi"
+        },
+        {
+          "text": "去四界流浪看覓",
+          "spelling": "khì sì-kè liû-lōng khuànn-māi"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "走揣佇咧心內的                       美麗世界",
+      "spelling": "tsáu-tshuē tī-leh sim-lāi ê    bí-lē sè-kài",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "走揣佇咧心內的",
+          "spelling": "tsáu-tshuē tī-leh sim-lāi ê"
+        },
+        {
+          "text": "美麗世界",
+          "spelling": "bí-lē sè-kài"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "南國的風吹來                          我漸漸了解",
+      "spelling": "lâm kok ê hong tshue lâi    guá tsiām-tsiām liáu-kái",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "南國的風吹來",
+          "spelling": "lâm kok ê hong tshue lâi"
+        },
+        {
+          "text": "我漸漸了解",
+          "spelling": "guá tsiām-tsiām liáu-kái"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "答案一直攏佇我心內",
+      "spelling": "tap-àn it-ti̍t lóng tī guá sim-lāi",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "港邊傳來陣陣歌聲",
+      "spelling": "káng-pinn thuân-lâi tsūn tsūn kua-siann",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "佇風中輕輕放送",
+      "spelling": "tī hong tiong khin khin hòng-sàng",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "啦啦啦啦啦啦啦啦啦喔喔",
+      "spelling": "lah lah lah lah lah lah lah lah lah ooh ooh",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "南國的風吹來                         我漸漸了解",
+      "spelling": "lâm kok ê hong tshue lâi    guá tsiām-tsiām liáu-kái",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "南國的風吹來",
+          "spelling": "lâm kok ê hong tshue lâi"
+        },
+        {
+          "text": "我漸漸了解",
+          "spelling": "guá tsiām-tsiām liáu-kái"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "答案一直攏佇我心內",
+      "spelling": "tap-àn it-ti̍t lóng tī guá sim-lāi",
+      "source_lines": [
+        75,
+        76
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：楊大正　作曲：楊大正    台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

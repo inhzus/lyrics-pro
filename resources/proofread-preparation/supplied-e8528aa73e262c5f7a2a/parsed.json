@@ -1,0 +1,295 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "塗塗塗",
+      "spelling": "thôo thôo thôo",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "無頭路",
+      "spelling": "bô-thâu-lōo",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "來拍某",
+      "spelling": "lâi phah bóo",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "無魚無肉",
+      "spelling": "bô hî bô bah",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "吃東西吃壞腹肚",
+      "spelling": "tsia̍h pn̄g-kiānn pháinn pak-tóo",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "恁爸我半暝仔去茶店仔",
+      "spelling": "lin pē guá puànn-mî á khì tê-tiàm-á",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "今仔日阮無要睏橋跤",
+      "spelling": "kin-á-li̍t gún bô ài khùn kiô-kha",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "飲燒酒 找查某",
+      "spelling": "lím sio-tsiú tshuē tsa-bóo",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "阿沒你現在是想要按怎",
+      "spelling": "ah bô lí tsit-má sī siūnn bē án-tsuánn",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "想到那一天",
+      "spelling": "siūnn-tio̍h hit tsi̍t kang",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "拿著工錢",
+      "spelling": "the̍h-tio̍h kang-tsînn",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "要來找阿蘭",
+      "spelling": "beh lâi tshuē a lân",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "想不到",
+      "spelling": "siūnn-bē-tio̍h",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "隔壁樁的阿尼吉",
+      "spelling": "keh-piah tshun ê ah nî ki",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "點到她的台",
+      "spelling": "tiám-tio̍h i ê tâi",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "阿蘭你就給我記著",
+      "spelling": "a lân lí tio̍h kā guá ē-kì-tit",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "你就給我記著",
+      "spelling": "lí tio̍h kā guá ē-kì-tit",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "塗塗塗",
+      "spelling": "thôo thôo thôo",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "無頭路",
+      "spelling": "bô-thâu-lōo",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "來拍某",
+      "spelling": "lâi phah bóo",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "無魚無肉",
+      "spelling": "bô hî bô bah",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "吃東西吃壞腹肚",
+      "spelling": "tsia̍h pn̄g-kiānn pháinn pak-tóo",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "恁爸我半暝仔去茶店仔",
+      "spelling": "lin pē guá puànn-mî á khì tê-tiàm-á",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "今仔日阮無要去睏橋跤",
+      "spelling": "kin-á-li̍t gún bô ài khì khùn kiô-kha",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "飲燒酒 找查某",
+      "spelling": "lím sio-tsiú tshuē tsa-bóo",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "阿沒你現在是想要按怎",
+      "spelling": "ah bô lí tsit-má sī siūnn bē án-tsuánn",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "我要開門妳卻鎖起來",
+      "spelling": "guá beh khui-mn̂g lí suah só khí-lâi",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "我要開門妳卻鎖起來",
+      "spelling": "guá beh khui-mn̂g lí suah só khí-lâi",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "我要開門妳卻鎖起來",
+      "spelling": "guá beh khui-mn̂g lí suah só khí-lâi",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "啊 我不要睡橋下",
+      "spelling": "ah guá mài khùn kiô-kha",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "飲燒酒 找查某",
+      "spelling": "lím sio-tsiú tshuē tsa-bóo",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "阿沒你現在是想要按怎",
+      "spelling": "ah bô lí tsit-má sī siūnn bē án-tsuánn",
+      "source_lines": [
+        94,
+        95
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

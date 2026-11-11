@@ -1,0 +1,554 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "厝崩 橋㽎 眾生掣",
+      "spelling": "tshù pang kiô sìm tsiòng-sing tshuah",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "霆雷 爍爁 天烏陰",
+      "spelling": "tân-luî sih-nah thinn-oo im",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "砲火 銃聲 獨裁者",
+      "spelling": "phàu-hué tshìng siann to̍k-tshâi tsiá",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "邪氣 屍臭 魔神仔",
+      "spelling": "siâ-khì si tshàu môo-sîn-á",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "昨暝夢中 輕聲細說是誰人",
+      "spelling": "tsa-mê bāng-tiong  khin-siann sè suè sī siánn-lâng",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "今日亂世 改朝換代是逐一冬",
+      "spelling": "kim-ji̍t luān-sè  kái tiâu uānn tāi sī ta̍k tsi̍t tang",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "武德殿外 敵我不明對誰來效忠",
+      "spelling": "bú tik tiān guā  ti̍k ngóo put-bîng tuì siáng lâi hāu-tiong",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "醒靈寺內 鬼神難分 向誰來詛誓",
+      "spelling": "tshénn lîng sī lāi  kuí-sîn lân hun  hiòng siáng lâi tsiù tsuā",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "厝崩 橋㽎 眾生掣",
+      "spelling": "tshù pang kiô sìm tsiòng-sing tshuah",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "霆雷 爍爁 天烏陰",
+      "spelling": "tân-luî sih-nah thinn-oo im",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "砲火 銃聲 獨裁者",
+      "spelling": "phàu-hué tshìng siann to̍k-tshâi tsiá",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "邪氣 屍臭 魔神仔",
+      "spelling": "siâ-khì si tshàu môo-sîn-á",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "昨暝夢中 輕聲細說是誰人 (敢是我)",
+      "spelling": "tsa-mê bāng-tiong  khin-siann sè suè sī siánn-lâng (kám sī ngóo)",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "今日亂世 改朝換代是逐一冬 (敢是夢)",
+      "spelling": "kim-ji̍t luān-sè  kái tiâu uānn tāi sī ta̍k tsi̍t tang (kám sī bāng)",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "武德殿外 敵我不明對誰來效忠 (佮誰參詳)",
+      "spelling": "bú tik tiān guā  ti̍k ngóo put-bîng tuì siáng lâi hāu-tiong  (ha̍h siáng tsham-siâng)",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "醒靈寺內 鬼神難分 向誰來詛誓",
+      "spelling": "tshénn lîng sī lāi  kuí-sîn lân hun  hiòng siáng lâi tsiù tsuā",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "向誰詛誓 等誰宣判",
+      "spelling": "hiòng siáng tsiù tsuā  tán siáng suan-phuànn",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "向誰詛誓 等誰宣判",
+      "spelling": "hiòng siáng tsiù tsuā  tán siáng suan-phuànn",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "向誰詛誓 等誰宣判",
+      "spelling": "hiòng siáng tsiù tsuā  tán siáng suan-phuànn",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "孽鏡台         鑿目光",
+      "spelling": "gia̍t kiànn tâi         tsha̍k ba̍k-kng",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "孽鏡台",
+          "spelling": "gia̍t kiànn tâi"
+        },
+        {
+          "text": "鑿目光",
+          "spelling": "tsha̍k ba̍k-kng"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "火薰中         愈來愈明",
+      "spelling": "hué-hun tiong        lú lâi lú bîng",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "火薰中",
+          "spelling": "hué-hun tiong"
+        },
+        {
+          "text": "愈來愈明",
+          "spelling": "lú lâi lú bîng"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "跤鐐手銬         拖磨聲",
+      "spelling": "kha-liau tshiú-khàu thua buâ siann",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "迷亂中         愈來愈清",
+      "spelling": "bê-luān tiong        lú lâi lú tshing",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "迷亂中",
+          "spelling": "bê-luān tiong"
+        },
+        {
+          "text": "愈來愈清",
+          "spelling": "lú lâi lú tshing"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "萬劫不復        萬劫不復",
+      "spelling": "bān kiap put-ho̍k    bān kiap put-ho̍k",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "萬劫不復",
+          "spelling": "bān kiap put-ho̍k"
+        },
+        {
+          "text": "萬劫不復",
+          "spelling": "bān kiap put-ho̍k"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "萬劫不復        萬劫不復",
+      "spelling": "bān kiap put-ho̍k    bān kiap put-ho̍k",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "萬劫不復",
+          "spelling": "bān kiap put-ho̍k"
+        },
+        {
+          "text": "萬劫不復",
+          "spelling": "bān kiap put-ho̍k"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "數百年         戰袂煞     我輩武德",
+      "spelling": "sòo pah nî        tsiàn bē suah    ngóo puè bú tik",
+      "source_lines": [
+        78,
+        79
+      ],
+      "parts": [
+        {
+          "text": "數百年",
+          "spelling": "sòo pah nî"
+        },
+        {
+          "text": "戰袂煞",
+          "spelling": "tsiàn bē suah"
+        },
+        {
+          "text": "我輩武德",
+          "spelling": "ngóo puè bú tik"
+        }
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "千萬人         拚袂退     勇者無敵",
+      "spelling": "tshian-bān lâng    piànn bē thuè    ióng-tsiá bû-ti̍k",
+      "source_lines": [
+        81,
+        82
+      ],
+      "parts": [
+        {
+          "text": "千萬人",
+          "spelling": "tshian-bān lâng"
+        },
+        {
+          "text": "拚袂退",
+          "spelling": "piànn bē thuè"
+        },
+        {
+          "text": "勇者無敵",
+          "spelling": "ióng-tsiá bû-ti̍k"
+        }
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "數百年         戰袂煞     我輩武德",
+      "spelling": "sòo pah nî        tsiàn bē suah    ngóo puè bú tik",
+      "source_lines": [
+        84,
+        85
+      ],
+      "parts": [
+        {
+          "text": "數百年",
+          "spelling": "sòo pah nî"
+        },
+        {
+          "text": "戰袂煞",
+          "spelling": "tsiàn bē suah"
+        },
+        {
+          "text": "我輩武德",
+          "spelling": "ngóo puè bú tik"
+        }
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "千萬人         拚袂退     勇者無敵",
+      "spelling": "tshian-bān lâng    piànn bē thuè    ióng-tsiá bû-ti̍k",
+      "source_lines": [
+        87,
+        88
+      ],
+      "parts": [
+        {
+          "text": "千萬人",
+          "spelling": "tshian-bān lâng"
+        },
+        {
+          "text": "拚袂退",
+          "spelling": "piànn bē thuè"
+        },
+        {
+          "text": "勇者無敵",
+          "spelling": "ióng-tsiá bû-ti̍k"
+        }
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "千年也萬年",
+      "spelling": "tshian-nî iā bān tshing",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "我孤魂已束縛佇遮 千年也萬年",
+      "spelling": "guá koo-hûn í sok-pa̍k tī tsia tshian-nî iā bān nî",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "生死簿的名字",
+      "spelling": "sing-sí phōo ê miâ-jī",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "目睭前一逝一逝 生死簿的名字",
+      "spelling": "ba̍k-tsiu tsiân tsi̍t suā tsi̍t suā sing-sí phōo ê miâ-jī",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "千年也萬年",
+      "spelling": "tshian-nî iā bān nî",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "生死簿的名字",
+      "spelling": "sing-sí phōo ê miâ-jī",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "數百年         戰袂煞     我輩武德",
+      "spelling": "sòo pah nî        tsiàn bē suah    ngóo puè bú tik",
+      "source_lines": [
+        108,
+        109
+      ],
+      "parts": [
+        {
+          "text": "數百年",
+          "spelling": "sòo pah nî"
+        },
+        {
+          "text": "戰袂煞",
+          "spelling": "tsiàn bē suah"
+        },
+        {
+          "text": "我輩武德",
+          "spelling": "ngóo puè bú tik"
+        }
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "千萬人         拚袂退     勇者無敵",
+      "spelling": "tshian-bān lâng    piànn bē thuè    ióng-tsiá bû-ti̍k",
+      "source_lines": [
+        111,
+        112
+      ],
+      "parts": [
+        {
+          "text": "千萬人",
+          "spelling": "tshian-bān lâng"
+        },
+        {
+          "text": "拚袂退",
+          "spelling": "piànn bē thuè"
+        },
+        {
+          "text": "勇者無敵",
+          "spelling": "ióng-tsiá bû-ti̍k"
+        }
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "數百年         戰袂煞     我輩武德",
+      "spelling": "sòo pah nî        tsiàn bē suah    ngóo puè bú tik",
+      "source_lines": [
+        114,
+        115
+      ],
+      "parts": [
+        {
+          "text": "數百年",
+          "spelling": "sòo pah nî"
+        },
+        {
+          "text": "戰袂煞",
+          "spelling": "tsiàn bē suah"
+        },
+        {
+          "text": "我輩武德",
+          "spelling": "ngóo puè bú tik"
+        }
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "千萬人         拚袂退     勇者無敵",
+      "spelling": "tshian-bān lâng    piànn bē thuè    ióng-tsiá bû-ti̍k",
+      "source_lines": [
+        117,
+        118
+      ],
+      "parts": [
+        {
+          "text": "千萬人",
+          "spelling": "tshian-bān lâng"
+        },
+        {
+          "text": "拚袂退",
+          "spelling": "piànn bē thuè"
+        },
+        {
+          "text": "勇者無敵",
+          "spelling": "ióng-tsiá bû-ti̍k"
+        }
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "千年也萬年",
+      "spelling": "tshian-nî iā bān tshing",
+      "source_lines": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "生死簿的名字",
+      "spelling": "sing-sí phōo ê miâ-jī",
+      "source_lines": [
+        123,
+        124
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "千年也萬年",
+      "spelling": "tshian-nî iā bān tshing",
+      "source_lines": [
+        126,
+        127
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：閃靈   作曲：閃靈  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

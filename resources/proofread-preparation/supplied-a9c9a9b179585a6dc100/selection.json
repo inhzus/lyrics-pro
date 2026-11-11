@@ -1,0 +1,30 @@
+{
+  "selected": {
+    "song_id": 490182969,
+    "title": "一个人",
+    "artists": [
+      "Ripple"
+    ],
+    "album": "袂开的花",
+    "duration": 312.111,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:490182969",
+      "duration": 312.111,
+      "ready": false,
+      "coverage": 0.625,
+      "exact_fraction": 0.35,
+      "summary": {
+        "credit": 2,
+        "exact": 8,
+        "approximate": 11,
+        "repeat": 6,
+        "unresolved": 15,
+        "gap": 3
+      }
+    }
+  ]
+}

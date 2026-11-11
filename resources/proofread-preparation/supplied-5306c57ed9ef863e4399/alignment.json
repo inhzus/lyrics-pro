@@ -1,0 +1,884 @@
+{
+  "recording_id": "netease:168242",
+  "timing_source": "NetEase https://music.163.com/song?id=168242",
+  "manual_source": "User-supplied resources/lyrics-spelling/相思海岸-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 23,
+    "exact": 17,
+    "approximate": 3,
+    "repeat": 22,
+    "gap": 1
+  },
+  "review_row_count": 26,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-25:0",
+    "line-46:0",
+    "line-49:0",
+    "line-82:0",
+    "line-103:0",
+    "line-106:0",
+    "line-124:0",
+    "line-127:0",
+    "line-145:0",
+    "line-148:0",
+    "line-151:0",
+    "line-154:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 武雄",
+      "match_text": "作词 : 武雄",
+      "text": "作词 : 武雄",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 14.53,
+      "online_text": "......",
+      "match_text": "......",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 46.71,
+      "online_text": "听人块讲惦遥远的东海岸",
+      "match_text": "听人块讲惦遥远的东海岸",
+      "text": "聽人塊講惦遙遠的東海岸",
+      "spelling": "thiann lâng tè kóng tiām iâu-uán ê tang-hái-huānn",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 49.53,
+      "online_text": "住着一个姑娘 生做是真正好看",
+      "match_text": "住着一个姑娘 生做是真正好看",
+      "text": "住著一個姑娘 生做是真正好看",
+      "spelling": "tuà-tio̍h tsi̍t ê koo-niû sinn-tsuè sī tsin-tsiànn hó-khuànn",
+      "manual_id": "line-4:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 5,
+      "time": 52.56,
+      "online_text": "伊每天拢置海边块唱情歌",
+      "match_text": "伊每天拢置海边块唱情歌",
+      "text": "伊每天攏置海邊塊唱情歌",
+      "spelling": "i muí-kang lóng tì hái-pinn tè tshiùnn tsîng-kua",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 55.24,
+      "online_text": "一声一声一声 来唱出伊的心声",
+      "match_text": "一声一声一声 来唱出伊的心声",
+      "text": "一聲一聲一聲 來唱出伊的心聲",
+      "spelling": "tsi̍t siann tsi̍t siann tsi̍t siann lâi tshiùnn-tshut i ê sim-siann",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 58.51,
+      "online_text": "伊的心愿真简单嘛无盖大",
+      "match_text": "伊的心愿真简单嘛无盖大",
+      "text": "伊的心願真簡單嘛無蓋大",
+      "spelling": "i ê sim-guān tsin kán-tan mā bô kài tuā",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 61.18,
+      "online_text": "但是听伊讲来 乎人会依依不舍",
+      "match_text": "但是听伊讲来 乎人会依依不舍",
+      "text": "但是聽伊講來 乎人會依依不捨",
+      "spelling": "tān-sī thiann i kóng-lâi hōo lâng ē i-i-put-sià",
+      "manual_id": "line-16:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 9,
+      "time": 64.24,
+      "online_text": "伊心爱的人彼工欲去城市",
+      "match_text": "伊心爱的人彼工欲去城市",
+      "text": "伊心愛的人彼工欲去城市",
+      "spelling": "i sim-ài ê lâng hit kang bē khì siânn-tshī",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 67.72,
+      "online_text": "将伊的人的心 的梦全部留惦这",
+      "match_text": "将伊的人的心 的梦全部留惦这",
+      "text": "將伊的人的心 的夢全部留惦這",
+      "spelling": "tsiòng i ê lâng ê sim ê bāng tsuân-pōo lâu tiām tsia",
+      "manual_id": "line-22:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 72.04,
+      "online_text": "青春 甜甜甜甜的咒诅本",
+      "match_text": "青春 甜甜甜甜的咒诅本",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 74.96,
+      "online_text": "如今 被风吹断线",
+      "match_text": "如今 被风吹断线",
+      "text": "如今 被風吹斷線",
+      "spelling": "lû-kim pī hong-tshue tn̄g suànn",
+      "manual_id": "line-28:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 77.83,
+      "online_text": "相思 长长长长的海岸",
+      "match_text": "相思 长长长长的海岸",
+      "text": "相思 長長長長的海岸",
+      "spelling": "siunn-si tn̂g tn̂g tn̂g tn̂g ê hái-huānn",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 81.02,
+      "online_text": "嘛不知 哪会变成 别人的亭仔脚",
+      "match_text": "嘛不知 哪会变成 别人的亭仔脚",
+      "text": "嘛不知 哪會變成 別人的亭仔腳",
+      "spelling": "mā m̄ tsai ná ē piàn-sîng pa̍t-lâng ê tîng-á kha",
+      "manual_id": "line-34:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 84.72,
+      "online_text": "卡早彼条恋爱歌 今嘛听着会心痛",
+      "match_text": "卡早彼条恋爱歌 今嘛听着会心痛",
+      "text": "卡早彼條戀愛歌 今嘛聽著會心痛",
+      "spelling": "khá tsá hit tiâu luân-ài kua kim mā thiann-tio̍h ē sim-thiànn",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 87.47,
+      "online_text": "故乡变甲看海无岸 看山已经无算山",
+      "match_text": "故乡变甲看海无岸 看山已经无算山",
+      "text": "故鄉變甲看海無岸 看山已經無算山",
+      "spelling": "kòo-hiong piàn kā khuànn bô huānn khuànn suann í-king bô sǹg suann",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 90.6,
+      "online_text": "假使你若详细听 假使你若斟酌看",
+      "match_text": "假使你若详细听 假使你若斟酌看",
+      "text": "假使你若詳細聽 假使你若斟酌看",
+      "spelling": "ká-sú lí ná siông-sè thiann ká-sú lí ná tsim-tsiok khuànn",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 93.36,
+      "online_text": "原来石头正经会烂 海水正经会干",
+      "match_text": "原来石头正经会烂 海水正经会干",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 95.86,
+      "online_text": "你的心肝 我的心肝",
+      "match_text": "你的心肝 我的心肝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 97.31,
+      "online_text": "咱的心肝 会痛疼",
+      "match_text": "咱的心肝 会痛疼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 98.77,
+      "online_text": "到底是你 到底是我",
+      "match_text": "到底是你 到底是我",
+      "text": "到底是你 到底是我",
+      "spelling": "tàu-té sī lí tàu-té sī guá",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 100.64,
+      "online_text": "是谁改变美丽的生活",
+      "match_text": "是谁改变美丽的生活",
+      "text": "是誰改變美麗的生活",
+      "spelling": "sī siáng kái-piàn bí-lē ê sing-ua̍h",
+      "manual_id": "line-55:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 104.82,
+      "online_text": "......",
+      "match_text": "......",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 117.22,
+      "online_text": "听人块讲伊思念的恋爱伴",
+      "match_text": "听人块讲伊思念的恋爱伴",
+      "text": "聽人塊講伊思念的戀愛伴",
+      "spelling": "thiann lâng tè kóng i su-liām ê luân-ài phuānn",
+      "manual_id": "line-58:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 119.83,
+      "online_text": "去到都市以后 生活是真正打拼",
+      "match_text": "去到都市以后 生活是真正打拼",
+      "text": "去到都市以後 生活是真正打拼",
+      "spelling": "khì kàu too-tshī í-āu sing-ua̍h sī tsin-tsiànn phah-piànn",
+      "manual_id": "line-61:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 122.66,
+      "online_text": "伊每天驶着超重的砂石车",
+      "match_text": "伊每天驶着超重的砂石车",
+      "text": "伊每天駛著超重的砂石車",
+      "spelling": "i muí-kang sái-tio̍h tshiau-tāng ê sua-tsio̍h-tshia",
+      "manual_id": "line-64:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 125.48,
+      "online_text": "一缀一缀一缀 前途用命来交换",
+      "match_text": "一缀一缀一缀 前途用命来交换",
+      "text": "一綴一綴一綴 前途用命來交換",
+      "spelling": "tsi̍t tsuā tsi̍t tsuā tsi̍t tsuā tsiân-tôo iōng miā lâi kau-uānn",
+      "manual_id": "line-67:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 128.65,
+      "online_text": "最近故乡的新路是开足阔",
+      "match_text": "最近故乡的新路是开足阔",
+      "text": "最近故鄉的新路是開足闊",
+      "spelling": "tsuè-kīn kòo-hiong ê sin lōo sī khui tsiok khuah",
+      "manual_id": "line-70:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 131.47,
+      "online_text": "搁有一间饭店 欲起置相思海岸",
+      "match_text": "搁有一间饭店 欲起置相思海岸",
+      "text": "擱有一間飯店 欲起置相思海岸",
+      "spelling": "koh ū tsi̍t kan pn̄g-tiàm bē-khí-tì siunn-si hái-huānn",
+      "manual_id": "line-73:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 30,
+      "time": 134.48,
+      "online_text": "伊期待看到爱人的彼台车",
+      "match_text": "伊期待看到爱人的彼台车",
+      "text": "伊期待看到愛人的彼台車",
+      "spelling": "i kî-thāi khuànn-tio̍h ài-lîn ê hit tâi tshia",
+      "manual_id": "line-76:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 137.28,
+      "online_text": "将伊的人的心 的梦载返来到这",
+      "match_text": "将伊的人的心 的梦载返来到这",
+      "text": "將伊的人的心 的夢載返來到這",
+      "spelling": "tsiòng i ê lâng ê sim ê bāng tsài tńg-lâi kàu tsia",
+      "manual_id": "line-79:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 142.12,
+      "online_text": "甜甜甜甜的咒诅",
+      "match_text": "甜甜甜甜的咒诅",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 145.31,
+      "online_text": "随风 飘飘拆分散",
+      "match_text": "随风 飘飘拆分散",
+      "text": "隨風 飄飄拆分散",
+      "spelling": "suî-hong phiau phiau thiah hun sán",
+      "manual_id": "line-85:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 148.12,
+      "online_text": "相思 长长长长的海岸",
+      "match_text": "相思 长长长长的海岸",
+      "text": "相思 長長長長的海岸",
+      "spelling": "siunn-si tn̂g tn̂g tn̂g tn̂g ê hái-huānn",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 151.18,
+      "online_text": "到如今 已经变成 黑色的点阿胶",
+      "match_text": "到如今 已经变成 黑色的点阿胶",
+      "text": "到如今 已經變成 黑色的點阿膠",
+      "spelling": "kàu lû-kim í-king piàn-sîng oo-sik ê tiám ah ka",
+      "manual_id": "line-91:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 154.56,
+      "online_text": "卡早彼条恋爱歌 今嘛听着会心痛",
+      "match_text": "卡早彼条恋爱歌 今嘛听着会心痛",
+      "text": "卡早彼條戀愛歌 今嘛聽著會心痛",
+      "spelling": "khá tsá hit tiâu luân-ài kua kim mā thiann-tio̍h ē sim-thiànn",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 157.91,
+      "online_text": "故乡变甲看海无岸 看山已经无算山",
+      "match_text": "故乡变甲看海无岸 看山已经无算山",
+      "text": "故鄉變甲看海無岸 看山已經無算山",
+      "spelling": "kòo-hiong piàn kā khuànn bô huānn khuànn suann í-king bô sǹg suann",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 160.74,
+      "online_text": "假使你若详细听 假使你若斟酌看",
+      "match_text": "假使你若详细听 假使你若斟酌看",
+      "text": "假使你若詳細聽 假使你若斟酌看",
+      "spelling": "ká-sú lí ná siông-sè thiann ká-sú lí ná tsim-tsiok khuànn",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 163.55,
+      "online_text": "原来石头正经会烂 海水正经会干",
+      "match_text": "原来石头正经会烂 海水正经会干",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 166.27,
+      "online_text": "你的心肝 我的心肝",
+      "match_text": "你的心肝 我的心肝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 167.71,
+      "online_text": "咱的心肝 会痛疼",
+      "match_text": "咱的心肝 会痛疼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 169.4,
+      "online_text": "到底是你 到底是我",
+      "match_text": "到底是你 到底是我",
+      "text": "到底是你 到底是我",
+      "spelling": "tàu-té sī lí tàu-té sī guá",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 43,
+      "time": 170.77,
+      "online_text": "是谁改变美丽的生活",
+      "match_text": "是谁改变美丽的生活",
+      "text": "是誰改變美麗的生活",
+      "spelling": "sī siáng kái-piàn bí-lē ê sing-ua̍h",
+      "manual_id": "line-55:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 44,
+      "time": 174.65,
+      "online_text": "......",
+      "match_text": "......",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 184.27,
+      "online_text": "卡早彼条恋爱歌 今嘛听着会心痛",
+      "match_text": "卡早彼条恋爱歌 今嘛听着会心痛",
+      "text": "卡早彼條戀愛歌 今嘛聽著會心痛",
+      "spelling": "khá tsá hit tiâu luân-ài kua kim mā thiann-tio̍h ē sim-thiànn",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 46,
+      "time": 186.73,
+      "online_text": "故乡变甲看海无岸 看山已经无算山",
+      "match_text": "故乡变甲看海无岸 看山已经无算山",
+      "text": "故鄉變甲看海無岸 看山已經無算山",
+      "spelling": "kòo-hiong piàn kā khuànn bô huānn khuànn suann í-king bô sǹg suann",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 47,
+      "time": 189.95,
+      "online_text": "假使你若详细听 假使你若斟酌看",
+      "match_text": "假使你若详细听 假使你若斟酌看",
+      "text": "假使你若詳細聽 假使你若斟酌看",
+      "spelling": "ká-sú lí ná siông-sè thiann ká-sú lí ná tsim-tsiok khuànn",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 48,
+      "time": 192.88,
+      "online_text": "原来石头正经会烂 海水正经会干",
+      "match_text": "原来石头正经会烂 海水正经会干",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 49,
+      "time": 195.48,
+      "online_text": "你的心肝 我的心肝",
+      "match_text": "你的心肝 我的心肝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 50,
+      "time": 197.04,
+      "online_text": "咱的心肝 会痛疼",
+      "match_text": "咱的心肝 会痛疼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 51,
+      "time": 198.41,
+      "online_text": "到底是你 到底是我",
+      "match_text": "到底是你 到底是我",
+      "text": "到底是你 到底是我",
+      "spelling": "tàu-té sī lí tàu-té sī guá",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 52,
+      "time": 199.98,
+      "online_text": "是谁改变美丽的生活",
+      "match_text": "是谁改变美丽的生活",
+      "text": "是誰改變美麗的生活",
+      "spelling": "sī siáng kái-piàn bí-lē ê sing-ua̍h",
+      "manual_id": "line-55:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 53,
+      "time": 201.73,
+      "online_text": "卡早彼条恋爱歌 今嘛听着会心痛",
+      "match_text": "卡早彼条恋爱歌 今嘛听着会心痛",
+      "text": "卡早彼條戀愛歌 今嘛聽著會心痛",
+      "spelling": "khá tsá hit tiâu luân-ài kua kim mā thiann-tio̍h ē sim-thiànn",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 54,
+      "time": 204.67,
+      "online_text": "故乡变甲看海无岸 看山已经无算山",
+      "match_text": "故乡变甲看海无岸 看山已经无算山",
+      "text": "故鄉變甲看海無岸 看山已經無算山",
+      "spelling": "kòo-hiong piàn kā khuànn bô huānn khuànn suann í-king bô sǹg suann",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 55,
+      "time": 207.54,
+      "online_text": "假使你若详细听 假使你若斟酌看",
+      "match_text": "假使你若详细听 假使你若斟酌看",
+      "text": "假使你若詳細聽 假使你若斟酌看",
+      "spelling": "ká-sú lí ná siông-sè thiann ká-sú lí ná tsim-tsiok khuànn",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 56,
+      "time": 210.04,
+      "online_text": "原来石头正经会烂 海水正经会干",
+      "match_text": "原来石头正经会烂 海水正经会干",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 57,
+      "time": 213.1,
+      "online_text": "你的心肝 我的心肝",
+      "match_text": "你的心肝 我的心肝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 58,
+      "time": 213.79,
+      "online_text": "咱的心肝 会痛疼",
+      "match_text": "咱的心肝 会痛疼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 59,
+      "time": 215.91,
+      "online_text": "你的心肝 我的心肝",
+      "match_text": "你的心肝 我的心肝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 60,
+      "time": 217.41,
+      "online_text": "咱的心肝 会痛疼",
+      "match_text": "咱的心肝 会痛疼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 61,
+      "time": 219.04,
+      "online_text": "你的心肝 我的心肝",
+      "match_text": "你的心肝 我的心肝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 62,
+      "time": 220.97,
+      "online_text": "咱的心肝 会痛疼",
+      "match_text": "咱的心肝 会痛疼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 63,
+      "time": 222.27,
+      "online_text": "到底是你 到底是我",
+      "match_text": "到底是你 到底是我",
+      "text": "到底是你 到底是我",
+      "spelling": "tàu-té sī lí tàu-té sī guá",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 64,
+      "time": 223.46,
+      "online_text": "是谁改变美丽的生活",
+      "match_text": "是谁改变美丽的生活",
+      "text": "是誰改變美麗的生活",
+      "spelling": "sī siáng kái-piàn bí-lē ê sing-ua̍h",
+      "manual_id": "line-55:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 65,
+      "time": 227.15,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 66,
+      "time": 231.23,
+      "online_text": "--=End=--",
+      "match_text": "--=End=--",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 67,
+      "time": 237.58,
+      "online_text": "人声 : Hsiao Huang Chi",
+      "match_text": "人声 : Hsiao Huang Chi",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "f3c7686de90637032c0dd1e6288348fceaf5209f53d95664c2762a8cf27f9cb6",
+    "manual": "94a19f3c49005d65cd43052238ed1145766f24c7c04a67a10e3b44d6a7472c22",
+    "timed": "be94541628bc9aa7afa1b91267b38609132c23902a0848f46db11342f3ff721e"
+  }
+}

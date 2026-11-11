@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": "702795446",
+      "title": "风速200米",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "找一个新世界",
+      "duration": 266.827,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": 31401188,
+      "title": "風速200米",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "找一個新世界",
+      "duration": 274.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 31350973,
+      "title": "風速200米",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "找一個新世界",
+      "duration": 267.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

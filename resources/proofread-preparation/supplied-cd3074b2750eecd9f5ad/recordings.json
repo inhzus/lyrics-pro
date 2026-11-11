@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": 426881143,
+      "title": "勇敢",
+      "artists": [
+        "五月天"
+      ],
+      "album": "勇敢",
+      "duration": 278.413,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 327247,
+      "title": "勇敢",
+      "artists": [
+        "张惠妹"
+      ],
+      "album": "勇敢",
+      "duration": 244.746,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 344422,
+      "title": "勇敢",
+      "artists": [
+        "By2"
+      ],
+      "album": "Twins",
+      "duration": 243.984,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2085124985,
+      "title": "勇敢",
+      "artists": [
+        "打扰一下乐团"
+      ],
+      "album": "玫瑰凭证2",
+      "duration": 245.439,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

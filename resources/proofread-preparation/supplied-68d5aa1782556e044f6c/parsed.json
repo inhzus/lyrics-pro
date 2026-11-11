@@ -1,0 +1,225 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "搬土來種這欉花　新芽來望春風吹",
+      "spelling": "puann thóo lâi tsíng tsit tsâng hue sin ínn lâi bāng tshun hong-tshue",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "一年一年漸漸水　花謝落土又再會",
+      "spelling": "tsi̍t nî tsi̍t nî tsiām-tsiām tsuí hue siā lo̍h-thóo iū-tsài huē",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "年紀想欲換啥貨　願望來伴流星飛",
+      "spelling": "nî-kí siūnn-beh uānn siánn-huè guān-bōng lâi phuānn liû-tshinn pue",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "打拼理想無停過　佮意的人無幾個",
+      "spelling": "phah-piànn lí-sióng bô thîng kuè kah-ì ê lâng bô kuí ê",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "有一款感情永遠放置心肝底",
+      "spelling": "ū tsi̍t khuán kám-tsîng íng-uán pàng tì sim-kuann té",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "有一種思念到老也會越頭找",
+      "spelling": "ū tsi̍t tsìng su-liām kàu láu iā ē ua̍t-thâu tshuē",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "勇氣乎阮講出彼句話　感謝過去幾年有伊陪",
+      "spelling": "ióng-khì hōo gún kóng-tshut hit kù uē kám-siā kuè-khì kuí nî ū i puê",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "你若問阮今年幾歲　阮會講花開的過程才是美麗",
+      "spelling": "lí ná mn̄g gún kin-nî kuí huè gún ē kóng hue khui ê kuè tîng tsiah-sī bí-lē",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "雖然難捨青春的尾　對伊也感覺歹勢",
+      "spelling": "sui-liân lân siá tshing-tshun ê bué tuì i iā kám-kak pháinn-sè",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "只要不通乎家己後悔",
+      "spelling": "tsí-iàu m̄-thang hōo ka-kī hiō-hué",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "你若問阮當時欲嫁　阮會講愛阮的人一直身邊陪",
+      "spelling": "lí ná mn̄g gún tong-sî beh kè gún ē kóng ài gún ê lâng it-ti̍t sin-pinn puê",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "陪阮打開心門來看　今年的花開未",
+      "spelling": "puê gún phah-khui sim-mn̂g lâi khuànn kin-nî ê hue khui buē",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "幸福啊　因為有恁大家",
+      "spelling": "hīng-hok ah in-uī ū lín ta̍k-ke",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "有一款感情永遠放置心肝底",
+      "spelling": "ū tsi̍t khuán kám-tsîng íng-uán khǹg tì sim-kuann té",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "有一種思念到老也會越頭找",
+      "spelling": "ū tsi̍t tsióng su-liām kàu láu iā ē ua̍t-thâu tshuē",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "往事一點一滴輕輕過　原來酸甜苦澀有這多",
+      "spelling": "óng-sū tsi̍t tiám tsi̍t tih khin-khin kuè guân-lâi sng tinn khóo-siap ū tsia tsuē",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "你若問阮今年幾歲　阮會講花開的過程才是美麗",
+      "spelling": "lí ná mn̄g gún kin-nî kuí huè gún ē kóng hue khui ê kuè tîng tsiah-sī bí-lē",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "雖然難捨青春的尾　對伊也感覺歹勢",
+      "spelling": "sui-liân lân siá tshing-tshun ê bué tuì i iā kám-kak pháinn-sè",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "只要不通乎家己後悔",
+      "spelling": "tsí-iàu m̄-thang hōo ka-kī hiō-hué",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "你若問阮當時欲嫁　阮會講愛阮的人一直身邊陪",
+      "spelling": "lí ná mn̄g gún tong-sî beh kè gún ē kóng ài gún ê lâng it-ti̍t sin-pinn puê",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "陪阮打開心門來看　今年的花開未",
+      "spelling": "puê gún phah-khui sim-mn̂g lâi khuànn kin-nî ê hue khui buē",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "幸福啊　因為有恁大家",
+      "spelling": "hīng-hok ah in-uī ū lín ta̍k-ke",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "陪阮完成心內的夢　準備好出發未",
+      "spelling": "puê gún uân-sîng sim-lāi ê bāng tsún-pī hó tshut-huat buē",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "幸福啊　總是需要代價",
+      "spelling": "hīng-hok ah tsóng-sī su-iàu tāi-kè",
+      "source_lines": [
+        70,
+        71
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

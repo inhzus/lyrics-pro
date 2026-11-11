@@ -1,0 +1,323 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "作陣也已經五年　                   今日也著愛分開",
+      "spelling": "tsuè tīn iā í-king gōo nî        kin-li̍t iā tio̍h ài hun-khui",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "作陣也已經五年",
+          "spelling": "tsuè tīn iā í-king gōo nî"
+        },
+        {
+          "text": "今日也著愛分開",
+          "spelling": "kin-li̍t iā tio̍h ài hun-khui"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "手摸著心愛的馬呦　                         不覺珠淚滴　啊～　啊～",
+      "spelling": "tshiú-bong tio̍h sim-ài ê bé you    put kak tsu luī tih ah～ ah～",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "手摸著心愛的馬呦",
+          "spelling": "tshiú-bong tio̍h sim-ài ê bé you"
+        },
+        {
+          "text": "不覺珠淚滴　啊～　啊～",
+          "spelling": "put kak tsu luī tih ah～ ah～"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "可愛的馬呀　                  乖乖聽人嘴",
+      "spelling": "khó-ài ê bé ya                kuai-kuai thiann lâng tshuì",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "可愛的馬呀",
+          "spelling": "khó-ài ê bé ya"
+        },
+        {
+          "text": "乖乖聽人嘴",
+          "spelling": "kuai-kuai thiann lâng tshuì"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "可愛的馬呀　                  不通流珠淚啊",
+      "spelling": "khó-ài ê bé ya                m̄-thàng lâu tsu luī ah",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "可愛的馬呀",
+          "spelling": "khó-ài ê bé ya"
+        },
+        {
+          "text": "不通流珠淚啊",
+          "spelling": "m̄-thàng lâu tsu luī ah"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "啊～不通流珠淚　                          阮也猶原不甘離開",
+      "spelling": "ah～m̄-thàng lâu tsu luī ah        gún iā iu-guân put-kam lī-khui",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "啊～不通流珠淚",
+          "spelling": "ah～m̄-thàng lâu tsu luī ah"
+        },
+        {
+          "text": "阮也猶原不甘離開",
+          "spelling": "gún iā iu-guân put-kam lī-khui"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "心頭像針塊威",
+      "spelling": "sim-thâu tshiūnn tsiam tè ui",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "彼日也伴阮跑過　                                   對面彼平小山崙",
+      "spelling": "hit-li̍t iā phuānn gún tsáu kuè            tuì-bīn hit phînn sió suann-lūn",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "彼日也伴阮跑過",
+          "spelling": "hit-li̍t iā phuānn gún tsáu kuè"
+        },
+        {
+          "text": "對面彼平小山崙",
+          "spelling": "tuì-bīn hit phînn sió suann-lūn"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "想起來像在面前　                                           引人心憂悶　啊～　啊～",
+      "spelling": "siūnn-khí-lâi tshin-tshiūnn tī bīn-tsîng    ín-gún sim iu-būn ah～ ah～",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "想起來像在面前",
+          "spelling": "siūnn-khí-lâi tshin-tshiūnn tī bīn-tsîng"
+        },
+        {
+          "text": "引人心憂悶　啊～　啊～",
+          "spelling": "ín-gún sim iu-būn ah～ ah～"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "可愛的馬呀　                  時常這溫順",
+      "spelling": "khó-ài ê bé ya                sî-siông tsia un-sûn",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "可愛的馬呀",
+          "spelling": "khó-ài ê bé ya"
+        },
+        {
+          "text": "時常這溫順",
+          "spelling": "sî-siông tsia un-sûn"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "可愛的馬呀　                  時常思念阮",
+      "spelling": "khó-ài ê bé ya                sî-siông su-liām gún",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "可愛的馬呀",
+          "spelling": "khó-ài ê bé ya"
+        },
+        {
+          "text": "時常思念阮",
+          "spelling": "sî-siông su-liām gún"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "啊～時常思念阮　                      原諒阮也為著生活",
+      "spelling": "ah～sî-siông su-liām gún        guân-liōng gún iā uī-tio̍h sing-ua̍h",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "啊～時常思念阮",
+          "spelling": "ah～sî-siông su-liām gún"
+        },
+        {
+          "text": "原諒阮也為著生活",
+          "spelling": "guân-liōng gún iā uī-tio̍h sing-ua̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "賣你來換飯吞",
+      "spelling": "buē lí lâi uānn pn̄g thun",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "作陣也已經五（百）",
+      "spelling": "tsuè tīn iā í-king gōo （pah）？",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "日頭也將近落西　                           不甘也著放伊去",
+      "spelling": "li̍t-thâu iā tsiong-kīn lo̍h sai        m̄-kam iā-tio̍h pàng i khì",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "日頭也將近落西",
+          "spelling": "li̍t-thâu iā tsiong-kīn lo̍h sai"
+        },
+        {
+          "text": "不甘也著放伊去",
+          "spelling": "m̄-kam iā-tio̍h pàng i khì"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "依賴著新的主人　                   不通心傷悲　啊～　啊～",
+      "spelling": "i-nāi tio̍h sin ê tsú-lâng        m̄-thàng sim siong pi ah～ ah～",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "依賴著新的主人",
+          "spelling": "i-nāi tio̍h sin ê tsú-lâng"
+        },
+        {
+          "text": "不通心傷悲　啊～　啊～",
+          "spelling": "m̄-thàng sim siong pi ah～ ah～"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "可愛的馬啊　                  忍耐過日子",
+      "spelling": "khó-ài ê bé ya                lím-nāi kuè ji̍t-tsí",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "可愛的馬啊",
+          "spelling": "khó-ài ê bé ya"
+        },
+        {
+          "text": "忍耐過日子",
+          "spelling": "lím-nāi kuè ji̍t-tsí"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "可愛的馬啊　                   不通心稀微",
+      "spelling": "khó-ài ê bé ya                m̄-thàng sim hi-bî",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "可愛的馬啊",
+          "spelling": "khó-ài ê bé ya"
+        },
+        {
+          "text": "不通心稀微",
+          "spelling": "m̄-thàng sim hi-bî"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "人總會疼惜你",
+      "spelling": "lâng tsóng ē thiànn-sioh lí",
+      "source_lines": [
+        57,
+        58
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：葉俊麟    作曲：伍佰 & 陳昇    台語拼音：關德樂"
+    }
+  ],
+  "notes": [
+    {
+      "line": 60,
+      "text": "Note:  There is a part in the middle of the song where they repeat the first line of the song.  However, it sounds like they changed 五年 to 伍佰.   This line isn’t in any of the lyrics that I’ve been able to find online, so I’m just guessing on the word choice there.  Feel free to correct me if I’m wrong."
+    }
+  ],
+  "reasons": [
+    "ambiguous_pair:54,55",
+    "ambiguous_pair:55,57",
+    "source_note_requires_review:60"
+  ]
+}

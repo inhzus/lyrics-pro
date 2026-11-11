@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": 1949072649,
+      "title": "媽媽請妳也保重",
+      "artists": [
+        "刘清池"
+      ],
+      "album": "懷念音樂-劉清池 第十二集",
+      "duration": 211.277,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 123847,
+      "title": "妈妈请妳也保重",
+      "artists": [
+        "罗时丰"
+      ],
+      "album": "20世纪台语经典实录贰",
+      "duration": 234.266,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1625242501",
+      "title": "妈妈请妳也保重",
+      "artists": [
+        "刘清池"
+      ],
+      "album": "怀念音乐-刘清池 第十二集",
+      "duration": 211.278,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1625242501",
+      "title": "妈妈请妳也保重",
+      "artists": [
+        "刘清池"
+      ],
+      "album": "怀念音乐-刘清池 第十二集",
+      "duration": 211.278,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": "1194938600",
+      "title": "彼首歌",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "旧年",
+      "duration": 297.293,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

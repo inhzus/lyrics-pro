@@ -1,0 +1,421 @@
+{
+  "recording_id": "netease:386007",
+  "timing_source": "NetEase https://music.163.com/song?id=386007",
+  "manual_source": "User-supplied resources/lyrics-spelling/金多蝦-五月天",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "unresolved": 27
+  },
+  "review_row_count": 27,
+  "unmatched_manual_ids": [
+    "line-3:0",
+    "line-6:0",
+    "line-21:0",
+    "line-24:0",
+    "line-39:0"
+  ],
+  "unused_repeat_ids": [
+    "line-9:0",
+    "line-12:0",
+    "line-15:0",
+    "line-18:0",
+    "line-27:0",
+    "line-30:0",
+    "line-33:0",
+    "line-36:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 五月天 阿信",
+      "match_text": "作词 : 五月天 阿信",
+      "text": "作词 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 五月天 阿信",
+      "match_text": "作曲 : 五月天 阿信",
+      "text": "作曲 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 16.47,
+      "online_text": "美丽的地球",
+      "match_text": "美丽的地球",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-3:0"
+    },
+    {
+      "source_row": 3,
+      "time": 19.63,
+      "online_text": "有美丽的海洋",
+      "match_text": "有美丽的海洋",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-3:0"
+    },
+    {
+      "source_row": 4,
+      "time": 22.51,
+      "online_text": "海洋里住着很多生命",
+      "match_text": "海洋里住着很多生命",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-6:0"
+    },
+    {
+      "source_row": 5,
+      "time": 25.97,
+      "online_text": "很多鱼很多虾",
+      "match_text": "很多鱼很多虾",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-6:0"
+    },
+    {
+      "source_row": 6,
+      "time": 28.5,
+      "online_text": "真多谢 真多谢",
+      "match_text": "真多谢 真多谢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 31.33,
+      "online_text": "真多谢 真多谢",
+      "match_text": "真多谢 真多谢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 34.42,
+      "online_text": "多谢你这多年来　do xia li jia zei ni lai",
+      "match_text": "多谢你这多年来　do xia li jia zei ni lai",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 37.47,
+      "online_text": "一直陪伴我唱歌 yi di bue bua wun qiu gua",
+      "match_text": "一直陪伴我唱歌 yi di bue bua wun qiu gua",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 40.43,
+      "online_text": "真多谢 真多谢",
+      "match_text": "真多谢 真多谢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 43.4,
+      "online_text": "真多谢 真多谢",
+      "match_text": "真多谢 真多谢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 46.66,
+      "online_text": "我毋管欲创啥",
+      "match_text": "我毋管欲创啥",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 48.47,
+      "online_text": "你拢会徛伫阮遮",
+      "match_text": "你拢会徛伫阮遮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 64.42,
+      "online_text": "十七岁的吉他",
+      "match_text": "十七岁的吉他",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-21:0"
+    },
+    {
+      "source_row": 15,
+      "time": 68.2,
+      "online_text": "到这马拢无变化",
+      "match_text": "到这马拢无变化",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-21:0"
+    },
+    {
+      "source_row": 16,
+      "time": 71.11,
+      "online_text": "啥侬知影事志 大汉了后",
+      "match_text": "啥侬知影事志 大汉了后",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 74.8,
+      "online_text": "有遮济变化",
+      "match_text": "有遮济变化",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 77.02,
+      "online_text": "佳哉有汝陪我",
+      "match_text": "佳哉有汝陪我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 81.36,
+      "online_text": "真多谢 真多谢",
+      "match_text": "真多谢 真多谢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 84.46,
+      "online_text": "真多谢 真多谢",
+      "match_text": "真多谢 真多谢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 87.26,
+      "online_text": "多谢汝遮济年来",
+      "match_text": "多谢汝遮济年来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 90.4,
+      "online_text": "一直陪伴阮唱歌",
+      "match_text": "一直陪伴阮唱歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 93.48,
+      "online_text": "真多谢 真多谢",
+      "match_text": "真多谢 真多谢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 96.74,
+      "online_text": "真多谢 真多谢",
+      "match_text": "真多谢 真多谢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 100.16,
+      "online_text": "我毋管欲创啥",
+      "match_text": "我毋管欲创啥",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 102.17,
+      "online_text": "你拢会徛伫阮遮",
+      "match_text": "你拢会徛伫阮遮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 105.58,
+      "online_text": "踮遮一直媵我",
+      "match_text": "踮遮一直媵我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-39:0"
+    },
+    {
+      "source_row": 28,
+      "time": 108.87,
+      "online_text": "挖心挖肝感谢",
+      "match_text": "挖心挖肝感谢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-39:0"
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "b54f00f9ed24fb2b6b54e97ef1cfb607468d7902dcb067f652590495b61c9d93",
+    "manual": "156ee8ceaf5b11ed3537483d81e429fdddaa7e6cc6c1a893e90c69cc90b5b898",
+    "timed": "ac664f2d89695313863af798fd587dc9255a01d7888622d27f07c5b8a318428b"
+  }
+}

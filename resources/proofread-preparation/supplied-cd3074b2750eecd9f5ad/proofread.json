@@ -1,0 +1,543 @@
+{
+  "recording_id": "netease:426881143",
+  "source": "User-supplied resources/lyrics-spelling/勇敢-五月天",
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "敢講這是失去希望的時代",
+      "spelling": "kám kóng tse sī sit-khì hi-bāng ê sî-tāi",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "敢講這是失去期待的所在",
+      "spelling": "kám kóng tse sī sit-khì kî-thāi ê sóo-tsāi",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "敢講咱一世人只有忍耐                                  只有憤慨 只有無奈",
+      "spelling": "kám kóng lán tsi̍t-sì-lâng tsí-ū lím-nāi    tsí-ū hùn-khài tsí-ū bô nāi",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "敢講咱一世人只有忍耐",
+          "spelling": "kám kóng lán tsi̍t-sì-lâng tsí-ū lím-nāi"
+        },
+        {
+          "text": "只有憤慨 只有無奈",
+          "spelling": "tsí-ū hùn-khài tsí-ū bô nāi"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "只有目屎無人知                             吞落腹肚內",
+      "spelling": "tsí-ū ba̍k-sái bô-lâng tsai            thun lo̍h pak-tóo lāi",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "只有目屎無人知",
+          "spelling": "tsí-ū ba̍k-sái bô-lâng tsai"
+        },
+        {
+          "text": "吞落腹肚內",
+          "spelling": "thun lo̍h pak-tóo lāi"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "看到心願慢慢變成不甘願",
+      "spelling": "khuànn-tio̍h sim-guān bān bān piàn-sîng m̄ kam-guān",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "才知期待未當靜靜的等待",
+      "spelling": "tsiah tsai kî-thāi bē tǹg tiām tiām ê tán-thāi",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "不管咱是天才抑是奴才                                     只有拼著 所有氣力",
+      "spelling": "m̄ kuán lán sī thinn tsiah ia̍h sī lôo-tsâi    tsí-ū piànn tio̍h sóo-iú khì-li̍k",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "不管咱是天才抑是奴才",
+          "spelling": "m̄ kuán lán sī thinn tsiah ia̍h sī lôo-tsâi"
+        },
+        {
+          "text": "只有拼著 所有氣力",
+          "spelling": "tsí-ū piànn tio̍h sóo-iú khì-li̍k"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "挑戰無情的世間                                     一天一冬 一世人到永遠",
+      "spelling": "thiáu-tsiàn bô-tsîng ê sè-kan            tsi̍t-ji̍t tsi̍t tang tsi̍t-sì-lâng kàu íng-uán",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "挑戰無情的世間",
+          "spelling": "thiáu-tsiàn bô-tsîng ê sè-kan"
+        },
+        {
+          "text": "一天一冬 一世人到永遠",
+          "spelling": "tsi̍t-ji̍t tsi̍t tang tsi̍t-sì-lâng kàu íng-uán"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "一遍擱一遍",
+      "spelling": "tsi̍t pái koh tsi̍t pái",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "不知影               誰在安排                  命運好歹                       一人攏一款",
+      "spelling": "m̄ tsai-iánn     siáng tī an-pâi        miā-ūn hó-pháinn     tsi̍t lâng lóng tsi̍t khuánn",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "不知影",
+          "spelling": "m̄ tsai-iánn"
+        },
+        {
+          "text": "誰在安排",
+          "spelling": "siáng tī an-pâi"
+        },
+        {
+          "text": "命運好歹",
+          "spelling": "miā-ūn hó-pháinn"
+        },
+        {
+          "text": "一人攏一款",
+          "spelling": "tsi̍t lâng lóng tsi̍t khuánn"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "有時陣         想欲放棄                        想欲怨嘆                          想欲流目屎",
+      "spelling": "ū-sî tsūn     siūnn-beh hòng-khì    siūnn-beh uàn-thàn     siūnn-beh lâu ba̍k-sái",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "有時陣",
+          "spelling": "ū-sî tsūn"
+        },
+        {
+          "text": "想欲放棄",
+          "spelling": "siūnn-beh hòng-khì"
+        },
+        {
+          "text": "想欲怨嘆",
+          "spelling": "siūnn-beh uàn-thàn"
+        },
+        {
+          "text": "想欲流目屎",
+          "spelling": "siūnn-beh lâu ba̍k-sái"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "等一天                黑暗過去                  苦盡甘來                     人生滋味才了解",
+      "spelling": "tán tsi̍t kang    oo-àm kuè-khì        khóo tsīn kam lâi    lîn-sing tsu-bī tsiah liáu-kái",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "等一天",
+          "spelling": "tán tsi̍t kang"
+        },
+        {
+          "text": "黑暗過去",
+          "spelling": "oo-àm kuè-khì"
+        },
+        {
+          "text": "苦盡甘來",
+          "spelling": "khóo tsīn kam lâi"
+        },
+        {
+          "text": "人生滋味才了解",
+          "spelling": "lîn-sing tsu-bī tsiah liáu-kái"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "為著彼個將來                            要自己 勇敢再勇敢",
+      "spelling": "uī-tio̍h hit ê tsiong-lâi            ài tsū-kí ióng-kám tsài ióng-kám",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "為著彼個將來",
+          "spelling": "uī-tio̍h hit ê tsiong-lâi"
+        },
+        {
+          "text": "要自己 勇敢再勇敢",
+          "spelling": "ài tsū-kí ióng-kám tsài ióng-kám"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "若有一天若我消失在世間",
+      "spelling": "nā-ū tsi̍t kang ná guá siau-sit tsāi sè-kan",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "若有我的故事給誰人熟識",
+      "spelling": "nā-ū guá ê kòo-sū hōo siánn-lâng si̍k-sāi",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "不管阮是成功抑是失敗                                 我的名字 號做勇敢",
+      "spelling": "m̄ kuán gún sī sîng-kong ia̍h-sī sit-pāi    guá ê miâ miâ-lī hō-tsuè ióng-kám",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "不管阮是成功抑是失敗",
+          "spelling": "m̄ kuán gún sī sîng-kong ia̍h-sī sit-pāi"
+        },
+        {
+          "text": "我的名字 號做勇敢",
+          "spelling": "guá ê miâ miâ-lī hō-tsuè ióng-kám"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "唱作美麗的歌曲                                       一字一句 一世人到永遠",
+      "spelling": "tshiùnn tsuè bí-lē ê kua-khik             tsi̍t jī tsi̍t kù tsi̍t-sì-lâng kàu íng-uán",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "唱作美麗的歌曲",
+          "spelling": "tshiùnn tsuè bí-lē ê kua-khik"
+        },
+        {
+          "text": "一字一句 一世人到永遠",
+          "spelling": "tsi̍t jī tsi̍t kù tsi̍t-sì-lâng kàu íng-uán"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "一遍擱一遍",
+      "spelling": "tsi̍t pái koh tsi̍t pái",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "不知影              誰在安排                   命運好歹                       一人攏一款",
+      "spelling": "m̄ tsai-iánn     siáng tī an-pâi        miā-ūn hó-pháinn     tsi̍t lâng lóng tsi̍t khuánn",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "不知影",
+          "spelling": "m̄ tsai-iánn"
+        },
+        {
+          "text": "誰在安排",
+          "spelling": "siáng tī an-pâi"
+        },
+        {
+          "text": "命運好歹",
+          "spelling": "miā-ūn hó-pháinn"
+        },
+        {
+          "text": "一人攏一款",
+          "spelling": "tsi̍t lâng lóng tsi̍t khuánn"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "有時陣         想欲放棄                        想欲怨嘆                          想欲流目屎",
+      "spelling": "ū-sî tsūn     siūnn-beh hòng-khì    siūnn-beh uàn-thàn     siūnn-beh lâu ba̍k-sái",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "有時陣",
+          "spelling": "ū-sî tsūn"
+        },
+        {
+          "text": "想欲放棄",
+          "spelling": "siūnn-beh hòng-khì"
+        },
+        {
+          "text": "想欲怨嘆",
+          "spelling": "siūnn-beh uàn-thàn"
+        },
+        {
+          "text": "想欲流目屎",
+          "spelling": "siūnn-beh lâu ba̍k-sái"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "等一天               黑暗過去                   苦盡甘來                    人生滋味才了解",
+      "spelling": "tán tsi̍t kang    oo-àm kuè-khì        khóo tsīn kam lâi    lîn-sing tsu-bī tsiah liáu-kái",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "等一天",
+          "spelling": "tán tsi̍t kang"
+        },
+        {
+          "text": "黑暗過去",
+          "spelling": "oo-àm kuè-khì"
+        },
+        {
+          "text": "苦盡甘來",
+          "spelling": "khóo tsīn kam lâi"
+        },
+        {
+          "text": "人生滋味才了解",
+          "spelling": "lîn-sing tsu-bī tsiah liáu-kái"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "為著彼個將來                            要自己 勇敢再勇敢",
+      "spelling": "uī-tio̍h hit ê tsiong-lâi            ài tsū-kí ióng-kám tsài ióng-kám",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "為著彼個將來",
+          "spelling": "uī-tio̍h hit ê tsiong-lâi"
+        },
+        {
+          "text": "要自己 勇敢再勇敢",
+          "spelling": "ài tsū-kí ióng-kám tsài ióng-kám"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "風無情                      雨無情                  命運也無情",
+      "spelling": "hong bô-tsîng        hōo bô-tsîng        miā-ūn iā bô-tsîng",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "風無情",
+          "spelling": "hong bô-tsîng"
+        },
+        {
+          "text": "雨無情",
+          "spelling": "hōo bô-tsîng"
+        },
+        {
+          "text": "命運也無情",
+          "spelling": "miā-ūn iā bô-tsîng"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "若有膽             若有心             風雨算什麼",
+      "spelling": "nā-ū tám        nā-ū sim        hong hōo sǹg siánn-mih",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "若有膽",
+          "spelling": "nā-ū tám"
+        },
+        {
+          "text": "若有心",
+          "spelling": "nā-ū sim"
+        },
+        {
+          "text": "風雨算什麼",
+          "spelling": "hong hōo sǹg siánn-mih"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "飄浪一生                     就要攀過                  最高的海浪",
+      "spelling": "phiau lōng it-sing    tio̍h ài phan kuè    siōng kuân ê hái-íng",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "飄浪一生",
+          "spelling": "phiau lōng it-sing"
+        },
+        {
+          "text": "就要攀過",
+          "spelling": "tio̍h ài phan kuè"
+        },
+        {
+          "text": "最高的海浪",
+          "spelling": "siōng kuân ê hái-íng"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "不知影               誰在安排                 命運好歹                        一人攏一款",
+      "spelling": "m̄ tsai-iánn     siáng tī an-pâi        miā-ūn hó-pháinn     tsi̍t lâng lóng tsi̍t khuánn",
+      "source_lines": [
+        78,
+        79
+      ],
+      "parts": [
+        {
+          "text": "不知影",
+          "spelling": "m̄ tsai-iánn"
+        },
+        {
+          "text": "誰在安排",
+          "spelling": "siáng tī an-pâi"
+        },
+        {
+          "text": "命運好歹",
+          "spelling": "miā-ūn hó-pháinn"
+        },
+        {
+          "text": "一人攏一款",
+          "spelling": "tsi̍t lâng lóng tsi̍t khuánn"
+        }
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "有時陣          想欲放棄                        想欲怨嘆                         想欲流目屎",
+      "spelling": "ū-sî tsūn     siūnn-beh hòng-khì    siūnn-beh uàn-thàn     siūnn-beh lâu ba̍k-sái",
+      "source_lines": [
+        81,
+        82
+      ],
+      "parts": [
+        {
+          "text": "有時陣",
+          "spelling": "ū-sî tsūn"
+        },
+        {
+          "text": "想欲放棄",
+          "spelling": "siūnn-beh hòng-khì"
+        },
+        {
+          "text": "想欲怨嘆",
+          "spelling": "siūnn-beh uàn-thàn"
+        },
+        {
+          "text": "想欲流目屎",
+          "spelling": "siūnn-beh lâu ba̍k-sái"
+        }
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "等一天 黑暗過去                                 苦盡甘來                     人生滋味才了解",
+      "spelling": "tán tsi̍t kang    oo-àm kuè-khì        khóo tsīn kam lâi    lîn-sing tsu-bī tsiah liáu-kái",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "為著彼個將來                            要自己 勇敢再勇敢",
+      "spelling": "uī-tio̍h hit ê tsiong-lâi            ài tsū-kí ióng-kám tsài ióng-kám",
+      "source_lines": [
+        87,
+        88
+      ],
+      "parts": [
+        {
+          "text": "為著彼個將來",
+          "spelling": "uī-tio̍h hit ê tsiong-lâi"
+        },
+        {
+          "text": "要自己 勇敢再勇敢",
+          "spelling": "ài tsū-kí ióng-kám tsài ióng-kám"
+        }
+      ]
+    }
+  ]
+}

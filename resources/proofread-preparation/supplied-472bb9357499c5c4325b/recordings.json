@@ -1,0 +1,94 @@
+{
+  "candidates": [
+    {
+      "song_id": 2664295880,
+      "title": "魔神仔",
+      "artists": [
+        "伍梓墨"
+      ],
+      "album": "《诅咒之家》恐怖原声ost",
+      "duration": 227.561,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1906033708,
+      "title": "魔神仔",
+      "artists": [
+        "诡扯电影原声带"
+      ],
+      "album": "诡扯电影原声带",
+      "duration": 144.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2664295880,
+      "title": "魔神仔",
+      "artists": [
+        "伍梓墨"
+      ],
+      "album": "《诅咒之家》恐怖原声ost",
+      "duration": 227.561,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2021160772,
+      "title": "魔神仔",
+      "artists": [
+        "高雄市立国乐团",
+        "郭哲诚"
+      ],
+      "album": "搜神寻妖 玩乐趣",
+      "duration": 489.577,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1672504966",
+      "title": "魔神仔",
+      "artists": [
+        "高雄市国乐团 & 郭哲诚"
+      ],
+      "album": "搜神寻妖 玩乐趣",
+      "duration": 489.578,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1545529775",
+      "title": "魔神仔",
+      "artists": [
+        "颜冠希"
+      ],
+      "album": "魔神仔 - Single",
+      "duration": 269.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1448230919",
+      "title": "魔神仔",
+      "artists": [
+        "面包车乐团"
+      ],
+      "album": "舀肥",
+      "duration": 220.281,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 24446592,
+      "title": "魔神仔",
+      "artists": [
+        "隨性樂團"
+      ],
+      "album": "魔神仔",
+      "duration": 185.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

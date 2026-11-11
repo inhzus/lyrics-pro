@@ -1,0 +1,283 @@
+{
+  "schema_version": 1,
+  "id": "supplied-ee5d055b9529662ea72e",
+  "revision": "1",
+  "title": "怨嗟嘆",
+  "title_aliases": [],
+  "source_path": "resources/lyrics-spelling/怨嗟嘆-伍佰",
+  "approved": true,
+  "audio_verified": false,
+  "recording": {
+    "reference": "netease:157197",
+    "duration": 325.4,
+    "album": "树枝孤鸟",
+    "title": "怨嗟叹",
+    "artist": "伍佰 & China Blue"
+  },
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂",
+  "reason": "Retain supplied 世情/事情, 成全/完全, 著/懂; repeated passages and timestamps agree.",
+  "source_spelling_notes": [],
+  "assignments": [
+    {
+      "source_row": 0,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 1,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 2,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 3,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 4,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 5,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 6,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-6:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 7,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-6:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 8,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-9:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 9,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-9:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 10,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-12:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 11,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-12:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 12,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-42:0"
+      ],
+      "reason": "Retain supplied 世情/事情, 成全/完全, 著/懂; repeated passages and timestamps agree."
+    },
+    {
+      "source_row": 13,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 14,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-45:0"
+      ],
+      "reason": "Retain supplied 世情/事情, 成全/完全, 著/懂; repeated passages and timestamps agree."
+    },
+    {
+      "source_row": 15,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-18:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 16,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-21:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 17,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-24:0"
+      ],
+      "reason": "Retain supplied 世情/事情, 成全/完全, 著/懂; repeated passages and timestamps agree."
+    },
+    {
+      "source_row": 18,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-24:1"
+      ],
+      "reason": "Retain supplied 世情/事情, 成全/完全, 著/懂; repeated passages and timestamps agree."
+    },
+    {
+      "source_row": 19,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-27:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 20,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-27:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 21,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-30:0"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 22,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-30:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 23,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-33:0"
+      ],
+      "reason": "Retain supplied 世情/事情, 成全/完全, 著/懂; repeated passages and timestamps agree."
+    },
+    {
+      "source_row": 24,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-33:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 25,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-42:0"
+      ],
+      "reason": "Retain supplied 世情/事情, 成全/完全, 著/懂; repeated passages and timestamps agree."
+    },
+    {
+      "source_row": 26,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 27,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-45:0"
+      ],
+      "reason": "Retain supplied 世情/事情, 成全/完全, 著/懂; repeated passages and timestamps agree."
+    },
+    {
+      "source_row": 28,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-18:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 29,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-42:0"
+      ],
+      "reason": "Retain supplied 世情/事情, 成全/完全, 著/懂; repeated passages and timestamps agree."
+    },
+    {
+      "source_row": 30,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    },
+    {
+      "source_row": 31,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-45:0"
+      ],
+      "reason": "Retain supplied 世情/事情, 成全/完全, 著/懂; repeated passages and timestamps agree."
+    },
+    {
+      "source_row": 32,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-18:1"
+      ],
+      "reason": "Reviewed supplied phrase grouping."
+    }
+  ],
+  "input_sha256": {
+    "original": "ef2ebacd84e5969b466b3e453dd093e47714be01a23fec5c35321aaaadb11749",
+    "manual": "a944bb589ce0698179d3f93c822a6f41faf60e4aefc92c11813ff60bade8dc4a",
+    "timed": "6ee2563f7e202be06e6ac94052681d4921b02ed5b9a00e6d31e2ec432ed63377"
+  }
+}

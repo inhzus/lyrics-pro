@@ -1,0 +1,404 @@
+{
+  "candidates": [
+    {
+      "song_id": 1805077132,
+      "title": "想",
+      "artists": [
+        "朱添泽"
+      ],
+      "album": "想",
+      "duration": 235.431,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1915271243,
+      "title": "想",
+      "artists": [
+        "王焱"
+      ],
+      "album": "红腰带",
+      "duration": 237.506,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 434070719,
+      "title": "想",
+      "artists": [
+        "建坤YOUNG"
+      ],
+      "album": "想",
+      "duration": 230.139,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3380150800,
+      "title": "想",
+      "artists": [
+        "胡思乱想P",
+        "凌尘_P",
+        "洛天依"
+      ],
+      "album": "昨天",
+      "duration": 207.478,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2734611920,
+      "title": "想",
+      "artists": [
+        "方适"
+      ],
+      "album": "认识你自己",
+      "duration": 271.645,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3403329668,
+      "title": "想",
+      "artists": [
+        "阿杰"
+      ],
+      "album": "想",
+      "duration": 161.77,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3440601183,
+      "title": "想",
+      "artists": [
+        "苏也莉"
+      ],
+      "album": "想",
+      "duration": 189.716,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3383312576,
+      "title": "想",
+      "artists": [
+        "陈卓璇"
+      ],
+      "album": "当·拾",
+      "duration": 272.748,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3445120176,
+      "title": "想",
+      "artists": [
+        "暴躁默"
+      ],
+      "album": "",
+      "duration": 248.887,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1369930494,
+      "title": "想*",
+      "artists": [
+        "Noctilucents"
+      ],
+      "album": "Noctilucents",
+      "duration": 139.5,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1865089800,
+      "title": "想",
+      "artists": [
+        "Grid格子",
+        "洛天依"
+      ],
+      "album": "想",
+      "duration": 160.851,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2686976501,
+      "title": "想",
+      "artists": [
+        "藤竹京"
+      ],
+      "album": "恨",
+      "duration": 135.937,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1397007987,
+      "title": "想",
+      "artists": [
+        "郑润泽"
+      ],
+      "album": "左边右边",
+      "duration": 132.179,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 93251,
+      "title": "想",
+      "artists": [
+        "胡彦斌"
+      ],
+      "album": "文武双全（升级版）",
+      "duration": 220.386,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "956393714",
+      "title": "想",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "也兽",
+      "duration": 302.107,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1494434597",
+      "title": "想",
+      "artists": [
+        "梁铭琛"
+      ],
+      "album": "SEVENTEEN 17",
+      "duration": 234.134,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30832854,
+      "title": "想",
+      "artists": [
+        "傅菁"
+      ],
+      "album": "强风吹拂 电视原声带",
+      "duration": 241.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29341376,
+      "title": "想……",
+      "artists": [
+        "徐小鳳"
+      ],
+      "album": "徐小鳳 2000 精選 [Disc 1]",
+      "duration": 223.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30309429,
+      "title": "想……",
+      "artists": [
+        "徐小鳳"
+      ],
+      "album": "接觸2000精選(一)",
+      "duration": 223.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30106166,
+      "title": "想",
+      "artists": [
+        "鄭希怡"
+      ],
+      "album": "Yumiko's Space",
+      "duration": 211.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30158361,
+      "title": "想",
+      "artists": [
+        "徐小鳳"
+      ],
+      "album": "接触2000精選",
+      "duration": 223.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31580563,
+      "title": "想",
+      "artists": [
+        "徐小凤"
+      ],
+      "album": "徐小凤精选金曲21首",
+      "duration": 223.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17917239,
+      "title": "想",
+      "artists": [
+        "熊仔 & BOWZ豹子膽"
+      ],
+      "album": "夢想成真",
+      "duration": 66.16815,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18021225,
+      "title": "想",
+      "artists": [
+        "梁铭琛"
+      ],
+      "album": "想",
+      "duration": 234.133968,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 21240954,
+      "title": "想...",
+      "artists": [
+        "Tsui Paula (徐小鳳)"
+      ],
+      "album": "金光燦爛徐小鳳 (FC)",
+      "duration": 222.406531,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 20065905,
+      "title": "想",
+      "artists": [
+        "徐小凤"
+      ],
+      "album": "徐小凤 LPCD45",
+      "duration": 225.2,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 20544571,
+      "title": "想",
+      "artists": [
+        "小塵埃"
+      ],
+      "album": "A Little Louder",
+      "duration": 121.353219,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 14372531,
+      "title": "想",
+      "artists": [
+        "阿妹妹"
+      ],
+      "album": "想",
+      "duration": 248.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 15122916,
+      "title": "想",
+      "artists": [
+        "Gravitii"
+      ],
+      "album": "想",
+      "duration": 282.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 15237761,
+      "title": "想...",
+      "artists": [
+        "徐小凤"
+      ],
+      "album": "金光灿烂徐小凤 DISC 3",
+      "duration": 222.5632768,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 13960937,
+      "title": "想",
+      "artists": [
+        "徐小凤"
+      ],
+      "album": "金光闪闪徐小凤",
+      "duration": 223.5820288,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 12565649,
+      "title": "想",
+      "artists": [
+        "朱添泽"
+      ],
+      "album": "想",
+      "duration": 235.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 35271461,
+      "title": "想",
+      "artists": [
+        "朱添泽"
+      ],
+      "album": "抖音流行热歌排行榜",
+      "duration": 235.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 33960340,
+      "title": "想",
+      "artists": [
+        "李玉璽"
+      ],
+      "album": "Mr. Lucy",
+      "duration": 226.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 34071211,
+      "title": "想",
+      "artists": [
+        "朱添泽"
+      ],
+      "album": "想 (DJ阿卓版)",
+      "duration": 231.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29024576,
+      "title": "想",
+      "artists": [
+        "鄭希怡"
+      ],
+      "album": "Yumiko's Space",
+      "duration": 246.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

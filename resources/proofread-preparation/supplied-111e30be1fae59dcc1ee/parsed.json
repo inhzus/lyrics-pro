@@ -1,0 +1,198 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "自從妳離開我的身邊  我的人 我的心 完全失了魂",
+      "spelling": "tsū-tsiông lí lī-khui guá ê sin-pinn   guá ê lâng  guá ê sim  uân-tsuân sit liáu hûn",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "自從妳想開 嘜擱逗陣  妳的人 妳的情 完全攏無去",
+      "spelling": "tsū-tsiông lí siūnn-khui mái goh tàu tīn lí ê lâng lí ê tsîng  uân-tsuân lóng bô khì",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "自從妳想開 嘜擱逗陣",
+          "spelling": "tsū-tsiông lí siūnn-khui mái goh tàu tīn lí ê lâng lí ê tsîng"
+        },
+        {
+          "text": "妳的人 妳的情 完全攏無去",
+          "spelling": "uân-tsuân lóng bô khì"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "親像斷線風吹 一去不回  茫茫的人海 欲叼位找",
+      "spelling": "tshin-tshiūnn tn̄g suànn hong-tshue  i̍t khì put huê  bâng bâng ê lîn-hái beh tó-uī tshuē",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "希望妳想起 咱的過去  我甲妳 妳甲我 講好嘜分離",
+      "spelling": "hi-bāng lí siūnn-khí  lán ê kuè-khì  guá gah lí  lí gah guá  kóng hó mái hun-lī",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "雖然妳堅持 妳的決定  是嘸是我應該完全放妳去",
+      "spelling": "sui-liân lí kian-tshî  lí ê kuat-tīng  sī-m̄-sī guá ing-kai uân-tsuân pàng lí khì",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "親像斷線風吹 一去不回  茫茫的人海 欲叼位找",
+      "spelling": "tshin-tshiūnn tn̄g suànn hong-tshue  i̍t khì put huê  bâng bâng ê lîn-hái beh tó-uī tshuē",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "我猶原在這個所在  等妳回心甲轉意",
+      "spelling": "guá iu-guân tī tsit-ê sóo-tsāi  tán lí huê-sim kah tsuán ì",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "我猶原在這個所在",
+          "spelling": "guá iu-guân tī tsit-ê sóo-tsāi"
+        },
+        {
+          "text": "等妳回心甲轉意",
+          "spelling": "tán lí huê-sim kah tsuán ì"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "妳嘸通甲我當作是憨大呆",
+      "spelling": "lí m̄-thàng kah guá tòng-tsuè sī gōng tuā tai",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "親像斷線風吹 一去不回  茫茫的人海 欲叼位找",
+      "spelling": "tshin-tshiūnn tn̄g suànn hong-tshue  i̍t khì put huê  bâng bâng ê lîn-hái beh tó-uī tshuē",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "我猶原在這個所在  等妳回心甲轉意",
+      "spelling": "guá iu-guân tī tsit-ê sóo-tsāi  tán lí huê-sim kah tńg ì",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "我猶原在這個所在",
+          "spelling": "guá iu-guân tī tsit-ê sóo-tsāi"
+        },
+        {
+          "text": "等妳回心甲轉意",
+          "spelling": "tán lí huê-sim kah tńg ì"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "妳嘸通甲我當作是憨大呆",
+      "spelling": "lí m̄-thàng kah guá tòng-tsuè sī gōng tuā tai",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "我猶原在這個所在  等妳回心甲轉意",
+      "spelling": "guá iu-guân tī tsit-ê sóo-tsāi  tán lí huê-sim kah tńg ì",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "我猶原在這個所在",
+          "spelling": "guá iu-guân tī tsit-ê sóo-tsāi"
+        },
+        {
+          "text": "等妳回心甲轉意",
+          "spelling": "tán lí huê-sim kah tńg ì"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "妳嘸通甲我當作是憨大呆",
+      "spelling": "lí m̄-thàng kah guá tòng-tsuè sī gōng tuā tai",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "妳嘸通甲我當作是憨大呆",
+      "spelling": "lí m̄-thàng kah guá tòng-tsuè sī gōng tuā tai",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "妳嘸通甲我當作是憨大呆",
+      "spelling": "lí m̄-thàng kah guá tòng-tsuè sī gōng tuā tai",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "妳嘸通甲我當作 是憨大呆",
+      "spelling": "lí m̄-thàng kah guá tòng-tsuè sī gōng tuā tai",
+      "source_lines": [
+        48,
+        49
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳永吉   作曲：吳永吉   台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "candidates": [
+    {
+      "song_id": 119148,
+      "title": "老情歌",
+      "artists": [
+        "吕方"
+      ],
+      "album": "多爱你一天",
+      "duration": 295.374,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5250148,
+      "title": "老情歌",
+      "artists": [
+        "李健"
+      ],
+      "album": "记得我们有约",
+      "duration": 256.928,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1861651696,
+      "title": "老情歌",
+      "artists": [
+        "刘瑞琦"
+      ],
+      "album": "以歌为名",
+      "duration": 233.888,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 406243099,
+      "title": "老情歌",
+      "artists": [
+        "吕方"
+      ],
+      "album": "我爱经典系列",
+      "duration": 289.4,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1320344448,
+      "title": "老情歌",
+      "artists": [
+        "吕方"
+      ],
+      "album": "全吕方精选 Greatest Hits",
+      "duration": 294.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 28606468,
+      "title": "老情歌",
+      "artists": [
+        "苏打绿"
+      ],
+      "album": "热门华语220",
+      "duration": 141.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3370159237,
+      "title": "老情歌",
+      "artists": [
+        "温栗"
+      ],
+      "album": "老情歌",
+      "duration": 241.554,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1852762887,
+      "title": "老情歌",
+      "artists": [
+        "孙露"
+      ],
+      "album": "孫露 十大華語金曲 (第二輯)",
+      "duration": 285.16,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 400075067,
+      "title": "老情歌",
+      "artists": [
+        "吕方"
+      ],
+      "album": "全吕方精选 Greatest Hits",
+      "duration": 294.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 26494739,
+      "title": "老情歌",
+      "artists": [
+        "黄义达"
+      ],
+      "album": "Heart Disk",
+      "duration": 248.973,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5242749,
+      "title": "老情歌",
+      "artists": [
+        "吕方"
+      ],
+      "album": "70老男孩",
+      "duration": 295.374,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2032222526,
+      "title": "老情歌",
+      "artists": [
+        "北宸"
+      ],
+      "album": "老情歌孟慧圆，老情歌吕方，老情歌苏打绿",
+      "duration": 133.357,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1364418242,
+      "title": "老情歌",
+      "artists": [
+        "孙露"
+      ],
+      "album": "十大华语金曲",
+      "duration": 285.16,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 119148,
+      "title": "老情歌",
+      "artists": [
+        "吕方"
+      ],
+      "album": "多爱你一天",
+      "duration": 295.374,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5250148,
+      "title": "老情歌",
+      "artists": [
+        "李健"
+      ],
+      "album": "记得我们有约",
+      "duration": 256.928,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3370159237,
+      "title": "老情歌",
+      "artists": [
+        "温栗"
+      ],
+      "album": "老情歌",
+      "duration": 241.554,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1861651696,
+      "title": "老情歌",
+      "artists": [
+        "刘瑞琦"
+      ],
+      "album": "以歌为名",
+      "duration": 233.888,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1852762887,
+      "title": "老情歌",
+      "artists": [
+        "孙露"
+      ],
+      "album": "孫露 十大華語金曲 (第二輯)",
+      "duration": 285.16,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 28606468,
+      "title": "老情歌",
+      "artists": [
+        "苏打绿"
+      ],
+      "album": "热门华语220",
+      "duration": 141.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 406243099,
+      "title": "老情歌",
+      "artists": [
+        "吕方"
+      ],
+      "album": "我爱经典系列",
+      "duration": 289.4,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1364418242,
+      "title": "老情歌",
+      "artists": [
+        "孙露"
+      ],
+      "album": "十大华语金曲",
+      "duration": 285.16,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2032222526,
+      "title": "老情歌",
+      "artists": [
+        "北宸"
+      ],
+      "album": "老情歌孟慧圆，老情歌吕方，老情歌苏打绿",
+      "duration": 133.357,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2007044544,
+      "title": "老情歌",
+      "artists": [
+        "姚璎格"
+      ],
+      "album": "女儿红",
+      "duration": 289.785,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 405658131,
+      "title": "老情歌",
+      "artists": [
+        "吕方"
+      ],
+      "album": "吕方 24K Mastersonic Compilation",
+      "duration": 289.4,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1320344448,
+      "title": "老情歌",
+      "artists": [
+        "吕方"
+      ],
+      "album": "全吕方精选 Greatest Hits",
+      "duration": 294.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 481859665,
+      "title": "老情歌",
+      "artists": [
+        "群星"
+      ],
+      "album": "贵族舞曲1发烧探戈",
+      "duration": 222.213,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 400075067,
+      "title": "老情歌",
+      "artists": [
+        "吕方"
+      ],
+      "album": "全吕方精选 Greatest Hits",
+      "duration": 294.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3375308910,
+      "title": "老情歌",
+      "artists": [
+        "新时代轻音乐团"
+      ],
+      "album": "流行长笛No.1",
+      "duration": 289.16,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2018734024,
+      "title": "老情歌",
+      "artists": [
+        "诗酒趁年华"
+      ],
+      "album": "经典老歌",
+      "duration": 284.977,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 118453,
+      "title": "老情歌",
+      "artists": [
+        "吕方"
+      ],
+      "album": "真.情歌(精选32首)",
+      "duration": 295.374,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2036298845,
+      "title": "老情歌",
+      "artists": [
+        "口琴马龙"
+      ],
+      "album": "经典老歌第六集",
+      "duration": 280.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1444719877",
+      "title": "老情歌",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "爱作梦的鱼",
+      "duration": 254.76,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1691112195",
+      "title": "老情歌",
+      "artists": [
+        "名将管弦乐团"
+      ],
+      "album": "流行钢琴恋曲Vol.3",
+      "duration": 275.333,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1691105099",
+      "title": "老情歌",
+      "artists": [
+        "吴庆隆"
+      ],
+      "album": "钢琴音乐 Vol.3",
+      "duration": 275.857,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1691126991",
+      "title": "老情歌",
+      "artists": [
+        "名将管弦乐团"
+      ],
+      "album": "流行音乐吉他情 (新鸳鸯蝴蝶梦 Vol.1)",
+      "duration": 277.093,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

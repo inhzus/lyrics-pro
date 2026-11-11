@@ -1,0 +1,225 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "愛的無尾巷　等歸哺等無人",
+      "spelling": "ài ê bô-bué-hāng tán kui pōo tán bô-lâng",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "企在樓腳等候　望你打開玻璃窗",
+      "spelling": "khiā tsāi lâu kha tán hāu bāng lí phah-khui po-lî thang",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "純情歌阮有傳　聲聲句句　唱出願望",
+      "spelling": "sûn-tsîng kua gún ū thuân siann siann kù kù tshiùnn-tshut guān-bāng",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "誰知影開窗不是一個人",
+      "spelling": "siáng tsai-iánn khui thang m̄ sī tsi̍t ê lâng",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "痛若無價值　哪通擱繼續望",
+      "spelling": "thiànn ná bô kè-ta̍t ná thàng koh kè-sio̍k bāng",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "戀夢夢到英暗　十三個月過兩工",
+      "spelling": "luân bāng bāng kàu ing àm tsa̍p sann kò gue̍h kuè nn̄g kang",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "不是阮等無人　是你身份已經不同",
+      "spelling": "m̄ sī gún tán bô-lâng sī lí sin-hūn í-king bô-kāng",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "緣分花謝落土就親像你染過色的頭鬃",
+      "spelling": "iân hun hue siā lo̍h-thóo tio̍h tshin-tshiūnn lí ní kuè sik ê thâu-tsang",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "一抱剪剪剪不斷的留戀一段心痛黑鍍紅",
+      "spelling": "tsi̍t phō tsián tsián tsián buē-tn̄g ê liû-luân tsi̍t-tuānn sim-thiànn oo tōo âng",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "情愛若凝血　阮嘛不敢抗",
+      "spelling": "tsîng-ài ná gîng-hueh gún mā m̄ kánn khang",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "偏偏花開花燦爛花離叢　夜夜心痛用手捧",
+      "spelling": "phian phian hue khui hue tshàn-lān hue lī tsâng iā iā sim-thiànn iōng tshiú phâng",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "變色的戀夢　染色的頭鬃",
+      "spelling": "piàn-sik ê luân bāng ní-sik ê thâu-tsang",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "痛若無價值　哪通擱繼續望",
+      "spelling": "thiànn ná bô kè-ta̍t ná thàng koh kè-sio̍k bāng",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "戀夢夢到英暗　十三個月過兩工",
+      "spelling": "luân bāng bāng kàu ing àm tsa̍p sann kò gue̍h kuè nn̄g kang",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "不是阮等無人　是你身份已經不同",
+      "spelling": "m̄ sī gún tán bô-lâng sī lí sin-hūn í-king bô-kāng",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "緣分花謝落土就親像你染過色的頭鬃",
+      "spelling": "iân hun hue siā lo̍h-thóo tio̍h tshin-tshiūnn lí ní kuè sik ê thâu-tsang",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "一抱剪剪剪不斷的留戀一段心痛黑鍍紅",
+      "spelling": "tsi̍t phō tsián tsián tsián buē-tn̄g ê liû-luân tsi̍t-tuānn sim-thiànn oo tōo âng",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "情愛若凝血　阮嘛不敢抗",
+      "spelling": "tsîng-ài ná gîng-hueh gún mā m̄ kánn khang",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "偏偏花開花燦爛花離叢　夜夜心痛用手捧",
+      "spelling": "phian phian hue khui hue tshàn-lān hue lī tsâng iā iā sim-thiànn iōng tshiú phâng",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "變色的戀夢　染色的頭鬃",
+      "spelling": "piàn-sik ê luân bāng ní-sik ê thâu-tsang",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "一抱剪剪剪不斷的留戀一段心痛黑鍍紅",
+      "spelling": "tsi̍t phō tsián tsián tsián buē-tn̄g ê liû-luân tsi̍t-tuānn sim-thiànn oo tōo âng",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "情愛若凝血　阮嘛不敢抗",
+      "spelling": "tsîng-ài ná gîng-hueh gún mā m̄ kánn khang",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "偏偏花開花燦爛花離叢　夜夜心痛用手捧",
+      "spelling": "phian phian hue khui hue tshàn-lān hue lī tsâng iā iā sim-thiànn iōng tshiú phâng",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "變色的戀夢　染色的頭鬃",
+      "spelling": "piàn-sik ê luân bāng ní-sik ê thâu-tsang",
+      "source_lines": [
+        72,
+        73
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:1,3"
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "歌詞：賴裕仁/劉錠/江國銓 歌曲：賴裕仁 台語拼音：關德樂",
+      "spelling": "5-2-0 G.A.N.G. 5-2-0 G.A.N.G.",
+      "source_lines": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "有蝦米不如意 暫時甲放未記 尚好是賣擱再想起",
+      "spelling": "ū siánn-mih put-lû-ì tsiām-sî kā buē kì siōng hó sī mài koh tsài siūnn-khí",
+      "source_lines": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "開一個趴踢 咱作伙飲乎醉 Tonight We Go To Roxy 99",
+      "spelling": "khui tsi̍t ê pā tī lán tsò-hué lím hoo tsuì Tonight We Go to Roxy 99",
+      "source_lines": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "所有的哥仔妹仔我們全部跳起來吧",
+      "spelling": "suǒyǒu dí gē zǐ mèi zǐ wǒmen quánbù tiào qǐlái ba",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "不管你East Side West Side只要妹仔我們都愛啦",
+      "spelling": "bùguǎn nǐ East Side West Side zhǐyào mèi zǐ wǒmen dōu ài la",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "你想要嘻哈龐克還是要聽Lady Gaga",
+      "spelling": "nǐ xiǎng yào xīhā páng kè háishì yào tīng Lady Gaga",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "就在今天我們내가제일잘나가",
+      "spelling": "jiù zài jīntiān wǒmen naega jeil jal naga",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "來520的 Party 心臟要夠大顆",
+      "spelling": "lái 520 de Party xīnzàng yào gòu dà kē",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "我們的 Party 續攤的習慣都是坐警車",
+      "spelling": "wǒmen de Party xù tān de xíguàn dōu shì zuò jǐngchē",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "大家都稱呼我為羞恥界的曹格",
+      "spelling": "dàjiā dōu chēnghu wǒ wèi xiūchǐ jiè de cáogé",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "看起來雖然下流但我也會饒舌",
+      "spelling": "kàn qǐlái suīrán xiàliú dàn wǒ yě huì ráoshé",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "歡迎一起趴體喝酒或是吃藥都可以",
+      "spelling": "huānyíng yīqǐ pā tǐ hējiǔ huò shì chī yào dōu kěyǐ",
+      "source_lines": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "吃E拉K開飯吹氣球最好是來顆P",
+      "spelling": "chī ê lā ķ kāifàn chuī qìqiú zuì hǎo shì lái kē P",
+      "source_lines": [
+        47,
+        48
+      ]
+    },
+    {
+      "id": "line-50",
+      "text": "ㄍ一ㄣ不起來沒關係反正是吃個出席率",
+      "spelling": "kian bù qǐlái méiguānxì fǎnzhèng shì chī gè chūxí lǜ",
+      "source_lines": [
+        50,
+        51
+      ]
+    },
+    {
+      "id": "line-53",
+      "text": "喇不到妹沒關係k世界等你掉進去",
+      "spelling": "lǎ bù dào mèi méiguānxì K shìjiè děng nǐ diào jìnqù",
+      "source_lines": [
+        53,
+        54
+      ]
+    },
+    {
+      "id": "line-56",
+      "text": "吃E好爽好爽我才剛補一件而已",
+      "spelling": "chī E hǎo shuǎng hǎo shuǎng wǒ cáigāng bǔ yī jiàn éryǐ",
+      "source_lines": [
+        56,
+        57
+      ]
+    },
+    {
+      "id": "line-59",
+      "text": "拉K好鏘好鏘我拉K都聽羅百吉",
+      "spelling": "lā K hǎo qiāng hǎo qiāng wǒ lā K dōu tīng luóbǎijí",
+      "source_lines": [
+        59,
+        60
+      ]
+    },
+    {
+      "id": "line-62",
+      "text": "開趴好嗨好嗨開趴記得帶新台幣",
+      "spelling": "kāi pā hǎo hāi hǎo hāi kāi pā jìdé dài xīn táibì",
+      "source_lines": [
+        62,
+        63
+      ]
+    },
+    {
+      "id": "line-65",
+      "text": "一起趴體趴體歡迎大家來找我趴體",
+      "spelling": "yīqǐ pā tǐ pā tǐ huānyíng dàjiā lái zhǎo wǒ pā tǐ",
+      "source_lines": [
+        65,
+        66
+      ]
+    },
+    {
+      "id": "line-68",
+      "text": "(Go Fight To All) 我拉K都聽羅百吉",
+      "spelling": "(Go Fight To All) wǒ lā K dōu tīng luóbǎijí",
+      "source_lines": [
+        68,
+        69
+      ]
+    },
+    {
+      "id": "line-71",
+      "text": "(Go Fight To All) 開趴記得帶新台幣",
+      "spelling": "(Go Fight To All) kāi pā jìdé dài xīn táibì",
+      "source_lines": [
+        71,
+        72
+      ]
+    },
+    {
+      "id": "line-74",
+      "text": "(Go Fight To All) 伍貳零來自No Side",
+      "spelling": "(Go Fight To All) wǔ’èr líng láizì No Side",
+      "source_lines": [
+        74,
+        75
+      ]
+    },
+    {
+      "id": "line-77",
+      "text": "(Go Fight To All) No Side就是沒No不行",
+      "spelling": "(Go Fight To All) No Side jiùshì méi No bùxíng",
+      "source_lines": [
+        77,
+        78
+      ]
+    },
+    {
+      "id": "line-80",
+      "text": "You Happy I Happy Everybody 嚨總足 Happy",
+      "spelling": "You Happy, I Happy, Everybody lóng-tsóng tsiok Happy",
+      "source_lines": [
+        80,
+        81
+      ]
+    },
+    {
+      "id": "line-83",
+      "text": "開一個趴踢 咱作伙飲乎醉 TONIGHT WE GO TO ROXY 99",
+      "spelling": "khui tsi̍t ê pā tī lán tsò-hué lím hoo tsuì Tonight We Go to Roxy 99",
+      "source_lines": [
+        83,
+        84
+      ]
+    },
+    {
+      "id": "line-86",
+      "text": "You Happy I Happy Everybody 嚨總足 Happy",
+      "spelling": "You Happy, I Happy, Everybody lóng-tsóng tsiok Happy",
+      "source_lines": [
+        86,
+        87
+      ]
+    },
+    {
+      "id": "line-89",
+      "text": "開一個趴踢 咱作伙飲乎醉 TONIGHT WE GO TO ROXY 99",
+      "spelling": "khui tsi̍t ê pā tī lán tsò-hué lím hoo tsuì Tonight We Go to Roxy 99",
+      "source_lines": [
+        89,
+        90
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [
+    {
+      "line": 3,
+      "text": "Note: Words in italics are in Chinese.  Everything is either English or Taiwanese.  The delineation should be fairly easy to recognize."
+    }
+  ],
+  "reasons": [
+    "ambiguous_pair:17,19",
+    "ambiguous_pair:43,44",
+    "ambiguous_pair:6,8",
+    "ambiguous_pair:8,9",
+    "ambiguous_pair:9,11",
+    "ambiguous_pair:92,93",
+    "ambiguous_pair:93,95",
+    "ambiguous_pair:95,96",
+    "source_note_requires_review:3",
+    "unpaired_line:96"
+  ]
+}

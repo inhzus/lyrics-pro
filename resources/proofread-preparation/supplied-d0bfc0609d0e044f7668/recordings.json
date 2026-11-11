@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": 241969,
+      "title": "爱情的酒拢袂退",
+      "artists": [
+        "黄乙玲"
+      ],
+      "album": "爱情的酒拢袂退",
+      "duration": 247.826,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 241592,
+      "title": "爱情的酒拢袂退",
+      "artists": [
+        "黄乙玲"
+      ],
+      "album": "1999依旧久久黄乙玲精选辑-玲声若响",
+      "duration": 247.066,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 378504,
+      "title": "爱情的酒拢袂退",
+      "artists": [
+        "孙建平 & Sweet Style"
+      ],
+      "album": "音乐磁场17",
+      "duration": 243.08,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1929077542,
+      "title": "爱情的酒拢袂退",
+      "artists": [
+        "袁小迪"
+      ],
+      "album": "最爱精选辑",
+      "duration": 244.493,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

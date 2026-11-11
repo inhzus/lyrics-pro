@@ -1,0 +1,435 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "穿著最帥欸裝備 油頭擱尬刷落去",
+      "spelling": "tshīng-tio̍h siōng siap ê tsong-pī iû thâu koh kā sua lo̍h-khì",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "騎著野狼 摸灰 打離仔欸卡對時",
+      "spelling": "khiâ-tio̍h iá-lông bong hue phah lī á ê khá tuì-sî",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "順風嘴咬 煙支 漂泊騎惦都市",
+      "spelling": "sūn-hong tshuì kā hun ki phiau-pi̍k khiâ tiām too-tshī",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "繁華欸年代 存在多少閉俗欸情愛",
+      "spelling": "huân-huâ ê nî-tāi tsûn-tsāi guā-tsē pì sio̍k ê tsîng-ài",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "個性拍謝 全用紙信寫著對愛期待",
+      "spelling": "kò-sìng pháinn-sè tsuân iōng tsuá phue siá-tio̍h tuì ài kî-thāi",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "霓虹燈 啊",
+      "spelling": "mi ang ting ah",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "田橋仔 哈",
+      "spelling": "tshân kiô-á ha",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "黑膠 ラジオ(收音機) 高尚追著風",
+      "spelling": "oo ka rajio ko-sióng tui-tio̍h hong",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "七辣 純情風 保守濛玲瓏",
+      "spelling": "tshit la sûn-tsîng hong pó-siú bong lîn long",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "慢步調欸生活迷人",
+      "spelling": "bān-pōo tiâu ê sing-ua̍h bê-lâng",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "鑲金欸日子不輸像在作夢",
+      "spelling": "khong kim ê li̍t-tsí bē-su tshiūnn teh bîn-bāng",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "追追追 一蕊玫瑰花",
+      "spelling": "tui tui tui tsi̍t luí muî-kuì-hue",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "日思夜夢 耶嘿 望妳會變我枕邊人",
+      "spelling": "li̍t su iā bāng eh heh bāng lí ē piàn guá tsím pinn lâng",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "追追追 歌舞造浪漫",
+      "spelling": "tui tui tui kua wú tsō lōng-bān",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "低厝暗巷 耶嘿 時代欸秘密就乎恁來猜",
+      "spelling": "kē tshù àm hāng heh heh sî-tāi ê pì-bi̍t tio̍h hōo lin lâi tshai",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "我走惦街仔路後面有人叫我緣投兄",
+      "spelling": "guá kiânn tiām ke-á lōo āu-piah ū-lâng kiò guá tâu hiann",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "我越頭看原來是住阮厝邊那摳七仔",
+      "spelling": "guá ua̍t-thâu khuànn guân-lâi sī tuà gún tshù-pinn hit kho̍k tshit-á",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "這個暗眠 想要帶一個轉去",
+      "spelling": "tsi̍t ê àm bîn siūnn-beh tshuā tsi̍t ê tńg-khì",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "甘有機會 我要帶一個轉去",
+      "spelling": "kam ū ki-huē guá beh tshuā tài tsi̍t ê tńg-khì",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "我尚緣投沒人比我帥趴 穿乎漂泊 尚愛把七仔",
+      "spelling": "guá siōng iân tâu bô-lâng pí guá siak-phānn tshīng hōo phiau-pi̍k siōng ài kā tshit-á",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "我扯到整場攏在看我 攏在打拍子",
+      "spelling": "guá khan-kah kui tiûnn lóng teh khuànn guá lóng leh phah-phok a",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "踏著囂張舞步 配著我的水杉",
+      "spelling": "ta̍h-tio̍h tshàng-tshiu bú-pōo phuè-tio̍h guá ê tsuí sam",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "忍不住孤單欸人",
+      "spelling": "lim-bē-tiâu koo-tuann ê lâng",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "我是純情欸男兒別將我來戲弄",
+      "spelling": "guá sī sûn-tsîng ê lâm-lî mài tsiòng guá lâi hì-lāng",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "黑膠 ラジオ(收音機) 高尚追著風",
+      "spelling": "oo ka rajio ko-sióng tui-tio̍h hong",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "七辣 純情風 保守濛玲瓏",
+      "spelling": "tshit la sûn-tsîng hong pó-siú bong lîn long",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "慢步調欸生活迷人",
+      "spelling": "bān-pōo tiâu ê sing-ua̍h bê-lâng",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "鑲金欸日子不輸像在作夢",
+      "spelling": "khong kim ê li̍t-tsí bē-su tshiūnn teh bîn-bāng",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "追追追 一蕊玫瑰花",
+      "spelling": "tui tui tui tsi̍t luí muî-kuì-hue",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "日思夜夢 耶嘿 望妳會變我枕邊人",
+      "spelling": "li̍t su iā bāng eh heh bāng lí ē piàn guá tsím pinn lâng",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "追追追 歌舞造浪漫",
+      "spelling": "tui tui tui kua wú tsō lōng-bān",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "低厝暗巷 耶嘿 時代欸秘密就乎恁來猜",
+      "spelling": "kē tshù àm hāng heh heh sî-tāi ê pì-bi̍t tio̍h hōo lin lâi tshai",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "我說我愛你不會反悔",
+      "spelling": "guá kóng guá ài lí buē huán-hué",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "我瀟灑但是也很坦白",
+      "spelling": "guá phiau-phiat tān-sī mā tsin thán-pi̍k",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "看到你我不會在頭犁犁",
+      "spelling": "khuànn-tio̍h lí guá bē koh tsāi thâu lê lê",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "純情欸年代阮拍謝放心內",
+      "spelling": "sûn-tsîng ê nî-tāi guá pháinn-sè khǹg sim-lāi",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "姑娘照過來我不會擱臭奶呆",
+      "spelling": "koo-niû tshiō kuè-lâi guá bē koh tshàu ling tai",
+      "source_lines": [
+        111,
+        112
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "純情欸年代阮拍謝放心內",
+      "spelling": "sûn-tsîng ê nî-tāi guá pháinn-sè khǹg sim-lāi",
+      "source_lines": [
+        114,
+        115
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "姑娘照過來我不會擱臭奶呆",
+      "spelling": "koo-niû tshiō kuè-lâi guá bē koh tshàu ling tai",
+      "source_lines": [
+        117,
+        118
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "黑膠 ラジオ(收音機) 高尚追著風",
+      "spelling": "oo ka rajio ko-sióng tui-tio̍h hong",
+      "source_lines": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "七辣 純情風 保守濛玲瓏",
+      "spelling": "tshit la sûn-tsîng hong pó-siú bong lîn long",
+      "source_lines": [
+        123,
+        124
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "慢步調欸生活迷人",
+      "spelling": "bān-pōo tiâu ê sing-ua̍h bê-lâng",
+      "source_lines": [
+        126,
+        127
+      ]
+    },
+    {
+      "id": "line-129",
+      "text": "鑲金欸日子不輸像在作夢",
+      "spelling": "khong kim ê li̍t-tsí bē-su tshiūnn teh bîn-bāng",
+      "source_lines": [
+        129,
+        130
+      ]
+    },
+    {
+      "id": "line-132",
+      "text": "追追追 一蕊玫瑰花",
+      "spelling": "tui tui tui tsi̍t luí muî-kuì-hue",
+      "source_lines": [
+        132,
+        133
+      ]
+    },
+    {
+      "id": "line-135",
+      "text": "日思夜夢 耶嘿 望妳會變我枕邊人",
+      "spelling": "li̍t su iā bāng eh heh bāng lí ē piàn guá tsím pinn lâng",
+      "source_lines": [
+        135,
+        136
+      ]
+    },
+    {
+      "id": "line-138",
+      "text": "追追追 歌舞造浪漫",
+      "spelling": "tui tui tui kua wú tsō lōng-bān",
+      "source_lines": [
+        138,
+        139
+      ]
+    },
+    {
+      "id": "line-141",
+      "text": "低厝暗巷 耶嘿 時代欸秘密就乎恁來猜",
+      "spelling": "kē tshù àm hāng heh heh sî-tāi ê pì-bi̍t tio̍h hōo lin lâi tshai",
+      "source_lines": [
+        141,
+        142
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：草屯囝仔 作曲：草屯囝仔 台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

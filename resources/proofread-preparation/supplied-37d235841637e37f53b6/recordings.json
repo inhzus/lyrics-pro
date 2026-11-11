@@ -1,0 +1,104 @@
+{
+  "candidates": [
+    {
+      "song_id": 386936,
+      "title": "志明与春娇",
+      "artists": [
+        "五月天"
+      ],
+      "album": "第一张创作专辑",
+      "duration": 281.866,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 5268604,
+      "title": "志明与春娇",
+      "artists": [
+        "五月天"
+      ],
+      "album": "简单情歌Ⅱ 男人真幸福",
+      "duration": 281.6,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 543965346,
+      "title": "志明与春娇",
+      "artists": [
+        "五月天"
+      ],
+      "album": "K歌王国 男女K歌",
+      "duration": 281.973,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 386011,
+      "title": "志明与春娇",
+      "artists": [
+        "五月天"
+      ],
+      "album": "知足 最真杰作选",
+      "duration": 279.24,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2611547986,
+      "title": "志明与春娇",
+      "artists": [
+        "Emo避难所"
+      ],
+      "album": "犯了错",
+      "duration": 194.493,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5273263,
+      "title": "志明与春娇",
+      "artists": [
+        "五月天"
+      ],
+      "album": "超级Band Band Band 乐团精选",
+      "duration": 281.866,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 199427,
+      "title": "志明与春娇",
+      "artists": [
+        "张志家"
+      ],
+      "album": "It Is My War",
+      "duration": 292.466,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 543965527,
+      "title": "志明与春娇",
+      "artists": [
+        "五月天"
+      ],
+      "album": "2021爱你爱一辈子",
+      "duration": 279.24,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 5237901,
+      "title": "志明与春娇",
+      "artists": [
+        "五月天"
+      ],
+      "album": "生命之歌",
+      "duration": 279.24,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

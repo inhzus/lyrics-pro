@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 69179,
+    "title": "人在江湖",
+    "artists": [
+      "陈雷"
+    ],
+    "album": "人在江湖",
+    "duration": 245.826,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:69179",
+      "duration": 245.826,
+      "ready": false,
+      "coverage": 0.4074074074074074,
+      "exact_fraction": 0.4074074074074074,
+      "summary": {
+        "credit": 2,
+        "unresolved": 16,
+        "gap": 8,
+        "repeat": 11
+      }
+    }
+  ]
+}

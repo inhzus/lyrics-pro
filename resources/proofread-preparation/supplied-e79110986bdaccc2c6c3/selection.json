@@ -1,0 +1,43 @@
+{
+  "selected": {
+    "song_id": 156639,
+    "title": "墓仔埔也敢去",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "爱你伍佰年",
+    "duration": 220.408,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:156639",
+      "duration": 220.408,
+      "ready": false,
+      "coverage": 0.5490196078431373,
+      "exact_fraction": 0.525,
+      "summary": {
+        "repeat": 20,
+        "unresolved": 16,
+        "approximate": 3,
+        "gap": 3,
+        "exact": 1
+      }
+    },
+    {
+      "recording_id": "netease:1293904742",
+      "duration": 225.346,
+      "ready": false,
+      "coverage": 0.5490196078431373,
+      "exact_fraction": 0.5,
+      "summary": {
+        "unresolved": 18,
+        "credit": 2,
+        "repeat": 20,
+        "approximate": 3,
+        "exact": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "我看著那年的電影 搬阿搬",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn puann ah puann",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "每一段只有影煞沒聲",
+      "spelling": "muí tsi̍t-tuānn tsí-ū iánn suah bô-siann",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "身軀它提醒著我那時的燒熱",
+      "spelling": "sin-khu i thinn-tshínn-tio̍h guá hit-sî ê sio-jua̍h",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "我看著那年的電影 搬阿搬",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn puann ah puann",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "每一段只有心內它知影",
+      "spelling": "muí tsi̍t-tuānn tsí-ū sim-lāi i tsai-iánn",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "屬於我們的歌會永遠留在我心肝喔",
+      "spelling": "sio̍k-î lán ê kua ē íng-uán lâu tī guá sim-kuann ooh",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "半眠兩點多 想起著卡早的生活",
+      "spelling": "puànn bîn nn̄g tiám guā siūnn-khí-tio̍h khá-tsá ê sing-ua̍h",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "經過了這多年 最懷念 依然是那段",
+      "spelling": "king-kuè-liáu tsiah tsē nî siōng huâi-liām iû-uân sī hit tuānn",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "我們在厝尾頂偷懶 有月娘偷偷啊在看",
+      "spelling": "lán tī tshù bué tíng lâng-nuā ū gue̍h-niû thau thau ah teh khuànn",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "也有厝邊頭尾跑過來罵",
+      "spelling": "mā ū tshù-pinn thâu-bué tsáu kuè-lâi mā",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "啥米攏不怕的肖年啊",
+      "spelling": "siánn-mih lóng m̄-kiann ê siàu-liân ah",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "現在是跑去哪",
+      "spelling": "tsit-má sī tsáu-khì ta̍h",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "心內那麼簡單的快樂",
+      "spelling": "sim-lāi hiah-nī kán-tan ê khuài-lo̍k",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "現在置兜自位啊",
+      "spelling": "tsit-má tì tau tsū uī ah",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "我看著那年的電影 搬阿搬",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn puann ah puann",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "每一段只有影煞沒聲",
+      "spelling": "muí tsi̍t-tuānn tsí-ū iánn suah bô-siann",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "身軀它提醒著我那時的燒熱",
+      "spelling": "sin-khu i thinn-tshínn-tio̍h guá hit-sî ê sio-jua̍h",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "我看著那年的電影 搬阿搬",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn puann ah puann",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "每一段只有心內它知影",
+      "spelling": "muí tsi̍t-tuānn tsí-ū sim-lāi i tsai-iánn",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "屬於我們的歌會永遠留在我心肝喔",
+      "spelling": "sio̍k-î lán ê kua ē íng-uán lâu tī guá sim-kuann ooh",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "半眠兩點多 沒了你們的生活",
+      "spelling": "puànn bîn nn̄g tiám guā bô-liáu lín ê sing-ua̍h",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "奮鬥的這幾年 最懷念 依然是那段",
+      "spelling": "hùn-tàu ê tsit-kuí-nî siōng huâi-liām iû-uân sī hit tuānn",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "咱唱著歌夯肉 咱作伙瘋到透早",
+      "spelling": "lán tshiùnn-tio̍h kua hang bah lán tsò-hué siáu-kah thàu-tsá",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "沒錢就當至買泡麵來吃",
+      "spelling": "bô tshînn tio̍h tang tsì bé phàu-mī lâi tsia̍h",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "啥米攏不怕的肖年啊",
+      "spelling": "siánn-mih lóng m̄-kiann ê siàu-liân ah",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "現在是跑去哪",
+      "spelling": "tsit-má sī tsáu-khì ta̍h",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "心內那麼簡單的快樂",
+      "spelling": "sim-lāi hiah-nī kán-tan ê khuài-lo̍k",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "現在置兜自位啊",
+      "spelling": "tsit-má tì tau tsū uī ah",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "我看著那年的電影 演阿演",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn ián ah ián",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "每一段只有影煞沒聲",
+      "spelling": "muí tsi̍t-tuānn tsí-ū iánn suah bô-siann",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "身軀它提醒著我那時的燒熱",
+      "spelling": "sin-khu i thinn-tshínn-tio̍h guá hit-sî ê sio-jua̍h",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "我看著那年的電影 搬阿搬",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn puann ah puann",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "每一段只有心內它知影",
+      "spelling": "muí tsi̍t-tuānn tsí-ū sim-lāi i tsai-iánn",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "屬於我們的歌會永遠留在我心肝喔",
+      "spelling": "sio̍k-î lán ê kua ē íng-uán lâu tī guá sim-kuann ooh",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "我看著那年的電影 搬阿搬",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn puann ah puann",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "每一段只有影煞沒聲",
+      "spelling": "muí tsi̍t-tuānn tsí-ū iánn suah bô-siann",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "身軀它提醒著我那時的燒熱",
+      "spelling": "sin-khu i thinn-tshínn-tio̍h guá hit-sî ê sio-jua̍h",
+      "source_lines": [
+        111,
+        112
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "我看著那年的電影 搬阿搬",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn puann ah puann",
+      "source_lines": [
+        114,
+        115
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "每一段只有心內它知影",
+      "spelling": "muí tsi̍t-tuānn tsí-ū sim-lāi i tsai-iánn",
+      "source_lines": [
+        117,
+        118
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "屬於我們的歌會永遠留在我心肝喔",
+      "spelling": "sio̍k-î lán ê kua ē íng-uán lâu tī guá sim-kuann ooh",
+      "source_lines": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "我看著那年的電影 搬阿搬",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn puann ah puann",
+      "source_lines": [
+        123,
+        124
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "每一段只有影煞沒聲",
+      "spelling": "muí tsi̍t-tuānn tsí-ū iánn suah bô-siann",
+      "source_lines": [
+        126,
+        127
+      ]
+    },
+    {
+      "id": "line-129",
+      "text": "身軀它提醒著我那時的燒熱",
+      "spelling": "sin-khu i thinn-tshínn-tio̍h guá hit-sî ê sio-jua̍h",
+      "source_lines": [
+        129,
+        130
+      ]
+    },
+    {
+      "id": "line-132",
+      "text": "我看著那年的電影 搬阿搬",
+      "spelling": "guá khuànn-tio̍h hit nî ê tiān-iánn puann ah puann",
+      "source_lines": [
+        132,
+        133
+      ]
+    },
+    {
+      "id": "line-135",
+      "text": "半眠兩點多 想起著卡早的生活",
+      "spelling": "puànn bîn nn̄g tiám guā siūnn-khí-tio̍h khá-tsá ê sing-ua̍h",
+      "source_lines": [
+        135,
+        136
+      ]
+    },
+    {
+      "id": "line-138",
+      "text": "經過了這多年 最懷念 依然是那段",
+      "spelling": "king-kuè-liáu tsiah tsē nî siōng huâi-liām iû-uân sī hit tuānn",
+      "source_lines": [
+        138,
+        139
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳建達 作曲：吳建達 台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

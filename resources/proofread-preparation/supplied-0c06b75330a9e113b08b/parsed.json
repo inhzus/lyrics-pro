@@ -1,0 +1,378 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "你的眼神 已說出心內話",
+      "spelling": "lí ê gán-sîn i kóng-tshut sim-lāi-uē",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "想要說話 也已經無機會",
+      "spelling": "siūnn-beh kóng-uē ia̍h í-king bô ki-huē",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "面對你不想解釋 加講也是夯枷",
+      "spelling": "bīn-tuì lí bô-siūnn kái-sueh ke kóng ia̍h-sī giâ-kê",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "感情的罪 心已經在流血",
+      "spelling": "kám-tsîng ê tsuē sim í-king teh lâu-hueh",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "你若要飛 我甘願受風吹",
+      "spelling": "lí nā-beh pue guá kam-guān siū hong-tshue",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "只是情話 免說甲這狼狽",
+      "spelling": "tsí-sī tsîng uē bián kóng kā tsia liông-puē",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "猶原 對你痴情 親像瘋子",
+      "spelling": "iû-guân tuì lí tshi-tsîng tshin-tshiūnn siáu-ê",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "如今無你的暝",
+      "spelling": "lû-kim bô lí ê mê",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "一個人黯淡的月 付出怎樣來收回",
+      "spelling": "tsi̍t ê lâng àm-tām ê gue̍h hù-tshut tsuánn-iūnn lâi siu-huê",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "輕輕對你說出一句 愛してる唷",
+      "spelling": "khin-khin tuì lí kóng-tshut tsi̍t kù ài shi teru ioh",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "如今變作 無聊笑虧",
+      "spelling": "lû-kim piàn-tsuè bô-liâu tshiò khui",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "日子簡單卡好過",
+      "spelling": "li̍t-tsí kán-tan khah hó kuè",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "大聲對你說出一句 愛してる唷",
+      "spelling": "tuā-siann tuì lí kóng-tshut tsi̍t kù ài shi teru ioh",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "請問天地 情是啥貨 何時放阮自由飛",
+      "spelling": "tshiánn-mn̄g thinn-tē tsîng sī siánn-huè hô-sî pàng gún tsū-iû pue",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "你的多情 傷害阮有外多",
+      "spelling": "lí ê to-tsîng siong-hāi gún ū guā tsē",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "怎樣我會 無志氣憨憨迺",
+      "spelling": "tsuánn-iūnn guá ē bô tsì-khì gōng gōng se",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "猶原 對你痴情 親像瘋子",
+      "spelling": "iû-guân tuì lí tshi-tsîng tshin-tshiūnn siáu-ê",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "如今無你的暝",
+      "spelling": "lû-kim bô lí ê mê",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "一個人黯淡的月 付出怎樣來收回",
+      "spelling": "tsi̍t ê lâng àm-tām ê gue̍h hù-tshut tsuánn-iūnn lâi siu-huê",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "輕輕對你說出一句 愛してる唷",
+      "spelling": "khin-khin tuì lí kóng-tshut tsi̍t kù ài shi teru ioh",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "如今變作 無聊笑虧",
+      "spelling": "lû-kim piàn-tsuè bô-liâu tshiò khui",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "放乎冷淡卡好過",
+      "spelling": "pàng hōo líng-tām khah hó kuè",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "大聲對你說出一句 愛してる唷",
+      "spelling": "tuā-siann tuì lí kóng-tshut tsi̍t kù ài shi teru ioh",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "請問天地 情是啥貨",
+      "spelling": "tshiánn-mn̄g thinn-tē tsîng sī siánn-huè",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "喔~",
+      "spelling": "ooh",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "輕輕對你說出一句 愛してる唷",
+      "spelling": "khin-khin tuì lí kóng-tshut tsi̍t kù ài shi teru ioh",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "如今變作 無聊笑虧",
+      "spelling": "lû-kim piàn-tsuè bô-liâu tshiò khui",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "放乎平靜卡好過",
+      "spelling": "pàng hōo pîng-tsīng khah hó kuè",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "大聲對你說出一句 愛してる唷",
+      "spelling": "tuā-siann tuì lí kóng-tshut tsi̍t kù ài shi teru ioh",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "請問天地 情是啥貨",
+      "spelling": "tshiánn-mn̄g thinn-tē tsîng sī siánn-huè",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "何時放阮自由飛",
+      "spelling": "hô-sî pàng gún tsū-iû pue",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "喔~",
+      "spelling": "ooh",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "輕輕對你說出一句 愛してる唷",
+      "spelling": "khin-khin tuì lí kóng-tshut tsi̍t kù ài shi teru ioh",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "如今變作 無聊笑虧",
+      "spelling": "lû-kim piàn-tsuè bô-liâu tshiò khui",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-104",
+      "text": "大聲對你說出一句 愛してる唷",
+      "spelling": "tuā-siann tuì lí kóng-tshut tsi̍t kù ài shi teru ioh",
+      "source_lines": [
+        104,
+        105
+      ]
+    },
+    {
+      "id": "line-107",
+      "text": "請問天地 情是啥貨",
+      "spelling": "tshiánn-mn̄g thinn-tē tsîng sī siánn-huè",
+      "source_lines": [
+        107,
+        108
+      ]
+    },
+    {
+      "id": "line-110",
+      "text": "喔~ 愛してる唷",
+      "spelling": "ooh ài shi teru ioh",
+      "source_lines": [
+        110,
+        111
+      ]
+    },
+    {
+      "id": "line-113",
+      "text": "喔~ 平靜卡好過",
+      "spelling": "ooh pîng-tsīng khah hó kuè",
+      "source_lines": [
+        113,
+        114
+      ]
+    },
+    {
+      "id": "line-116",
+      "text": "愛してる唷",
+      "spelling": "ài shi teru ioh",
+      "source_lines": [
+        116,
+        117
+      ]
+    },
+    {
+      "id": "line-119",
+      "text": "請問天地 情是啥貨",
+      "spelling": "tshiánn-mn̄g thinn-tē tsîng sī siánn-huè",
+      "source_lines": [
+        119,
+        120
+      ]
+    },
+    {
+      "id": "line-122",
+      "text": "何時放阮自由飛",
+      "spelling": "hô-sî pàng gún tsū-iû pue",
+      "source_lines": [
+        122,
+        123
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:103,104"
+  ]
+}

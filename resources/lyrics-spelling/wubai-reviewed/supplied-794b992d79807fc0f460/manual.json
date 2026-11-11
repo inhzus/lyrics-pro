@@ -1,0 +1,310 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "海上的                     船螺聲已經響起",
+      "spelling": "hái-siōng ê            tsûn lê siann í-king hiáng-khí",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "海上的",
+          "spelling": "hái-siōng ê"
+        },
+        {
+          "text": "船螺聲已經響起",
+          "spelling": "tsûn lê siann í-king hiáng-khí"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "對你猶原情綿綿                      今日要來離開",
+      "spelling": "tuì lí iu-guân tsîng mî mî    kim ji̍t beh lâi lī-khui",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "對你猶原情綿綿",
+          "spelling": "tuì lí iu-guân tsîng mî mî"
+        },
+        {
+          "text": "今日要來離開",
+          "spelling": "kim ji̍t beh lâi lī-khui"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "心愛的                  不甘看你珠淚滴",
+      "spelling": "tshin-ài ê            m̄ kam khuànn lī tsu luī tih",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "心愛的",
+          "spelling": "tshin-ài ê"
+        },
+        {
+          "text": "不甘看你珠淚滴",
+          "spelling": "m̄ kam khuànn lī tsu luī tih"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "在我不在的日子                   你著保重自己",
+      "spelling": "tī guá put-tsāi ê ji̍t tsí        lī tio̍h pó-tiōng tsū-kí",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "在我不在的日子",
+          "spelling": "tī guá put-tsāi ê ji̍t tsí"
+        },
+        {
+          "text": "你著保重自己",
+          "spelling": "lī tio̍h pó-tiōng tsū-kí"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "異鄉啊                 總有坎坷路要行",
+      "spelling": "ī-hiong                tsóng ū khám khia̍t lōo ài kiânn",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "異鄉啊",
+          "spelling": "ī-hiong"
+        },
+        {
+          "text": "總有坎坷路要行",
+          "spelling": "tsóng ū khám khia̍t lōo ài kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "我袂寂寞                       有你在我的心肝",
+      "spelling": "guá buē siok-bo̍k        ū lī tī guá ê sim-kuann",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "我袂寂寞",
+          "spelling": "guá buē siok-bo̍k"
+        },
+        {
+          "text": "有你在我的心肝",
+          "spelling": "ū lī tī guá ê sim-kuann"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "男兒啊                 立志他鄉為生活",
+      "spelling": "lâm-jî ah            li̍p-tsì thann-hiong uî sing-ua̍h",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "男兒啊",
+          "spelling": "lâm-jî ah"
+        },
+        {
+          "text": "立志他鄉為生活",
+          "spelling": "li̍p-tsì thann-hiong uî sing-ua̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "和妳團圓                      在我成功的時",
+      "spelling": "kah lī thuân-înn        tsāi-guá sîng-kong ê sî",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "和妳團圓",
+          "spelling": "kah lī thuân-înn"
+        },
+        {
+          "text": "在我成功的時",
+          "spelling": "tsāi-guá sîng-kong ê sî"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "最後的                 船螺聲又再響起",
+      "spelling": "tsuè-āu ê            tsûn lê siann iū tsài hiáng-khí",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "最後的",
+          "spelling": "tsuè-āu ê"
+        },
+        {
+          "text": "船螺聲又再響起",
+          "spelling": "tsûn lê siann iū tsài hiáng-khí"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "猶原不甘來離開                           手牽著心愛的 再會啦",
+      "spelling": "iu-guân put kam lâi lī-khui     tshiú khan tio̍h tshin-ài ê tsài-huē là",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "猶原不甘來離開",
+          "spelling": "iu-guân put kam lâi lī-khui"
+        },
+        {
+          "text": "手牽著心愛的 再會啦",
+          "spelling": "tshiú khan tio̍h tshin-ài ê tsài-huē là"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "異鄉啊                 總有坎坷路要行",
+      "spelling": "ī-hiong                tsóng ū khám khia̍t lōo ài kiânn",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "異鄉啊",
+          "spelling": "ī-hiong"
+        },
+        {
+          "text": "總有坎坷路要行",
+          "spelling": "tsóng ū khám khia̍t lōo ài kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "我袂寂寞                       有你在我的心肝",
+      "spelling": "guá buē siok-bo̍k        ū lī tī guá ê sim-kuann",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "我袂寂寞",
+          "spelling": "guá buē siok-bo̍k"
+        },
+        {
+          "text": "有你在我的心肝",
+          "spelling": "ū lī tī guá ê sim-kuann"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "男兒啊                 立志他鄉為生活",
+      "spelling": "lâm-jî ah            li̍p-tsì tha hiong uî sing-ua̍h",
+      "source_lines": [
+        39,
+        41
+      ],
+      "parts": [
+        {
+          "text": "男兒啊",
+          "spelling": "lâm-jî ah"
+        },
+        {
+          "text": "立志他鄉為生活",
+          "spelling": "li̍p-tsì tha hiong uî sing-ua̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "和妳團圓                      在我成功的時",
+      "spelling": "kah lī thuân-înn        tsāi-guá sîng-kong ê sî",
+      "source_lines": [
+        43,
+        44
+      ],
+      "parts": [
+        {
+          "text": "和妳團圓",
+          "spelling": "kah lī thuân-înn"
+        },
+        {
+          "text": "在我成功的時",
+          "spelling": "tsāi-guá sîng-kong ê sî"
+        }
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "最後的                 船螺聲又再響起",
+      "spelling": "tsuè-āu ê            tsûn lê siann iū tsài hiáng-khí",
+      "source_lines": [
+        46,
+        47
+      ],
+      "parts": [
+        {
+          "text": "最後的",
+          "spelling": "tsuè-āu ê"
+        },
+        {
+          "text": "船螺聲又再響起",
+          "spelling": "tsûn lê siann iū tsài hiáng-khí"
+        }
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "猶原不甘來離開                           手牽著心愛的 再會啦",
+      "spelling": "iu-guân put kam lâi lī-khui     tshiú khan tio̍h tshin-ài ê tsài-huē là",
+      "source_lines": [
+        49,
+        50
+      ],
+      "parts": [
+        {
+          "text": "猶原不甘來離開",
+          "spelling": "iu-guân put kam lâi lī-khui"
+        },
+        {
+          "text": "手牽著心愛的 再會啦",
+          "spelling": "tshiú khan tio̍h tshin-ài ê tsài-huē là"
+        }
+      ]
+    }
+  ],
+  "repairs": [],
+  "notes": []
+}

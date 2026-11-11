@@ -1,0 +1,60 @@
+{
+  "candidates": [
+    {
+      "song_id": 3385950041,
+      "title": "老城门",
+      "artists": [
+        "老九"
+      ],
+      "album": "月光信",
+      "duration": 191.399,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2632023117,
+      "title": "老城门",
+      "artists": [
+        "MR YAO"
+      ],
+      "album": "66fish",
+      "duration": 317.988,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3436843714,
+      "title": "老城门",
+      "artists": [
+        "卫复"
+      ],
+      "album": "微小的希望",
+      "duration": 240.551,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1745304115",
+      "title": "老城门",
+      "artists": [
+        "谢铭祐"
+      ],
+      "album": "泥土",
+      "duration": 419.547,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1393950630",
+      "title": "老城门",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "台南",
+      "duration": 348.387,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,433 @@
+{
+  "schema_version": 1,
+  "id": "supplied-7cfec46e7b59e36be4eb",
+  "revision": "1",
+  "title": "厲害",
+  "title_aliases": [
+    "厉害(Live)"
+  ],
+  "artist": "伍佰 & China Blue",
+  "album": "双面人",
+  "duration": 221.306,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:156501",
+    "timing_source": "NetEase https://music.163.com/song?id=156501",
+    "manual_source": "resources/lyrics-spelling/厲害-伍佰",
+    "audio_verified": false,
+    "agent_review": "Explicitly reviewed supplied phrase grouping, sequence, repetitions and wording differences. Keep source words/readings; preserve every provider timestamp. No audio verification.",
+    "input_sha256": {
+      "original": "5747ffab2644542692d23e483aa61cd73d77ef8175db2857264ca7128e7c743d",
+      "manual": "b9d7eb735c8fd558a3853d53195b13b39abbbeeb367067ce2697855764295119",
+      "timed": "93e1bd90ec964bcc08b0aaea805e4fd77904991605df64f052c1b36573b344c7"
+    },
+    "source_spelling_notes": [
+      "Source line 85 retains put ti hué-kái paired with 襯襯採採. This appears copied from 不知悔改; no replacement reading was invented. The source remix note is retained, but this asset uses the studio timeline only."
+    ],
+    "summary": {
+      "credit": 3,
+      "approximate": 10,
+      "exact": 18,
+      "gap": 2
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作词 : 伍佰",
+        "status": "credit",
+        "text": "作词 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 1.0,
+        "online_text": "作曲 : 伍佰",
+        "status": "credit",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 2.0,
+        "online_text": "编曲 : 伍佰 & China Blue",
+        "status": "credit",
+        "text": "编曲 : 伍佰 & China Blue",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 27.97,
+        "online_text": "心情很轻松   没什么阻碍",
+        "status": "approximate",
+        "text": "心情很輕鬆 沒什麼阻礙",
+        "spelling": "sim-tsîng tsin khin-sang bô-siánn-mih tsóo-gāi",
+        "manual_id": "line-3:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 32.53,
+        "online_text": "我想你正经对我没说盖熟悉",
+        "status": "exact",
+        "text": "我想你正經對我沒說蓋熟悉",
+        "spelling": "guá siūnn lí tsìng-king tuì guá bô kóng kài si̍k-sāi",
+        "manual_id": "line-6:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 36.98,
+        "online_text": "看起来呆呆   无聊嘛不错",
+        "status": "exact",
+        "text": "看起來呆呆 無聊嘛不錯",
+        "spelling": "khuànn khí-lâi tai tai bô-liâu mah bē-bái",
+        "manual_id": "line-9:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 41.58,
+        "online_text": "今嘛是什么情形我完全拢了解",
+        "status": "approximate",
+        "text": "今嘛是什麼情形我完全攏了解",
+        "spelling": "jin mah sī siánn-mih tsîng-hîng guá uân-tsuân lóng liáu-kái",
+        "manual_id": "line-12:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 45.87,
+        "online_text": "我不爱风头   我嘛未假傲",
+        "status": "approximate",
+        "text": "我不愛鋒頭 我嘛未假傲",
+        "spelling": "guá bô ài hong thâu guá mah bē ké kào",
+        "manual_id": "line-15:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 50.36,
+        "online_text": "我甲意事事项项拢要照步来",
+        "status": "exact",
+        "text": "我甲意事事項項攏要照步來",
+        "spelling": "guá kah ì sū sū hāng-hāng lóng ài tsiáu pōo lâi",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 54.7,
+        "online_text": "你做你爽势   你作你挤样",
+        "status": "approximate",
+        "text": "你做你爽勢 你作你擠洋",
+        "spelling": "lí tsò lí sńg sè lí tsoh lí tsik iân",
+        "manual_id": "line-21:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 59.15,
+        "online_text": "我不免步数尽展证明我存在",
+        "status": "exact",
+        "text": "我不免步數盡展證明我存在",
+        "spelling": "guá m̄-bián pōo sòo tsīn tián tsìng-bîng guá tsûn-tsāi",
+        "manual_id": "line-24:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 63.32,
+        "online_text": "耐心等待   到时你就知",
+        "status": "exact",
+        "text": "耐心等待 到時你就知",
+        "spelling": "nāi-sim tán-thāi kàu-sî lí tio̍h tsai",
+        "manual_id": "line-27:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 68.04,
+        "online_text": "不知悔改   看谁较厉害",
+        "status": "exact",
+        "text": "不知悔改 看誰較厲害",
+        "spelling": "put ti hué-kái khuànn siáng khah lī-hāi",
+        "manual_id": "line-30:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 71.92,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 77.68,
+        "online_text": "红色的青光   惊骇的色彩",
+        "status": "approximate",
+        "text": "紅色的青光 驚駭的色彩",
+        "spelling": "âng-sik ê tshenn kng kiann gia̍h ê sik-tshái",
+        "manual_id": "line-33:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 82.18,
+        "online_text": "在我的脑海随时会冻迸出来",
+        "status": "exact",
+        "text": "在我的腦海隨時會凍迸出來",
+        "spelling": "tī guá ê náu-hái suî-sî ē tàng piàng tshut-lâi",
+        "manual_id": "line-36:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 86.57,
+        "online_text": "我注定成功   不属于失败",
+        "status": "approximate",
+        "text": "我註定成功 不屬於失敗",
+        "spelling": "guá tsù-tiānn sîng-kong bô sio̍k-î sit-pāi",
+        "manual_id": "line-39:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 91.03,
+        "online_text": "我不要甲你相争只是为现在",
+        "status": "exact",
+        "text": "我不要甲你相爭只是為現在",
+        "spelling": "guá bô ài kah lí sio-tsinn tsí-sī uî hiàn tsāi",
+        "manual_id": "line-42:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 95.32,
+        "online_text": "时机若未到   凡是就忍耐",
+        "status": "approximate",
+        "text": "時機若沒到 凡事就忍耐",
+        "spelling": "sî-ki ná bô kàu huân-sū tio̍h jím-nāi",
+        "manual_id": "line-45:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 99.82,
+        "online_text": "打草若惊蛇代志就抹那精采",
+        "status": "exact",
+        "text": "打草若驚蛇代誌就抹那精采",
+        "spelling": "tánn tsháu ná kiann siâ tāi-tsì tio̍h huê hiâ tsing tshái",
+        "manual_id": "line-48:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 104.27,
+        "online_text": "你尽量派头   观前没顾后",
+        "status": "exact",
+        "text": "你盡量派頭 觀前沒顧後",
+        "spelling": "lí tsīn-liōng phài-thâu kuan-tsîng bē kòo-āu",
+        "manual_id": "line-51:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 108.77,
+        "online_text": "你已经一步一步死亡界线来",
+        "status": "exact",
+        "text": "你已經一步一步死亡界線來",
+        "spelling": "lí í-king tsi̍t pōo tsi̍t pōo sí-bông kài suànn lâi",
+        "manual_id": "line-54:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 112.96,
+        "online_text": "耐心等待   到时你就知",
+        "status": "exact",
+        "text": "耐心等待 到時你就知",
+        "spelling": "nāi-sim tán-thāi kàu-sî lí tio̍h tsai",
+        "manual_id": "line-57:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 117.36,
+        "online_text": "不知悔改   看谁较厉害",
+        "status": "exact",
+        "text": "不知悔改 看誰較厲害",
+        "spelling": "put ti hué-kái khuànn siáng khah lī-hāi",
+        "manual_id": "line-60:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 121.5,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 184.62,
+        "online_text": "我已经回来   时间是现在",
+        "status": "exact",
+        "text": "我已經回來 時間是現在",
+        "spelling": "guá í-king tńg-lâi sî-kan sī hiàn tsāi",
+        "manual_id": "line-63:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 189.08,
+        "online_text": "不管你甲意抑没这摆我欲来",
+        "status": "exact",
+        "text": "不管你甲意抑沒這擺我欲來",
+        "spelling": "m̄-kuán lí kah ì ia̍h bô tsit-pái guá beh lâi",
+        "manual_id": "line-66:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 27,
+        "time": 193.48,
+        "online_text": "目睭拨乎金   脚尾续乎在",
+        "status": "approximate",
+        "text": "目周撥乎金 腳尾續乎在",
+        "spelling": "ba̍k tsiu pué honnh kim kha bué suà honnh tsāi",
+        "manual_id": "line-69:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 28,
+        "time": 198.01,
+        "online_text": "乎你看什么才是胜利的姿态",
+        "status": "approximate",
+        "text": "乎你看什麼才是勝利的姿態",
+        "spelling": "honnh lí khuànn siánn-mih tsiah-sī sìng-lī ê tsú-thài",
+        "manual_id": "line-72:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 29,
+        "time": 202.0,
+        "online_text": "耐心等待   到时你就知",
+        "status": "exact",
+        "text": "耐心等待 到時你就知",
+        "spelling": "nāi-sim tán-thāi kàu-sî lí tio̍h tsai",
+        "manual_id": "line-75:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 30,
+        "time": 206.39,
+        "online_text": "不知悔改   看谁较厉害",
+        "status": "exact",
+        "text": "不知悔改 看誰較厲害",
+        "spelling": "put ti hué-kái khuànn siáng khah lī-hāi",
+        "manual_id": "line-78:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 31,
+        "time": 210.89,
+        "online_text": "耐心等待   到时你就知",
+        "status": "exact",
+        "text": "耐心等待 到時你就知",
+        "spelling": "nāi-sim tán-thāi kàu-sî lí tio̍h tsai",
+        "manual_id": "line-81:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 32,
+        "time": 215.36,
+        "online_text": "衬衬采采   看谁较厉害",
+        "status": "approximate",
+        "text": "襯襯採採 看誰較厲害",
+        "spelling": "put ti hué-kái khuànn siáng khah lī-hāi",
+        "manual_id": "line-84:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

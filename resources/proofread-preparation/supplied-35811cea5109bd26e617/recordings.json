@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": 156517,
+      "title": "风台心情",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "双面人",
+      "duration": 244.653,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2643422585,
+      "title": "风台心情",
+      "artists": [
+        "小握"
+      ],
+      "album": "《往事随风》小握闽南语三部曲Ⅳ",
+      "duration": 244.897,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

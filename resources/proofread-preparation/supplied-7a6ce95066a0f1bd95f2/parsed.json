@@ -1,0 +1,406 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "每一次 每一次                           自己決定是最尾次",
+      "spelling": "muí tsi̍t-pái muí tsi̍t-pái        ka-kī kuat-tīng sī siōng bué pái",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "每一次 每一次",
+          "spelling": "muí tsi̍t-pái muí tsi̍t-pái"
+        },
+        {
+          "text": "自己決定是最尾次",
+          "spelling": "ka-kī kuat-tīng sī siōng bué pái"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "別轉頭思念妳",
+      "spelling": "mái ua̍t-thâu su-liām lí",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "擱一次 擱一次                          機會甘有擱一次",
+      "spelling": "kok tsi̍t-pái  kok tsi̍t-pái        ki-huē kam ū kok tsi̍t-pái",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "有時間原諒妳",
+      "spelling": "ū sî-kan guân-liōng lí",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "我還沒清醒                                     心中的那個香水氣味",
+      "spelling": "guá iáu-buē tshing-tshénn        sim-tiong ê hit ê phang-tsuí khì-bī",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "我還沒清醒",
+          "spelling": "guá iáu-buē tshing-tshénn"
+        },
+        {
+          "text": "心中的那個香水氣味",
+          "spelling": "sim-tiong ê hit ê phang-tsuí khì-bī"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "越想越稀微",
+      "spelling": "lú siūnn lú hi-bî",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "想要放袂記對妳的恨                               腳步是越來越重",
+      "spelling": "siūnn beh pàng buē kì tuì lí ê hūn    kha-pōo sī lú lâi lú tāng",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "想要放袂記對妳的恨",
+          "spelling": "siūnn beh pàng buē kì tuì lí ê hūn"
+        },
+        {
+          "text": "腳步是越來越重",
+          "spelling": "kha-pōo sī lú lâi lú tāng"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "眼淚是越來越長                          我想起往事和妳的臉",
+      "spelling": "ba̍k-sái sī lú lâi lú tn̂g            guá siūnn khí óng-sū kah lí ê bīn",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "眼淚是越來越長",
+          "spelling": "ba̍k-sái sī lú lâi lú tn̂g"
+        },
+        {
+          "text": "我想起往事和妳的臉",
+          "spelling": "guá siūnn khí óng-sū kah lí ê bīn"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "眼眶是越來越紅                         眼睛是越來越酸",
+      "spelling": "ba̍k-khoo sī lú lâi lú âng        ba̍k-tsiu sī lú lâi lú sng",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "眼眶是越來越紅",
+          "spelling": "ba̍k-khoo sī lú lâi lú âng"
+        },
+        {
+          "text": "眼睛是越來越酸",
+          "spelling": "ba̍k-tsiu sī lú lâi lú sng"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "放妳自由去吧                         是我不夠瞭解",
+      "spelling": "pàng lí tsū-iû khì pa            sī guá bô-kàu liáu-kái",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "放妳自由去吧",
+          "spelling": "pàng lí tsū-iû khì pa"
+        },
+        {
+          "text": "是我不夠瞭解",
+          "spelling": "sī guá bô-kàu liáu-kái"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "放妳自由去吧                         是我不夠瞭解妳",
+      "spelling": "pàng lí tsū-iû khì pa            sī guá bô-kàu liáu-kái lí",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "放妳自由去吧",
+          "spelling": "pàng lí tsū-iû khì pa"
+        },
+        {
+          "text": "是我不夠瞭解妳",
+          "spelling": "sī guá bô-kàu liáu-kái lí"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "想妳點一支煙",
+      "spelling": "siūnn lí tiám tsi̍t-ki hun",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "每一次 每一次                           自己決定是最尾次",
+      "spelling": "muí tsi̍t-pái muí tsi̍t-pái        ka-kī kuat-tīng sī siōng bué pái",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "每一次 每一次",
+          "spelling": "muí tsi̍t-pái muí tsi̍t-pái"
+        },
+        {
+          "text": "自己決定是最尾次",
+          "spelling": "ka-kī kuat-tīng sī siōng bué pái"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "別轉頭思念妳",
+      "spelling": "mái ua̍t-thâu su-liām lí",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "擱一次 擱一次                           機會甘有擱一次",
+      "spelling": "kok tsi̍t-pái  kok tsi̍t-pái        ki-huē kam ū kok tsi̍t-pái",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "有時間原諒妳",
+      "spelling": "ū sî-kan guân-liōng lí",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "我還沒清醒                                    知道你為愛自由個性",
+      "spelling": "guá iáu-buē tshing-tshénn        tsai-iánn lí uî ài tsū-iû kò-sìng",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "我還沒清醒",
+          "spelling": "guá iáu-buē tshing-tshénn"
+        },
+        {
+          "text": "知道你為愛自由個性",
+          "spelling": "tsai-iánn lí uî ài tsū-iû kò-sìng"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "手放給你去",
+      "spelling": "tshiú pàng hōo lí khì",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "想要放袂記對妳的恨                               腳步是越來越重",
+      "spelling": "siūnn beh pàng buē kì tuì lí ê hūn    kha-pōo sī lú lâi lú tāng",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "想要放袂記對妳的恨",
+          "spelling": "siūnn beh pàng buē kì tuì lí ê hūn"
+        },
+        {
+          "text": "腳步是越來越重",
+          "spelling": "kha-pōo sī lú lâi lú tāng"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "眼淚是越來越長                          我想起往事和妳的臉",
+      "spelling": "ba̍k-sái sī lú lâi lú tn̂g            guá siūnn khí óng-sū kah lí ê bīn",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "眼淚是越來越長",
+          "spelling": "ba̍k-sái sī lú lâi lú tn̂g"
+        },
+        {
+          "text": "我想起往事和妳的臉",
+          "spelling": "guá siūnn khí óng-sū kah lí ê bīn"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "眼眶是越來越紅                         眼睛是越來越酸",
+      "spelling": "ba̍k-khoo sī lú lâi lú âng        ba̍k-tsiu sī lú lâi lú sng",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "眼眶是越來越紅",
+          "spelling": "ba̍k-khoo sī lú lâi lú âng"
+        },
+        {
+          "text": "眼睛是越來越酸",
+          "spelling": "ba̍k-tsiu sī lú lâi lú sng"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "放妳自由去吧                          是我不夠瞭解",
+      "spelling": "pàng lí tsū-iû khì pa            sī guá bô-kàu liáu-kái",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "放妳自由去吧",
+          "spelling": "pàng lí tsū-iû khì pa"
+        },
+        {
+          "text": "是我不夠瞭解",
+          "spelling": "sī guá bô-kàu liáu-kái"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "放妳自由去吧                         是我不夠瞭解妳",
+      "spelling": "pàng lí tsū-iû khì pa            sī guá bô-kàu liáu-kái lí",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "放妳自由去吧",
+          "spelling": "pàng lí tsū-iû khì pa"
+        },
+        {
+          "text": "是我不夠瞭解妳",
+          "spelling": "sī guá bô-kàu liáu-kái lí"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "想妳點一支煙",
+      "spelling": "siūnn lí tiám tsi̍t-ki hun",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "想妳點一支煙                        想妳點一支煙",
+      "spelling": "siūnn lí tiám tsi̍t-ki hun    siūnn lí tiám tsi̍t-ki hun",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "想妳點一支煙",
+          "spelling": "siūnn lí tiám tsi̍t-ki hun"
+        },
+        {
+          "text": "想妳點一支煙",
+          "spelling": "siūnn lí tiám tsi̍t-ki hun"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "想妳點一支煙                        想妳點一支煙",
+      "spelling": "siūnn lí tiám tsi̍t-ki hun    siūnn lí tiám tsi̍t-ki hun",
+      "source_lines": [
+        78,
+        79
+      ],
+      "parts": [
+        {
+          "text": "想妳點一支煙",
+          "spelling": "siūnn lí tiám tsi̍t-ki hun"
+        },
+        {
+          "text": "想妳點一支煙",
+          "spelling": "siūnn lí tiám tsi̍t-ki hun"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：隨性樂團 (Random)   作曲：隨性樂團 (Random)   台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

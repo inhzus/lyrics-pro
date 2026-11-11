@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 532940031,
+      "title": "恋恋大员",
+      "artists": [
+        "群星"
+      ],
+      "album": "海风的牵引",
+      "duration": 308.533,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1393950634",
+      "title": "恋恋大员",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "台南",
+      "duration": 267.12,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1393950634",
+      "title": "恋恋大员",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "台南",
+      "duration": 267.12,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

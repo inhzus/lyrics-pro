@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 412951429,
+    "title": "关电火了后",
+    "artists": [
+      "张三李四"
+    ],
+    "album": "张三李四",
+    "duration": 255.465,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:412951429",
+      "duration": 255.465,
+      "ready": false,
+      "coverage": 0.9,
+      "exact_fraction": 0.9,
+      "summary": {
+        "repeat": 8,
+        "exact": 10,
+        "unresolved": 2,
+        "gap": 1
+      }
+    }
+  ]
+}

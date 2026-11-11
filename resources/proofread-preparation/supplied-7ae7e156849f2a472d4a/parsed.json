@@ -1,0 +1,376 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "一个人開著車                           駛向東海岸",
+      "spelling": "tsi̍t ê lâng khui tio̍h tshia    sái hiòng tang hái-huānn",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "一个人開著車",
+          "spelling": "tsi̍t ê lâng khui tio̍h tshia"
+        },
+        {
+          "text": "駛向東海岸",
+          "spelling": "sái hiòng tang hái-huānn"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "日頭猶未落山                          風景猶佇遐",
+      "spelling": "ji̍t-thâu iáu bē lo̍h-suann    hong-kíng iáu tī hia",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "日頭猶未落山",
+          "spelling": "ji̍t-thâu iáu bē lo̍h-suann"
+        },
+        {
+          "text": "風景猶佇遐",
+          "spelling": "hong-kíng iáu tī hia"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "心情放予輕鬆                                    也有路愛行",
+      "spelling": "sim-tsîng pàng hōo khin-sang     iā ū lōo ài kiânn",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "心情放予輕鬆",
+          "spelling": "sim-tsîng pàng hōo khin-sang"
+        },
+        {
+          "text": "也有路愛行",
+          "spelling": "iā ū lōo ài kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "一个人吹著風                            整理我的心情",
+      "spelling": "tsi̍t ê lâng tshue tio̍h hong    tsíng lí guá ê sim-tsîng",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "一个人吹著風",
+          "spelling": "tsi̍t ê lâng tshue tio̍h hong"
+        },
+        {
+          "text": "整理我的心情",
+          "spelling": "tsíng lí guá ê sim-tsîng"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "雖然滿身是傷                         希望猶佇遐",
+      "spelling": "sui-liân muá-sin sī siong    hi-bāng iáu tī hia",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "雖然滿身是傷",
+          "spelling": "sui-liân muá-sin sī siong"
+        },
+        {
+          "text": "希望猶佇遐",
+          "spelling": "hi-bāng iáu tī hia"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "毋管路偌崎嶇                      我會繼續行",
+      "spelling": "m̄ kuán lōo luā khí-kiā    guá ē kè-sio̍k kiânn",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "毋管路偌崎嶇",
+          "spelling": "m̄ kuán lōo luā khí-kiā"
+        },
+        {
+          "text": "我會繼續行",
+          "spelling": "guá ē kè-sio̍k kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "煞煞去 這个假仙的世界",
+      "spelling": "suah suah khì tsi̍t ê ké sian ê sè-kài",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "總有一工怹會了解",
+      "spelling": "tsóng ū tsi̍t kang i ē liáu-kái",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "是啥人較厲害",
+      "spelling": "sī siánn lâng khah lī-hāi",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "我有我家己的路欲行",
+      "spelling": "guá ū guá ka-kī ê lōo beh kiânn",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "寂寞抑是孤單攏來我毋驚",
+      "spelling": "siok-bo̍k ia̍h sī koo-tuann lóng lâi guá m̄-kiann",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "我的意志堅強親像山",
+      "spelling": "guá ê ì-tsì kian-kiông tshin-tshiūnn suann",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "我會證明予恁看",
+      "spelling": "guá ē tsìng-bîng hōo lín khuànn",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "一个人開著車                          駛向東海岸",
+      "spelling": "tsi̍t ê lâng khui tio̍h tshia    sái hiòng tang hái-huānn",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "一个人開著車",
+          "spelling": "tsi̍t ê lâng khui tio̍h tshia"
+        },
+        {
+          "text": "駛向東海岸",
+          "spelling": "sái hiòng tang hái-huānn"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "日頭猶未落山                          風景猶佇遐",
+      "spelling": "ji̍t-thâu iáu bē lo̍h-suann    hong-kíng iáu tī hia",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "日頭猶未落山",
+          "spelling": "ji̍t-thâu iáu bē lo̍h-suann"
+        },
+        {
+          "text": "風景猶佇遐",
+          "spelling": "hong-kíng iáu tī hia"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "毋管路偌崎嶇                      我會繼續行",
+      "spelling": "m̄ kuán lōo luā khí-kiā    guá ē kè-sio̍k kiânn",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "毋管路偌崎嶇",
+          "spelling": "m̄ kuán lōo luā khí-kiā"
+        },
+        {
+          "text": "我會繼續行",
+          "spelling": "guá ē kè-sio̍k kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "我有我家己的路欲行",
+      "spelling": "guá ū guá ka-kī ê lōo beh kiânn",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "寂寞抑是孤單攏來我毋驚",
+      "spelling": "siok-bo̍k ia̍h sī koo-tuann lóng lâi guá m̄-kiann",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "我的意志堅強親像山",
+      "spelling": "guá ê ì-tsì kian-kiông tshin-tshiūnn suann",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "我會證明予恁看",
+      "spelling": "guá ē tsìng-bîng hōo lín khuànn",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "心情鬱卒的這个下晡                    一个人出去行行",
+      "spelling": "sim-tsîng ut-tsut ê tsi̍t ê ē-poo tsi̍t ê lâng tshut-khì kiânn kiânn",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "人生啊有起有落                      毋通放棄繼續拍拚",
+      "spelling": "lîn-sing ah ū khí ū lo̍h        m̄-thang hòng-khì kè-sio̍k phah-piànn",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "人生啊有起有落",
+          "spelling": "lîn-sing ah ū khí ū lo̍h"
+        },
+        {
+          "text": "毋通放棄繼續拍拚",
+          "spelling": "m̄-thang hòng-khì kè-sio̍k phah-piànn"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "所有困難我攏毋驚                           所有孤單我嘛毋驚",
+      "spelling": "sóo-iú khùn-lân guá m̄-kiann    sóo-iú koo-tuann guá mah m̄-kiann",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "所有困難我攏毋驚",
+          "spelling": "sóo-iú khùn-lân guá m̄-kiann"
+        },
+        {
+          "text": "所有孤單我嘛毋驚",
+          "spelling": "sóo-iú koo-tuann guá mah m̄-kiann"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "為著我的夢                      我會繼續行",
+      "spelling": "uī-tio̍h guá ê bāng        guá ē kè-sio̍k kiânn",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "為著我的夢",
+          "spelling": "uī-tio̍h guá ê bāng"
+        },
+        {
+          "text": "我會繼續行",
+          "spelling": "guá ē kè-sio̍k kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "為著我的夢                      我會繼續行",
+      "spelling": "uī-tio̍h guá ê bāng        guá ē kè-sio̍k kiânn",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "為著我的夢",
+          "spelling": "uī-tio̍h guá ê bāng"
+        },
+        {
+          "text": "我會繼續行",
+          "spelling": "guá ē kè-sio̍k kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "啦啦啦啦啦～～～",
+      "spelling": "lah lah lah lah lah～～～",
+      "source_lines": [
+        78,
+        79
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：楊大正　作曲：楊大正    台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

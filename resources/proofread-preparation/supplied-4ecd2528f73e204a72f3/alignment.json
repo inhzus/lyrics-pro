@@ -1,0 +1,873 @@
+{
+  "recording_id": "netease:28528282",
+  "timing_source": "NetEase https://music.163.com/song?id=28528282",
+  "manual_source": "User-supplied resources/lyrics-spelling/愛的新舞步-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 56,
+    "gap": 4
+  },
+  "review_row_count": 56,
+  "unmatched_manual_ids": [
+    "line-3:0",
+    "line-6:0",
+    "line-9:0",
+    "line-12:0",
+    "line-15:0",
+    "line-18:0",
+    "line-36:0",
+    "line-39:0",
+    "line-42:0",
+    "line-45:0",
+    "line-48:0",
+    "line-51:0"
+  ],
+  "unused_repeat_ids": [
+    "line-21:0",
+    "line-24:0",
+    "line-27:0",
+    "line-30:0",
+    "line-33:0",
+    "line-54:0",
+    "line-57:0",
+    "line-60:0",
+    "line-63:0",
+    "line-66:0",
+    "line-69:0",
+    "line-72:0",
+    "line-75:0",
+    "line-78:0",
+    "line-81:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 武雄",
+      "match_text": "作词 : 武雄",
+      "text": "作词 : 武雄",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 33.81,
+      "online_text": "时代的信号 发出的警告",
+      "match_text": "时代的信号 发出的警告",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-3:0"
+    },
+    {
+      "source_row": 3,
+      "time": 36.1,
+      "online_text": "郁卒的人找无出路",
+      "match_text": "郁卒的人找无出路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-3:0"
+    },
+    {
+      "source_row": 4,
+      "time": 38.35,
+      "online_text": "不通来耽误 不通搁失误",
+      "match_text": "不通来耽误 不通搁失误",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-6:0"
+    },
+    {
+      "source_row": 5,
+      "time": 40.87,
+      "online_text": "提出上迷人的风度",
+      "match_text": "提出上迷人的风度",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-6:0"
+    },
+    {
+      "source_row": 6,
+      "time": 43.08,
+      "online_text": "无论有风雨 无论是感冒",
+      "match_text": "无论有风雨 无论是感冒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-9:0"
+    },
+    {
+      "source_row": 7,
+      "time": 45.67,
+      "online_text": "麦遇有啥麽无法度",
+      "match_text": "麦遇有啥麽无法度",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-9:0"
+    },
+    {
+      "source_row": 8,
+      "time": 47.96,
+      "online_text": "大家爱觉悟 快乐无撇步",
+      "match_text": "大家爱觉悟 快乐无撇步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-12:0"
+    },
+    {
+      "source_row": 9,
+      "time": 50.51,
+      "online_text": "卡紧来踏出轻松的脚步",
+      "match_text": "卡紧来踏出轻松的脚步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-12:0"
+    },
+    {
+      "source_row": 10,
+      "time": 53.42,
+      "online_text": "先找一条闹热的路",
+      "match_text": "先找一条闹热的路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-15:0"
+    },
+    {
+      "source_row": 11,
+      "time": 55.71,
+      "online_text": "放慢紧张的速度",
+      "match_text": "放慢紧张的速度",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-15:0"
+    },
+    {
+      "source_row": 12,
+      "time": 58.14,
+      "online_text": "面带笑容注意歌声的广播",
+      "match_text": "面带笑容注意歌声的广播",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-18:0"
+    },
+    {
+      "source_row": 13,
+      "time": 62.81,
+      "online_text": "音乐响起咱就做阵摇",
+      "match_text": "音乐响起咱就做阵摇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-18:0"
+    },
+    {
+      "source_row": 14,
+      "time": 67.23,
+      "online_text": "展出你爱的舞步 新的舞步",
+      "match_text": "展出你爱的舞步 新的舞步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 69.94,
+      "online_text": "一步搁一步",
+      "match_text": "一步搁一步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 72.0,
+      "online_text": "咱占领这个下晡 这条大路",
+      "match_text": "咱占领这个下晡 这条大路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 74.79,
+      "online_text": "做夥来七逃",
+      "match_text": "做夥来七逃",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 76.8,
+      "online_text": "不管是瘦亦大箍 嘴角全波",
+      "match_text": "不管是瘦亦大箍 嘴角全波",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 79.62,
+      "online_text": "大声来宣布",
+      "match_text": "大声来宣布",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 81.66,
+      "online_text": "这就是咱的地盘 咱的地图",
+      "match_text": "这就是咱的地盘 咱的地图",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 84.33,
+      "online_text": "听到信号 就来报到 不通迟到",
+      "match_text": "听到信号 就来报到 不通迟到",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 88.24,
+      "online_text": "大家拢来学 爱的舞步",
+      "match_text": "大家拢来学 爱的舞步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 92.17,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 24,
+      "time": 105.47,
+      "online_text": "你甘有准备 你甘有听见",
+      "match_text": "你甘有准备 你甘有听见",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-36:0"
+    },
+    {
+      "source_row": 25,
+      "time": 108.09,
+      "online_text": "快乐是一种奇蒙子",
+      "match_text": "快乐是一种奇蒙子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-36:0"
+    },
+    {
+      "source_row": 26,
+      "time": 110.48,
+      "online_text": "你不通放弃 你不通袂记",
+      "match_text": "你不通放弃 你不通袂记",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-39:0"
+    },
+    {
+      "source_row": 27,
+      "time": 112.87,
+      "online_text": "音乐是大家的知己",
+      "match_text": "音乐是大家的知己",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-39:0"
+    },
+    {
+      "source_row": 28,
+      "time": 115.14,
+      "online_text": "无论是都市 无论是海边",
+      "match_text": "无论是都市 无论是海边",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-42:0"
+    },
+    {
+      "source_row": 29,
+      "time": 117.7,
+      "online_text": "无论是台北101",
+      "match_text": "无论是台北101",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-42:0"
+    },
+    {
+      "source_row": 30,
+      "time": 119.92,
+      "online_text": "乎大家看见 你我的身边",
+      "match_text": "乎大家看见 你我的身边",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-45:0"
+    },
+    {
+      "source_row": 31,
+      "time": 122.43,
+      "online_text": "发生了一件迷人的代志",
+      "match_text": "发生了一件迷人的代志",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-45:0"
+    },
+    {
+      "source_row": 32,
+      "time": 125.3,
+      "online_text": "惦在这条人生的路",
+      "match_text": "惦在这条人生的路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-48:0"
+    },
+    {
+      "source_row": 33,
+      "time": 127.79,
+      "online_text": "应该互相来照顾",
+      "match_text": "应该互相来照顾",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-48:0"
+    },
+    {
+      "source_row": 34,
+      "time": 130.25,
+      "online_text": "不通只有打拼家己的前途",
+      "match_text": "不通只有打拼家己的前途",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-51:0"
+    },
+    {
+      "source_row": 35,
+      "time": 134.88,
+      "online_text": "三不五时爱来做阵摇",
+      "match_text": "三不五时爱来做阵摇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-51:0"
+    },
+    {
+      "source_row": 36,
+      "time": 139.29,
+      "online_text": "展出你爱的舞步 新的舞步",
+      "match_text": "展出你爱的舞步 新的舞步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 141.89,
+      "online_text": "一步搁一步",
+      "match_text": "一步搁一步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 144.01,
+      "online_text": "咱占领这个下晡 这条大路",
+      "match_text": "咱占领这个下晡 这条大路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 146.79,
+      "online_text": "做夥来七逃",
+      "match_text": "做夥来七逃",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 148.89,
+      "online_text": "不管是瘦亦大箍 嘴角全波",
+      "match_text": "不管是瘦亦大箍 嘴角全波",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 151.58,
+      "online_text": "大声来宣布",
+      "match_text": "大声来宣布",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 153.57,
+      "online_text": "这就是咱的地盘 咱的地图",
+      "match_text": "这就是咱的地盘 咱的地图",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 156.45,
+      "online_text": "听到信号 就来报到 不通迟到",
+      "match_text": "听到信号 就来报到 不通迟到",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 160.07,
+      "online_text": "大家拢来学 爱的舞步",
+      "match_text": "大家拢来学 爱的舞步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 164.2,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 46,
+      "time": 179.85,
+      "online_text": "展出你爱的舞步 新的舞步",
+      "match_text": "展出你爱的舞步 新的舞步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 182.77,
+      "online_text": "一步搁一步",
+      "match_text": "一步搁一步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 48,
+      "time": 184.74,
+      "online_text": "咱占领这个下晡 这条大路",
+      "match_text": "咱占领这个下晡 这条大路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 49,
+      "time": 187.57,
+      "online_text": "做夥来七逃",
+      "match_text": "做夥来七逃",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 50,
+      "time": 189.74,
+      "online_text": "不管是瘦亦大箍 嘴角全波",
+      "match_text": "不管是瘦亦大箍 嘴角全波",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 51,
+      "time": 192.38,
+      "online_text": "大声来宣布",
+      "match_text": "大声来宣布",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 52,
+      "time": 194.37,
+      "online_text": "这就是咱的地盘 咱的地图",
+      "match_text": "这就是咱的地盘 咱的地图",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 53,
+      "time": 197.27,
+      "online_text": "听到信号 就来报到 不通迟到",
+      "match_text": "听到信号 就来报到 不通迟到",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 54,
+      "time": 200.94,
+      "online_text": "大家拢来学 爱的舞步",
+      "match_text": "大家拢来学 爱的舞步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 55,
+      "time": 205.11,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 56,
+      "time": 207.83,
+      "online_text": "新的舞步",
+      "match_text": "新的舞步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 57,
+      "time": 212.19,
+      "online_text": "爱的舞步",
+      "match_text": "爱的舞步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 58,
+      "time": 217.31,
+      "online_text": "新的舞步",
+      "match_text": "新的舞步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 59,
+      "time": 221.94,
+      "online_text": "爱的舞步",
+      "match_text": "爱的舞步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 60,
+      "time": 223.89,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 61,
+      "time": 224.89,
+      "online_text": "人声 : Hsiao Huang Chi",
+      "match_text": "人声 : Hsiao Huang Chi",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "d1709f336b64a00254704f7f6c7b708cee90c32823945a9087491b09436f884e",
+    "manual": "8d60fd9153fe9805c44d6ec82ba26833f283f8d3c8fecf09d7f9093b2546d107",
+    "timed": "7fc11c24a5e83d7ffa2e4c314056e532a41f08b165b6c9ff81004b23239aa1e6"
+  }
+}

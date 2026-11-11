@@ -1,0 +1,445 @@
+{
+  "candidates": [
+    {
+      "song_id": 2704742682,
+      "title": "等待",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "爱情广播电台",
+      "duration": 332.669,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 30482518,
+      "title": "等待",
+      "artists": [
+        "韩磊"
+      ],
+      "album": "时代",
+      "duration": 219.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 25702225,
+      "title": "等待",
+      "artists": [
+        "黄绮珊"
+      ],
+      "album": "我是歌手第一季 第1期",
+      "duration": 334.84,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 417250587,
+      "title": "等待",
+      "artists": [
+        "黄龄"
+      ],
+      "album": "等待",
+      "duration": 240.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 280158,
+      "title": "等待",
+      "artists": [
+        "那英"
+      ],
+      "album": "干脆",
+      "duration": 296.333,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1883769792,
+      "title": "等待",
+      "artists": [
+        "韩磊"
+      ],
+      "album": "珍藏韩磊·壹",
+      "duration": 216.999,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29122376,
+      "title": "等待",
+      "artists": [
+        "光光"
+      ],
+      "album": "热门华语238",
+      "duration": 237.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 350834,
+      "title": "等待",
+      "artists": [
+        "达达乐队"
+      ],
+      "album": "黄金时代",
+      "duration": 228.306,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 209490,
+      "title": "等待",
+      "artists": [
+        "陈绮贞"
+      ],
+      "album": "还是会寂寞",
+      "duration": 208.909,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 93725,
+      "title": "等待",
+      "artists": [
+        "韩磊"
+      ],
+      "album": "珍藏韩磊·壹",
+      "duration": 216.999,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 244681,
+      "title": "等待",
+      "artists": [
+        "黄绮珊"
+      ],
+      "album": "只有你",
+      "duration": 341.939,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 93673,
+      "title": "等待",
+      "artists": [
+        "韩磊"
+      ],
+      "album": "向天再借五百年",
+      "duration": 216.999,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1812427345,
+      "title": "等待",
+      "artists": [
+        "金池"
+      ],
+      "album": "等待",
+      "duration": 185.714,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1448366220,
+      "title": "等待",
+      "artists": [
+        "三佰东主"
+      ],
+      "album": "等待",
+      "duration": 260.282,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1471013547,
+      "title": "等待",
+      "artists": [
+        "金美辰"
+      ],
+      "album": "青青子衿 电视剧原声大碟",
+      "duration": 197.592,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1554422359",
+      "title": "等待",
+      "artists": [
+        "破碎乐队"
+      ],
+      "album": "翅膀",
+      "duration": 291.44,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "369655117",
+      "title": "等待",
+      "artists": [
+        "达达乐队"
+      ],
+      "album": "黄金时代",
+      "duration": 228.222,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1704246659",
+      "title": "等待",
+      "artists": [
+        "胎教轻音乐盒"
+      ],
+      "album": "妈咪胎教音乐 舒缓钢琴曲",
+      "duration": 160.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1809857440",
+      "title": "等待",
+      "artists": [
+        "胎教轻音乐盒"
+      ],
+      "album": "妈咪胎教音乐 舒缓钢琴曲",
+      "duration": 160.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1754924431",
+      "title": "等待",
+      "artists": [
+        "微笑旋律咖啡音乐"
+      ],
+      "album": "蓝调吉他 咖啡夜",
+      "duration": 128.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29604818,
+      "title": "等待",
+      "artists": [
+        "韩磊"
+      ],
+      "album": "我是歌手精选",
+      "duration": 223.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 32103718,
+      "title": "等待",
+      "artists": [
+        "陈瑞"
+      ],
+      "album": "未分类专辑",
+      "duration": 264.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31673948,
+      "title": "等待",
+      "artists": [
+        "Han Lei"
+      ],
+      "album": "时代 - Single",
+      "duration": 219.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 19463630,
+      "title": "等待",
+      "artists": [
+        "韩磊"
+      ],
+      "album": "试音天碟",
+      "duration": 215.253333,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17919648,
+      "title": "等待",
+      "artists": [
+        "许富凯"
+      ],
+      "album": "我毋是你想的遐尔快乐",
+      "duration": 255.213333,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17867673,
+      "title": "等待",
+      "artists": [
+        "韩磊"
+      ],
+      "album": "帝王之声",
+      "duration": 219.000385,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17800710,
+      "title": "等待",
+      "artists": [
+        "女孩與機器人"
+      ],
+      "album": "平行宇宙",
+      "duration": 215.72,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18451141,
+      "title": "等待",
+      "artists": [
+        "韩磊"
+      ],
+      "album": "向天再借五百年",
+      "duration": 217.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16386595,
+      "title": "等待",
+      "artists": [
+        "野外合作社"
+      ],
+      "album": "台风",
+      "duration": 211.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16429390,
+      "title": "等待",
+      "artists": [
+        "凤飞飞"
+      ],
+      "album": "出外的人",
+      "duration": 183.12,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16708953,
+      "title": "等待",
+      "artists": [
+        "老狼"
+      ],
+      "album": "北京的冬天",
+      "duration": 259.320454,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17016563,
+      "title": "等待",
+      "artists": [
+        "韩磊"
+      ],
+      "album": "韩磊珍藏韩磊1",
+      "duration": 219.062857,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 14617477,
+      "title": "等待",
+      "artists": [
+        "达达乐队"
+      ],
+      "album": "黄金时代",
+      "duration": 228.306667,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 14610995,
+      "title": "等待",
+      "artists": [
+        "陈珊妮"
+      ],
+      "album": "完美的呻吟",
+      "duration": 289.0187776,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 14813840,
+      "title": "等待",
+      "artists": [
+        "韩磊"
+      ],
+      "album": "珍藏韩磊",
+      "duration": 220.2138368,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 15240686,
+      "title": "等待",
+      "artists": [
+        "凤飞飞"
+      ],
+      "album": "暖流",
+      "duration": 181.6816384,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 13697232,
+      "title": "等待",
+      "artists": [
+        "許富凱"
+      ],
+      "album": "我毋是你想的遐爾快樂",
+      "duration": 255.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 13981204,
+      "title": "等待",
+      "artists": [
+        "陳綺貞"
+      ],
+      "album": "還是會寂寞",
+      "duration": 209.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 13981205,
+      "title": "等待",
+      "artists": [
+        "Chen, Cheer"
+      ],
+      "album": "還是會寂寞",
+      "duration": 209.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 14158851,
+      "title": "等待",
+      "artists": [
+        "费翔"
+      ],
+      "album": "费常翔念",
+      "duration": 199.213333,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

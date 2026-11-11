@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "id": "supplied-a7a75ded38c39f487cfa",
+  "revision": "1",
+  "title": "來去夏威夷",
+  "title_aliases": [],
+  "artist": "金门王与李炳辉",
+  "album": "来去夏威夷",
+  "duration": 204.033,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. ",
+  "alignment": {
+    "recording_id": "netease:361000",
+    "timing_source": "NetEase https://music.163.com/song?id=361000",
+    "manual_source": "resources/lyrics-spelling/來去夏威夷-伍佰",
+    "audio_verified": false,
+    "agent_review": "Use verified original 金門王與李炳輝 catalog recording 361000 (204.033 seconds), not the two incompatible Wu Bai live recordings. Preserve all supplied English and Hokkien pairs and the provider repeat flow.",
+    "input_sha256": {
+      "original": "b315b1990e6c54403672640ceb84a61ef11fb27d5e565a11092a99ef4c7ae06f",
+      "manual": "9acb07cd68b42ea9f53f3371e5eba1ff5da00d071ad85fd2a69b3e178506792c",
+      "timed": "217b2c5a2c5dac1a8e94a6af4414cfb07ba66cf6ad96c5f2e04f776e9be0dcc8"
+    },
+    "source_spelling_notes": [
+      "The file is labelled 伍佰, but the complete 204.033-second timing is the original 金門王與李炳輝 recording. It does not match the 201.192-second or 91.4-second Wu Bai live recordings."
+    ],
+    "summary": {
+      "credit": 3,
+      "exact": 11,
+      "approximate": 8
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作词 : 陈明瑜(金之助)",
+        "status": "credit",
+        "text": "作词 : 陈明瑜(金之助)",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 1.0,
+        "online_text": "作曲 : 伍佰",
+        "status": "credit",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 2.0,
+        "online_text": "编曲 : 吴嘉祥",
+        "status": "credit",
+        "text": "编曲 : 吴嘉祥",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 13.19,
+        "online_text": "来去 来去 来去 来去 咱来去Goto夏威夷",
+        "status": "exact",
+        "text": "來去 來去 來去 來去 咱來去 GO TO 夏威夷",
+        "spelling": "lâi-khì lâi-khì lâi-khì lâi-khì lán lâi-khì GO TO HAWAII (hā wāi i)",
+        "manual_id": "line-1:0+line-1:1+line-1:2+line-1:3+line-4:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 21.3,
+        "online_text": "来去 来去 来去 来去 咱欲对台湾飞出去",
+        "status": "approximate",
+        "text": "來去 來去 來去 來去 咱欲位台灣飛出去",
+        "spelling": "lâi-khì lâi-khì lâi-khì lâi-khì lán beh uī tâi-uân pue tshut-khì",
+        "manual_id": "line-7:0+line-7:1+line-7:2+line-7:3+line-10:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 30.2,
+        "online_text": "海水咸咸 日头炎炎 今仔日咱欲来去剃头店",
+        "status": "exact",
+        "text": "海水鹹鹹 日頭炎炎 今仔日咱欲來去剃頭店",
+        "spelling": "hái-tsuí kiâm kiâm ji̍t-thâu iām iām kin-á-lit lán beh lâi-khì thì-thâu tiàm",
+        "manual_id": "line-13:0+line-13:1+line-16:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 38.497,
+        "online_text": "为什么缘故 因为咱欲Goto夏威夷",
+        "status": "approximate",
+        "text": "為什麼緣故 因為咱欲 GO TO 夏威夷",
+        "spelling": "uī-siánn-mi̍h iân-kòo in-uī lán beh GO TO HAWAII (hā wāi i)",
+        "manual_id": "line-19:0+line-19:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 46.789,
+        "online_text": "来去 来去 来去 来去 咱欲对台湾飞出去",
+        "status": "approximate",
+        "text": "來去 來去 來去 來去 咱欲位台灣飛出去",
+        "spelling": "lâi-khì lâi-khì lâi-khì lâi-khì lán beh uī tâi-uân pue tshut-khì",
+        "manual_id": "line-22:0+line-22:1+line-22:2+line-22:3+line-25:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 56.788,
+        "online_text": "天地阔阔 人生打拼 世间的歹路咱黑白行",
+        "status": "exact",
+        "text": "天地闊闊 人生打拼 世間的歹路咱黑白行",
+        "spelling": "thinn-tē khuah khuah lîn-sing phah-piànn sè-kan ê pháinn-lōo lán oo pe̍h kiânn",
+        "manual_id": "line-28:0+line-28:1+line-28:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 63.687,
+        "online_text": "Would you please.Hellow.甭客气.",
+        "status": "approximate",
+        "text": "WOULD YOU PLEASE HELLO 甭客氣",
+        "spelling": "WOULD YOU PLEASE HELLO māi kheh-khì",
+        "manual_id": "line-31:0+line-31:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 68.598,
+        "online_text": "Thank you very much.",
+        "status": "exact",
+        "text": "THANK YOU VERY MUCH",
+        "spelling": "THANK YOU VERY MUCH",
+        "manual_id": "line-34:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 72.279,
+        "online_text": "来去 来去 来去 来去 今仔日这只鸟仔欲放出笼",
+        "status": "approximate",
+        "text": "來去 來去 來去 來去 今仔日這隻鳥仔欲放出籠",
+        "spelling": "lâi-khì lâi-khì lâi-khì lâi-khì kin-á-lit tsit tsiah tsiáu-á beh pàng tshut-lam",
+        "manual_id": "line-37:0+line-37:1+line-37:2+line-37:3+line-40:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 81.327,
+        "online_text": "FLY FLY FLY FLY FLY FLY FLY FLY",
+        "status": "exact",
+        "text": "FLY FLY FLY FLY FLY FLY FLY FLY",
+        "spelling": "FLY FLY FLY FLY FLY FLY FLY FLY",
+        "manual_id": "line-43:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 117.878,
+        "online_text": "来去 来去 来去 来去 咱来去Goto夏威夷",
+        "status": "exact",
+        "text": "來去 來去 來去 來去 咱來去 GO TO 夏威夷",
+        "spelling": "lâi-khì lâi-khì lâi-khì lâi-khì lán lâi-khì GO TO HAWAII (hā wāi i)",
+        "manual_id": "line-46:0+line-46:1+line-46:2+line-46:3+line-49:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 124.527,
+        "online_text": "来去 来去 来去 来去 咱欲对台湾飞出去",
+        "status": "approximate",
+        "text": "來去 來去 來去 來去 咱欲位台灣飛出去",
+        "spelling": "lâi-khì lâi-khì lâi-khì lâi-khì lán beh uī tâi-uân pue tshut-khì",
+        "manual_id": "line-52:0+line-52:1+line-52:2+line-52:3+line-55:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 133.1,
+        "online_text": "天公疼咱 憨憨仔生活 虽然苦楚是归大摊",
+        "status": "exact",
+        "text": "天公疼咱 憨憨仔生活 雖然苦楚是歸大攤",
+        "spelling": "thinn-kong thiànn lán gōng gōng á sing-ua̍h sui-jiân khóo-tshóo sī kui tuā thuann",
+        "manual_id": "line-58:0+line-58:1+line-58:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 141.46,
+        "online_text": "命运安排 展开歌声 惜惜的咱心肝 惜惜的咱心肝",
+        "status": "exact",
+        "text": "命運安排 展開歌聲 惜惜的咱心肝 惜惜的咱心肝",
+        "spelling": "miā-ūn an-pâi tián-khui kua-siann sioh sioh ê lán sim-kuann sioh sioh ê lán sim-kuann",
+        "manual_id": "line-61:0+line-61:1+line-64:0+line-64:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 154.29,
+        "online_text": "惜惜的咱心肝",
+        "status": "exact",
+        "text": "惜惜的咱心肝",
+        "spelling": "sioh sioh ê lán sim-kuann",
+        "manual_id": "line-64:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 158.47,
+        "online_text": "来去 来去 来去 来去 咱来去Goto夏威夷",
+        "status": "exact",
+        "text": "來去 來去 來去 來去 咱來去 GO TO 夏威夷",
+        "spelling": "lâi-khì lâi-khì lâi-khì lâi-khì lán lâi-khì GO TO HAWAII (hā wāi i)",
+        "manual_id": "line-67:0+line-67:1+line-67:2+line-67:3+line-70:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 166.61,
+        "online_text": "来去 来去 来去 来去 咱欲对台湾飞出去",
+        "status": "approximate",
+        "text": "來去 來去 來去 來去 咱欲位台灣飛出去",
+        "spelling": "lâi-khì lâi-khì lâi-khì lâi-khì lán beh uī tâi-uân pue tshut-khì",
+        "manual_id": "line-73:0+line-73:1+line-73:2+line-73:3+line-76:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 175.54,
+        "online_text": "来去 来去 来去 来去 咱来去Goto夏威夷",
+        "status": "exact",
+        "text": "來去 來去 來去 來去 咱來去 GO TO 夏威夷",
+        "spelling": "lâi-khì lâi-khì lâi-khì lâi-khì lán lâi-khì GO TO HAWAII (hā wāi i)",
+        "manual_id": "line-67:0+line-67:1+line-67:2+line-67:3+line-70:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 183.59,
+        "online_text": "来去 来去 来去 来去 咱欲对台湾飞出去",
+        "status": "approximate",
+        "text": "來去 來去 來去 來去 咱欲位台灣飛出去",
+        "spelling": "lâi-khì lâi-khì lâi-khì lâi-khì lán beh uī tâi-uân pue tshut-khì",
+        "manual_id": "line-73:0+line-73:1+line-73:2+line-73:3+line-76:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

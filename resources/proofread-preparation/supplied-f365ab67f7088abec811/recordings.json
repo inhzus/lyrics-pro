@@ -1,0 +1,60 @@
+{
+  "candidates": [
+    {
+      "song_id": 2137409793,
+      "title": "探戈探戈",
+      "artists": [
+        "艺心"
+      ],
+      "album": "味尽缘 (原创影集原声带)",
+      "duration": 64.615,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2692157627,
+      "title": "探戈探戈",
+      "artists": [
+        "Koala"
+      ],
+      "album": "潮汐守望者",
+      "duration": 163.902,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2036861214,
+      "title": "探戈探戈",
+      "artists": [
+        "何佳琪"
+      ],
+      "album": "不再心醉",
+      "duration": 165.986,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2022379456,
+      "title": "探戈 探戈",
+      "artists": [
+        "新时代轻音乐团"
+      ],
+      "album": "大地之舞",
+      "duration": 354.8,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1445521667",
+      "title": "探戈探戈",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "当时欲嫁",
+      "duration": 165.133,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

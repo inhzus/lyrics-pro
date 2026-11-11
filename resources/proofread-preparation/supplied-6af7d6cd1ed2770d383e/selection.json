@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "song_id": "1445521619",
+    "title": "梦中央",
+    "artists": [
+      "江蕙"
+    ],
+    "album": "当时欲嫁",
+    "duration": 265.24,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1445521619",
+      "duration": 265.24,
+      "ready": true,
+      "coverage": 1.0,
+      "exact_fraction": 1.0,
+      "summary": {
+        "exact": 9,
+        "repeat": 17
+      }
+    }
+  ]
+}

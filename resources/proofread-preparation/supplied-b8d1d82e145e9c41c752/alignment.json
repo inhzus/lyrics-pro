@@ -1,0 +1,731 @@
+{
+  "recording_id": "netease:28528290",
+  "timing_source": "NetEase https://music.163.com/song?id=28528290",
+  "manual_source": "User-supplied resources/lyrics-spelling/銀角仔-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "approximate": 7,
+    "unresolved": 30,
+    "exact": 4,
+    "repeat": 8
+  },
+  "review_row_count": 41,
+  "unmatched_manual_ids": [
+    "line-4:0",
+    "line-115:0",
+    "line-121:0",
+    "line-133:0"
+  ],
+  "unused_repeat_ids": [
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0",
+    "line-61:0",
+    "line-64:0",
+    "line-73:0",
+    "line-76:0",
+    "line-79:0",
+    "line-82:0",
+    "line-85:0",
+    "line-88:0",
+    "line-94:0",
+    "line-97:0",
+    "line-100:0",
+    "line-106:0",
+    "line-109:0",
+    "line-112:0",
+    "line-124:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 谢志豪",
+      "match_text": "作词 : 谢志豪",
+      "text": "作词 : 谢志豪",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 27.57,
+      "online_text": "置这个社会讨赚",
+      "match_text": "置这个社会讨赚",
+      "text": "置這個社會討趁",
+      "spelling": "tì tsit-ê siā-huē thó-thàn",
+      "manual_id": "line-1:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.714286
+    },
+    {
+      "source_row": 3,
+      "time": 31.53,
+      "online_text": "欲生活愈来愈呒简单",
+      "match_text": "欲生活愈来愈呒简单",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 36.26,
+      "online_text": "裤袋仔只剩零散",
+      "match_text": "裤袋仔只剩零散",
+      "text": "褲袋仔只偆零散",
+      "spelling": "khòo-tē-a tsí chun sàm-sàm",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 5,
+      "time": 39.22,
+      "online_text": "欲怎样敢继续作梦",
+      "match_text": "欲怎样敢继续作梦",
+      "text": "欲怎樣敢繼續作夢",
+      "spelling": "bē tsuánn-iūnn kám kè-sio̍k tsuè-bāng",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 43.79,
+      "online_text": "好额的人来去几落万",
+      "match_text": "好额的人来去几落万",
+      "text": "好額的人來去幾落萬",
+      "spelling": "hó-gia̍h ê lâng lâi-khì kuí lo̍h-bān",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 47.81,
+      "online_text": "散赤的人路边捡银角",
+      "match_text": "散赤的人路边捡银角",
+      "text": "散赤的人路邊撿銀角",
+      "spelling": "tshiah ê lâng lōo-pinn khioh gîn-kak",
+      "manual_id": "line-16:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 8,
+      "time": 51.84,
+      "online_text": "这人生 哪可能同款",
+      "match_text": "这人生 哪可能同款",
+      "text": "這人生 哪可能 同款",
+      "spelling": "tse lîn-sing ná khó-lîng kāng-khuán",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 59.98,
+      "online_text": "自从出社会那天",
+      "match_text": "自从出社会那天",
+      "text": "自從出社會那天",
+      "spelling": "tsū-tsiông tshut siā-huē hit-kang",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 63.01,
+      "online_text": "伊的话早就放心肝藏",
+      "match_text": "伊的话早就放心肝藏",
+      "text": "伊的話早就放心肝藏",
+      "spelling": "i ê uē tsá tio̍h khǹg sim-kuann tshàng",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 67.89,
+      "online_text": "走傱已经几落年",
+      "match_text": "走傱已经几落年",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 70.86,
+      "online_text": "原谅我呒好好报答",
+      "match_text": "原谅我呒好好报答",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 75.48,
+      "online_text": "那暝的姨仔咧碎碎念",
+      "match_text": "那暝的姨仔咧碎碎念",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 79.3,
+      "online_text": "半暝的我听甲目眶红",
+      "match_text": "半暝的我听甲目眶红",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 82.78,
+      "online_text": "很感谢 你讲过的话我拢有底听",
+      "match_text": "很感谢 你讲过的话我拢有底听",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 91.78,
+      "online_text": "你若问我银角仔亲像啥",
+      "match_text": "你若问我银角仔亲像啥",
+      "text": "你若問我 銀角仔親像啥",
+      "spelling": "lí ná mn̄g guá gîn-kak-á tshin-tshiūnn siánn",
+      "manual_id": "line-46:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 98.44,
+      "online_text": "伊讲一块银那亲像一粒沙",
+      "match_text": "伊讲一块银那亲像一粒沙",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 102.36,
+      "online_text": "呒通让风吹散 那叠久就变成山",
+      "match_text": "呒通让风吹散 那叠久就变成山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 109.95,
+      "online_text": "你若问我银角用啥来换",
+      "match_text": "你若问我银角用啥来换",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 114.37,
+      "online_text": "伊讲一块银用一粒汗来换",
+      "match_text": "伊讲一块银用一粒汗来换",
+      "text": "伊講一塊銀用一粒汗來換",
+      "spelling": "i kóng tsi̍t khoo gîn iōng tsi̍t lia̍p kuānn lâi uānn",
+      "manual_id": "line-58:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 118.13,
+      "online_text": "理想咱怎打拼 人生路安怎走",
+      "match_text": "理想咱怎打拼 人生路安怎走",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 122.17,
+      "online_text": "拢底伊留给我这块",
+      "match_text": "拢底伊留给我这块",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 127.91,
+      "online_text": "一块银角仔",
+      "match_text": "一块银角仔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 144.97,
+      "online_text": "自从出社会那天",
+      "match_text": "自从出社会那天",
+      "text": "自從出社會那天",
+      "spelling": "tsū-tsiông tshut siā-huē hit-kang",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 147.89,
+      "online_text": "伊的话早就放心肝藏",
+      "match_text": "伊的话早就放心肝藏",
+      "text": "伊的話早就放心肝藏",
+      "spelling": "i ê uē tsá tio̍h khǹg sim-kuann tshàng",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 152.82,
+      "online_text": "走傱已经几落年",
+      "match_text": "走傱已经几落年",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 155.79,
+      "online_text": "原谅我呒好好报答",
+      "match_text": "原谅我呒好好报答",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 160.32,
+      "online_text": "那暝的姨仔咧碎碎念",
+      "match_text": "那暝的姨仔咧碎碎念",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 164.23,
+      "online_text": "半暝的我听甲目眶红",
+      "match_text": "半暝的我听甲目眶红",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 167.71,
+      "online_text": "很感谢 你讲过的话我拢有底听",
+      "match_text": "很感谢 你讲过的话我拢有底听",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 175.14,
+      "online_text": "你若问我银角仔亲像啥",
+      "match_text": "你若问我银角仔亲像啥",
+      "text": "你若問我 銀角仔親像啥",
+      "spelling": "lí ná mn̄g guá gîn-kak-á tshin-tshiūnn siánn",
+      "manual_id": "line-46:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 179.32,
+      "online_text": "伊讲一块银那亲像一粒山",
+      "match_text": "伊讲一块银那亲像一粒山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 183.26,
+      "online_text": "呒通让风吹散 那叠久就变成山",
+      "match_text": "呒通让风吹散 那叠久就变成山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 190.87,
+      "online_text": "你若问我银角用啥来换",
+      "match_text": "你若问我银角用啥来换",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 195.33,
+      "online_text": "伊讲一块银用一粒汗来换",
+      "match_text": "伊讲一块银用一粒汗来换",
+      "text": "伊講一塊銀用一粒汗來換",
+      "spelling": "i kóng tsi̍t khoo gîn iōng tsi̍t lia̍p kuānn lâi uānn",
+      "manual_id": "line-58:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 199.1,
+      "online_text": "理想咱怎打拼 人生路安怎走",
+      "match_text": "理想咱怎打拼 人生路安怎走",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 203.13,
+      "online_text": "拢底伊留给我这块",
+      "match_text": "拢底伊留给我这块",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 208.81,
+      "online_text": "银角仔",
+      "match_text": "银角仔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 224.65,
+      "online_text": "你若问我 我拢底呒闲啥",
+      "match_text": "你若问我 我拢底呒闲啥",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 228.76,
+      "online_text": "多久没呒置伊身边听伊的声",
+      "match_text": "多久没呒置伊身边听伊的声",
+      "text": "外久沒置伊身邊聽伊的聲",
+      "spelling": "guā-kú bô tì i sin-pinn thiann i ê siann",
+      "manual_id": "line-118:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.869565
+    },
+    {
+      "source_row": 41,
+      "time": 232.68,
+      "online_text": "紧转来看姨仔",
+      "match_text": "紧转来看姨仔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-121:0"
+    },
+    {
+      "source_row": 42,
+      "time": 235.09,
+      "online_text": "伊一直叫你的名",
+      "match_text": "伊一直叫你的名",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-121:0"
+    },
+    {
+      "source_row": 43,
+      "time": 240.22,
+      "online_text": "你若问我一块银代表啥",
+      "match_text": "你若问我一块银代表啥",
+      "text": "一塊銀代表啥",
+      "spelling": "tsi̍t kohh gîn tāi-piáu siánn",
+      "manual_id": "line-127:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 44,
+      "time": 244.45,
+      "online_text": "一直到伊离开时我才知影",
+      "match_text": "一直到伊离开时我才知影",
+      "text": "一直到伊離開時我才知影",
+      "spelling": "it-ti̍t kàu i lī-khui sî guá tsiah tsai-iánn",
+      "manual_id": "line-130:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 45,
+      "time": 248.53,
+      "online_text": "伊最后的私奇",
+      "match_text": "伊最后的私奇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-133:0"
+    },
+    {
+      "source_row": 46,
+      "time": 250.48,
+      "online_text": "一世人的陪伴",
+      "match_text": "一世人的陪伴",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-133:0"
+    },
+    {
+      "source_row": 47,
+      "time": 252.55,
+      "online_text": "就是我手中的这块",
+      "match_text": "就是我手中的这块",
+      "text": "就是我手中的這袋",
+      "spelling": "tio̍h-sī guá tshiú-tiong ê tsit tē",
+      "manual_id": "line-136:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 48,
+      "time": 260.17,
+      "online_text": "一块银角仔",
+      "match_text": "一块银角仔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 49,
+      "time": 268.36,
+      "online_text": "这块银角仔",
+      "match_text": "这块银角仔",
+      "text": "這袋 銀角仔",
+      "spelling": "tsit tē gîn-kak-á",
+      "manual_id": "line-139:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 50,
+      "time": 284.2,
+      "online_text": "人声 : Hsiao Huang Chi",
+      "match_text": "人声 : Hsiao Huang Chi",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "b6f4a8ef8983a8bf04597c030e18cb9042dcc8bda30d2bbb94c030a40c31c9ff",
+    "manual": "bfa1b161b01688b4c3863fd06a80a220463ac0d7b480bd5ed924f2eb4c364080",
+    "timed": "f8d2763c375f5816d60069b38df51e7c4dced4f13cb977c334b4fb32db052afd"
+  }
+}

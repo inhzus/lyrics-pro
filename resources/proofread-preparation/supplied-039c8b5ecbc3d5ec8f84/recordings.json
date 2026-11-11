@@ -1,0 +1,82 @@
+{
+  "candidates": [
+    {
+      "song_id": 5275587,
+      "title": "拼宵夜",
+      "artists": [
+        "木吉它合唱团"
+      ],
+      "album": "滚石金韵民歌百大精选",
+      "duration": 182.23,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 366053,
+      "title": "拼宵夜",
+      "artists": [
+        "木吉他"
+      ],
+      "album": "木吉他专辑",
+      "duration": 182.23,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1970516681,
+      "title": "拼宵夜",
+      "artists": [
+        "王梦麟"
+      ],
+      "album": "金韵民歌经典系列7 乡愁岁月",
+      "duration": 181.173,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 365906,
+      "title": "拼宵夜",
+      "artists": [
+        "木吉他"
+      ],
+      "album": "民谣先锋精选",
+      "duration": 168.878,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 473288257,
+      "title": "拼宵夜",
+      "artists": [
+        "木吉他"
+      ],
+      "album": "梦田",
+      "duration": 168.878,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1566505052",
+      "title": "拼宵夜",
+      "artists": [
+        "王梦麟"
+      ],
+      "album": "欢乐假期",
+      "duration": 187.316,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1776770179",
+      "title": "拼宵夜",
+      "artists": [
+        "王梦麟"
+      ],
+      "album": "重逢 王梦麟 民歌精选辑",
+      "duration": 180.467,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

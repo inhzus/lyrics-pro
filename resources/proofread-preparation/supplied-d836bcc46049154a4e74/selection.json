@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": "1230303050",
+    "title": "半眠",
+    "artists": [
+      "孩子王"
+    ],
+    "album": "最窘丸",
+    "duration": 313.7,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1230303050",
+      "duration": 313.7,
+      "ready": false,
+      "coverage": 0.3953488372093023,
+      "exact_fraction": 0.3488372093023256,
+      "summary": {
+        "unresolved": 26,
+        "repeat": 12,
+        "exact": 3,
+        "approximate": 2
+      }
+    }
+  ]
+}

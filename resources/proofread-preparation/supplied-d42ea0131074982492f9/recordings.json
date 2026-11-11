@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": 1869124108,
+      "title": "莎哟娜拉",
+      "artists": [
+        "旺福"
+      ],
+      "album": "莎哟娜拉",
+      "duration": 239.469,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1869124108,
+      "title": "莎哟娜拉",
+      "artists": [
+        "旺福"
+      ],
+      "album": "莎哟娜拉",
+      "duration": 239.469,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1869124108,
+      "title": "莎哟娜拉",
+      "artists": [
+        "旺福"
+      ],
+      "album": "莎哟娜拉",
+      "duration": 239.469,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1445521617",
+      "title": "莎哟娜拉",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "当时欲嫁",
+      "duration": 262.16,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

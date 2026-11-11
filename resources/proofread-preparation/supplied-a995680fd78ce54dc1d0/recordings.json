@@ -1,0 +1,139 @@
+{
+  "candidates": [
+    {
+      "song_id": 1434211725,
+      "title": "光明的路",
+      "artists": [
+        "林强"
+      ],
+      "album": "光明的路",
+      "duration": 251.32,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 118875,
+      "title": "光明的路",
+      "artists": [
+        "林强"
+      ],
+      "album": "2001向前走 十年经典",
+      "duration": 251.32,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2683766036,
+      "title": "光明的路",
+      "artists": [
+        "环绕飞行"
+      ],
+      "album": "小提琴独奏500首（一）",
+      "duration": 104.234,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2603068725,
+      "title": "光明的路",
+      "artists": [
+        "渡子先生"
+      ],
+      "album": "光明的路",
+      "duration": 276.818,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3414971887,
+      "title": "光明的路",
+      "artists": [
+        "乐蒽"
+      ],
+      "album": "光明的路",
+      "duration": 136.92,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3413637205,
+      "title": "光明的路",
+      "artists": [
+        "快歌音乐"
+      ],
+      "album": "光明的路",
+      "duration": 282.192,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2148369760,
+      "title": "光明的路",
+      "artists": [
+        "高浩哲 K-HOW",
+        "DATO' MAW",
+        "Gambler"
+      ],
+      "album": "永劫輪迴",
+      "duration": 175.541,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2658474296,
+      "title": "光明的路",
+      "artists": [
+        "sxdog"
+      ],
+      "album": "情绪垃圾桶",
+      "duration": 240.439,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2715780021,
+      "title": "光明的路",
+      "artists": [
+        "Zzz"
+      ],
+      "album": "GRG",
+      "duration": 75.885,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2668103242,
+      "title": "光明的路",
+      "artists": [
+        "阿伟"
+      ],
+      "album": "水手",
+      "duration": 181.799,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1503462659",
+      "title": "光明的路",
+      "artists": [
+        "林强"
+      ],
+      "album": "光明的路 - EP",
+      "duration": 251.32,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1750641117",
+      "title": "光明的路",
+      "artists": [
+        "林强"
+      ],
+      "album": "林强〈2001向前走〉十年精典",
+      "duration": 248.067,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

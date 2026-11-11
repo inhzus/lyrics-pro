@@ -1,0 +1,126 @@
+{
+  "candidates": [
+    {
+      "song_id": 31468719,
+      "title": "煞到妳",
+      "artists": [
+        "伍佰"
+      ],
+      "album": "生命的現場",
+      "duration": 157.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 19618246,
+      "title": "煞到妳",
+      "artists": [
+        "伍佰"
+      ],
+      "album": "爱你伍佰年",
+      "duration": 182.746667,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 21205330,
+      "title": "煞到妳",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "愛你伍佰年",
+      "duration": 182.746667,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 20256742,
+      "title": "煞到妳",
+      "artists": [
+        "Wu Bai"
+      ],
+      "album": "樹枝孤鳥",
+      "duration": 181.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 20738328,
+      "title": "煞到妳",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "愛你伍佰年 [Disc 2]",
+      "duration": 182.746667,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 21754974,
+      "title": "煞到妳",
+      "artists": [
+        "伍佰"
+      ],
+      "album": "冬之火-九重天演唱會特選",
+      "duration": 214.648125,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 21413514,
+      "title": "煞到妳",
+      "artists": [
+        "伍佰"
+      ],
+      "album": "树枝孤鸟",
+      "duration": 181.24,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 13292084,
+      "title": "煞到妳",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "冬之火- \"九重天\"演唱會特選錄音專輯",
+      "duration": 215.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 26884069,
+      "title": "煞到妳",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "树枝孤鸟",
+      "duration": 181.24,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 28830969,
+      "title": "煞到妳",
+      "artists": [
+        "伍佰"
+      ],
+      "album": "樹枝孤鳥",
+      "duration": 181.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 28119335,
+      "title": "煞到妳",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "樹枝孤鳥",
+      "duration": 181.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

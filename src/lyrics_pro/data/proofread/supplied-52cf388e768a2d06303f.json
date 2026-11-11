@@ -1,0 +1,395 @@
+{
+  "schema_version": 1,
+  "id": "supplied-52cf388e768a2d06303f",
+  "revision": "1",
+  "title": "煞到妳",
+  "title_aliases": [
+    "煞到你"
+  ],
+  "artist": "伍佰 & China Blue",
+  "album": "树枝孤鸟",
+  "duration": 181.24,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:157186",
+    "timing_source": "NetEase https://music.163.com/song?id=157186",
+    "manual_source": "resources/lyrics-spelling/煞到妳-伍佰",
+    "audio_verified": false,
+    "agent_review": "Use observed studio timeline netease:157186 after reviewing the title variant 煞到你; preserve supplied paired columns and all pronoun/script variants.",
+    "input_sha256": {
+      "original": "f31c52e549d45bd7d255411e1aa7aa8099e3ba4dc694486db033b19979d116a1",
+      "manual": "08d51f2d4a36a108a5e15868f3c111ec0497109d53955b4ba966d885833a96ea",
+      "timed": "2559e671a00a657050860a7864d1e0f237fd17c9654cb07e2eb4e545276145f1"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "credit": 3,
+      "exact": 17,
+      "approximate": 8,
+      "gap": 2
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "编曲 : 伍佰 & China Blue",
+        "status": "credit",
+        "text": "编曲 : 伍佰 & China Blue",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 1.0,
+        "online_text": "作词 : 伍佰",
+        "status": "credit",
+        "text": "作词 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 2.0,
+        "online_text": "作曲 : 伍佰",
+        "status": "credit",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 19.17,
+        "online_text": "袂后悔啦袂后悔啦　这次绝对袂后悔",
+        "status": "exact",
+        "text": "袂後悔啦袂後悔啦 這次絕對袂後悔",
+        "spelling": "bē hiō-hué là bē hiō-hué là tsit-pái tsua̍t-tuì bē hiō-hué",
+        "manual_id": "line-3:0+line-3:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 24.37,
+        "online_text": "婀娜的身躯风情美丽",
+        "status": "exact",
+        "text": "婀娜的身軀風情美麗",
+        "spelling": "bû nā ê sin-khu hong-tsîng bí-lē",
+        "manual_id": "line-6:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 28.57,
+        "online_text": "温柔的头毛随风在飞",
+        "status": "exact",
+        "text": "溫柔的頭毛隨風在飛",
+        "spelling": "un-jiû ê thâu-mn̂g suî-hong teh pue",
+        "manual_id": "line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 31.99,
+        "online_text": "哎哟喂啊哎哟喂啊　鼻甲我心花开",
+        "status": "exact",
+        "text": "哎喲喂啊哎喲喂啊 鼻甲我心花開",
+        "spelling": "ai-iō-uê ah ai-iō-uê ah phīnn kah guá sim-hue-khui",
+        "manual_id": "line-9:0+line-9:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 35.87,
+        "online_text": "归个心变甲荒荒废废",
+        "status": "approximate",
+        "text": "歸個心變甲荒荒廢廢",
+        "spelling": "kui-ê sim pìnn-kah hng hng huè huè",
+        "manual_id": "line-12:0",
+        "review": [
+          "Use observed studio timeline netease:157186 after reviewing the title variant 煞到你; preserve supplied paired columns and all pronoun/script variants."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 39.57,
+        "online_text": "一个人完全有魂无体",
+        "status": "exact",
+        "text": "一個人完全有魂無體",
+        "spelling": "tsi̍t ê uân-tsuân ū hûn bô thé",
+        "manual_id": "line-12:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 43.3,
+        "online_text": "没人格啦没人格啦　我是失去了控制",
+        "status": "exact",
+        "text": "沒人格啦沒人格啦 我是失去了控制",
+        "spelling": "bô lîn-ke là bô lîn-ke là guá sī sit-khì liáu khòng-tsè",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 50.51,
+        "online_text": "煞到你　煞到你",
+        "status": "exact",
+        "text": "煞到你 煞到你",
+        "spelling": "sannh tio̍h lí sannh tio̍h lí",
+        "manual_id": "line-18:0+line-18:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 53.24,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 54.52,
+        "online_text": "没问题啦没问题啦　这次绝对没问题",
+        "status": "exact",
+        "text": "沒問題啦沒問題啦 這次絕對沒問題",
+        "spelling": "bô būn-tê là bô būn-tê là tsit-pái tsua̍t-tuì bô būn-tê",
+        "manual_id": "line-21:0+line-21:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 58.06,
+        "online_text": "神祕的声音说话骄傲",
+        "status": "exact",
+        "text": "神祕的聲音說話驕傲",
+        "spelling": "sîn-pì ê siann-im kóng-uē sáng-sè",
+        "manual_id": "line-24:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 61.98,
+        "online_text": "迷人的笑容皮肉幼白",
+        "status": "exact",
+        "text": "迷人的笑容皮肉幼白",
+        "spelling": "bê-lâng ê tshiò-iông phuê-bah iù pe̍h",
+        "manual_id": "line-24:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 65.46,
+        "online_text": "哎哟喂啊哎哟喂啊　眼到我心花开",
+        "status": "exact",
+        "text": "哎喲喂啊哎喲喂啊 眼到我心花開",
+        "spelling": "ai-iō-uê ah ai-iō-uê ah ba̍k tio̍h guá sim-hue-khui",
+        "manual_id": "line-27:0+line-27:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 69.31,
+        "online_text": "我袂来对你空嘴薄舌",
+        "status": "approximate",
+        "text": "我袂來對妳空嘴薄舌",
+        "spelling": "guá bē lâi tuì lí khàng tshuì po̍h tsi̍h",
+        "manual_id": "line-30:0",
+        "review": [
+          "Use observed studio timeline netease:157186 after reviewing the title variant 煞到你; preserve supplied paired columns and all pronoun/script variants."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 73.14,
+        "online_text": "我现在所有陇总给你",
+        "status": "approximate",
+        "text": "我現在所有隴總給妳",
+        "spelling": "guá hiān tsāi sóo-ū lóng tsóng hōo lí",
+        "manual_id": "line-30:1",
+        "review": [
+          "Use observed studio timeline netease:157186 after reviewing the title variant 煞到你; preserve supplied paired columns and all pronoun/script variants."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 76.62,
+        "online_text": "没性地啦没性地啦　要安怎样陇没关系",
+        "status": "approximate",
+        "text": "沒性地啦沒性地啦 要安怎樣隴沒關係",
+        "spelling": "bô sìng-tē là bô sìng-tē là beh an-tsuánn iūnn lóng bô kuan-hē",
+        "manual_id": "line-33:0+line-33:1",
+        "review": [
+          "Use observed studio timeline netease:157186 after reviewing the title variant 煞到你; preserve supplied paired columns and all pronoun/script variants."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 82.79,
+        "online_text": "煞到你　煞到你",
+        "status": "exact",
+        "text": "煞到你 煞到你",
+        "spelling": "sannh tio̍h lí sannh tio̍h lí",
+        "manual_id": "line-18:0+line-18:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 86.74,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 119.11,
+        "online_text": "做水灾啦做水灾啦　我的感情大风颱",
+        "status": "exact",
+        "text": "做水災啦做水災啦 我的感情大風颱",
+        "spelling": "tsò-tsuí tsai là tsò-tsuí tsai là guá ê kám-tsîng tuā hong-thai",
+        "manual_id": "line-39:0+line-39:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 129.36,
+        "online_text": "跟着你脚步风雨边来",
+        "status": "approximate",
+        "text": "跟著妳腳步風雨邊來",
+        "spelling": "tuè tio̍h lí kha-pōo hong-hōo da lâi",
+        "manual_id": "line-42:0",
+        "review": [
+          "Use observed studio timeline netease:157186 after reviewing the title variant 煞到你; preserve supplied paired columns and all pronoun/script variants."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 133.15,
+        "online_text": "看着你走路心脾开怀",
+        "status": "approximate",
+        "text": "看著妳走路心脾開懷",
+        "spelling": "khuànn-tio̍h lí kiânn-lōo sim pî khai-huâi",
+        "manual_id": "line-42:1",
+        "review": [
+          "Use observed studio timeline netease:157186 after reviewing the title variant 煞到你; preserve supplied paired columns and all pronoun/script variants."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 136.82,
+        "online_text": "哎哟喂啊哎哟喂啊　行到我心花开",
+        "status": "exact",
+        "text": "哎喲喂啊哎喲喂啊 行到我心花開",
+        "spelling": "ai-iō-uê ah ai-iō-uê ah kiân-kàu guá sim-hue-khui",
+        "manual_id": "line-45:0+line-45:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 140.61,
+        "online_text": "头前的小姐要去佗位",
+        "status": "exact",
+        "text": "頭前的小姐要去佗位",
+        "spelling": "thâu-tsîng ê sió-tsiá beh khì tó-uī",
+        "manual_id": "line-48:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 144.25,
+        "online_text": "你慢慢走我马上来去",
+        "status": "approximate",
+        "text": "妳慢慢走我馬上來去",
+        "spelling": "lí bān bān kiânn guá liâm-mi lâi-khì",
+        "manual_id": "line-48:1",
+        "review": [
+          "Use observed studio timeline netease:157186 after reviewing the title variant 煞到你; preserve supplied paired columns and all pronoun/script variants."
+        ]
+      },
+      {
+        "source_row": 27,
+        "time": 148.19,
+        "online_text": "稍等一下稍等一下　全世界只爱你一个",
+        "status": "approximate",
+        "text": "稍等一下稍等一下 全世界只愛妳一個",
+        "spelling": "sió tán-tsi̍t-ē sió tán-tsi̍t-ē tsuân-sè-kài tsí ài lí tsi̍t ê",
+        "manual_id": "line-51:0+line-51:1",
+        "review": [
+          "Use observed studio timeline netease:157186 after reviewing the title variant 煞到你; preserve supplied paired columns and all pronoun/script variants."
+        ]
+      },
+      {
+        "source_row": 28,
+        "time": 151.83,
+        "online_text": "煞到你　煞到你　煞到你　煞到你",
+        "status": "exact",
+        "text": "煞到你 煞到你 煞到你 煞到你～～",
+        "spelling": "sannh tio̍h lí sannh tio̍h lí sannh tio̍h lí sannh tio̍h lí",
+        "manual_id": "line-54:0+line-54:1+line-57:0+line-57:1",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      },
+      {
+        "source_row": 29,
+        "time": 172.04,
+        "online_text": "煞到你",
+        "status": "exact",
+        "text": "煞到你",
+        "spelling": "sannh tio̍h lí",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping."
+        ]
+      }
+    ]
+  }
+}

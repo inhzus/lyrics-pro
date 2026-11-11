@@ -1,0 +1,664 @@
+{
+  "recording_id": "netease:543965346",
+  "timing_source": "NetEase https://music.163.com/song?id=543965346",
+  "manual_source": "User-supplied resources/lyrics-spelling/志明與春嬌-五月天",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 6,
+    "unresolved": 18,
+    "approximate": 4,
+    "exact": 3,
+    "repeat": 17
+  },
+  "review_row_count": 25,
+  "unmatched_manual_ids": [
+    "line-6:0",
+    "line-12:0",
+    "line-33:1",
+    "line-39:1",
+    "line-42:0"
+  ],
+  "unused_repeat_ids": [
+    "line-15:0",
+    "line-15:1",
+    "line-18:0",
+    "line-18:1",
+    "line-18:2",
+    "line-24:0",
+    "line-24:1",
+    "line-45:0",
+    "line-45:1",
+    "line-48:0",
+    "line-48:1",
+    "line-48:2",
+    "line-54:0",
+    "line-54:1",
+    "line-63:0",
+    "line-63:1",
+    "line-66:0",
+    "line-66:1",
+    "line-66:2",
+    "line-72:0",
+    "line-72:1",
+    "line-84:0",
+    "line-84:1"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 五月天 阿信",
+      "match_text": "作词 : 五月天 阿信",
+      "text": "作词 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 0.188,
+      "online_text": "作曲 : 五月天 阿信",
+      "match_text": "作曲 : 五月天 阿信",
+      "text": "作曲 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 0.376,
+      "online_text": "编曲 : 五月天",
+      "match_text": "编曲 : 五月天",
+      "text": "编曲 : 五月天",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 0.566,
+      "online_text": "志明与春娇-五月天",
+      "match_text": "志明与春娇-五月天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 2.15,
+      "online_text": "词：阿信",
+      "match_text": "词：阿信",
+      "text": "词：阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 2.862,
+      "online_text": "曲：阿信",
+      "match_text": "曲：阿信",
+      "text": "曲：阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 6,
+      "time": 3.623,
+      "online_text": "编曲：五月天",
+      "match_text": "编曲：五月天",
+      "text": "编曲：五月天",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 7,
+      "time": 26.965,
+      "online_text": "志明真正不知要安怎",
+      "match_text": "志明真正不知要安怎",
+      "text": "志明真正不知要按怎",
+      "spelling": "tsì bîng tsin-tsiànn m̄ tsai beh án-tsuánn",
+      "manual_id": "line-3:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 8,
+      "time": 31.181,
+      "online_text": "为什么爱人不愿阁再相偎",
+      "match_text": "为什么爱人不愿阁再相偎",
+      "text": "愛人不願閣再相偎",
+      "spelling": "ài-jîn m̄-guān koh tsài sio uah",
+      "manual_id": "line-6:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.842105
+    },
+    {
+      "source_row": 9,
+      "time": 39.316,
+      "online_text": "春娇已经早就无在听",
+      "match_text": "春娇已经早就无在听",
+      "text": "春嬌已經早就無在聽",
+      "spelling": "tshun kiau í-king tsá-tio̍h bô teh thiann",
+      "manual_id": "line-9:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 43.486,
+      "online_text": "讲这多其实拢总拢无卡抓",
+      "match_text": "讲这多其实拢总拢无卡抓",
+      "text": "其實攏總攏無卡抓",
+      "spelling": "kî-si̍t lóng tsóng lóng bô kǎ zhuā",
+      "manual_id": "line-12:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.842105
+    },
+    {
+      "source_row": 11,
+      "time": 51.551,
+      "online_text": "走到淡水的海岸两个人的爱情",
+      "match_text": "走到淡水的海岸两个人的爱情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 59.52,
+      "online_text": "已经无人看已经无人听啊啊",
+      "match_text": "已经无人看已经无人听啊啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 63.97,
+      "online_text": "我跟你最好就到这",
+      "match_text": "我跟你最好就到这",
+      "text": "我跟你最好就到這",
+      "spelling": "guá kā lí siōng hó tō kàu tsia",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 66.41,
+      "online_text": "你对我已经没感觉",
+      "match_text": "你对我已经没感觉",
+      "text": "你對我已經沒感覺",
+      "spelling": "lí tuì guá í-king bô kám-kak",
+      "manual_id": "line-21:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 68.85,
+      "online_text": "到这冻止你也免爱我",
+      "match_text": "到这冻止你也免爱我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 75.312,
+      "online_text": "我跟你最好就到这",
+      "match_text": "我跟你最好就到这",
+      "text": "我跟你最好就到這",
+      "spelling": "guá kā lí siōng hó tō kàu tsia",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 78.304,
+      "online_text": "你对我已经没感觉",
+      "match_text": "你对我已经没感觉",
+      "text": "你對我已經沒感覺",
+      "spelling": "lí tuì guá í-king bô kám-kak",
+      "manual_id": "line-21:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 81.88,
+      "online_text": "麦阁伤心",
+      "match_text": "麦阁伤心",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 83.336,
+      "online_text": "麦阁我这爱你你没爱我",
+      "match_text": "麦阁我这爱你你没爱我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 100.681,
+      "online_text": "志明心情真正有影寒",
+      "match_text": "志明心情真正有影寒",
+      "text": "志明心情真正有影寒",
+      "spelling": "tsì bîng sim-tsîng tsin-tsiànn ū-iánn kuânn",
+      "manual_id": "line-33:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 104.885,
+      "online_text": "风这大你也真正拢没心肝",
+      "match_text": "风这大你也真正拢没心肝",
+      "text": "你也真正攏沒心肝",
+      "spelling": "lí iā tsin-tsiànn lóng bô sim-kuann",
+      "manual_id": "line-36:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.842105
+    },
+    {
+      "source_row": 22,
+      "time": 113.14,
+      "online_text": "春娇你哪无要和我播",
+      "match_text": "春娇你哪无要和我播",
+      "text": "春嬌你哪無要和我播",
+      "spelling": "tshun kiau lí ná bô beh hām guá puann",
+      "manual_id": "line-39:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 116.7,
+      "online_text": "这出电影咱就走到这位准抵煞",
+      "match_text": "这出电影咱就走到这位准抵煞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 125.276,
+      "online_text": "走到淡水的海岸两个人的爱情",
+      "match_text": "走到淡水的海岸两个人的爱情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 133.428,
+      "online_text": "已经无人看已经无人听啊啊",
+      "match_text": "已经无人看已经无人听啊啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 136.884,
+      "online_text": "我跟你最好就到这",
+      "match_text": "我跟你最好就到这",
+      "text": "我跟你最好就到這",
+      "spelling": "guá kā lí siōng hó tō kàu tsia",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 139.807,
+      "online_text": "你对我已经没感觉",
+      "match_text": "你对我已经没感觉",
+      "text": "你對我已經沒感覺",
+      "spelling": "lí tuì guá í-king bô kám-kak",
+      "manual_id": "line-21:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 142.594,
+      "online_text": "到这冻止你也免爱我",
+      "match_text": "到这冻止你也免爱我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 149.8,
+      "online_text": "我跟你最好就到这",
+      "match_text": "我跟你最好就到这",
+      "text": "我跟你最好就到這",
+      "spelling": "guá kā lí siōng hó tō kàu tsia",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 152.137,
+      "online_text": "你对我已经没感觉",
+      "match_text": "你对我已经没感觉",
+      "text": "你對我已經沒感覺",
+      "spelling": "lí tuì guá í-king bô kám-kak",
+      "manual_id": "line-21:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 154.862,
+      "online_text": "麦阁伤心麦阁我这爱你你没爱我",
+      "match_text": "麦阁伤心麦阁我这爱你你没爱我",
+      "text": "麥閣傷心                               麥閣我這愛你 你沒愛我",
+      "spelling": "mái koh siong-sim            mái koh guá tsia ài lí lí bô ài  guá",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 186.775,
+      "online_text": "走到淡水的海岸两个人的爱情",
+      "match_text": "走到淡水的海岸两个人的爱情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 194.885,
+      "online_text": "已经无人看已经无人听啊啊",
+      "match_text": "已经无人看已经无人听啊啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 198.285,
+      "online_text": "我跟你最好就到这",
+      "match_text": "我跟你最好就到这",
+      "text": "我跟你最好就到這",
+      "spelling": "guá kā lí siōng hó tō kàu tsia",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 201.229,
+      "online_text": "你对我已经没感觉",
+      "match_text": "你对我已经没感觉",
+      "text": "你對我已經沒感覺",
+      "spelling": "lí tuì guá í-king bô kám-kak",
+      "manual_id": "line-21:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 203.961,
+      "online_text": "到这冻止你也免爱我",
+      "match_text": "到这冻止你也免爱我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 210.522,
+      "online_text": "我跟你最好就到这",
+      "match_text": "我跟你最好就到这",
+      "text": "我跟你最好就到這",
+      "spelling": "guá kā lí siōng hó tō kàu tsia",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 213.578,
+      "online_text": "你对我已经没感觉",
+      "match_text": "你对我已经没感觉",
+      "text": "你對我已經沒感覺",
+      "spelling": "lí tuì guá í-king bô kám-kak",
+      "manual_id": "line-21:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 216.298,
+      "online_text": "麦阁伤心",
+      "match_text": "麦阁伤心",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 218.545,
+      "online_text": "麦阁我这爱你你没爱我",
+      "match_text": "麦阁我这爱你你没爱我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 222.842,
+      "online_text": "我跟你最好就到这",
+      "match_text": "我跟你最好就到这",
+      "text": "我跟你最好就到這",
+      "spelling": "guá kā lí siōng hó tō kàu tsia",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 225.884,
+      "online_text": "你对我已经没感觉",
+      "match_text": "你对我已经没感觉",
+      "text": "你對我已經沒感覺",
+      "spelling": "lí tuì guá í-king bô kám-kak",
+      "manual_id": "line-21:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 43,
+      "time": 228.584,
+      "online_text": "到这冻止你也免爱我",
+      "match_text": "到这冻止你也免爱我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 235.84,
+      "online_text": "我跟你最好就到这",
+      "match_text": "我跟你最好就到这",
+      "text": "我跟你最好就到這",
+      "spelling": "guá kā lí siōng hó tō kàu tsia",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 45,
+      "time": 238.114,
+      "online_text": "你对我已经没感觉",
+      "match_text": "你对我已经没感觉",
+      "text": "你對我已經沒感覺",
+      "spelling": "lí tuì guá í-king bô kám-kak",
+      "manual_id": "line-21:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 46,
+      "time": 240.935,
+      "online_text": "麦阁伤心",
+      "match_text": "麦阁伤心",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 243.159,
+      "online_text": "麦阁我这爱你你没爱我",
+      "match_text": "麦阁我这爱你你没爱我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "a6f1518308280a0c5b3604cde7ef21f7cefde483052f0dcb4b588a7fe472c735",
+    "manual": "700d5a511960ddbe08c42a23f2c0faad7c16702b641084f3237eafc313c2c243",
+    "timed": "08a5bce22d5ca7971eed2994ee3f86cbfcd664046437ddd483f6e50e8e7c3621"
+  }
+}

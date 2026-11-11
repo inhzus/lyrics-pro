@@ -1,0 +1,207 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "一支菸把燒酒飲乎乾　最後擱唱一擺　舞女心聲",
+      "spelling": "tsi̍t ki hun kā sio-tsiú lím hoo ta tsuè-āu koh tshiùnn tsi̍t-pái bú-lú sim-siann",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "懷念你嘿囉漂泊的形影　街頭的玫瑰　叫著我",
+      "spelling": "huâi-liām lí heh lô phiau-pi̍k ê hîng-iánn ke-thâu ê muî-kuì kiò-tio̍h guá",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "石頭若有肉敢袜痛疼　月娘若有心　嘛會驚惶",
+      "spelling": "tsio̍h-thâu ná ū bah kám buē thàng-thàng ge̍h-niû ná ū sim mā ē kiann-hiânn",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "可愛家庭誰人無某子　美麗的理想　愛有人擔",
+      "spelling": "khó-ài ka-tîng siánn-lâng bô bóo kiánn bí-lē ê lí-sióng ài ū lâng tànn",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "一層一層海波浪 怨嘆攏無卡抓",
+      "spelling": "tsi̍t tîng tsi̍t tîng hái pho-lōng uàn-thàn lóng bô khá tsuah",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "昂首　拿出氣魄向前行",
+      "spelling": "khiā-thâu thê-tshut khì-phik hiòng-tsiân kiânn",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "想欲問你心目中　敢袜稍誇失望",
+      "spelling": "siūnn-beh mn̄g lí sim-bo̍k-tiong kám bē sió khua sit-bāng",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "多情故鄉外濟坎坷的運命",
+      "spelling": "to-tsîng kòo-hiong guā-tsē khám-khiat ê ūn-miā",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "為什麼無人叫出咱母親的名",
+      "spelling": "uī-siánn-mi̍h bô-lâng kiò-tshut lán bú-tshin ê miâ",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "無惜一切　你說的話　置心肝底",
+      "spelling": "bô-sioh it-tshè lí kóng ê uē tì sim-kuann té",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "自由的火猶原燒未煞　眼淚不通澆濕改變的火引",
+      "spelling": "tsū-iû ê hué iu-guân sio buē suah ba̍k-sái m̄-thang ak tâm kái-piàn ê hué-iânn",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "你是天頂尚光那粒星　照出這個時代的意志",
+      "spelling": "lí sī thinn-tíng siōng kng hit lia̍p tshinn tsiò-tshut tsit-ê sî-tāi ê ì-tsì",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "你說的話　甲阮永遠作伙　深深的愛　繼續打拼到底",
+      "spelling": "lí kóng ê uē kā gún íng-uán tsò-hué tshim-tshim ê ài kè-sio̍k phah-piànn tàu-té",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "經過歷史的滄桑　怨嘆攏無卡抓",
+      "spelling": "king-kuè li̍k-sú ê tshong-song uàn-thàn lóng bô khá tsuah",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "昂首　拿出氣魄向前行",
+      "spelling": "khiā-thâu thê-tshut khì-phik hiòng-tsiân kiânn",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "想欲問你心目中　敢袜稍誇失望",
+      "spelling": "siūnn-beh mn̄g lí sim-bo̍k-tiong kám bē sió khua sit-bāng",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "多情故鄉外濟坎坷的運命",
+      "spelling": "to-tsîng kòo-hiong guā-tsē khám-khiat ê ūn-miā",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "為什麼無人叫出咱母親的名",
+      "spelling": "uī-siánn-mi̍h bô-lâng kiò-tshut lán bú-tshin ê miâ",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "無惜一切　你說的話　置心肝底",
+      "spelling": "bô-sioh it-tshè lí kóng ê uē tì sim-kuann té",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "自由的火猶原燒未煞　眼淚不通澆濕改變的火引",
+      "spelling": "tsū-iû ê hué iu-guân sio buē suah ba̍k-sái m̄-thang ak tâm kái-piàn ê hué-iânn",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "你是天頂尚光那粒星　照出這個時代的意志",
+      "spelling": "lí sī thinn-tíng siōng kng hit lia̍p tshinn tsiò-tshut tsit-ê sî-tāi ê ì-tsì",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "你說的話　甲阮永遠作伙　深深的愛　繼續打拼到底",
+      "spelling": "lí kóng ê uē kā gún íng-uán tsò-hué tshim-tshim ê ài kè-sio̍k phah-piànn kàu-té",
+      "source_lines": [
+        64,
+        65
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

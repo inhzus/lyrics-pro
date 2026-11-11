@@ -1,0 +1,198 @@
+{
+  "candidates": [
+    {
+      "song_id": 41664790,
+      "title": "人生",
+      "artists": [
+        "夏小虎"
+      ],
+      "album": "人生",
+      "duration": 350.654,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 41664790,
+      "title": "人生",
+      "artists": [
+        "夏小虎"
+      ],
+      "album": "人生",
+      "duration": 350.654,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1981773212,
+      "title": "人生",
+      "artists": [
+        "アンメルツP",
+        "初音ミク",
+        "鏡音リン",
+        "鏡音レン",
+        "巡音ルカ",
+        "MEIKO",
+        "KAITO"
+      ],
+      "album": "人生 7バージョン収録アルバム",
+      "duration": 148.732,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 41664790,
+      "title": "人生",
+      "artists": [
+        "夏小虎"
+      ],
+      "album": "人生",
+      "duration": 350.654,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 115872,
+      "title": "人生",
+      "artists": [
+        "林子祥"
+      ],
+      "album": "感谢",
+      "duration": 250.4,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1459493570,
+      "title": "人生",
+      "artists": [
+        "岗嘎措"
+      ],
+      "album": "人生",
+      "duration": 279.657,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1850327546,
+      "title": "人生",
+      "artists": [
+        "诺米么Lodmemo"
+      ],
+      "album": "Memo",
+      "duration": 262.636,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2025345072,
+      "title": "人生",
+      "artists": [
+        "南措"
+      ],
+      "album": "人生",
+      "duration": 203.946,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2741794327,
+      "title": "人生",
+      "artists": [
+        "吉地色呷"
+      ],
+      "album": "吉地色呷20年精选（1）",
+      "duration": 236.5,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 378581,
+      "title": "人生",
+      "artists": [
+        "孙建平 & Sweet Style"
+      ],
+      "album": "音乐风 台语流行金曲2",
+      "duration": 212.218,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1547228036",
+      "title": "人生",
+      "artists": [
+        "灭火器"
+      ],
+      "album": "进击下半场",
+      "duration": 188.467,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "572183193",
+      "title": "人生",
+      "artists": [
+        "灭火器"
+      ],
+      "album": "衝啦!",
+      "duration": 195.013,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1683691987",
+      "title": "人生",
+      "artists": [
+        "张涵雅"
+      ],
+      "album": "汤味",
+      "duration": 223.385,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1697860121",
+      "title": "人生",
+      "artists": [
+        "刘松辉"
+      ],
+      "album": "神箫 Vol.3 (长笛版)",
+      "duration": 216.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1794040001",
+      "title": "人生",
+      "artists": [
+        "陈胜田"
+      ],
+      "album": "洞箫独奏第五集 人生",
+      "duration": 238.889,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1104834994",
+      "title": "人生",
+      "artists": [
+        "林文隆"
+      ],
+      "album": "钢琴酒吧",
+      "duration": 216.533,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1615974466",
+      "title": "人生",
+      "artists": [
+        "吉几三"
+      ],
+      "album": "リクエストスーパーベスト",
+      "duration": 257.133,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

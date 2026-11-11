@@ -1,0 +1,122 @@
+{
+  "blocks": [
+    {
+      "id": "line-24",
+      "text": "山頂一個黑狗兄 伊是牧場的少爺",
+      "spelling": "suann-tíng tsi̍t ê oo-káu-hiann  i sī bo̍k-tiûnn ê siàu-iâ",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "透早到晚真打拼 牧場開闊歸山拼",
+      "spelling": "thàu-tsá kàu mî tsin phah-piànn  bo̍k-tiûnn khui-khuah kui suann piànn",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "嘴唸明朗的歌聲 透日歌聲唸抹定",
+      "spelling": "tshuì liām bîng-lóng ê kua-siann  thàu-li̍t kua-siann liām buē tīng",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "伊的歌韻真好聽 聲好會唸介出名",
+      "spelling": "i ê kua ūn tsin hó-thiann  siann hó ē liām kài tshut miâ",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "有聽聲看無影 U Lay E Lee",
+      "spelling": "ū thiann siann khuànn bô-iánn  U Lay E Lee",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "歌喉響山嶺 U Lay E Lee",
+      "spelling": "kua-âu liang suann-niá U Lay E Lee",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "歌聲幼軟緣投得人疼 U Lay E Lee",
+      "spelling": "kua-siann iù-nńg iân-tâu tìm lîn lâng thiànn  U Lay E Lee",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "阮的貼心黑狗兄 逍遙自在真好命",
+      "spelling": "gún ê tah-sim oo-káu-hiann  siau-iâu tsū-tsāi tsin hònn miā",
+      "source_lines": [
+        47,
+        48
+      ]
+    },
+    {
+      "id": "line-50",
+      "text": "姑娘聽著心肝神魂跟伊行",
+      "spelling": "koo-niû thiann-tio̍h sim-kuann sîn-hûn tuè i kiânn",
+      "source_lines": [
+        50,
+        51
+      ]
+    },
+    {
+      "id": "line-53",
+      "text": "央三拖四甲伊求親晟",
+      "spelling": "iong sann thua sì kah i kiû tshin tshiânn",
+      "source_lines": [
+        53,
+        54
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:1,2",
+    "ambiguous_pair:11,12",
+    "ambiguous_pair:12,13",
+    "ambiguous_pair:13,14",
+    "ambiguous_pair:14,15",
+    "ambiguous_pair:15,16",
+    "ambiguous_pair:16,17",
+    "ambiguous_pair:17,18",
+    "ambiguous_pair:18,20",
+    "ambiguous_pair:2,3",
+    "ambiguous_pair:20,21",
+    "ambiguous_pair:21,22",
+    "ambiguous_pair:22,24",
+    "ambiguous_pair:3,4",
+    "ambiguous_pair:4,6",
+    "ambiguous_pair:45,47",
+    "ambiguous_pair:56,57",
+    "ambiguous_pair:57,58",
+    "ambiguous_pair:58,59",
+    "ambiguous_pair:6,7",
+    "ambiguous_pair:7,8",
+    "ambiguous_pair:8,9",
+    "ambiguous_pair:9,11",
+    "unpaired_line:59"
+  ]
+}

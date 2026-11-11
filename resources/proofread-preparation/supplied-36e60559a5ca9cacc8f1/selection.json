@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "song_id": "1444711769",
+    "title": "幸福人生",
+    "artists": [
+      "江蕙"
+    ],
+    "album": "爱着啊",
+    "duration": 220.333,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1444711769",
+      "duration": 220.333,
+      "ready": false,
+      "coverage": 0.06666666666666667,
+      "exact_fraction": 0.06666666666666667,
+      "summary": {
+        "unresolved": 28,
+        "repeat": 2
+      }
+    }
+  ]
+}

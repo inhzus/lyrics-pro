@@ -1,0 +1,54 @@
+{
+  "selected": {
+    "song_id": 16907359,
+    "title": "為什麼(今日的愛情)",
+    "artists": [
+      "五月天"
+    ],
+    "album": "十萬青年站出來 live",
+    "duration": 130.493333,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "lrclib:16907359",
+      "duration": 130.493333,
+      "ready": false,
+      "coverage": 0.6,
+      "exact_fraction": 0.26666666666666666,
+      "summary": {
+        "unresolved": 6,
+        "exact": 4,
+        "approximate": 5,
+        "gap": 1
+      }
+    },
+    {
+      "recording_id": "lrclib:18637308",
+      "duration": 130.493333,
+      "ready": false,
+      "coverage": 0.6,
+      "exact_fraction": 0.26666666666666666,
+      "summary": {
+        "unresolved": 6,
+        "exact": 4,
+        "approximate": 5,
+        "gap": 1
+      }
+    },
+    {
+      "recording_id": "lrclib:20550117",
+      "duration": 173.44,
+      "ready": false,
+      "coverage": 0.6,
+      "exact_fraction": 0.26666666666666666,
+      "summary": {
+        "unresolved": 6,
+        "exact": 4,
+        "approximate": 5,
+        "gap": 1
+      }
+    }
+  ]
+}

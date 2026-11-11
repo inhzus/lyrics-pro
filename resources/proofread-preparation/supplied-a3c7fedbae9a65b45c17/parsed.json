@@ -1,0 +1,277 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "燒香蕉",
+      "spelling": "sio-king-tsio",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "燒燒",
+      "spelling": "sio sio",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "燒香蕉",
+      "spelling": "sio-king-tsio",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "燒燒",
+      "spelling": "sio sio",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "香蕉會燒燒",
+      "spelling": "king-tsio ē sio sio",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "燒燒的香蕉",
+      "spelling": "sio sio ē king-tsio",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "燒喔燒喔",
+      "spelling": "sio ooh sio ooh",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "別閃尿",
+      "spelling": "mài siám liō",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "燒香蕉",
+      "spelling": "sio-king-tsio",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "燒燒",
+      "spelling": "sio sio",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "燒香蕉",
+      "spelling": "sio-king-tsio",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "燒燒",
+      "spelling": "sio sio",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "香蕉會燒燒",
+      "spelling": "king-tsio ē sio sio",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "燒燒的香蕉",
+      "spelling": "sio sio ē king-tsio",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "燒喔燒喔",
+      "spelling": "sio ooh sio ooh",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "別閃尿",
+      "spelling": "mài siám liō",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "若 是閃到腰",
+      "spelling": "ná sī siám-tio̍h io",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "若 是去燒到",
+      "spelling": "ná sī khì tsio-tio̍h",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "阿嬤秀秀",
+      "spelling": "ah má siù siù",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "別囉唆",
+      "spelling": "mài lo-so",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "是你不對",
+      "spelling": "sī lí m̄-tio̍h",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "是你不對",
+      "spelling": "sī lí m̄-tio̍h",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "燒香蕉",
+      "spelling": "sio-king-tsio",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "燒燒",
+      "spelling": "sio sio",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "燒香蕉",
+      "spelling": "sio-king-tsio",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "燒燒",
+      "spelling": "sio sio",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "香蕉會燒燒",
+      "spelling": "king-tsio ē sio sio",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "燒燒的香蕉",
+      "spelling": "sio sio ē king-tsio",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "燒喔燒喔",
+      "spelling": "sio ooh sio ooh",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "別閃尿",
+      "spelling": "mài siám liō",
+      "source_lines": [
+        88,
+        89
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

@@ -1,0 +1,358 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "寫一首 幸福的歌",
+      "spelling": "siá tsi̍t siú hīng-hok ê kua",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "用來紀念 過去的鹹淡",
+      "spelling": "iōng-lâi kì-liām kuè-khì ê kiâm-tsiánn",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "寫一首 幸福的歌",
+      "spelling": "siá tsi̍t siú hīng-hok ê kua",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "用來期待 未來的苦澀",
+      "spelling": "iōng-lâi kî-thāi bī-lâi ê khóo siap",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "人生啊 有影無影",
+      "spelling": "lîn-sing ah ū-iánn bô-iánn",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "生活啊 有笑有痛",
+      "spelling": "sing-ua̍h ah ū tshiò ū thiànn",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "快樂啊 實實在在",
+      "spelling": "khuài-lo̍k ah si̍t-si̍t-tsāi-tsāi",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "幸福啊 真真正正",
+      "spelling": "hīng-hok ah tsin-tsin-tsiànn-tsiànn",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "幸福是",
+      "spelling": "hīng-hok sī",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "平安的過日來享受",
+      "spelling": "pîng-an ê kuè-li̍t lâi hiáng-siū",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "春夏秋冬 四季的氣味",
+      "spelling": "tshun hā tshiu tang sù-kuì ê khì-bī",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "看著日頭從海面升起",
+      "spelling": "khuànn-tio̍h li̍t-thâu uì hái-bīn sing-khí",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "看到月娘沉落山的那面",
+      "spelling": "khuànn-tio̍h gue̍h-niû tîm-lo̍h suann ê hit biān",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "幸福是",
+      "spelling": "hīng-hok sī",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "健康的過日來看盡 悲歡離合 人生的滋味",
+      "spelling": "kiān-khong ê kuè-li̍t lâi khuànn tsīn pi-huan-lī-ha̍p lîn-sing ê tsu-bī",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "活在當下啊自由自在 拈花微笑 無罣無礙",
+      "spelling": "ua̍h tiàm tong ā iā tsū-iû tsū-tsāi liàm hue bî tshiò bô kuà bô gāi",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "拈花微笑 無罣無礙",
+      "spelling": "liàm hue bî tshiò bô kuà bô gāi",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "寫一首 幸福的歌",
+      "spelling": "siá tsi̍t siú hīng-hok ê kua",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "用來紀念 過去的鹹淡",
+      "spelling": "iōng-lâi kì-liām kuè-khì ê kiâm-tsiánn",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "寫一首 幸福的歌",
+      "spelling": "siá tsi̍t siú hīng-hok ê kua",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "用來期待 未來的苦澀",
+      "spelling": "iōng-lâi kî-thāi bī-lâi ê khóo siap",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "人生啊 有影無影",
+      "spelling": "lîn-sing ah ū-iánn bô-iánn",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "生活啊 有笑有痛",
+      "spelling": "sing-ua̍h ah ū tshiò ū thiànn",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "快樂啊 實實在在",
+      "spelling": "khuài-lo̍k ah si̍t-si̍t-tsāi-tsāi",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "幸福啊 真真正正",
+      "spelling": "hīng-hok ah tsin-tsin-tsiànn-tsiànn",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "幸福是",
+      "spelling": "hīng-hok sī",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "平安的過日來享受",
+      "spelling": "pîng-an ê kuè-li̍t lâi hiáng-siū",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "春夏秋冬 四季的氣味",
+      "spelling": "tshun hā tshiu tang sù-kuì ê khì-bī",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "看著日頭從海面升起",
+      "spelling": "khuànn-tio̍h li̍t-thâu uì hái-bīn sing-khí",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "看到月娘沉落山的那面",
+      "spelling": "khuànn-tio̍h gue̍h-niû tîm-lo̍h suann ê hit biān",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "幸福是",
+      "spelling": "hīng-hok sī",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "健康的過日來看盡 悲歡離合 人生的滋味",
+      "spelling": "kiān-khong ê kuè-li̍t lâi khuànn tsīn pi-huan-lī-ha̍p lîn-sing ê tsu-bī",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "活在當下啊自由自在 拈花微笑 無罣無礙",
+      "spelling": "ua̍h tiàm tong ā iā tsū-iû tsū-tsāi liàm hue bî tshiò bô kuà bô gāi",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "拈花微笑 無罣無礙",
+      "spelling": "liàm hue bî tshiò bô kuà bô gāi",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "拈花微笑 無罣無礙",
+      "spelling": "liàm hue bî tshiò bô kuà bô gāi",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "自由自在 無罣無礙",
+      "spelling": "tsū-iû tsū-tsāi bô kuà bô gāi",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "自由自在 無罣無礙",
+      "spelling": "tsū-iû tsū-tsāi bô kuà bô gāi",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "自由自在 無罣無礙",
+      "spelling": "tsū-iû tsū-tsāi bô kuà bô gāi",
+      "source_lines": [
+        112,
+        113
+      ]
+    },
+    {
+      "id": "line-115",
+      "text": "自由自在 無罣無礙",
+      "spelling": "tsū-iû tsū-tsāi bô kuà bô gāi",
+      "source_lines": [
+        115,
+        116
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

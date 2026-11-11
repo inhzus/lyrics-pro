@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "song_id": "1230303049",
+    "title": "二十四",
+    "artists": [
+      "孩子王"
+    ],
+    "album": "最窘丸",
+    "duration": 306.468,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1230303049",
+      "duration": 306.468,
+      "ready": false,
+      "coverage": 0.19230769230769232,
+      "exact_fraction": 0.0,
+      "summary": {
+        "approximate": 5,
+        "unresolved": 21
+      }
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "枉費青春用我的夢 沒法度得到我心愛的人",
+      "spelling": "óng huì tshing-tshun iōng guá ê bāng bô-huat tōo tio̍h guá sim ài ê lâng",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "枉費青春用我的夢",
+          "spelling": "óng huì tshing-tshun iōng guá ê bāng"
+        },
+        {
+          "text": "沒法度得到我心愛的人",
+          "spelling": "bô-huat tōo tio̍h guá sim ài ê lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "枉費青春用我的希望 浪費我一世人",
+      "spelling": "óng huì tshing-tshun iōng guá ê hi-bāng lōng-huì guá tsi̍t-sì-lâng",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "枉費青春用我的希望",
+          "spelling": "óng huì tshing-tshun iōng guá ê hi-bāng"
+        },
+        {
+          "text": "浪費我一世人",
+          "spelling": "lōng-huì guá tsi̍t-sì-lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "唉….妳在說啥貨 心肝對我安呢甘會得過",
+      "spelling": "haih…. lí leh kóng siánn-huè sim-kuann tuì guá an neh kam ē tit kuè",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "唉….妳在說啥貨",
+          "spelling": "haih…. lí leh kóng siánn-huè"
+        },
+        {
+          "text": "心肝對我安呢甘會得過",
+          "spelling": "sim-kuann tuì guá an neh kam ē tit kuè"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "枉費青春為妳一人 沒法度相信我目眶紅",
+      "spelling": "óng huì tshing-tshun uî lí tsi̍t lâng bô-huat tōo siong-sìn guá ba̍k-khoo âng",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "枉費青春為妳一人",
+          "spelling": "óng huì tshing-tshun uî lí tsi̍t lâng"
+        },
+        {
+          "text": "沒法度相信我目眶紅",
+          "spelling": "bô-huat tōo siong-sìn guá ba̍k-khoo âng"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "啊～",
+      "spelling": "ah",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "啊～",
+          "spelling": "ah"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "如何麥想伊 如何麥提起",
+      "spelling": "jû-hô mái sióng i jû-hô mái thê-khí",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "如何麥想伊",
+          "spelling": "jû-hô mái sióng i"
+        },
+        {
+          "text": "如何麥提起",
+          "spelling": "jû-hô mái thê-khí"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "安怎這狼狽 情債算未利",
+      "spelling": "an-tsuánn tsia liông-puē tsîng-tsè sǹg bē lī",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "安怎這狼狽",
+          "spelling": "an-tsuánn tsia liông-puē"
+        },
+        {
+          "text": "情債算未利",
+          "spelling": "tsîng-tsè sǹg bē lī"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "難道這是因為妳來看我未起",
+      "spelling": "kám-kóng tse sī in-uī lī lâi khuànn guá bē khí",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "難道這是因為妳來看我未起",
+          "spelling": "kám-kóng tse sī in-uī lī lâi khuànn guá bē khí"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "我的心愛 我的心愛",
+      "spelling": "guá ê tshin-ài guá ê tshin-ài",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "我的心愛",
+          "spelling": "guá ê tshin-ài"
+        },
+        {
+          "text": "我的心愛",
+          "spelling": "guá ê tshin-ài"
+        }
+      ]
+    }
+  ],
+  "repairs": [],
+  "notes": []
+}

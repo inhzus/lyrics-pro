@@ -1,0 +1,183 @@
+{
+  "candidates": [
+    {
+      "song_id": 532950298,
+      "title": "悲歌",
+      "artists": [
+        "JV陈政文"
+      ],
+      "album": "角头2:王者再起 电影原声带",
+      "duration": 252.151,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2135857869,
+      "title": "悲歌",
+      "artists": [
+        "桑旦正"
+      ],
+      "album": "悲歌",
+      "duration": 249.495,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 435288722,
+      "title": "悲歌",
+      "artists": [
+        "央吉玛"
+      ],
+      "album": "莲花秘境",
+      "duration": 396.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2153117840,
+      "title": "悲歌",
+      "artists": [
+        "幼稚园杀手"
+      ],
+      "album": "不完美的礼物",
+      "duration": 215.637,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1432133821,
+      "title": "悲歌",
+      "artists": [
+        "老二道（半吨兄弟）",
+        "苍弟（半吨兄弟）",
+        "老恋（半吨兄弟）"
+      ],
+      "album": "悲歌",
+      "duration": 209.723,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1635528763",
+      "title": "悲歌",
+      "artists": [
+        "刘天华"
+      ],
+      "album": "刘天华二胡曲集",
+      "duration": 169.013,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1656633887",
+      "title": "悲歌",
+      "artists": [
+        "更尕文次"
+      ],
+      "album": "悲歌 - Single",
+      "duration": 133.534,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1727115655",
+      "title": "悲歌",
+      "artists": [
+        "郭好为"
+      ],
+      "album": "《新神榜:杨戬》电影原声带",
+      "duration": 126.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1681503119",
+      "title": "悲歌",
+      "artists": [
+        "佚名"
+      ],
+      "album": "乐府-二胡",
+      "duration": 174.785,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "763413981",
+      "title": "悲歌",
+      "artists": [
+        "范宗沛 & 黄雅诗"
+      ],
+      "album": "星愿",
+      "duration": 103.627,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1449276799",
+      "title": "悲歌",
+      "artists": [
+        "天空之城音乐制作"
+      ],
+      "album": "电影《寒单》原声音乐",
+      "duration": 94.5,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1605952110",
+      "title": "悲歌",
+      "artists": [
+        "Theseus 忒修斯"
+      ],
+      "album": "会饮 - EP",
+      "duration": 354.881,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1686349787",
+      "title": "悲歌",
+      "artists": [
+        "孔艳艳"
+      ],
+      "album": "新民乐 (二胡独奏)",
+      "duration": 191.507,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 7659878,
+      "title": "悲歌",
+      "artists": [
+        "石川さゆり"
+      ],
+      "album": "さゆり",
+      "duration": 325.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 14874180,
+      "title": "悲歌",
+      "artists": [
+        "Teresa Teng"
+      ],
+      "album": "鄧麗君東洋金曲賞4",
+      "duration": 260.180658,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 33638428,
+      "title": "悲歌",
+      "artists": [
+        "纯音乐"
+      ],
+      "album": "二胡阿炳",
+      "duration": 171.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

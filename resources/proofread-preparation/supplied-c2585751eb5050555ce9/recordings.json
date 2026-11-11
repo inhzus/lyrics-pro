@@ -1,0 +1,127 @@
+{
+  "candidates": [
+    {
+      "song_id": 2095254477,
+      "title": "迷人",
+      "artists": [
+        "春猿火"
+      ],
+      "album": "迷人",
+      "duration": 198.781,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1384117552,
+      "title": "迷人",
+      "artists": [
+        "杜佳阳",
+        "萧亮"
+      ],
+      "album": "风格",
+      "duration": 241.944,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "956393719",
+      "title": "迷人",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "也兽",
+      "duration": 216.053,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1732047573",
+      "title": "迷人",
+      "artists": [
+        "Mogu"
+      ],
+      "album": "GOYT",
+      "duration": 194.912,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1712294276",
+      "title": "迷人",
+      "artists": [
+        "Harusaruhi"
+      ],
+      "album": "迷人 - Single",
+      "duration": 198.781,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1642290542",
+      "title": "迷人",
+      "artists": [
+        "诗人涵"
+      ],
+      "album": "在你身边可好",
+      "duration": 354.947,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1638848461",
+      "title": "迷人",
+      "artists": [
+        "4REALEEZY"
+      ],
+      "album": "Genius or maniac?",
+      "duration": 177.242,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1680160750",
+      "title": "迷人",
+      "artists": [
+        "颜洛殇"
+      ],
+      "album": "那年的夏天",
+      "duration": 138.762,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1684395207",
+      "title": "迷人",
+      "artists": [
+        "陆玟静"
+      ],
+      "album": "迷人 - Single",
+      "duration": 277.813,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1782167271",
+      "title": "迷人",
+      "artists": [
+        "苍彬尚"
+      ],
+      "album": "陪着你走",
+      "duration": 68.669,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 39886319,
+      "title": "迷人",
+      "artists": [
+        "春猿火"
+      ],
+      "album": "心獣",
+      "duration": 202.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

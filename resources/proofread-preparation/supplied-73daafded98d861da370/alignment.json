@@ -1,0 +1,647 @@
+{
+  "recording_id": "lrcapi:1269013232",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E7%B4%94%E6%83%85%E8%B3%80%E7%88%BE%E8%92%99&artist=%E8%8D%89%E5%B1%AF%E5%9B%9D%E4%BB%94&album=%E5%9B%9D%E4%BB%94#1269013232",
+  "manual_source": "User-supplied resources/lyrics-spelling/純情賀爾蒙-草屯囝仔",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "exact": 16,
+    "approximate": 2,
+    "unresolved": 8,
+    "repeat": 24
+  },
+  "review_row_count": 10,
+  "unmatched_manual_ids": [
+    "line-60:0"
+  ],
+  "unused_repeat_ids": [
+    "line-24:0",
+    "line-75:0",
+    "line-120:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 7.61,
+      "online_text": "穿著最帥欸裝備 油頭擱尬刷落去",
+      "match_text": "穿著最帥欸裝備 油頭擱尬刷落去",
+      "text": "穿著最帥欸裝備 油頭擱尬刷落去",
+      "spelling": "tshīng-tio̍h siōng siap ê tsong-pī iû thâu koh kā sua lo̍h-khì",
+      "manual_id": "line-3:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 15.636,
+      "online_text": "騎著野狼 摸灰 打離仔欸卡對時",
+      "match_text": "騎著野狼 摸灰 打離仔欸卡對時",
+      "text": "騎著野狼 摸灰 打離仔欸卡對時",
+      "spelling": "khiâ-tio̍h iá-lông bong hue phah lī á ê khá tuì-sî",
+      "manual_id": "line-6:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 19.618,
+      "online_text": "順風嘴咬 煙支 漂泊騎惦都市",
+      "match_text": "順風嘴咬 煙支 漂泊騎惦都市",
+      "text": "順風嘴咬 煙支 漂泊騎惦都市",
+      "spelling": "sūn-hong tshuì kā hun ki phiau-pi̍k khiâ tiām too-tshī",
+      "manual_id": "line-9:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 24.068,
+      "online_text": "繁華欸年代 存在多少閉俗欸情愛",
+      "match_text": "繁華欸年代 存在多少閉俗欸情愛",
+      "text": "繁華欸年代 存在多少閉俗欸情愛",
+      "spelling": "huân-huâ ê nî-tāi tsûn-tsāi guā-tsē pì sio̍k ê tsîng-ài",
+      "manual_id": "line-12:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 28.066,
+      "online_text": "個性拍謝 全用紙信寫著對愛期待",
+      "match_text": "個性拍謝 全用紙信寫著對愛期待",
+      "text": "個性拍謝 全用紙信寫著對愛期待",
+      "spelling": "kò-sìng pháinn-sè tsuân iōng tsuá phue siá-tio̍h tuì ài kî-thāi",
+      "manual_id": "line-15:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 32.016,
+      "online_text": "霓虹燈",
+      "match_text": "霓虹燈",
+      "text": "霓虹燈 啊",
+      "spelling": "mi ang ting ah",
+      "manual_id": "line-18:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 6,
+      "time": 36.11,
+      "online_text": "田橋仔",
+      "match_text": "田橋仔",
+      "text": "田橋仔 哈",
+      "spelling": "tshân kiô-á ha",
+      "manual_id": "line-21:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 7,
+      "time": 40.018,
+      "online_text": "黑膠 ラジオ 高尚追著風",
+      "match_text": "黑膠 ラジオ 高尚追著風",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 44.033,
+      "online_text": "七辣 純情風 保守濛玲瓏",
+      "match_text": "七辣 純情風 保守濛玲瓏",
+      "text": "七辣 純情風 保守濛玲瓏",
+      "spelling": "tshit la sûn-tsîng hong pó-siú bong lîn long",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 48.164,
+      "online_text": "慢步調欸生活迷人",
+      "match_text": "慢步調欸生活迷人",
+      "text": "慢步調欸生活迷人",
+      "spelling": "bān-pōo tiâu ê sing-ua̍h bê-lâng",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 51.13,
+      "online_text": "鑲金欸日子不輸像在作夢",
+      "match_text": "鑲金欸日子不輸像在作夢",
+      "text": "鑲金欸日子不輸像在作夢",
+      "spelling": "khong kim ê li̍t-tsí bē-su tshiūnn teh bîn-bāng",
+      "manual_id": "line-33:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 56.118,
+      "online_text": "追追追 一蕊玫瑰花",
+      "match_text": "追追追 一蕊玫瑰花",
+      "text": "追追追 一蕊玫瑰花",
+      "spelling": "tui tui tui tsi̍t luí muî-kuì-hue",
+      "manual_id": "line-36:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 59.663,
+      "online_text": "日思夜夢 耶嘿 望妳會變我枕邊人",
+      "match_text": "日思夜夢 耶嘿 望妳會變我枕邊人",
+      "text": "日思夜夢 耶嘿 望妳會變我枕邊人",
+      "spelling": "li̍t su iā bāng eh heh bāng lí ē piàn guá tsím pinn lâng",
+      "manual_id": "line-39:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 64.168,
+      "online_text": "追追追 歌舞造浪漫",
+      "match_text": "追追追 歌舞造浪漫",
+      "text": "追追追 歌舞造浪漫",
+      "spelling": "tui tui tui kua wú tsō lōng-bān",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 67.662,
+      "online_text": "低厝暗巷 耶嘿 時代欸秘密就乎恁來猜",
+      "match_text": "低厝暗巷 耶嘿 時代欸秘密就乎恁來猜",
+      "text": "低厝暗巷 耶嘿 時代欸秘密就乎恁來猜",
+      "spelling": "kē tshù àm hāng heh heh sî-tāi ê pì-bi̍t tio̍h hōo lin lâi tshai",
+      "manual_id": "line-45:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 72.415,
+      "online_text": "我走惦街仔路後面有人叫我緣投兄",
+      "match_text": "我走惦街仔路後面有人叫我緣投兄",
+      "text": "我走惦街仔路後面有人叫我緣投兄",
+      "spelling": "guá kiânn tiām ke-á lōo āu-piah ū-lâng kiò guá tâu hiann",
+      "manual_id": "line-48:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 76.415,
+      "online_text": "我越頭看原來是住阮厝邊那摳七仔",
+      "match_text": "我越頭看原來是住阮厝邊那摳七仔",
+      "text": "我越頭看原來是住阮厝邊那摳七仔",
+      "spelling": "guá ua̍t-thâu khuànn guân-lâi sī tuà gún tshù-pinn hit kho̍k tshit-á",
+      "manual_id": "line-51:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 80.584,
+      "online_text": "這個暗眠 想要帶一個轉去",
+      "match_text": "這個暗眠 想要帶一個轉去",
+      "text": "這個暗眠 想要帶一個轉去",
+      "spelling": "tsi̍t ê àm bîn siūnn-beh tshuā tsi̍t ê tńg-khì",
+      "manual_id": "line-54:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 84.416,
+      "online_text": "甘有機會 我要帶一個轉去",
+      "match_text": "甘有機會 我要帶一個轉去",
+      "text": "甘有機會 我要帶一個轉去",
+      "spelling": "kam ū ki-huē guá beh tshuā tài tsi̍t ê tńg-khì",
+      "manual_id": "line-57:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 88.166,
+      "online_text": "我尚緣投沒人比我帥趴",
+      "match_text": "我尚緣投沒人比我帥趴",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-60:0"
+    },
+    {
+      "source_row": 20,
+      "time": 89.914,
+      "online_text": "穿乎漂泊 尚愛把七仔",
+      "match_text": "穿乎漂泊 尚愛把七仔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-60:0"
+    },
+    {
+      "source_row": 21,
+      "time": 91.866,
+      "online_text": "我扯到整場攏在看我 攏在打拍子",
+      "match_text": "我扯到整場攏在看我 攏在打拍子",
+      "text": "我扯到整場攏在看我 攏在打拍子",
+      "spelling": "guá khan-kah kui tiûnn lóng teh khuànn guá lóng leh phah-phok a",
+      "manual_id": "line-63:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 94.16,
+      "online_text": "踏著囂張舞步 配著我的水杉",
+      "match_text": "踏著囂張舞步 配著我的水杉",
+      "text": "踏著囂張舞步 配著我的水杉",
+      "spelling": "ta̍h-tio̍h tshàng-tshiu bú-pōo phuè-tio̍h guá ê tsuí sam",
+      "manual_id": "line-66:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 96.16,
+      "online_text": "忍不住孤單欸人",
+      "match_text": "忍不住孤單欸人",
+      "text": "忍不住孤單欸人",
+      "spelling": "lim-bē-tiâu koo-tuann ê lâng",
+      "manual_id": "line-69:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 98.886,
+      "online_text": "我是純情欸男兒別將我來戲弄",
+      "match_text": "我是純情欸男兒別將我來戲弄",
+      "text": "我是純情欸男兒別將我來戲弄",
+      "spelling": "guá sī sûn-tsîng ê lâm-lî mài tsiòng guá lâi hì-lāng",
+      "manual_id": "line-72:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 104.181,
+      "online_text": "黑膠 ラジオ 高尚追著風",
+      "match_text": "黑膠 ラジオ 高尚追著風",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 108.116,
+      "online_text": "七辣 純情風 保守濛玲瓏",
+      "match_text": "七辣 純情風 保守濛玲瓏",
+      "text": "七辣 純情風 保守濛玲瓏",
+      "spelling": "tshit la sûn-tsîng hong pó-siú bong lîn long",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 112.113,
+      "online_text": "慢步調欸生活迷人",
+      "match_text": "慢步調欸生活迷人",
+      "text": "慢步調欸生活迷人",
+      "spelling": "bān-pōo tiâu ê sing-ua̍h bê-lâng",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 115.11,
+      "online_text": "鑲金欸日子不輸像在作夢",
+      "match_text": "鑲金欸日子不輸像在作夢",
+      "text": "鑲金欸日子不輸像在作夢",
+      "spelling": "khong kim ê li̍t-tsí bē-su tshiūnn teh bîn-bāng",
+      "manual_id": "line-33:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 120.111,
+      "online_text": "追追追 一蕊玫瑰花",
+      "match_text": "追追追 一蕊玫瑰花",
+      "text": "追追追 一蕊玫瑰花",
+      "spelling": "tui tui tui tsi̍t luí muî-kuì-hue",
+      "manual_id": "line-36:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 123.682,
+      "online_text": "日思夜夢 耶嘿 望妳會變我枕邊人",
+      "match_text": "日思夜夢 耶嘿 望妳會變我枕邊人",
+      "text": "日思夜夢 耶嘿 望妳會變我枕邊人",
+      "spelling": "li̍t su iā bāng eh heh bāng lí ē piàn guá tsím pinn lâng",
+      "manual_id": "line-39:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 128.185,
+      "online_text": "追追追 歌舞造浪漫",
+      "match_text": "追追追 歌舞造浪漫",
+      "text": "追追追 歌舞造浪漫",
+      "spelling": "tui tui tui kua wú tsō lōng-bān",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 131.639,
+      "online_text": "低厝暗巷 耶嘿 時代欸秘密就乎恁來猜",
+      "match_text": "低厝暗巷 耶嘿 時代欸秘密就乎恁來猜",
+      "text": "低厝暗巷 耶嘿 時代欸秘密就乎恁來猜",
+      "spelling": "kē tshù àm hāng heh heh sî-tāi ê pì-bi̍t tio̍h hōo lin lâi tshai",
+      "manual_id": "line-45:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 137.089,
+      "online_text": "我說我愛你不會反悔",
+      "match_text": "我說我愛你不會反悔",
+      "text": "我說我愛你不會反悔",
+      "spelling": "guá kóng guá ài lí buē huán-hué",
+      "manual_id": "line-99:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 141.217,
+      "online_text": "我瀟灑但是也很坦白",
+      "match_text": "我瀟灑但是也很坦白",
+      "text": "我瀟灑但是也很坦白",
+      "spelling": "guá phiau-phiat tān-sī mā tsin thán-pi̍k",
+      "manual_id": "line-102:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 145.08,
+      "online_text": "看到你我不會在頭犁犁",
+      "match_text": "看到你我不會在頭犁犁",
+      "text": "看到你我不會在頭犁犁",
+      "spelling": "khuànn-tio̍h lí guá bē koh tsāi thâu lê lê",
+      "manual_id": "line-105:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 148.412,
+      "online_text": "我不會在頭犁犁",
+      "match_text": "我不會在頭犁犁",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 150.615,
+      "online_text": "不會在頭犁犁",
+      "match_text": "不會在頭犁犁",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 152.818,
+      "online_text": "純情欸年代阮拍謝放心內",
+      "match_text": "純情欸年代阮拍謝放心內",
+      "text": "純情欸年代阮拍謝放心內",
+      "spelling": "sûn-tsîng ê nî-tāi guá pháinn-sè khǹg sim-lāi",
+      "manual_id": "line-108:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 156.664,
+      "online_text": "姑娘照過來我不會擱臭奶呆",
+      "match_text": "姑娘照過來我不會擱臭奶呆",
+      "text": "姑娘照過來我不會擱臭奶呆",
+      "spelling": "koo-niû tshiō kuè-lâi guá bē koh tshàu ling tai",
+      "manual_id": "line-111:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 160.667,
+      "online_text": "純情欸年代阮拍謝放心內",
+      "match_text": "純情欸年代阮拍謝放心內",
+      "text": "純情欸年代阮拍謝放心內",
+      "spelling": "sûn-tsîng ê nî-tāi guá pháinn-sè khǹg sim-lāi",
+      "manual_id": "line-108:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 41,
+      "time": 164.635,
+      "online_text": "姑娘照過來我不會擱臭奶呆",
+      "match_text": "姑娘照過來我不會擱臭奶呆",
+      "text": "姑娘照過來我不會擱臭奶呆",
+      "spelling": "koo-niû tshiō kuè-lâi guá bē koh tshàu ling tai",
+      "manual_id": "line-111:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 168.217,
+      "online_text": "黑膠 ラジオ 高尚追著風",
+      "match_text": "黑膠 ラジオ 高尚追著風",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 172.113,
+      "online_text": "七辣 純情風 保守濛玲瓏",
+      "match_text": "七辣 純情風 保守濛玲瓏",
+      "text": "七辣 純情風 保守濛玲瓏",
+      "spelling": "tshit la sûn-tsîng hong pó-siú bong lîn long",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 44,
+      "time": 176.167,
+      "online_text": "慢步調欸生活迷人",
+      "match_text": "慢步調欸生活迷人",
+      "text": "慢步調欸生活迷人",
+      "spelling": "bān-pōo tiâu ê sing-ua̍h bê-lâng",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 45,
+      "time": 179.134,
+      "online_text": "鑲金欸日子不輸是在作夢",
+      "match_text": "鑲金欸日子不輸是在作夢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 184.169,
+      "online_text": "追追追 一蕊玫瑰花",
+      "match_text": "追追追 一蕊玫瑰花",
+      "text": "追追追 一蕊玫瑰花",
+      "spelling": "tui tui tui tsi̍t luí muî-kuì-hue",
+      "manual_id": "line-36:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 47,
+      "time": 187.669,
+      "online_text": "日思夜夢 耶嘿 望妳會變我枕邊人",
+      "match_text": "日思夜夢 耶嘿 望妳會變我枕邊人",
+      "text": "日思夜夢 耶嘿 望妳會變我枕邊人",
+      "spelling": "li̍t su iā bāng eh heh bāng lí ē piàn guá tsím pinn lâng",
+      "manual_id": "line-39:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 48,
+      "time": 192.185,
+      "online_text": "追追追 歌舞造浪漫",
+      "match_text": "追追追 歌舞造浪漫",
+      "text": "追追追 歌舞造浪漫",
+      "spelling": "tui tui tui kua wú tsō lōng-bān",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 49,
+      "time": 195.661,
+      "online_text": "低厝暗巷 耶嘿 時代欸秘密就乎恁來猜",
+      "match_text": "低厝暗巷 耶嘿 時代欸秘密就乎恁來猜",
+      "text": "低厝暗巷 耶嘿 時代欸秘密就乎恁來猜",
+      "spelling": "kē tshù àm hāng heh heh sî-tāi ê pì-bi̍t tio̍h hōo lin lâi tshai",
+      "manual_id": "line-45:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "20c16970074dd2be906640b35bb5825d13a3dc098ad937c4610489d97e4d2cde",
+    "manual": "16b79cad5d6e9781bd6037d36acb0ce9541ff28ade0040aed54683b0dfc3ba44",
+    "timed": "791dca90e8c8ba39e7263b56990cbbe88b58cd33e6613a481b7a71a494577f5c"
+  }
+}

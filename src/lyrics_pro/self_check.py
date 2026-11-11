@@ -1,5 +1,6 @@
 """Offline packaging check. Uses disposable storage, never Music or the network."""
 from importlib.metadata import version
+from importlib.resources import files
 from pathlib import Path
 import platform
 import sqlite3
@@ -8,7 +9,7 @@ from tempfile import TemporaryDirectory
 from .lyrics_cache import LyricsCache, annotation_version
 from .models import Lyrics, LyricLine, Playback
 from .pronunciation import HAN, Romanizer, normalize, choose_language
-from .curated import curated_lyrics, curated_candidates
+from .curated import curated_lyrics, curated_candidates, _recordings
 
 
 def self_check():
@@ -34,6 +35,17 @@ def self_check():
     candidates = curated_candidates(Playback("paused", "少年吔，安啦！", "", "", 413.786))
     if len(candidates) != 1 or candidates[0].reference != curated.recording_id:
         raise RuntimeError("Bundled proofread source discovery failed")
+    all_recordings = _recordings()
+    expected_assets = sum(p.name.endswith(".json") for p in files("lyrics_pro").joinpath("data", "proofread").iterdir())
+    if len(all_recordings) != expected_assets:
+        raise RuntimeError("A bundled proofread asset could not be loaded")
+    if len({r.reference for r in all_recordings}) != len(all_recordings):
+        raise RuntimeError("Duplicate bundled proofread identities")
+    for recording in all_recordings:
+        raw = recording.lyrics
+        language, _ = choose_language("Unknown", "auto", raw)
+        if romanizer.annotate(raw, language) != raw:
+            raise RuntimeError("Bundled supplied spelling was changed")
     with TemporaryDirectory(prefix="lyrics-pro-check-") as temporary:
         cache = LyricsCache(Path(temporary) / "lyrics.sqlite3")
         raw = Lyrics((LyricLine("故鄉", 1),), "self-check", True)
@@ -62,4 +74,5 @@ def self_check():
         "annotation_versions": {language: annotation_version(language) for language in readings},
         "pronunciation": readings,
         "proofread_asset": curated.proofread.asset_id,
+        "proofread_asset_count": len(all_recordings),
     }

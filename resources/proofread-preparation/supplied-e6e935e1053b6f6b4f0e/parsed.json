@@ -1,0 +1,502 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "草屯是阮欸名字",
+      "spelling": "tsháu-tùn sī gún ê miâ-lī",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "阮行為放蕩不羈",
+      "spelling": "gún hîng-uî hòng-tōng put tînn",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "阮作風無法無天",
+      "spelling": "gún tsò-hong bô-huat bô-thinn",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "阮走過每一座欸城市",
+      "spelling": "gún kiânn-kuè muí tsi̍t tsō ê siânn-tshī",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "咱講咱臭屁第二 沒人敢說是第一",
+      "spelling": "lán kóng lán sī tshàu-phuì tē jī bô lâng kám kóng sī tē tsi̍t",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "音樂是我欸地基 沒伊我會死",
+      "spelling": "im-ga̍k sī guá ê tē-ki bô i guá ē sí",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "大聲喊大聲喊 咱叫臭屁嬰仔",
+      "spelling": "tuā-siann huah tuā-siann huah lán kiò tshàu-phuì inn-á",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "臭屁嬰仔爆我欸音樂 全庄頭攏在聽",
+      "spelling": "tshàu-phuì inn-á po̍k guá ê im-ga̍k tsuân tsng-thâu lóng tsāi thiann",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "我欸名排隊都要簽",
+      "spelling": "guá ê miâ pâi-tuī lóng beh tshiam",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "這條路有困難都會過",
+      "spelling": "tsi̍t tiâu lōo ū khùn-lân lóng ē kuè",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "有一天咱會嗆到隨便飛",
+      "spelling": "ū tsi̍t kang lán ē tsa̍k-kàu oo-pe̍h pue",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "沒人敢擋咱面前",
+      "spelling": "bô lâng kám tòng lán bīn-tsîng",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "聽 這臭屁欸聲",
+      "spelling": "thiann tse tshàu-phuì ê siann",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "聽 這臭屁欸歌",
+      "spelling": "thiann tse tshàu-phuì ê kua",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "聽 這臭屁欸人生會變成第一名",
+      "spelling": "thiann tse tshàu-phuì ê lîn-sing ē piàn-sîng tē tsi̍t miâ",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "阮輕狂欸心",
+      "spelling": "gún tshe kông ê sim",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "衝繃燃燒阮欸鬥志",
+      "spelling": "tshiong pòo jiân-sio gún ê tàu-tsì",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "臭屁也有夠氣 頑皮天下無敵",
+      "spelling": "tshàu-phuì mā ū kàu-khuì gām phuê thian-hā put ti̍k",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "囂張天生",
+      "spelling": "hiau-pai thian-sing",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "從沒人比我們糟驚",
+      "spelling": "tsiông bô lâng pí gún tsau jîn",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "阮是老江湖 沒人通阻擋阮欸野性",
+      "spelling": "gún sī láu kang-ôo bô lâng thang tsóo-tòng gún ê iá-sìng",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "臭屁 是阮欸名",
+      "spelling": "tshàu-phuì sī gún ê miâ",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "這一生欸成就阮要拚",
+      "spelling": "tse it-sing ê sing tio̍h gún ài piànn",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "天堂還地獄都要走",
+      "spelling": "thian-tông hîng tē-ga̍k lóng beh kiânn",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "為自己拚跌倒未喊痛",
+      "spelling": "guā ka-kī piànn pua̍h-tó buē huah thiànn",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "多累我攏不講",
+      "spelling": "guā kin guá lóng mài-kóng",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "就算過程擱在痛苦",
+      "spelling": "tio̍h-sǹg kuè-tîng koh tsāi kan-khóo",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "我不後悔 不後悔",
+      "spelling": "guá put hiō-hué put hiō-hué",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "至少面對子孫有故事通講",
+      "spelling": "tsì-tsió bīn-tuì kiánn-sun ū kòo-sū thang-kóng",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "誓言 拚到頭頂去",
+      "spelling": "sè giân piànn-tio̍h thâu-tíng khì",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "就算拚到生命不要",
+      "spelling": "tio̍h-sǹg piànn-tio̍h sìnn-miā mài khì",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "我要學校課本上面",
+      "spelling": "guá beh ha̍k-hāu khò-pún tíng-bīn",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "寫到介紹阮的名字",
+      "spelling": "siá-tio̍h kài-siāu gún ê miâ-jī",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "不期待你我交集",
+      "spelling": "put kî-thāi lí guá kau-tsi̍p",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "我對我音樂交待",
+      "spelling": "guá tuì guá im-ga̍k kau-thāi",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "相信有一日 有一日",
+      "spelling": "siong-sìn ū tsi̍t-ji̍t ū tsi̍t-ji̍t",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "你對阮絕對超愛",
+      "spelling": "lí tuì gún tsua̍t-tuì tshiau ài",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "我想沒人通好阻擋 我廢話也不多說",
+      "spelling": "guá siūnn bô lâng thang-hó tsóo-tòng guá huì-uē iā put-ke kóng",
+      "source_lines": [
+        112,
+        113
+      ]
+    },
+    {
+      "id": "line-115",
+      "text": "我知道恁都說我傻 我表情也感覺普通",
+      "spelling": "guá tsai-iánn lin lóng kóng guá gōng guá piáu-tsîng mā kám-kak phóo-thong",
+      "source_lines": [
+        115,
+        116
+      ]
+    },
+    {
+      "id": "line-118",
+      "text": "草屯現在我為你衝 草屯囝仔恁為我狂",
+      "spelling": "tsháu-tùn tsit-má guá uî lí tshiong tsháu-tùn kín-á lin uî guá kông",
+      "source_lines": [
+        118,
+        119
+      ]
+    },
+    {
+      "id": "line-121",
+      "text": "做伙了解著我欸夢想 垂著胸膛講著咱尚勇",
+      "spelling": "tsò-hué liáu-kái tio̍h guá ê bāng-sióng suê-tio̍h hing-khám kóng-tio̍h lán siōng ióng",
+      "source_lines": [
+        121,
+        122
+      ]
+    },
+    {
+      "id": "line-124",
+      "text": "阮跳將 傳承文化種種 望永古流傳",
+      "spelling": "gún thiàu tsiòng thuân-sîng bûn-huà tsióng-tsióng bāng íng kóo liû-thuân",
+      "source_lines": [
+        124,
+        125
+      ]
+    },
+    {
+      "id": "line-127",
+      "text": "阮照常 研究閩南河洛 歌頌又留戀",
+      "spelling": "gún tsiàu-siông gián-kiù bân-lâm ho̍h-ló kua tshīng iū liû-luân",
+      "source_lines": [
+        127,
+        128
+      ]
+    },
+    {
+      "id": "line-130",
+      "text": "阮以草屯為中心 重新起義 準備慾火重生",
+      "spelling": "gún í tsháu-tùn uî tiong-sim tiông-sin khí-gī tsún-pī io̍k hué tiông-sing",
+      "source_lines": [
+        130,
+        131
+      ]
+    },
+    {
+      "id": "line-133",
+      "text": "管你學生還是武生 臭屁青狂衝要攻天",
+      "spelling": "kuán lí ha̍k-sing ia̍h-sī bú-sing tshàu-phuì tshenn-kông tshiong ài kong thinn",
+      "source_lines": [
+        133,
+        134
+      ]
+    },
+    {
+      "id": "line-136",
+      "text": "我想我已經看到未來欸風景",
+      "spelling": "guá siūnn guá í-king khuànn-tio̍h bī-lâi ê hong-kíng",
+      "source_lines": [
+        136,
+        137
+      ]
+    },
+    {
+      "id": "line-139",
+      "text": "拍謝我跟我兄弟現在準備要來攻頂",
+      "spelling": "pháinn-sè guá kā guá hiann-tī tsit-má tsún-pī ài lâi kong tíng",
+      "source_lines": [
+        139,
+        140
+      ]
+    },
+    {
+      "id": "line-142",
+      "text": "不管遇到什麼困難 咱絕對攏總翻",
+      "spelling": "m̄-kuán tú-tio̍h siánn-mih khùn-lân lán tsua̍t-tuì lóng-tsóng píng",
+      "source_lines": [
+        142,
+        143
+      ]
+    },
+    {
+      "id": "line-145",
+      "text": "除了臭屁是天性還有眼睛也長頭上",
+      "spelling": "tû-liáu tshàu-phuì sī thian-sìng iáu-ū ba̍k-tsiu mā se-thâu tíng",
+      "source_lines": [
+        145,
+        146
+      ]
+    },
+    {
+      "id": "line-148",
+      "text": "放的屁若不是香的 一定要做世界 第一臭",
+      "spelling": "pàng ê phuì ná m̄ sī phang ê it-tīng ài tsuè sè-kài tē tsi̍t tshàu",
+      "source_lines": [
+        148,
+        149
+      ]
+    },
+    {
+      "id": "line-151",
+      "text": "台語唸歌沒得獎過 我們現在放 第一炮",
+      "spelling": "tâi-gí liām kua bô tik tsióng kuè lán tsit-má tsāi pàng tē tsi̍t phàu",
+      "source_lines": [
+        151,
+        152
+      ]
+    },
+    {
+      "id": "line-154",
+      "text": "我知道你看到我說 那個唱歌長得肥肥",
+      "spelling": "guá tsai-iánn lí khuànn-tio̍h guá kóng hit ê tshiùnn-kua seh-tio̍h puî puî",
+      "source_lines": [
+        154,
+        155
+      ]
+    },
+    {
+      "id": "line-157",
+      "text": "啊不來尬看麥 咱比看誰才真正槌槌",
+      "spelling": "ah buē lâi uan khuànn mái lán pí khuànn siáng tsiah tsin-tsiànn thuî-thuî",
+      "source_lines": [
+        157,
+        158
+      ]
+    },
+    {
+      "id": "line-160",
+      "text": "阮輕狂欸心 阮欸鬥志",
+      "spelling": "gún tshe kông ê sim gún ê tàu-tsì",
+      "source_lines": [
+        160,
+        161
+      ]
+    },
+    {
+      "id": "line-163",
+      "text": "囂張天生 天下無敵",
+      "spelling": "hiau-pai thian-sing thian-hā put ti̍k",
+      "source_lines": [
+        163,
+        164
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

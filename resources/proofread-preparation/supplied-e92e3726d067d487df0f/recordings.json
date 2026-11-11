@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 399366485,
+      "title": "分手信",
+      "artists": [
+        "夕阳武士"
+      ],
+      "album": "日出",
+      "duration": 240.5,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

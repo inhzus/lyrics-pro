@@ -1,0 +1,744 @@
+{
+  "candidates": [
+    {
+      "song_id": 1973015091,
+      "title": "一个人",
+      "artists": [
+        "王栎鑫"
+      ],
+      "album": "一个人",
+      "duration": 213.674,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2736307583,
+      "title": "一个人",
+      "artists": [
+        "夏婉安"
+      ],
+      "album": "默认专辑",
+      "duration": 194.095,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 28987167,
+      "title": "一个人",
+      "artists": [
+        "幼稚园杀手"
+      ],
+      "album": "热门华语236",
+      "duration": 209.711,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3388623414,
+      "title": "一个人",
+      "artists": [
+        "黄丽玲"
+      ],
+      "album": "一个人",
+      "duration": 298.322,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 255852,
+      "title": "一个人",
+      "artists": [
+        "林忆莲"
+      ],
+      "album": "呼吸",
+      "duration": 226.36,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 28310085,
+      "title": "一个人",
+      "artists": [
+        "铃凯",
+        "吴青峰"
+      ],
+      "album": "中国好歌曲第一季 总决赛",
+      "duration": 218.014,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 144173,
+      "title": "一个人",
+      "artists": [
+        "任贤齐"
+      ],
+      "album": "一个任贤齐",
+      "duration": 278.466,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 36668004,
+      "title": "一个人",
+      "artists": [
+        "张艺兴"
+      ],
+      "album": "一个人",
+      "duration": 231.366,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3347143755,
+      "title": "一个人",
+      "artists": [
+        "承桓"
+      ],
+      "album": "一个人",
+      "duration": 204.264,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2634365122,
+      "title": "一个人",
+      "artists": [
+        "尹康"
+      ],
+      "album": "0000",
+      "duration": 120.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2004638823,
+      "title": "一个人",
+      "artists": [
+        "XMASwu(吴骜)"
+      ],
+      "album": "一个人",
+      "duration": 142.976,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3364688071,
+      "title": "一个人",
+      "artists": [
+        "心烦"
+      ],
+      "album": "只愿一人生活",
+      "duration": 20.014,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1406648893,
+      "title": "一个人",
+      "artists": [
+        "颜人中"
+      ],
+      "album": "失眠症候群",
+      "duration": 213.956,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1815918804,
+      "title": "一个人",
+      "artists": [
+        "王嘉尔"
+      ],
+      "album": "一个人",
+      "duration": 185.546,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5257070,
+      "title": "一个人",
+      "artists": [
+        "杨乃文",
+        "伍佰"
+      ],
+      "album": "K歌情人雅座",
+      "duration": 279.309,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1857853051,
+      "title": "一个人",
+      "artists": [
+        "叶琼琳"
+      ],
+      "album": "一个人",
+      "duration": 210.447,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 209635,
+      "title": "一个人",
+      "artists": [
+        "蔡依林"
+      ],
+      "album": "特务J",
+      "duration": 281.32,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 109018,
+      "title": "一个人",
+      "artists": [
+        "李宗盛"
+      ],
+      "album": "生命中的精灵",
+      "duration": 228.306,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 316113,
+      "title": "一个人",
+      "artists": [
+        "杨乃文"
+      ],
+      "album": "One",
+      "duration": 281.835,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1334270062,
+      "title": "一个人",
+      "artists": [
+        "樊梓妍"
+      ],
+      "album": "一个人",
+      "duration": 204.998,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2736204341,
+      "title": "一个人",
+      "artists": [
+        "夏婉安"
+      ],
+      "album": "",
+      "duration": 193.88,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1399368108,
+      "title": "一个人",
+      "artists": [
+        "SOG"
+      ],
+      "album": "地郁",
+      "duration": 188.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 400679480,
+      "title": "一个人",
+      "artists": [
+        "韦礼安"
+      ],
+      "album": "硬戳",
+      "duration": 229.826,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "955398050",
+      "title": "一个人",
+      "artists": [
+        "万沙浪"
+      ],
+      "album": "一个人",
+      "duration": 174.907,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "554581084",
+      "title": "一个人",
+      "artists": [
+        "赵传"
+      ],
+      "album": "勇敢一点",
+      "duration": 285.64,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "955398050",
+      "title": "一个人",
+      "artists": [
+        "万沙浪"
+      ],
+      "album": "一个人",
+      "duration": 174.907,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "554581084",
+      "title": "一个人",
+      "artists": [
+        "赵传"
+      ],
+      "album": "勇敢一点",
+      "duration": 285.64,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30175382,
+      "title": "一个人",
+      "artists": [
+        "姜育恒"
+      ],
+      "album": "不朽金曲精选（飞碟唱片G 4509-94370-2）",
+      "duration": 303.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 32529711,
+      "title": "一个人",
+      "artists": [
+        "曹雅雯"
+      ],
+      "album": "感谢",
+      "duration": 199.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 32494166,
+      "title": "一个人",
+      "artists": [
+        "林忆莲"
+      ],
+      "album": "LOVE 国语情歌集",
+      "duration": 226.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 32251764,
+      "title": "一个人",
+      "artists": [
+        "陈奕迅"
+      ],
+      "album": "Eason 18首选-首选陈奕迅",
+      "duration": 223.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31148717,
+      "title": "一个人",
+      "artists": [
+        "姜育恒"
+      ],
+      "album": "多年以后▪再回首",
+      "duration": 305.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31403689,
+      "title": "一个人",
+      "artists": [
+        "姜育恒"
+      ],
+      "album": "不朽金曲精选 I",
+      "duration": 305.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 20234345,
+      "title": "一个人",
+      "artists": [
+        "XMASwu吴骜"
+      ],
+      "album": "一个人",
+      "duration": 142.976,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17528838,
+      "title": "一个人",
+      "artists": [
+        "陈奕迅"
+      ],
+      "album": "18首选 [香港首版]",
+      "duration": 222.52,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17448100,
+      "title": "一个人",
+      "artists": [
+        "张艺兴"
+      ],
+      "album": "一个人",
+      "duration": 231.366531,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18452498,
+      "title": "一个人",
+      "artists": [
+        "姜育恒"
+      ],
+      "album": "不朽金曲精选 I",
+      "duration": 303.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18602053,
+      "title": "一个人",
+      "artists": [
+        "姜育恒"
+      ],
+      "album": "往事回味精选 (disc 2)",
+      "duration": 301.0933329,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18668831,
+      "title": "一个人",
+      "artists": [
+        "K.A."
+      ],
+      "album": "一个人",
+      "duration": 212.6019049,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18686342,
+      "title": "一个人",
+      "artists": [
+        "姜育恒"
+      ],
+      "album": "一个人",
+      "duration": 301.853333,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16565973,
+      "title": "一个人",
+      "artists": [
+        "陈奕迅"
+      ],
+      "album": "Eason 18首选",
+      "duration": 224.22,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17066667,
+      "title": "一个人",
+      "artists": [
+        "陈奕迅"
+      ],
+      "album": "Eason 18首选",
+      "duration": 222.052426,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17311804,
+      "title": "一个人",
+      "artists": [
+        "姜育恒"
+      ],
+      "album": "往事回味精选",
+      "duration": 301.1628119,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 13884616,
+      "title": "一个人",
+      "artists": [
+        "姜育恒"
+      ],
+      "album": "往事回味精选II",
+      "duration": 301.0933329,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 13899575,
+      "title": "一个人",
+      "artists": [
+        "大欢"
+      ],
+      "album": "一个人",
+      "duration": 189.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 25228196,
+      "title": "一个人",
+      "artists": [
+        "韩红"
+      ],
+      "album": "我爱故我在",
+      "duration": 268.956735,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 25019584,
+      "title": "一个人",
+      "artists": [
+        "姜育恒"
+      ],
+      "album": "不朽金曲精选I",
+      "duration": 303.1248979,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 9261087,
+      "title": "一個人",
+      "artists": [
+        "蔡依林"
+      ],
+      "album": "特務J",
+      "duration": 281.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 9261090,
+      "title": "一個人",
+      "artists": [
+        "陳零九+熊仔"
+      ],
+      "album": "情歌",
+      "duration": 212.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 9261092,
+      "title": "一個人",
+      "artists": [
+        "韋禮安"
+      ],
+      "album": "硬戳",
+      "duration": 230.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 9261082,
+      "title": "一個人",
+      "artists": [
+        "潘瑋柏"
+      ],
+      "album": "王者丑生",
+      "duration": 241.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30611278,
+      "title": "一個人",
+      "artists": [
+        "Will Pan"
+      ],
+      "album": "Crown & Clown",
+      "duration": 241.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30465074,
+      "title": "一個人",
+      "artists": [
+        "林子祥"
+      ],
+      "album": "細味．城市民歌 Disk 3",
+      "duration": 152.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30131429,
+      "title": "一個人",
+      "artists": [
+        "林子祥"
+      ],
+      "album": "《林子祥經典金曲101》CD1",
+      "duration": 150.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29848832,
+      "title": "一個人",
+      "artists": [
+        "林子祥"
+      ],
+      "album": "Lamusique Vintage",
+      "duration": 152.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30177590,
+      "title": "一個人",
+      "artists": [
+        "楊乃文"
+      ],
+      "album": "ONE",
+      "duration": 80.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30177917,
+      "title": "一個人",
+      "artists": [
+        "楊乃文"
+      ],
+      "album": "ONE",
+      "duration": 281.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31613052,
+      "title": "一個人",
+      "artists": [
+        "林子祥"
+      ],
+      "album": "亞 LAM 20 首",
+      "duration": 150.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31576080,
+      "title": "一個人",
+      "artists": [
+        "林子祥"
+      ],
+      "album": "38年音樂習作",
+      "duration": 150.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 19816143,
+      "title": "一個人",
+      "artists": [
+        "林子祥"
+      ],
+      "album": "亞Lam 20首",
+      "duration": 150.845075,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18164337,
+      "title": "一個人",
+      "artists": [
+        "陳珊妮"
+      ],
+      "album": "低調人生",
+      "duration": 280.36,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 21170755,
+      "title": "一個人",
+      "artists": [
+        "李宗盛"
+      ],
+      "album": "「既然青春留不住-還是做個大叔好」演唱會巡迴影音紀錄 LIVE",
+      "duration": 240.781791,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 19100596,
+      "title": "一個人",
+      "artists": [
+        "劉德華"
+      ],
+      "album": "再說一次 . 我愛你",
+      "duration": 264.493333,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17464256,
+      "title": "一個人",
+      "artists": [
+        "劉德華"
+      ],
+      "album": "再說一次，我愛你",
+      "duration": 264.469042,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17542339,
+      "title": "一個人",
+      "artists": [
+        "林子祥"
+      ],
+      "album": "林子祥歌集",
+      "duration": 149.72,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17429846,
+      "title": "一個人",
+      "artists": [
+        "蔡依林"
+      ],
+      "album": "J世紀Jeneration 大牌新曲+精選盤 2006-2009",
+      "duration": 281.16059,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17372767,
+      "title": "一個人",
+      "artists": [
+        "杨乃文"
+      ],
+      "album": "One",
+      "duration": 280.692993,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

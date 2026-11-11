@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "song_id": "1444711770",
+    "title": "祝福",
+    "artists": [
+      "江蕙"
+    ],
+    "album": "爱着啊",
+    "duration": 249.0,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1444711770",
+      "duration": 249.0,
+      "ready": false,
+      "coverage": 0.75,
+      "exact_fraction": 0.75,
+      "summary": {
+        "exact": 4,
+        "repeat": 14,
+        "unresolved": 6
+      }
+    }
+  ]
+}

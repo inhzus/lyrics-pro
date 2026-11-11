@@ -1,0 +1,353 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "人生的風景                             親像大海的風湧 hong-íng",
+      "spelling": "lîn-sing ê kong-kíng            tshin-tshiūnn tuā-hái ê",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "人生的風景",
+          "spelling": "lîn-sing ê kong-kíng"
+        },
+        {
+          "text": "親像大海的風湧 hong-íng",
+          "spelling": "tshin-tshiūnn tuā-hái ê"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "有時猛有時平                      親愛朋友你著小心",
+      "spelling": "ū sî bíng ū sî pînn            tshin ài pîng-iú lí tio̍h sió-sim",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "有時猛有時平",
+          "spelling": "ū sî bíng ū sî pînn"
+        },
+        {
+          "text": "親愛朋友你著小心",
+          "spelling": "tshin ài pîng-iú lí tio̍h sió-sim"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "人生的環境                               乞食嘛會出頭天",
+      "spelling": "lîn-sing ê khuân-kíng            khit tsia̍h mah ē tshut-thâu thinn",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "人生的環境",
+          "spelling": "lîn-sing ê khuân-kíng"
+        },
+        {
+          "text": "乞食嘛會出頭天",
+          "spelling": "khit tsia̍h mah ē tshut-thâu thinn"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "莫怨天莫尤人                              命順命歹攏是一生",
+      "spelling": "bo̍h uàn-thinn bo̍h iû jîn        miā sūn miā phái lóng sī it-sing",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "莫怨天莫尤人",
+          "spelling": "bo̍h uàn-thinn bo̍h iû jîn"
+        },
+        {
+          "text": "命順命歹攏是一生",
+          "spelling": "miā sūn miā phái lóng sī it-sing"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "一杯酒二角銀                             三不五時嘛來湊陣",
+      "spelling": "tsi̍t pue tsiú nn̄g kak gîn        sann put gōo sî mah lâi tàu tīn",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "一杯酒二角銀",
+          "spelling": "tsi̍t pue tsiú nn̄g kak gîn"
+        },
+        {
+          "text": "三不五時嘛來湊陣",
+          "spelling": "sann put gōo sî mah lâi tàu tīn"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "若要講搏感情                                      我是世界第一等",
+      "spelling": "nā-beh kóng phok kám-tsîng        guá sī sè-kài tē i̍t tíng",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "若要講搏感情",
+          "spelling": "nā-beh kóng phok kám-tsîng"
+        },
+        {
+          "text": "我是世界第一等",
+          "spelling": "guá sī sè-kài tē i̍t tíng"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "是緣份是註定                           好漢剖腹來參見",
+      "spelling": "sī iân-hūn sī tsù-tīng            hó-hàn phuà-pak lâi sann kìnn",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "是緣份是註定",
+          "spelling": "sī iân-hūn sī tsù-tīng"
+        },
+        {
+          "text": "好漢剖腹來參見",
+          "spelling": "hó-hàn phuà-pak lâi sann kìnn"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "嘸驚風嘸驚湧                                  有情有義好兄弟",
+      "spelling": "m̄-kiann hong m̄-kiann íng        ū tsîng ū gī hó hiann-tī",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "嘸驚風嘸驚湧",
+          "spelling": "m̄-kiann hong m̄-kiann íng"
+        },
+        {
+          "text": "有情有義好兄弟",
+          "spelling": "ū tsîng ū gī hó hiann-tī"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "短短仔的光陰                   七逃著趁少年時",
+      "spelling": "té té á ê kong-im            tshit tô tio̍h thàn siàu-liân sî",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "短短仔的光陰",
+          "spelling": "té té á ê kong-im"
+        },
+        {
+          "text": "七逃著趁少年時",
+          "spelling": "tshit tô tio̍h thàn siàu-liân sî"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "求名利無了時                        千金難買好人生",
+      "spelling": "kiû bîng-lī bô liáu sî            tshian-kim lân bé hó lâng sing",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "求名利無了時",
+          "spelling": "kiû bîng-lī bô liáu sî"
+        },
+        {
+          "text": "千金難買好人生",
+          "spelling": "tshian-kim lân bé hó lâng sing"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "一杯酒二角銀                            三不五時嘛來湊陣",
+      "spelling": "tsi̍t pue tsiú nn̄g kak gîn        sann put gōo sî mah lâi tàu tīn",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "一杯酒二角銀",
+          "spelling": "tsi̍t pue tsiú nn̄g kak gîn"
+        },
+        {
+          "text": "三不五時嘛來湊陣",
+          "spelling": "sann put gōo sî mah lâi tàu tīn"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "若要講搏感情                                      我是世界的第一等",
+      "spelling": "nā-beh kóng phok kám-tsîng        guá sī sè-kài tē i̍t tíng",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "若要講搏感情",
+          "spelling": "nā-beh kóng phok kám-tsîng"
+        },
+        {
+          "text": "我是世界的第一等",
+          "spelling": "guá sī sè-kài tē i̍t tíng"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "是緣份是註定                           好漢剖腹來參見",
+      "spelling": "sī iân-hūn sī tsù-tīng            hó-hàn phuà-pak lâi sann kìnn",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "是緣份是註定",
+          "spelling": "sī iân-hūn sī tsù-tīng"
+        },
+        {
+          "text": "好漢剖腹來參見",
+          "spelling": "hó-hàn phuà-pak lâi sann kìnn"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "無驚風無驚湧                                  有情有義好兄弟",
+      "spelling": "m̄-kiann hong m̄-kiann íng        ū tsîng ū gī hó hiann-tī",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "無驚風無驚湧",
+          "spelling": "m̄-kiann hong m̄-kiann íng"
+        },
+        {
+          "text": "有情有義好兄弟",
+          "spelling": "ū tsîng ū gī hó hiann-tī"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "短短仔的光陰                   七逃著趁少年時",
+      "spelling": "té té á ê kong-im            tshit tô tio̍h thàn siàu-liân sî",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "短短仔的光陰",
+          "spelling": "té té á ê kong-im"
+        },
+        {
+          "text": "七逃著趁少年時",
+          "spelling": "tshit tô tio̍h thàn siàu-liân sî"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "求名利無了時                         千金難買好人生",
+      "spelling": "kiû bîng-lī bô liáu sî            tshian-kim lân bé hó lâng sing",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "求名利無了時",
+          "spelling": "kiû bîng-lī bô liáu sî"
+        },
+        {
+          "text": "千金難買好人生",
+          "spelling": "tshian-kim lân bé hó lâng sing"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "求名利無了時                         千金難買好人生",
+      "spelling": "kiû bîng-lī bô liáu sî            tshian-kim lân bé hó lâng sing",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "求名利無了時",
+          "spelling": "kiû bîng-lī bô liáu sî"
+        },
+        {
+          "text": "千金難買好人生",
+          "spelling": "tshian-kim lân bé hó lâng sing"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "叭叭叭………叭叭啦叭啦叭",
+      "spelling": "pa pa pa………pa pa lah pa lah pa",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "叭叭叭………叭叭啦叭啦叭",
+      "spelling": "pa pa pa………pa pa lah pa lah pa",
+      "source_lines": [
+        57,
+        58
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：李安修/陳富榮   作曲：伍佰  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

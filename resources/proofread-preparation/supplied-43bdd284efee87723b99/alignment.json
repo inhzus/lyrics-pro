@@ -1,0 +1,480 @@
+{
+  "recording_id": "netease:69179",
+  "timing_source": "NetEase https://music.163.com/song?id=69179",
+  "manual_source": "User-supplied resources/lyrics-spelling/人在江湖-陳雷",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 16,
+    "gap": 8,
+    "repeat": 11
+  },
+  "review_row_count": 16,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-4:0",
+    "line-28:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 郭政和",
+      "match_text": "作词 : 郭政和",
+      "text": "作词 : 郭政和",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 郭政和",
+      "match_text": "作曲 : 郭政和",
+      "text": "作曲 : 郭政和",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 20.6,
+      "online_text": "心爱的",
+      "match_text": "心爱的",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 24.34,
+      "online_text": "一声再会",
+      "match_text": "一声再会",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 28.87,
+      "online_text": "只有梦中会当甲你做伙",
+      "match_text": "只有梦中会当甲你做伙",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 37.83,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 6,
+      "time": 38.7,
+      "online_text": "随风飞",
+      "match_text": "随风飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 41.87,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 8,
+      "time": 42.46,
+      "online_text": "亲像飘雪",
+      "match_text": "亲像飘雪",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 46.94,
+      "online_text": "流浪天涯",
+      "match_text": "流浪天涯",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 51.19,
+      "online_text": "期待早日相会",
+      "match_text": "期待早日相会",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 55.72,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 12,
+      "time": 56.47,
+      "online_text": "人在江湖",
+      "match_text": "人在江湖",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 60.3,
+      "online_text": "为你受风受雨",
+      "match_text": "为你受风受雨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 65.16,
+      "online_text": "情无退路",
+      "match_text": "情无退路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 69.27,
+      "online_text": "甘愿为你奔波",
+      "match_text": "甘愿为你奔波",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 74.43,
+      "online_text": "人在江湖",
+      "match_text": "人在江湖",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 78.52,
+      "online_text": "爱你亲像当初",
+      "match_text": "爱你亲像当初",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 83.25,
+      "online_text": "情无法度",
+      "match_text": "情无法度",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 87.41,
+      "online_text": "袂当一兼二顾",
+      "match_text": "袂当一兼二顾",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 94.14,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 21,
+      "time": 113.42,
+      "online_text": "心爱的一声再会",
+      "match_text": "心爱的一声再会",
+      "text": "心愛的　一聲再會",
+      "spelling": "sim-ài ê tsi̍t siann tsài-huē",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 121.7,
+      "online_text": "只有梦中会当甲你做伙",
+      "match_text": "只有梦中会当甲你做伙",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 130.69,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 24,
+      "time": 131.56,
+      "online_text": "随风飞亲像飘雪",
+      "match_text": "随风飞亲像飘雪",
+      "text": "隨風飛　親像飄雪",
+      "spelling": "suî-hong pue tshin-tshiūnn phiau seh",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 139.75,
+      "online_text": "流浪天涯期待早日相会",
+      "match_text": "流浪天涯期待早日相会",
+      "text": "流浪天涯　期待早日相會",
+      "spelling": "liû-lōng thian-gâi kî-thāi tsá-li̍t siong-huē",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 148.66,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 27,
+      "time": 149.2,
+      "online_text": "人在江湖为你受风受雨",
+      "match_text": "人在江湖为你受风受雨",
+      "text": "人在江湖　為你受風受雨",
+      "spelling": "lîn tsāi kang-ôo uî lí siū-hong siū-hōo",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 157.3,
+      "online_text": "情无退路甘愿为你奔波",
+      "match_text": "情无退路甘愿为你奔波",
+      "text": "情無退路　甘願為你奔波",
+      "spelling": "tsîng bô thuè-lōo kam-guān uî lí phun-pho",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 166.8,
+      "online_text": "人在江湖爱你亲像当初",
+      "match_text": "人在江湖爱你亲像当初",
+      "text": "人在江湖　愛你親像當初",
+      "spelling": "lîn tsāi kang-ôo ài lí tshin-tshiūnn tong-tshoo",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 175.1,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 31,
+      "time": 175.85,
+      "online_text": "情无法度袂当一兼二顾",
+      "match_text": "情无法度袂当一兼二顾",
+      "text": "情無法度　袂當一兼二顧",
+      "spelling": "tsîng bô-huat-tōo buē-tang i̍t kiam lī kòo",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 185.41,
+      "online_text": "人在江湖为你受风受雨",
+      "match_text": "人在江湖为你受风受雨",
+      "text": "人在江湖　為你受風受雨",
+      "spelling": "lîn tsāi kang-ôo uî lí siū-hong siū-hōo",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 193.82,
+      "online_text": "情无退路甘愿为你奔波",
+      "match_text": "情无退路甘愿为你奔波",
+      "text": "情無退路　甘願為你奔波",
+      "spelling": "tsîng bô thuè-lōo kam-guān uî lí phun-pho",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 202.36,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 35,
+      "time": 203.6,
+      "online_text": "人在江湖爱你亲像当初",
+      "match_text": "人在江湖爱你亲像当初",
+      "text": "人在江湖　愛你親像當初",
+      "spelling": "lîn tsāi kang-ôo ài lí tshin-tshiūnn tong-tshoo",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 212.9,
+      "online_text": "情无法度袂当一兼二顾",
+      "match_text": "情无法度袂当一兼二顾",
+      "text": "情無法度　袂當一兼二顧",
+      "spelling": "tsîng bô-huat-tōo buē-tang i̍t kiam lī kòo",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "d036d55056b445a53e2ffaf99dc5f9aad46c44b03ef1b7f2acbe9c729efb2845",
+    "manual": "c96ae6698a3c96ac2671352092fe6a6a63969cc72667b4ba47de49e5fc2e7faa",
+    "timed": "29d8b46854e812ce6e332d459002c217fd7f6c27a63f23cfd6f74f31f47fb93b"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "candidates": [
+    {
+      "song_id": 2106689484,
+      "title": "漂流",
+      "artists": [
+        "许明明"
+      ],
+      "album": "代餐 Taste of Love",
+      "duration": 229.347,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1397665609,
+      "title": "漂流",
+      "artists": [
+        "菅原纱由理（THE SxPLAY）"
+      ],
+      "album": "漂流",
+      "duration": 269.265,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 467136011,
+      "title": "漂流",
+      "artists": [
+        "马英伦"
+      ],
+      "album": "关于科子帮",
+      "duration": 210.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2075835083,
+      "title": "漂流",
+      "artists": [
+        "NaCho"
+      ],
+      "album": "漂流",
+      "duration": 145.6,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1329720019,
+      "title": "漂流",
+      "artists": [
+        "张碧晨"
+      ],
+      "album": "时",
+      "duration": 265.324,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3327557535,
+      "title": "漂流",
+      "artists": [
+        "KIVΛ",
+        "菅原纱由理（THE SxPLAY）"
+      ],
+      "album": "MKI - 20",
+      "duration": 196.214,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3446365699,
+      "title": "漂流",
+      "artists": [
+        "琶舞"
+      ],
+      "album": "LOVELESS",
+      "duration": 184.07,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "956393724",
+      "title": "漂流",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "也兽",
+      "duration": 123.6,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1514998953",
+      "title": "漂流",
+      "artists": [
+        "高橋洋祐"
+      ],
+      "album": "ひととせ - EP",
+      "duration": 287.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1536460715",
+      "title": "漂流",
+      "artists": [
+        "Sid"
+      ],
+      "album": "SID ALL SINGLES BEST",
+      "duration": 271.147,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1720866159",
+      "title": "漂流",
+      "artists": [
+        "许明明"
+      ],
+      "album": "Taste of Love",
+      "duration": 229.347,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1586083343",
+      "title": "漂流",
+      "artists": [
+        "艾诗雨Sherry"
+      ],
+      "album": "漂流 (漫画《欺星客栈》第二季概念主题曲) - Single",
+      "duration": 244.155,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1483552196",
+      "title": "漂流",
+      "artists": [
+        "ヌミャーン(三味線漫画奏者)"
+      ],
+      "album": "ヌミャーンオリジナル曲集(No.69)",
+      "duration": 175.751,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1562832636",
+      "title": "漂流",
+      "artists": [
+        "山狗大后生乐团"
+      ],
+      "album": "老屋。花园",
+      "duration": 227.642,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1671925979",
+      "title": "漂流",
+      "artists": [
+        "陈泫孝(大泫)"
+      ],
+      "album": "漂流 - Single",
+      "duration": 257.391,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": [
+    {
+      "provider": "lrclib",
+      "error": "LRCLIB network request failed: curl: (28) SSL connection timeout",
+      "retryable": true
+    }
+  ]
+}

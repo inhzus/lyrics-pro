@@ -1,0 +1,457 @@
+{
+  "recording_id": "netease:70100",
+  "timing_source": "NetEase https://music.163.com/song?id=70100",
+  "manual_source": "User-supplied resources/lyrics-spelling/歡喜就好-陳雷",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "repeat": 25,
+    "unresolved": 7,
+    "gap": 1
+  },
+  "review_row_count": 7,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-4:0",
+    "line-19:0",
+    "line-40:0",
+    "line-55:0",
+    "line-79:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 吴嘉祥",
+      "match_text": "作词 : 吴嘉祥",
+      "text": "作词 : 吴嘉祥",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 吴嘉祥",
+      "match_text": "作曲 : 吴嘉祥",
+      "text": "作曲 : 吴嘉祥",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 26.999,
+      "online_text": "人生海海 甘需要拢了解",
+      "match_text": "人生海海 甘需要拢了解",
+      "text": "人生海海 甘需要攏了解",
+      "spelling": "lîn-sing hái hái   kam su-iàu lóng liáu-kái",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 29.91,
+      "online_text": "有时仔清醒 有时轻彩",
+      "match_text": "有时仔清醒 有时轻彩",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 33.299,
+      "online_text": "有人讲好 一定有人讲歹",
+      "match_text": "有人讲好 一定有人讲歹",
+      "text": "有人講好 一定有人講歹",
+      "spelling": "ū-lâng kóng hònn it-tīng ū lâng kóng pháinn",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 37.289,
+      "online_text": "若麦想吓多 咱生活卡自在",
+      "match_text": "若麦想吓多 咱生活卡自在",
+      "text": "若麥想嚇多 咱生活卡自在",
+      "spelling": "ná mái siūnn hiah tsuē  lán sing-ua̍h khah tsū-tsāi",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 40.959,
+      "online_text": "归工嫌车无够叭嫌厝无够大",
+      "match_text": "归工嫌车无够叭嫌厝无够大",
+      "text": "歸工嫌車無夠叭 嫌厝無夠大",
+      "spelling": "kui-kang hiâm tshia bô kàu pa  hiâm tshù bô kàu tuā",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 45.399,
+      "online_text": "嫌菜煮了无好吃 嫌某尚歹看",
+      "match_text": "嫌菜煮了无好吃 嫌某尚歹看",
+      "text": "嫌菜煮了無好吃 嫌某尚歹看",
+      "spelling": "hiâm tshài tsú liáu bô hònn tsia̍h  hiâm bóo siūnn pháinn khuànn",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 48.999,
+      "online_text": "驶到好车怕人偷 大厝歹拼扫",
+      "match_text": "驶到好车怕人偷 大厝歹拼扫",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 52.379,
+      "online_text": "吃甲尚好怕血压高 美某会兑人跑",
+      "match_text": "吃甲尚好怕血压高 美某会兑人跑",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 56.769,
+      "online_text": "人生短短 好像在七逃",
+      "match_text": "人生短短 好像在七逃",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 61.299,
+      "online_text": "有时仔烦恼 有时轻可",
+      "match_text": "有时仔烦恼 有时轻可",
+      "text": "有時仔煩惱 有時輕可",
+      "spelling": "ū-sî á huân-ló  ū-sî khin-khó",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 65.209,
+      "online_text": "问我到底 腹内有啥法宝",
+      "match_text": "问我到底 腹内有啥法宝",
+      "text": "問我到底 腹內有啥法寶",
+      "spelling": "mn̄g guá tàu-to  pak-lāi ū siánn huat-pó",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 69.249,
+      "online_text": "其实无撇步欢喜就好",
+      "match_text": "其实无撇步欢喜就好",
+      "text": "其實無撇步 歡喜就好",
+      "spelling": "kî-si̍t bô phiat-pōo  huann-hí tio̍h hònn",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 88.899,
+      "online_text": "人生海海 甘需要拢了解",
+      "match_text": "人生海海 甘需要拢了解",
+      "text": "人生海海 甘需要攏了解",
+      "spelling": "lîn-sing hái hái   kam su-iàu lóng liáu-kái",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 93.289,
+      "online_text": "有时仔清醒 有时轻彩",
+      "match_text": "有时仔清醒 有时轻彩",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 97.249,
+      "online_text": "有人讲好 一定有人讲歹",
+      "match_text": "有人讲好 一定有人讲歹",
+      "text": "有人講好 一定有人講歹",
+      "spelling": "ū-lâng kóng hònn it-tīng ū lâng kóng pháinn",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 101.229,
+      "online_text": "若麦想吓多咱生活卡自在",
+      "match_text": "若麦想吓多咱生活卡自在",
+      "text": "若麥想嚇多 咱生活卡自在",
+      "spelling": "ná mái siūnn hiah tsuē  lán sing-ua̍h khah tsū-tsāi",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 104.999,
+      "online_text": "归工嫌车无够叭嫌厝无够大",
+      "match_text": "归工嫌车无够叭嫌厝无够大",
+      "text": "歸工嫌車無夠叭 嫌厝無夠大",
+      "spelling": "kui-kang hiâm tshia bô kàu pa  hiâm tshù bô kàu tuā",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 108.929,
+      "online_text": "嫌菜煮了无好吃 嫌某尚歹看",
+      "match_text": "嫌菜煮了无好吃 嫌某尚歹看",
+      "text": "嫌菜煮了無好吃 嫌某尚歹看",
+      "spelling": "hiâm tshài tsú liáu bô hònn tsia̍h  hiâm bóo siūnn pháinn khuànn",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 112.999,
+      "online_text": "驶到好车怕人偷 大厝歹拼扫",
+      "match_text": "驶到好车怕人偷 大厝歹拼扫",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 116.729,
+      "online_text": "吃甲尚好惊血压高 美某会兑人走",
+      "match_text": "吃甲尚好惊血压高 美某会兑人走",
+      "text": "吃甲尚好驚血壓高美某會兌人走",
+      "spelling": "tsia̍h kah siūnn hònn kiann xiěyā gāo suí bóo ē tē lâng tsáu",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 120.778,
+      "online_text": "人生短短 好亲像块七逃",
+      "match_text": "人生短短 好亲像块七逃",
+      "text": "人生短短 好親像塊七逃",
+      "spelling": "lîn-sing to to  hònn tshin-tshiūnn tè tshit tô",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 125.019,
+      "online_text": "有时仔烦恼 有时轻可",
+      "match_text": "有时仔烦恼 有时轻可",
+      "text": "有時仔煩惱 有時輕可",
+      "spelling": "ū-sî á huân-ló  ū-sî khin-khó",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 129.19,
+      "online_text": "问我到底 腹内有啥法宝",
+      "match_text": "问我到底 腹内有啥法宝",
+      "text": "問我到底 腹內有啥法寶",
+      "spelling": "mn̄g guá tàu-to  pak-lāi ū siánn huat-pó",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 133.179,
+      "online_text": "其实无撇步欢喜就好",
+      "match_text": "其实无撇步欢喜就好",
+      "text": "其實無撇步 歡喜就好",
+      "spelling": "kî-si̍t bô phiat-pōo  huann-hí tio̍h hònn",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 154.689,
+      "online_text": "归工嫌车无够叭嫌厝无够大",
+      "match_text": "归工嫌车无够叭嫌厝无够大",
+      "text": "歸工嫌車無夠叭 嫌厝無夠大",
+      "spelling": "kui-kang hiâm tshia bô kàu pa  hiâm tshù bô kàu tuā",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 159.79,
+      "online_text": "嫌菜煮了无好吃 嫌某尚歹看",
+      "match_text": "嫌菜煮了无好吃 嫌某尚歹看",
+      "text": "嫌菜煮了無好吃 嫌某尚歹看",
+      "spelling": "hiâm tshài tsú liáu bô hònn tsia̍h  hiâm bóo siūnn pháinn khuànn",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 163.209,
+      "online_text": "驶到好车怕人偷 大厝歹拼扫",
+      "match_text": "驶到好车怕人偷 大厝歹拼扫",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 166.369,
+      "online_text": "吃甲尚好惊血压高 美某会兑人走",
+      "match_text": "吃甲尚好惊血压高 美某会兑人走",
+      "text": "吃甲尚好驚血壓高美某會兌人走",
+      "spelling": "tsia̍h kah siūnn hònn kiann xiěyā gāo suí bóo ē tē lâng tsáu",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 171.309,
+      "online_text": "人生短短 好亲像块七逃",
+      "match_text": "人生短短 好亲像块七逃",
+      "text": "人生短短 好親像塊七逃",
+      "spelling": "lîn-sing to to  hònn tshin-tshiūnn tè tshit tô",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 175.269,
+      "online_text": "有时仔烦恼 有时轻可",
+      "match_text": "有时仔烦恼 有时轻可",
+      "text": "有時仔煩惱 有時輕可",
+      "spelling": "ū-sî á huân-ló  ū-sî khin-khó",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 179.289,
+      "online_text": "问我到底 腹内有啥法宝",
+      "match_text": "问我到底 腹内有啥法宝",
+      "text": "問我到底 腹內有啥法寶",
+      "spelling": "mn̄g guá tàu-to  pak-lāi ū siánn huat-pó",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 183.279,
+      "online_text": "其实无撇步欢喜就好",
+      "match_text": "其实无撇步欢喜就好",
+      "text": "其實無撇步 歡喜就好",
+      "spelling": "kî-si̍t bô phiat-pōo  huann-hí tio̍h hònn",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 189.09,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "e9486657e3724d1c3ff3fae1b4e7728637b078e18dbf2a8c3d31b1cd7ea7a29c",
+    "manual": "f5d20883cd2fede10105985450629a70e4961331f62d7c087feda4b49d7d5b1a",
+    "timed": "22b3df0d3f2669ad62e3f2159e24c25e68c5291d8a56c1076118013faede8299"
+  }
+}

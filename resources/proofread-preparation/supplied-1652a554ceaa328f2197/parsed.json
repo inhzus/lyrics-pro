@@ -1,0 +1,277 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "流浪的吉他聲響起　心愛的人妳置咧叨位",
+      "spelling": "liû-lōng ê gì-tà siann hiáng-khí sim-ài ê lâng lí tì te tó-uī",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "海角天邊奈找無妳　輕輕叫著妳的名字",
+      "spelling": "hái-kak thinn-pinn nāi tshuē bô lí khin-khin kiò-tio̍h lí ê miâ-lī",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "眼淚滴滴　枉費我堂堂的男兒",
+      "spelling": "ba̍k-sái tih tih óng-huì guá tông-tông ê lâm-jî",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "雖然註定要拆分開　未凍將妳甲放未記",
+      "spelling": "sui-liân tsù-tiānn ài thiah hun-khui buē-tàng tsiòng lí kah pàng buē kì",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "一生為愛情來吃虧　一生被痴情來拖累",
+      "spelling": "it-sing uî ài-tsîng lâi tsia̍h-khui it-sing pī tshi-tsîng lâi thua-luī",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "飄來飄去　暗暝傷心的城市",
+      "spelling": "phiau lâi phiau khì àm-mî siong-sim ê siânn-tshī",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "心茫茫　醉茫茫　夢醒變成空",
+      "spelling": "sim bâng-bâng tsuì bâng-bâng bāng tshínn piàn-sîng khang",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "三冬前的琉球港　怎樣等無人",
+      "spelling": "sann tang tsiân ê liû-kiû káng tsuánn-iūnn tán bô-lâng",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "怎樣看破將妳放",
+      "spelling": "tsuánn-iūnn khuànn-phuà tsiòng lí pàng",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "心茫茫　醉茫茫　命運來捉弄",
+      "spelling": "sim bâng-bâng tsuì bâng-bâng miā-ūn lâi tshòng-tī",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "冷風吹過的心　冷風吹過的心",
+      "spelling": "líng-hong tshue-kuè ê sim líng-hong tshue-kuè ê sim",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "卡想也是妳　寂寞誰人來安慰",
+      "spelling": "khá siūnn iā-sī lí siok-bo̍k siánn-lâng lâi an-uì",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "流浪的吉他聲響起　心愛的人妳置咧叨位",
+      "spelling": "liû-lōng ê gì-tà siann hiáng-khí sim-ài ê lâng lí tì te tó-uī",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "海角天邊奈找無妳　輕輕叫著妳的名字",
+      "spelling": "hái-kak thinn-pinn nāi tshuē bô lí khin-khin kiò-tio̍h lí ê miâ-lī",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "眼淚滴滴　枉費我堂堂的男兒",
+      "spelling": "ba̍k-sái tih tih óng-huì guá tông-tông ê lâm-jî",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "雖然註定要拆分開　未凍將妳甲放未記",
+      "spelling": "sui-liân tsù-tiānn ài thiah hun-khui buē-tàng tsiòng lí kah pàng buē kì",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "一生為愛情來吃虧　一生被痴情來拖累",
+      "spelling": "it-sing uî ài-tsîng lâi tsia̍h-khui it-sing pī tshi-tsîng lâi thua-luī",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "飄來飄去　暗暝傷心的城市",
+      "spelling": "phiau lâi phiau khì àm-mî siong-sim ê siânn-tshī",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "心茫茫　醉茫茫　夢醒變成空",
+      "spelling": "sim bâng-bâng tsuì bâng-bâng bāng tshínn piàn-sîng khang",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "三冬前的琉球港　怎樣等無人",
+      "spelling": "sann tang tsiân ê liû-kiû káng tsuánn-iūnn tán bô-lâng",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "怎樣看破將妳放",
+      "spelling": "tsuánn-iūnn khuànn-phuà tsiòng lí pàng",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "心茫茫　醉茫茫　命運來捉弄",
+      "spelling": "sim bâng-bâng tsuì bâng-bâng miā-ūn lâi tshòng-tī",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "冷風吹過的心　冷風吹過的心",
+      "spelling": "líng-hong tshue-kuè ê sim líng-hong tshue-kuè ê sim",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "卡想也是妳　寂寞誰人來安慰",
+      "spelling": "khá siūnn iā-sī lí siok-bo̍k siánn-lâng lâi an-uì",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "心茫茫　醉茫茫　夢醒變成空",
+      "spelling": "sim bâng-bâng tsuì bâng-bâng bāng tshínn piàn-sîng khang",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "三冬前的琉球港　怎樣等無人",
+      "spelling": "sann tang tsiân ê liû-kiû káng tsuánn-iūnn tán bô-lâng",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "怎樣看破將妳放",
+      "spelling": "tsuánn-iūnn khuànn-phuà tsiòng lí pàng",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "心茫茫　醉茫茫　命運來捉弄",
+      "spelling": "sim bâng-bâng tsuì bâng-bâng miā-ūn lâi tshòng-tī",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "冷風吹過的心　冷風吹過的心",
+      "spelling": "líng-hong tshue-kuè ê sim líng-hong tshue-kuè ê sim",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "卡想也是妳　寂寞誰人來安慰",
+      "spelling": "khá siūnn iā-sī lí siok-bo̍k siánn-lâng lâi an-uì",
+      "source_lines": [
+        88,
+        89
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

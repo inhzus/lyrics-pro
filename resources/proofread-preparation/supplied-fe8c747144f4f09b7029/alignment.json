@@ -1,0 +1,856 @@
+{
+  "recording_id": "lrclib:14734574",
+  "timing_source": "LRCLIB https://lrclib.net/api/get/14734574",
+  "manual_source": "User-supplied resources/lyrics-spelling/扛壩子-草屯囝仔",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "exact": 26,
+    "repeat": 36,
+    "unresolved": 1,
+    "gap": 1
+  },
+  "review_row_count": 27,
+  "unmatched_manual_ids": [
+    "line-67:0"
+  ],
+  "unused_repeat_ids": [
+    "line-190:0",
+    "line-193:0",
+    "line-196:0",
+    "line-199:0",
+    "line-202:0",
+    "line-205:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 27.37,
+      "online_text": "是啥時有咚咚猜",
+      "match_text": "是啥時有咚咚猜",
+      "text": "是啥時有咚咚猜",
+      "spelling": "sī siánn-sî ū tôm tôm tshai",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 29.13,
+      "online_text": "大家相招做伙來",
+      "match_text": "大家相招做伙來",
+      "text": "大家相招做伙來",
+      "spelling": "ta̍k-ke sio-tsio tsò-hué lâi",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 31.06,
+      "online_text": "今日這攤咱攏當作迎冠軍欸時在演",
+      "match_text": "今日這攤咱攏當作迎冠軍欸時在演",
+      "text": "今日這攤咱攏當作迎冠軍欸時在演",
+      "spelling": "kim-li̍t tsit thuann lán lóng tòng-tsuè ngiâ kuan-kun ê sî teh puann",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 34.16,
+      "online_text": "轎班欸腳步靠頭籤轎棍打訊號",
+      "match_text": "轎班欸腳步靠頭籤轎棍打訊號",
+      "text": "轎班欸腳步靠頭籤轎棍打訊號",
+      "spelling": "kiō pan ê kha-pōo kōo thâu tshiam kiō kùn phah sìn-hō",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 37.91,
+      "online_text": "有小法也有畫臉扛神將廟會趴踢歐奶隆",
+      "match_text": "有小法也有畫臉扛神將廟會趴踢歐奶隆",
+      "text": "有小法也有畫臉扛神將廟會趴踢歐奶隆",
+      "spelling": "ū sió huat mā ū uē bīn kng sîn tsiòng biō ē pa thi au nai liông",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 41.89,
+      "online_text": "賜我一個 能夠幫神明服務欸機會",
+      "match_text": "賜我一個 能夠幫神明服務欸機會",
+      "text": "賜我一個能夠幫神明服務欸機會",
+      "spelling": "sù guá tsi̍t ê ē-tàng pang sîn-bîng ho̍k-bū ê ki-huē",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 48.33,
+      "online_text": "我就是 嘻哈8+9我驕傲",
+      "match_text": "我就是 嘻哈8+9我驕傲",
+      "text": "我就是嘻哈8+9我驕傲",
+      "spelling": "guá tio̍h-sī si-hā 8+9 guá kiau-ngōo",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 55.12,
+      "online_text": "扛下去扛下去 欸",
+      "match_text": "扛下去扛下去 欸",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 57.07,
+      "online_text": "扛下去扛下去 欸",
+      "match_text": "扛下去扛下去 欸",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 58.92,
+      "online_text": "搖勒搖勒搖 阮是廟口男子漢",
+      "match_text": "搖勒搖勒搖 阮是廟口男子漢",
+      "text": "搖勒搖勒搖 阮是廟口男子漢",
+      "spelling": "iô li̍k iô li̍k iô gún sī biō-tiânn lâm-tsú-hàn",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 61.53,
+      "online_text": "咚猜 我在咚咚猜",
+      "match_text": "咚猜 我在咚咚猜",
+      "text": "咚猜 我在咚咚猜",
+      "spelling": "tôm tshai guá teh tôm tôm tshai",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 63.84,
+      "online_text": "我帶你來鑽轎腳",
+      "match_text": "我帶你來鑽轎腳",
+      "text": "我帶你來鑽轎腳",
+      "spelling": "guá tshuā lí lâi nǹg kiō kha",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 65.13,
+      "online_text": "保恁身體健康 萬事平安 發發發發發",
+      "match_text": "保恁身體健康 萬事平安 發發發發發",
+      "text": "保恁身體健康 萬事平安 發發發發發",
+      "spelling": "pó lin sin-thé kiān-khong bān-sū pîng-an fa fa fa fa fa",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 68.49,
+      "online_text": "扛下去扛下去 欸",
+      "match_text": "扛下去扛下去 欸",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 70.89,
+      "online_text": "扛下去扛下去 欸",
+      "match_text": "扛下去扛下去 欸",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 72.19,
+      "online_text": "搖勒搖勒搖 阮是廟口男子漢",
+      "match_text": "搖勒搖勒搖 阮是廟口男子漢",
+      "text": "搖勒搖勒搖 阮是廟口男子漢",
+      "spelling": "iô li̍k iô li̍k iô gún sī biō-tiânn lâm-tsú-hàn",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 75.36,
+      "online_text": "咚猜 我在咚咚猜",
+      "match_text": "咚猜 我在咚咚猜",
+      "text": "咚猜 我在咚咚猜",
+      "spelling": "tôm tshai guá teh tôm tôm tshai",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 77.06,
+      "online_text": "我帶你來鑽轎腳",
+      "match_text": "我帶你來鑽轎腳",
+      "text": "我帶你來鑽轎腳",
+      "spelling": "guá tshuā lí lâi nǹg kiō kha",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 78.83,
+      "online_text": "保恁身體健康 萬事平安 發發發發發",
+      "match_text": "保恁身體健康 萬事平安 發發發發發",
+      "text": "保恁身體健康 萬事平安 發發發發發",
+      "spelling": "pó lin sin-thé kiān-khong bān-sū pîng-an fa fa fa fa fa",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 82.34,
+      "online_text": "咱若出門大家都在笑 大家都叫咱 8+9",
+      "match_text": "咱若出門大家都在笑 大家都叫咱 8+9",
+      "text": "咱若出門大家都在笑 大家都叫咱 8+9",
+      "spelling": "lán ná tshut-mn̂g ta̍k-ke lóng ti tshiò ta̍k-ke lóng kiò lán 8+9",
+      "manual_id": "line-58:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 88.94,
+      "online_text": "我最愛聽慢搖 hiphop真的不好聽",
+      "match_text": "我最愛聽慢搖 hiphop真的不好聽",
+      "text": "我最愛聽慢搖 hiphop真的不好聽",
+      "spelling": "guá siōng ài thiann bān iô hip hop tsin ê bô hó thiann",
+      "manual_id": "line-61:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 92.82,
+      "online_text": "我說讚的沒在鬧 這是我心聲",
+      "match_text": "我說讚的沒在鬧 這是我心聲",
+      "text": "我說讚的沒在鬧 這是我心聲",
+      "spelling": "guá kóng tsán ê bô ti nāu tsit sī guá ê sim-siann",
+      "manual_id": "line-64:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 96.27,
+      "online_text": "8+9咱驕傲 我們真的沒搖頭 (幹你娘你不要一直玩爐石 好不好啊啊啊)",
+      "match_text": "8+9咱驕傲 我們真的沒搖頭 (幹你娘你不要一直玩爐石 好不好啊啊啊)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 101.58,
+      "online_text": "雖然個性很衝 但我愛我的水老婆",
+      "match_text": "雖然個性很衝 但我愛我的水老婆",
+      "text": "雖然個性很衝 但我愛我的水老婆",
+      "spelling": "sui-liân kò-sìng tsin tshiong nā guá ài guá ê tsuí bóo",
+      "manual_id": "line-70:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 104.0,
+      "online_text": "這個文化我來背 男生女生都愛",
+      "match_text": "這個文化我來背 男生女生都愛",
+      "text": "這個文化我來背 男生女生都愛",
+      "spelling": "tsit-ê bûn-huà guá lâi phāinn tsa-poo tsa-bóo lóng ài",
+      "manual_id": "line-73:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 106.94,
+      "online_text": "8+9是我 走過你家你也是拜",
+      "match_text": "8+9是我 走過你家你也是拜",
+      "text": "8+9是我 走過你家你也是拜",
+      "spelling": "8+9 sī guá kiânn-kuè lí ka lí mā ai pài",
+      "manual_id": "line-76:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 110.1,
+      "online_text": "扛下去扛下去 欸",
+      "match_text": "扛下去扛下去 欸",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 112.07,
+      "online_text": "扛下去扛下去 欸",
+      "match_text": "扛下去扛下去 欸",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 113.36,
+      "online_text": "搖勒搖勒搖 阮是廟口男子漢",
+      "match_text": "搖勒搖勒搖 阮是廟口男子漢",
+      "text": "搖勒搖勒搖 阮是廟口男子漢",
+      "spelling": "iô li̍k iô li̍k iô gún sī biō-tiânn lâm-tsú-hàn",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 117.07,
+      "online_text": "咚猜 我在咚咚猜",
+      "match_text": "咚猜 我在咚咚猜",
+      "text": "咚猜 我在咚咚猜",
+      "spelling": "tôm tshai guá teh tôm tôm tshai",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 118.97,
+      "online_text": "我帶你來鑽轎腳",
+      "match_text": "我帶你來鑽轎腳",
+      "text": "我帶你來鑽轎腳",
+      "spelling": "guá tshuā lí lâi nǹg kiō kha",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 120.13,
+      "online_text": "保恁身體健康 萬事平安 發發發發發",
+      "match_text": "保恁身體健康 萬事平安 發發發發發",
+      "text": "保恁身體健康 萬事平安 發發發發發",
+      "spelling": "pó lin sin-thé kiān-khong bān-sū pîng-an fa fa fa fa fa",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 123.5,
+      "online_text": "扛下去扛下去 欸",
+      "match_text": "扛下去扛下去 欸",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 125.43,
+      "online_text": "扛下去扛下去 欸",
+      "match_text": "扛下去扛下去 欸",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 127.2,
+      "online_text": "搖勒搖勒搖 阮是廟口男子漢",
+      "match_text": "搖勒搖勒搖 阮是廟口男子漢",
+      "text": "搖勒搖勒搖 阮是廟口男子漢",
+      "spelling": "iô li̍k iô li̍k iô gún sī biō-tiânn lâm-tsú-hàn",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 130.42,
+      "online_text": "咚猜 我在咚咚猜",
+      "match_text": "咚猜 我在咚咚猜",
+      "text": "咚猜 我在咚咚猜",
+      "spelling": "tôm tshai guá teh tôm tôm tshai",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 132.23,
+      "online_text": "我帶你來鑽轎腳",
+      "match_text": "我帶你來鑽轎腳",
+      "text": "我帶你來鑽轎腳",
+      "spelling": "guá tshuā lí lâi nǹg kiō kha",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 134.04,
+      "online_text": "保恁身體健康 萬事平安 發發發發發",
+      "match_text": "保恁身體健康 萬事平安 發發發發發",
+      "text": "保恁身體健康 萬事平安 發發發發發",
+      "spelling": "pó lin sin-thé kiān-khong bān-sū pîng-an fa fa fa fa fa",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 138.24,
+      "online_text": "我說他們 是說我學歷不夠高 遇到事情找人灣",
+      "match_text": "我說他們 是說我學歷不夠高 遇到事情找人灣",
+      "text": "我說他們 是說我學歷不夠高 遇到事情找人灣",
+      "spelling": "guá kóng in sī kóng guá ha̍k-li̍k bô-kàu kuân gū-tio̍h tāi-tsì tshuē lâng uan",
+      "manual_id": "line-115:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 146.11,
+      "online_text": "雖然菸酒檳榔攏總來 但拍謝 我在讀法律碩士班",
+      "match_text": "雖然菸酒檳榔攏總來 但拍謝 我在讀法律碩士班",
+      "text": "雖然菸酒檳榔攏總來 但拍謝 我在讀法律碩士班",
+      "spelling": "sui-liân hun-tsiú pin-nn̂g lóng-tsóng lâi nā pháinn-sè guá tsāi tha̍k huat-lu̍t sik-sū-pan",
+      "manual_id": "line-118:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 153.26,
+      "online_text": "有義氣是基本 身軀內住在地魂",
+      "match_text": "有義氣是基本 身軀內住在地魂",
+      "text": "有義氣是基本 身軀內住在地魂",
+      "spelling": "ū gī-khì sī ki-pún tng-khu lāi tuà-tsāi tē hûn",
+      "manual_id": "line-121:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 41,
+      "time": 157.08,
+      "online_text": "最喜歡吃米粉 義大利麵不合阮",
+      "match_text": "最喜歡吃米粉 義大利麵不合阮",
+      "text": "最喜歡吃米粉 義大利麵不合阮",
+      "spelling": "siōng kah-ì tsia̍h bí-hún ì-tāi-lī-mī bô ka̍h gún",
+      "manual_id": "line-124:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 160.16,
+      "online_text": "8+9名俗擱勇 但我感覺驕傲 讓我超級快樂",
+      "match_text": "8+9名俗擱勇 但我感覺驕傲 讓我超級快樂",
+      "text": "8+9名俗擱勇 但我感覺驕傲 讓我超級快樂",
+      "spelling": "8+9 miâ sio̍k koh ióng nā guá kám-kak kiau-ngōo hōo guá tshiau-kip khuài-lo̍k",
+      "manual_id": "line-127:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 43,
+      "time": 167.59,
+      "online_text": "阮是8 + 9 他都叫阮是8 + 9",
+      "match_text": "阮是8 + 9 他都叫阮是8 + 9",
+      "text": "阮是8 + 9 他都叫阮是8 + 9",
+      "spelling": "gún sī 8 + 9 i lóng kiò gún sī 8 + 9",
+      "manual_id": "line-130:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 44,
+      "time": 172.27,
+      "online_text": "8 + 9的腳步 背著文化開始要衝",
+      "match_text": "8 + 9的腳步 背著文化開始要衝",
+      "text": "8 + 9的腳步 背著文化開始要衝",
+      "spelling": "8 + 9 ê kha-pōo phāinn-tio̍h bûn-huà khai-sí beh tshiong",
+      "manual_id": "line-133:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 45,
+      "time": 175.75,
+      "online_text": "懶得多說 這阮的驕傲",
+      "match_text": "懶得多說 這阮的驕傲",
+      "text": "懶得多說 這阮的驕傲",
+      "spelling": "lán tio̍h ke kóng tsit gún ê kiau-ngōo",
+      "manual_id": "line-136:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 46,
+      "time": 178.98,
+      "online_text": "別跟我囉嗦 阮將傳統傳承落",
+      "match_text": "別跟我囉嗦 阮將傳統傳承落",
+      "text": "別跟我囉嗦 阮將傳統傳承落",
+      "spelling": "mài kā guá lo-so gún tsiòng thn̂g tsiòng thuân sîn lo̍h",
+      "manual_id": "line-139:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 47,
+      "time": 182.84,
+      "online_text": "hip hop沒人聽 開電台台灣之聲",
+      "match_text": "hip hop沒人聽 開電台台灣之聲",
+      "text": "hip hop沒人聽 開電台台灣之聲",
+      "spelling": "hip hop bô lâng thiann khui tiān-tâi tâi-uân tsi siann",
+      "manual_id": "line-142:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 48,
+      "time": 186.02,
+      "online_text": "立勝站在這 有8 + 9就有我的影",
+      "match_text": "立勝站在這 有8 + 9就有我的影",
+      "text": "立勝站在這 有8 + 9就有我的影",
+      "spelling": "li̍p sìng khiā tī tsia ū 8 + 9 tio̍h ū guá ê iánn",
+      "manual_id": "line-145:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 49,
+      "time": 189.22,
+      "online_text": "一樣腳步 阮依然扛轎",
+      "match_text": "一樣腳步 阮依然扛轎",
+      "text": "一樣腳步 阮依然扛轎",
+      "spelling": "kāng-khuán kha-pōo gún i-jiân kng-kiō",
+      "manual_id": "line-148:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 50,
+      "time": 192.38,
+      "online_text": "你們人是在哪 趕緊跟我來扛轎搖勒搖",
+      "match_text": "你們人是在哪 趕緊跟我來扛轎搖勒搖",
+      "text": "你們人是在哪 趕緊跟我來扛轎搖勒搖",
+      "spelling": "lín lâng lâng sī tē tuē kuánn-kín tuè guá lâi kng-kiō iô li̍k iô",
+      "manual_id": "line-151:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 51,
+      "time": 196.37,
+      "online_text": "扛下去扛下去 欸",
+      "match_text": "扛下去扛下去 欸",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 52,
+      "time": 197.74,
+      "online_text": "扛下去扛下去 欸",
+      "match_text": "扛下去扛下去 欸",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 53,
+      "time": 199.56,
+      "online_text": "搖勒搖勒搖 阮是廟口男子漢",
+      "match_text": "搖勒搖勒搖 阮是廟口男子漢",
+      "text": "搖勒搖勒搖 阮是廟口男子漢",
+      "spelling": "iô li̍k iô li̍k iô gún sī biō-tiânn lâm-tsú-hàn",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 54,
+      "time": 203.35,
+      "online_text": "咚猜 我在咚咚猜",
+      "match_text": "咚猜 我在咚咚猜",
+      "text": "咚猜 我在咚咚猜",
+      "spelling": "tôm tshai guá teh tôm tôm tshai",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 55,
+      "time": 205.14,
+      "online_text": "我帶你來鑽轎腳",
+      "match_text": "我帶你來鑽轎腳",
+      "text": "我帶你來鑽轎腳",
+      "spelling": "guá tshuā lí lâi nǹg kiō kha",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 56,
+      "time": 206.3,
+      "online_text": "保恁身體健康 萬事平安 發發發發發",
+      "match_text": "保恁身體健康 萬事平安 發發發發發",
+      "text": "保恁身體健康 萬事平安 發發發發發",
+      "spelling": "pó lin sin-thé kiān-khong bān-sū pîng-an fa fa fa fa fa",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 57,
+      "time": 210.36,
+      "online_text": "扛下去扛下去 欸",
+      "match_text": "扛下去扛下去 欸",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 58,
+      "time": 212.11,
+      "online_text": "扛下去扛下去 欸",
+      "match_text": "扛下去扛下去 欸",
+      "text": "扛下去扛下去 欸",
+      "spelling": "kng lo̍h-khì kng lo̍h-khì ê",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 59,
+      "time": 213.47,
+      "online_text": "搖勒搖勒搖 阮是廟口男子漢",
+      "match_text": "搖勒搖勒搖 阮是廟口男子漢",
+      "text": "搖勒搖勒搖 阮是廟口男子漢",
+      "spelling": "iô li̍k iô li̍k iô gún sī biō-tiânn lâm-tsú-hàn",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 60,
+      "time": 217.13,
+      "online_text": "咚猜 我在咚咚猜",
+      "match_text": "咚猜 我在咚咚猜",
+      "text": "咚猜 我在咚咚猜",
+      "spelling": "tôm tshai guá teh tôm tôm tshai",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 61,
+      "time": 218.98,
+      "online_text": "我帶你來鑽轎腳",
+      "match_text": "我帶你來鑽轎腳",
+      "text": "我帶你來鑽轎腳",
+      "spelling": "guá tshuā lí lâi nǹg kiō kha",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 62,
+      "time": 220.21,
+      "online_text": "保恁身體健康 萬事平安 發發發發發",
+      "match_text": "保恁身體健康 萬事平安 發發發發發",
+      "text": "保恁身體健康 萬事平安 發發發發發",
+      "spelling": "pó lin sin-thé kiān-khong bān-sū pîng-an fa fa fa fa fa",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 63,
+      "time": 222.24,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "36e41b1aea8132337b6f013ff99253e3c0062c219a0aa52985467a1e50656a4f",
+    "manual": "7023c3986afa1191d048b3874d58538e6ca2378f10c704088ad1f671ab7cc175",
+    "timed": "6b53126a3c55bdb163d5dbfae047ae45a953fea9e84b876e49e25ca704b1a613"
+  }
+}

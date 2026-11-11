@@ -1,0 +1,57 @@
+{
+  "selected": {
+    "song_id": 29267021,
+    "title": "對我打",
+    "artists": [
+      "董事長樂團"
+    ],
+    "album": "祭",
+    "duration": 231.0,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "lrclib:29267021",
+      "duration": 231.0,
+      "ready": false,
+      "coverage": 0.30434782608695654,
+      "exact_fraction": 0.36666666666666664,
+      "summary": {
+        "exact": 5,
+        "unresolved": 17,
+        "approximate": 2,
+        "repeat": 6,
+        "gap": 3
+      }
+    },
+    {
+      "recording_id": "lrclib:29589581",
+      "duration": 243.0,
+      "ready": false,
+      "coverage": 0.30434782608695654,
+      "exact_fraction": 0.36666666666666664,
+      "summary": {
+        "exact": 5,
+        "unresolved": 17,
+        "approximate": 2,
+        "repeat": 6,
+        "gap": 3
+      }
+    },
+    {
+      "recording_id": "lrclib:39009686",
+      "duration": 232.0,
+      "ready": false,
+      "coverage": 0.30434782608695654,
+      "exact_fraction": 0.36666666666666664,
+      "summary": {
+        "exact": 5,
+        "unresolved": 17,
+        "approximate": 2,
+        "repeat": 6,
+        "gap": 3
+      }
+    }
+  ]
+}

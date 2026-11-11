@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "song_id": 350191,
+    "title": "川秋沙",
+    "artists": [
+      "川秋沙"
+    ],
+    "album": "人造沙洲",
+    "duration": 278.066,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:350191",
+      "duration": 278.066,
+      "ready": false,
+      "coverage": 0.0,
+      "exact_fraction": 0.0,
+      "summary": {
+        "credit": 2,
+        "unresolved": 21,
+        "gap": 9
+      }
+    }
+  ]
+}

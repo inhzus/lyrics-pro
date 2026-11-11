@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 248703,
+      "title": "电车内面",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "江蕙10年‧典藏精选",
+      "duration": 327.373,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

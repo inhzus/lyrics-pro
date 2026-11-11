@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": "1453013542",
+    "title": "怪手",
+    "artists": [
+      "浅堤"
+    ],
+    "album": "Demo. 1 - Single",
+    "duration": 313.22,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1453013542",
+      "duration": 313.22,
+      "ready": false,
+      "coverage": 0.5985915492957746,
+      "exact_fraction": 0.42857142857142855,
+      "summary": {
+        "approximate": 6,
+        "exact": 1,
+        "unresolved": 6,
+        "repeat": 8
+      }
+    }
+  ]
+}

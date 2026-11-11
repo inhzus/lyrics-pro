@@ -1,0 +1,310 @@
+{
+  "candidates": [
+    {
+      "song_id": 2704742683,
+      "title": "眼神",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "爱情广播电台",
+      "duration": 389.909,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 287363,
+      "title": "眼神",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "duration": 210.44,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 287540,
+      "title": "眼神",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Leave",
+      "duration": 210.44,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2727811074,
+      "title": "眼神",
+      "artists": [
+        "Steven"
+      ],
+      "album": "眼神",
+      "duration": 191.75,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3448118318,
+      "title": "眼神",
+      "artists": [
+        "林可期"
+      ],
+      "album": "眼神",
+      "duration": 104.891,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3447552339,
+      "title": "眼神",
+      "artists": [
+        "陈予恩"
+      ],
+      "album": "眼神",
+      "duration": 180.375,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2647757898,
+      "title": "眼神",
+      "artists": [
+        "菠萝蜜blm"
+      ],
+      "album": "眼神",
+      "duration": 206.596,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 78302,
+      "title": "眼神",
+      "artists": [
+        "杜德伟"
+      ],
+      "album": "99情人",
+      "duration": 217.306,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2130271533,
+      "title": "眼神",
+      "artists": [
+        "会遇到的"
+      ],
+      "album": "终如那炊烟一样弥散",
+      "duration": 73.93,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3445961594,
+      "title": "眼神",
+      "artists": [
+        "林小棠"
+      ],
+      "album": "眼神",
+      "duration": 205.165,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 410508119,
+      "title": "眼神",
+      "artists": [
+        "泳儿"
+      ],
+      "album": "镜像",
+      "duration": 219.096,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1396738179,
+      "title": "眼神",
+      "artists": [
+        "说说Crystal"
+      ],
+      "album": "眼神",
+      "duration": 208.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3448126152,
+      "title": "眼神",
+      "artists": [
+        "池澜",
+        "灰蒙蒙"
+      ],
+      "album": "眼神",
+      "duration": 94.275,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2149794081,
+      "title": "眼神",
+      "artists": [
+        "AKA袋鼠"
+      ],
+      "album": "像个混蛋",
+      "duration": 162.461,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2065178824,
+      "title": "眼神",
+      "artists": [
+        "侯磊"
+      ],
+      "album": "眼神（demo）",
+      "duration": 237.804,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2758215926,
+      "title": "眼神",
+      "artists": [
+        "安洛贤",
+        "迪凡尼"
+      ],
+      "album": "眼神",
+      "duration": 164.671,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1341375284,
+      "title": "眼神",
+      "artists": [
+        "天空之城音乐"
+      ],
+      "album": "寒单 电影原声带",
+      "duration": 69.25,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1449276795",
+      "title": "眼神",
+      "artists": [
+        "天空之城音乐制作"
+      ],
+      "album": "电影《寒单》原声音乐",
+      "duration": 69.25,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1669951136",
+      "title": "眼神",
+      "artists": [
+        "周周"
+      ],
+      "album": "单身情人节 - EP",
+      "duration": 88.268,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1733129397",
+      "title": "眼神",
+      "artists": [
+        "会遇到的"
+      ],
+      "album": "终如那炊烟一样弥散",
+      "duration": 73.931,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "162372162",
+      "title": "眼神",
+      "artists": [
+        "李度"
+      ],
+      "album": "寻他千百度",
+      "duration": 246.8,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1479538454",
+      "title": "眼神",
+      "artists": [
+        "公祖怡"
+      ],
+      "album": "公祖怡的心情日记",
+      "duration": 263.636,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1446707319",
+      "title": "眼神",
+      "artists": [
+        "四分卫"
+      ],
+      "album": "Deep Blue",
+      "duration": 175.613,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1800662709",
+      "title": "眼神",
+      "artists": [
+        "SkyCastle Music"
+      ],
+      "album": "《爱你》影视原声配乐",
+      "duration": 182.748,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1802211898",
+      "title": "眼神",
+      "artists": [
+        "AKA袋鼠"
+      ],
+      "album": "像个混蛋 - EP",
+      "duration": 162.462,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "541825420",
+      "title": "眼神",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Leave",
+      "duration": 210.44,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1482750680",
+      "title": "眼神",
+      "artists": [
+        "杜德伟"
+      ],
+      "album": "99情人",
+      "duration": 217.307,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": [
+    {
+      "provider": "lrclib",
+      "error": "LRCLIB network request failed: curl: (28) SSL connection timeout",
+      "retryable": true
+    }
+  ]
+}

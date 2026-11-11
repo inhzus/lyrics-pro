@@ -1,0 +1,557 @@
+{
+  "recording_id": "netease:28528286",
+  "timing_source": "NetEase https://music.163.com/song?id=28528286",
+  "manual_source": "User-supplied resources/lyrics-spelling/上水的花-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 4,
+    "unresolved": 21,
+    "approximate": 9,
+    "repeat": 2,
+    "exact": 2
+  },
+  "review_row_count": 32,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-16:0",
+    "line-19:0",
+    "line-55:0",
+    "line-58:0"
+  ],
+  "unused_repeat_ids": [
+    "line-31:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0",
+    "line-70:0",
+    "line-73:0",
+    "line-79:0",
+    "line-82:0",
+    "line-88:0",
+    "line-91:0",
+    "line-94:0",
+    "line-97:0",
+    "line-100:0",
+    "line-103:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 姚若龙",
+      "match_text": "作词 : 姚若龙",
+      "text": "作词 : 姚若龙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 0.58,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 1.16,
+      "online_text": "作词：姚若龙",
+      "match_text": "作词：姚若龙",
+      "text": "作词：姚若龙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 13.62,
+      "online_text": "作曲：萧煌奇",
+      "match_text": "作曲：萧煌奇",
+      "text": "作曲：萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 4,
+      "time": 27.55,
+      "online_text": "汝的冷淡 使侬感觉 我的热情是欠债",
+      "match_text": "汝的冷淡 使侬感觉 我的热情是欠债",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 34.49,
+      "online_text": "所有疼惜 敢若是笑诙",
+      "match_text": "所有疼惜 敢若是笑诙",
+      "text": "所有疼惜 甘若是笑虧",
+      "spelling": "sóo-iú thiànn-sioh kam nā-sī tshiò khui",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.777778
+    },
+    {
+      "source_row": 6,
+      "time": 40.55,
+      "online_text": "原谅汝头一摆 对爱的反背",
+      "match_text": "原谅汝头一摆 对爱的反背",
+      "text": "原諒你頭一拜 對愛的反背",
+      "spelling": "guân-liōng lí thâu tsi̍t pài tuì ài ê huán-puē",
+      "manual_id": "line-10:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.818182
+    },
+    {
+      "source_row": 7,
+      "time": 47.89,
+      "online_text": "我着跳入 心酸的大火",
+      "match_text": "我着跳入 心酸的大火",
+      "text": "我就跳入 心酸的大火",
+      "spelling": "guá tio̍h thiàu-ji̍p sim-sng ê tuā-hué",
+      "manual_id": "line-13:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 8,
+      "time": 54.74,
+      "online_text": "感情愈重 愈来愈戆 看无事实像痟的",
+      "match_text": "感情愈重 愈来愈戆 看无事实像痟的",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 61.71,
+      "online_text": "一直做梦 生活较好过",
+      "match_text": "一直做梦 生活较好过",
+      "text": "一直做夢 生活卡好過",
+      "spelling": "it-ti̍t tsuè-bāng sing-ua̍h khah hó kuè",
+      "manual_id": "line-22:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 10,
+      "time": 67.55,
+      "online_text": "汝哪着遐残忍 讲老实话",
+      "match_text": "汝哪着遐残忍 讲老实话",
+      "text": "你哪著遐殘忍 講老實話",
+      "spelling": "lí ná tio̍h hiâ tsân-jím kóng láu-si̍t-uē",
+      "manual_id": "line-25:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 11,
+      "time": 74.52,
+      "online_text": "连阁搬幸福 拢毋愿奉陪",
+      "match_text": "连阁搬幸福 拢毋愿奉陪",
+      "text": "連擱搬幸福 攏毋願奉陪",
+      "spelling": "liân koh puann hīng-hok lóng m̄-guān hōng-puê",
+      "manual_id": "line-28:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 12,
+      "time": 83.53,
+      "online_text": "上媠的花 若是凿着心嘛会流血",
+      "match_text": "上媠的花 若是凿着心嘛会流血",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 90.59,
+      "online_text": "浪漫的爱 忽然间变风吹",
+      "match_text": "浪漫的爱 忽然间变风吹",
+      "text": "浪漫的愛 忽然間變風吹",
+      "spelling": "lōng-bān ê ài hut-liân kan piàn hong-tshue",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 96.9,
+      "online_text": "毋管失眠几落暝 我目屎流偌济",
+      "match_text": "毋管失眠几落暝 我目屎流偌济",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 104.45,
+      "online_text": "犹原无发觉 苦苦留恋是揭枷",
+      "match_text": "犹原无发觉 苦苦留恋是揭枷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 110.74,
+      "online_text": "上媠的花 欲飞看心情无解说",
+      "match_text": "上媠的花 欲飞看心情无解说",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 117.56,
+      "online_text": "我的寂寞 是予汝的情批",
+      "match_text": "我的寂寞 是予汝的情批",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 124.13,
+      "online_text": "朋友骂我太狼狈 缀着汝玲瑯踅",
+      "match_text": "朋友骂我太狼狈 缀着汝玲瑯踅",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 131.64,
+      "online_text": "毋知汝是我 度过乌暗的明月",
+      "match_text": "毋知汝是我 度过乌暗的明月",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 149.38,
+      "online_text": "几段感情 坎坎坷坷 早着贫惰求啥货",
+      "match_text": "几段感情 坎坎坷坷 早着贫惰求啥货",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 156.27,
+      "online_text": "汝的出现 改变了一切",
+      "match_text": "汝的出现 改变了一切",
+      "text": "妳的出現 改變了一切",
+      "spelling": "lí ê tshut-hiān kái-piàn liáu it-tshè",
+      "manual_id": "line-61:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 22,
+      "time": 162.22,
+      "online_text": "我飘浪的孤单 变做有家",
+      "match_text": "我飘浪的孤单 变做有家",
+      "text": "我飄浪的孤單 變做有家",
+      "spelling": "guá phiau lōng ê koo-tuann piàn-tsò ū ke",
+      "manual_id": "line-64:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 168.79,
+      "online_text": "哪知咱的缘分 会遐尔短",
+      "match_text": "哪知咱的缘分 会遐尔短",
+      "text": "哪知咱的緣分 會遐呢短",
+      "spelling": "ná tsai lán ê iân hun ē hiah-nī té",
+      "manual_id": "line-67:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 24,
+      "time": 174.75,
+      "online_text": "上媠的花 欲飞看心情无解说",
+      "match_text": "上媠的花 欲飞看心情无解说",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 181.88,
+      "online_text": "我的寂寞 是予汝的情批",
+      "match_text": "我的寂寞 是予汝的情批",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 188.32,
+      "online_text": "朋友苦劝我清醒 汝的情拢是假",
+      "match_text": "朋友苦劝我清醒 汝的情拢是假",
+      "text": "朋友苦勸我清醒 妳的情攏是假",
+      "spelling": "pîng-iú khóo-khǹg guá tshing-tshénn lí ê tsîng lóng sī ké",
+      "manual_id": "line-76:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 27,
+      "time": 195.82,
+      "online_text": "毋知汝是我 度过乌暗的明月",
+      "match_text": "毋知汝是我 度过乌暗的明月",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 225.24,
+      "online_text": "上媠的花 若是凿着心嘛会流血",
+      "match_text": "上媠的花 若是凿着心嘛会流血",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 232.63,
+      "online_text": "浪漫的爱 忽然间变风吹",
+      "match_text": "浪漫的爱 忽然间变风吹",
+      "text": "浪漫的愛 忽然間變風吹",
+      "spelling": "lōng-bān ê ài hut-liân kan piàn hong-tshue",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 239.04,
+      "online_text": "毋管失眠几落暝 我目屎流偌济",
+      "match_text": "毋管失眠几落暝 我目屎流偌济",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 246.49,
+      "online_text": "犹原无发觉 苦苦留恋是揭枷",
+      "match_text": "犹原无发觉 苦苦留恋是揭枷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 252.5,
+      "online_text": "上媠的花 欲飞看心情无解说",
+      "match_text": "上媠的花 欲飞看心情无解说",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 259.62,
+      "online_text": "我的寂寞 是予汝的情批",
+      "match_text": "我的寂寞 是予汝的情批",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 266.25,
+      "online_text": "朋友骂我太狼狈 缀着汝玲瑯踅",
+      "match_text": "朋友骂我太狼狈 缀着汝玲瑯踅",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 273.24,
+      "online_text": "毋知汝是我 度过乌暗的明月",
+      "match_text": "毋知汝是我 度过乌暗的明月",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 280.28,
+      "online_text": "有毒的美丽 是会变卦的情话",
+      "match_text": "有毒的美丽 是会变卦的情话",
+      "text": "有毒的美麗 是會變卦的 情話",
+      "spelling": "ū-to̍k ê bí-lē sī ē piàn-kuà ê tsîng uē",
+      "manual_id": "line-106:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 302.34,
+      "online_text": "人声 : Hsiao Huang Chi",
+      "match_text": "人声 : Hsiao Huang Chi",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "fc55aaf3a8eb4ec8939a5d1ef29c5ef1ab9a755330cc8e8c9c9679cee572a78d",
+    "manual": "2cdc7ebaad23c27f034886de5f103a39ccdbc1bcecd77d2fcd0a335d872575d5",
+    "timed": "96d67749d033ac87a931af23344ba0f641c37ce8661779396abee38128c869d4"
+  }
+}

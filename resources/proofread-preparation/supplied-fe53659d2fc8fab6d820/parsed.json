@@ -1,0 +1,268 @@
+{
+  "blocks": [
+    {
+      "id": "line-5",
+      "text": "日頭赤炎炎 頭犁犁 嘎苦也得行",
+      "spelling": "ji̍t-thâu tshiah iām iām thâu lê lê ka̍h khóo iā tio̍h kiânn",
+      "source_lines": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "目屎配流汗 一嘴 喝乎乾",
+      "spelling": "ba̍k-sái phuè lâu-kuānn tsi̍t tshuì lím hōo ta",
+      "source_lines": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "堅強ㄟ鼓聲 陣陣風雨跟我打",
+      "spelling": "kian-kiông ê kóo-siann tsūn tsūn hong-hōo tuì guá phah",
+      "source_lines": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "擱在無情的大火 也逼不乾",
+      "spelling": "koh tsāi bô-tsîng ê tuā-hué mā pik bē ta",
+      "source_lines": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "line-17",
+      "text": "大聲唱 阮的歌 是因為有你陪我",
+      "spelling": "tuā-siann tshiùnn gún ê kua sī in-uī ū lí puê guá",
+      "source_lines": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "line-20",
+      "text": "這條路 有你才會有我",
+      "spelling": "tsit tiâu lōo ū lí tsiah ē ū guá",
+      "source_lines": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "這世人 誰人嘎我 一步一步向前行",
+      "spelling": "tsit-sì-lâng siánn-lâng ka̍h guá tsi̍t pōo tsi̍t pōo hiòng-tsiân kiânn",
+      "source_lines": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "line-26",
+      "text": "我知道 你會墊在阮後壁",
+      "spelling": "guá tsai-iánn lí ē tiām tī gún āu-piah",
+      "source_lines": [
+        26,
+        27
+      ]
+    },
+    {
+      "id": "line-29",
+      "text": "對阮來拚",
+      "spelling": "tuì gún lâi piànn",
+      "source_lines": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "日頭赤炎炎 頭犁犁 嘎苦也得行",
+      "spelling": "ji̍t-thâu tshiah iām iām thâu lê lê ka̍h khóo iā tio̍h kiânn",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "目屎配流汗 一嘴 喝乎乾",
+      "spelling": "ba̍k-sái phuè lâu-kuānn tsi̍t tshuì lím hōo ta",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "堅強ㄟ鼓聲 陣陣風雨跟我打",
+      "spelling": "kian-kiông ê kóo-siann tsūn tsūn hong-hōo tuì guá phah",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "擱在無情的大火 也逼不乾",
+      "spelling": "koh tsāi bô-tsîng ê tuā-hué mā pik bē ta",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "大聲唱 阮的歌 是因為有你陪我",
+      "spelling": "tuā-siann tshiùnn gún ê kua sī in-uī ū lí puê guá",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "這條路 有你才會有我",
+      "spelling": "tsit tiâu lōo ū lí tsiah ē ū guá",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "這世人 誰人嘎我 一步一步向前行",
+      "spelling": "tsit-sì-lâng siánn-lâng ka̍h guá tsi̍t pōo tsi̍t pōo hiòng-tsiân kiânn",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "我知道 你會墊在阮後壁",
+      "spelling": "guá tsai-iánn lí ē tiām tī gún āu-piah",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "對阮來拚",
+      "spelling": "tuì gún lâi piànn",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "只要有夢 免驚阮 雙手空空",
+      "spelling": "tsí-iàu ū bāng bián-kiann gún siang-tshiú khang khang",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "一把吉他 全世界 就唱袂煞",
+      "spelling": "tsi̍t-ki gì-tà tsuân sè-kài tio̍h tshiùnn buē suah",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "老神在在 宮主 是我在扞",
+      "spelling": "lāu-sîn-tsāi-tsāi kiong tsú sī guá leh huānn",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "腳步踏緊 Rock & Roll 尚奢颺",
+      "spelling": "kha-pōo ta̍h ân Rock & Roll siōng tshia-iānn",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "大聲唱 阮的歌 因為有你相信我",
+      "spelling": "tuā-siann tshiùnn gún ê kua in-uī ū lí siong-sìn guá",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "這條路 無你怎樣有我",
+      "spelling": "tsit tiâu lōo bô lí án-tsuánn ū guá",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "這世人 有你陪我 一步一步向前行",
+      "spelling": "tsit-sì-lâng ū lí puê guá tsi̍t pōo tsi̍t pōo hiòng-tsiân kiânn",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "我知道 一定會有你在這",
+      "spelling": "guá tsai-iánn it-tīng ē ū lí tī tsia",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "會對阮來拚",
+      "spelling": "ē tuì gún lâi piànn",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "對阮來拚",
+      "spelling": "tuì gún lâi piànn",
+      "source_lines": [
+        90,
+        91
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：林孝謙   作曲：賴銘偉"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:3,5",
+    "ambiguous_pair:32,34",
+    "ambiguous_pair:88,90"
+  ]
+}

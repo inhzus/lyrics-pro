@@ -1,0 +1,356 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "佛祖的慈悲                             媽祖的保佑",
+      "spelling": "Pu̍t-tsóo ê tsû-pi                   Má-tsóo ê pó-pì",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "佛祖的慈悲",
+          "spelling": "Pu̍t-tsóo ê tsû-pi"
+        },
+        {
+          "text": "媽祖的保佑",
+          "spelling": "Má-tsóo ê pó-pì"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "乎我來熟識你                         是天公的好意啊",
+      "spelling": "honnh guá lâi si̍k-sāi lí       sī thinn-kong ê hó-ì ah",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "乎我來熟識你",
+          "spelling": "honnh guá lâi si̍k-sāi lí"
+        },
+        {
+          "text": "是天公的好意啊",
+          "spelling": "sī thinn-kong ê hó-ì ah"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "關公的義氣                              土地公笑咪咪",
+      "spelling": "kuan-kong ê gī-khì               Thóo-tī-kong tshiò mi mi",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "關公的義氣",
+          "spelling": "kuan-kong ê gī-khì"
+        },
+        {
+          "text": "土地公笑咪咪",
+          "spelling": "Thóo-tī-kong tshiò mi mi"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "咱來變知己                              是絕對無心機",
+      "spelling": "lán lâi pìnn ti-kí                    sī tsua̍t-tuì bô sim-ki",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "咱來變知己",
+          "spelling": "lán lâi pìnn ti-kí"
+        },
+        {
+          "text": "是絕對無心機",
+          "spelling": "sī tsua̍t-tuì bô sim-ki"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "眾神護臺灣~                            眾神保平安",
+      "spelling": "tsiòng-sîn hōo tâi-uân~        tsiòng-sîn pó pîng-an",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "眾神護臺灣~",
+          "spelling": "tsiòng-sîn hōo tâi-uân~"
+        },
+        {
+          "text": "眾神保平安",
+          "spelling": "tsiòng-sîn pó pîng-an"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "眾神護臺灣~                            用心看臺灣",
+      "spelling": "tsiòng-sîn hōo tâi-uân~        iōng-sim khuànn Tâi-uân",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "眾神護臺灣~",
+          "spelling": "tsiòng-sîn hōo tâi-uân~"
+        },
+        {
+          "text": "用心看臺灣",
+          "spelling": "iōng-sim khuànn Tâi-uân"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "善有善啊報                              惡有惡果",
+      "spelling": "siān ū siān ah pò                  ok ū ok kó",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "善有善啊報",
+          "spelling": "siān ū siān ah pò"
+        },
+        {
+          "text": "惡有惡果",
+          "spelling": "ok ū ok kó"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "你若對我好                             啊事事攏輕可~",
+      "spelling": "lí ná tuì guá hó                     ah sū-sū lóng khin-khó~",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "你若對我好",
+          "spelling": "lí ná tuì guá hó"
+        },
+        {
+          "text": "啊事事攏輕可~",
+          "spelling": "ah sū-sū lóng khin-khó~"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "咱來作陣行                             行出好名聲",
+      "spelling": "lán lâi tsok tīn kiânn           kiânn tshut hó miâ siann",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "咱來作陣行",
+          "spelling": "lán lâi tsok tīn kiânn"
+        },
+        {
+          "text": "行出好名聲",
+          "spelling": "kiânn tshut hó miâ siann"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "無分你甲我                             全世界攏知影",
+      "spelling": "bô hun lí kah guá                 tsuân sè-kài lóng tsai-iánn",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "無分你甲我",
+          "spelling": "bô hun lí kah guá"
+        },
+        {
+          "text": "全世界攏知影",
+          "spelling": "tsuân sè-kài lóng tsai-iánn"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "眾神護臺灣~                           眾神保平安",
+      "spelling": "tsiòng-sîn hōo tâi-uân~       tsiòng-sîn pó pîng-an",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "眾神護臺灣~",
+          "spelling": "tsiòng-sîn hōo tâi-uân~"
+        },
+        {
+          "text": "眾神保平安",
+          "spelling": "tsiòng-sîn pó pîng-an"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "眾神護臺灣~                           用心看臺灣",
+      "spelling": "tsiòng-sîn hōo tâi-uân~       iōng-sim khuànn Tâi-uân",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "眾神護臺灣~",
+          "spelling": "tsiòng-sîn hōo tâi-uân~"
+        },
+        {
+          "text": "用心看臺灣",
+          "spelling": "iōng-sim khuànn Tâi-uân"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "雙腳站治這                             這是咱的名",
+      "spelling": "siang-kha khiā tī tsia          tsia sī lán ê miâ",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "雙腳站治這",
+          "spelling": "siang-kha khiā tī tsia"
+        },
+        {
+          "text": "這是咱的名",
+          "spelling": "tsia sī lán ê miâ"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "眾神護臺灣~                           用心愛臺灣",
+      "spelling": "iōng-sim khuànn Tâi-uân  tsiòng-sîn pó pîng-an",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "眾神護臺灣~",
+          "spelling": "iōng-sim khuànn Tâi-uân"
+        },
+        {
+          "text": "用心愛臺灣",
+          "spelling": "tsiòng-sîn pó pîng-an"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "眾神護臺灣~                           眾神保平安",
+      "spelling": "tsiòng-sîn hōo tâi-uân~       tsiòng-sîn pó pîng-an",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "眾神護臺灣~",
+          "spelling": "tsiòng-sîn hōo tâi-uân~"
+        },
+        {
+          "text": "眾神保平安",
+          "spelling": "tsiòng-sîn pó pîng-an"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "眾神護臺灣~                           用心看臺灣",
+      "spelling": "iōng-sim khuànn Tâi-uân  tsiòng-sîn pó pîng-an",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "眾神護臺灣~",
+          "spelling": "iōng-sim khuànn Tâi-uân"
+        },
+        {
+          "text": "用心看臺灣",
+          "spelling": "tsiòng-sîn pó pîng-an"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "雙腳站治這                             這是咱的名",
+      "spelling": "siang-kha khiā tī tsia           tsia sī lán ê miâ",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "雙腳站治這",
+          "spelling": "siang-kha khiā tī tsia"
+        },
+        {
+          "text": "這是咱的名",
+          "spelling": "tsia sī lán ê miâ"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "眾神護臺灣~                           用心愛臺灣",
+      "spelling": "tsiòng-sîn hōo tâi-uân~      iōng-sim khuànn Tâi-uân",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "眾神護臺灣~",
+          "spelling": "tsiòng-sîn hōo tâi-uân~"
+        },
+        {
+          "text": "用心愛臺灣",
+          "spelling": "iōng-sim khuànn Tâi-uân"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳永吉   作曲：吳永吉"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

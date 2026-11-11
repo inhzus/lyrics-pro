@@ -1,0 +1,686 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "煞攏無殺殺殺攏無                                     煞攏無殺殺殺攏無",
+      "spelling": "sannh lóng bô sat sat sat lóng bô        sannh lóng bô sat sat sat lóng bô",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "煞攏無殺殺殺攏無",
+          "spelling": "sannh lóng bô sat sat sat lóng bô"
+        },
+        {
+          "text": "煞攏無殺殺殺攏無",
+          "spelling": "sannh lóng bô sat sat sat lóng bô"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "煞攏無殺殺殺攏無                                     煞攏無殺殺殺攏無",
+      "spelling": "sannh lóng bô sat sat sat lóng bô        sannh lóng bô sat sat sat lóng bô",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "煞攏無殺殺殺攏無",
+          "spelling": "sannh lóng bô sat sat sat lóng bô"
+        },
+        {
+          "text": "煞攏無殺殺殺攏無",
+          "spelling": "sannh lóng bô sat sat sat lóng bô"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "坐著土腳底的鐵路來到這",
+      "spelling": "tsē tio̍h thóo kha té ê thih-lōo lâi kàu tsia",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "看隔壁阿財說的敢攏有影",
+      "spelling": "khuànn keh piah a tsâi kóng ê kám lóng ū-iánn",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "看敢是世界上很有名",
+      "spelling": "khuànn kám sī sè-kài siōng tsiok ū miâ",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "看敢是人人出門攏駛轎車",
+      "spelling": "khuànn kám sī lâng-lâng tshut-mn̂g lóng sái kiau-tshia",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "聽到四週全全攏是吵鬧的聲",
+      "spelling": "thiann-tio̍h sì-uî tsuân tsuân lóng sī tshá-nāu ê siann",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "走沒兩步左邊右邊攏總是車",
+      "spelling": "kiânn bô līm pōo tò-bīn tsiànn-bīn  lóng tsóng sī tshia",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "要過大路大家就要坐陣走",
+      "spelling": "beh kuè tuā-lōo ta̍k-ke tio̍h ài tsō tīn kiânn",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "那沒司機就會給咱叭叭叭",
+      "spelling": "ná bô su-ki tio̍h ē hōo kā lán pa pa pa",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "阮要來去西門町去感受一下",
+      "spelling": "gún beh lâi-khì se-mn̂g-ting khì kám-siū yī xià",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "聽說那個東西實在有影有夠好吃",
+      "spelling": "thiann-kóng hiâ ê mi̍h-kiānn si̍t tsāi ū-iánn ū kàu hó tsia̍h",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "等一個公車我等到下午兩點半",
+      "spelling": "tán tsi̍t ê kong-tshia guá tah tán kah ē-poo nn̄g tiám puànn",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "乾脆來去坐那落計程車",
+      "spelling": "kui-khì lâi-khì tsē hit lo̍h kè-tîng-tshia",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "不曾看過這多的樓仔厝                                           那會土腳歸會攏是一坑一缺",
+      "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù            ná ē thóo kha kui ē lóng sī tsi̍t khenn tsi̍t khiàm",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "不曾看過這多的樓仔厝",
+          "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù"
+        },
+        {
+          "text": "那會土腳歸會攏是一坑一缺",
+          "spelling": "ná ē thóo kha kui ē lóng sī tsi̍t khenn tsi̍t khiàm"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "不曾看過這多的樓仔厝                                           那會整個天頂是攏總全沙",
+      "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù            ná ē kui-ê thinn-tíng sī lóng tsóng tsuân sua",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "不曾看過這多的樓仔厝",
+          "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù"
+        },
+        {
+          "text": "那會整個天頂是攏總全沙",
+          "spelling": "ná ē kui-ê thinn-tíng sī lóng tsóng tsuân sua"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "不曾看過這多的樓仔厝                                           那會烏托麥攏鑽來頭前擱後壁",
+      "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù            ná ē oo-tóo-bái lóng tsǹg lâi thâu-tsîng khè au-piah",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "不曾看過這多的樓仔厝",
+          "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù"
+        },
+        {
+          "text": "那會烏托麥攏鑽來頭前擱後壁",
+          "spelling": "ná ē oo-tóo-bái lóng tsǹg lâi thâu-tsîng khè au-piah"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "不曾看過這多的樓仔厝                                           紅燈青燈伊老師哪像攏總沒教",
+      "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù            âng-ting tshenn-ting i lāu-su ná tshiūnn lóng-tsóng bô-kà",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "不曾看過這多的樓仔厝",
+          "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù"
+        },
+        {
+          "text": "紅燈青燈伊老師哪像攏總沒教",
+          "spelling": "âng-ting tshenn-ting i lāu-su ná tshiūnn lóng-tsóng bô-kà"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "不曾看過這多的樓仔厝",
+      "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "歸條路攏是賣鞋擱賣杉",
+      "spelling": "kui tiâu lōo lóng sī bē ê kah bē sam",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "還有一條街整個攏在做電影",
+      "spelling": "iáu-ū tsi̍t tiâu ke kui-ê lóng leh tsò tiān-iánn",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "有個朋友擱實在有影很有禮",
+      "spelling": "ū ê pîng-iú gah si̍t-tsāi ū iánn tsiok ū lé",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "手給阮拖著擱一直叫阮入來坐",
+      "spelling": "tshiú kā gún thua tio̍h kah it-ti̍t kiò gún li̍p lâi tsē",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "阮要來去東區去感受一下",
+      "spelling": "gún beh lâi-khì tang-qù khì kám-siū yīxià",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "看那的人敢是攏總穿甲族趴",
+      "spelling": "khuànn hiâ ê lâng kám sī lóng tsóng tshīng kah tso̍k tà",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "擠一下公車擠走半天還沒到我",
+      "spelling": "kheh tsi̍t ê kong-tshia kheh kui puànn-kang iáu-bē tio̍h guá",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "歸去又擱來去坐那落計程車",
+      "spelling": "kui khì iū koh lâi-khì tsō tse lo̍h kè-thîng-tshia",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "想過來又想過去                                            那會整排車大家攏在喘大氣",
+      "spelling": "siūnn kuè-lâi iū siūnn kuè-khì                ná ē kui pâi tshia ta̍k-ke lóng leh tshuán tuā-khì",
+      "source_lines": [
+        84,
+        85
+      ],
+      "parts": [
+        {
+          "text": "想過來又想過去",
+          "spelling": "siūnn kuè-lâi iū siūnn kuè-khì"
+        },
+        {
+          "text": "那會整排車大家攏在喘大氣",
+          "spelling": "ná ē kui pâi tshia ta̍k-ke lóng leh tshuán tuā-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "想過來又想過去                                            那會大家攏給垃圾丟在路邊",
+      "spelling": "siūnn kuè-lâi iū siūnn kuè-khì                ná ē ta̍k-ke lóng kā pùn-sò tàn tī lōo-pinn",
+      "source_lines": [
+        87,
+        88
+      ],
+      "parts": [
+        {
+          "text": "想過來又想過去",
+          "spelling": "siūnn kuè-lâi iū siūnn kuè-khì"
+        },
+        {
+          "text": "那會大家攏給垃圾丟在路邊",
+          "spelling": "ná ē ta̍k-ke lóng kā pùn-sò tàn tī lōo-pinn"
+        }
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "想過來又想過去                                            天上的鳥仔是安怎攏總飛去避",
+      "spelling": "siūnn kuè-lâi iū siūnn kuè-khì                thinn-tíng ê tsiáu-á sī an-tsuánn lóng tsóng tsáu khì pī",
+      "source_lines": [
+        90,
+        91
+      ],
+      "parts": [
+        {
+          "text": "想過來又想過去",
+          "spelling": "siūnn kuè-lâi iū siūnn kuè-khì"
+        },
+        {
+          "text": "天上的鳥仔是安怎攏總飛去避",
+          "spelling": "thinn-tíng ê tsiáu-á sī an-tsuánn lóng tsóng tsáu khì pī"
+        }
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "想過來又想過去                                            這款的環境伊敢有影住會舒適",
+      "spelling": "siūnn kuè-lâi iū siūnn kuè-khì                tsit-khuán ê khuân-kíng i kám ū iánn tuà ē sù-sī",
+      "source_lines": [
+        93,
+        94
+      ],
+      "parts": [
+        {
+          "text": "想過來又想過去",
+          "spelling": "siūnn kuè-lâi iū siūnn kuè-khì"
+        },
+        {
+          "text": "這款的環境伊敢有影住會舒適",
+          "spelling": "tsit-khuán ê khuân-kíng i kám ū iánn tuà ē sù-sī"
+        }
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "想過來又想過去",
+      "spelling": "siūnn kuè-lâi iū siūnn kuè-khì",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "看到大家人伊家哪像攏足好額",
+      "spelling": "khuànn tio̍h ta̍k-ke lâng iân-tâu ná tshiūnn lóng tsiok-hó gia̍h",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "七八十攤排在路邊在賣東西",
+      "spelling": "tshit peh tsa̍p tànn pâi tī lōo-pinn leh bē mi̍h-kiānn",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "熊熊咻一下歸下攏總沒看人影",
+      "spelling": "hiong hiong hiu tsi̍t-ē kui ē lóng-tsóng bô khuànn lâng iánn",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "當時啊就是那個警察 擱來抓",
+      "spelling": "tang sî ah tio̍h sī hit ê kíng-tshat khò lâi lia̍h",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "阮要來去士林夜市感受一下",
+      "spelling": "gún beh lâi-khì sū-lîm e su gǎn shòu yī xià",
+      "source_lines": [
+        111,
+        112
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "聽說那個東西實在有影有夠好吃",
+      "spelling": "thiann-kóng hiâ ê mi̍h-kiānn si̍t tsāi ū-iánn ū kàu hó tsia̍h",
+      "source_lines": [
+        114,
+        115
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "要找公車牌我找甲霧煞煞",
+      "spelling": "beh tshuē kong-tshia pâi guá tshuē kah bū-suah-suah",
+      "source_lines": [
+        117,
+        118
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "看破的要花那個兩百八去坐計程車",
+      "spelling": "khuànn phò ê beh goh gai hit ê liǎng bǎi pat khì tsē kè-tîng-tshia",
+      "source_lines": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "轉過來轉過去                                   轉甲司機險險撞從安全島去",
+      "spelling": "se̍h kuè-lâi se̍h kuè-khì                se̍h kah su-ki hiám hiám lòng tuì an-tsuân tó khì",
+      "source_lines": [
+        123,
+        124
+      ],
+      "parts": [
+        {
+          "text": "轉過來轉過去",
+          "spelling": "se̍h kuè-lâi se̍h kuè-khì"
+        },
+        {
+          "text": "轉甲司機險險撞從安全島去",
+          "spelling": "se̍h kah su-ki hiám hiám lòng tuì an-tsuân tó khì"
+        }
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "轉過來轉過去                                   轉甲今嘛不知是民國幾年",
+      "spelling": "se̍h kuè-lâi se̍h kuè-khì                se̍h kah jīn ma m̄ tsai sī bîn-kok kuí nî",
+      "source_lines": [
+        126,
+        127
+      ],
+      "parts": [
+        {
+          "text": "轉過來轉過去",
+          "spelling": "se̍h kuè-lâi se̍h kuè-khì"
+        },
+        {
+          "text": "轉甲今嘛不知是民國幾年",
+          "spelling": "se̍h kah jīn ma m̄ tsai sī bîn-kok kuí nî"
+        }
+      ]
+    },
+    {
+      "id": "line-129",
+      "text": "轉過來轉過去                                   轉甲這世人那樣無通呷到百二",
+      "spelling": "se̍h kuè-lâi se̍h kuè-khì                se̍h kah tsit-sì lâng ná tsiūnn bô-thang kah jia kah bǎi èr",
+      "source_lines": [
+        129,
+        130
+      ],
+      "parts": [
+        {
+          "text": "轉過來轉過去",
+          "spelling": "se̍h kuè-lâi se̍h kuè-khì"
+        },
+        {
+          "text": "轉甲這世人那樣無通呷到百二",
+          "spelling": "se̍h kah tsit-sì lâng ná tsiūnn bô-thang kah jia kah bǎi èr"
+        }
+      ]
+    },
+    {
+      "id": "line-132",
+      "text": "轉過來轉過去                                   轉甲全身軀煞感覺攏無趣味",
+      "spelling": "se̍h kuè-lâi se̍h kuè-khì                se̍h kah kui-sin-khu suah kám-kak lóng bô tshù-bī",
+      "source_lines": [
+        132,
+        133
+      ],
+      "parts": [
+        {
+          "text": "轉過來轉過去",
+          "spelling": "se̍h kuè-lâi se̍h kuè-khì"
+        },
+        {
+          "text": "轉甲全身軀煞感覺攏無趣味",
+          "spelling": "se̍h kah kui-sin-khu suah kám-kak lóng bô tshù-bī"
+        }
+      ]
+    },
+    {
+      "id": "line-135",
+      "text": "轉過來轉過去",
+      "spelling": "se̍h kuè-lâi se̍h kuè-khì",
+      "source_lines": [
+        135,
+        136
+      ]
+    },
+    {
+      "id": "line-138",
+      "text": "整條路攏擠甲看沒頭前",
+      "spelling": "kui tiâu lōo lóng kheh kah khuànn-bô thâu-tsîng",
+      "source_lines": [
+        138,
+        139
+      ]
+    },
+    {
+      "id": "line-141",
+      "text": "還擱有一間鐵厝是有夠大間",
+      "spelling": "iáu-koh ū tsi̍t king thih-tshù sī ū kàu tuā king",
+      "source_lines": [
+        141,
+        142
+      ]
+    },
+    {
+      "id": "line-144",
+      "text": "在賣蚵仔煎 牛排肉圓花枝和銼冰",
+      "spelling": "leh bē ô-á-tsian gû-pâi bah-uân hue-ki kah tsua̍h ping",
+      "source_lines": [
+        144,
+        145
+      ]
+    },
+    {
+      "id": "line-147",
+      "text": "還擱有一種大餅 包小餅",
+      "spelling": "iáu-koh ū tsi̍t tsíng tuā-piánn pau sió piánn",
+      "source_lines": [
+        147,
+        148
+      ]
+    },
+    {
+      "id": "line-150",
+      "text": "不曾看過這多的樓仔厝                                           那會土腳歸會攏是一坑一缺",
+      "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù            ná ē thóo kha kui ē lóng sī tsi̍t khenn tsi̍t khiàm",
+      "source_lines": [
+        150,
+        151
+      ],
+      "parts": [
+        {
+          "text": "不曾看過這多的樓仔厝",
+          "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù"
+        },
+        {
+          "text": "那會土腳歸會攏是一坑一缺",
+          "spelling": "ná ē thóo kha kui ē lóng sī tsi̍t khenn tsi̍t khiàm"
+        }
+      ]
+    },
+    {
+      "id": "line-153",
+      "text": "不曾看過這多的樓仔厝                                           那會整個天頂是攏總全沙",
+      "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù            ná ē kui-ê thinn-tíng sī lóng tsóng tsuân sua",
+      "source_lines": [
+        153,
+        154
+      ],
+      "parts": [
+        {
+          "text": "不曾看過這多的樓仔厝",
+          "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù"
+        },
+        {
+          "text": "那會整個天頂是攏總全沙",
+          "spelling": "ná ē kui-ê thinn-tíng sī lóng tsóng tsuân sua"
+        }
+      ]
+    },
+    {
+      "id": "line-156",
+      "text": "不曾看過這多的樓仔厝                                           那會烏托麥攏鑽來頭前擱後壁",
+      "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù            ná ē oo-tóo-bái lóng tsǹg lâi thâu-tsîng khè au-piah",
+      "source_lines": [
+        156,
+        157
+      ],
+      "parts": [
+        {
+          "text": "不曾看過這多的樓仔厝",
+          "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù"
+        },
+        {
+          "text": "那會烏托麥攏鑽來頭前擱後壁",
+          "spelling": "ná ē oo-tóo-bái lóng tsǹg lâi thâu-tsîng khè au-piah"
+        }
+      ]
+    },
+    {
+      "id": "line-159",
+      "text": "不曾看過這多的樓仔厝                                           紅燈青燈伊老師哪像攏總沒教",
+      "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù            âng-ting tshenn-ting i lāu-su ná tshiūnn lóng-tsóng bô-kà",
+      "source_lines": [
+        159,
+        160
+      ],
+      "parts": [
+        {
+          "text": "不曾看過這多的樓仔厝",
+          "spelling": "m̄ bat khuànn kuè tsia tsē ê lâu á tshù"
+        },
+        {
+          "text": "紅燈青燈伊老師哪像攏總沒教",
+          "spelling": "âng-ting tshenn-ting i lāu-su ná tshiūnn lóng-tsóng bô-kà"
+        }
+      ]
+    },
+    {
+      "id": "line-162",
+      "text": "煞嚨無~",
+      "spelling": "sannh lóng bô～",
+      "source_lines": [
+        162,
+        163
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：伍佰  詞曲 伍佰  台語拼音：關德樂"
+    }
+  ],
+  "notes": [
+    {
+      "line": 165,
+      "text": "Note:  This song was quite a chore to get written down.  I tried my best to denote any use of Chinese pinyin in the translation, and though I believe most of this translation to be correct, it is very possible that minute mistakes exist within.  Please don’t be too harsh!"
+    }
+  ],
+  "reasons": [
+    "source_note_requires_review:165",
+    "unpaired_line:167"
+  ]
+}

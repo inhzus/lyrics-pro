@@ -1,0 +1,30 @@
+{
+  "selected": {
+    "song_id": 156520,
+    "title": "下港人在台北市",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "双面人",
+    "duration": 273.2,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:156520",
+      "duration": 273.2,
+      "ready": false,
+      "coverage": 0.96875,
+      "exact_fraction": 0.875,
+      "summary": {
+        "credit": 3,
+        "unresolved": 1,
+        "gap": 2,
+        "exact": 21,
+        "approximate": 3,
+        "repeat": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "selected": {
+    "song_id": 248686,
+    "title": "点不着的番仔火",
+    "artists": [
+      "江蕙"
+    ],
+    "album": "江蕙10年‧典藏精选",
+    "duration": 272.373,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:248686",
+      "duration": 272.373,
+      "ready": false,
+      "coverage": 0.525,
+      "exact_fraction": 0.5,
+      "summary": {
+        "credit": 3,
+        "gap": 3,
+        "exact": 1,
+        "approximate": 1,
+        "unresolved": 19,
+        "repeat": 19
+      }
+    },
+    {
+      "recording_id": "netease:249192",
+      "duration": 272.373,
+      "ready": false,
+      "coverage": 0.475,
+      "exact_fraction": 0.45,
+      "summary": {
+        "credit": 3,
+        "exact": 1,
+        "approximate": 1,
+        "unresolved": 21,
+        "repeat": 17,
+        "gap": 2
+      }
+    }
+  ]
+}

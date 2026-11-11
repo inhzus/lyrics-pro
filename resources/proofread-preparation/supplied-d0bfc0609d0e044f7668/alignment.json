@@ -1,0 +1,396 @@
+{
+  "recording_id": "netease:241592",
+  "timing_source": "NetEase https://music.163.com/song?id=241592",
+  "manual_source": "User-supplied resources/lyrics-spelling/愛情的酒攏袂退-黃乙玲",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 3,
+    "unresolved": 24
+  },
+  "review_row_count": 24,
+  "unmatched_manual_ids": [
+    "line-9:0",
+    "line-12:0"
+  ],
+  "unused_repeat_ids": [
+    "line-3:0",
+    "line-6:0",
+    "line-15:0",
+    "line-18:0",
+    "line-21:0",
+    "line-24:0",
+    "line-27:0",
+    "line-30:0",
+    "line-33:0",
+    "line-36:0",
+    "line-39:0",
+    "line-42:0",
+    "line-45:0",
+    "line-48:0",
+    "line-51:0",
+    "line-54:0",
+    "line-57:0",
+    "line-60:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 李秉宗",
+      "match_text": "作词 : 李秉宗",
+      "text": "作词 : 李秉宗",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 0.28,
+      "online_text": "作曲 : 李秉宗",
+      "match_text": "作曲 : 李秉宗",
+      "text": "作曲 : 李秉宗",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 0.57,
+      "online_text": "﻿爱情的酒拢袜退",
+      "match_text": "﻿爱情的酒拢袜退",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 1.56,
+      "online_text": "词曲：李秉宗",
+      "match_text": "词曲：李秉宗",
+      "text": "词曲：李秉宗",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 4,
+      "time": 1.8599999999999999,
+      "online_text": "爱情的酒拢袜退",
+      "match_text": "爱情的酒拢袜退",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 4.59,
+      "online_text": "伤心何时才会过",
+      "match_text": "伤心何时才会过",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 9.21,
+      "online_text": "心内的话",
+      "match_text": "心内的话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 9.96,
+      "online_text": "还剩这呢多",
+      "match_text": "还剩这呢多",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 16.56,
+      "online_text": "欲讲恐惊无机会",
+      "match_text": "欲讲恐惊无机会",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 19.53,
+      "online_text": "日日夜夜思念你",
+      "match_text": "日日夜夜思念你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-9:0"
+    },
+    {
+      "source_row": 10,
+      "time": 45.63,
+      "online_text": "真心真爱不是假",
+      "match_text": "真心真爱不是假",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-9:0"
+    },
+    {
+      "source_row": 11,
+      "time": 49.98,
+      "online_text": "海风冷冷陪伴阮归暝",
+      "match_text": "海风冷冷陪伴阮归暝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-12:0"
+    },
+    {
+      "source_row": 12,
+      "time": 54.42,
+      "online_text": "为何心事这呢多",
+      "match_text": "为何心事这呢多",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-12:0"
+    },
+    {
+      "source_row": 13,
+      "time": 60.39,
+      "online_text": "快乐心情欲叨找",
+      "match_text": "快乐心情欲叨找",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 65.91,
+      "online_text": "甘讲注定歹命底",
+      "match_text": "甘讲注定歹命底",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 88.83,
+      "online_text": "阮的感情只有你详细",
+      "match_text": "阮的感情只有你详细",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 148.02,
+      "online_text": "为何见面讲无话",
+      "match_text": "为何见面讲无话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 152.19,
+      "online_text": "爱情的酒拢袜退",
+      "match_text": "爱情的酒拢袜退",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 197.73,
+      "online_text": "醉到何时才会醒",
+      "match_text": "醉到何时才会醒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 202.11,
+      "online_text": "感情这呢长",
+      "match_text": "感情这呢长",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 204.24,
+      "online_text": "青春这呢短",
+      "match_text": "青春这呢短",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 206.82,
+      "online_text": "不通放阮孤一个",
+      "match_text": "不通放阮孤一个",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 210.84,
+      "online_text": "爱情的酒拢袜退",
+      "match_text": "爱情的酒拢袜退",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 215.13,
+      "online_text": "伤心何时才会过",
+      "match_text": "伤心何时才会过",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 219.72,
+      "online_text": "心内的话",
+      "match_text": "心内的话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 220.65,
+      "online_text": "还剩这呢多",
+      "match_text": "还剩这呢多",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 227.34,
+      "online_text": "欲讲恐惊无机会",
+      "match_text": "欲讲恐惊无机会",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "0f8416cfe1ac37a2bd52b3015010625f38b49418e8ec2fdb4e9b1794fdb07ec6",
+    "manual": "4808218dbb3960b414f9224f951e6e564c0fdc32767fc68f320b4fb28d97c27b",
+    "timed": "4cc400ba356875e4e8bd52123fe1f1dc8e184e1fa760703e1f7f90c6a2d22784"
+  }
+}

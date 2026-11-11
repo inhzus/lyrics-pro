@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 399366483,
+      "title": "彼时的青春",
+      "artists": [
+        "夕阳武士"
+      ],
+      "album": "日出",
+      "duration": 233.0,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,488 @@
+{
+  "recording_id": "netease:28661104",
+  "timing_source": "NetEase https://music.163.com/song?id=28661104",
+  "manual_source": "User-supplied resources/lyrics-spelling/愛河-陳建瑋",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "unresolved": 17,
+    "gap": 6,
+    "exact": 8,
+    "approximate": 1
+  },
+  "review_row_count": 26,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-19:0",
+    "line-55:0"
+  ],
+  "unused_repeat_ids": [
+    "line-25:0",
+    "line-28:0",
+    "line-46:0",
+    "line-49:0",
+    "line-58:0",
+    "line-61:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 武雄",
+      "match_text": "作词 : 武雄",
+      "text": "作词 : 武雄",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 陈建玮",
+      "match_text": "作曲 : 陈建玮",
+      "text": "作曲 : 陈建玮",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 21.54,
+      "online_text": "手若捋过你的头鬃",
+      "match_text": "手若捋过你的头鬃",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 3,
+      "time": 26.2,
+      "online_text": "心内感觉足茫",
+      "match_text": "心内感觉足茫",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 4,
+      "time": 32.01,
+      "online_text": "亲像故乡的河水凉凉",
+      "match_text": "亲像故乡的河水凉凉",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 5,
+      "time": 35.81,
+      "online_text": "轻轻流过我昔日的梦",
+      "match_text": "轻轻流过我昔日的梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 6,
+      "time": 41.76,
+      "online_text": "已经熟似遐尔济冬",
+      "match_text": "已经熟似遐尔济冬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 7,
+      "time": 46.91,
+      "online_text": "心愿犹原相仝",
+      "match_text": "心愿犹原相仝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 8,
+      "time": 51.03,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 9,
+      "time": 52.64,
+      "online_text": "希望早日取你倒转去",
+      "match_text": "希望早日取你倒转去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 10,
+      "time": 56.48,
+      "online_text": "认真拍拼等待成功彼工",
+      "match_text": "认真拍拼等待成功彼工",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 11,
+      "time": 61.18,
+      "online_text": "城市吵吵闹闹的路 沉沉重重的雨",
+      "match_text": "城市吵吵闹闹的路 沉沉重重的雨",
+      "text": "城市吵吵鬧鬧的路 沉沉重重的雨",
+      "spelling": "siânn-tshī tshá-tshá-nāu-nāu ê lōo tîm-tîm-tāng-tāng ê hōo",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 64.76,
+      "online_text": "闪闪烁烁灯号 扰乱我的跤步",
+      "match_text": "闪闪烁烁灯号 扰乱我的跤步",
+      "text": "閃閃爍爍燈號 擾亂我的跤步",
+      "spelling": "siám-siám-sih-sih ting-hō jiáu-luān guá ê kha-pōo",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 68.66,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 14,
+      "time": 71.18,
+      "online_text": "若是我一直揣无头路",
+      "match_text": "若是我一直揣无头路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-19:0"
+    },
+    {
+      "source_row": 15,
+      "time": 73.83,
+      "online_text": "一直等无出路 一直想无撇步",
+      "match_text": "一直等无出路 一直想无撇步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-19:0"
+    },
+    {
+      "source_row": 16,
+      "time": 76.28,
+      "online_text": "心爱的 你敢欲缀我食苦",
+      "match_text": "心爱的 你敢欲缀我食苦",
+      "text": "心愛的 你敢欲綴我食苦",
+      "spelling": "sim-ài-ê lí kám bē tuè guá tsia̍h-khóo",
+      "manual_id": "line-22:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 82.79,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 18,
+      "time": 84.99,
+      "online_text": "Love River 流去佗 我为何心遐尔糟",
+      "match_text": "Love River 流去佗 我为何心遐尔糟",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 95.22,
+      "online_text": "Love River 流去佗 梦回我思念的河",
+      "match_text": "Love River 流去佗 梦回我思念的河",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 104.7,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 21,
+      "time": 128.03,
+      "online_text": "城市弯弯斡斡的路 冷冷淡淡的雨",
+      "match_text": "城市弯弯斡斡的路 冷冷淡淡的雨",
+      "text": "城市彎彎斡斡的路 冷冷淡淡的雨",
+      "spelling": "siânn-tshī uan-uan-uat-uat ê lōo líng-líng-tām-tām ê hōo",
+      "manual_id": "line-31:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 131.57,
+      "online_text": "凌凌乱乱灯号 变甲彼尔生疏",
+      "match_text": "凌凌乱乱灯号 变甲彼尔生疏",
+      "text": "凌凌亂亂燈號 變甲彼爾生疏",
+      "spelling": "lîng-lîng-luān-luān ting-hō piàn kah hiah-nī senn-sòo",
+      "manual_id": "line-34:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 135.67,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 24,
+      "time": 137.77,
+      "online_text": "若是我一直继续爱你",
+      "match_text": "若是我一直继续爱你",
+      "text": "若是我一直繼續愛你",
+      "spelling": "nā-sī guá it-ti̍t kè-sio̍k ài lí",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 140.42,
+      "online_text": "一直继续疼你 一直继续等你",
+      "match_text": "一直继续疼你 一直继续等你",
+      "text": "一直繼續疼你 一直繼續等你",
+      "spelling": "it-ti̍t kè-sio̍k thiànn lí it-ti̍t kè-sio̍k tán lí",
+      "manual_id": "line-40:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 143.01,
+      "online_text": "到最后 你敢欲做我的某",
+      "match_text": "到最后 你敢欲做我的某",
+      "text": "到最後 你敢欲做我的某",
+      "spelling": "kàu tsuè-āu lí kám bē tsuè guá ê bóo",
+      "manual_id": "line-43:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 151.95,
+      "online_text": "Love River 流去佗 我为何心遐尔糟",
+      "match_text": "Love River 流去佗 我为何心遐尔糟",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 162.04,
+      "online_text": "Love River 流去佗 梦回我思念的河",
+      "match_text": "Love River 流去佗 梦回我思念的河",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 172.57,
+      "online_text": "Love River 流去佗 我应该如何是好",
+      "match_text": "Love River 流去佗 我应该如何是好",
+      "text": "Love River 流去佗 Let Me Know 我應該如何是好",
+      "spelling": "Love River lâu khì tó Let Me Know guá ing-kai lû-hô sī hó",
+      "manual_id": "line-52:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.808511
+    },
+    {
+      "source_row": 30,
+      "time": 182.42,
+      "online_text": "Love River 流去佗 梦回青春",
+      "match_text": "Love River 流去佗 梦回青春",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 190.53,
+      "online_text": "梦回港都 梦回思念的河",
+      "match_text": "梦回港都 梦回思念的河",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 198.78,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 33,
+      "time": 201.04,
+      "online_text": "梦回青春 梦回港都 梦回思念的河",
+      "match_text": "梦回青春 梦回港都 梦回思念的河",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "d3e796800f99d92ba337f7747ab3f71977ec08ca31a8b4f5076331bf6f0f0774",
+    "manual": "5d85c4b0d0484cd897a5ef6463cbc8d6a86d4ebf4658f64e117bfb453e6b9d2d",
+    "timed": "5dc9428f17b3bab00f3d2f3428d426e61e7b94f275d39343a057e5a444084cad"
+  }
+}

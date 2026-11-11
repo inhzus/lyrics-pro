@@ -1,0 +1,201 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "天清清 地靈靈 城輕輕 人閒閒",
+      "spelling": "thinn tshinn tshinn tē lîng lîng siânn khin khin lâng îng îng",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "巷仔內伊佇遐絲敏豆 等待誰的黃昏後",
+      "spelling": "hāng-á lāi i hiâ tī bín-tāu tán-thāi siáng ê hông-hun āu",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "入內坐 緊入內坐 捏話頭",
+      "spelling": "ji̍p lāi tsē kín ji̍p lāi tsē lia̍p uē-thâu",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "五條河 流去佗? 輕便車 踅去佗",
+      "spelling": "gōo tiâu hô lâu khì tó khing-piān-tshia se̍h khì tó",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "啉一杯古味的青草茶",
+      "spelling": "lim tsi̍t pue kóo bī ê tshenn-tsháu-tê",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "幾百年啊時間短",
+      "spelling": "kuí pah liân ah sî-kan té",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "老先覺 伊的故事 猶寡濟?",
+      "spelling": "láu sian-kak i ê kòo-sū iáu kuánn tsè",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "媽祖你嘛拜啦! 王爺你嘛拜一下",
+      "spelling": "má-tsóo lí mah pài lah ông-iâ lí mah pài tsi̍t-ē",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "水仙宮斡過去 碗粿你著配鹹糜",
+      "spelling": "tsuí-sian king uat kuè khì uánn-kué lí tio̍h phuè kiâm-muê",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "風神你嘛拜啦 藥王你嘛拜一下",
+      "spelling": "hong-sîn lí mah pài lah io̍h-ông lí mah pài tsi̍t-ē",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "一面牆 搬一齣戲 咱的夢 演到何時?",
+      "spelling": "tsi̍t-bīn tshiûnn puann tsi̍t tshut hì lán ê bāng ián tio̍h hô-sî",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "月娘趕日頭 風微微",
+      "spelling": "gue̍h-niû kuánn ji̍t-thâu hong bî bî",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "五條河 流去佗? 輕便車 踅去佗",
+      "spelling": "gōo tiâu hô lâu khì tó khing-piān-tshia se̍h khì tó",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "啉一杯古味的青草茶",
+      "spelling": "lim tsi̍t pue kóo bī ê tshenn-tsháu-tê",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "幾百年啊時間短",
+      "spelling": "kuí pah liân ah sî-kan té",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "老先覺 伊的故事 猶寡濟?",
+      "spelling": "láu sian-kak i ê kòo-sū iáu kuánn tsè",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "媽祖你嘛拜啦! 王爺你嘛拜一下",
+      "spelling": "má-tsóo lí mah pài lah ông-iâ lí mah pài tsi̍t-ē",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "水仙宮斡過去 碗粿你著配鹹糜",
+      "spelling": "tsuí-sian king uat kuè khì uánn-kué lí tio̍h phuè kiâm-muê",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "風神你嘛拜啦 藥王你嘛拜一下",
+      "spelling": "hong-sîn lí mah pài lah io̍h-ông lí mah pài tsi̍t-ē",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "一面牆 搬一齣戲 咱的夢 演到何時?",
+      "spelling": "tsi̍t-bīn tshiûnn puann tsi̍t tshut hì lán ê bāng ián tio̍h hô-sî",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "月娘趕日頭 風微微",
+      "spelling": "gue̍h-niû kuánn ji̍t-thâu hong bî bî",
+      "source_lines": [
+        63,
+        64
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：謝銘祐   作曲：謝銘祐   台語拼音： 關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

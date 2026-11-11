@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 449769019,
+    "title": "仝款的月娘",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "钉子花",
+    "duration": 273.336,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:449769019",
+      "duration": 273.336,
+      "ready": false,
+      "coverage": 0.5128205128205128,
+      "exact_fraction": 0.5357142857142857,
+      "summary": {
+        "credit": 2,
+        "exact": 5,
+        "unresolved": 9,
+        "approximate": 4,
+        "repeat": 10
+      }
+    }
+  ]
+}

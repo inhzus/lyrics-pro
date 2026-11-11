@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "song_id": 16308886,
+    "title": "牵阮的手",
+    "artists": [
+      "苏打绿"
+    ],
+    "album": "十年一刻",
+    "duration": 233.586667,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrclib:16308886",
+      "duration": 233.586667,
+      "ready": true,
+      "coverage": 1.0,
+      "exact_fraction": 1.0,
+      "summary": {
+        "repeat": 12,
+        "gap": 2,
+        "exact": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "你甲我到底有啥咪關係 為何看到你攏會感覺歹勢",
+      "spelling": "lí kā guá tàu-té ū siánn-mih kuan-hē  uī-hô khuànn-tio̍h lí lóng ē kám-kak pháinn-sè",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "甘是過去阮有欠你多儕 啊無你那會 對阮恰北北",
+      "spelling": "kam sī kuè-khì gún ū khiàm lí luā tsē  ah bô lí ná-ē  tuì gún tshiah pe̍h pe̍h",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "欠你多儕 欠你 欠你 欠你  多儕",
+      "spelling": "khiàm lí luā tsē khiàm lí  khiàm lí luā tsē",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "欠你多儕 欠你 欠你 欠你",
+          "spelling": "khiàm lí luā tsē khiàm lí"
+        },
+        {
+          "text": "多儕",
+          "spelling": "khiàm lí luā tsē"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "你甲我到底有啥咪關係 為何遇到你阮總是頭厘厘",
+      "spelling": "lí kā guá tàu-té ū siánn-mih kuan-hē  uī-hô gū-tio̍h lí gún tsóng-sī thâu lê lê",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "無論到底攏呼你壓落底 連阮喘氣 你嘛有問題",
+      "spelling": "bô-lūn tàu-té lóng hoo lí ah-lo̍h-té  liân gún tshuán-khuì  lí mā ū būn-tê",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "你嘛有問題",
+      "spelling": "lí mā ū būn-tê",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "你底兇啥伙 對阮這呢硬",
+      "spelling": "lí té tshiah siánn-huè  tuì gún tsia-ne ngē",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "無人親像你 管我這呢濟",
+      "spelling": "bô-lâng tshin-tshiūnn lí  kuán guá tsia-nî tsè",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "啊～你底算啥伙 嗆甲這呢白",
+      "spelling": "ah～lí té sǹg siánn-huè  hiam kā tsia-nî pe̍h",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "無人親像你 乎阮這歹過",
+      "spelling": "bô-lâng tshin-tshiūnn lí  honnh gún tsia pháinn-kuè",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "你甲我到底有啥咪關係 為何看到你攏會感覺歹勢",
+      "spelling": "lí kā guá tàu-té ū siánn-mih kuan-hē  uī-hô khuànn-tio̍h lí lóng ē kám-kak pháinn-sè",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "甘是過去阮有欠你多儕 啊無你那會 對阮恰北北",
+      "spelling": "kam sī kuè-khì gún ū khiàm lí luā tsē  ah bô lí ná-ē  tuì gún tshiah pe̍h pe̍h",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "到底你我是啥咪關係 當初是你無愛呼阮對",
+      "spelling": "tàu-té lí guá sī siánn-mih kuan-hē  tong-tshoo sī lí bô ài hoo gún tuì",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "如今你講擱想欲做伙 但是我希望自由飛",
+      "spelling": "lû-kim lí kóng koh siūnn-beh tsò-hué  tān-sī guá hi-bāng tsū-iû pue",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "你甲我到底有啥咪關係 為何看到你攏會感覺歹勢",
+      "spelling": "lí kā guá tàu-té ū siánn-mih kuan-hē  uī-hô khuànn-tio̍h lí lóng ē kám-kak pháinn-sè",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "是啥咪關係",
+      "spelling": "sī siánn-mih kuan-hē",
+      "source_lines": [
+        48,
+        49
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳永吉   作曲：吳永吉   台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

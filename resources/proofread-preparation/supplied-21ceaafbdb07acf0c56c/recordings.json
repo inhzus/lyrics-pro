@@ -1,0 +1,93 @@
+{
+  "candidates": [
+    {
+      "song_id": 70100,
+      "title": "欢喜就好",
+      "artists": [
+        "陈雷"
+      ],
+      "album": "欢喜就好",
+      "duration": 207.826,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 69470,
+      "title": "欢喜就好",
+      "artists": [
+        "陈雷"
+      ],
+      "album": "烧翻卖2",
+      "duration": 207.827,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2610606625,
+      "title": "欢喜就好",
+      "artists": [
+        "陈雷"
+      ],
+      "album": "台语12大卖座金曲（2）夏季",
+      "duration": 206.333,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 27904127,
+      "title": "欢喜就好",
+      "artists": [
+        "陈雷"
+      ],
+      "album": "寇老西儿",
+      "duration": 210.352,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 3346396594,
+      "title": "欢喜就好",
+      "artists": [
+        "陳雷"
+      ],
+      "album": "金圆10年烧翻卖2",
+      "duration": 207.333,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1320956352,
+      "title": "欢喜就好",
+      "artists": [
+        "小鱼音乐"
+      ],
+      "album": "欢喜就好（翻自 陈雷）",
+      "duration": 136.833,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3416375547,
+      "title": "欢喜就好",
+      "artists": [
+        "大头针"
+      ],
+      "album": "欢喜就好",
+      "duration": 197.616,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2601896764,
+      "title": "欢喜就好",
+      "artists": [
+        "半岛茶"
+      ],
+      "album": "超嗨热歌 | 车载必备70",
+      "duration": 148.511,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

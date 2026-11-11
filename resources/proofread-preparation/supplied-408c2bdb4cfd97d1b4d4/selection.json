@@ -1,0 +1,43 @@
+{
+  "selected": {
+    "song_id": 156372,
+    "title": "往事欲如何",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "忘情1015精选辑",
+    "duration": 263.053,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "netease:156372",
+      "duration": 263.053,
+      "ready": false,
+      "coverage": 0.5,
+      "exact_fraction": 0.17857142857142858,
+      "summary": {
+        "credit": 3,
+        "approximate": 9,
+        "unresolved": 14,
+        "exact": 5,
+        "gap": 3
+      }
+    },
+    {
+      "recording_id": "netease:156516",
+      "duration": 263.546,
+      "ready": false,
+      "coverage": 0.5,
+      "exact_fraction": 0.17857142857142858,
+      "summary": {
+        "credit": 3,
+        "approximate": 9,
+        "unresolved": 14,
+        "exact": 5,
+        "gap": 1
+      }
+    }
+  ]
+}

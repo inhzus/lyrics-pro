@@ -1,0 +1,767 @@
+{
+  "recording_id": "netease:168377",
+  "timing_source": "NetEase https://music.163.com/song?id=168377",
+  "manual_source": "User-supplied resources/lyrics-spelling/國民學校-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "approximate": 15,
+    "exact": 2,
+    "gap": 11,
+    "unresolved": 23
+  },
+  "review_row_count": 40,
+  "unmatched_manual_ids": [
+    "line-6:0",
+    "line-24:0",
+    "line-27:0",
+    "line-33:0",
+    "line-51:0",
+    "line-54:0",
+    "line-66:0",
+    "line-87:0",
+    "line-90:0"
+  ],
+  "unused_repeat_ids": [
+    "line-45:0",
+    "line-48:0",
+    "line-81:0",
+    "line-84:0",
+    "line-93:0",
+    "line-96:0",
+    "line-99:0",
+    "line-102:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [
+    {
+      "source_rows": [
+        7,
+        8
+      ],
+      "phrase": "有人決定"
+    },
+    {
+      "source_rows": [
+        28,
+        29
+      ],
+      "phrase": "連議長"
+    }
+  ],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 武雄",
+      "match_text": "作词 : 武雄",
+      "text": "作词 : 武雄",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 22.81,
+      "online_text": "阮故乡港边彼间比阿爸卡老的国民学校",
+      "match_text": "阮故乡港边彼间比阿爸卡老的国民学校",
+      "text": "阮故鄉港邊彼間　比阿爸卡老",
+      "spelling": "gún kòo-hiong káng-pinn tsi̍t king pí a-pa khah láu",
+      "manual_id": "line-3:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.827586
+    },
+    {
+      "source_row": 3,
+      "time": 28.38,
+      "online_text": "地动彼年真有福气 政府欲加翻新",
+      "match_text": "地动彼年真有福气 政府欲加翻新",
+      "text": "真有福氣　政府欲加翻新",
+      "spelling": "tsin ū hok-khì tsìng-hú beh ka huan-sin",
+      "manual_id": "line-9:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 4,
+      "time": 33.84,
+      "online_text": "复杂的计划牵涉庄头所有派系",
+      "match_text": "复杂的计划牵涉庄头所有派系",
+      "text": "複雜的計畫　牽涉莊頭所有派系",
+      "spelling": "ho̍k-tsa̍p ê kè-uē khan-sia̍p tsng-thâu sóo-ū phài-hē",
+      "manual_id": "line-12:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 5,
+      "time": 39.0,
+      "online_text": "一时黑白两道吵咙袂停",
+      "match_text": "一时黑白两道吵咙袂停",
+      "text": "一時黑白兩道吵嚨袂停",
+      "spelling": "tsi̍t-sî oo-pe̍h lióng tō tshá lōng buē thîng",
+      "manual_id": "line-15:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 44.19,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 7,
+      "time": 45.29,
+      "online_text": "有人讲学校的路一定爱买伊的地",
+      "match_text": "有人讲学校的路一定爱买伊的地",
+      "text": "有人講學校的路　一定愛買伊的地有人決定",
+      "spelling": "ū-lâng kóng ha̍k-hāu ê lōo it-tīng ài bé i ê tē ū-lâng kuat-tīng",
+      "manual_id": "line-18:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment",
+        "phrase_crosses_source_boundary"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 8,
+      "time": 50.38,
+      "online_text": "有人决定田无爱种 要起一个商场",
+      "match_text": "有人决定田无爱种 要起一个商场",
+      "text": "田無愛種　要起一個商場",
+      "spelling": "tshân bô ài tsióng beh khí tsi̍t ê siong-tiûnn",
+      "manual_id": "line-21:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment",
+        "phrase_crosses_source_boundary"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 9,
+      "time": 56.32,
+      "online_text": "人人有计划 人人拢咧车盘翻",
+      "match_text": "人人有计划 人人拢咧车盘翻",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-27:0"
+    },
+    {
+      "source_row": 10,
+      "time": 61.39,
+      "online_text": "动用所有关系欲去申请",
+      "match_text": "动用所有关系欲去申请",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-27:0"
+    },
+    {
+      "source_row": 11,
+      "time": 66.3,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 12,
+      "time": 67.3,
+      "online_text": "无人管学校前 彼条马路 每天拢嘛篷篷英",
+      "match_text": "无人管学校前 彼条马路 每天拢嘛篷篷英",
+      "text": "無人管　學校前　彼條馬路每天",
+      "spelling": "bô-lâng kuán ha̍k-hāu tsiân hit tiâu bé-lōo ta̍k kang",
+      "manual_id": "line-30:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.827586
+    },
+    {
+      "source_row": 13,
+      "time": 72.52,
+      "online_text": "连公车不时都会 找无所在通好停",
+      "match_text": "连公车不时都会 找无所在通好停",
+      "text": "不時都　會找無所在通好停",
+      "spelling": "put-sî lóng ē tshuē bô sóo-tsāi thang-hó thîng",
+      "manual_id": "line-36:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.88
+    },
+    {
+      "source_row": 14,
+      "time": 78.13,
+      "online_text": "不惊风不惊雨 每日准时来学校可爱的学生",
+      "match_text": "不惊风不惊雨 每日准时来学校可爱的学生",
+      "text": "不驚風　不驚雨　每日準時來學校",
+      "spelling": "m̄-kiann hong m̄-kiann hōo muí-li̍t tsún-sî lâi ha̍k-hāu",
+      "manual_id": "line-39:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.83871
+    },
+    {
+      "source_row": 15,
+      "time": 83.71,
+      "online_text": "尚惊上班的汽车 赶路不愿停",
+      "match_text": "尚惊上班的汽车 赶路不愿停",
+      "text": "可愛的學生尚驚上班的汽車　趕路不願停",
+      "spelling": "khó-ài ê ha̍k-sing siōng kiann siōng-pan ê khì-tshia kuánn-lōo m̄-guān thîng",
+      "manual_id": "line-42:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.827586
+    },
+    {
+      "source_row": 16,
+      "time": 91.46,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 17,
+      "time": 92.52,
+      "online_text": "红灯边仔彼个囝仔",
+      "match_text": "红灯边仔彼个囝仔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 97.67,
+      "online_text": "有谁人会当带伊过马路",
+      "match_text": "有谁人会当带伊过马路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 103.56,
+      "online_text": "骂来骂去彼阵大人",
+      "match_text": "骂来骂去彼阵大人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 108.98,
+      "online_text": "拜托恁声音不通相吵啦",
+      "match_text": "拜托恁声音不通相吵啦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 116.5,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 22,
+      "time": 148.5,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 23,
+      "time": 151.0,
+      "online_text": "新计划听讲征收市长殷表兄新买的旧田",
+      "match_text": "新计划听讲征收市长殷表兄新买的旧田",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 156.82,
+      "online_text": "真正不幸有人开枪暗杀一个议员",
+      "match_text": "真正不幸有人开枪暗杀一个议员",
+      "text": "有人開槍　暗殺一個議員",
+      "spelling": "ū-lâng khui-tshìng àm-sat tsi̍t ê gī-uân",
+      "manual_id": "line-57:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 25,
+      "time": 162.18,
+      "online_text": "最后的计划不是所有人拢满意",
+      "match_text": "最后的计划不是所有人拢满意",
+      "text": "最後的計畫　不是所有人攏滿意",
+      "spelling": "tsuè-āu ê kè-uē m̄ sī sóo-iú lâng lóng buán-ì",
+      "manual_id": "line-60:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 26,
+      "time": 167.54,
+      "online_text": "现实亲像马路永远拢袂停",
+      "match_text": "现实亲像马路永远拢袂停",
+      "text": "現實親像馬路永遠攏袂停",
+      "spelling": "hiān-si̍t tshin-tshiūnn bé-lōo íng-uán buē thîng",
+      "manual_id": "line-63:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 172.3,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 28,
+      "time": 173.18,
+      "online_text": "无人管学校边出现酒店 甲网咖也有赚食间",
+      "match_text": "无人管学校边出现酒店 甲网咖也有赚食间",
+      "text": "出現酒店甲網咖　也有賺食間連議長",
+      "spelling": "tshut-hiān tsiú-tiàm kā wǎng kā mā-ū thàn-tsia̍h king liân gī-tiúnn",
+      "manual_id": "line-69:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment",
+        "phrase_crosses_source_boundary"
+      ],
+      "similarity": 0.727273
+    },
+    {
+      "source_row": 29,
+      "time": 178.6,
+      "online_text": "连议长拢有股 正经back有够硬",
+      "match_text": "连议长拢有股 正经back有够硬",
+      "text": "攏有股　正經back有夠𠕇",
+      "spelling": "lóng ū kóo tsìng-king back ū kàu tīng",
+      "manual_id": "line-72:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment",
+        "phrase_crosses_source_boundary"
+      ],
+      "similarity": 0.814815
+    },
+    {
+      "source_row": 30,
+      "time": 184.12,
+      "online_text": "欲落成彼一日 有真多人来学校抗议甲游行",
+      "match_text": "欲落成彼一日 有真多人来学校抗议甲游行",
+      "text": "欲落成　彼一日　有真多人來學校",
+      "spelling": "beh lo̍k-sîng hit tsi̍t-ji̍t ū tsin tsē lâng lâi ha̍k-hāu",
+      "manual_id": "line-75:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.83871
+    },
+    {
+      "source_row": 31,
+      "time": 189.75,
+      "online_text": "归条马路上拢总是选举的声音",
+      "match_text": "归条马路上拢总是选举的声音",
+      "text": "抗議甲遊行歸條馬路上攏總是　選舉的聲音",
+      "spelling": "khòng-gī kā iû-hîng kui tiâu bé-lōo siōng lóng-tsóng sī suán-kí ê siann-im",
+      "manual_id": "line-78:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.83871
+    },
+    {
+      "source_row": 32,
+      "time": 194.95,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 33,
+      "time": 198.03,
+      "online_text": "红灯边仔彼个囝仔",
+      "match_text": "红灯边仔彼个囝仔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 203.82,
+      "online_text": "有谁人会当带伊过马路",
+      "match_text": "有谁人会当带伊过马路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 209.55,
+      "online_text": "骂来骂去彼阵大人",
+      "match_text": "骂来骂去彼阵大人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 214.82,
+      "online_text": "拜托恁声音不通相吵啦",
+      "match_text": "拜托恁声音不通相吵啦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 221.4,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 38,
+      "time": 222.98,
+      "online_text": "甘不知恁的子弟",
+      "match_text": "甘不知恁的子弟",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-87:0"
+    },
+    {
+      "source_row": 39,
+      "time": 226.36,
+      "online_text": "需要安静来读册",
+      "match_text": "需要安静来读册",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-87:0"
+    },
+    {
+      "source_row": 40,
+      "time": 228.95,
+      "online_text": "一天到晚惦这吵闹的人",
+      "match_text": "一天到晚惦这吵闹的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-90:0"
+    },
+    {
+      "source_row": 41,
+      "time": 233.73,
+      "online_text": "恁甘不识字",
+      "match_text": "恁甘不识字",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-90:0"
+    },
+    {
+      "source_row": 42,
+      "time": 239.6,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 43,
+      "time": 240.62,
+      "online_text": "红灯边仔彼个囝仔",
+      "match_text": "红灯边仔彼个囝仔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 245.73,
+      "online_text": "有谁人会当带伊过马路",
+      "match_text": "有谁人会当带伊过马路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 251.48,
+      "online_text": "骂来骂去彼阵大人",
+      "match_text": "骂来骂去彼阵大人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 256.75,
+      "online_text": "拜托恁声音不通相吵啦",
+      "match_text": "拜托恁声音不通相吵啦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 262.1,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 48,
+      "time": 262.92,
+      "online_text": "红灯边仔彼个囝仔",
+      "match_text": "红灯边仔彼个囝仔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 49,
+      "time": 268.03,
+      "online_text": "有谁人会当带伊过马路",
+      "match_text": "有谁人会当带伊过马路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 50,
+      "time": 273.82,
+      "online_text": "骂来骂去彼阵大人",
+      "match_text": "骂来骂去彼阵大人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 51,
+      "time": 279.1,
+      "online_text": "拜托恁声音不通相吵啦",
+      "match_text": "拜托恁声音不通相吵啦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 52,
+      "time": 287.19,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "121c836e7c5b72a4e3bfe4e6bd580aa87293cc32409e4b013f47fa1e2c6affc4",
+    "manual": "0bd72a1b5073d02366a9ea4462a7b93c35f7e6455657096d217ee2ef38fc3b36",
+    "timed": "82e75c924bcb4d84ba3951d744266392ceeedd620c7ed3800ed4369a1af82983"
+  }
+}

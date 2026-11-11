@@ -1,0 +1,549 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "港邊又吹來南風　                                咱來走著輕鬆的腳步",
+      "spelling": "káng-pinn iū tshue lâi lâm-hong    lán lâi kiânn-tio̍h khin-sang ê kha-pōo",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "港邊又吹來南風",
+          "spelling": "káng-pinn iū tshue lâi lâm-hong"
+        },
+        {
+          "text": "咱來走著輕鬆的腳步",
+          "spelling": "lán lâi kiânn-tio̍h khin-sang ê kha-pōo"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "走向神秘熱情的路　                              海風吹來妳的香味",
+      "spelling": "kiânn hiòng sîn-pì jia̍t-tsîng ê lōo    hái-hong tshue lâi lí ê phang-bī",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "走向神秘熱情的路",
+          "spelling": "kiânn hiòng sîn-pì jia̍t-tsîng ê lōo"
+        },
+        {
+          "text": "海風吹來妳的香味",
+          "spelling": "hái-hong tshue lâi lí ê phang-bī"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "阮的心情　真輕鬆",
+      "spelling": "guán ê sim-tsîng  tsiânn khin-sang",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "嘛有提起約束　                         講要做伙組一個家庭",
+      "spelling": "mah ū thê-khí iok-sok            kóng beh tsò-hué tsoo tsi̍t ê ka-tîng",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "嘛有提起約束",
+          "spelling": "mah ū thê-khí iok-sok"
+        },
+        {
+          "text": "講要做伙組一個家庭",
+          "spelling": "kóng beh tsò-hué tsoo tsi̍t ê ka-tîng"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "不管伊世事安怎變化　                             阮的要求隴總答應",
+      "spelling": "m̄ kuán i sè-sū an-tsuánn piàn-huà    gún ê iau-kiû lóng tsóng tah-ìng",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "不管伊世事安怎變化",
+          "spelling": "m̄ kuán i sè-sū an-tsuánn piàn-huà"
+        },
+        {
+          "text": "阮的要求隴總答應",
+          "spelling": "gún ê iau-kiû lóng tsóng tah-ìng"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "吹起海風　妳是阮的人",
+      "spelling": "tshue khí hái-hong  lí sī gún ê lâng",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "記得舊年的熱天　                              妳講永久心不變",
+      "spelling": "gi dèd kiu ngiěn dàg ngied tién    nǐ gòng iùn giù xím bùd bien",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "記得舊年的熱天",
+          "spelling": "gi dèd kiu ngiěn dàg ngied tién"
+        },
+        {
+          "text": "妳講永久心不變",
+          "spelling": "nǐ gòng iùn giù xím bùd bien"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "沒想到妳也真絕情　                         真情分海風吹散淨",
+      "spelling": "mǒ xiòng dò nǐ ia ziín qied qǐn    ziín qǐn bún hoì fúng coí san qiang",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "沒想到妳也真絕情",
+          "spelling": "mǒ xiòng dò nǐ ia ziín qied qǐn"
+        },
+        {
+          "text": "真情分海風吹散淨",
+          "spelling": "ziín qǐn bún hoì fúng coí san qiang"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "不甘願提起妳　                     怨嘆作妳嫁別人",
+      "spelling": "m̄ kam guān thê-khí lí        uàn-thàn tsuè lí kè pa̍t-lâng",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "不甘願提起妳",
+          "spelling": "m̄ kam guān thê-khí lí"
+        },
+        {
+          "text": "怨嘆作妳嫁別人",
+          "spelling": "uàn-thàn tsuè lí kè pa̍t-lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "低路的男性真不幸哦",
+      "spelling": "kē-lōo ê lâm-sìng tsiânn bû hīng hoh",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "作妳去嫁別人　                    心肝真正凝",
+      "spelling": "tsuè lí khì kè pa̍t-lâng        sim-kuann tsin-tsiànn gîng",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "作妳去嫁別人",
+          "spelling": "tsuè lí khì kè pa̍t-lâng"
+        },
+        {
+          "text": "心肝真正凝",
+          "spelling": "sim-kuann tsin-tsiànn gîng"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "上界憨是阮多情兄",
+      "spelling": "siōng kài gōng sī gún to tsîng hiann",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "作妳去嫁別人　                     心肝真正凝",
+      "spelling": "tsuè lí khì kè pa̍t-lâng        sim-kuann tsin-tsiànn gîng",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "作妳去嫁別人",
+          "spelling": "tsuè lí khì kè pa̍t-lâng"
+        },
+        {
+          "text": "心肝真正凝",
+          "spelling": "sim-kuann tsin-tsiànn gîng"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "低路的男性真不幸哦",
+      "spelling": "kē-lōo ê lâm-sìng tsiânn bû hīng hoh",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "作妳去嫁別人　                    糟蹋咱的情",
+      "spelling": "tsuè lí khì kè pa̍t-lâng        tsháu-ta̍h lán ê tsîng",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "作妳去嫁別人",
+          "spelling": "tsuè lí khì kè pa̍t-lâng"
+        },
+        {
+          "text": "糟蹋咱的情",
+          "spelling": "tsháu-ta̍h lán ê tsîng"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "上界憨是多情兄",
+      "spelling": "siōng kài gōng sī to tsîng hiann",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "港邊又吹來冷風　                                拖著沉重無聊的腳步",
+      "spelling": "káng-pinn iū tshue lâi líng-hong    thua-tio̍h tîm-tāng bô-liâu ê kha-pōo",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "港邊又吹來冷風",
+          "spelling": "káng-pinn iū tshue lâi líng-hong"
+        },
+        {
+          "text": "拖著沉重無聊的腳步",
+          "spelling": "thua-tio̍h tîm-tāng bô-liâu ê kha-pōo"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "安怎神秘熱情的路　                          如今變得冷冷清清",
+      "spelling": "an-tsuánn sîn-pì jia̍t-tsîng ê lōo    lû-kim piàn kah líng-líng-tshing-tshing",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "安怎神秘熱情的路",
+          "spelling": "an-tsuánn sîn-pì jia̍t-tsîng ê lōo"
+        },
+        {
+          "text": "如今變得冷冷清清",
+          "spelling": "lû-kim piàn kah líng-líng-tshing-tshing"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "吹著海風　真傷心",
+      "spelling": "tshue-tio̍h hái-hong  tsiânn siong-sim",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "嘛有提起約束　                         講要做伙組一個家庭",
+      "spelling": "mah ū thê-khí iok-sok            kóng beh tsò-hué tsoo tsi̍t ê ka-tîng",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "嘛有提起約束",
+          "spelling": "mah ū thê-khí iok-sok"
+        },
+        {
+          "text": "講要做伙組一個家庭",
+          "spelling": "kóng beh tsò-hué tsoo tsi̍t ê ka-tîng"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "不管伊世事安怎變化　                             妳的要求隴總答應",
+      "spelling": "m̄ kuán i sè-sū an-tsuánn piàn-huà    lí ê iau-kiû lóng tsóng tah-ìng",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "不管伊世事安怎變化",
+          "spelling": "m̄ kuán i sè-sū an-tsuánn piàn-huà"
+        },
+        {
+          "text": "妳的要求隴總答應",
+          "spelling": "lí ê iau-kiû lóng tsóng tah-ìng"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "吹著海風　只有阮一人",
+      "spelling": "tshue-tio̍h hái-hong  tsí-ū gún tsi̍t lâng",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "記得舊年的熱天　                             妳講永久心不變",
+      "spelling": "gi dèd kiu ngiěn dàg ngied tién    nǐ gòng iùn giù xím bùd bien",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "記得舊年的熱天",
+          "spelling": "gi dèd kiu ngiěn dàg ngied tién"
+        },
+        {
+          "text": "妳講永久心不變",
+          "spelling": "nǐ gòng iùn giù xím bùd bien"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "沒想到妳也真絕情　                         真情分海風吹散淨",
+      "spelling": "mǒ xiòng dò nǐ ia ziín qied qǐn    ziín qǐn bún hoì fúng coí san qiang",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "沒想到妳也真絕情",
+          "spelling": "mǒ xiòng dò nǐ ia ziín qied qǐn"
+        },
+        {
+          "text": "真情分海風吹散淨",
+          "spelling": "ziín qǐn bún hoì fúng coí san qiang"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "不甘願提起妳　                      怨嘆作妳嫁別人",
+      "spelling": "m̄ kam guān thê-khí lí        uàn-thàn tsuè lí kè pa̍t-lâng",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "不甘願提起妳",
+          "spelling": "m̄ kam guān thê-khí lí"
+        },
+        {
+          "text": "怨嘆作妳嫁別人",
+          "spelling": "uàn-thàn tsuè lí kè pa̍t-lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "低路的男性真不幸哦",
+      "spelling": "kē-lōo ê lâm-sìng tsiânn bû hīng hoh",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "作妳去嫁別人　                    心肝真正凝",
+      "spelling": "tsuè lí khì kè pa̍t-lâng        sim-kuann tsin-tsiànn gîng",
+      "source_lines": [
+        81,
+        82
+      ],
+      "parts": [
+        {
+          "text": "作妳去嫁別人",
+          "spelling": "tsuè lí khì kè pa̍t-lâng"
+        },
+        {
+          "text": "心肝真正凝",
+          "spelling": "sim-kuann tsin-tsiànn gîng"
+        }
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "上界憨是阮多情兄",
+      "spelling": "siōng kài gōng sī gún to tsîng hiann",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "作妳去嫁別人　                    心肝真正凝",
+      "spelling": "tsuè lí khì kè pa̍t-lâng        sim-kuann tsin-tsiànn gîng",
+      "source_lines": [
+        87,
+        88
+      ],
+      "parts": [
+        {
+          "text": "作妳去嫁別人",
+          "spelling": "tsuè lí khì kè pa̍t-lâng"
+        },
+        {
+          "text": "心肝真正凝",
+          "spelling": "sim-kuann tsin-tsiànn gîng"
+        }
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "低路的男性真不幸哦",
+      "spelling": "kē-lōo ê lâm-sìng tsiânn bû hīng hoh",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "作妳去嫁別人　                    糟蹋咱的情",
+      "spelling": "tsuè lí khì kè pa̍t-lâng        tsháu-ta̍h lán ê tsîng",
+      "source_lines": [
+        93,
+        94
+      ],
+      "parts": [
+        {
+          "text": "作妳去嫁別人",
+          "spelling": "tsuè lí khì kè pa̍t-lâng"
+        },
+        {
+          "text": "糟蹋咱的情",
+          "spelling": "tsháu-ta̍h lán ê tsîng"
+        }
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "上界憨是多情兄",
+      "spelling": "siōng kài gōng sī to tsîng hiann",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "港邊又吹來冷風　                                拖著沉重無聊的腳步",
+      "spelling": "káng-pinn iū tshue lâi líng-hong    thua-tio̍h tîm-tāng bô-liâu ê kha-pōo",
+      "source_lines": [
+        99,
+        100
+      ],
+      "parts": [
+        {
+          "text": "港邊又吹來冷風",
+          "spelling": "káng-pinn iū tshue lâi líng-hong"
+        },
+        {
+          "text": "拖著沉重無聊的腳步",
+          "spelling": "thua-tio̍h tîm-tāng bô-liâu ê kha-pōo"
+        }
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "安怎神秘熱情的路　                          如今變得冷冷清清",
+      "spelling": "an-tsuánn sîn-pì jia̍t-tsîng ê lōo    lû-kim piàn kah líng-líng-tshing-tshing",
+      "source_lines": [
+        102,
+        103
+      ],
+      "parts": [
+        {
+          "text": "安怎神秘熱情的路",
+          "spelling": "an-tsuánn sîn-pì jia̍t-tsîng ê lōo"
+        },
+        {
+          "text": "如今變得冷冷清清",
+          "spelling": "lû-kim piàn kah líng-líng-tshing-tshing"
+        }
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "吹著海風　傷心多情兄",
+      "spelling": "tshue-tio̍h hái-hong  siong-sim to tsîng hiann",
+      "source_lines": [
+        105,
+        106
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [
+    {
+      "line": 1,
+      "text": "Note:  Words in italics are in Hakka, all the rest are in Taiwanese."
+    }
+  ],
+  "reasons": [
+    "source_note_requires_review:1"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 490182972,
+      "title": "再会",
+      "artists": [
+        "Ripple"
+      ],
+      "album": "袂开的花",
+      "duration": 315.036,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

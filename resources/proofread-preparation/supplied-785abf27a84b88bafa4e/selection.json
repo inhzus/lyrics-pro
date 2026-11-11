@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 410629954,
+    "title": "厚脸皮",
+    "artists": [
+      "李千娜"
+    ],
+    "album": "说实话",
+    "duration": 184.683,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:410629954",
+      "duration": 184.683,
+      "ready": false,
+      "coverage": 0.2692307692307692,
+      "exact_fraction": 0.19230769230769232,
+      "summary": {
+        "exact": 3,
+        "approximate": 2,
+        "gap": 6,
+        "repeat": 2,
+        "unresolved": 19
+      }
+    }
+  ]
+}

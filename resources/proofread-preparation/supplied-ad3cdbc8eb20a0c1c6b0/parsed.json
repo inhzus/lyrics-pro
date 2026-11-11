@@ -1,0 +1,175 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "自悲自嘆歹命人 父母本來真疼痛",
+      "spelling": "tsū pi tsū-thàn pháinn miā lâng pē-bú pún-lâi tsin thiànn-thàng",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "乎我讀書幾多冬 出業頭路無半項",
+      "spelling": "honnh guá tha̍k-tsu kuí loo tang tshut-gia̍p thâu lōo bô puànn hāng",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "暫時來賣燒肉粽",
+      "spelling": "tsiām-sî lâi buē sio bah-tsàng",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "燒肉粽　燒肉粽　賣燒肉粽",
+      "spelling": "sio bah-tsàng    sio bah-tsàng   buē sio bah-tsàng",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "要做生理真困難 那無本錢做未動",
+      "spelling": "bē tsuè sing-lí tsin khùn-lân ná bô pún tsînn tsuè buē tāng",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "不正行為是不通 所以暫時做這項",
+      "spelling": "put-tsìng hîng-uî sī put thàng sóo-í tsiām-sî tsuè tsit hāng",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "環境逼我賣肉粽",
+      "spelling": "khuân-kíng pik guá buē sio bah-tsàng",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "燒肉粽　燒肉粽　賣燒肉粽",
+      "spelling": "sio bah-tsàng    sio bah-tsàng   buē sio bah-tsàng",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "物件一日一日貴 厝內頭嘴這大堆",
+      "spelling": "m̄ kiānn tsi̍t-ji̍t tsi̍t-ji̍t kuì  tshù lāi-thâu tshuì tsia-tuā-tui",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "雙腳跑到要鐵腿  遇著無銷尚克虧",
+      "spelling": "siang-kha kiânn-kàu beh thih thuí  gū-tio̍h bô-siau siūnn khik-khui",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "雙腳跑到要鐵腿",
+          "spelling": "siang-kha kiânn-kàu beh thih thuí"
+        },
+        {
+          "text": "遇著無銷尚克虧",
+          "spelling": "gū-tio̍h bô-siau siūnn khik-khui"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "認真再賣燒肉粽",
+      "spelling": "jīn-tsin tsài buē sio bah-tsàng",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "燒肉粽　燒肉粽　賣燒肉粽",
+      "spelling": "sio bah-tsàng    sio bah-tsàng   buē sio bah-tsàng",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "自悲自嘆歹命人 父母本來真疼痛",
+      "spelling": "tsū pi tsū-thàn pháinn miā lâng pē-bú pún-lâi tsin thiànn-thàng",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "乎我讀書幾多冬 出業頭路無半項",
+      "spelling": "honnh guá tha̍k-tsu kuí loo tang tshut-gia̍p thâu lōo bô puànn hāng",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "暫時來賣燒肉粽",
+      "spelling": "tsiām-sî lâi buē sio bah-tsàng",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "燒肉粽　燒肉粽　賣燒肉粽",
+      "spelling": "sio bah-tsàng    sio bah-tsàng   buē sio bah-tsàng",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "燒肉粽　燒肉粽　賣燒肉粽",
+      "spelling": "sio bah-tsàng    sio bah-tsàng   buē sio bah-tsàng",
+      "source_lines": [
+        51,
+        52
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：張邱東松    作曲：董事長樂團  & 劉福助  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

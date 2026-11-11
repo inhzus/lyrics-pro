@@ -1,0 +1,445 @@
+{
+  "recording_id": "netease:410629954",
+  "timing_source": "NetEase https://music.163.com/song?id=410629954",
+  "manual_source": "User-supplied resources/lyrics-spelling/厚臉皮-李千娜",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "exact": 3,
+    "approximate": 2,
+    "gap": 6,
+    "repeat": 2,
+    "unresolved": 19
+  },
+  "review_row_count": 21,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-12:0",
+    "line-15:0",
+    "line-18:0",
+    "line-21:0",
+    "line-24:0",
+    "line-27:0",
+    "line-39:0",
+    "line-42:0",
+    "line-45:0",
+    "line-48:0",
+    "line-51:0",
+    "line-54:0",
+    "line-57:0",
+    "line-60:0",
+    "line-66:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 15.77,
+      "online_text": "跌伫这 跌伫遐 为你付出的无彩工",
+      "match_text": "跌伫这 跌伫遐 为你付出的无彩工",
+      "text": "跌佇這 跌佇遐 為你付出的無彩工",
+      "spelling": "pua̍h tī tsia  pua̍h tī hiâ  uî lí hù-tshut ê bô tshái kang",
+      "manual_id": "line-3:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 23.17,
+      "online_text": "U Lay E 你U Lay E 佚迌无了时",
+      "match_text": "U Lay E 你U Lay E 佚迌无了时",
+      "text": "U Lay E 你 U Lay E 七逃無了時",
+      "spelling": "U Lay E lí  U Lay E tshit tô bô liáu-sî",
+      "manual_id": "line-6:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 2,
+      "time": 29.74,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 30.71,
+      "online_text": "想袂开 想袂开 毋是已经决心欲离开",
+      "match_text": "想袂开 想袂开 毋是已经决心欲离开",
+      "text": "想袂開 想袂開 毋是已經決心欲離開",
+      "spelling": "siūnn buē khui  siūnn buē khui   m̄ sī í-king kuat-sim beh lī-khui",
+      "manual_id": "line-9:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 38.13,
+      "online_text": "厚面皮 厚面皮 你又搁回头",
+      "match_text": "厚面皮 厚面皮 你又搁回头",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 45.06,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 6,
+      "time": 45.72,
+      "online_text": "呜～呜～ 有影无影",
+      "match_text": "呜～呜～ 有影无影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 53.18,
+      "online_text": "想起彼当时 乎你吃够够",
+      "match_text": "想起彼当时 乎你吃够够",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 59.84,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 9,
+      "time": 61.3,
+      "online_text": "请你唛搁讲 喔 请你唛搁讲",
+      "match_text": "请你唛搁讲 喔 请你唛搁讲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 65.38,
+      "online_text": "你搁按怎褒 喔 也是没结果",
+      "match_text": "你搁按怎褒 喔 也是没结果",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 69.11,
+      "online_text": "这步无路用 喔 这步无路用 （拢是你的蚊 喔 拢是你的蚊）",
+      "match_text": "这步无路用 喔 这步无路用 （拢是你的蚊 喔 拢是你的蚊）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 72.9,
+      "online_text": "我只想要逃 唛来客烧",
+      "match_text": "我只想要逃 唛来客烧",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 76.86,
+      "online_text": "喔～ 喔～ 喔～ 喔～",
+      "match_text": "喔～ 喔～ 喔～ 喔～",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 84.15,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 15,
+      "time": 90.81,
+      "online_text": "捶心肝 捶心肝 乎你舞甲我几落孔",
+      "match_text": "捶心肝 捶心肝 乎你舞甲我几落孔",
+      "text": "捶心肝 捶心肝 乎你舞甲我幾落孔",
+      "spelling": "tuî sim-kuann  tuî sim-kuann  honnh lí bú kah guá kuí lo̍h khang",
+      "manual_id": "line-30:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 98.13,
+      "online_text": "吃卡歹 你吃卡歹 我袂搁留恋",
+      "match_text": "吃卡歹 你吃卡歹 我袂搁留恋",
+      "text": "吃卡歹 你吃卡歹 我袂擱留戀",
+      "spelling": "tsia̍h kha̍h pháinn  lí tsia̍h kha̍h pháinn  guá bē kok liû-luân",
+      "manual_id": "line-33:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.916667
+    },
+    {
+      "source_row": 17,
+      "time": 104.75,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 18,
+      "time": 105.64,
+      "online_text": "想袂开 想袂开  毋是已经决心欲离开",
+      "match_text": "想袂开 想袂开  毋是已经决心欲离开",
+      "text": "想袂開 想袂開 毋是已經決心欲離開",
+      "spelling": "siūnn buē khui  siūnn buē khui   m̄ sī í-king kuat-sim beh lī-khui",
+      "manual_id": "line-9:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 113.12,
+      "online_text": "厚面皮 厚面皮  你又搁回头",
+      "match_text": "厚面皮 厚面皮  你又搁回头",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 120.65,
+      "online_text": "呜～呜～ 有影无影",
+      "match_text": "呜～呜～ 有影无影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 128.15,
+      "online_text": "想起彼当时 乎你吃够够",
+      "match_text": "想起彼当时 乎你吃够够",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 134.69,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 23,
+      "time": 136.31,
+      "online_text": "请你唛搁讲 喔 请你唛搁讲",
+      "match_text": "请你唛搁讲 喔 请你唛搁讲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 140.4,
+      "online_text": "你搁按怎褒 喔 也是没结果",
+      "match_text": "你搁按怎褒 喔 也是没结果",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 144.05,
+      "online_text": "这步无路用 喔 这步无路用 （拢是你的蚊 喔 拢是你的蚊）",
+      "match_text": "这步无路用 喔 这步无路用 （拢是你的蚊 喔 拢是你的蚊）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 147.82,
+      "online_text": "我只想要逃 唛来客烧",
+      "match_text": "我只想要逃 唛来客烧",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 151.55,
+      "online_text": "请你唛搁讲 喔 请你唛搁讲",
+      "match_text": "请你唛搁讲 喔 请你唛搁讲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 155.41,
+      "online_text": "你搁按怎褒 喔 也是没结果",
+      "match_text": "你搁按怎褒 喔 也是没结果",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 159.1,
+      "online_text": "拢是你的蚊 喔 拢是你的蚊",
+      "match_text": "拢是你的蚊 喔 拢是你的蚊",
+      "text": "攏是你的蚊 喔 攏是你的蚊",
+      "spelling": "lóng sī lí ê báng  ooh  lóng sī lí ê báng",
+      "manual_id": "line-63:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 162.82,
+      "online_text": "我只想要逃 唛来客烧",
+      "match_text": "我只想要逃 唛来客烧",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 166.91,
+      "online_text": "喔～ 喔～ 喔～ 喔～",
+      "match_text": "喔～ 喔～ 喔～ 喔～",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "b002d64772b768d887214930cda3be82d4ef41d89c27816383f8d66276b73cff",
+    "manual": "bb873e755dd44d4f72416df5710edcb16008ec92522983b8d24921d458d86fce",
+    "timed": "d9cffacbc4c4174710b7d8b9673cac951fe9225a23584d4fd45475b895dd0d6a"
+  }
+}

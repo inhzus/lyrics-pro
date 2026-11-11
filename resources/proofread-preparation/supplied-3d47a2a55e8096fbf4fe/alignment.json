@@ -1,0 +1,241 @@
+{
+  "recording_id": "netease:2706343913",
+  "timing_source": "NetEase https://music.163.com/song?id=2706343913",
+  "manual_source": "User-supplied resources/lyrics-spelling/台灣囝仔-男子漢樂團",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 6,
+    "exact": 5,
+    "approximate": 1,
+    "repeat": 3
+  },
+  "review_row_count": 7,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-7:0",
+    "line-16:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 宏大",
+      "match_text": "作词 : 宏大",
+      "text": "作词 : 宏大",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 宏大",
+      "match_text": "作曲 : 宏大",
+      "text": "作曲 : 宏大",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 24.21,
+      "online_text": "台湾囝仔",
+      "match_text": "台湾囝仔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 24.9,
+      "online_text": "词／曲：宏大",
+      "match_text": "词／曲：宏大",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 58.32,
+      "online_text": "风吹来 真爽快 大家拢踏伫这片土地",
+      "match_text": "风吹来 真爽快 大家拢踏伫这片土地",
+      "text": "風吹來 真爽快 大家攏踏佇這片土地",
+      "spelling": "hong-tshue lâi tsin sóng khuài ta̍k-ke lóng khiâ tī tsit phìnn thóo-tē",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 69.09,
+      "online_text": "想欲飞 飞去叨 阿母叫我认真读册",
+      "match_text": "想欲飞 飞去叨 阿母叫我认真读册",
+      "text": "想欲飛 飛去叨 阿母叫我認真讀冊",
+      "spelling": "siūnn-beh pue pue khì duē a-bú kiò guá līn-tsin tha̍k-tsheh",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 75.21,
+      "online_text": "嘿嘿 嘿嘿嘿",
+      "match_text": "嘿嘿 嘿嘿嘿",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 86.76,
+      "online_text": "熟识你 遇到伊 大家拢嘛是厝边头尾",
+      "match_text": "熟识你 遇到伊 大家拢嘛是厝边头尾",
+      "text": "熟似你 拄到伊 大家攏嘛是厝邊頭尾",
+      "spelling": "si̍k-sāi lí tú-tio̍h i ta̍k-ke lóng mā-sī tshù-pinn thâu-bué",
+      "manual_id": "line-10:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.866667
+    },
+    {
+      "source_row": 8,
+      "time": 93.51,
+      "online_text": "讲台语 说客话 其实国语嘛真流利",
+      "match_text": "讲台语 说客话 其实国语嘛真流利",
+      "text": "講台語 說客話 其實國語嘛真流利",
+      "spelling": "kóng Tâi-gí kóng kheh-uē kî-si̍t kok-gí mā tsin liû-lē",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 107.49,
+      "online_text": "嘿嘿 嘿嘿嘿",
+      "match_text": "嘿嘿 嘿嘿嘿",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 125.4,
+      "online_text": "打拼赚 认真做 为了生活的老百姓",
+      "match_text": "打拼赚 认真做 为了生活的老百姓",
+      "text": "打拼賺 認真做 為了生活的老百姓",
+      "spelling": "phah-piànn thàn līn-tsin tsuè uī-tio̍h sing-ua̍h ê láu-peh-sènn",
+      "manual_id": "line-31:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 165.33,
+      "online_text": "古早味 台北市 永远拢嘛是台湾味",
+      "match_text": "古早味 台北市 永远拢嘛是台湾味",
+      "text": "古早味 台北市 永遠攏嘛是台灣味",
+      "spelling": "kóo-tsá bī Tāi-pak-tshī íng-uán lóng mā-sī Tâi-uân bī",
+      "manual_id": "line-34:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 173.16,
+      "online_text": "嘿嘿 嘿嘿嘿",
+      "match_text": "嘿嘿 嘿嘿嘿",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 174.87,
+      "online_text": "你计较这呢多 麦计较这呢多 拢是你的话",
+      "match_text": "你计较这呢多 麦计较这呢多 拢是你的话",
+      "text": "你計較這呢多 麥計較這呢多 攏是你的話",
+      "spelling": "lí kè-kàu tsia-ni-tsuē mài kè-kàu tsia-ni-tsuē lóng sī lí ê uē",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 179.13,
+      "online_text": "站伫这片土地 为着这片土地 麦计较这呢多",
+      "match_text": "站伫这片土地 为着这片土地 麦计较这呢多",
+      "text": "站佇這片土地 為著這片土地 麥計較這呢多",
+      "spelling": "khiā tī tsit phìnn thóo-tē uī-tio̍h tsit phìnn thóo-tē mài kè-kàu tsia-ni-tsuē",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 189.21,
+      "online_text": "你计较这呢多 麦计较这呢多 拢是你的话",
+      "match_text": "你计较这呢多 麦计较这呢多 拢是你的话",
+      "text": "你計較這呢多 麥計較這呢多 攏是你的話",
+      "spelling": "lí kè-kàu tsia-ni-tsuē mài kè-kàu tsia-ni-tsuē lóng sī lí ê uē",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 193.44,
+      "online_text": "站伫这片土地 为了这片土土地 麦计较这呢多",
+      "match_text": "站伫这片土地 为了这片土土地 麦计较这呢多",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "b88faf4355806e777000980672f7a7d891a0e19e2d67475a12405f62baceeeda",
+    "manual": "b55d0a0e08eef4ce823f7e9a5f83e9c672dd12be2ee7764d13dfbabbb6d4a6dc",
+    "timed": "681239bab5179489a5a97de785fa82b1b93474c06f5af305a5bc22a8870650c6"
+  }
+}

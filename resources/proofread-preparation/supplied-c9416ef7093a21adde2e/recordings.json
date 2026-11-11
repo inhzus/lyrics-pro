@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": 350191,
+      "title": "川秋沙",
+      "artists": [
+        "川秋沙"
+      ],
+      "album": "人造沙洲",
+      "duration": 278.066,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2646588278,
+      "title": "川秋沙",
+      "artists": [
+        "川秋沙"
+      ],
+      "album": "Sinogaze, Vol. 1",
+      "duration": 278.232,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "song_id": "1444719876",
+    "title": "陀螺",
+    "artists": [
+      "江蕙"
+    ],
+    "album": "爱作梦的鱼",
+    "duration": 273.267,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1444719876",
+      "duration": 273.267,
+      "ready": false,
+      "coverage": 0.631578947368421,
+      "exact_fraction": 0.71875,
+      "summary": {
+        "repeat": 23,
+        "unresolved": 9
+      }
+    }
+  ]
+}

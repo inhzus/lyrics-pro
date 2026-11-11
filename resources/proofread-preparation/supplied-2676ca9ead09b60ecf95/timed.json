@@ -1,0 +1,281 @@
+{
+  "recording_id": "netease:161137",
+  "source": "NetEase https://music.163.com/song?id=161137",
+  "lines": [
+    {
+      "time": 0,
+      "text": "词曲 : 郭之仪",
+      "kind": "credit"
+    },
+    {
+      "time": 1.0,
+      "text": "制作 : 郭之仪",
+      "kind": "credit"
+    },
+    {
+      "time": 2.0,
+      "text": "编曲 : 丘旺苍",
+      "kind": "credit"
+    },
+    {
+      "time": 3.0,
+      "text": "和声 : 萧蔓萱 谢文德",
+      "kind": "credit"
+    },
+    {
+      "time": 4.0,
+      "text": "吉他 : 倪方来",
+      "kind": "credit"
+    },
+    {
+      "time": 5.0,
+      "text": "发行 : 广东飞碟文化传播有限公司",
+      "kind": "lyric"
+    },
+    {
+      "time": 35.04,
+      "text": "(女)爱好亲像过客",
+      "kind": "lyric"
+    },
+    {
+      "time": 37.82,
+      "text": "(男)情好亲像冬雪",
+      "kind": "lyric"
+    },
+    {
+      "time": 41.57,
+      "text": "(女)一场风雨的经过 将你咱绑作伙",
+      "kind": "lyric"
+    },
+    {
+      "time": 48.57,
+      "text": "(男)无论风块吹 云块飞 情爱像梅花",
+      "kind": "lyric"
+    },
+    {
+      "time": 58.14,
+      "text": "(男)天愈冷",
+      "kind": "lyric"
+    },
+    {
+      "time": 59.76,
+      "text": "(女)心愈撑",
+      "kind": "lyric"
+    },
+    {
+      "time": 61.45,
+      "text": "(合)感情愈坚定",
+      "kind": "lyric"
+    },
+    {
+      "time": 66.01,
+      "text": "(男)爱可比雪中花",
+      "kind": "lyric"
+    },
+    {
+      "time": 69.64,
+      "text": "(女)若是打袂开心内的谜题",
+      "kind": "lyric"
+    },
+    {
+      "time": 73.39,
+      "text": "(合)情爱真真假假 有魂无体",
+      "kind": "lyric"
+    },
+    {
+      "time": 77.51,
+      "text": "(女)雪嘛呒讲话",
+      "kind": "lyric"
+    },
+    {
+      "time": 79.32,
+      "text": "(男)花嘛无声无说",
+      "kind": "lyric"
+    },
+    {
+      "time": 81.01,
+      "text": "(男)情可比云中月",
+      "kind": "lyric"
+    },
+    {
+      "time": 84.89,
+      "text": "(女)若是打开了心内的谜题",
+      "kind": "lyric"
+    },
+    {
+      "time": 88.45,
+      "text": "(合)情爱欢欢喜喜永远作伙",
+      "kind": "lyric"
+    },
+    {
+      "time": 92.14,
+      "text": "(男)云嘛真厚话",
+      "kind": "lyric"
+    },
+    {
+      "time": 94.45,
+      "text": "(女)月嘛听归暝",
+      "kind": "lyric"
+    },
+    {
+      "time": 100.14,
+      "text": "Music",
+      "kind": "lyric"
+    },
+    {
+      "time": 115.76,
+      "text": "(女)爱好亲像过客",
+      "kind": "lyric"
+    },
+    {
+      "time": 119.14,
+      "text": "(男)情好亲像冬雪",
+      "kind": "lyric"
+    },
+    {
+      "time": 122.89,
+      "text": "(女)一场风雨的经过 将你咱绑作伙",
+      "kind": "lyric"
+    },
+    {
+      "time": 129.64,
+      "text": "(男)无论风块吹 云块飞 情爱像梅花",
+      "kind": "lyric"
+    },
+    {
+      "time": 139.51,
+      "text": "(男)天愈冷",
+      "kind": "lyric"
+    },
+    {
+      "time": 140.89,
+      "text": "(女)心愈撑",
+      "kind": "lyric"
+    },
+    {
+      "time": 142.7,
+      "text": "(合)感情愈坚定",
+      "kind": "lyric"
+    },
+    {
+      "time": 146.95,
+      "text": "(男)爱可比雪中花",
+      "kind": "lyric"
+    },
+    {
+      "time": 151.01,
+      "text": "(女)若是打袂开心内的谜题",
+      "kind": "lyric"
+    },
+    {
+      "time": 155.34,
+      "text": "(合)情爱真真假假 有魂无体",
+      "kind": "lyric"
+    },
+    {
+      "time": 159.65,
+      "text": "(女)雪嘛呒讲话",
+      "kind": "lyric"
+    },
+    {
+      "time": 161.34,
+      "text": "(男)花嘛无声无说",
+      "kind": "lyric"
+    },
+    {
+      "time": 162.51,
+      "text": "(男)情可比云中月",
+      "kind": "lyric"
+    },
+    {
+      "time": 166.32,
+      "text": "(女)若是打开了心内的谜题",
+      "kind": "lyric"
+    },
+    {
+      "time": 169.95,
+      "text": "(合)情爱欢欢喜喜永远作伙",
+      "kind": "lyric"
+    },
+    {
+      "time": 174.98,
+      "text": "(男)云嘛真厚话",
+      "kind": "lyric"
+    },
+    {
+      "time": 177.23,
+      "text": "(女)月嘛听归暝",
+      "kind": "lyric"
+    },
+    {
+      "time": 182.79,
+      "text": "(男)爱可比雪中花",
+      "kind": "lyric"
+    },
+    {
+      "time": 186.48,
+      "text": "(女)若是打袂开心内的谜题",
+      "kind": "lyric"
+    },
+    {
+      "time": 190.17,
+      "text": "(合)情爱真真假假 有魂无体",
+      "kind": "lyric"
+    },
+    {
+      "time": 194.39,
+      "text": "(女)雪嘛呒讲话",
+      "kind": "lyric"
+    },
+    {
+      "time": 196.07,
+      "text": "(男)花嘛无声无说",
+      "kind": "lyric"
+    },
+    {
+      "time": 197.82,
+      "text": "(男)情可比云中月",
+      "kind": "lyric"
+    },
+    {
+      "time": 201.57,
+      "text": "(女)若是打开了心内的谜题",
+      "kind": "lyric"
+    },
+    {
+      "time": 205.14,
+      "text": "(合)情爱欢欢喜喜永远作伙",
+      "kind": "lyric"
+    },
+    {
+      "time": 208.7,
+      "text": "(男)云嘛真厚话",
+      "kind": "lyric"
+    },
+    {
+      "time": 211.26,
+      "text": "(女)月嘛听归暝",
+      "kind": "lyric"
+    },
+    {
+      "time": 215.26,
+      "text": "(男)阿～天愈冷",
+      "kind": "lyric"
+    },
+    {
+      "time": 219.51,
+      "text": "(女)心愈坚定",
+      "kind": "lyric"
+    },
+    {
+      "time": 220.14,
+      "text": "(合)恩爱过一生",
+      "kind": "lyric"
+    },
+    {
+      "time": 224.7,
+      "text": "Over",
+      "kind": "lyric"
+    }
+  ]
+}

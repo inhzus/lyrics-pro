@@ -1,0 +1,170 @@
+{
+  "candidates": [
+    {
+      "song_id": 1293904742,
+      "title": "墓仔埔也敢去",
+      "artists": [
+        "伍佰"
+      ],
+      "album": "最爱台语经典2004 3",
+      "duration": 225.346,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 156639,
+      "title": "墓仔埔也敢去",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "爱你伍佰年",
+      "duration": 220.408,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 209709,
+      "title": "墓仔埔也敢去",
+      "artists": [
+        "蔡依林"
+      ],
+      "album": "唯舞独尊 演唱会鲜听版&混音专辑",
+      "duration": 253.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 209606,
+      "title": "墓仔埔也敢去",
+      "artists": [
+        "蔡依林"
+      ],
+      "album": "J世纪Jeneration大牌新曲+精选盘2006-2009",
+      "duration": 255.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1973560615,
+      "title": "墓仔埔也敢去",
+      "artists": [
+        "叶启田"
+      ],
+      "album": "台语怀念老歌精华 24",
+      "duration": 208.641,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2117777081,
+      "title": "墓仔埔也敢去",
+      "artists": [
+        "卓依婷"
+      ],
+      "album": "卓依婷 永垂不朽经典老歌 (精选 3 闽南语)",
+      "duration": 216.781,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1295824246,
+      "title": "墓仔埔也敢去",
+      "artists": [
+        "叶启田"
+      ],
+      "album": "叶启田精选台语金曲集",
+      "duration": 207.333,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3356266325,
+      "title": "墓仔埔也敢去",
+      "artists": [
+        "双电子琴"
+      ],
+      "album": "雷射双电子琴2",
+      "duration": 193.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1294165488,
+      "title": "墓仔埔也敢去",
+      "artists": [
+        "沈文程"
+      ],
+      "album": "百万金曲 1",
+      "duration": 202.613,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1294910289,
+      "title": "墓仔埔也敢去",
+      "artists": [
+        "叶启田"
+      ],
+      "album": "创立50周年纪念盘3",
+      "duration": 207.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1408323306,
+      "title": "墓仔埔也敢去",
+      "artists": [
+        "叶启田"
+      ],
+      "album": "叶启田台语精选, Vol. 1",
+      "duration": 199.026,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1989548773,
+      "title": "墓仔埔也敢去",
+      "artists": [
+        "翁立友"
+      ],
+      "album": "邦尼达闽南语选集40",
+      "duration": 200.384,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1295824183,
+      "title": "墓仔埔也敢去",
+      "artists": [
+        "叶启田"
+      ],
+      "album": "叶启田经典珍藏版(1)",
+      "duration": 207.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1852838915,
+      "title": "墓仔埔也敢去",
+      "artists": [
+        "妞妞姐妹"
+      ],
+      "album": "青春舞台秀 01 妞妞姐妹",
+      "duration": 187.477,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1861396471,
+      "title": "墓仔埔也敢去",
+      "artists": [
+        "叶启田"
+      ],
+      "album": "宝岛歌王 叶启田 (壹)",
+      "duration": 198.986,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

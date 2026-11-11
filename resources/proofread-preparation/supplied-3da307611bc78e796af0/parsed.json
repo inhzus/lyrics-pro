@@ -1,0 +1,322 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "突然間有一陣冷風吹來",
+      "spelling": "hut-liân kian ū tsi̍t tsūn líng-hong tshue lâi",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "才知影原來思念猶原　捲底心肝內",
+      "spelling": "tsiah tsai-iánn guân-lâi su-liām iu-guân kńg té sim-kuann-lāi",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "月台邊情人雙雙對對　目睭內甜蜜像針威",
+      "spelling": "gue̍h-tâi pinn tsîng-lîn siang siang tuì tuì ba̍k-tsiu lāi tinn-bi̍t tshiūnn tsiam ui",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "咁是你已將約束放袂記",
+      "spelling": "kam sī lí í tsiòng iok-sok pàng-buē-kì",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "冷風像知我無人安慰　替阮哮歸暝",
+      "spelling": "líng-hong tshiūnn tsai guá bô-lâng an-uì thuè gún hau kui-mî",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "為按怎我攏袂清醒　到如今猶原放袂開",
+      "spelling": "uî án-tsuánn guá lóng buē tshing-tshínn kàu lû-kim iu-guân pàng buē-khui",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "一個人拉著感情線　行越遠越孤單",
+      "spelling": "tsi̍t ê lâng giú-tio̍h kám-tsîng suànn kiânn lú hn̄g lú koo-tuann",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "思念哪親像點袂著的番仔火",
+      "spelling": "su-liām ná tshin-tshiūnn tiám buē-tio̍h ê huan-á-húe",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "免等到風吹　早已經有魂無體",
+      "spelling": "bián tán-kàu hong-tshue tsá í-king ū hûn bô thé",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "對你的癡心　傷心",
+      "spelling": "tuì lí ê tshi sim siong sim",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "擱剩彼多　卡多嘛無人可體會",
+      "spelling": "koh sīng hiah tsē kha̍h tsē mā bô-lâng ē thé-huē",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "緣份哪親像點袂著的番仔火",
+      "spelling": "iân hūn ná tshin-tshiūnn tiám buē-tio̍h ê huan-á-húe",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "越點越心酸　越愛越袂凍做伙",
+      "spelling": "lú tiám lú sim-sng lú ài lú buē-tàng tsò-hué",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "若不是想你　想甲　無路可退",
+      "spelling": "ná m̄ sī siūnn lí siūnn kā bô-lōo khó thuè",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "也袂留給你有機會　傷阮徹底",
+      "spelling": "iā buē lâu hōo lí ū ki-huē siong gún thiat-té",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "咁是你已將約束放袂記",
+      "spelling": "kam sī lí í tsiòng iok-sok pàng-buē-kì",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "冷風像知我無人安慰　替阮哮歸暝",
+      "spelling": "líng-hong tshiūnn tsai guá bô-lâng an-uì thuè gún hau kui-mî",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "為按怎我攏袂清醒　到如今猶原放袂開",
+      "spelling": "uî án-tsuánn guá lóng buē tshing-tshínn kàu lû-kim iu-guân pàng buē-khui",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "一個人拉著感情線　行越遠越孤單",
+      "spelling": "tsi̍t ê lâng giú-tio̍h kám-tsîng suànn kiânn lú hn̄g lú koo-tuann",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "思念哪親像點袂著的番仔火",
+      "spelling": "su-liām ná tshin-tshiūnn tiám buē-tio̍h ê huan-á-húe",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "免等到風吹　早已經有魂無體",
+      "spelling": "bián tán-kàu hong-tshue tsá í-king ū hûn bô thé",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "對你的癡心　傷心",
+      "spelling": "tuì lí ê tshi sim siong sim",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "擱剩彼多　卡多嘛無人可體會",
+      "spelling": "koh sīng hiah tsē kha̍h tsē mā bô-lâng ē thé-huē",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "緣份哪親像點袂著的番仔火",
+      "spelling": "iân hūn ná tshin-tshiūnn tiám buē-tio̍h ê huan-á-húe",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "越點越心酸　越愛越袂凍做伙",
+      "spelling": "lú tiám lú sim-sng lú ài lú buē-tàng tsò-hué",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "若不是想你　想甲　無路可退",
+      "spelling": "ná m̄ sī siūnn lí siūnn kā bô-lōo khó thuè",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "也袂留給你有機會　傷阮徹底",
+      "spelling": "iā buē lâu hōo lí ū ki-huē siong gún thiat-té",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "思念哪親像點袂著的番仔火",
+      "spelling": "su-liām ná tshin-tshiūnn tiám buē-tio̍h ê huan-á-húe",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "免等到風吹　早已經有魂無體",
+      "spelling": "bián tán-kàu hong-tshue tsá í-king ū hûn bô thé",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "對你的癡心　傷心",
+      "spelling": "tuì lí ê tshi sim siong sim",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "擱剩彼多　卡多嘛無人可體會",
+      "spelling": "koh sīng hiah tsē kha̍h tsē mā bô-lâng ē thé-huē",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "緣份哪親像點袂著的番仔火",
+      "spelling": "iân hūn ná tshin-tshiūnn tiám buē-tio̍h ê huan-á-húe",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "越點越心酸　越愛越袂凍做伙",
+      "spelling": "lú tiám lú sim-sng lú ài lú buē-tàng tsò-hué",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "若不是想你　想甲　無路可退",
+      "spelling": "ná m̄ sī siūnn lí siūnn kā bô-lōo khó thuè",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "也袂留給你有機會　傷阮徹底",
+      "spelling": "iā buē lâu hōo lí ū ki-huē siong gún thiat-té",
+      "source_lines": [
+        103,
+        104
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

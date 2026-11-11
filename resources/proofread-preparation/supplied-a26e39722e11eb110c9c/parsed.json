@@ -1,0 +1,216 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "不願擱再多講話",
+      "spelling": "m̄-guān koh-tsài ke kóng-uē",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "不想再被看笑虧",
+      "spelling": "bô-siūnn beh hōo khuànn tshiò khui",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "想到過去熱情的我",
+      "spelling": "siūnn tio̍h kuè-khì lia̍t-tsîng ê guá",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "耐A變嘎這麼多",
+      "spelling": "nāi A piàn kā tsiah-ni tsuē",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "失去很久的感覺",
+      "spelling": "sit-khì tsiok-kú ê kám-kak",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "到底要去哪裡找",
+      "spelling": "tàu-té bē khì tó-uī tshuē",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "我的青春一去不再回",
+      "spelling": "guá ê tshing-tshun i̍t khì put-tsài huê",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "這條路剩我一個人在走",
+      "spelling": "tsi̍t tiâu lōo tshun guá tsi̍t ê lâng te kiânn",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "無情的風吹嘎我心震動",
+      "spelling": "bô-tsîng ê hong-tshue kā guá sim tín-tāng",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "一擺又一擺無力的感覺",
+      "spelling": "tsi̍t pái koh tsi̍t pái bô-la̍t ê kám-kak",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "已經沒需要 繼續忍耐",
+      "spelling": "í-king bô su-iàu kè-sio̍k lím-nāi",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "套出來 不爽別放惦心內",
+      "spelling": "thò tshut-lâi bē-sóng mài pàng tiām sim-lāi",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "套出來 就算沒人會瞭解",
+      "spelling": "thò tshut-lâi tsiū-sǹg bô lâng ē liáu-kái",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "套出來 擱有什麼好期待",
+      "spelling": "thò tshut-lâi koh ū siánn-mih hó kî-thāi",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "套出來 全部攏甲 套出來",
+      "spelling": "thò tshut-lâi tsuân-pōo lóng kā thò tshut-lâi",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "這條路剩我一個人在走",
+      "spelling": "tsi̍t tiâu lōo tshun guá tsi̍t ê lâng te kiânn",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "無情的風吹嘎我心震動",
+      "spelling": "bô-tsîng ê hong-tshue kā guá sim tín-tāng",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "一擺又一擺無力的感覺",
+      "spelling": "tsi̍t pái koh tsi̍t pái bô-la̍t ê kám-kak",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "已經沒需要 繼續忍耐",
+      "spelling": "í-king bô su-iàu kè-sio̍k lím-nāi",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "套出來 請你別擱再等待",
+      "spelling": "thò tshut-lâi tshiánn lí mài koh-tsài tán-thāi",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "套出來 你沒需要再忍耐",
+      "spelling": "thò tshut-lâi lí bô su-iàu tsài lím-nāi",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "套出來 不管成功還失敗",
+      "spelling": "thò tshut-lâi m̄-kuán sîng-kong iáu sit-pāi",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "套出來 全部攏甲 套出來",
+      "spelling": "thò tshut-lâi tsuân-pōo lóng kā thò tshut-lâi",
+      "source_lines": [
+        69,
+        70
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:1,3"
+  ]
+}

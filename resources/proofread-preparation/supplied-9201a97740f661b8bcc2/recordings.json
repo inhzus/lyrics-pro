@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 478203276,
+      "title": "月娘",
+      "artists": [
+        "孩子王"
+      ],
+      "album": "最窘丸",
+      "duration": 342.184,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1230303048",
+      "title": "月娘",
+      "artists": [
+        "孩子王"
+      ],
+      "album": "最窘丸",
+      "duration": 342.185,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "672645135",
+      "title": "月娘",
+      "artists": [
+        "黄培育"
+      ],
+      "album": "隐形人 - EP",
+      "duration": 283.507,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

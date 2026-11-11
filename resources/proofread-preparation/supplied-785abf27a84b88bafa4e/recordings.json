@@ -1,0 +1,119 @@
+{
+  "candidates": [
+    {
+      "song_id": 410629954,
+      "title": "厚脸皮",
+      "artists": [
+        "李千娜"
+      ],
+      "album": "说实话",
+      "duration": 184.683,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 352880,
+      "title": "厚脸皮",
+      "artists": [
+        "东于哲"
+      ],
+      "album": "东于哲",
+      "duration": 258.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3391210160,
+      "title": "厚脸皮",
+      "artists": [
+        "张恒远"
+      ],
+      "album": "很远的",
+      "duration": 248.625,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 4872660,
+      "title": "厚脸皮",
+      "artists": [
+        "陈泽耀",
+        "郭晓东"
+      ],
+      "album": "逆风18",
+      "duration": 258.037,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 452804793,
+      "title": "厚脸皮",
+      "artists": [
+        "王圆坤"
+      ],
+      "album": "太爱",
+      "duration": 148.492,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 446874875,
+      "title": "厚脸皮",
+      "artists": [
+        "王圆坤"
+      ],
+      "album": "我的爱对你说 OST",
+      "duration": 143.661,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1877358353,
+      "title": "厚脸皮",
+      "artists": [
+        "吴宽溢"
+      ],
+      "album": "多情种",
+      "duration": 225.23,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2036841567,
+      "title": "厚脸皮",
+      "artists": [
+        "Harry海锐"
+      ],
+      "album": "厚脸皮",
+      "duration": 157.636,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1391927692,
+      "title": "厚脸皮",
+      "artists": [
+        "Sauce Music",
+        "ayin印",
+        "Wessi01",
+        "巴利帕斯 BALIPUAS"
+      ],
+      "album": "厚脸皮",
+      "duration": 123.977,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3345501117,
+      "title": "厚脸皮",
+      "artists": [
+        "豆蔻女孩"
+      ],
+      "album": "光之女神",
+      "duration": 147.4,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

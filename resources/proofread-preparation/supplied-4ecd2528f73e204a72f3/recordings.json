@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 28528282,
+      "title": "爱的新舞步",
+      "artists": [
+        "萧煌奇"
+      ],
+      "album": "上水的花",
+      "duration": 227.604,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

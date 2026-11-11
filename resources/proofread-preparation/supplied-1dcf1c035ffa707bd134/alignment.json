@@ -1,0 +1,465 @@
+{
+  "recording_id": "lrclib:19363164",
+  "timing_source": "LRCLIB https://lrclib.net/api/get/19363164",
+  "manual_source": "User-supplied resources/lyrics-spelling/倒退嚕-董事長樂團",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "unresolved": 19,
+    "approximate": 10,
+    "gap": 1
+  },
+  "review_row_count": 29,
+  "unmatched_manual_ids": [
+    "line-3:0",
+    "line-6:0",
+    "line-9:0",
+    "line-12:0",
+    "line-15:0",
+    "line-18:0",
+    "line-21:0",
+    "line-24:0",
+    "line-27:0",
+    "line-30:0",
+    "line-33:0",
+    "line-36:0",
+    "line-39:0",
+    "line-42:0",
+    "line-51:0",
+    "line-54:0",
+    "line-57:0",
+    "line-60:0",
+    "line-63:0",
+    "line-66:0",
+    "line-69:0",
+    "line-72:0",
+    "line-75:0",
+    "line-78:0",
+    "line-93:0",
+    "line-96:0",
+    "line-99:0",
+    "line-102:0"
+  ],
+  "unused_repeat_ids": [],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 6.97,
+      "online_text": "ㄟ 拜請 拜請拜請 東海岸 西海岸 北投西帽山 鶯歌出土炭 草山低勒出溫泉",
+      "match_text": "ㄟ 拜請 拜請拜請 東海岸 西海岸 北投西帽山 鶯歌出土炭 草山低勒出溫泉",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 17.55,
+      "online_text": "拜請哩 東營兵 東營將 西營兵 西營將 北營 中營 兵中將",
+      "match_text": "拜請哩 東營兵 東營將 西營兵 西營將 北營 中營 兵中將",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 2,
+      "time": 26.6,
+      "online_text": "起雄兵這個九千九百九萬千 滴滴工 擱勒春無玲 神ㄟ兵噢 神兵啊",
+      "match_text": "起雄兵這個九千九百九萬千 滴滴工 擱勒春無玲 神ㄟ兵噢 神兵啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 33.94,
+      "online_text": "火過火路靈 火過火路靈 鳳梨 西瓜平 欠錢不要還",
+      "match_text": "火過火路靈 火過火路靈 鳳梨 西瓜平 欠錢不要還",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 40.64,
+      "online_text": "尖嘴是雞喔 扁嘴是番鴉 灣灣是豬肉 四角是豆干 白白是麵線",
+      "match_text": "尖嘴是雞喔 扁嘴是番鴉 灣灣是豬肉 四角是豆干 白白是麵線",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 48.16,
+      "online_text": "拜請勒 你也大仙王爺公 小仙王爺子",
+      "match_text": "拜請勒 你也大仙王爺公 小仙王爺子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 55.09,
+      "online_text": "我是假影請 你那來我就加了餅",
+      "match_text": "我是假影請 你那來我就加了餅",
+      "text": "我是假影請 你若來我就加了餅咦",
+      "spelling": "guá sī ké iánn tshiánn lí ná lâi guá tō ke liáu piánn eh",
+      "manual_id": "line-45:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 7,
+      "time": 57.78,
+      "online_text": "(天頂天公 地下母舅公 北海岸有十八王公)",
+      "match_text": "(天頂天公 地下母舅公 北海岸有十八王公)",
+      "text": "天頂天公 地下母舅公啊 北海岸 十八王啊公啊 （啊唔啊唔！）",
+      "spelling": "thinn-tíng thinn-kong tē-hē bú-kū-kong ah pak-hái-huānn tsa̍p-peh-ông-ah-kong (ah-onn ah-onn)",
+      "manual_id": "line-48:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 8,
+      "time": 61.7,
+      "online_text": "拜請哩 拜請拜請拜請",
+      "match_text": "拜請哩 拜請拜請拜請",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 65.49,
+      "online_text": "阮孝生去愛著 阿琴的查某子 不知有影也無影",
+      "match_text": "阮孝生去愛著 阿琴的查某子 不知有影也無影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 71.16,
+      "online_text": "有影就喊三聲 (沒影沒影沒影) 紅ㄟ千ㄟ喔紅千喔",
+      "match_text": "有影就喊三聲 (沒影沒影沒影) 紅ㄟ千ㄟ喔紅千喔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 77.54,
+      "online_text": "四果排甲歸桌頂 紅柿 那芭樂 甲龍眼 要吃就自己撿 三碗兩碗做你排",
+      "match_text": "四果排甲歸桌頂 紅柿 那芭樂 甲龍眼 要吃就自己撿 三碗兩碗做你排",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 86.59,
+      "online_text": "煙雞股柳來殺 沒錢我不愛 紅包大個做你來拿 ㄟ來喔",
+      "match_text": "煙雞股柳來殺 沒錢我不愛 紅包大個做你來拿 ㄟ來喔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 93.49,
+      "online_text": "阿公啊對阮有啊有交待",
+      "match_text": "阿公啊對阮有啊有交待",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-78:0"
+    },
+    {
+      "source_row": 14,
+      "time": 104.13,
+      "online_text": "叫阮咧麻雀粒啊 不通黑白排",
+      "match_text": "叫阮咧麻雀粒啊 不通黑白排",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-78:0"
+    },
+    {
+      "source_row": 15,
+      "time": 107.8,
+      "online_text": "碰啊你塊碰啊 到啊我塊到啊 槓頂塊開花是加一台喔",
+      "match_text": "碰啊你塊碰啊 到啊我塊到啊 槓頂塊開花是加一台喔",
+      "text": "碰啊你咧碰啊 到啊我咧到 槓頂咧開花是加啊一台喔～",
+      "spelling": "pōng a lí teh pōng ah  kàu ah guá teh kàu  kǹg tíng leh khui-hue sī ke ah tsi̍t tâi ooh～",
+      "manual_id": "line-81:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.818182
+    },
+    {
+      "source_row": 16,
+      "time": 122.56,
+      "online_text": "草埔嗎跑阿馬嗎 草啊青青 草埔啊路上啊 草啊掛墘",
+      "match_text": "草埔嗎跑阿馬嗎 草啊青青 草埔啊路上啊 草啊掛墘",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 162.3,
+      "online_text": "有孝的媳婦是三餐燒 不孝的媳婦是 過路搖啊過路搖 搖你著搖過橋喔",
+      "match_text": "有孝的媳婦是三餐燒 不孝的媳婦是 過路搖啊過路搖 搖你著搖過橋喔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 175.87,
+      "online_text": "獻紙來你嘛燒錢去啊 獻紙啊燒錢 是要買路去啊",
+      "match_text": "獻紙來你嘛燒錢去啊 獻紙啊燒錢 是要買路去啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 185.29,
+      "online_text": "獻紙來你嘛燒錢去啊 獻紙啊燒錢 是要買路去哦 行你著行過橋喔",
+      "match_text": "獻紙來你嘛燒錢去啊 獻紙啊燒錢 是要買路去哦 行你著行過橋喔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 204.24,
+      "online_text": "牛頭馬面啊二將軍 還有日夜啊雙遊巡啊",
+      "match_text": "牛頭馬面啊二將軍 還有日夜啊雙遊巡啊",
+      "text": "牛頭馬面啊二啊將啊軍喔 猶有日夜啊雙遊巡",
+      "spelling": "gû-thâu bé-bīn ah lī ah tsiòng ah kun ooh  iáu-ū li̍t-iā ah siang iû sûn",
+      "manual_id": "line-84:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 21,
+      "time": 205.2,
+      "online_text": "燒酒排哩咧 銀啊紙獻啦 阿公啊對人是 很啊隨便",
+      "match_text": "燒酒排哩咧 銀啊紙獻啦 阿公啊對人是 很啊隨便",
+      "text": "燒酒排你咧銀啊紙獻 阿公啊對人是著啊凊彩",
+      "spelling": "sio-tsiú pâi lí leh gûn ah tsuá hiàn  ah kong ah tuì lâng sī tio̍h ah tshìn-tshái",
+      "manual_id": "line-87:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.769231
+    },
+    {
+      "source_row": 22,
+      "time": 206.51,
+      "online_text": "行你就行 你就乎伊過橋噢",
+      "match_text": "行你就行 你就乎伊過橋噢",
+      "text": "行你就行 你就予伊過橋",
+      "spelling": "kiânn lí tio̍h kiânn lí tio̍h hōo i kè-kiô",
+      "manual_id": "line-90:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 23,
+      "time": 207.99,
+      "online_text": "草埔嗎路上阿 草啊青青 草埔啊路上阿 草啊掛墘",
+      "match_text": "草埔嗎路上阿 草啊青青 草埔啊路上阿 草啊掛墘",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 208.81,
+      "online_text": "有孝的媳婦是三餐燒 不孝的媳婦是 過路搖啊過路搖 搖你著搖過橋喔",
+      "match_text": "有孝的媳婦是三餐燒 不孝的媳婦是 過路搖啊過路搖 搖你著搖過橋喔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 213.22,
+      "online_text": "獻紙來你嘛燒錢去啊 獻紙啊燒錢 是要買路去啊",
+      "match_text": "獻紙來你嘛燒錢去啊 獻紙啊燒錢 是要買路去啊",
+      "text": "獻紙來你嘛燒錢去啊 獻紙啊燒錢 是欲買路去喔",
+      "spelling": "hiàn tsuá lâi lí mah sio tsînn khì ah  hiàn tsuá ah sio tsînn  sī beh bé lōo khì ooh",
+      "manual_id": "line-105:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 26,
+      "time": 213.8,
+      "online_text": "獻紙來你嘛燒錢去啊 獻紙啊燒錢 是要買路去哦",
+      "match_text": "獻紙來你嘛燒錢去啊 獻紙啊燒錢 是要買路去哦",
+      "text": "獻紙來你嘛燒錢去啊 獻紙啊燒錢 是欲買路去啊",
+      "spelling": "hiàn tsuá lâi lí mah sio tsînn khì ah  hiàn tsuá ah sio tsînn  sī beh bé lōo khì ah",
+      "manual_id": "line-108:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 27,
+      "time": 214.23,
+      "online_text": "行你就行 行到觀音佛祖廟 喔",
+      "match_text": "行你就行 行到觀音佛祖廟 喔",
+      "text": "行你著行啊……行到觀音佛祖廟 喔~~~~",
+      "spelling": "kiânn lí tio̍h kiânn ah…… kiânn kàu kuan-im pu̍t-tsóo biō ooh~~~~",
+      "manual_id": "line-111:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.88
+    },
+    {
+      "source_row": 28,
+      "time": 214.85,
+      "online_text": "拜拜哦 來拜觀音菩薩哦",
+      "match_text": "拜拜哦 來拜觀音菩薩哦",
+      "text": "(拜拜喔 來拜觀音菩薩喔！)",
+      "spelling": "(pài tshiánn ooh  lâi pài kuan-im phôo-sat ooh！)",
+      "manual_id": "line-114:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 29,
+      "time": 215.9,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "a6a8e4827abf6d1cf0cb97cdcb7ce5af1f8c4128695eb1e1e3e9bf5d6e4e09da",
+    "manual": "e24d8c29b46890ad69542c1ef9ce67b2cc7c1557bb139592930d420896807eb5",
+    "timed": "9ea7013a574a3b37a1af5e35d90b097f2f4344fa4dbbe1f2db00deb293e3c1d5"
+  }
+}

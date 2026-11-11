@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 249191,
+      "title": "酒醉还是地震",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "爱着 啊",
+      "duration": 251.0,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

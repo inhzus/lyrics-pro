@@ -1,0 +1,572 @@
+{
+  "recording_id": "netease:248697",
+  "timing_source": "NetEase https://music.163.com/song?id=248697",
+  "manual_source": "User-supplied resources/lyrics-spelling/黑咖啡-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "approximate": 2,
+    "exact": 1,
+    "repeat": 29,
+    "gap": 9,
+    "unresolved": 4
+  },
+  "review_row_count": 6,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-13:0",
+    "line-16:0",
+    "line-49:0",
+    "line-52:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 29.17,
+      "online_text": "又搁行到咱上爱的咖啡厅",
+      "match_text": "又搁行到咱上爱的咖啡厅",
+      "text": "又擱行到咱上愛的咖啡廳",
+      "spelling": "iū-koh kiânn-kàu lán siōng ài ê ka-pi-thiann",
+      "manual_id": "line-1:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 1,
+      "time": 35.54,
+      "online_text": "又搁听着咱上爱的彼首歌",
+      "match_text": "又搁听着咱上爱的彼首歌",
+      "text": "又擱聽著咱上愛的彼首歌",
+      "spelling": "iū-koh kiânn-kàu lán siōng ài ê hit siú kua",
+      "manual_id": "line-4:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 2,
+      "time": 41.99,
+      "online_text": "身边空无人 心情空无望",
+      "match_text": "身边空无人 心情空无望",
+      "text": "身邊空無人　心情空無望",
+      "spelling": "sin-pinn khang bô-lâng sim-tsîng khang bô-bāng",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 48.01,
+      "online_text": "淡薄啊酸 淡薄啊苦 淡薄啊痛",
+      "match_text": "淡薄啊酸 淡薄啊苦 淡薄啊痛",
+      "text": "淡薄啊酸　淡薄啊苦　淡薄啊痛",
+      "spelling": "tām-po̍h ah sng tām-po̍h ah khóo tām-po̍h ah thiànn",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 53.86,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 55.18,
+      "online_text": "又搁坐置咱上爱的彼个位",
+      "match_text": "又搁坐置咱上爱的彼个位",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 61.36,
+      "online_text": "又搁面对咱上爱的窗仔边",
+      "match_text": "又搁面对咱上爱的窗仔边",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 67.74,
+      "online_text": "有人问起我 哪会一个人",
+      "match_text": "有人问起我 哪会一个人",
+      "text": "有人問起我　哪會一個人",
+      "spelling": "ū lâng mn̄g khí guá ná ē tsi̍t ê lâng",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 73.9,
+      "online_text": "淡薄啊酸 淡薄啊苦 淡薄啊痛",
+      "match_text": "淡薄啊酸 淡薄啊苦 淡薄啊痛",
+      "text": "淡薄啊酸　淡薄啊苦　淡薄啊痛",
+      "spelling": "tām-po̍h ah sng tām-po̍h ah khóo tām-po̍h ah thiànn",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 80.17,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 10,
+      "time": 81.46,
+      "online_text": "点一杯你惯习的黑咖啡",
+      "match_text": "点一杯你惯习的黑咖啡",
+      "text": "點一杯你慣習的黑咖啡",
+      "spelling": "tiám tsi̍t pue lí kuàn si̍p ê oo ka-pi",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 87.68,
+      "online_text": "喝一嘴无掺糖的我想你",
+      "match_text": "喝一嘴无掺糖的我想你",
+      "text": "喝一嘴無摻糖的我想你",
+      "spelling": "lím tsi̍t tshuì bô tsham thn̂g ê guá siūnn lí",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 94.2,
+      "online_text": "多一分钟 添一分痴",
+      "match_text": "多一分钟 添一分痴",
+      "text": "多一分鐘　添一分癡",
+      "spelling": "ke tsi̍t hun-tsing thiam tsi̍t hun-tsing",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 100.27,
+      "online_text": "一场爱甲恨无输无赢的搭缠",
+      "match_text": "一场爱甲恨无输无赢的搭缠",
+      "text": "一場愛甲恨無輸無贏的搭纏",
+      "spelling": "tsi̍t tiûnn ài kā hūn bô-su bô-iânn ê tah tînn",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 106.69,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 15,
+      "time": 107.24,
+      "online_text": "捧一杯你惯习的黑咖啡",
+      "match_text": "捧一杯你惯习的黑咖啡",
+      "text": "捧一杯你慣習的黑咖啡",
+      "spelling": "phâng tsi̍t pue lí kuàn si̍p ê oo ka-pi",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 113.72,
+      "online_text": "喝一嘴有缘无份的勇气",
+      "match_text": "喝一嘴有缘无份的勇气",
+      "text": "喝一嘴有緣無份的勇氣",
+      "spelling": "lím tsi̍t tshuì ū iân bô hūn ê ióng-khì",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 120.24,
+      "online_text": "你无交代来离开",
+      "match_text": "你无交代来离开",
+      "text": "你無交代來離開",
+      "spelling": "lí bô kau-tài lâi lī-khui",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 125.92,
+      "online_text": "这场戏 若欲煞 置当时",
+      "match_text": "这场戏 若欲煞 置当时",
+      "text": "這場戲　若欲煞　置當時",
+      "spelling": "tsi̍t tiûnn hì ná beh suah tì tǹg-sî",
+      "manual_id": "line-46:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 133.6,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 20,
+      "time": 145.81,
+      "online_text": "又搁坐置咱上爱的彼个位",
+      "match_text": "又搁坐置咱上爱的彼个位",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 152.25,
+      "online_text": "又搁面对咱上爱的窗仔边",
+      "match_text": "又搁面对咱上爱的窗仔边",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 158.95,
+      "online_text": "有人问起我 哪会一个人",
+      "match_text": "有人问起我 哪会一个人",
+      "text": "有人問起我　哪會一個人",
+      "spelling": "ū lâng mn̄g khí guá ná ē tsi̍t ê lâng",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 164.79,
+      "online_text": "淡薄啊酸 淡薄啊苦 淡薄啊痛",
+      "match_text": "淡薄啊酸 淡薄啊苦 淡薄啊痛",
+      "text": "淡薄啊酸　淡薄啊苦　淡薄啊痛",
+      "spelling": "tām-po̍h ah sng tām-po̍h ah khóo tām-po̍h ah thiànn",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 171.38,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 25,
+      "time": 172.0,
+      "online_text": "点一杯你惯习的黑咖啡",
+      "match_text": "点一杯你惯习的黑咖啡",
+      "text": "點一杯你慣習的黑咖啡",
+      "spelling": "tiám tsi̍t pue lí kuàn si̍p ê oo ka-pi",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 178.44,
+      "online_text": "喝一嘴无掺糖的我想你",
+      "match_text": "喝一嘴无掺糖的我想你",
+      "text": "喝一嘴無摻糖的我想你",
+      "spelling": "lím tsi̍t tshuì bô tsham thn̂g ê guá siūnn lí",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 184.99,
+      "online_text": "多一分钟 添一分痴",
+      "match_text": "多一分钟 添一分痴",
+      "text": "多一分鐘　添一分癡",
+      "spelling": "ke tsi̍t hun-tsing thiam tsi̍t hun-tsing",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 191.12,
+      "online_text": "一场爱甲恨无输无赢的搭缠",
+      "match_text": "一场爱甲恨无输无赢的搭缠",
+      "text": "一場愛甲恨無輸無贏的搭纏",
+      "spelling": "tsi̍t tiûnn ài kā hūn bô-su bô-iânn ê tah tînn",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 197.4,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 30,
+      "time": 198.03,
+      "online_text": "捧一杯你惯习的黑咖啡",
+      "match_text": "捧一杯你惯习的黑咖啡",
+      "text": "捧一杯你慣習的黑咖啡",
+      "spelling": "phâng tsi̍t pue lí kuàn si̍p ê oo ka-pi",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 204.39,
+      "online_text": "喝一嘴有缘无份的勇气",
+      "match_text": "喝一嘴有缘无份的勇气",
+      "text": "喝一嘴有緣無份的勇氣",
+      "spelling": "lím tsi̍t tshuì ū iân bô hūn ê ióng-khì",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 211.02,
+      "online_text": "你无交代来离开",
+      "match_text": "你无交代来离开",
+      "text": "你無交代來離開",
+      "spelling": "lí bô kau-tài lâi lī-khui",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 216.75,
+      "online_text": "这场戏 若欲煞 置当时",
+      "match_text": "这场戏 若欲煞 置当时",
+      "text": "這場戲　若欲煞　置當時",
+      "spelling": "tsi̍t tiûnn hì ná beh suah tì tǹg-sî",
+      "manual_id": "line-46:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 224.75,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 35,
+      "time": 227.13,
+      "online_text": "点一杯你惯习的黑咖啡",
+      "match_text": "点一杯你惯习的黑咖啡",
+      "text": "點一杯你慣習的黑咖啡",
+      "spelling": "tiám tsi̍t pue lí kuàn si̍p ê oo ka-pi",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 233.61,
+      "online_text": "喝一嘴无掺糖的我想你",
+      "match_text": "喝一嘴无掺糖的我想你",
+      "text": "喝一嘴無摻糖的我想你",
+      "spelling": "lím tsi̍t tshuì bô tsham thn̂g ê guá siūnn lí",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 240.16,
+      "online_text": "多一分钟 添一分痴",
+      "match_text": "多一分钟 添一分痴",
+      "text": "多一分鐘　添一分癡",
+      "spelling": "ke tsi̍t hun-tsing thiam tsi̍t hun-tsing",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 246.32,
+      "online_text": "一场爱甲恨无输无赢的搭缠",
+      "match_text": "一场爱甲恨无输无赢的搭缠",
+      "text": "一場愛甲恨無輸無贏的搭纏",
+      "spelling": "tsi̍t tiûnn ài kā hūn bô-su bô-iânn ê tah tînn",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 252.52,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 40,
+      "time": 253.14,
+      "online_text": "捧一杯你惯习的黑咖啡",
+      "match_text": "捧一杯你惯习的黑咖啡",
+      "text": "捧一杯你慣習的黑咖啡",
+      "spelling": "phâng tsi̍t pue lí kuàn si̍p ê oo ka-pi",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 41,
+      "time": 259.7,
+      "online_text": "喝一嘴有缘无份的勇气",
+      "match_text": "喝一嘴有缘无份的勇气",
+      "text": "喝一嘴有緣無份的勇氣",
+      "spelling": "lím tsi̍t tshuì ū iân bô hūn ê ióng-khì",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 266.07,
+      "online_text": "你无交代来离开",
+      "match_text": "你无交代来离开",
+      "text": "你無交代來離開",
+      "spelling": "lí bô kau-tài lâi lī-khui",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 43,
+      "time": 271.83,
+      "online_text": "这场戏 若欲煞 置当时",
+      "match_text": "这场戏 若欲煞 置当时",
+      "text": "這場戲　若欲煞　置當時",
+      "spelling": "tsi̍t tiûnn hì ná beh suah tì tǹg-sî",
+      "manual_id": "line-46:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 44,
+      "time": 280.95,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "3beed927d5d17331d93f3595eae949ca3f0e82a35a563cc8d5dabb40b7ee3f41",
+    "manual": "e24845b2dc781065367dc397833d206d3fda4c777373fb05d9073b1bcf809580",
+    "timed": "e825bf6fa54b214e1bba7d25e8badd84c3c49f8c9a7dc6fe6e6a9717d52b3226"
+  }
+}

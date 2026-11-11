@@ -1,0 +1,360 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "雨聲陣陣落底窗外 想起彼時月光海岸",
+      "spelling": "hōo siann tsūn tsūn lo̍h té thang-guā siūnn-khí hit sî ge̍h-kng hái-huānn",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "若像做同一個夢 兩個人唱著同一條歌",
+      "spelling": "ná-tshiūnn tsò kāng tsi̍t ê bāng nn̄g-ê lâng tshiùnn-tio̍h kāng tsi̍t tiâu kua",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "就算黑雲遮住光線 青春悲歌攏唱未煞",
+      "spelling": "tio̍h-sǹg oo-hûn tsa̍h tio̍h kng-suànn tshing-tshun pi-kua lóng tshiùnn buē suah",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "若有你跟阮作伴 心內就袂孤單",
+      "spelling": "nā-ū lí kā gún tsuè puānn sim-lāi tio̍h buē koo-tuann",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "當所有人叫我放棄 只有你給阮希望",
+      "spelling": "tang sóo-ú lâng kiò guá hòng-khì tsí-ū lí hōo gún hi-bāng",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "講總有一天 世界會因為我變甲不同",
+      "spelling": "kóng tsóng ū tsi̍t kang sè-kài ē in-uī guá piàn kā bô-kâng",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "未擱怨未擱哭慘人情冷淡",
+      "spelling": "buē koh uàn buē koh khàu thiám lîn-tsîng líng-tām",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "無退路無遺憾無為誰人",
+      "spelling": "bô thuè-lōo bô uî-hām bô uî siánn-lâng",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "只要有心 只要會動",
+      "spelling": "tsí-iàu ū sim tsí-iàu ē-tāng",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "人活勒就該有夢",
+      "spelling": "lâng ua̍h li̍k tio̍h kai ū bāng",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "無放棄無袂記你講的話",
+      "spelling": "bô hòng-khì bô buē kì lí kóng ê uē",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "別人有的並無比我卡多",
+      "spelling": "pa̍t-lâng ū ê pìng-bô pí guá khá tsuē",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "總有一天 總有一天",
+      "spelling": "tsóng ū tsi̍t kang tsóng ū tsi̍t kang",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "愛會將一片黑暗",
+      "spelling": "ài ē tsiòng tsi̍t phiàn oo-àm",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "變希望",
+      "spelling": "piàn hi-bāng",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "鼓聲響亮震對天外 今夜我在月光海岸",
+      "spelling": "kóo-siann hiáng-liāng chùn tuì thinn-guā kim-iā guá te gue̍h-kng hái-huānn",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "若像做同一個夢 一陣人唱著同一條歌",
+      "spelling": "ná-tshiūnn tsò kāng tsi̍t ê bāng tsi̍t tīn lâng tshiùnn-tio̍h kāng tsi̍t tiâu kua",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "雖然身邊無你陪伴 悲歌猶原還唱未煞",
+      "spelling": "sui-liân sin-pinn bô lí puê-phuānn pi-kua iu-guân hîng tshiùnn buē suah",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "只要阮背著吉他 心內就袂孤單",
+      "spelling": "tsí-iàu gún phāinn-tio̍h gì-tà sim-lāi tio̍h buē koo-tuann",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "當所有人叫我放棄 只有你給阮希望",
+      "spelling": "tàng sóo-ú lâng kiò guá hòng-khì tsí-ū lí hōo gún hi-bāng",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "講總有一天 世界會因為我變甲不同",
+      "spelling": "kóng tsóng ū tsi̍t kang sè-kài ē in-uī guá piàn kā bô-kâng",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "未擱怨未擱哭慘人情冷淡",
+      "spelling": "buē koh uàn buē koh khàu thiám lîn-tsîng líng-tām",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "無退路無遺憾無為誰人",
+      "spelling": "bô thuè-lōo bô uî-hām bô uî siánn-lâng",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "只要有心 只要會動",
+      "spelling": "tsí-iàu ū sim tsí-iàu ē-tāng",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "人活勒就該有夢",
+      "spelling": "lâng ua̍h li̍k tio̍h kai ū bāng",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "無放棄無袂記你講的話",
+      "spelling": "bô hòng-khì bô buē kì lí kóng ê uē",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "別人有的並無比我卡多",
+      "spelling": "pa̍t-lâng ū ê pìng-bô pí guá khá tsuē",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "總有一天 總有一天",
+      "spelling": "tsóng ū tsi̍t kang tsóng ū tsi̍t kang",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "愛會將一片黑暗",
+      "spelling": "ài ē tsiòng tsi̍t phiàn oo-àm",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "變希望",
+      "spelling": "piàn hi-bāng",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "麥擱恨麥擱怨人情冷淡",
+      "spelling": "mài-koh hūn mài-koh uàn lîn-tsîng líng-tām",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "要感恩要珍惜身邊的人",
+      "spelling": "ài kám-un ài tin-sioh sin-pinn ê lâng",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "只要有心 只要會動",
+      "spelling": "tsí-iàu ū sim tsí-iàu ē-tàng",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "我攏會勇敢做夢",
+      "spelling": "guá lóng ē ióng-kám tsuè-bāng",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "無放棄無袂記你講的話",
+      "spelling": "bô hòng-khì bô buē kì lí kóng ê uē",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "別人有的並無比我卡多",
+      "spelling": "pa̍t-lâng ū ê pìng-bô pí guá khá tsuē",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "總有一天 總有一天",
+      "spelling": "tsóng ū tsi̍t kang tsóng ū tsi̍t kang",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "愛會將一片黑暗",
+      "spelling": "ài ē tsiòng tsi̍t phìan oo-àm",
+      "source_lines": [
+        112,
+        113
+      ]
+    },
+    {
+      "id": "line-115",
+      "text": "變希望",
+      "spelling": "piàn hi-bāng",
+      "source_lines": [
+        115,
+        116
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

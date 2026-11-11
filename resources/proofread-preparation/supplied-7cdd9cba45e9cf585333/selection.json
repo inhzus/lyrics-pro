@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 32710778,
+    "title": "慶端陽",
+    "artists": [
+      "黑名單工作室"
+    ],
+    "album": "抓狂歌",
+    "duration": 290.0,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrclib:32710778",
+      "duration": 290.0,
+      "ready": false,
+      "coverage": 0.47058823529411764,
+      "exact_fraction": 0.29411764705882354,
+      "summary": {
+        "repeat": 2,
+        "unresolved": 9,
+        "gap": 4,
+        "exact": 3,
+        "approximate": 3
+      }
+    }
+  ]
+}

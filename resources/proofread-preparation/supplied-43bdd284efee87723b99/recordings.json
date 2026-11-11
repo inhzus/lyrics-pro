@@ -1,0 +1,41 @@
+{
+  "candidates": [
+    {
+      "song_id": 69179,
+      "title": "人在江湖",
+      "artists": [
+        "陈雷"
+      ],
+      "album": "人在江湖",
+      "duration": 245.826,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2742427816,
+      "title": "人在江湖",
+      "artists": [
+        "Player J",
+        "阿牛",
+        "步步高先生"
+      ],
+      "album": "热血无赖",
+      "duration": 120.135,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2034532585,
+      "title": "人在江湖",
+      "artists": [
+        "Toryondacloud",
+        "金蛇TrapHouse"
+      ],
+      "album": "超哥音乐",
+      "duration": 171.999,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

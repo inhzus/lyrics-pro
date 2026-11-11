@@ -1,0 +1,309 @@
+{
+  "schema_version": 1,
+  "id": "supplied-4a3a91defa0c8724fefc",
+  "revision": "1",
+  "title": "台北孤兒",
+  "title_aliases": [
+    "台北孤儿(Live)"
+  ],
+  "artist": "伍佰",
+  "album": "生命的现场LIVE",
+  "duration": 269.0,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰  作曲：伍佰  演唱：伍佰/李宗盛  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "lrclib:40160357",
+    "timing_source": "LRCLIB https://lrclib.net/api/get/40160357",
+    "manual_source": "resources/lyrics-spelling/台北孤兒-伍佰",
+    "audio_verified": false,
+    "agent_review": "Explicitly reviewed supplied phrase grouping, sequence, repetitions and wording differences. Keep source words/readings; preserve every provider timestamp. No audio verification.",
+    "input_sha256": {
+      "original": "d58d4fbe4d3b500500dfb1daf3c4eef7fe0cac5f752c3a8810750b35bcd9a446",
+      "manual": "abf12e569fd8f6afeabf5034bdeaaeabda0c7dec3b8f8896c7677039d4e02051",
+      "timed": "2cd468c87689538cc3d9caf8456951201f8fd83ef9f1ff5dcc8657b9763154ca"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "exact": 22,
+      "gap": 1
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 19.2,
+        "online_text": "不知要去佗位 頭前的燈火是閃閃爍",
+        "status": "exact",
+        "text": "不知要去佗位 頭前的燈火是閃閃爍",
+        "spelling": "m̄ tsai beh khì tó-uī thâu-tsîng ê ting-hué sī siám siám sinnh sī",
+        "manual_id": "line-3:0+line-3:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 26.29,
+        "online_text": "只想要來離開 不管伊天上有幾顆星",
+        "status": "exact",
+        "text": "只想要來離開 不管伊天上有幾顆星",
+        "spelling": "tsí siūnn beh lâi lī-khui m̄ kuán-i thinn-tíng ū kuí lia̍p tshinn",
+        "manual_id": "line-6:0+line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 36.86,
+        "online_text": "流浪的心情親像冬天的風在吹",
+        "status": "exact",
+        "text": "流浪的心情親像冬天的風在吹",
+        "spelling": "liû-lōng ê sim-tsîng tshin-tshiūnn tang-thinn ê hong teh tshue",
+        "manual_id": "line-9:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 42.04,
+        "online_text": "吹著我的身軀就親像孤鳥在風中飛",
+        "status": "exact",
+        "text": "吹著我的身軀就親像孤鳥在風中飛",
+        "spelling": "tshue tio̍h guá ê sin-khu tō tshin-tshiūnn koo-tsiáu tī hong tiòng hui",
+        "manual_id": "line-12:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 47.49,
+        "online_text": "攏沒想到代誌會來變做按呢生",
+        "status": "exact",
+        "text": "攏沒想到代誌會來變做按呢生",
+        "spelling": "lóng bô-siūnn-ngōo tāi-tsì ē lâi piàn-tsuè án-ne-senn",
+        "manual_id": "line-15:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 51.79,
+        "online_text": "在這條亡命的大街",
+        "status": "exact",
+        "text": "在這條亡命的大街",
+        "spelling": "tī tsit tiâu bông-bīng ê tāi ke",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 63.63,
+        "online_text": "不願擱再提起 往事就親像一齣戲",
+        "status": "exact",
+        "text": "不願擱再提起 往事就親像一齣戲",
+        "spelling": "m̄ guān goh tsài thê-khí óng-sū tio̍h tshin-tshiūnn tsi̍t tshut hì",
+        "manual_id": "line-21:0+line-21:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 73.71,
+        "online_text": "只想要來離開 找著我心中的都市",
+        "status": "exact",
+        "text": "只想要來離開 找著我心中的都市",
+        "spelling": "tsí siūnn beh lâi lī-khui tshuē tio̍h guá sim-tiong ê too-tshī",
+        "manual_id": "line-24:0+line-24:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 84.56,
+        "online_text": "解釋的代誌未凍單單用一句話",
+        "status": "exact",
+        "text": "解釋的代誌未凍單單用一句話",
+        "spelling": "kái-sueh ē tāi-tsì buē tàng tan-tan iōng tsi̍t kù uē",
+        "manual_id": "line-27:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 89.49,
+        "online_text": "心內的秘密無法度簡單來講詳細",
+        "status": "exact",
+        "text": "心內的秘密無法度簡單來講詳細",
+        "spelling": "sim-lāi ē pì-bi̍t bô-huat-tōo kán-tan lâi kóng siông-sè",
+        "manual_id": "line-30:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 94.67,
+        "online_text": "若提起理想我甘願放棄著一切",
+        "status": "exact",
+        "text": "若提起理想我甘願放棄著一切",
+        "spelling": "ná thê-khí lí-sióng guá kam-guān hòng-khì tio̍h it-tshè",
+        "manual_id": "line-33:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 99.49,
+        "online_text": "在這條亡命的大街",
+        "status": "exact",
+        "text": "在這條亡命的大街",
+        "spelling": "tī tsit tiâu bông-bīng ê tāi ke",
+        "manual_id": "line-36:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 127.14,
+        "online_text": "我是台北的孤兒",
+        "status": "exact",
+        "text": "我是台北的孤兒",
+        "spelling": "guá sī tâi-pak ê koo-jî",
+        "manual_id": "line-39:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 134.6,
+        "online_text": "無位通停歇 無路通好去",
+        "status": "exact",
+        "text": "無位通停歇 無路通好去",
+        "spelling": "bô uī thàng thîng-hioh bô lōo thàng hó khì",
+        "manual_id": "line-42:0+line-42:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 136.31,
+        "online_text": "只有靜靜在這參自己賭氣",
+        "status": "exact",
+        "text": "只有靜靜在這參自己賭氣",
+        "spelling": "tsí-ū tiām tiām tī tsia tsham ka-kī tóo-khì",
+        "manual_id": "line-45:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 141.29,
+        "online_text": "那一天才有自己的地和天",
+        "status": "exact",
+        "text": "那一天才有自己的地和天",
+        "spelling": "tó tsi̍t kang tsiah ū ka-kī ê tē kah thinn",
+        "manual_id": "line-48:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 152.81,
+        "online_text": "猶原是下雨天 猶原是無人的半暝",
+        "status": "exact",
+        "text": "猶原是下雨天 猶原是無人的半暝",
+        "spelling": "iu-guân sī lo̍h-hōo-thinn iu-guân sī bô-lâng ê puànn-mî",
+        "manual_id": "line-51:0+line-51:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 162.93,
+        "online_text": "還是要來離開 還是要找到我的伊",
+        "status": "exact",
+        "text": "還是要來離開 還是要找到我的伊",
+        "spelling": "iáu sī beh lâi lī-khui iáu sī beh tshuē tio̍h guá ê i",
+        "manual_id": "line-54:0+line-54:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 173.7,
+        "online_text": "沈重的身軀讓我不願再多講話",
+        "status": "exact",
+        "text": "沈重的身軀讓我不願再多講話",
+        "spelling": "tîm-tāng ê sin-khu hōo guá m̄ guān ke ke kóng-uē",
+        "manual_id": "line-57:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 178.83,
+        "online_text": "無用的藉口攏總甲吞落心肝底",
+        "status": "exact",
+        "text": "無用的藉口攏總甲吞落心肝底",
+        "spelling": "bô-iōng ê  tsioh-kháu lóng tsóng kah thun lo̍h sim-kuann té",
+        "manual_id": "line-60:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 184.35,
+        "online_text": "過程的種種總使人引來多怨磋",
+        "status": "exact",
+        "text": "過程的種種總使人引來多怨磋",
+        "spelling": "kuè-tîng ê tsióng tsióng tsáng sú lâng ín-lâi ke uàn té",
+        "manual_id": "line-63:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 188.8,
+        "online_text": "在這條亡命的大街",
+        "status": "exact",
+        "text": "在這條亡命的大街",
+        "spelling": "tī tsit tiâu bông-bīng ê tāi ke",
+        "manual_id": "line-66:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 265.42,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

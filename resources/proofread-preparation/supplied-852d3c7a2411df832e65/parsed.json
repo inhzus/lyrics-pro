@@ -1,0 +1,441 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "嘿咻 嘿咻 啦嘎咻",
+      "spelling": "heh sioh heh sioh heh sioh là kā sioh",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "嘿咻 嘿咻 啦嘎咻",
+      "spelling": "heh sioh heh sioh heh sioh là kā sioh",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "彼天我站置十字路口 人來人往的城市",
+      "spelling": "hit hang guá tsām tì si̍p-jī lōo-kháu lâng lâi lâng óng ê siânn-tshī",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "我繼續走我繼續喘氣",
+      "spelling": "guá kè-sio̍k kiânn guá kè-sio̍k tshuán-khuì",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "有真多話想欲講 尚尾又擱吞落去",
+      "spelling": "ū tsin tsē uē siūnn-beh kóng siōng bué iū koh thun lo̍h-khì",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "有足多代誌想欲做 但是卻做袂舒適",
+      "spelling": "ū tsiok tsē tāi-tsì siūnn-beh tsò tān-sī suah tsò bē sù-sī",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "到底是船過水無痕 也是船到橋頭自然直",
+      "spelling": "tàu-té sī tsûn kuè tsuí bô hûn iā-sī tsûn kàu kiô-thâu tsū-jiân ti̍t",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "到底是三分天註定 也是醜醜馬嘛有一步踢",
+      "spelling": "tàu-té sī sann-hun thinn tsù-tiānn iā-sī bái bái bé mā ū tsi̍t pōo that",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "置勒這 置勒這 我的夢猶原",
+      "spelling": "tì li̍k tsiah tì li̍k tsiah guá ê bāng iu-guân",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "作夥經歷 作夥感受 然後作夥放下",
+      "spelling": "tsò hué king-li̍k tsò hué kám-siū liân-āu tsò hué pàng-hā",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "如果一棵大樹沒了根",
+      "spelling": "rúguǒ yī kē dàshù méiliǎo gēn",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "魚離了水如何生存",
+      "spelling": "yú líle shuǐ rúhé shēngcún",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "鳥沒有翅膀無法飛翔",
+      "spelling": "niǎo méiyǒu chìbǎng wúfǎ fēixiáng",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "我哪會凍放棄",
+      "spelling": "guá ná ē tàng hòng-khì",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "當你踏上一條不歸的路",
+      "spelling": "dāng nǐ tà shàng yītiáo bù guī de lù",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "會凍幹譙嗎",
+      "spelling": "ē-tàng kàn kiau ma",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "當你決定不再回頭",
+      "spelling": "dāng nǐ juédìng bù zài huítóu",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "會凍幹譙嗎",
+      "spelling": "ē-tàng kàn kiau ma",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "問自己吶喊以後",
+      "spelling": "wèn zìjǐ nàhǎn yǐhòu",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "會凍幹譙嗎",
+      "spelling": "ē-tàng kàn kiau ma",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "會凍幹譙嗎",
+      "spelling": "ē-tàng kàn kiau ma",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "嘿咻 嘿咻 啦嘎咻",
+      "spelling": "heh sioh heh sioh heh sioh là kā sioh",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "嘿咻 嘿咻 啦嘎咻",
+      "spelling": "heh sioh heh sioh heh sioh là kā sioh",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "我從夢中醒起來 不是夢無夠精彩",
+      "spelling": "guá tsiông bāng-tiong tshénn khí-lâi m̄ sī bô kàu tsing-tshái",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "現實的世界 乎人無法度當作無知",
+      "spelling": "hiān-si̍t ê sè-kài hōo lâng bô-huat-tōo tòng-tsuè m̄-tsai",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "為到一口氣 兩口氣 幾阿口氣是為到啥覓",
+      "spelling": "uî-tio̍h tsi̍t-khuì-kháu nn̄g-khuì-kháu kuí ah khuì-kháu sī uî-tio̍h siánn-bā",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "無要緊 相信我 拎的份我會扛起來擔",
+      "spelling": "bô iàu-kín siong-sìn guá lîng ê hūn guá ē kng khí-lâi tam",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "激動的音樂聲 置這個時存又擱響起",
+      "spelling": "kik-tōng ê im-ga̍k siann tì tsit-ê sî tsūn iū koh hiáng-khí",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "一兩值無幾銀的骨氣 同款無底驚變天",
+      "spelling": "tsi̍t-nn̄g ti̍t bô kuí gîn ê kut-khì kāng-khuán bô té kiann piàn-thian",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "時間無等人 時間無等人",
+      "spelling": "sî-kan bô tán-lâng sî-kan bô tán-lâng",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "總來啦 雖然我只是一個普通普通人",
+      "spelling": "tsóng lâi là sui-jiân guá tsí-sī tsi̍t ê phóo-thong phóo-thong lâng",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "如果一棵大樹沒了根",
+      "spelling": "rúguǒ yī kē dàshù méiliǎo gēn",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "魚離了水如何生存",
+      "spelling": "yú líle shuǐ rúhé shēngcún",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "鳥沒有翅膀無法飛翔",
+      "spelling": "niǎo méiyǒu chìbǎng wúfǎ fēixiáng",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "我哪會凍放棄",
+      "spelling": "guá ná ē tàng hòng-khì",
+      "source_lines": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "當你踏上一條不歸的路",
+      "spelling": "dāng nǐ tà shàng yītiáo bù guī de lù",
+      "source_lines": [
+        108,
+        109
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "會凍幹譙嗎",
+      "spelling": "ē-tàng kàn kiau ma",
+      "source_lines": [
+        111,
+        112
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "當你決定不再回頭",
+      "spelling": "dāng nǐ juédìng bù zài huítóu",
+      "source_lines": [
+        114,
+        115
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "會凍幹譙嗎",
+      "spelling": "ē-tàng kàn kiau ma",
+      "source_lines": [
+        117,
+        118
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "終於踏上這條未知的路",
+      "spelling": "zhōngyú tà shàng zhè tiáo wèizhī de lù",
+      "source_lines": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "我他馬的廢了嗎",
+      "spelling": "wǒ tā mǎ de fèile ma",
+      "source_lines": [
+        123,
+        124
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "終於決定斬斷退路",
+      "spelling": "zhōngyú juédìng zhǎn duàn tuìlù",
+      "source_lines": [
+        126,
+        127
+      ]
+    },
+    {
+      "id": "line-129",
+      "text": "還要誰來教我",
+      "spelling": "hái yào shuí lái jiào wǒ",
+      "source_lines": [
+        129,
+        130
+      ]
+    },
+    {
+      "id": "line-132",
+      "text": "問自己吶喊以後",
+      "spelling": "wèn zìjǐ nàhǎn yǐhòu",
+      "source_lines": [
+        132,
+        133
+      ]
+    },
+    {
+      "id": "line-135",
+      "text": "你聽見了吧",
+      "spelling": "nǐ tīngjiànle ba",
+      "source_lines": [
+        135,
+        136
+      ]
+    },
+    {
+      "id": "line-138",
+      "text": "你聽見了吧",
+      "spelling": "nǐ tīngjiànle ba",
+      "source_lines": [
+        138,
+        139
+      ]
+    },
+    {
+      "id": "line-141",
+      "text": "嘿咻 嘿咻 啦嘎咻",
+      "spelling": "heh sioh heh sioh heh sioh là kā sioh",
+      "source_lines": [
+        141,
+        142
+      ]
+    },
+    {
+      "id": "line-144",
+      "text": "嘿咻 嘿咻 啦嘎咻",
+      "spelling": "heh sioh heh sioh heh sioh là kā sioh",
+      "source_lines": [
+        144,
+        145
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:1,3"
+  ]
+}

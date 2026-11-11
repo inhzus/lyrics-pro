@@ -1,0 +1,422 @@
+{
+  "recording_id": "netease:449769021",
+  "source": "User-supplied resources/lyrics-spelling/種子-伍佰",
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "風叫我飛去佗位                              我就愛飛去佗位",
+      "spelling": "hong kiò guá pue khì tó uī         guá tsiū ài pue khì tó uī",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "風叫我飛去佗位",
+          "spelling": "hong kiò guá pue khì tó uī"
+        },
+        {
+          "text": "我就愛飛去佗位",
+          "spelling": "guá tsiū ài pue khì tó uī"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "背井離鄉                                          流浪千里",
+      "spelling": "puē puē-tsínn lī-hiong                 liû-lōng tshian-lí",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "背井離鄉",
+          "spelling": "puē puē-tsínn lī-hiong"
+        },
+        {
+          "text": "流浪千里",
+          "spelling": "liû-lōng tshian-lí"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "或者是山跤海邊                                  或者是過海上天",
+      "spelling": "he̍k-chiá sī suann-kha hái-pinn    he̍k-chiá sī kuè-hái tsiūnn-thinn",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "或者是山跤海邊",
+          "spelling": "he̍k-chiá sī suann-kha hái-pinn"
+        },
+        {
+          "text": "或者是過海上天",
+          "spelling": "he̍k-chiá sī kuè-hái tsiūnn-thinn"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "我也猶原                                           無法主意",
+      "spelling": "guá iā iu-guân                                bô huat tsú-ì",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "我也猶原",
+          "spelling": "guá iā iu-guân"
+        },
+        {
+          "text": "無法主意",
+          "spelling": "bô huat tsú-ì"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "我是一粒流浪的種子                            人生就是無限的延遲",
+      "spelling": "guá sī tsi̍t lia̍p liû-lōng ê tsíng-tsí    lîn-sing tio̍h-sī tio̍h-sī bû-hān ê iân-tî",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "我是一粒流浪的種子",
+          "spelling": "guá sī tsi̍t lia̍p liû-lōng ê tsíng-tsí"
+        },
+        {
+          "text": "人生就是無限的延遲",
+          "spelling": "lîn-sing tio̍h-sī tio̍h-sī bû-hān ê iân-tî"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "行到佗                      揣到佗                    行到遮                    徛佇遮",
+      "spelling": "kiânn kàu toh        tsué kàu toh         kiânn kàu jia        khiā tī jia",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "行到佗",
+          "spelling": "kiânn kàu toh"
+        },
+        {
+          "text": "揣到佗",
+          "spelling": "tsué kàu toh"
+        },
+        {
+          "text": "行到遮",
+          "spelling": "kiânn kàu jia"
+        },
+        {
+          "text": "徛佇遮",
+          "spelling": "khiā tī jia"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "無限的風將我吹                                      無停的雨將我淋",
+      "spelling": "bô hān ê hong tsiong guá tshue        bô thîng ê hōo tsiong guá lâm",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "無限的風將我吹",
+          "spelling": "bô hān ê hong tsiong guá tshue"
+        },
+        {
+          "text": "無停的雨將我淋",
+          "spelling": "bô thîng ê hōo tsiong guá lâm"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "就是因為欲              揣到妳",
+      "spelling": "tsiū sī in-uī beh     tsué tio̍h lí",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "就是因為欲",
+          "spelling": "tsiū sī in-uī beh"
+        },
+        {
+          "text": "揣到妳",
+          "spelling": "tsué tio̍h lí"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "無論妳天涯海角",
+      "spelling": "bô-lūn lí thian-gâi-hái-kak",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "咱會來旋藤開花                                 咱會來生葉發枝",
+      "spelling": "lán ē lâi suan-tîn khui-hue            lán ē lâi senn hio̍h huat ki",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "咱會來旋藤開花",
+          "spelling": "lán ē lâi suan-tîn khui-hue"
+        },
+        {
+          "text": "咱會來生葉發枝",
+          "spelling": "lán ē lâi senn hio̍h huat ki"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "註定是一生的走揣",
+      "spelling": "tsù-tīn sī it-sing ē tsáu-tshuē",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "只有我佮妳                 咱兩人黏做伙                          無人剝會開",
+      "spelling": "tsí-ū guá kah lí        lán nn̄g lâng liâm tsò-hué    bô-lâng pak ē khui",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "只有我佮妳",
+          "spelling": "tsí-ū guá kah lí"
+        },
+        {
+          "text": "咱兩人黏做伙",
+          "spelling": "lán nn̄g lâng liâm tsò-hué"
+        },
+        {
+          "text": "無人剝會開",
+          "spelling": "bô-lâng pak ē khui"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "做伙來相倚落土",
+      "spelling": "tsò hué lâi sio-uá lo̍h-thóo",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "我想欲飛去佗位                                   嘛無法飛去佗位",
+      "spelling": "guá siūnn beh pue khì tó-uī            mah bô huat pue khì tó-uī",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "我想欲飛去佗位",
+          "spelling": "guá siūnn beh pue khì tó-uī"
+        },
+        {
+          "text": "嘛無法飛去佗位",
+          "spelling": "mah bô huat pue khì tó-uī"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "我是一粒                  小小種子",
+      "spelling": "guá sī tsi̍t lia̍p        sió sió tsíng-tsí",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "我是一粒",
+          "spelling": "guá sī tsi̍t lia̍p"
+        },
+        {
+          "text": "小小種子",
+          "spelling": "sió sió tsíng-tsí"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "但是我無論何時                             會當來從頭做起",
+      "spelling": "tān sī guá bô-lūn hô-sî                ē-tàng lâi tuì-thâu tsuè-khí",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "但是我無論何時",
+          "spelling": "tān sī guá bô-lūn hô-sî"
+        },
+        {
+          "text": "會當來從頭做起",
+          "spelling": "ē-tàng lâi tuì-thâu tsuè-khí"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "只因為我              來拄到妳",
+      "spelling": "tsí in-uī guá        lâi tú tio̍h lí",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "只因為我",
+          "spelling": "tsí in-uī guá"
+        },
+        {
+          "text": "來拄到妳",
+          "spelling": "lâi tú tio̍h lí"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "風吹我流浪萬里",
+      "spelling": "hong tshue guá liû-lōng bān-lí",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "我經過苦甘日子                                      我渡過海波浪水",
+      "spelling": "guá king-kuè khóo-kam li̍t-tsí            guá tōo kuè hái-pho lōng tsuí",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "我經過苦甘日子",
+          "spelling": "guá king-kuè khóo-kam li̍t-tsí"
+        },
+        {
+          "text": "我渡過海波浪水",
+          "spelling": "guá tōo kuè hái-pho lōng tsuí"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "猶原是有意義  因為                       無論妳天涯海角",
+      "spelling": "iu-guân sī ū ì-gī   in-uī                bô-lūn lí thian-gâi-hái-kak",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "猶原是有意義",
+          "spelling": "iu-guân sī ū ì-gī"
+        },
+        {
+          "text": "因為",
+          "spelling": "in-uī"
+        },
+        {
+          "text": "無論妳天涯海角",
+          "spelling": "bô-lūn lí thian-gâi-hái-kak"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "咱會來旋藤開花                                 咱會來生葉發枝",
+      "spelling": "lán ē lâi suan-tîn khui-hue            lán ē lâi senn hio̍h huat ki",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "咱會來旋藤開花",
+          "spelling": "lán ē lâi suan-tîn khui-hue"
+        },
+        {
+          "text": "咱會來生葉發枝",
+          "spelling": "lán ē lâi senn hio̍h huat ki"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "註定是一生的走揣",
+      "spelling": "tsù-tīn sī it-sing ē tsáu-tshuē",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "只有我佮妳                咱兩人黏做伙                           無人剝會開",
+      "spelling": "tsí-ū guá kah lí        lán nn̄g lâng liâm tsò-hué    bô-lâng pak ē khui",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "只有我佮妳",
+          "spelling": "tsí-ū guá kah lí"
+        },
+        {
+          "text": "咱兩人黏做伙",
+          "spelling": "lán nn̄g lâng liâm tsò-hué"
+        },
+        {
+          "text": "無人剝會開",
+          "spelling": "bô-lâng pak ē khui"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "做伙來相倚落土",
+      "spelling": "tsò hué lâi sio-uá lo̍h-thóo",
+      "source_lines": [
+        72,
+        73
+      ]
+    }
+  ]
+}

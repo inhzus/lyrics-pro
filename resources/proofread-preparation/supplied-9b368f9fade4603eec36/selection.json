@@ -1,0 +1,35 @@
+{
+  "selected": {
+    "song_id": 161277,
+    "title": "爱到无命不知惊",
+    "artists": [
+      "王识贤"
+    ],
+    "album": "爱到无命不知惊",
+    "duration": 241.853,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "netease:161277",
+      "duration": 241.853,
+      "ready": false,
+      "coverage": 0.0,
+      "exact_fraction": 0.0,
+      "summary": {
+        "unresolved": 43
+      }
+    },
+    {
+      "recording_id": "netease:5249575",
+      "duration": 91.141,
+      "ready": false,
+      "coverage": 0.0,
+      "exact_fraction": 0.0,
+      "summary": {
+        "unresolved": 43
+      }
+    }
+  ]
+}

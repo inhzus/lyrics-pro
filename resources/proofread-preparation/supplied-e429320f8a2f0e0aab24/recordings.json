@@ -1,0 +1,138 @@
+{
+  "candidates": [
+    {
+      "song_id": 70160,
+      "title": "风真透",
+      "artists": [
+        "陈雷"
+      ],
+      "album": "往事就是我的安慰",
+      "duration": 199.0,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 3346396522,
+      "title": "风真透",
+      "artists": [
+        "陈雷"
+      ],
+      "album": "烧翻卖",
+      "duration": 199.0,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 69466,
+      "title": "风真透",
+      "artists": [
+        "陈雷"
+      ],
+      "album": "烧翻卖2",
+      "duration": 199.0,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2610606789,
+      "title": "风真透",
+      "artists": [
+        "陈雷"
+      ],
+      "album": "钢琴酒吧（1）年度精选歌曲",
+      "duration": 206.0,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1990531745,
+      "title": "风真透",
+      "artists": [
+        "陈雷"
+      ],
+      "album": "陈雷经典选集2",
+      "duration": 203.232,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1321312313,
+      "title": "風真透",
+      "artists": [
+        "陳雷"
+      ],
+      "album": "乡城台语精选, Vol. 1",
+      "duration": 203.666,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1851712577,
+      "title": "風真透",
+      "artists": [
+        "赵剑华",
+        "Rufus"
+      ],
+      "album": "萨克斯风与二胡 (福建流行演奏曲)",
+      "duration": 203.572,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 116175,
+      "title": "风真透",
+      "artists": [
+        "李泰祥"
+      ],
+      "album": "中国交响世纪6 恋恋琴声",
+      "duration": 283.4,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 189014,
+      "title": "风真透",
+      "artists": [
+        "赵传"
+      ],
+      "album": "黑暗的英雄",
+      "duration": 200.664,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 866049616,
+      "title": "风真透",
+      "artists": [
+        "吉马合唱团"
+      ],
+      "album": "吉马台语排行榜 11",
+      "duration": 198.293,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2022844996,
+      "title": "風真透",
+      "artists": [
+        "童欣"
+      ],
+      "album": "风真透",
+      "duration": 205.16,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 481853733,
+      "title": "风真透",
+      "artists": [
+        "群星"
+      ],
+      "album": "贵族舞曲3流行恰恰",
+      "duration": 199.333,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,297 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "等風吹落地                        等日頭落山",
+      "spelling": "tán hong tshue lo̍h-tē     tán ji̍t-thâu lo̍h-suann",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "等風吹落地",
+          "spelling": "tán hong tshue lo̍h-tē"
+        },
+        {
+          "text": "等日頭落山",
+          "spelling": "tán ji̍t-thâu lo̍h-suann"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "等妳攏體會                  青春閣賰偌濟",
+      "spelling": "tán lí lóng thé-huē    tshing-tshun koh tshun guā-tsuè",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "等妳攏體會",
+          "spelling": "tán lí lóng thé-huē"
+        },
+        {
+          "text": "青春閣賰偌濟",
+          "spelling": "tshing-tshun koh tshun guā-tsuè"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "我寫佇風中                     予你的情批",
+      "spelling": "guá siá tī hong tiong    hōo lí ê tsîng phue",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "我寫佇風中",
+          "spelling": "guá siá tī hong tiong"
+        },
+        {
+          "text": "予你的情批",
+          "spelling": "hōo lí ê tsîng phue"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "你敢有聽著                      我心內的話",
+      "spelling": "lí kánn ū thiann tio̍h    guá sim-lāi ê uē",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "你敢有聽著",
+          "spelling": "lí kánn ū thiann tio̍h"
+        },
+        {
+          "text": "我心內的話",
+          "spelling": "guá sim-lāi ê uē"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "等恆春落雪                           等鐵樹開花",
+      "spelling": "tán hîng-tshun lo̍h-seh     tán thih-tshiū khui-hue",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "等恆春落雪",
+          "spelling": "tán hîng-tshun lo̍h-seh"
+        },
+        {
+          "text": "等鐵樹開花",
+          "spelling": "tán thih-tshiū khui-hue"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "等無你答應                  所以我一直戇戇踅",
+      "spelling": "tán bô lí tah-ìng        sóo-í guá it-ti̍t gōng-gōng se̍h",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "等無你答應",
+          "spelling": "tán bô lí tah-ìng"
+        },
+        {
+          "text": "所以我一直戇戇踅",
+          "spelling": "sóo-í guá it-ti̍t gōng-gōng se̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "我寫佇風中                         予你的情批",
+      "spelling": "guá siá tī hong tiong        hōo lí ê tsîng phue",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "我寫佇風中",
+          "spelling": "guá siá tī hong tiong"
+        },
+        {
+          "text": "予你的情批",
+          "spelling": "hōo lí ê tsîng phue"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "你敢有聽著                         我心內的話",
+      "spelling": "lí kám ū thiann tio̍h        guá sim-lāi ê uē",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "你敢有聽著",
+          "spelling": "lí kám ū thiann tio̍h"
+        },
+        {
+          "text": "我心內的話",
+          "spelling": "guá sim-lāi ê uē"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "想欲霸佔你的美麗",
+      "spelling": "siūnn-beh pà-tìn lí ê bí-lē",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "牽你的手                   永遠做伙",
+      "spelling": "khan lí ê tshiú        íng-uán tsò-hué",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "牽你的手",
+          "spelling": "khan lí ê tshiú"
+        },
+        {
+          "text": "永遠做伙",
+          "spelling": "íng-uán tsò-hué"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "愛過的人                其實也無幾个",
+      "spelling": "ài kuè ê lâng        kî-si̍t iā bô kuí ê",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "愛過的人",
+          "spelling": "ài kuè ê lâng"
+        },
+        {
+          "text": "其實也無幾个",
+          "spelling": "kî-si̍t iā bô kuí ê"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "但你是最後一个",
+      "spelling": "nā lí sī tsuè-āu tsi̍t ê",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "溫柔的風                     輕輕向你吹過",
+      "spelling": "un-jiû ê hong            khin khin hiòng lí tshue kuè",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "溫柔的風",
+          "spelling": "un-jiû ê hong"
+        },
+        {
+          "text": "輕輕向你吹過",
+          "spelling": "khin khin hiòng lí tshue kuè"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "吹起你的頭鬃                         遐爾美麗",
+      "spelling": "tshue khí lí ê thâu-tsang    hiah-nī bí-lē",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "吹起你的頭鬃",
+          "spelling": "tshue khí lí ê thâu-tsang"
+        },
+        {
+          "text": "遐爾美麗",
+          "spelling": "hiah-nī bí-lē"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "愛過的人                其實也無幾个",
+      "spelling": "ài kuè ê lâng        kî-si̍t iā bô kuí ê",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "愛過的人",
+          "spelling": "ài kuè ê lâng"
+        },
+        {
+          "text": "其實也無幾个",
+          "spelling": "kî-si̍t iā bô kuí ê"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "你是最後一个",
+      "spelling": "lí sī tsuè-āu tsi̍t ê",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "希望你是最後一个",
+      "spelling": "hi-bāng lí sī tsuè-āu tsi̍t ê",
+      "source_lines": [
+        51,
+        52
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：楊大正   作曲：楊大正  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

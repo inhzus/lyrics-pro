@@ -1,0 +1,291 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "這條路 怎麼會這麼長這麼遠阿",
+      "spelling": "tsit tiâu lōo lâi tsiah-nī tn̂g tsiah-nī hn̄g ah",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "以前我都覺得這哪有什麼 忍一下就過了",
+      "spelling": "khá-tsá guá lóng kám-kak tse ná ū siánn lím tsi̍t-ē tio̍h kuè-ah",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "今日來到這 才知道不是那麼簡單阿",
+      "spelling": "kin-á-lâi kàu tsia tsiah tsai-iánn m̄ sī hiah-nī kán-tan ah",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "這條路 怎麼會走不完看不到尾阿",
+      "spelling": "tsit tiâu lōo lâi kiânn buē uân khuànn-buē-tio̍h bué ah",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "以前我都覺得這哪有什麼 眼一眨就過了",
+      "spelling": "khá-tsá guá lóng kám-kak tse ná ū siánn ba̍k tsi̍t-nih tio̍h kuè-ah",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "今日來到這 才知道不是那麼輕鬆阿",
+      "spelling": "kin-á-li̍t kàu tsia tsiah tsai-iánn m̄ sī hiah-nī khin-sang ah",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "月娘阿 月娘阿 月娘阿 妳又笑咪咪阿",
+      "spelling": "gue̍h-niû ah gue̍h-niû ah gue̍h-niû ah lí koh tshiò bî-bî-á",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "歡喜的日子 總是過得較快活",
+      "spelling": "huann-hí ê li̍t-tsí tsóng-sī kuè liáu khah khuìnn-ua̍h",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "妳是否知曉 我在想啥",
+      "spelling": "lí kám tsai-iánn gún te siūnn siánn",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "妳是否知曉 我的心聲",
+      "spelling": "lí kám tsai-iánn gún ê sim-siann",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "月娘阿 月娘阿 月娘阿 妳又躲去哪阿",
+      "spelling": "gue̍h-niû ah gue̍h-niû ah gue̍h-niû ah lí koh bih khì tue ah",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "玩樂的日子 總是過得較快活",
+      "spelling": "tshit-thô ê li̍t-tsí tsóng-sī kuè liáu khah khuìnn-ua̍h",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "我的心事 就講給妳聽",
+      "spelling": "gún ê sim-sū tio̍h kóng hōo lí thiann",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "我的願望 就拜託妳啦",
+      "spelling": "gún ê guān-bōng tio̍h pài-thok lí là",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "這條路 怎麼會這麼長這麼遠阿",
+      "spelling": "tsit tiâu lōo lâi tsiah-nī tn̂g tsiah-nī hn̄g ah",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "以前我都覺得這哪有什麼 忍一下就過了",
+      "spelling": "khá-tsá guá lóng kám-kak tse ná ū siánn lím tsi̍t-ē tio̍h kuè-ah",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "今日來到這 才知道不是那麼簡單阿",
+      "spelling": "kin-á-lâi kàu tsia tsiah tsai-iánn m̄ sī hiah-nī kán-tan ah",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "這條路 怎麼會走不完看不到尾阿",
+      "spelling": "tsit tiâu lōo lâi kiânn buē uân khuànn-buē-tio̍h bué ah",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "以前我都覺得這哪有什麼 眼一眨就過了",
+      "spelling": "khá-tsá guá lóng kám-kak tse ná ū siánn ba̍k tsi̍t-nih tio̍h kuè-ah",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "今日來到這 才知道不是那麼輕鬆阿",
+      "spelling": "kin-á-li̍t kàu tsia tsiah tsai-iánn m̄ sī hiah-nī khin-sang ah",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "月娘阿 月娘阿 月娘阿 妳又笑咪咪阿",
+      "spelling": "gue̍h-niû ah gue̍h-niû ah gue̍h-niû ah lí koh tshiò bî-bî-á",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "歡喜的日子 總是過得較快活",
+      "spelling": "huann-hí ê li̍t-tsí tsóng-sī kuè liáu khah khuìnn-ua̍h",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "妳是否知曉 我在想啥",
+      "spelling": "lí kám tsai-iánn gún te siūnn siánn",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "妳是否知曉 我的心聲",
+      "spelling": "lí kám tsai-iánn gún ê sim-siann",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "月娘阿 月娘阿 月娘阿 妳又躲去哪阿",
+      "spelling": "gue̍h-niû ah gue̍h-niû ah gue̍h-niû ah lí koh bih khì tue ah",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "玩樂的日子 總是過得較快活",
+      "spelling": "tshit-thô ê li̍t-tsí tsóng-sī kuè liáu khah khuìnn-ua̍h",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "我的心事 就講給妳聽",
+      "spelling": "gún ê sim-sū tio̍h kóng hōo lí thiann",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "我的願望 就拜託妳啦",
+      "spelling": "gún ê guān-bōng tio̍h pài-thok lí là",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "就拜託妳啦",
+      "spelling": "tio̍h pài-thok lí là",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "就拜託妳啦",
+      "spelling": "tio̍h pài-thok lí là",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "就拜託妳啦",
+      "spelling": "tio̍h pài-thok lí là",
+      "source_lines": [
+        93,
+        94
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳建達 作曲：吳建達 台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

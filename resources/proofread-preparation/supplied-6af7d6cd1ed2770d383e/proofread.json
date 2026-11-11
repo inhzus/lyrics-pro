@@ -1,0 +1,240 @@
+{
+  "recording_id": "lrcapi:1445521619",
+  "source": "User-supplied resources/lyrics-spelling/夢中央-江蕙",
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "每一個人的夢中　攏有一扇門",
+      "spelling": "muí tsi̍t ê lâng ê bāng-tiong lóng ū tsi̍t sìnn-mn̂g",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "有的人開門　是欲飛向遙遠的未來",
+      "spelling": "ū ê lâng khui-mn̂g sī beh pue hiòng iâu-uán ê bī-lâi",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "有的人開門　是為著懷念囝仔時代",
+      "spelling": "ū ê lâng khui-mn̂g sī uī-tio̍h huâi-liām kín-á sî-tāi",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "阮的夢中嘛有一扇門　每一次打開",
+      "spelling": "gún ê bāng-tiong mā ū tsi̍t sìnn-mn̂g muí tsi̍t-pái phah-khui",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "就會帶我返去　上思念的所在",
+      "spelling": "tio̍h ê tài guá tńg-khì siōng su-liām ê sóo-tsāi",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "上愛看到月光　偷偷照入門",
+      "spelling": "siōng ài khuànn-tio̍h gue̍h-kng thau-thau tsiàu ji̍p-mn̂g",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "陪阮想啊　陪阮夢啊　陪阮倒踮眠床",
+      "spelling": "puê gún siūnn ah puê gún bāng ah puê gún tó liam bîn-tshn̂g",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "思思念念的人　想著心就軟",
+      "spelling": "su-su-liām-liām ê lâng siūnn-tio̍h sim tio̍h nńg",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "置海角啊　置天邊啊　置阮夢中央",
+      "spelling": "tì hái-kak ah tì thinn-pinn ah tì gún bāng-tiong iong",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "一慕離情　擦溼雙邊的手袖",
+      "spelling": "tsi̍t bōo lī tsîng tshit tâm siang-pîng ê tshiú-ńg",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "兩掛珍珠　點點滴滴攏打斷",
+      "spelling": "nn̄g kuà tsin-tsu tiám tiám tih tih lóng phah-tn̄g",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "三更露深　夜夜思念到天光",
+      "spelling": "sann-kinn lōo tshim iā iā su-liām kàu thinn-kng",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "唉呦喂　你離我彼呢遠",
+      "spelling": "haih-io-ueh lí lī guá hiah-nī hn̄g",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "上驚看無月光　開窗一直問",
+      "spelling": "siōng kiann khuànn bô gue̍h-kng khui thang it-ti̍t mn̄g",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "問過去啊　問以後啊　問阮怎樣按算",
+      "spelling": "mn̄g kuè-khì ah mn̄g í-āu ah mn̄g gún tsuánn-iūnn àn-sǹg",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "思思念念的人　催阮緊來返",
+      "spelling": "su-su-liām-liām ê lâng tshui gún kín lâi tńg",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "不管風啊　不管雨啊　不管路外長",
+      "spelling": "m̄-kuán hong ah m̄-kuán hōo ah m̄-kuán lōo guā-tiúnn",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "一慕離情　擦溼雙邊的手袖",
+      "spelling": "tsi̍t bōo lī tsîng tshit tâm siang-pîng ê tshiú-ńg",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "兩掛珍珠　點點滴滴攏打斷",
+      "spelling": "nn̄g kuà tsin-tsu tiám tiám tih tih lóng phah-tn̄g",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "三更露深　夜夜思念到天光",
+      "spelling": "sann-kinn lōo tshim iā iā su-liām kàu thinn-kng",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "唉呦喂　你離我彼呢遠",
+      "spelling": "haih-io-ueh lí lī guá hiah-nī hn̄g",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "上愛看到月光　偷偷照入門",
+      "spelling": "siōng ài khuànn-tio̍h gue̍h-kng thau-thau tsiàu ji̍p-mn̂g",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "陪阮想啊　陪阮夢啊　陪阮倒踮眠床",
+      "spelling": "puê gún siūnn ah puê gún bāng ah puê gún tó liam bîn-tshn̂g",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "思思念念的人　想著心就軟",
+      "spelling": "su-su-liām-liām ê lâng siūnn-tio̍h sim tio̍h nńg",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "置海角啊　置天邊啊　置阮夢中央",
+      "spelling": "tì hái-kak ah tì thinn-pinn ah tì gún bāng-tiong iong",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "置海角啊　置天邊啊　置阮夢中央",
+      "spelling": "tì hái-kak ah tì thinn-pinn ah tì gún bāng-tiong iong",
+      "source_lines": [
+        76,
+        77
+      ]
+    }
+  ]
+}

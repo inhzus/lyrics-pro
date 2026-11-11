@@ -1,0 +1,661 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "只要為你活一工　                           接近你是我唯一的願望",
+      "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang             tsiap-kīn lí sī guá uî-it ê guān-bōng",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        },
+        {
+          "text": "接近你是我唯一的願望",
+          "spelling": "tsiap-kīn lí sī guá uî-it ê guān-bōng"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "只要為你活一工　                          我的生命才有價值和希望",
+      "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang             guá ê sènn-miā tsâi ū kè-ta̍t kah hi-bāng",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        },
+        {
+          "text": "我的生命才有價值和希望",
+          "spelling": "guá ê sènn-miā tsâi ū kè-ta̍t kah hi-bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "敢有聽到我的心臟　                                    是乒乒乓乓在震動",
+      "spelling": "kám ū thiann-tio̍h guá ê sim-tsōng        sī phi̋n phi̋n phóng phóng leh tín-tāng",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "敢有聽到我的心臟",
+          "spelling": "kám ū thiann-tio̍h guá ê sim-tsōng"
+        },
+        {
+          "text": "是乒乒乓乓在震動",
+          "spelling": "sī phi̋n phi̋n phóng phóng leh tín-tāng"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "那是我胸坎肉內的血　                                   親像你海湧在反紅",
+      "spelling": "he sī guá hing-khám bah luē ê hueh        tshin-tshiūnn lí hái-íng leh huán âng",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "那是我胸坎肉內的血",
+          "spelling": "he sī guá hing-khám bah luē ê hueh"
+        },
+        {
+          "text": "親像你海湧在反紅",
+          "spelling": "tshin-tshiūnn lí hái-íng leh huán âng"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "敢有看到我的目睭茫茫霧霧甘哪在眠夢",
+      "spelling": "kám ū khuànn-tio̍h guá ê ba̍k-tsiu bông-bông-bū-bū kam ná leh bîn-bāng",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "敢有看到我的目睭茫茫霧霧甘哪在眠夢",
+          "spelling": "kám ū khuànn-tio̍h guá ê ba̍k-tsiu bông-bông-bū-bū kam ná leh bîn-bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "因為你的眼神乎我墮落你用魔法補的網",
+      "spelling": "in-uī lí ê gán-sîn honnh guá tuī-lo̍h lí iōng môo-huat póo ê bāng",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "因為你的眼神乎我墮落你用魔法補的網",
+          "spelling": "in-uī lí ê gán-sîn honnh guá tuī-lo̍h lí iōng môo-huat póo ê bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "我是憨人　            見到你　             控制完全沒採工",
+      "spelling": "guá sī kóo lâng    kìnn-tio̍h lí        khòng-tsè uân-tsuân bô tshái kang",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "我是憨人",
+          "spelling": "guá sī kóo lâng"
+        },
+        {
+          "text": "見到你",
+          "spelling": "kìnn-tio̍h lí"
+        },
+        {
+          "text": "控制完全沒採工",
+          "spelling": "khòng-tsè uân-tsuân bô tshái kang"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "我是憨人　             為著你　       一分一秒放攏不輕鬆",
+      "spelling": "guá sī kóo lâng    uī tio̍h lí        tsi̍t pun tsi̍t bió lóng bô khin-sang",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "我是憨人",
+          "spelling": "guá sī kóo lâng"
+        },
+        {
+          "text": "為著你",
+          "spelling": "uī tio̍h lí"
+        },
+        {
+          "text": "一分一秒放攏不輕鬆",
+          "spelling": "tsi̍t pun tsi̍t bió lóng bô khin-sang"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "只要為你活一工　                           接近你是我唯一的願望",
+      "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang             tsiap-kīn lí sī guá uî-it ê guān-bōng",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        },
+        {
+          "text": "接近你是我唯一的願望",
+          "spelling": "tsiap-kīn lí sī guá uî-it ê guān-bōng"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "只要為你活一工　                           我的生命才有價值和希望",
+      "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang             guá ê sènn-miā tsâi ū kè-ta̍t kah hi-bāng",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        },
+        {
+          "text": "我的生命才有價值和希望",
+          "spelling": "guá ê sènn-miā tsâi ū kè-ta̍t kah hi-bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "敢有聽到我的心臟　                                    是乒乒乓乓在震動",
+      "spelling": "kám ū thiann-tio̍h guá ê sim-tsōng        sī phi̋n phi̋n phóng phóng leh tín-tāng",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "敢有聽到我的心臟",
+          "spelling": "kám ū thiann-tio̍h guá ê sim-tsōng"
+        },
+        {
+          "text": "是乒乒乓乓在震動",
+          "spelling": "sī phi̋n phi̋n phóng phóng leh tín-tāng"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "那是我胸坎肉內的血　                                   親像你海湧在反紅",
+      "spelling": "he sī guá hing-khám bah luē ê hueh        tshin-tshiūnn lí hái-íng leh huán âng",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "那是我胸坎肉內的血",
+          "spelling": "he sī guá hing-khám bah luē ê hueh"
+        },
+        {
+          "text": "親像你海湧在反紅",
+          "spelling": "tshin-tshiūnn lí hái-íng leh huán âng"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "敢有看到我的目睭茫茫霧霧甘哪在眠夢",
+      "spelling": "kám ū khuànn-tio̍h guá ê ba̍k-tsiu bông-bông-bū-bū kam ná leh bîn-bāng",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "敢有看到我的目睭茫茫霧霧甘哪在眠夢",
+          "spelling": "kám ū khuànn-tio̍h guá ê ba̍k-tsiu bông-bông-bū-bū kam ná leh bîn-bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "因為你的眼神乎我墮落你用魔法補的網",
+      "spelling": "in-uī lí ê gán-sîn honnh guá tuī-lo̍h lí iōng môo-huat póo ê bāng",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "因為你的眼神乎我墮落你用魔法補的網",
+          "spelling": "in-uī lí ê gán-sîn honnh guá tuī-lo̍h lí iōng môo-huat póo ê bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "我是憨人　            見到你　             控制完全沒採工",
+      "spelling": "guá sī kóo lâng    kìnn-tio̍h lí        khòng-tsè uân-tsuân bô tshái kang",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "我是憨人",
+          "spelling": "guá sī kóo lâng"
+        },
+        {
+          "text": "見到你",
+          "spelling": "kìnn-tio̍h lí"
+        },
+        {
+          "text": "控制完全沒採工",
+          "spelling": "khòng-tsè uân-tsuân bô tshái kang"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "我是憨人　            為著你　        一分一秒放攏不輕鬆",
+      "spelling": "guá sī kóo lâng    uī tio̍h lí        tsi̍t pun tsi̍t bió lóng bô khin-sang",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "我是憨人",
+          "spelling": "guá sī kóo lâng"
+        },
+        {
+          "text": "為著你",
+          "spelling": "uī tio̍h lí"
+        },
+        {
+          "text": "一分一秒放攏不輕鬆",
+          "spelling": "tsi̍t pun tsi̍t bió lóng bô khin-sang"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "血在湧                       面慶紅                 對你的熱情真正沒地藏",
+      "spelling": "hueh tī-leh íng        bīn tsò âng        tuì lí ê lia̍t-tsîng tsin-tsiànn bô tē-tshàng",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "血在湧",
+          "spelling": "hueh tī-leh íng"
+        },
+        {
+          "text": "面慶紅",
+          "spelling": "bīn tsò âng"
+        },
+        {
+          "text": "對你的熱情真正沒地藏",
+          "spelling": "tuì lí ê lia̍t-tsîng tsin-tsiànn bô tē-tshàng"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "不驚熱                     不驚凍                      不驚命運安怎捉創治人",
+      "spelling": "m̄ kiann-jua̍h        m̄ kiann-tàng        m̄ kiann miā-ūn an-tsuánn tsang tshong tī lâng",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "不驚熱",
+          "spelling": "m̄ kiann-jua̍h"
+        },
+        {
+          "text": "不驚凍",
+          "spelling": "m̄ kiann-tàng"
+        },
+        {
+          "text": "不驚命運安怎捉創治人",
+          "spelling": "m̄ kiann miā-ūn an-tsuánn tsang tshong tī lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "火在燒                      水在淙                       為著你生命我嘛甘願放",
+      "spelling": "hué leh tshuh        tsuí leh châng         uī tio̍h lí sènn-miā guá mah kam guān pàng",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "火在燒",
+          "spelling": "hué leh tshuh"
+        },
+        {
+          "text": "水在淙",
+          "spelling": "tsuí leh châng"
+        },
+        {
+          "text": "為著你生命我嘛甘願放",
+          "spelling": "uī tio̍h lí sènn-miā guá mah kam guān pàng"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "地在裂              天在崩                       只要為你活一工",
+      "spelling": "tē leh le̍h        thinn leh pang        tsí-iàu uî lí ua̍h tsi̍t kang",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "地在裂",
+          "spelling": "tē leh le̍h"
+        },
+        {
+          "text": "天在崩",
+          "spelling": "thinn leh pang"
+        },
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "血在湧                        面慶紅                對你的熱情真正沒地藏",
+      "spelling": "hueh tī-leh íng        bīn tsò âng        tuì lí ê lia̍t-tsîng tsin-tsiànn bô tē-tshàng",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "血在湧",
+          "spelling": "hueh tī-leh íng"
+        },
+        {
+          "text": "面慶紅",
+          "spelling": "bīn tsò âng"
+        },
+        {
+          "text": "對你的熱情真正沒地藏",
+          "spelling": "tuì lí ê lia̍t-tsîng tsin-tsiànn bô tē-tshàng"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "不驚熱                     不驚凍                     不驚命運安怎捉創治人",
+      "spelling": "m̄ kiann-jua̍h        m̄ kiann-tàng        m̄ kiann miā-ūn an-tsuánn tsang tshong tī lâng",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "不驚熱",
+          "spelling": "m̄ kiann-jua̍h"
+        },
+        {
+          "text": "不驚凍",
+          "spelling": "m̄ kiann-tàng"
+        },
+        {
+          "text": "不驚命運安怎捉創治人",
+          "spelling": "m̄ kiann miā-ūn an-tsuánn tsang tshong tī lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "火在燒                      水在淙                       為著你生命我嘛甘願放",
+      "spelling": "hué leh tshuh        tsuí leh châng         uī tio̍h lí sènn-miā guá mah kam guān pàng",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "火在燒",
+          "spelling": "hué leh tshuh"
+        },
+        {
+          "text": "水在淙",
+          "spelling": "tsuí leh châng"
+        },
+        {
+          "text": "為著你生命我嘛甘願放",
+          "spelling": "uī tio̍h lí sènn-miā guá mah kam guān pàng"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "地在裂             天在崩                        只要為你活一工",
+      "spelling": "tē leh le̍h        thinn leh pang        tsí-iàu uî lí ua̍h tsi̍t kang",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "地在裂",
+          "spelling": "tē leh le̍h"
+        },
+        {
+          "text": "天在崩",
+          "spelling": "thinn leh pang"
+        },
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "只要為你活一工　                           接近你是我唯一的願望",
+      "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang             tsiap-kīn lí sī guá uî-it ê guān-bōng",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        },
+        {
+          "text": "接近你是我唯一的願望",
+          "spelling": "tsiap-kīn lí sī guá uî-it ê guān-bōng"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "只要為你活一工　                           我的生命才有價值和希望",
+      "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang             guá ê sènn-miā tsâi ū kè-ta̍t kah hi-bāng",
+      "source_lines": [
+        78,
+        79
+      ],
+      "parts": [
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        },
+        {
+          "text": "我的生命才有價值和希望",
+          "spelling": "guá ê sènn-miā tsâi ū kè-ta̍t kah hi-bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "只要為你",
+      "spelling": "tsí-iàu uî lí",
+      "source_lines": [
+        81,
+        82
+      ],
+      "parts": [
+        {
+          "text": "只要為你",
+          "spelling": "tsí-iàu uî lí"
+        }
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "只要為你活一工　                           只要為你活一工",
+      "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang              tsí-iàu uî lí ua̍h tsi̍t kang",
+      "source_lines": [
+        84,
+        85
+      ],
+      "parts": [
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        },
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        }
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "只要為你活一工　                            只要為你",
+      "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang              tsí-iàu uî lí",
+      "source_lines": [
+        87,
+        88
+      ],
+      "parts": [
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        },
+        {
+          "text": "只要為你",
+          "spelling": "tsí-iàu uî lí"
+        }
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "只要為你活一工　                            只要為你活一工",
+      "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang               tsí-iàu uî lí ua̍h tsi̍t kang",
+      "source_lines": [
+        90,
+        91
+      ],
+      "parts": [
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        },
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        }
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "只要為你活一工　                            只要為你",
+      "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang               tsí-iàu uî lí",
+      "source_lines": [
+        93,
+        94
+      ],
+      "parts": [
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        },
+        {
+          "text": "只要為你",
+          "spelling": "tsí-iàu uî lí"
+        }
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "只要為你活一工　                            只要為你活一工",
+      "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang               tsí-iàu uî lí ua̍h tsi̍t kang",
+      "source_lines": [
+        96,
+        97
+      ],
+      "parts": [
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        },
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        }
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "只要為你活一工　                            只要為你",
+      "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang               tsí-iàu uî lí",
+      "source_lines": [
+        99,
+        100
+      ],
+      "parts": [
+        {
+          "text": "只要為你活一工",
+          "spelling": "tsí-iàu uî lí ua̍h tsi̍t kang"
+        },
+        {
+          "text": "只要為你",
+          "spelling": "tsí-iàu uî lí"
+        }
+      ]
+    }
+  ],
+  "repairs": [],
+  "notes": []
+}

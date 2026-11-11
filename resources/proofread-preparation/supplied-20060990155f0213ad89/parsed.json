@@ -1,0 +1,300 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "雨落袂停 雺霧袂散",
+      "spelling": "hōo lo̍h bē thîng  bông-bū bē suánn",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "數百年的壓迫 凌遲袂煞",
+      "spelling": "sòo pah nî ê ap-pik  lîng-tî bē suah",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "家己的命運 家己來擔",
+      "spelling": "ka-kī ê miā-ūn  ka-kī lâi tànn",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "行過坎坷 起造國家",
+      "spelling": "kiânn-kuè khám-khia̍t  khí-tsō kok-ka",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "行過坎坷 起造國家",
+      "spelling": "kiânn-kuè khám-khia̍t khí-tsō kok-ka",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "新共和 新國家",
+      "spelling": "sin kiōng-hô  sin kok-ka",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "做主人的骨氣",
+      "spelling": "tsò tsú-lâng ê kut-khì",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "親像破湧的軍艦",
+      "spelling": "tshin-tshiūnn phò ióng ê kun-lām",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "絕對袂回航",
+      "spelling": "tsua̍t-tuì bē huê hâng",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "出頭天的氣魄",
+      "spelling": "tshut-thâu thinn ê khì-phik",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "親像倔強的戰車",
+      "spelling": "tshin-tshiūnn khut-kiông ê tsiàn-tshia",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "堅定向前行",
+      "spelling": "kian-tīng hiòng-tsiân kiânn",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "為著大家的共和 咱冒寡齊風險",
+      "spelling": "uī-tio̍h ta̍k-ke ê kiōng-hô  lán mōo kuá tsê hong-hiám",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "為著大家的共和 咱犧牲寡齊人",
+      "spelling": "uī-tio̍h ta̍k-ke ê kiōng-hô  lán hi-sing kuá tsê lâng",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "為著大家的共和 咱代代仝心肝",
+      "spelling": "uī-tio̍h ta̍k-ke ê kiōng-hô  lán tāi tāi kāng sim-kuann",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "為著大家的共和 咱齊力拼大業",
+      "spelling": "uī-tio̍h ta̍k-ke ê kiōng-hô lán tsê li̍k piànn tāi-gia̍p",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "氣勢拼山河石獅嘛喝振動",
+      "spelling": "khì-sè piànn san-hô tsio̍h-sai mah huah tín-tāng",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "意志撼天地虎爺嘛來護航",
+      "spelling": "ì-tsì hám thinn-tē hóo iâ mah lâi hōo-hâng",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "苗生衝雲頂 文毅鬥武藝",
+      "spelling": "biâu sing tshiong hûn-tíng  bûn gē tàu bú-gē",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "義理堂堂 天理昭昭 歷史明黑白",
+      "spelling": "gī-lí tông-tông  thian-lí tsiau tsiau  li̍k-sú miâ oo-pe̍h",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "氣勢拼山河石獅嘛喝振動",
+      "spelling": "khì-sè piànn san-hô tsio̍h-sai mah huah tín-tāng",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "意志撼天地虎爺嘛來護航",
+      "spelling": "ì-tsì hám thinn-tē hóo iâ mah lâi hōo-hâng",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "苗生衝雲頂 文毅鬥武藝",
+      "spelling": "biâu sing tshiong hûn-tíng  bûn gē tàu bú-gē",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "義理堂堂 天理昭昭 歷史明黑白",
+      "spelling": "gī-lí tông-tông  thian-lí tsiau tsiau  li̍k-sú miâ oo-pe̍h",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "雨總會停 霧會散",
+      "spelling": "hōo tsóng ē thîng bū ē sán",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "囝孫的前途 海洋開闊",
+      "spelling": "kiánn-sun ê tsiân-tôo  hái-iûnn khui-khuah",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "家己的命運 家己來擔",
+      "spelling": "ka-kī ê miā-ūn  ka-kī lâi tànn",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "行過坎坷 起造國家",
+      "spelling": "kiânn-kuè khám-khia̍t  khí-tsō kok-ka",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "行過坎坷 起造國家",
+      "spelling": "kiânn-kuè khám-khia̍t  khí-tsō kok-ka",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "新共和 新國家",
+      "spelling": "sin kiōng-hô  sin kok-ka",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "行過坎坷 起造國家",
+      "spelling": "kiânn-kuè khám-khia̍t  khí-tsō kok-ka",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "新共和 新國家",
+      "spelling": "sin kiōng-hô  sin kok-ka",
+      "source_lines": [
+        96,
+        97
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：閃靈   作曲：閃靈  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

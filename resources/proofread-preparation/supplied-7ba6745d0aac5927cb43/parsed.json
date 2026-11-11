@@ -1,0 +1,700 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "阮放蕩不羈欸形影",
+      "spelling": "gún hòng-tōng put tînn ê hîng-iánn",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "流傳每一條街巷",
+      "spelling": "liû-thuân muí tsi̍t tiâu ke hāng",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "惦大漢後 想起細漢時",
+      "spelling": "tiām tuā-hàn āu siūnn-khí sè-hàn sî",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "多少共鳴欸記憶",
+      "spelling": "guā-tsē kiōng-bîng ê kì-ik",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "心內那位幼稚欸靈魂",
+      "spelling": "sim-lāi hit-uī iù-tī ê lîng-hûn",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "甘依然漂泊臭屁",
+      "spelling": "kam i-jiân phiau-pi̍k tshàu-phuì",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "所有珍貴欸寶藏",
+      "spelling": "sóo tin-kuì ê pó-tsōng",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "隨阮年紀向前行",
+      "spelling": "suî gún nî-kí hiòng-tsiân hîng",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "真的 咱走過的風沙是",
+      "spelling": "tsin ê lán kiânn-kuè ê hong-sua sī",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "真的 對自己從來沒感覺",
+      "spelling": "tsin ê tuì ka-kī tsiông-lâi bô kám-kak",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "失禮 死了後 回頭看",
+      "spelling": "sit-lé sí liáu-āu huê-thâu khuànn",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "屍體 想法是同款猶原未改變",
+      "spelling": "si-thé siūnn-huat sī kāng-khuán iû-guân buē kái-piàn",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "面對咱欸理想心態 是痴狂",
+      "spelling": "bīn-tuì lán ê lí-sióng sim-thài sī tshi kông",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "時常衝動 啥攏沒 只有直直撞",
+      "spelling": "sî-siông tshóng-pōng siánn lóng bô kan-nā ti̍t-ti̍t tōng",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "沒成功過 甘會後悔人生安奈過",
+      "spelling": "bô sîng-kong kuè kam-ē hiō-hué lîn-sing an-nāi kuè",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "一句話 未 整個靈魂灌惦在裡面",
+      "spelling": "tsi̍t kù uē buē kui-ê lîng-hûn kuàn tiām tī lāi-té",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "抱著 良心 自己問",
+      "spelling": "phō-tio̍h liông-sim ka-kī mn̄g",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "這樣甘算浪費青春 自己問",
+      "spelling": "án-ne kam sǹg lōng-huì tshing-tshun ka-kī mn̄g",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "用生命 在拚最後一口氣",
+      "spelling": "iōng sìnn-miā leh piànn tsuè-āu tsi̍t-kháu-khui",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "開的花蕊 這樣才會水 回憶",
+      "spelling": "khui ê hue-luí án-ne tsiah ē tsuí huê-ik",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "起來過程是辛酸",
+      "spelling": "khí-lâi kuè-tîng sī sim-sng",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "但迷人欸是對它迷戀欸熱情 勝過結霜",
+      "spelling": "nā bê-lâng ê sī tuì i bê-luân ê lia̍t-tsîng sìng-kuè gîng-sng",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "站惦這 我照常 站惦這",
+      "spelling": "khiā tiām tsia guá tsiàu siông khiā tiām tsia",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "十年過啊 歌 我照原在寫",
+      "spelling": "tsa̍p nî kuè ah kua guá tsiàu-guân leh siá",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "阮放蕩不羈欸形影",
+      "spelling": "gún hòng-tōng put tînn ê hîng-iánn",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "流傳每一條街巷",
+      "spelling": "liû-thuân muí tsi̍t tiâu ke hāng",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "惦大漢後 想起細漢時",
+      "spelling": "tiām tuā-hàn āu siūnn-khí sè-hàn sî",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "多少共鳴欸記憶",
+      "spelling": "guā-tsē kiōng-bîng ê kì-ik",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "心內那位幼稚欸靈魂",
+      "spelling": "sim-lāi hit-uī iù-tī ê lîng-hûn",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "甘依然漂泊臭屁",
+      "spelling": "kam i-jiân phiau-pi̍k tshàu-phuì",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "所有珍貴欸寶藏",
+      "spelling": "sóo tin-kuì ê pó-tsōng",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "隨阮年紀向前行",
+      "spelling": "suî gún nî-kí hiòng-tsiân hîng",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "我尚珍貴欸記憶惦細漢時",
+      "spelling": "guá siōng tinn-kuì ê kì-ik tiām sè-hàn-sî",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "我想起我記憶尚臭屁欸過去",
+      "spelling": "guá siūnn-khí guá kì-ik siōng tshàu-phuì ê kuè-khì",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "不是你有法度體會",
+      "spelling": "m̄ sī lí ū huat-tōo thé-huē",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "你若想要知影走我現在馬上帶你飛",
+      "spelling": "lí ná siūnn-beh tsai-iánn kiânn guá tsit-má má-siōng tsah lí pue",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "變成石頭上後躺",
+      "spelling": "piàn-sîng tsio̍h-thâu siōng āu the",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "暫時別管是這還是那",
+      "spelling": "tsiām-sî mài kuán sī tsia ia̍h-sī he",
+      "source_lines": [
+        112,
+        113
+      ]
+    },
+    {
+      "id": "line-115",
+      "text": "人生本來就有起飛跟落衰",
+      "spelling": "lîn-sing pún-lâi tio̍h ū khí pue kā lo̍h-tse",
+      "source_lines": [
+        115,
+        116
+      ]
+    },
+    {
+      "id": "line-118",
+      "text": "現在算咱衰 但我一定要打破那面阻礙我欸壁",
+      "spelling": "tsit-má sǹg lán sue tān guá it-tīng beh phah-phuà hit-bīn tsóo-gāi guá ê piah",
+      "source_lines": [
+        118,
+        119
+      ]
+    },
+    {
+      "id": "line-121",
+      "text": "百面妥當沒問題",
+      "spelling": "pah-bīn thò-tòng bô būn-tê",
+      "source_lines": [
+        121,
+        122
+      ]
+    },
+    {
+      "id": "line-124",
+      "text": "少年狂 是誰在講 我尚緊繃",
+      "spelling": "siàu-liân kông sī siáng leh kóng guá siōng tsin pong",
+      "source_lines": [
+        124,
+        125
+      ]
+    },
+    {
+      "id": "line-127",
+      "text": "沒人會凍比我狠 比我衝繃",
+      "spelling": "bô-lâng ē-tàng pí guá hiông pí guá tshiong pong",
+      "source_lines": [
+        127,
+        128
+      ]
+    },
+    {
+      "id": "line-130",
+      "text": "誰輕狂 誰比我勇 頭殼空空",
+      "spelling": "siáng tse kông siáng pí guá ióng thâu-khak khng khong",
+      "source_lines": [
+        130,
+        131
+      ]
+    },
+    {
+      "id": "line-133",
+      "text": "沒人會凍比我暈 飛惦空中",
+      "spelling": "bô-lâng ē-tàng pí guá gông pue tiām khong-tiong",
+      "source_lines": [
+        133,
+        134
+      ]
+    },
+    {
+      "id": "line-136",
+      "text": "阮放蕩不羈欸形影",
+      "spelling": "gún hòng-tōng put tînn ê hîng-iánn",
+      "source_lines": [
+        136,
+        137
+      ]
+    },
+    {
+      "id": "line-139",
+      "text": "流傳每一條街巷",
+      "spelling": "liû-thuân muí tsi̍t tiâu ke hāng",
+      "source_lines": [
+        139,
+        140
+      ]
+    },
+    {
+      "id": "line-142",
+      "text": "惦大漢後 想起細漢時",
+      "spelling": "tiām tuā-hàn āu siūnn-khí sè-hàn sî",
+      "source_lines": [
+        142,
+        143
+      ]
+    },
+    {
+      "id": "line-145",
+      "text": "多少共鳴欸記憶",
+      "spelling": "guā-tsē kiōng-bîng ê kì-ik",
+      "source_lines": [
+        145,
+        146
+      ]
+    },
+    {
+      "id": "line-148",
+      "text": "心內那位幼稚欸靈魂",
+      "spelling": "sim-lāi hit-uī iù-tī ê lîng-hûn",
+      "source_lines": [
+        148,
+        149
+      ]
+    },
+    {
+      "id": "line-151",
+      "text": "甘依然漂泊臭屁",
+      "spelling": "kam i-jiân phiau-pi̍k tshàu-phuì",
+      "source_lines": [
+        151,
+        152
+      ]
+    },
+    {
+      "id": "line-154",
+      "text": "所有珍貴欸寶藏",
+      "spelling": "sóo tin-kuì ê pó-tsōng",
+      "source_lines": [
+        154,
+        155
+      ]
+    },
+    {
+      "id": "line-157",
+      "text": "隨阮年紀向前行",
+      "spelling": "suî gún nî-kí hiòng-tsiân hîng",
+      "source_lines": [
+        157,
+        158
+      ]
+    },
+    {
+      "id": "line-160",
+      "text": "大漢之後才知 少年青狂放蕩欸我",
+      "spelling": "tuā-hàn liáu-āu tsiah tsai siàu-liân tshing kông hòng-tōng ê guá",
+      "source_lines": [
+        160,
+        161
+      ]
+    },
+    {
+      "id": "line-163",
+      "text": "歸身軀都是膽 輸贏插小你是誰",
+      "spelling": "kui-sin-khu lóng sī tánn su-iânn tshah siáu lí sī siánn",
+      "source_lines": [
+        163,
+        164
+      ]
+    },
+    {
+      "id": "line-166",
+      "text": "轉頭看著是我欸影 漂泊欸日子沒暝沒日",
+      "spelling": "ua̍t-thâu khuànn-tio̍h sī guá ê iánn phiau-pi̍k ê li̍t-tsí bô mê bô ji̍t",
+      "source_lines": [
+        166,
+        167
+      ]
+    },
+    {
+      "id": "line-169",
+      "text": "若受傷沒人同情 生長欸過程你我都同款",
+      "spelling": "ná siū-siong bô-lâng tông-tsîng sing-tióng ê kuè-tîng lí-guá lóng kāng-khuán",
+      "source_lines": [
+        169,
+        170
+      ]
+    },
+    {
+      "id": "line-172",
+      "text": "想到細漢時欸影 看到人來我就跑",
+      "spelling": "siūnn-tio̍h sè-hàn sî ê iánn khuànn-tio̍h lâng lâi guá tio̍h tsáu",
+      "source_lines": [
+        172,
+        173
+      ]
+    },
+    {
+      "id": "line-175",
+      "text": "踩叉 細漢時欸腳步",
+      "spelling": "ta̍h tshe sè-hàn sî ê kha-pōo",
+      "source_lines": [
+        175,
+        176
+      ]
+    },
+    {
+      "id": "line-178",
+      "text": "厝內剩我 爸媽我要成功",
+      "spelling": "tshù-lāi tshun guá pē-bú guá ài sîng-kong",
+      "source_lines": [
+        178,
+        179
+      ]
+    },
+    {
+      "id": "line-181",
+      "text": "有困難不擱耽誤 因為有我驕傲",
+      "spelling": "ū khùn-lân bē-koh tam-ngōo in-uī ū guá kiau-ngōo",
+      "source_lines": [
+        181,
+        182
+      ]
+    },
+    {
+      "id": "line-184",
+      "text": "新欸開始新欸我 不放棄選擇欸路",
+      "spelling": "sin ê khai-sí sin ê guá bē hòng-khì suán-ti̍k ê lōo",
+      "source_lines": [
+        184,
+        185
+      ]
+    },
+    {
+      "id": "line-187",
+      "text": "只有向前走 成功不錯過 肯打拼",
+      "spelling": "tsí-ū hiòng-tsiân kiânn sîng-kong bē-tshò-siàu khíong phah-piànn",
+      "source_lines": [
+        187,
+        188
+      ]
+    },
+    {
+      "id": "line-190",
+      "text": "為著厝內欸人 性命在博 事業在大",
+      "spelling": "uī-tio̍h tshù-lāi ê lâng sìnn-miā tī phok sū-gia̍p tī tuā",
+      "source_lines": [
+        190,
+        191
+      ]
+    },
+    {
+      "id": "line-193",
+      "text": "聽 這是命運吉他聲",
+      "spelling": "thiann tse sī miā-ūn gì-tà siann",
+      "source_lines": [
+        193,
+        194
+      ]
+    },
+    {
+      "id": "line-196",
+      "text": "恩怨 喔",
+      "spelling": "un-uàn ooh",
+      "source_lines": [
+        196,
+        197
+      ]
+    },
+    {
+      "id": "line-199",
+      "text": "卻結束惦歲月欸末端",
+      "spelling": "suah kiat-sok tiām suè-gua̍t ê bua̍t tuann",
+      "source_lines": [
+        199,
+        200
+      ]
+    },
+    {
+      "id": "line-202",
+      "text": "遺憾 喔",
+      "spelling": "uî-hām ooh",
+      "source_lines": [
+        202,
+        203
+      ]
+    },
+    {
+      "id": "line-205",
+      "text": "隨風飄流恁甘欸不甘",
+      "spelling": "suî hong phiau liû lin kam ê m̄-kam",
+      "source_lines": [
+        205,
+        206
+      ]
+    },
+    {
+      "id": "line-208",
+      "text": "阮放蕩不羈欸形影",
+      "spelling": "gún hòng-tōng put tînn ê hîng-iánn",
+      "source_lines": [
+        208,
+        209
+      ]
+    },
+    {
+      "id": "line-211",
+      "text": "流傳每一條街巷",
+      "spelling": "liû-thuân muí tsi̍t tiâu ke hāng",
+      "source_lines": [
+        211,
+        212
+      ]
+    },
+    {
+      "id": "line-214",
+      "text": "惦大漢後 想起細漢時",
+      "spelling": "tiām tuā-hàn āu siūnn-khí sè-hàn sî",
+      "source_lines": [
+        214,
+        215
+      ]
+    },
+    {
+      "id": "line-217",
+      "text": "多少共鳴欸記憶",
+      "spelling": "guā-tsē kiōng-bîng ê kì-ik",
+      "source_lines": [
+        217,
+        218
+      ]
+    },
+    {
+      "id": "line-220",
+      "text": "心內那位幼稚欸靈魂",
+      "spelling": "sim-lāi hit-uī iù-tī ê lîng-hûn",
+      "source_lines": [
+        220,
+        221
+      ]
+    },
+    {
+      "id": "line-223",
+      "text": "甘依然漂泊臭屁",
+      "spelling": "kam i-jiân phiau-pi̍k tshàu-phuì",
+      "source_lines": [
+        223,
+        224
+      ]
+    },
+    {
+      "id": "line-226",
+      "text": "所有珍貴欸寶藏",
+      "spelling": "sóo tin-kuì ê pó-tsōng",
+      "source_lines": [
+        226,
+        227
+      ]
+    },
+    {
+      "id": "line-229",
+      "text": "隨阮年紀向前行",
+      "spelling": "suî gún nî-kí hiòng-tsiân hîng",
+      "source_lines": [
+        229,
+        230
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

@@ -1,0 +1,287 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "人生啊有怨嘆                         日時太陽瞑時暗",
+      "spelling": "lîn-sing ah ū uàn-thàn        ji̍t-sî thài iông mê sî àm",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "人生啊有怨嘆",
+          "spelling": "lîn-sing ah ū uàn-thàn"
+        },
+        {
+          "text": "日時太陽瞑時暗",
+          "spelling": "ji̍t-sî thài iông mê sî àm"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "落花啊心膽寒                         風雨若來佗位藏",
+      "spelling": "lo̍h hue ah sim tám-hân     hong hōo ná lâi tó-uī tshàng",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "落花啊心膽寒",
+          "spelling": "lo̍h hue ah sim tám-hân"
+        },
+        {
+          "text": "風雨若來佗位藏",
+          "spelling": "hong hōo ná lâi tó-uī tshàng"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "白雲啊不情願                             飄落紅塵為哪般",
+      "spelling": "pe̍h-hûn ah bô tsîng-guān     phiau lo̍h hông-tîn uî ná puann",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "白雲啊不情願",
+          "spelling": "pe̍h-hûn ah bô tsîng-guān"
+        },
+        {
+          "text": "飄落紅塵為哪般",
+          "spelling": "phiau lo̍h hông-tîn uî ná puann"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "流水啊有希望                        走找一生的美夢",
+      "spelling": "liû tsuí ah ū hi-bāng           tsáu tshuē it-sing ê bí-bāng",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "流水啊有希望",
+          "spelling": "liû tsuí ah ū hi-bāng"
+        },
+        {
+          "text": "走找一生的美夢",
+          "spelling": "tsáu tshuē it-sing ê bí-bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "世情啊本是難                        喜時當思哀時怨",
+      "spelling": "sè tsîng ah pún sī lân         hí sî tong su ai sî uàn",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "世情啊本是難",
+          "spelling": "sè tsîng ah pún sī lân"
+        },
+        {
+          "text": "喜時當思哀時怨",
+          "spelling": "hí sî tong su ai sî uàn"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "過程啊未成全                                  總有期待的心願",
+      "spelling": "kuè-thîng ah buē sîng tsuân      tsóng ū kî-thāi ê sim-guān",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "過程啊未成全",
+          "spelling": "kuè-thîng ah buē sîng tsuân"
+        },
+        {
+          "text": "總有期待的心願",
+          "spelling": "tsóng ū kî-thāi ê sim-guān"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "啊～～",
+      "spelling": "ah~  ~",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "是什麼款的我                                  要做什麼樣的人",
+      "spelling": "sī siánn-mih khuánn ê guá         beh tsuè siánn-mih khuán ê lâng",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "是什麼款的我",
+          "spelling": "sī siánn-mih khuánn ê guá"
+        },
+        {
+          "text": "要做什麼樣的人",
+          "spelling": "beh tsuè siánn-mih khuán ê lâng"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "飄飄然怨嗟歎                                  常常悲傷是人間",
+      "spelling": "phiau phiau jiân uàn tse thàn   siông siông pi-siong sī lîn-kan",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "飄飄然怨嗟歎",
+          "spelling": "phiau phiau jiân uàn tse thàn"
+        },
+        {
+          "text": "常常悲傷是人間",
+          "spelling": "siông siông pi-siong sī lîn-kan"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "人生啊真感嘆                                  春天伴隨著秋冬",
+      "spelling": "jîn-sing ah tsin kám-thàn            tshun-thinn phuānn suî tio̍h tshiu-tang",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "人生啊真感嘆",
+          "spelling": "jîn-sing ah tsin kám-thàn"
+        },
+        {
+          "text": "春天伴隨著秋冬",
+          "spelling": "tshun-thinn phuānn suî tio̍h tshiu-tang"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "應該著照起工                                  茫茫渺渺嘛一天",
+      "spelling": "ing-kai tio̍h tsiáu khí-kang         bông bông biáu biáu mah tsi̍t kang",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "應該著照起工",
+          "spelling": "ing-kai tio̍h tsiáu khí-kang"
+        },
+        {
+          "text": "茫茫渺渺嘛一天",
+          "spelling": "bông bông biáu biáu mah tsi̍t kang"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "世情啊本是難                                  喜時當思哀時怨",
+      "spelling": "sè tsîng ah pún sī lân                   hí sî tong su ai sî uàn",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "世情啊本是難",
+          "spelling": "sè tsîng ah pún sī lân"
+        },
+        {
+          "text": "喜時當思哀時怨",
+          "spelling": "hí sî tong su ai sî uàn"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "過程啊未成全                                  總有期待的心願",
+      "spelling": "kuè-thîng ah buē sîng tsuân      tsóng ū kî-thāi ê sim-guān",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "過程啊未成全",
+          "spelling": "kuè-thîng ah buē sîng tsuân"
+        },
+        {
+          "text": "總有期待的心願",
+          "spelling": "tsóng ū kî-thāi ê sim-guān"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "世情啊本是難                                 喜時當思哀時怨",
+      "spelling": "sè tsîng ah pún sī lân                  hí sî tong su ai sî uàn",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "世情啊本是難",
+          "spelling": "sè tsîng ah pún sī lân"
+        },
+        {
+          "text": "喜時當思哀時怨",
+          "spelling": "hí sî tong su ai sî uàn"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "過程啊未成全                                 總有期待的心願",
+      "spelling": "kuè-thîng ah buē sîng tsuân      tsóng ū kî-thāi ê sim-guān",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "過程啊未成全",
+          "spelling": "kuè-thîng ah buē sîng tsuân"
+        },
+        {
+          "text": "總有期待的心願",
+          "spelling": "tsóng ū kî-thāi ê sim-guān"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：伍佰   作曲：伍佰  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

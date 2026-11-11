@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": 157197,
+      "title": "怨嗟叹",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "树枝孤鸟",
+      "duration": 325.4,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1911267101,
+      "title": "怨嗟叹",
+      "artists": [
+        "Mong Tong"
+      ],
+      "album": "怨嗟叹",
+      "duration": 279.069,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

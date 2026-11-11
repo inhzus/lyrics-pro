@@ -1,0 +1,204 @@
+{
+  "recording_id": "netease:28661105",
+  "source": "User-supplied resources/lyrics-spelling/你給人嘿-陳建瑋",
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "我無咧酒醉烏白花 嘛毋是頭眩假坦白",
+      "spelling": "guá bô leh tsiú-tsuì oo pe̍h hue mā m̄ sī thâu-hîn ké thán-pi̍k",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "有一寡鋩角愛你講詳細 趁無風無雨月光暝",
+      "spelling": "ū tsi̍t-kuá mê-kak ài lí kóng siông-suè thàn bô-hong bô-hōo ge̍h-kng mê",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "你身邊胡蠅颺颺飛 飛袂到你的心肝底",
+      "spelling": "lí sin-pinn hôo-sîn iānn iānn pue pue-bē-kàu lí ê sim-kuann té",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "為啥物對我放電使目尾 閣定定咧招阮入來坐",
+      "spelling": "uī-siánn-mi̍h tuì gún pàng tiān sái ba̍k-bué koh tiānn-tiānn leh tsio gún ji̍p-lâi tsē",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "無閒的城市內五色的人 一蕊蕊擠燒的仝款的夢",
+      "spelling": "bô-îng ê siânn-tshī lāi ngóo-sik ê lâng tsi̍t luí luí kheh sio ê kâng-khuán ê bāng",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "你講我橐袋仔雖然空空 心內有輕重",
+      "spelling": "lí kóng guá lok tē-á sui-jiân khang khang sim-lāi ū khin-tāng",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "兩個人散步佇愛情的路 哪會到最後賰我一個",
+      "spelling": "nn̄g-ê lâng sàn-pōo tī ài-tsîng ê lōo ná ē kàu tsuè-āu tshun guá tsi̍t ê",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "哎喲 你共阮騙 你共人嚇",
+      "spelling": "ai-iō lí kā gún pián lí kā lâng heh",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "差不多 佇咧一禮拜前 我拄著一位標緻的惰姑娘仔",
+      "spelling": "tsha-put-to tī leh tsi̍t lé-pài tsiân guá tú-tio̍h tsi̍t-uī phiau-tì ê suí koo-niû-á",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "伊講我人趣味 閣敖唱歌 想欲佮我做伙",
+      "spelling": "i kóng guá lâng tshù-bī koh kau tshiùnn-kua siūnn-beh ka̍h guá tsò-hué",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "但是 但是想袂到",
+      "spelling": "tān-sī tān-sī siūnn-bē-kàu",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "這馬的姑娘仔 哪會遮爾水性楊花 才做伙無兩工爾爾",
+      "spelling": "tsit-má ê tsu-niû á ná ē tsiah-nī tsuí-sìng hiâu hue tsiah tsò-hué bô nn̄g kang nía nía",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "伊就綴著駛跑車的富二代走去啊",
+      "spelling": "i tio̍h tuè-tio̍h sái pháu-tshia ê pù lī tāi tsáu-khì ah",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "啊 我毋甘願 我毋甘願啊",
+      "spelling": "ah guá m̄-kam-guān guá m̄-kam-guān ah",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "你身邊胡蠅颺颺飛 飛袂到你的心肝底",
+      "spelling": "lí sin-pinn hôo-sîn iānn iānn pue pue-bē-kàu lí ê sim-kuann té",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "為啥物對我放電使目尾 閣偏偏欲招阮入來坐",
+      "spelling": "uī-siánn-mi̍h tuì gún pàng tiān sái ba̍k-bué koh tiānn-tiānn leh tsiau gún ji̍p-lâi tsē",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "無閒的城市內五色的人 一蕊蕊擠燒的仝款的夢",
+      "spelling": "bô-îng ê siânn-tshī lāi ngóo-sik ê lâng tsi̍t luí luí kheh sio ê kâng-khuán ê bāng",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "你講我橐袋仔雖然空空 心內有輕重",
+      "spelling": "lí kóng guá lok tē-á sui-jiân khang khang sim-lāi ū khin-tāng",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "兩個人散步佇愛情的路 哪會到最後賰我一個",
+      "spelling": "nn̄g-ê lâng sàn-pōo tī ài-tsîng ê lōo ná ē kàu tsuè-āu tshun guá tsi̍t ê",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "哎喲 你共阮騙 你共人嚇",
+      "spelling": "ai-iō lí kā gún pián lí kā lâng heh",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "天頂的月娘遐爾圓 照著我寂寞的心情",
+      "spelling": "thinn-tíng ê gue̍h-niû hiah-nī înn tsiàu-tio̍h guá siok-bo̍k ê sim-tsîng",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "純情的男兒煞來予人騙 只好當這段情是笑詼",
+      "spelling": "sûn-tsîng ê lâm-jî suah lâi hōo lâng pián tsí-hó tong tsit tuānn tsîng sī tshiò-khue",
+      "source_lines": [
+        64,
+        65
+      ]
+    }
+  ]
+}

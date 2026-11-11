@@ -1,0 +1,549 @@
+{
+  "recording_id": "netease:543798022",
+  "timing_source": "NetEase https://music.163.com/song?id=543798022",
+  "manual_source": "User-supplied resources/lyrics-spelling/阮-草屯囝仔",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "unresolved": 6,
+    "exact": 14,
+    "approximate": 10,
+    "repeat": 7
+  },
+  "review_row_count": 30,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-22:0",
+    "line-34:0",
+    "line-94:0",
+    "line-97:0"
+  ],
+  "unused_repeat_ids": [
+    "line-40:0",
+    "line-52:0",
+    "line-55:0",
+    "line-124:0",
+    "line-136:0",
+    "line-139:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 13.296,
+      "online_text": "当我心情若坏你一双于推过来",
+      "match_text": "当我心情若坏你一双于推过来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 19.217,
+      "online_text": "肩膀头拍拍对我讲一切都是世间欸无奈",
+      "match_text": "肩膀头拍拍对我讲一切都是世间欸无奈",
+      "text": "肩膀頭拍拍 對我講一切都是世間欸無奈",
+      "spelling": "king-kah-thâu tah-tah tuì guá kóng it-tshè lóng sī sè-kan ê bô-nāi",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 24.946,
+      "online_text": "阮唱着这首歌",
+      "match_text": "阮唱着这首歌",
+      "text": "阮 唱著這首歌",
+      "spelling": "gún tshiùnn-tio̍h tsit tiâu kua",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 31.562,
+      "online_text": "沧桑欸人生感谢有你来作伴",
+      "match_text": "沧桑欸人生感谢有你来作伴",
+      "text": "滄桑欸人生感謝有你來作伴",
+      "spelling": "tshong-song ê lîn-sing kám-siā ū lí lâi tsuè-phuānn",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 37.252,
+      "online_text": "做伙出生入死一遍搁一遍",
+      "match_text": "做伙出生入死一遍搁一遍",
+      "text": "做伙出生入死一遍擱一遍",
+      "spelling": "tsò-hué tshut-sing li̍p sí tsi̍t pái koh tsi̍t pái",
+      "manual_id": "line-16:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 5,
+      "time": 43.146,
+      "online_text": "阮欸江湖用这首歌来表态",
+      "match_text": "阮欸江湖用这首歌来表态",
+      "text": "阮欸江湖 用這首歌來表態",
+      "spelling": "gún ê kang-ôo iōng tsit tiâu kua lâi piáu-thài",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 48.146,
+      "online_text": "潇洒欸阮阮欸心阮欸情",
+      "match_text": "潇洒欸阮阮欸心阮欸情",
+      "text": "阮欸心 阮欸情",
+      "spelling": "gún ê sim gún ê tsîng",
+      "manual_id": "line-25:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 7,
+      "time": 51.438,
+      "online_text": "别肖想别人来掀动",
+      "match_text": "别肖想别人来掀动",
+      "text": "別肖想別人來掀動",
+      "spelling": "mài siàu siūnn pa̍t-lâng lâi sian tōng",
+      "manual_id": "line-28:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 55.262,
+      "online_text": "做伙有过欸路",
+      "match_text": "做伙有过欸路",
+      "text": "做伙走過欸路",
+      "spelling": "tsò-hué kiânn-kuè ê lōo",
+      "manual_id": "line-31:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 9,
+      "time": 60.886,
+      "online_text": "潮起潮落好兄弟你有心事对我说",
+      "match_text": "潮起潮落好兄弟你有心事对我说",
+      "text": "潮起潮落 好兄弟你有心事對我說",
+      "spelling": "tiâu khí tiâu lo̍h hó hiann-tī lí ū sim-sū tuì guá kóng",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 67.636,
+      "online_text": "让阮变成欸倔犟",
+      "match_text": "让阮变成欸倔犟",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 71.362,
+      "online_text": "走闯冷血欸江湖",
+      "match_text": "走闯冷血欸江湖",
+      "text": "走闖冷血欸江湖",
+      "spelling": "tsáu tsông líng-hueh ê kang-ôo",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 74.416,
+      "online_text": "阮相挺过少年时欸冲绷",
+      "match_text": "阮相挺过少年时欸冲绷",
+      "text": "阮相挺過少年時欸衝繃",
+      "spelling": "gún siòng thīn kuè siàu-liân-sî ê tshiong bong",
+      "manual_id": "line-46:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 78.197,
+      "online_text": "把生死交惦枪下",
+      "match_text": "把生死交惦枪下",
+      "text": "把生死交惦槍下",
+      "spelling": "kā senn-sí ka tiām tshiunn hā",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 80.748,
+      "online_text": "友情岁月刻上阮欸名",
+      "match_text": "友情岁月刻上阮欸名",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 83.684,
+      "online_text": "潇洒浮沉欸生命",
+      "match_text": "潇洒浮沉欸生命",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 86.628,
+      "online_text": "人海茫茫阮合相近",
+      "match_text": "人海茫茫阮合相近",
+      "text": "人海茫茫阮合相近",
+      "spelling": "jîn-hái bâng bâng gún ha̍h sio-uá",
+      "manual_id": "line-58:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 89.638,
+      "online_text": "今夜阮将阮欸青春",
+      "match_text": "今夜阮将阮欸青春",
+      "text": "今夜 阮將阮欸青春",
+      "spelling": "kim-iā gún tsiòng gún ê tshing-tshun",
+      "manual_id": "line-61:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 93.799,
+      "online_text": "写作诗来听",
+      "match_text": "写作诗来听",
+      "text": "寫作詩來聽",
+      "spelling": "siá tsò si lâi thiann",
+      "manual_id": "line-64:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 108.541,
+      "online_text": "阮互相提醒惦低这条路顶",
+      "match_text": "阮互相提醒惦低这条路顶",
+      "text": "阮互相提醒 惦低這條路頂",
+      "spelling": "gún hōo-siong thê-tshínn tiām ti tsit tiâu lōo-tíng",
+      "manual_id": "line-67:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 111.424,
+      "online_text": "阮跳脱生死冲过多少风浪",
+      "match_text": "阮跳脱生死冲过多少风浪",
+      "text": "阮跳脫生死 衝過多少風浪",
+      "spelling": "gún thiàu-thuat senn-sí tshiong-kuè guā-tsē hong-íng",
+      "manual_id": "line-70:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 114.405,
+      "online_text": "阮不同姓不同人生不同个性块灰",
+      "match_text": "阮不同姓不同人生不同个性块灰",
+      "text": "阮不同姓 不同人生 不同個性塊灰",
+      "spelling": "gún bô-kâng sènn bô-kâng lâng-senn bô-kâng kò-sìng tè hue",
+      "manual_id": "line-73:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 117.476,
+      "online_text": "但做同款伙同款进退同款垃圾工作",
+      "match_text": "但做同款伙同款进退同款垃圾工作",
+      "text": "但做同款夥 同款進退 同款垃圾工作",
+      "spelling": "tān tsò kāng-khuán hué kāng-khuán tsìn-thè kāng-khuán pùn-sò kang-khuè",
+      "manual_id": "line-76:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 120.801,
+      "online_text": "阮重情重义但没重粉味",
+      "match_text": "阮重情重义但没重粉味",
+      "text": "阮重情 重義 但沒重粉味",
+      "spelling": "gún tiōng tsîng tiōng-gī tān bô tiōng hún-bī",
+      "manual_id": "line-79:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 123.914,
+      "online_text": "阮小心看事面脚踩江湖时",
+      "match_text": "阮小心看事面脚踩江湖时",
+      "text": "阮小心 看事面 腳踩江湖時",
+      "spelling": "gún sè-lī khuànn sè biān kha ta̍h kang-ôo sî",
+      "manual_id": "line-82:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 126.666,
+      "online_text": "我一直把你当成兄弟来看待",
+      "match_text": "我一直把你当成兄弟来看待",
+      "text": "我一直都把你當成兄弟來看待",
+      "spelling": "guá it-ti̍t lóng kā lí tong-tsuè hiann-tī lâi khuànn-thāi",
+      "manual_id": "line-85:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.96
+    },
+    {
+      "source_row": 26,
+      "time": 129.572,
+      "online_text": "我知我都知道",
+      "match_text": "我知我都知道",
+      "text": "我知 我都知道",
+      "spelling": "guá tsai guá lóng tsai-iánn",
+      "manual_id": "line-88:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 133.254,
+      "online_text": "我同昔内什么代志你著甭放在心里",
+      "match_text": "我同昔内什么代志你著甭放在心里",
+      "text": "阮同厝內什麼代誌你著甭放在心裡",
+      "spelling": "gún kāng tshù-lāi siánn-mih tāi-tsì lí-tio̍h mài khǹg sim-lāi",
+      "manual_id": "line-91:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.733333
+    },
+    {
+      "source_row": 28,
+      "time": 136.57,
+      "online_text": "一步走我跟你走挂枪炮宝士开著走",
+      "match_text": "一步走我跟你走挂枪炮宝士开著走",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 139.54,
+      "online_text": "当阮潇洒著要漂白欸话",
+      "match_text": "当阮潇洒著要漂白欸话",
+      "text": "當阮瀟灑講著要漂白欸話",
+      "spelling": "tong gún phiau-phiat kóng-tio̍h ài phiau pe̍h ê uē",
+      "manual_id": "line-100:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 30,
+      "time": 141.5,
+      "online_text": "当初看我笑銙现在却落魄块灰",
+      "match_text": "当初看我笑銙现在却落魄块灰",
+      "text": "當初看我笑虧現在卻落魄塊灰",
+      "spelling": "tong-tshoo khuànn guá tshiò khui tsit-má suah lo̍k-phik lo̍k-hue",
+      "manual_id": "line-103:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 31,
+      "time": 144.754,
+      "online_text": "江湖这是两个人欸江湖",
+      "match_text": "江湖这是两个人欸江湖",
+      "text": "江湖 這兩是人欸江湖",
+      "spelling": "kang-ôo tse sī nn̄g ê lâng ê kang-ôo",
+      "manual_id": "line-106:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.842105
+    },
+    {
+      "source_row": 32,
+      "time": 147.961,
+      "online_text": "艰苦但阮不会为了金钱烦恼",
+      "match_text": "艰苦但阮不会为了金钱烦恼",
+      "text": "艱苦 但阮不會為了錢煩惱",
+      "spelling": "kan-khóo tān gún bē uī-tio̍h kim tsînn huân-ló",
+      "manual_id": "line-109:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.956522
+    },
+    {
+      "source_row": 33,
+      "time": 150.533,
+      "online_text": "阮没过发誓发誓也没卡咒",
+      "match_text": "阮没过发誓发誓也没卡咒",
+      "text": "阮沒過發誓 發誓也沒卡咒",
+      "spelling": "gún bô kuè tsiù-tsuā tsiù-tsuā mā bô khah tsuā",
+      "manual_id": "line-112:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 152.799,
+      "online_text": "阮之间没哩比谁卡凶",
+      "match_text": "阮之间没哩比谁卡凶",
+      "text": "阮之間沒哩在比誰卡兇",
+      "spelling": "gún tsi-kan bô-li tī pí siánn khah tshiah",
+      "manual_id": "line-115:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.842105
+    },
+    {
+      "source_row": 35,
+      "time": 154.678,
+      "online_text": "感情好到亲像山",
+      "match_text": "感情好到亲像山",
+      "text": "感情好到親像山",
+      "spelling": "kám-kàu hó-tio̍h tshin-tshiūnn suann",
+      "manual_id": "line-118:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 156.856,
+      "online_text": "潮起潮落",
+      "match_text": "潮起潮落",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "fab9d141366da4ce73d378079e390eea8fb4672a17ad3e1eb48dde29aa539bb9",
+    "manual": "36b1ea7eb0976d30d7b9f16196ee5aaa606a325be13c76e3dbffb43b98ceb3f4",
+    "timed": "38dd0f0accbf2c1cea2cb7d38d28896851ae55860fb24b37049b55bad195c109"
+  }
+}

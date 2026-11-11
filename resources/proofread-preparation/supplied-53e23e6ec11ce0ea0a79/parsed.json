@@ -1,0 +1,643 @@
+{
+  "blocks": [
+    {
+      "id": "line-5",
+      "text": "我牽著我的牛兒                       在田間小路高歌",
+      "spelling": "wǒ qiānzhe wǒ de niú er    zài tiánjiān xiǎolù gāogē",
+      "source_lines": [
+        5,
+        6
+      ],
+      "parts": [
+        {
+          "text": "我牽著我的牛兒",
+          "spelling": "wǒ qiānzhe wǒ de niú er"
+        },
+        {
+          "text": "在田間小路高歌",
+          "spelling": "zài tiánjiān xiǎolù gāogē"
+        }
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "那鞭子揮一下兒                    牛兒馬上 LOWRIDER",
+      "spelling": "nà biānzi huī yīxià er        niú er mǎshàng LOWRIDER",
+      "source_lines": [
+        8,
+        9
+      ],
+      "parts": [
+        {
+          "text": "那鞭子揮一下兒",
+          "spelling": "nà biānzi huī yīxià er"
+        },
+        {
+          "text": "牛兒馬上 LOWRIDER",
+          "spelling": "niú er mǎshàng LOWRIDER"
+        }
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "沒事就飆著牛車                         有空去田裡收割",
+      "spelling": "méishì jiù biāozhe niúchē     yǒu kòng qù tián lǐ shōugē",
+      "source_lines": [
+        11,
+        12
+      ],
+      "parts": [
+        {
+          "text": "沒事就飆著牛車",
+          "spelling": "méishì jiù biāozhe niúchē"
+        },
+        {
+          "text": "有空去田裡收割",
+          "spelling": "yǒu kòng qù tián lǐ shōugē"
+        }
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "老天再不下雨 MOTHER FUCKER",
+      "spelling": "lǎo tiān zài bu xià yǔ MOTHER FUCKER",
+      "source_lines": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "line-17",
+      "text": "我抽著我的煙斗                               搖頭晃腦著點頭",
+      "spelling": "wǒ chōuzhe wǒ de yāndǒu         yáo tóu huàng nǎo zhuó diǎntóu",
+      "source_lines": [
+        17,
+        18
+      ],
+      "parts": [
+        {
+          "text": "我抽著我的煙斗",
+          "spelling": "wǒ chōuzhe wǒ de yāndǒu"
+        },
+        {
+          "text": "搖頭晃腦著點頭",
+          "spelling": "yáo tóu huàng nǎo zhuó diǎntóu"
+        }
+      ]
+    },
+    {
+      "id": "line-20",
+      "text": "眼看小妞走經過                               真正蓋 SO BEAUTIFUL",
+      "spelling": "yǎnkàn xiǎoniū zǒu jīngguò       zhēnzhèng gài SO BEAUTIFUL",
+      "source_lines": [
+        20,
+        21
+      ],
+      "parts": [
+        {
+          "text": "眼看小妞走經過",
+          "spelling": "yǎnkàn xiǎoniū zǒu jīngguò"
+        },
+        {
+          "text": "真正蓋 SO BEAUTIFUL",
+          "spelling": "zhēnzhèng gài SO BEAUTIFUL"
+        }
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "聽著我的鄉村 HIPHOP                         然後再帶妳回家",
+      "spelling": "tīngzhe wǒ de xiāngcūn HIPHOP    ránhòu zài dài nǎi huí jiā",
+      "source_lines": [
+        23,
+        24
+      ],
+      "parts": [
+        {
+          "text": "聽著我的鄉村 HIPHOP",
+          "spelling": "tīngzhe wǒ de xiāngcūn HIPHOP"
+        },
+        {
+          "text": "然後再帶妳回家",
+          "spelling": "ránhòu zài dài nǎi huí jiā"
+        }
+      ]
+    },
+    {
+      "id": "line-29",
+      "text": "妳若想要聽歌                                        想要搖下去 我來做 DJ",
+      "spelling": "lí ná siūnn beh thiann kua            siūnn beh iô lo̍h-khì  guá lâi tsò DJ",
+      "source_lines": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "line-32",
+      "text": "妳是唱盤我是唱針                                           兩人永遠黏作夥",
+      "spelling": "nǐ shì chàngpán wǒ shì chàngzhēn        nn̄g lâng íng-uán liâm tsò-hué",
+      "source_lines": [
+        32,
+        33
+      ],
+      "parts": [
+        {
+          "text": "妳是唱盤我是唱針",
+          "spelling": "nǐ shì chàngpán wǒ shì chàngzhēn"
+        },
+        {
+          "text": "兩人永遠黏作夥",
+          "spelling": "nn̄g lâng íng-uán liâm tsò-hué"
+        }
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "妳若想要跳舞                                   想要 SHAKE 什麼我都會",
+      "spelling": "lí ná siūnn beh thiàu-bú            siūnn beh SHAKE siánn-mih guá lóng ē",
+      "source_lines": [
+        35,
+        36
+      ],
+      "parts": [
+        {
+          "text": "妳若想要跳舞",
+          "spelling": "lí ná siūnn beh thiàu-bú"
+        },
+        {
+          "text": "想要 SHAKE 什麼我都會",
+          "spelling": "siūnn beh SHAKE siánn-mih guá lóng ē"
+        }
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "教你跳 雞舞 牛舞 豬舞 全                           部都是 PARTY ANIMAL",
+      "spelling": "kà lí thiàu  jī bú  niú bú  zhū bú         quánbù dōu shì PARTY ANIMAL",
+      "source_lines": [
+        38,
+        39
+      ]
+    },
+    {
+      "id": "line-41",
+      "text": "我的愛人呀                        讓我對妳訴情話",
+      "spelling": "wǒ di àirén ya                 ràng wǒ duì nǐ sù qínghuà",
+      "source_lines": [
+        41,
+        42
+      ],
+      "parts": [
+        {
+          "text": "我的愛人呀",
+          "spelling": "wǒ di àirén ya"
+        },
+        {
+          "text": "讓我對妳訴情話",
+          "spelling": "ràng wǒ duì nǐ sù qínghuà"
+        }
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "我的真心我的真情                                問妳是否聽到嗎",
+      "spelling": "wǒ de zhēnxīn wǒ de zhēnqíng     wèn nǐ shìfǒu tīngdào ma",
+      "source_lines": [
+        44,
+        45
+      ],
+      "parts": [
+        {
+          "text": "我的真心我的真情",
+          "spelling": "wǒ de zhēnxīn wǒ de zhēnqíng"
+        },
+        {
+          "text": "問妳是否聽到嗎",
+          "spelling": "wèn nǐ shìfǒu tīngdào ma"
+        }
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "我的愛人呀                     再大風雨都不怕",
+      "spelling": "wǒ de àirén ya             zài dà fēngyǔ dōu bùpà",
+      "source_lines": [
+        47,
+        48
+      ],
+      "parts": [
+        {
+          "text": "我的愛人呀",
+          "spelling": "wǒ de àirén ya"
+        },
+        {
+          "text": "再大風雨都不怕",
+          "spelling": "zài dà fēngyǔ dōu bùpà"
+        }
+      ]
+    },
+    {
+      "id": "line-50",
+      "text": "何時能跟你一起回家",
+      "spelling": "héshí néng gēn nǐ yīqǐ huí jiā",
+      "source_lines": [
+        50,
+        51
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "讓我對你訴情話",
+      "spelling": "wǒ di àirén ya                 ràng wǒ duì nǐ sù qínghuà",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "我的真心我的真情                               問妳是否聽到嗎",
+      "spelling": "wǒ di zhēnxīn wǒ de zhēnqíng     wèn nǐ shìfǒu tīngdào ma",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "我的真心我的真情",
+          "spelling": "wǒ di zhēnxīn wǒ de zhēnqíng"
+        },
+        {
+          "text": "問妳是否聽到嗎",
+          "spelling": "wèn nǐ shìfǒu tīngdào ma"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "我的愛人呀                        再大風雨都不怕",
+      "spelling": "wǒ di àirén ya                 zài dà fēngyǔ dōu bùpà",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "我的愛人呀",
+          "spelling": "wǒ di àirén ya"
+        },
+        {
+          "text": "再大風雨都不怕",
+          "spelling": "zài dà fēngyǔ dōu bùpà"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "何時能跟你一起回家",
+      "spelling": "héshí néng gēn nǐ yīqǐ huí jiā",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "我衫都穿最大件                                           騎鐵馬帶妳逛海岸",
+      "spelling": "guá sann lóng tshīng siōng tuā niá    khiâ thih-bé tshuā lí se̍h hái-huānn",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "我衫都穿最大件",
+          "spelling": "guá sann lóng tshīng siōng tuā niá"
+        },
+        {
+          "text": "騎鐵馬帶妳逛海岸",
+          "spelling": "khiâ thih-bé tshuā lí se̍h hái-huānn"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "看我鐵馬的輪仔                          比妳家電鍋擱卡大",
+      "spelling": "khuànn thih-bé ê lián-á        pí lín tau-tiān ko koh khah tuā",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "看我鐵馬的輪仔",
+          "spelling": "khuànn thih-bé ê lián-á"
+        },
+        {
+          "text": "比妳家電鍋擱卡大",
+          "spelling": "pí lín tau-tiān ko koh khah tuā"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "我音樂聽最大聲                                           整庄頭我最 HIP HOP",
+      "spelling": "guá im-ga̍k thiann siōng tuā-siann    kui tsng-thâu guá siōng HIP HOP",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "我音樂聽最大聲",
+          "spelling": "guá im-ga̍k thiann siōng tuā-siann"
+        },
+        {
+          "text": "整庄頭我最 HIP HOP",
+          "spelling": "kui tsng-thâu guá siōng HIP HOP"
+        }
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "在這我是你的 WIZ KHALIFA",
+      "spelling": "tī tsia guá sī lí ê WIZ KHALIFA",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "聽說妳住在庄頭 EAST SIDE",
+      "spelling": "thiann kóng lí tuà tsng-thâu EAST SIDE",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "我住在庄尾 WEST SIDE",
+      "spelling": "guá tuà-tī tsng-bué WEST SIDE",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "為了愛妳同條路                             我一天也騎好幾次",
+      "spelling": "uī-tio̍h ài lí kāng tiâu lōo        guá tsi̍t kang mā khiâ kuí ná pái",
+      "source_lines": [
+        84,
+        85
+      ],
+      "parts": [
+        {
+          "text": "為了愛妳同條路",
+          "spelling": "uī-tio̍h ài lí kāng tiâu lōo"
+        },
+        {
+          "text": "我一天也騎好幾次",
+          "spelling": "guá tsi̍t kang mā khiâ kuí ná pái"
+        }
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "妳說妳最愛坐 LOWRI                         我用牛車也改一台",
+      "spelling": "lí kóng lí siōng ài tsē LOWRI        guán gû-tshia mā kái tsi̍t tâi",
+      "source_lines": [
+        87,
+        88
+      ],
+      "parts": [
+        {
+          "text": "妳說妳最愛坐 LOWRI",
+          "spelling": "lí kóng lí siōng ài tsē LOWRI"
+        },
+        {
+          "text": "我用牛車也改一台",
+          "spelling": "guán gû-tshia mā kái tsi̍t tâi"
+        }
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "我改到連牛都會跳起來",
+      "spelling": "guá kái kah liân gû lóng ē thiàu-khí-lâi",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "妳若想要聽歌                                        想要搖下去 我來做 DJ",
+      "spelling": "lí ná siūnn beh thiann kua            siūnn beh iô lo̍h-khì  guá lâi tsò DJ",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "妳是唱盤我是唱針                                            兩人永遠黏作夥",
+      "spelling": "nǐ shì chàngpán wǒ shì chàngzhēn        nn̄g lâng íng-uán liâm tsò-hué",
+      "source_lines": [
+        96,
+        97
+      ],
+      "parts": [
+        {
+          "text": "妳是唱盤我是唱針",
+          "spelling": "nǐ shì chàngpán wǒ shì chàngzhēn"
+        },
+        {
+          "text": "兩人永遠黏作夥",
+          "spelling": "nn̄g lâng íng-uán liâm tsò-hué"
+        }
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "妳若想要跳舞                                   想要 SHAKE 什麼我都會",
+      "spelling": "lí ná siūnn beh thiàu-bú            siūnn beh SHAKE siánn-mih guá lóng ē",
+      "source_lines": [
+        99,
+        100
+      ],
+      "parts": [
+        {
+          "text": "妳若想要跳舞",
+          "spelling": "lí ná siūnn beh thiàu-bú"
+        },
+        {
+          "text": "想要 SHAKE 什麼我都會",
+          "spelling": "siūnn beh SHAKE siánn-mih guá lóng ē"
+        }
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "教你跳 雞舞 牛舞 豬舞 全                           部都是 PARTY ANIMAL",
+      "spelling": "kà lí thiàu  jī bú  niú bú  zhū bú         quánbù dōu shì PARTY ANIMAL",
+      "source_lines": [
+        102,
+        103
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "我的愛人呀                        讓我對妳訴情話",
+      "spelling": "wǒ di àirén ya                 ràng wǒ duì nǐ sù qínghuà",
+      "source_lines": [
+        105,
+        106
+      ],
+      "parts": [
+        {
+          "text": "我的愛人呀",
+          "spelling": "wǒ di àirén ya"
+        },
+        {
+          "text": "讓我對妳訴情話",
+          "spelling": "ràng wǒ duì nǐ sù qínghuà"
+        }
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "我的真心我的真情                                問妳是否聽到嗎",
+      "spelling": "wǒ de zhēnxīn wǒ de zhēnqíng     wèn nǐ shìfǒu tīngdào ma",
+      "source_lines": [
+        108,
+        109
+      ],
+      "parts": [
+        {
+          "text": "我的真心我的真情",
+          "spelling": "wǒ de zhēnxīn wǒ de zhēnqíng"
+        },
+        {
+          "text": "問妳是否聽到嗎",
+          "spelling": "wèn nǐ shìfǒu tīngdào ma"
+        }
+      ]
+    },
+    {
+      "id": "line-111",
+      "text": "我的愛人呀                     再大風雨都不怕",
+      "spelling": "wǒ de àirén ya             zài dà fēngyǔ dōu bùpà",
+      "source_lines": [
+        111,
+        112
+      ],
+      "parts": [
+        {
+          "text": "我的愛人呀",
+          "spelling": "wǒ de àirén ya"
+        },
+        {
+          "text": "再大風雨都不怕",
+          "spelling": "zài dà fēngyǔ dōu bùpà"
+        }
+      ]
+    },
+    {
+      "id": "line-114",
+      "text": "何時能跟你一起回家",
+      "spelling": "héshí néng gēn nǐ yīqǐ huí jiā",
+      "source_lines": [
+        114,
+        115
+      ]
+    },
+    {
+      "id": "line-117",
+      "text": "我的愛人呀                        讓我對你訴情話",
+      "spelling": "wǒ di àirén ya                 ràng wǒ duì nǐ sù qínghuà",
+      "source_lines": [
+        117,
+        118
+      ],
+      "parts": [
+        {
+          "text": "我的愛人呀",
+          "spelling": "wǒ di àirén ya"
+        },
+        {
+          "text": "讓我對你訴情話",
+          "spelling": "ràng wǒ duì nǐ sù qínghuà"
+        }
+      ]
+    },
+    {
+      "id": "line-120",
+      "text": "我的真心我的真情                               問妳是否聽到嗎",
+      "spelling": "wǒ di zhēnxīn wǒ de zhēnqíng     wèn nǐ shìfǒu tīngdào ma",
+      "source_lines": [
+        120,
+        121
+      ],
+      "parts": [
+        {
+          "text": "我的真心我的真情",
+          "spelling": "wǒ di zhēnxīn wǒ de zhēnqíng"
+        },
+        {
+          "text": "問妳是否聽到嗎",
+          "spelling": "wèn nǐ shìfǒu tīngdào ma"
+        }
+      ]
+    },
+    {
+      "id": "line-123",
+      "text": "我的愛人呀                        再大風雨都不怕",
+      "spelling": "wǒ di àirén ya                 zài dà fēngyǔ dōu bùpà",
+      "source_lines": [
+        123,
+        124
+      ],
+      "parts": [
+        {
+          "text": "我的愛人呀",
+          "spelling": "wǒ di àirén ya"
+        },
+        {
+          "text": "再大風雨都不怕",
+          "spelling": "zài dà fēngyǔ dōu bùpà"
+        }
+      ]
+    },
+    {
+      "id": "line-126",
+      "text": "何時能跟你一起回家",
+      "spelling": "héshí néng gēn nǐ yīqǐ huí jiā",
+      "source_lines": [
+        126,
+        127
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：玖壹壹   作曲：陳皓宇  台語拼音：關德樂"
+    }
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "text": "Note: Words in italics are English,  words in bold are Taiwanese, all the rest are Chinese."
+    }
+  ],
+  "reasons": [
+    "ambiguous_pair:26,27",
+    "ambiguous_pair:27,29",
+    "ambiguous_pair:52,54",
+    "conflicting_spellings_for_repeated_text",
+    "source_note_requires_review:3"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": 449769016,
+      "title": "爱妳无目地",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "钉子花",
+      "duration": 218.42,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2051740555,
+      "title": "爱妳无目地",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "夏日告白情歌",
+      "duration": 218.42,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

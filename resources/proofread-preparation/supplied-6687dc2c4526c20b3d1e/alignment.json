@@ -1,0 +1,438 @@
+{
+  "recording_id": "netease:490182971",
+  "timing_source": "NetEase https://music.163.com/song?id=490182971",
+  "manual_source": "User-supplied resources/lyrics-spelling/暗暝-Ripple",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "repeat": 24,
+    "unresolved": 4,
+    "gap": 4
+  },
+  "review_row_count": 4,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-12:0",
+    "line-33:0",
+    "line-54:0",
+    "line-75:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : Deng Guang Xian",
+      "match_text": "作词 : Deng Guang Xian",
+      "text": "作词 : Deng Guang Xian",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : Deng Guang Xian/Kang Wei Li",
+      "match_text": "作曲 : Deng Guang Xian/Kang Wei Li",
+      "text": "作曲 : Deng Guang Xian/Kang Wei Li",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 20.4,
+      "online_text": "看袂着光",
+      "match_text": "看袂着光",
+      "text": "看袂著光",
+      "spelling": "khuànn-bē-tio̍h kng",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 22.93,
+      "online_text": "照袂清头前",
+      "match_text": "照袂清头前",
+      "text": "照袂清頭前",
+      "spelling": "tsiò buē tshing thâu-tsîng",
+      "manual_id": "line-6:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 27.33,
+      "online_text": "惹阮心稀微",
+      "match_text": "惹阮心稀微",
+      "text": "惹阮心稀微",
+      "spelling": "liá gún sim hi-bî",
+      "manual_id": "line-9:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 30.08,
+      "online_text": "茫茫渺渺 佫欲 等到 当时",
+      "match_text": "茫茫渺渺 佫欲 等到 当时",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 39.55,
+      "online_text": "坎坷的路",
+      "match_text": "坎坷的路",
+      "text": "坎坷的路",
+      "spelling": "khám-khia̍t ê lōo",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 42.05,
+      "online_text": "愈行愈委屈",
+      "match_text": "愈行愈委屈",
+      "text": "愈行愈委屈",
+      "spelling": "lú kiânn lú uí-khut",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 48.48,
+      "online_text": "凄惨落魄",
+      "match_text": "凄惨落魄",
+      "text": "悽慘落魄",
+      "spelling": "tshi-tshám lo̍k-phik",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 51.23,
+      "online_text": "已经是我所有",
+      "match_text": "已经是我所有",
+      "text": "已經是我所有",
+      "spelling": "í-king sī guá sóo-ú",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 58.25,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 11,
+      "time": 79.25,
+      "online_text": "阵阵海涌啊",
+      "match_text": "阵阵海涌啊",
+      "text": "陣陣海湧啊",
+      "spelling": "tsūn tsūn hái-íng ah",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 85.9,
+      "online_text": "时间无法重来",
+      "match_text": "时间无法重来",
+      "text": "時間無法重來",
+      "spelling": "sî-kan bô huat tîng-lâi",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 90.13,
+      "online_text": "敢看无未来",
+      "match_text": "敢看无未来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 95.7,
+      "online_text": "阵阵海涌啊",
+      "match_text": "阵阵海涌啊",
+      "text": "陣陣海湧啊",
+      "spelling": "tsūn tsūn hái-íng ah",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 102.35,
+      "online_text": "伴着我的无奈",
+      "match_text": "伴着我的无奈",
+      "text": "伴著我的無奈",
+      "spelling": "phuānn-tio̍h guá ê bô-nāi",
+      "manual_id": "line-39:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 106.13,
+      "online_text": "和我的悲哀",
+      "match_text": "和我的悲哀",
+      "text": "和我的悲哀",
+      "spelling": "kā guá ê pi-ai",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 112.53,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 18,
+      "time": 132.43,
+      "online_text": "看袂着光",
+      "match_text": "看袂着光",
+      "text": "看袂著光",
+      "spelling": "khuànn-bē-tio̍h kng",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 134.85,
+      "online_text": "照袂清头前",
+      "match_text": "照袂清头前",
+      "text": "照袂清頭前",
+      "spelling": "tsiò buē tshing thâu-tsîng",
+      "manual_id": "line-6:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 139.55,
+      "online_text": "惹阮心稀微",
+      "match_text": "惹阮心稀微",
+      "text": "惹阮心稀微",
+      "spelling": "liá gún sim hi-bî",
+      "manual_id": "line-9:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 142.13,
+      "online_text": "茫茫渺渺 佫欲 等到 当时",
+      "match_text": "茫茫渺渺 佫欲 等到 当时",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 151.6,
+      "online_text": "坎坷的路",
+      "match_text": "坎坷的路",
+      "text": "坎坷的路",
+      "spelling": "khám-khia̍t ê lōo",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 154.0,
+      "online_text": "愈行愈委屈",
+      "match_text": "愈行愈委屈",
+      "text": "愈行愈委屈",
+      "spelling": "lú kiânn lú uí-khut",
+      "manual_id": "line-18:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 160.75,
+      "online_text": "凄惨落魄",
+      "match_text": "凄惨落魄",
+      "text": "悽慘落魄",
+      "spelling": "tshi-tshám lo̍k-phik",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 163.03,
+      "online_text": "已经是我所有",
+      "match_text": "已经是我所有",
+      "text": "已經是我所有",
+      "spelling": "í-king sī guá sóo-ú",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 167.15,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 27,
+      "time": 212.38,
+      "online_text": "阵阵海涌啊",
+      "match_text": "阵阵海涌啊",
+      "text": "陣陣海湧啊",
+      "spelling": "tsūn tsūn hái-íng ah",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 218.93,
+      "online_text": "时间无法重来",
+      "match_text": "时间无法重来",
+      "text": "時間無法重來",
+      "spelling": "sî-kan bô huat tîng-lâi",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 223.7,
+      "online_text": "敢看无未来",
+      "match_text": "敢看无未来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 228.75,
+      "online_text": "阵阵海涌啊",
+      "match_text": "阵阵海涌啊",
+      "text": "陣陣海湧啊",
+      "spelling": "tsūn tsūn hái-íng ah",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 235.7,
+      "online_text": "伴着我的无奈",
+      "match_text": "伴着我的无奈",
+      "text": "伴著我的無奈",
+      "spelling": "phuānn-tio̍h guá ê bô-nāi",
+      "manual_id": "line-39:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 239.65,
+      "online_text": "和我的悲哀",
+      "match_text": "和我的悲哀",
+      "text": "和我的悲哀",
+      "spelling": "kā guá ê pi-ai",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 246.63,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "bce9f74b2d4bc60aae94f0a17acfb3971b74378ea2a04dd28a1c72e65e67b53a",
+    "manual": "785991daad4ee0a775e26d26f683d87925661bf4bb2bce969efb88848f7d6c9a",
+    "timed": "c80f5443723638940a3a884df54b0ff7d213a59a20183996b70d0cc36bd0860c"
+  }
+}

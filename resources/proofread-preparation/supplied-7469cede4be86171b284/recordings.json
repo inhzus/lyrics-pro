@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 31830686,
+      "title": "大稻埕",
+      "artists": [
+        "川秋沙"
+      ],
+      "album": "白噪音",
+      "duration": 299.0,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

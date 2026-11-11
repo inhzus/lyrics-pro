@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 249193,
+    "title": "担输赢",
+    "artists": [
+      "江蕙"
+    ],
+    "album": "爱着 啊",
+    "duration": 259.0,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:249193",
+      "duration": 259.0,
+      "ready": false,
+      "coverage": 0.1796875,
+      "exact_fraction": 0.1935483870967742,
+      "summary": {
+        "credit": 2,
+        "unresolved": 25,
+        "repeat": 6,
+        "gap": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "selected": {
+    "song_id": 18672,
+    "title": "追追追",
+    "artists": [
+      "蘇打綠"
+    ],
+    "album": "十年一刻",
+    "duration": 341.0,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrclib:18672",
+      "duration": 341.0,
+      "ready": false,
+      "coverage": 0.4808743169398907,
+      "exact_fraction": 0.5555555555555556,
+      "summary": {
+        "unresolved": 12,
+        "repeat": 15,
+        "gap": 1
+      }
+    },
+    {
+      "recording_id": "lrclib:18673",
+      "duration": 341.0,
+      "ready": false,
+      "coverage": 0.4808743169398907,
+      "exact_fraction": 0.5555555555555556,
+      "summary": {
+        "unresolved": 12,
+        "repeat": 15,
+        "gap": 1
+      }
+    },
+    {
+      "recording_id": "lrclib:36357989",
+      "duration": 341.0,
+      "ready": false,
+      "coverage": 0.4808743169398907,
+      "exact_fraction": 0.5555555555555556,
+      "summary": {
+        "unresolved": 12,
+        "repeat": 15,
+        "gap": 1
+      }
+    }
+  ]
+}

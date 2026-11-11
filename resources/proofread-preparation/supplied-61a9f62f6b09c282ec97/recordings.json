@@ -1,0 +1,105 @@
+{
+  "candidates": [
+    {
+      "song_id": 490182973,
+      "title": "赤焰",
+      "artists": [
+        "Ripple"
+      ],
+      "album": "袂开的花",
+      "duration": 321.097,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 3459202313,
+      "title": "赤焰",
+      "artists": [
+        "长白山天池缤纷"
+      ],
+      "album": "回声",
+      "duration": 76.138,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1486755507,
+      "title": "赤焰",
+      "artists": [
+        "赵辰龙(Dragon X)"
+      ],
+      "album": "流浪的心",
+      "duration": 242.805,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3447224652,
+      "title": "赤焰",
+      "artists": [
+        "ZeviTan"
+      ],
+      "album": "赤焰凌霄",
+      "duration": 248.76,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1916288873,
+      "title": "赤焰",
+      "artists": [
+        "Lil Thug"
+      ],
+      "album": "遗失的声音",
+      "duration": 250.07,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1412005043,
+      "title": "赤焰",
+      "artists": [
+        "79公路"
+      ],
+      "album": "《Meet you》",
+      "duration": 260.307,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2634970572,
+      "title": "赤焰",
+      "artists": [
+        "董伟博WAKER"
+      ],
+      "album": "赤焰",
+      "duration": 197.647,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2613701560,
+      "title": "赤焰",
+      "artists": [
+        "五月槐花"
+      ],
+      "album": "赤焰",
+      "duration": 296.412,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3393317164,
+      "title": "赤焰",
+      "artists": [
+        "天音",
+        "L&M_OL"
+      ],
+      "album": "赤焰",
+      "duration": 297.719,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

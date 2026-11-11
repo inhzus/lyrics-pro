@@ -1,0 +1,614 @@
+{
+  "recording_id": "netease:248686",
+  "timing_source": "NetEase https://music.163.com/song?id=248686",
+  "manual_source": "User-supplied resources/lyrics-spelling/點不著的番仔火-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 3,
+    "gap": 3,
+    "exact": 1,
+    "approximate": 1,
+    "unresolved": 19,
+    "repeat": 19
+  },
+  "review_row_count": 20,
+  "unmatched_manual_ids": [
+    "line-7:0"
+  ],
+  "unused_repeat_ids": [
+    "line-16:0",
+    "line-19:0",
+    "line-28:0",
+    "line-31:0",
+    "line-37:0",
+    "line-52:0",
+    "line-55:0",
+    "line-64:0",
+    "line-67:0",
+    "line-73:0",
+    "line-88:0",
+    "line-91:0",
+    "line-97:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 許, 天賜/吳, 晉准",
+      "match_text": "作词 : 許, 天賜/吳, 晉准",
+      "text": "作词 : 許, 天賜/吳, 晉准",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 仓雁彬",
+      "match_text": "作曲 : 仓雁彬",
+      "text": "作曲 : 仓雁彬",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "编曲 : 吴庆隆",
+      "match_text": "编曲 : 吴庆隆",
+      "text": "编曲 : 吴庆隆",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 16.68,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 4,
+      "time": 21.83,
+      "online_text": "突然间有一阵冷风吹来",
+      "match_text": "突然间有一阵冷风吹来",
+      "text": "突然間有一陣冷風吹來",
+      "spelling": "hut-liân kian ū tsi̍t tsūn líng-hong tshue lâi",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 26.2,
+      "online_text": "才知影原来思念犹原 卷底心肝内",
+      "match_text": "才知影原来思念犹原 卷底心肝内",
+      "text": "才知影原來思念猶原　捲底心肝內",
+      "spelling": "tsiah tsai-iánn guân-lâi su-liām iu-guân kńg té sim-kuann-lāi",
+      "manual_id": "line-4:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.928571
+    },
+    {
+      "source_row": 6,
+      "time": 34.72,
+      "online_text": "月台边情人双双对对",
+      "match_text": "月台边情人双双对对",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 7,
+      "time": 38.95,
+      "online_text": "目睭内甜蜜像针威",
+      "match_text": "目睭内甜蜜像针威",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 8,
+      "time": 45.67,
+      "online_text": "咁是你已将约束放袂记",
+      "match_text": "咁是你已将约束放袂记",
+      "text": "咁是你已將約束放袂記",
+      "spelling": "kam sī lí í tsiòng iok-sok pàng-buē-kì",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 49.91,
+      "online_text": "冷风像知我无人安慰 替阮哮归暝",
+      "match_text": "冷风像知我无人安慰 替阮哮归暝",
+      "text": "冷風像知我無人安慰　替阮哮歸暝",
+      "spelling": "líng-hong tshiūnn tsai guá bô-lâng an-uì thuè gún hau kui-mî",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 58.56,
+      "online_text": "为按怎我拢袂清醒",
+      "match_text": "为按怎我拢袂清醒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 62.84,
+      "online_text": "到如今犹原放袂开",
+      "match_text": "到如今犹原放袂开",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 67.12,
+      "online_text": "一个人拉着感情线",
+      "match_text": "一个人拉着感情线",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 71.98,
+      "online_text": "行越远越孤单",
+      "match_text": "行越远越孤单",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 77.84,
+      "online_text": "思念哪亲像点袂着的番仔火",
+      "match_text": "思念哪亲像点袂着的番仔火",
+      "text": "思念哪親像點袂著的番仔火",
+      "spelling": "su-liām ná tshin-tshiūnn tiám buē-tio̍h ê huan-á-húe",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 82.39,
+      "online_text": "免等到风吹 早已经有魂无体",
+      "match_text": "免等到风吹 早已经有魂无体",
+      "text": "免等到風吹　早已經有魂無體",
+      "spelling": "bián tán-kàu hong-tshue tsá í-king ū hûn bô thé",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 86.51,
+      "online_text": "对你的痴心 伤心 搁剩彼多",
+      "match_text": "对你的痴心 伤心 搁剩彼多",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 90.91,
+      "online_text": "卡多嘛无人可体会",
+      "match_text": "卡多嘛无人可体会",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 95.24,
+      "online_text": "缘份哪亲像点袂着的番仔火",
+      "match_text": "缘份哪亲像点袂着的番仔火",
+      "text": "緣份哪親像點袂著的番仔火",
+      "spelling": "iân hūn ná tshin-tshiūnn tiám buē-tio̍h ê huan-á-húe",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 99.49,
+      "online_text": "越点越心酸 越爱越袂冻作伙",
+      "match_text": "越点越心酸 越爱越袂冻作伙",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 104.07,
+      "online_text": "若不是想你 想甲 无路可退",
+      "match_text": "若不是想你 想甲 无路可退",
+      "text": "若不是想你　想甲　無路可退",
+      "spelling": "ná m̄ sī siūnn lí siūnn kā bô-lōo khó thuè",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 108.26,
+      "online_text": "也袂留给你有机会 伤阮彻底",
+      "match_text": "也袂留给你有机会 伤阮彻底",
+      "text": "也袂留給你有機會　傷阮徹底",
+      "spelling": "iā buē lâu hōo lí ū ki-huē siong gún thiat-té",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 117.48,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 23,
+      "time": 132.11,
+      "online_text": "咁是你已将约束放袂记",
+      "match_text": "咁是你已将约束放袂记",
+      "text": "咁是你已將約束放袂記",
+      "spelling": "kam sī lí í tsiòng iok-sok pàng-buē-kì",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 136.29,
+      "online_text": "冷风像知我无人安慰 替阮哮归暝",
+      "match_text": "冷风像知我无人安慰 替阮哮归暝",
+      "text": "冷風像知我無人安慰　替阮哮歸暝",
+      "spelling": "líng-hong tshiūnn tsai guá bô-lâng an-uì thuè gún hau kui-mî",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 144.93,
+      "online_text": "为按怎我拢袂清醒",
+      "match_text": "为按怎我拢袂清醒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 149.27,
+      "online_text": "到如今犹原放袂开",
+      "match_text": "到如今犹原放袂开",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 153.6,
+      "online_text": "一个人拉着感情线",
+      "match_text": "一个人拉着感情线",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 158.44,
+      "online_text": "行越远越孤单",
+      "match_text": "行越远越孤单",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 164.37,
+      "online_text": "思念哪亲像点袂着的番仔火",
+      "match_text": "思念哪亲像点袂着的番仔火",
+      "text": "思念哪親像點袂著的番仔火",
+      "spelling": "su-liām ná tshin-tshiūnn tiám buē-tio̍h ê huan-á-húe",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 168.67,
+      "online_text": "免等到风吹 早已经有魂无体",
+      "match_text": "免等到风吹 早已经有魂无体",
+      "text": "免等到風吹　早已經有魂無體",
+      "spelling": "bián tán-kàu hong-tshue tsá í-king ū hûn bô thé",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 172.97,
+      "online_text": "对你的痴心 伤心 搁剩彼多",
+      "match_text": "对你的痴心 伤心 搁剩彼多",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 177.41,
+      "online_text": "卡多嘛无人可体会",
+      "match_text": "卡多嘛无人可体会",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 181.71,
+      "online_text": "缘份哪亲像点袂着的番仔火",
+      "match_text": "缘份哪亲像点袂着的番仔火",
+      "text": "緣份哪親像點袂著的番仔火",
+      "spelling": "iân hūn ná tshin-tshiūnn tiám buē-tio̍h ê huan-á-húe",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 185.98,
+      "online_text": "越点越心酸 越爱越袂冻作伙",
+      "match_text": "越点越心酸 越爱越袂冻作伙",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 190.29,
+      "online_text": "若不是想你 想甲 无路可退",
+      "match_text": "若不是想你 想甲 无路可退",
+      "text": "若不是想你　想甲　無路可退",
+      "spelling": "ná m̄ sī siūnn lí siūnn kā bô-lōo khó thuè",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 194.64,
+      "online_text": "也袂留给你有机会 伤阮彻底",
+      "match_text": "也袂留给你有机会 伤阮彻底",
+      "text": "也袂留給你有機會　傷阮徹底",
+      "spelling": "iā buē lâu hōo lí ū ki-huē siong gún thiat-té",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 205.62,
+      "online_text": "思念哪亲像点袂着的番仔火",
+      "match_text": "思念哪亲像点袂着的番仔火",
+      "text": "思念哪親像點袂著的番仔火",
+      "spelling": "su-liām ná tshin-tshiūnn tiám buē-tio̍h ê huan-á-húe",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 209.76,
+      "online_text": "免等到风吹 早已经有魂无体",
+      "match_text": "免等到风吹 早已经有魂无体",
+      "text": "免等到風吹　早已經有魂無體",
+      "spelling": "bián tán-kàu hong-tshue tsá í-king ū hûn bô thé",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 214.08,
+      "online_text": "对你的痴心 伤心 搁剩彼多",
+      "match_text": "对你的痴心 伤心 搁剩彼多",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 218.37,
+      "online_text": "卡多嘛无人可体会",
+      "match_text": "卡多嘛无人可体会",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 222.79,
+      "online_text": "缘份哪亲像点袂着的番仔火",
+      "match_text": "缘份哪亲像点袂着的番仔火",
+      "text": "緣份哪親像點袂著的番仔火",
+      "spelling": "iân hūn ná tshin-tshiūnn tiám buē-tio̍h ê huan-á-húe",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 227.04,
+      "online_text": "越点越心酸 越爱越袂冻作伙",
+      "match_text": "越点越心酸 越爱越袂冻作伙",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 231.43,
+      "online_text": "若不是想你 想甲 无路可退",
+      "match_text": "若不是想你 想甲 无路可退",
+      "text": "若不是想你　想甲　無路可退",
+      "spelling": "ná m̄ sī siūnn lí siūnn kā bô-lōo khó thuè",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 44,
+      "time": 235.82,
+      "online_text": "也袂留给你有机会 伤阮彻底",
+      "match_text": "也袂留给你有机会 伤阮彻底",
+      "text": "也袂留給你有機會　傷阮徹底",
+      "spelling": "iā buē lâu hōo lí ū ki-huē siong gún thiat-té",
+      "manual_id": "line-43:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 45,
+      "time": 245.59,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "fe6d9881c126eab42be780e55b58edcd681ac67a05a6b023a341bf7d85ac9a40",
+    "manual": "1f5b3c516892a9fb3e3b35512de18add03568cfe89ab385c0bc30906beb4ab80",
+    "timed": "a0fd45148569decad4ed650f574ecb5ecab5e7e6250c06fed8dee0519b5f29e0"
+  }
+}

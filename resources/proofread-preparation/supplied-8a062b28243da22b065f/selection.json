@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 28661108,
+    "title": "我怀念的西子湾",
+    "artists": [
+      "陈建玮"
+    ],
+    "album": "30出头",
+    "duration": 251.293,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:28661108",
+      "duration": 251.293,
+      "ready": false,
+      "coverage": 0.30303030303030304,
+      "exact_fraction": 0.30303030303030304,
+      "summary": {
+        "credit": 2,
+        "unresolved": 23,
+        "exact": 4,
+        "repeat": 6
+      }
+    }
+  ]
+}

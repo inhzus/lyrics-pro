@@ -1,0 +1,525 @@
+{
+  "recording_id": "lrcapi:1547227754",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E6%B5%B7%E4%B8%8A%E7%9A%84%E4%BA%BA&artist=%E6%BB%85%E7%81%AB%E5%99%A8&album=%E8%BF%9B%E5%87%BB%E4%B8%8B%E5%8D%8A%E5%9C%BA#1547227754",
+  "manual_source": "User-supplied resources/lyrics-spelling/海上的人-滅火器",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "unresolved": 34,
+    "approximate": 2
+  },
+  "review_row_count": 36,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-22:0",
+    "line-34:0",
+    "line-43:0",
+    "line-55:0"
+  ],
+  "unused_repeat_ids": [
+    "line-19:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-37:0",
+    "line-40:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0",
+    "line-58:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 21.349,
+      "online_text": "回頭看那段青春的路程",
+      "match_text": "回頭看那段青春的路程",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 1,
+      "time": 26.297,
+      "online_text": "你想起離開的時候",
+      "match_text": "你想起離開的時候",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 2,
+      "time": 30.741,
+      "online_text": "傻傻坐上那班夜車",
+      "match_text": "傻傻坐上那班夜車",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 33.64,
+      "online_text": "開始奔走的人生",
+      "match_text": "開始奔走的人生",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 38.04,
+      "online_text": "渾沌的青春",
+      "match_text": "渾沌的青春",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 5,
+      "time": 41.597,
+      "online_text": "還有你軟弱的個性",
+      "match_text": "還有你軟弱的個性",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 6,
+      "time": 45.99,
+      "online_text": "點起手上又一支菸",
+      "match_text": "點起手上又一支菸",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 49.794,
+      "online_text": "眼淚流不停",
+      "match_text": "眼淚流不停",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 69.244,
+      "online_text": "你說人生呀人生 像飄浪海上的船",
+      "match_text": "你說人生呀人生 像飄浪海上的船",
+      "text": "你講人生啊人生 像漂浪海上的船",
+      "spelling": "lí kóng lîn-sing ah lîn-sing tshiūnn phiau lōng hái siōng ê tsûn",
+      "manual_id": "line-13:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.785714
+    },
+    {
+      "source_row": 9,
+      "time": 78.199,
+      "online_text": "有時風吹起陣陣風湧 運命總是捉摸不定",
+      "match_text": "有時風吹起陣陣風湧 運命總是捉摸不定",
+      "text": "有時風吹起陣陣風湧 運命總是無定著",
+      "spelling": "ū-sî hong tshue-khí tsūn tsūn hong-íng ūn-miā tsóng-sī bô-tiānn tio̍h",
+      "manual_id": "line-16:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.848485
+    },
+    {
+      "source_row": 10,
+      "time": 86.29,
+      "online_text": "抬頭看遙遠的天上",
+      "match_text": "抬頭看遙遠的天上",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 88.893,
+      "online_text": "笑看這浮沉風景",
+      "match_text": "笑看這浮沉風景",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 94.041,
+      "online_text": "就算要等待一生",
+      "match_text": "就算要等待一生",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 96.163,
+      "online_text": "也要活得沒有怨恨",
+      "match_text": "也要活得沒有怨恨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 100.644,
+      "online_text": "海風吹著你的歌聲",
+      "match_text": "海風吹著你的歌聲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 104.691,
+      "online_text": "吹著你的頭髮",
+      "match_text": "吹著你的頭髮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 107.491,
+      "online_text": "就算眼前路要面對長長孤單",
+      "match_text": "就算眼前路要面對長長孤單",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 111.992,
+      "online_text": "心有一點點累",
+      "match_text": "心有一點點累",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 115.81,
+      "online_text": "海風吹著你的背影",
+      "match_text": "海風吹著你的背影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 119.844,
+      "online_text": "吹著你的願望",
+      "match_text": "吹著你的願望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 122.699,
+      "online_text": "你說你相信總會有那一天",
+      "match_text": "你說你相信總會有那一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-34:0"
+    },
+    {
+      "source_row": 21,
+      "time": 126.841,
+      "online_text": "會實現 當初的誓言",
+      "match_text": "會實現 當初的誓言",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-34:0"
+    },
+    {
+      "source_row": 22,
+      "time": 133.041,
+      "online_text": "不用怕 我們慢慢的走",
+      "match_text": "不用怕 我們慢慢的走",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 169.64,
+      "online_text": "抬頭看遙遠的天上",
+      "match_text": "抬頭看遙遠的天上",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 172.299,
+      "online_text": "笑看這浮沉風景",
+      "match_text": "笑看這浮沉風景",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 177.295,
+      "online_text": "就算要等待一生",
+      "match_text": "就算要等待一生",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 179.548,
+      "online_text": "也要活得沒有怨恨",
+      "match_text": "也要活得沒有怨恨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 185.795,
+      "online_text": "海風吹著你的歌聲",
+      "match_text": "海風吹著你的歌聲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 189.943,
+      "online_text": "吹著你的頭髮",
+      "match_text": "吹著你的頭髮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 192.647,
+      "online_text": "就算眼前路要面對長長孤單",
+      "match_text": "就算眼前路要面對長長孤單",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 197.192,
+      "online_text": "心有一點點累",
+      "match_text": "心有一點點累",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 200.946,
+      "online_text": "海風吹著你的背影",
+      "match_text": "海風吹著你的背影",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 205.098,
+      "online_text": "吹著你的願望",
+      "match_text": "吹著你的願望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 207.947,
+      "online_text": "我說我相信總會有那一天",
+      "match_text": "我說我相信總會有那一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-55:0"
+    },
+    {
+      "source_row": 34,
+      "time": 212.041,
+      "online_text": "會實現 你的誓言",
+      "match_text": "會實現 你的誓言",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-55:0"
+    },
+    {
+      "source_row": 35,
+      "time": 218.191,
+      "online_text": "不用怕 我們慢慢的走",
+      "match_text": "不用怕 我們慢慢的走",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "cb16a20f3b829f7e44eced6901edff1be6b53df094b036b669ed1089824428ea",
+    "manual": "ccf9588a993aabd7b29ea12b3a134019e7ada1a4a366220cf68d75378b08a0da",
+    "timed": "756ee378bef2b1b13706497008153abbafc803a1cb234e955f3b953c9a8551fe"
+  }
+}

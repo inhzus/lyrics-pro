@@ -1,0 +1,158 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "今嘛是啥咪情形 塞甲攏看無頭前",
+      "spelling": "kim mah sī siánn-mih tsîng-hîng  sat kah lóng khuànn bô thâu-tsîng",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "庫拉記踩甲強欲抽筋 駛無兩步又擱是紅燈",
+      "spelling": "khòo khan kì ta̍h kah kiông beh kiù-kin  sái bô nn̄g pōo iū-koh sī âng-ting",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "呀無是啥咪情形 有人底抗議遊行",
+      "spelling": "ya bô sī siánn-mih tsîng-hîng  ū lâng tí khòng-gī yóuxíng",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "交通仔比甲是霧煞煞 看破騎鐵馬嘛卡溜抓",
+      "spelling": "kau-thong á pí kah sī bū suah suah  khuànn phuà khiâ thih-bé mah khá liù lia̍h",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "又擱是啥咪情形 副總統欲去吃飯",
+      "spelling": "iū-koh sī siánn-mih tsîng-hîng  hù tsóng-thóng beh khì tsia̍h-pn̄g",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "歸條路攏 伊的場面 阿伯仔氣甲強欲翻面",
+      "spelling": "kui tiâu lōo lóng sī i ê tiûnn-bīn  a-peh á khì kah kiông beh píng-pîng",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "嘿咻！嘿咻！嘿咻！塞車",
+      "spelling": "heh siuh！heh siuh！heh siuh！that-tshia",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "嘿咻！嘿咻！嘿咻！塞車",
+      "spelling": "heh siuh！heh siuh！heh siuh！that-tshia",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "嘿咻！嘿咻！嘿咻！塞車",
+      "spelling": "heh siuh！heh siuh！heh siuh！that-tshia",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "嘿咻！嘿咻！嘿咻！塞車",
+      "spelling": "heh siuh！heh siuh！heh siuh！that-tshia",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "又擱是啥咪情形 副總統欲去吃飯",
+      "spelling": "iū mah sī siánn-mih tsîng-hîng  hù tsóng-thóng beh khì tsia̍h-pn̄g",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "歸條路攏是伊的場面 阿伯仔氣甲強欲翻面",
+      "spelling": "kui tiâu lōo lóng sī i ê tiûnn-bīn  a-peh á khì kah kiông beh píng-pîng",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "嘿咻！嘿咻！嘿咻！塞車",
+      "spelling": "heh siuh！heh siuh！heh siuh！that-tshia",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "嘿咻！嘿咻！嘿咻！塞車",
+      "spelling": "heh siuh！heh siuh！heh siuh！that-tshia",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "嘿咻！嘿咻！嘿咻！塞車",
+      "spelling": "heh siuh！heh siuh！heh siuh！that-tshia",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "嘿咻！嘿咻！嘿咻！塞車",
+      "spelling": "heh siuh！heh siuh！heh siuh！that-tshia",
+      "source_lines": [
+        48,
+        49
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳永吉   作曲：吳永吉  台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

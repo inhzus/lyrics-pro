@@ -1,0 +1,60 @@
+{
+  "candidates": [
+    {
+      "song_id": 1468842001,
+      "title": "妈妈的皱纹",
+      "artists": [
+        "鄭颩壕"
+      ],
+      "album": "妈妈的皱纹",
+      "duration": 259.715,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2723725381,
+      "title": "妈妈的皱纹",
+      "artists": [
+        "陈艳"
+      ],
+      "album": "爱情的道理",
+      "duration": 277.968,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2686684977,
+      "title": "妈妈的皱纹",
+      "artists": [
+        "阿璃"
+      ],
+      "album": "等待爱情的降临",
+      "duration": 226.32,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1468842001,
+      "title": "妈妈的皱纹",
+      "artists": [
+        "鄭颩壕"
+      ],
+      "album": "妈妈的皱纹",
+      "duration": 259.715,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2684864489,
+      "title": "妈妈的皱纹",
+      "artists": [
+        "酷约翰"
+      ],
+      "album": "妈妈的皱纹",
+      "duration": 127.239,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

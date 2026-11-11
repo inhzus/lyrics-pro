@@ -1,0 +1,604 @@
+{
+  "recording_id": "netease:516721459",
+  "timing_source": "NetEase https://music.163.com/song?id=516721459",
+  "manual_source": "User-supplied resources/lyrics-spelling/波克比的愛-茄子蛋",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 5,
+    "unresolved": 27,
+    "approximate": 6,
+    "repeat": 5
+  },
+  "review_row_count": 33,
+  "unmatched_manual_ids": [
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-16:0",
+    "line-19:0",
+    "line-25:0",
+    "line-37:0",
+    "line-40:0",
+    "line-46:0"
+  ],
+  "unused_repeat_ids": [
+    "line-31:0",
+    "line-43:0",
+    "line-52:0",
+    "line-58:0",
+    "line-61:0",
+    "line-64:0",
+    "line-67:0",
+    "line-70:0",
+    "line-76:0",
+    "line-82:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 黄奇斌",
+      "match_text": "作词 : 黄奇斌",
+      "text": "作词 : 黄奇斌",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 黄奇斌/蔡铠任/谢耀德",
+      "match_text": "作曲 : 黄奇斌/蔡铠任/谢耀德",
+      "text": "作曲 : 黄奇斌/蔡铠任/谢耀德",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "键盘/主唱 : 黄奇斌",
+      "match_text": "键盘/主唱 : 黄奇斌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 3.0,
+      "online_text": "吉他/和声 : 谢耀德",
+      "match_text": "吉他/和声 : 谢耀德",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 4.0,
+      "online_text": "贝斯 : 罗晧宇",
+      "match_text": "贝斯 : 罗晧宇",
+      "text": "贝斯 : 罗晧宇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 5.0,
+      "online_text": "鼓 : 赖俊廷",
+      "match_text": "鼓 : 赖俊廷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 6.0,
+      "online_text": "制作人 : 李孝祖",
+      "match_text": "制作人 : 李孝祖",
+      "text": "制作人 : 李孝祖",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 7,
+      "time": 7.0,
+      "online_text": "录音师 : 李孝祖 @好意思录音室",
+      "match_text": "录音师 : 李孝祖 @好意思录音室",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 8.0,
+      "online_text": "混音 : Andy Baker",
+      "match_text": "混音 : Andy Baker",
+      "text": "混音 : Andy Baker",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 9,
+      "time": 9.0,
+      "online_text": "母带后期制作 : Joel Hatstat",
+      "match_text": "母带后期制作 : Joel Hatstat",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 31.688,
+      "online_text": "在学生的时代",
+      "match_text": "在学生的时代",
+      "text": "佇學生的時代",
+      "spelling": "tī ha̍k-sing ê sî-tāi",
+      "manual_id": "line-1:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 11,
+      "time": 34.896,
+      "online_text": "我爱上了一个女孩",
+      "match_text": "我爱上了一个女孩",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 38.391,
+      "online_text": "自从交往之后",
+      "match_text": "自从交往之后",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 40.527,
+      "online_text": "我是每天都非常烦恼",
+      "match_text": "我是每天都非常烦恼",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 45.855,
+      "online_text": "烦恼东又烦恼西",
+      "match_text": "烦恼东又烦恼西",
+      "text": "煩惱東擱煩惱西",
+      "spelling": "huân-ló tang koh huân-ló sai",
+      "manual_id": "line-13:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 15,
+      "time": 49.013,
+      "online_text": "烦恼她会不会爱上别人",
+      "match_text": "烦恼她会不会爱上别人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 52.426,
+      "online_text": "希望她能够",
+      "match_text": "希望她能够",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 54.179,
+      "online_text": "对那些男人說妳爱的人是我",
+      "match_text": "对那些男人說妳爱的人是我",
+      "text": "對那些查埔講妳愛的人是我",
+      "spelling": "tuì hia-ê tsa-poo kóng lí ài ê lâng sī guá",
+      "manual_id": "line-22:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 18,
+      "time": 87.021,
+      "online_text": "在小的时候",
+      "match_text": "在小的时候",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 90.388,
+      "online_text": "我最喜欢看卡通",
+      "match_text": "我最喜欢看卡通",
+      "text": "我最喜歡咧看卡通",
+      "spelling": "guá siōng xǐhuān teh khuànn khah-thong",
+      "manual_id": "line-28:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.933333
+    },
+    {
+      "source_row": 20,
+      "time": 93.591,
+      "online_text": "在我长大之后",
+      "match_text": "在我长大之后",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 95.763,
+      "online_text": "我也每天下班回去看卡通",
+      "match_text": "我也每天下班回去看卡通",
+      "text": "我馬逐天下班返去看卡通",
+      "spelling": "guá má ta̍k-kang hā-pan tńg-khì khuànn khah-thong",
+      "manual_id": "line-34:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.727273
+    },
+    {
+      "source_row": 22,
+      "time": 100.708,
+      "online_text": "在我小的时候",
+      "match_text": "在我小的时候",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 102.677,
+      "online_text": "我都想变成电视里面的卡通人物",
+      "match_text": "我都想变成电视里面的卡通人物",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 107.75,
+      "online_text": "在我长大之后",
+      "match_text": "在我长大之后",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 109.839,
+      "online_text": "我才知道你们都把我当作卡通人物",
+      "match_text": "我才知道你们都把我当作卡通人物",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 130.399,
+      "online_text": "噢 我的爱人啊",
+      "match_text": "噢 我的爱人啊",
+      "text": "噢 我的愛人啊",
+      "spelling": "oh guá ê ài-lîn ah",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 137.01,
+      "online_text": "梦中的妳牵着我的手",
+      "match_text": "梦中的妳牵着我的手",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 140.632,
+      "online_text": "梦醒却当作不知道",
+      "match_text": "梦醒却当作不知道",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 144.6,
+      "online_text": "噢 我的爱人啊",
+      "match_text": "噢 我的爱人啊",
+      "text": "噢 我的愛人啊",
+      "spelling": "oh guá ê ài-lîn ah",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 151.185,
+      "online_text": "没妳的日子",
+      "match_text": "没妳的日子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 152.938,
+      "online_text": "我像是太阳在过寒冬",
+      "match_text": "我像是太阳在过寒冬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 252.691,
+      "online_text": "没人相信我的话",
+      "match_text": "没人相信我的话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 259.627,
+      "online_text": "没人相信我的话",
+      "match_text": "没人相信我的话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 266.662,
+      "online_text": "没人相信我的话",
+      "match_text": "没人相信我的话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 271.449,
+      "online_text": "噢 我的爱人啊",
+      "match_text": "噢 我的爱人啊",
+      "text": "噢 我的愛人啊",
+      "spelling": "oh guá ê ài-lîn ah",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 278.007,
+      "online_text": "梦中的妳牵着我的手",
+      "match_text": "梦中的妳牵着我的手",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 281.292,
+      "online_text": "梦醒却当作不知道",
+      "match_text": "梦醒却当作不知道",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 285.225,
+      "online_text": "噢 我的爱人啊",
+      "match_text": "噢 我的爱人啊",
+      "text": "噢 我的愛人啊",
+      "spelling": "oh guá ê ài-lîn ah",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 291.636,
+      "online_text": "没妳的日子",
+      "match_text": "没妳的日子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 293.51,
+      "online_text": "我像是太阳在过寒冬",
+      "match_text": "我像是太阳在过寒冬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 298.885,
+      "online_text": "噢 我的爱人啊",
+      "match_text": "噢 我的爱人啊",
+      "text": "噢 我的愛人啊",
+      "spelling": "oh guá ê ài-lîn ah",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 305.925,
+      "online_text": "我爱妳 妳有爱我吗",
+      "match_text": "我爱妳 妳有爱我吗",
+      "text": "我愛妳 妳甘有愛我",
+      "spelling": "guá ài lí lí kam-ū ài guá",
+      "manual_id": "line-88:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.875
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "be257166e2b4d134592d600ba0f6150f049c72a094e9d2c81cbbba4bd9e8cdb5",
+    "manual": "214251858c99b034da24f220e40ab2a67b3b1782ca4b71448a1e4e9c34874792",
+    "timed": "d2bbc9d3c22def100622bc43fa8911e3069f112c5cda4c6231874e5092c30f0b"
+  }
+}

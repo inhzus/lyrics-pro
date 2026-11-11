@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "id": "supplied-aa877b02e4f643c35279",
+  "revision": "1",
+  "title": "世界第一等",
+  "title_aliases": [
+    "世界第一等 (Live)"
+  ],
+  "artist": "伍佰 & China Blue",
+  "album": "冬之火 九重天演唱会特选录音专辑",
+  "duration": 238.468,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：李安修/陳富榮   作曲：伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:156868",
+    "timing_source": "NetEase https://music.163.com/song?id=156868",
+    "manual_source": "resources/lyrics-spelling/世界第一等-伍佰",
+    "audio_verified": false,
+    "agent_review": "Use the 238.468-second 冬之火 live recording, which includes the supplied sung outro. Move inline hong-íng to its paired reading; retain the second-verse wording and align the complete supplied outro at the single existing bang event. Do not use this timing for the 249-second recording.",
+    "input_sha256": {
+      "original": "99285f4179968db5978a560dd2c1ba9af78ca08ada7374e7eace18d02608bad4",
+      "manual": "07bf88ec50bddaf96381b391842bd385be8d599024194e3d39e04c301619c9a5",
+      "timed": "428bc6714ef1c60c23d9bdc86655e513110fc40ec72c8bb3e09f15ef18db3946"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "exact": 7,
+      "approximate": 11,
+      "gap": 1
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 39.44,
+        "online_text": "人生的风景 亲像大海的风涌",
+        "status": "exact",
+        "text": "人生的風景 親像大海的風湧",
+        "spelling": "lîn-sing ê kong-kíng tshin-tshiūnn tuā-hái ê hong-íng",
+        "manual_id": "line-3:0+line-3:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 45.51,
+        "online_text": "有时猛有时平 亲爱朋友你着小心",
+        "status": "exact",
+        "text": "有時猛有時平 親愛朋友你著小心",
+        "spelling": "ū sî bíng ū sî pînn tshin ài pîng-iú lí tio̍h sió-sim",
+        "manual_id": "line-6:0+line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 52.89,
+        "online_text": "人生的环境 乞食嘛会出头天",
+        "status": "exact",
+        "text": "人生的環境 乞食嘛會出頭天",
+        "spelling": "lîn-sing ê khuân-kíng khit tsia̍h mah ē tshut-thâu thinn",
+        "manual_id": "line-9:0+line-9:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 59.21,
+        "online_text": "莫怨天莫尤人 命顺命歹拢是一生",
+        "status": "exact",
+        "text": "莫怨天莫尤人 命順命歹攏是一生",
+        "spelling": "bo̍h uàn-thinn bo̍h iû jîn miā sūn miā phái lóng sī it-sing",
+        "manual_id": "line-12:0+line-12:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 67.78,
+        "online_text": "一杯酒两角银 三不五时嘛来凑阵",
+        "status": "approximate",
+        "text": "一杯酒二角銀 三不五時嘛來湊陣",
+        "spelling": "tsi̍t pue tsiú nn̄g kak gîn sann put gōo sî mah lâi tàu tīn",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 74.6,
+        "online_text": "若要讲博感情 我是世界第一等",
+        "status": "approximate",
+        "text": "若要講搏感情 我是世界第一等",
+        "spelling": "nā-beh kóng phok kám-tsîng guá sī sè-kài tē i̍t tíng",
+        "manual_id": "line-18:0+line-18:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 81.45,
+        "online_text": "是缘份是注定 好汉剖腹来叁见",
+        "status": "approximate",
+        "text": "是緣份是註定 好漢剖腹來參見",
+        "spelling": "sī iân-hūn sī tsù-tīng hó-hàn phuà-pak lâi sann kìnn",
+        "manual_id": "line-21:0+line-21:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 88.1,
+        "online_text": "呒惊风呒惊涌 有情有义好兄弟",
+        "status": "approximate",
+        "text": "嘸驚風嘸驚湧 有情有義好兄弟",
+        "spelling": "m̄-kiann hong m̄-kiann íng ū tsîng ū gī hó hiann-tī",
+        "manual_id": "line-24:0+line-24:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 97.66,
+        "online_text": "短短仔的光阴迫逍着少年时",
+        "status": "approximate",
+        "text": "短短仔的光陰 七逃著趁少年時",
+        "spelling": "té té á ê kong-im tshit tô tio̍h thàn siàu-liân sî",
+        "manual_id": "line-27:0+line-27:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 103.82,
+        "online_text": "求名利无了时 千金难买好人生",
+        "status": "exact",
+        "text": "求名利無了時 千金難買好人生",
+        "spelling": "kiû bîng-lī bô liáu sî tshian-kim lân bé hó lâng sing",
+        "manual_id": "line-30:0+line-30:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 140.21,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 141.21,
+        "online_text": "一杯酒两角银 三不五时嘛来凑阵",
+        "status": "approximate",
+        "text": "一杯酒二角銀 三不五時嘛來湊陣",
+        "spelling": "tsi̍t pue tsiú nn̄g kak gîn sann put gōo sî mah lâi tàu tīn",
+        "manual_id": "line-33:0+line-33:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 148.9,
+        "online_text": "若要讲博感情 我是世界第一等",
+        "status": "approximate",
+        "text": "若要講搏感情 我是世界的第一等",
+        "spelling": "nā-beh kóng phok kám-tsîng guá sī sè-kài tē i̍t tíng",
+        "manual_id": "line-36:0+line-36:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 154.82,
+        "online_text": "是缘份是注定 好汉剖腹来叁见",
+        "status": "approximate",
+        "text": "是緣份是註定 好漢剖腹來參見",
+        "spelling": "sī iân-hūn sī tsù-tīng hó-hàn phuà-pak lâi sann kìnn",
+        "manual_id": "line-21:0+line-21:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 161.66,
+        "online_text": "呒惊风呒惊涌 有情有义好兄弟",
+        "status": "approximate",
+        "text": "無驚風無驚湧 有情有義好兄弟",
+        "spelling": "m̄-kiann hong m̄-kiann íng ū tsîng ū gī hó hiann-tī",
+        "manual_id": "line-42:0+line-42:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 171.17,
+        "online_text": "短短仔的光阴迫逍着少年时",
+        "status": "approximate",
+        "text": "短短仔的光陰 七逃著趁少年時",
+        "spelling": "té té á ê kong-im tshit tô tio̍h thàn siàu-liân sî",
+        "manual_id": "line-27:0+line-27:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 176.91,
+        "online_text": "求名利无了时 千金难买好人生",
+        "status": "exact",
+        "text": "求名利無了時 千金難買好人生",
+        "spelling": "kiû bîng-lī bô liáu sî tshian-kim lân bé hó lâng sing",
+        "manual_id": "line-30:0+line-30:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 185.84,
+        "online_text": "求名利无了时 千金难买好人生",
+        "status": "exact",
+        "text": "求名利無了時 千金難買好人生",
+        "spelling": "kiû bîng-lī bô liáu sî tshian-kim lân bé hó lâng sing",
+        "manual_id": "line-48:0+line-48:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 194.0,
+        "online_text": "bang bang bang ....",
+        "status": "approximate",
+        "text": "叭叭叭………叭叭啦叭啦叭 叭叭叭………叭叭啦叭啦叭",
+        "spelling": "pa pa pa………pa pa lah pa lah pa pa pa pa………pa pa lah pa lah pa",
+        "manual_id": "line-54:0+line-57:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

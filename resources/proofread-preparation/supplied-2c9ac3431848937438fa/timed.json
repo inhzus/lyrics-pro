@@ -1,0 +1,61 @@
+{
+  "recording_id": "netease:350176",
+  "source": "NetEase https://music.163.com/song?id=350176",
+  "lines": [
+    {
+      "time": 0,
+      "text": "作词 : 川秋沙",
+      "kind": "credit"
+    },
+    {
+      "time": 1.0,
+      "text": "作曲 : 川秋沙",
+      "kind": "credit"
+    },
+    {
+      "time": 67.4,
+      "text": "浪花四散 寒风起",
+      "kind": "lyric"
+    },
+    {
+      "time": 83.02,
+      "text": "东北风吹 吹离情",
+      "kind": "lyric"
+    },
+    {
+      "time": 147.39,
+      "text": "寒风若落 思乡情重",
+      "kind": "lyric"
+    },
+    {
+      "time": 163.86,
+      "text": "是命运啊 惊刎堪不着寒",
+      "kind": "lyric"
+    },
+    {
+      "time": 179.42,
+      "text": "海鸥笑刎 会飞却为别人",
+      "kind": "lyric"
+    },
+    {
+      "time": 195.06,
+      "text": "天边黑云啊 请你不能变卦",
+      "kind": "lyric"
+    },
+    {
+      "time": 243.43,
+      "text": "飞入风中 白羽飘散",
+      "kind": "lyric"
+    },
+    {
+      "time": 259.21,
+      "text": "坎坷舞台 同行欸伴啊",
+      "kind": "lyric"
+    },
+    {
+      "time": 355.41,
+      "text": "日头再起 过山岭 返来欸梦",
+      "kind": "lyric"
+    }
+  ]
+}

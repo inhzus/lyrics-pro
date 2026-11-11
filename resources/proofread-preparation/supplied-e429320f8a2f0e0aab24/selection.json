@@ -1,0 +1,39 @@
+{
+  "selected": {
+    "song_id": 69466,
+    "title": "风真透",
+    "artists": [
+      "陈雷"
+    ],
+    "album": "烧翻卖2",
+    "duration": 199.0,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "netease:69466",
+      "duration": 199.0,
+      "ready": false,
+      "coverage": 0.07142857142857142,
+      "exact_fraction": 0.07142857142857142,
+      "summary": {
+        "unresolved": 39,
+        "gap": 15,
+        "repeat": 3
+      }
+    },
+    {
+      "recording_id": "netease:70160",
+      "duration": 199.0,
+      "ready": false,
+      "coverage": 0.07142857142857142,
+      "exact_fraction": 0.07142857142857142,
+      "summary": {
+        "credit": 2,
+        "unresolved": 39,
+        "repeat": 3
+      }
+    }
+  ]
+}

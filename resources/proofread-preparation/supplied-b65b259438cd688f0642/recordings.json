@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 386010,
+      "title": "麦来乱",
+      "artists": [
+        "五月天"
+      ],
+      "album": "知足 最真杰作选",
+      "duration": 257.733,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 3386093383,
+      "title": "麦来乱",
+      "artists": [
+        "伍淑哲"
+      ],
+      "album": "如果不幸福",
+      "duration": 152.879,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2161278976,
+      "title": "麦来乱",
+      "artists": [
+        "五月天"
+      ],
+      "album": "",
+      "duration": 260.875,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

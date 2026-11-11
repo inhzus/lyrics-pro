@@ -1,0 +1,312 @@
+{
+  "recording_id": "netease:168377",
+  "source": "User-supplied resources/lyrics-spelling/國民學校-蕭煌奇",
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "阮故鄉港邊彼間　比阿爸卡老",
+      "spelling": "gún kòo-hiong káng-pinn tsi̍t king pí a-pa khah láu",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "的國民學校地動彼年",
+      "spelling": "ê kok-bîn ha̍k-hāu tē-tāng hit nî",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "真有福氣　政府欲加翻新",
+      "spelling": "tsin ū hok-khì tsìng-hú beh ka huan-sin",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "複雜的計畫　牽涉莊頭所有派系",
+      "spelling": "ho̍k-tsa̍p ê kè-uē khan-sia̍p tsng-thâu sóo-ū phài-hē",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "一時黑白兩道吵嚨袂停",
+      "spelling": "tsi̍t-sî oo-pe̍h lióng tō tshá lōng buē thîng",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "有人講學校的路　一定愛買伊的地有人決定",
+      "spelling": "ū-lâng kóng ha̍k-hāu ê lōo it-tīng ài bé i ê tē ū-lâng kuat-tīng",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "田無愛種　要起一個商場",
+      "spelling": "tshân bô ài tsióng beh khí tsi̍t ê siong-tiûnn",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "人人有計畫",
+      "spelling": "lâng-lâng ū kè-uē",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "人人攏咧車盤翻動用所有關係欲去申請",
+      "spelling": "lâng-lâng lóng leh tshia-puânn píng tōng iōng sóo-iú kuan-hē beh khì sin tshíng",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "無人管　學校前　彼條馬路每天",
+      "spelling": "bô-lâng kuán ha̍k-hāu tsiân hit tiâu bé-lōo ta̍k kang",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "攏嘛篷篷英連公車",
+      "spelling": "lóng mā phông phông ing liân kong-tshia",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "不時都　會找無所在通好停",
+      "spelling": "put-sî lóng ē tshuē bô sóo-tsāi thang-hó thîng",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "不驚風　不驚雨　每日準時來學校",
+      "spelling": "m̄-kiann hong m̄-kiann hōo muí-li̍t tsún-sî lâi ha̍k-hāu",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "可愛的學生尚驚上班的汽車　趕路不願停",
+      "spelling": "khó-ài ê ha̍k-sing siōng kiann siōng-pan ê khì-tshia kuánn-lōo m̄-guān thîng",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "紅燈邊仔彼個囝仔　有誰人會當帶伊過馬路",
+      "spelling": "âng-ting pinn-á hit-ê kín-á ū siánn-lâng ē-tàng tshuā i kuè bé-lōo",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "罵來罵去彼陣大人　拜託恁聲音不通相吵啦",
+      "spelling": "mā lâi mā khì hit-tīn tuā-lâng pài-thok lin siann-im m̄-thang siùnn tshá là",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "新計畫聽講徵收　市長殷表兄",
+      "spelling": "sin kè-uē thiann-kóng ting-siu tshī-tiúnn un piáu-hiann",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "新買的舊田真正不幸",
+      "spelling": "sin bé ê kū tshân tsin-tsiànn put-hīng",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "有人開槍　暗殺一個議員",
+      "spelling": "ū-lâng khui-tshìng àm-sat tsi̍t ê gī-uân",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "最後的計畫　不是所有人攏滿意",
+      "spelling": "tsuè-āu ê kè-uē m̄ sī sóo-iú lâng lóng buán-ì",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "現實親像馬路永遠攏袂停",
+      "spelling": "hiān-si̍t tshin-tshiūnn bé-lōo íng-uán buē thîng",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "無人管　學校邊",
+      "spelling": "bô-lâng kuán ha̍k-hāu pian",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "出現酒店甲網咖　也有賺食間連議長",
+      "spelling": "tshut-hiān tsiú-tiàm kā wǎng kā mā-ū thàn-tsia̍h king liân gī-tiúnn",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "攏有股　正經back有夠𠕇",
+      "spelling": "lóng ū kóo tsìng-king back ū kàu tīng",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "欲落成　彼一日　有真多人來學校",
+      "spelling": "beh lo̍k-sîng hit tsi̍t-ji̍t ū tsin tsē lâng lâi ha̍k-hāu",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "抗議甲遊行歸條馬路上攏總是　選舉的聲音",
+      "spelling": "khòng-gī kā iû-hîng kui tiâu bé-lōo siōng lóng-tsóng sī suán-kí ê siann-im",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "紅燈邊仔彼個囝仔　有誰人會當帶伊過馬路",
+      "spelling": "âng-ting pinn-á hit-ê kín-á ū siánn-lâng ē-tàng tshuā i kuè bé-lōo",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "罵來罵去彼陣大人　拜託恁聲音不通相吵啦",
+      "spelling": "mā lâi mā khì hit-tīn tuā-lâng pài-thok lin siann-im m̄-thang siùnn tshá là",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "甘不知恁的子弟　需要安靜來讀冊",
+      "spelling": "kam m̄ tsai lin ê tsú-tē su-iàu an-tsīng lâi tha̍k-tsheh",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "一天到晚惦這吵鬧的人　恁甘不識字",
+      "spelling": "tsi̍t kang kàu mńg tiām tsit tshá-nāu ê lâng lin kam m̄ pat-lī",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "紅燈邊仔彼個囝仔　有誰人會當帶伊過馬路",
+      "spelling": "âng-ting pinn-á hit-ê kín-á ū siánn-lâng ē-tàng tshuā i kuè bé-lōo",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "罵來罵去彼陣大人　拜託恁聲音不通相吵啦",
+      "spelling": "mā lâi mā khì hit-tīn tuā-lâng pài-thok lin siann-im m̄-thang siùnn tshá là",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "紅燈邊仔彼個囝仔　有誰人會當帶伊過馬路",
+      "spelling": "âng-ting pinn-á hit-ê kín-á ū siánn-lâng ē-tàng tshuā i kuè bé-lōo",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "罵來罵去彼陣大人　拜託恁聲音不通相吵啦",
+      "spelling": "mā lâi mā khì hit-tīn tuā-lâng pài-thok lin siann-im m̄-thang siùnn tshá là",
+      "source_lines": [
+        102,
+        103
+      ]
+    }
+  ]
+}

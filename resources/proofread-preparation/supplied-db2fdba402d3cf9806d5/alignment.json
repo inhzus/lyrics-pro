@@ -1,0 +1,569 @@
+{
+  "recording_id": "netease:516726195",
+  "timing_source": "NetEase https://music.163.com/song?id=516726195",
+  "manual_source": "User-supplied resources/lyrics-spelling/我若是有來生我想欲變成你-茄子蛋",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 5,
+    "unresolved": 16,
+    "exact": 5,
+    "approximate": 13
+  },
+  "review_row_count": 34,
+  "unmatched_manual_ids": [
+    "line-13:0",
+    "line-64:0",
+    "line-67:0",
+    "line-70:0",
+    "line-73:0"
+  ],
+  "unused_repeat_ids": [
+    "line-49:0",
+    "line-52:0",
+    "line-76:0",
+    "line-79:0",
+    "line-82:0",
+    "line-85:0",
+    "line-88:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 黄奇斌",
+      "match_text": "作词 : 黄奇斌",
+      "text": "作词 : 黄奇斌",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 黄奇斌",
+      "match_text": "作曲 : 黄奇斌",
+      "text": "作曲 : 黄奇斌",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "键盘/主唱 : 黄奇斌",
+      "match_text": "键盘/主唱 : 黄奇斌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 3.0,
+      "online_text": "吉他/和声 : 谢耀德",
+      "match_text": "吉他/和声 : 谢耀德",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 4.0,
+      "online_text": "贝斯 : 罗晧宇",
+      "match_text": "贝斯 : 罗晧宇",
+      "text": "贝斯 : 罗晧宇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 5.0,
+      "online_text": "鼓 : 赖俊廷",
+      "match_text": "鼓 : 赖俊廷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 6.0,
+      "online_text": "制作人 : 李孝祖",
+      "match_text": "制作人 : 李孝祖",
+      "text": "制作人 : 李孝祖",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 7,
+      "time": 7.0,
+      "online_text": "录音师 : 李孝祖 @好意思录音室",
+      "match_text": "录音师 : 李孝祖 @好意思录音室",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 8.0,
+      "online_text": "混音 : Andy Baker",
+      "match_text": "混音 : Andy Baker",
+      "text": "混音 : Andy Baker",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 9,
+      "time": 9.0,
+      "online_text": "母带后期制作 : Joel Hatstat",
+      "match_text": "母带后期制作 : Joel Hatstat",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 38.52,
+      "online_text": "我知道妳的梦",
+      "match_text": "我知道妳的梦",
+      "text": "我知道妳的夢",
+      "spelling": "guá tsai-iánn lí ê bāng",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 42.189,
+      "online_text": "也了解妳愛的人",
+      "match_text": "也了解妳愛的人",
+      "text": "也了解妳愛的人",
+      "spelling": "iā liáu-kái lí ài ê lâng",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 45.903,
+      "online_text": "梳着青春的头发",
+      "match_text": "梳着青春的头发",
+      "text": "梳著青春的頭髮",
+      "spelling": "lua̍h-tio̍h tshing-tshun ê thâu-tsang",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 13,
+      "time": 49.536,
+      "online_text": "拉着大船不愿放",
+      "match_text": "拉着大船不愿放",
+      "text": "搝著大船不願放",
+      "spelling": "giú-tio̍h tuā tsûn m̄-guān pàng",
+      "manual_id": "line-10:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 14,
+      "time": 53.287,
+      "online_text": "常常提她的名",
+      "match_text": "常常提她的名",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 57.001,
+      "online_text": "常常想亲她的嘴",
+      "match_text": "常常想亲她的嘴",
+      "text": "常常欲親她的嘴",
+      "spelling": "siông-siông beh tshin i ê tshuì",
+      "manual_id": "line-16:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 16,
+      "time": 60.624,
+      "online_text": "不敢为她来脱衣",
+      "match_text": "不敢为她来脱衣",
+      "text": "不敢替她來脫衣",
+      "spelling": "m̄ kánn thè i lâi thǹg-sann",
+      "manual_id": "line-19:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 17,
+      "time": 64.373,
+      "online_text": "然后每晚来失眠",
+      "match_text": "然后每晚来失眠",
+      "text": "然後逐晚來失眠",
+      "spelling": "liân-āu ta̍k àm lâi sit-bîn",
+      "manual_id": "line-22:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 18,
+      "time": 71.948,
+      "online_text": "转头来看她离开",
+      "match_text": "转头来看她离开",
+      "text": "轉頭來看她離開",
+      "spelling": "ua̍t-thâu lâi khuànn i lī-khui",
+      "manual_id": "line-25:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 75.488,
+      "online_text": "就亲像凋谢的花蕊",
+      "match_text": "就亲像凋谢的花蕊",
+      "text": "若親像凋謝的花蕊",
+      "spelling": "ná tshin-tshiūnn tiau-siā ê hue-luí",
+      "manual_id": "line-28:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 20,
+      "time": 79.157,
+      "online_text": "拿着半罐的烧酒",
+      "match_text": "拿着半罐的烧酒",
+      "text": "拿著半罐的燒酒",
+      "spelling": "the̍h-tio̍h puànn kuàn ê sio-tsiú",
+      "manual_id": "line-31:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 82.779,
+      "online_text": "喝不下是妳的忧愁",
+      "match_text": "喝不下是妳的忧愁",
+      "text": "飲不了是妳的憂愁",
+      "spelling": "lím-buē-liáu sī lí ê iu-tshiû",
+      "manual_id": "line-34:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 22,
+      "time": 86.54,
+      "online_text": "走进了妳的双腿",
+      "match_text": "走进了妳的双腿",
+      "text": "走進了妳的雙腿",
+      "spelling": "kiânn-ji̍p-liáu lí ê siang-thuí",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 90.209,
+      "online_text": "看不到妳說的美",
+      "match_text": "看不到妳說的美",
+      "text": "看不到妳說的媠",
+      "spelling": "khuànn-bē-tio̍h lí kóng ê suí",
+      "manual_id": "line-40:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 24,
+      "time": 93.912,
+      "online_text": "遇到妳和他的孩子",
+      "match_text": "遇到妳和他的孩子",
+      "text": "遇到妳和他的囝仔",
+      "spelling": "tú-tio̍h lí kā i ê kín-á",
+      "manual_id": "line-43:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 25,
+      "time": 97.196,
+      "online_text": "我还无奈去叫他心肝",
+      "match_text": "我还无奈去叫他心肝",
+      "text": "我閣無奈去叫他心肝",
+      "spelling": "guá koh bô-nāi khì kiò i sim-kuann",
+      "manual_id": "line-46:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 26,
+      "time": 108.078,
+      "online_text": "我如果有来生我想要变成你啊",
+      "match_text": "我如果有来生我想要变成你啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 115.409,
+      "online_text": "我如果有来生我想要变成你啊",
+      "match_text": "我如果有来生我想要变成你啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 122.828,
+      "online_text": "我如果有来生我想要变成你啊",
+      "match_text": "我如果有来生我想要变成你啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 130.209,
+      "online_text": "我如果有来生我想要变成你",
+      "match_text": "我如果有来生我想要变成你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 137.081,
+      "online_text": "是妳 美丽的妳 温柔的妳 哪里去",
+      "match_text": "是妳 美丽的妳 温柔的妳 哪里去",
+      "text": "是妳 美麗的妳 溫柔的妳 位佗去",
+      "spelling": "sī lí bí-lē ê lí un-jiû ê lí uī-tuē-khì",
+      "manual_id": "line-55:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.846154
+    },
+    {
+      "source_row": 31,
+      "time": 152.021,
+      "online_text": "是梦一般的妳 是大海一般的妳",
+      "match_text": "是梦一般的妳 是大海一般的妳",
+      "text": "是夢一般的妳 是親像大海的妳",
+      "spelling": "sī bāng tsi̍t-puann ê lí sī tshin-tshiūnn tuā-hái ê lí",
+      "manual_id": "line-58:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.846154
+    },
+    {
+      "source_row": 32,
+      "time": 158.63,
+      "online_text": "敢问会记住 回来的时",
+      "match_text": "敢问会记住 回来的时",
+      "text": "敢問會記住 返來的時",
+      "spelling": "kánn-mn̄g ē kì-tshi tńg-lâi ê sî",
+      "manual_id": "line-61:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 33,
+      "time": 234.769,
+      "online_text": "我如果有来生我想要变成你啊",
+      "match_text": "我如果有来生我想要变成你啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 242.025,
+      "online_text": "我如果有来生我想要变成你啊",
+      "match_text": "我如果有来生我想要变成你啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 249.489,
+      "online_text": "我如果有来生我想要变成你啊",
+      "match_text": "我如果有来生我想要变成你啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 257.001,
+      "online_text": "我如果有来生",
+      "match_text": "我如果有来生",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 260.537,
+      "online_text": "我如果有来生我想要变成你啊",
+      "match_text": "我如果有来生我想要变成你啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 267.908,
+      "online_text": "我如果有来生我想要变成你啊",
+      "match_text": "我如果有来生我想要变成你啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "469910014dc09639202f99c8bb35357b2220a45b96882db941c06f241a83face",
+    "manual": "cf728d160ab90c46ea30ceae4350d53df512109fb04ac8343927c953ac55eb83",
+    "timed": "e4a0f96c7c69471774d5886817ede13a794bd8a95f638ac73269c2ddcb134c00"
+  }
+}

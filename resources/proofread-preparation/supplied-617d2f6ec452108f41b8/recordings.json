@@ -1,0 +1,50 @@
+{
+  "candidates": [
+    {
+      "song_id": 386948,
+      "title": "I Love You 无望",
+      "artists": [
+        "五月天"
+      ],
+      "album": "第一张创作专辑",
+      "duration": 287.4,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 386034,
+      "title": "I Love You 无望",
+      "artists": [
+        "五月天"
+      ],
+      "album": "知足 最真杰作选",
+      "duration": 284.859,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1345409666,
+      "title": "I Love You 无望",
+      "artists": [
+        "DRINMI"
+      ],
+      "album": "杂",
+      "duration": 284.525,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1432716958,
+      "title": "I Love You 无望",
+      "artists": [
+        "陈先生",
+        "飞啦"
+      ],
+      "album": "I LOVE YOU 无望",
+      "duration": 285.905,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

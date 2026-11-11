@@ -1,0 +1,71 @@
+{
+  "candidates": [
+    {
+      "song_id": 1977041998,
+      "title": "自由路",
+      "artists": [
+        "さかなぎ諒"
+      ],
+      "album": "風追い人 -Wind Pursuer-",
+      "duration": 205.373,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3389776551,
+      "title": "自由路",
+      "artists": [
+        "段林燊"
+      ],
+      "album": "自由路",
+      "duration": 216.119,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3457026789,
+      "title": "自由路",
+      "artists": [
+        "奔赴山海"
+      ],
+      "album": "",
+      "duration": 193.584,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3369773772,
+      "title": "自由路",
+      "artists": [
+        "您可真漂Liang_"
+      ],
+      "album": "落日余晖",
+      "duration": 65.204,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3423383242,
+      "title": "自由路",
+      "artists": [
+        "唐蜜"
+      ],
+      "album": "",
+      "duration": 210.976,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "375431208",
+      "title": "自由路",
+      "artists": [
+        "灭火器"
+      ],
+      "album": "海上的人",
+      "duration": 194.229,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

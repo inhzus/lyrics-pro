@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 2704743636,
+      "title": "新闻插播",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "爱情广播电台",
+      "duration": 57.939,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

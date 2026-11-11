@@ -1,0 +1,294 @@
+{
+  "recording_id": "netease:28661108",
+  "source": "User-supplied resources/lyrics-spelling/我懷念的西子灣-陳建瑋",
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "涼亭啊腳 生鏽腳踏車",
+      "spelling": "liâng-tîng ah kha senn-sian kha-ta̍h-tshia",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "阿公度姑的聲",
+      "spelling": "a-kong tu koo ê siann",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "日頭落山 抽長的人影",
+      "spelling": "ji̍t-thâu lo̍h-suann thiu-tn̂g ê lâng-iánn",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "想起故鄉會寒",
+      "spelling": "siūnn-khí kòo-hiong ē kuânn",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "西子灣 熱鬧海產店",
+      "spelling": "se-á-uân lāu-jia̍t hái sán tànn",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "甲 鹹酸苦澀 炒歸盤",
+      "spelling": "kā kiâm sng khóo-sia̍p tshá kui-puânn",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "西子灣 哪抽到好籤",
+      "spelling": "se-á-uân ná thiu-tio̍h hó tshiam",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "我人生甘會好命",
+      "spelling": "guá lîn-sing kam tu ē hó-miā",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "等我 夢中見",
+      "spelling": "tán guá bāng-tiong kinn",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "等我 來看你",
+      "spelling": "tán guá lâi khuànn lí",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "囝仔行過的風景 阿公的教示",
+      "spelling": "kín-á kiânn-kuè ê hong-kíng a-kong ê kà-sī",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "我攏無邁放抹記",
+      "spelling": "guá lóng buē pàng-buē-kì",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "等我 去牽妳",
+      "spelling": "tán guá khì khan lí",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "等我 寫感情",
+      "spelling": "tán guá siá kám-tsîng",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "青春坐船過風湧 對岸是蝦米",
+      "spelling": "tshing-tshun tsē tsûn kuè hong-íng tuì-huānn sī siánn-mih",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "有我 有妳",
+      "spelling": "ū guá ū lí",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "初戀的伊 無災叼位去",
+      "spelling": "tshoo-luân ê i m̄ tsai tó-uī khì",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "精彩的少年時",
+      "spelling": "tsing-tshái ê siàu-liân sî",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "世界變化 街路攏換名",
+      "spelling": "sè-kài piàn-huà ke-lōo lóng uānn miâ",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "舊厝無人底住",
+      "spelling": "kū tshù bô-lâng té tuà",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "西子灣 熱鬧海產店",
+      "spelling": "se-á-uân lāu-jia̍t hái sán tànn",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "甲 鹹酸苦澀 炒歸盤",
+      "spelling": "kā kiâm sng khóo-sia̍p tshá kui-puânn",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "西子灣 哪抽到好籤",
+      "spelling": "se-á-uân ná thiu-tio̍h hó tshiam",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "我人生甘會好命",
+      "spelling": "guá lîn-sing kam tu ē hó-miā",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "等我 夢中見",
+      "spelling": "tán guá bāng-tiong kinn",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "等我 來看你",
+      "spelling": "tán guá lâi khuànn lí",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "囝仔行過的風景 阿公的教示",
+      "spelling": "kín-á kiânn-kuè ê hong-kíng a-kong ê kà-sī",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "我攏無邁放抹記",
+      "spelling": "guá lóng buē pàng-buē-kì",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "等我 去牽妳",
+      "spelling": "tán guá khì khan lí",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "等我 寫感情",
+      "spelling": "tán guá siá kám-tsîng",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "青春坐船過風湧 對岸是蝦米",
+      "spelling": "tshing-tshun tsē tsûn kuè hong-íng tuì-huānn sī siánn-mih",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "有我 有妳",
+      "spelling": "ū guá ū lí",
+      "source_lines": [
+        94,
+        95
+      ]
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "recording_id": "netease:28528289",
+  "timing_source": "NetEase https://music.163.com/song?id=28528289",
+  "manual_source": "User-supplied resources/lyrics-spelling/飲水思源-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "exact": 7,
+    "approximate": 4,
+    "repeat": 13,
+    "unresolved": 5
+  },
+  "review_row_count": 9,
+  "unmatched_manual_ids": [
+    "line-79:0",
+    "line-82:0",
+    "line-85:0"
+  ],
+  "unused_repeat_ids": [
+    "line-28:0",
+    "line-31:0",
+    "line-67:0",
+    "line-70:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 朱万花",
+      "match_text": "作词 : 朱万花",
+      "text": "作词 : 朱万花",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 27.7,
+      "online_text": "想起初次来到夜都市",
+      "match_text": "想起初次来到夜都市",
+      "text": "想起初次來到夜都市",
+      "spelling": "siūnn-khí tshoo tshù lâi kàu iā too-tshī",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 33.7,
+      "online_text": "街灯闪烁心稀微",
+      "match_text": "街灯闪烁心稀微",
+      "text": "街燈閃爍心稀微",
+      "spelling": "ke-ting siám-sih sim hi-bî",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 40.2,
+      "online_text": "离开故乡到底为什么",
+      "match_text": "离开故乡到底为什么",
+      "text": "離開故鄉到底為什麼",
+      "spelling": "lī-khui kòo-hiong tàu-té uī-siánn-mi̍h",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 5,
+      "time": 46.6,
+      "online_text": "阮嘛唔敢来将伊放袂记",
+      "match_text": "阮嘛唔敢来将伊放袂记",
+      "text": "阮嘛唔敢來將伊放袂記",
+      "spelling": "gún mā m̄-kánn lâi tsiòng i pàng buē kì",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 54.7,
+      "online_text": "青春美梦 有你疼痛",
+      "match_text": "青春美梦 有你疼痛",
+      "text": "青春美夢 有你疼痛",
+      "spelling": "tshing-tshun bí-bāng ū lí thiànn-thàng",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 60.7,
+      "online_text": "阮唔惊路途多遥远",
+      "match_text": "阮唔惊路途多遥远",
+      "text": "阮唔驚路途多遙遠",
+      "spelling": "gún m̄-kiann lōo-tôo luā iâu-uán",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 67.7,
+      "online_text": "青春美梦 心头若沉重",
+      "match_text": "青春美梦 心头若沉重",
+      "text": "青春美夢 心頭若沉重",
+      "spelling": "tshing-tshun bí-bāng sim-thâu ná tîm-tāng",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 74.7,
+      "online_text": "唔甘乎你来操烦",
+      "match_text": "唔甘乎你来操烦",
+      "text": "唔甘乎你來操煩",
+      "spelling": "m̄-kam hōo lí lâi tshau-huân",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 83.7,
+      "online_text": "故乡的人 阮日日夜夜梦",
+      "match_text": "故乡的人 阮日日夜夜梦",
+      "text": "故鄉的人 阮日日夜夜夢",
+      "spelling": "kòo-hiong ê lâng gún ji̍t-ji̍t-iā-iā bāng",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 90.7,
+      "online_text": "咱唔惊风雨淋 唔惊日头晒",
+      "match_text": "咱唔惊风雨淋 唔惊日头晒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 97.7,
+      "online_text": "爱你的人 会为你期待为你等",
+      "match_text": "爱你的人 会为你期待为你等",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 104.5,
+      "online_text": "揽着希望 饮水思源",
+      "match_text": "揽着希望 饮水思源",
+      "text": "攬著希望 飲水思源",
+      "spelling": "lám-tio̍h hi-bāng im tsuí su guân",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 107.7,
+      "online_text": "返来ㄟ一工",
+      "match_text": "返来ㄟ一工",
+      "text": "返來ㄟ一工",
+      "spelling": "tńg-lâi ê tsi̍t kang",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 143.6,
+      "online_text": "感谢身边所有爱我的人",
+      "match_text": "感谢身边所有爱我的人",
+      "text": "感謝身邊所有愛我的人",
+      "spelling": "kám-siā sin-pinn sóo-iú ài guá ê lâng",
+      "manual_id": "line-40:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 148.7,
+      "online_text": "你们的鼓励乎我真温暖",
+      "match_text": "你们的鼓励乎我真温暖",
+      "text": "你的鼓勵乎我真溫暖",
+      "spelling": "lí ê kóo-lē hōo guá tsin un-luán",
+      "manual_id": "line-43:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.947368
+    },
+    {
+      "source_row": 17,
+      "time": 155.7,
+      "online_text": "当初的坚持到底为什么",
+      "match_text": "当初的坚持到底为什么",
+      "text": "當初的堅持到底為什麼",
+      "spelling": "tong-tshoo ê kian-tshî tàu-té uī-siánn-mi̍h",
+      "manual_id": "line-46:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 18,
+      "time": 161.5,
+      "online_text": "放置心内阮唔敢放袂记",
+      "match_text": "放置心内阮唔敢放袂记",
+      "text": "放置心內阮唔敢放袂記",
+      "spelling": "khǹg tì sim-lāi gún m̄ kánn pàng buē kì",
+      "manual_id": "line-49:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 170.2,
+      "online_text": "青春美梦 有你疼痛",
+      "match_text": "青春美梦 有你疼痛",
+      "text": "青春美夢 有你疼痛",
+      "spelling": "tshing-tshun bí-bāng ū lí thiànn-thàng",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 176.7,
+      "online_text": "阮唔惊路途多遥远",
+      "match_text": "阮唔惊路途多遥远",
+      "text": "阮唔驚路途多遙遠",
+      "spelling": "gún m̄-kiann lōo-tôo luā iâu-uán",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 182.7,
+      "online_text": "青春美梦 心头若沉重",
+      "match_text": "青春美梦 心头若沉重",
+      "text": "青春美夢 心頭若沉重",
+      "spelling": "tshing-tshun bí-bāng sim-thâu ná tîm-tāng",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 189.7,
+      "online_text": "唔甘乎你来操烦",
+      "match_text": "唔甘乎你来操烦",
+      "text": "唔甘乎你來操煩",
+      "spelling": "m̄-kam hōo lí lâi tshau-huân",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 197.7,
+      "online_text": "故乡的人 阮日日夜夜梦",
+      "match_text": "故乡的人 阮日日夜夜梦",
+      "text": "故鄉的人 阮日日夜夜夢",
+      "spelling": "kòo-hiong ê lâng gún ji̍t-ji̍t-iā-iā bāng",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 200.7,
+      "online_text": "咱唔惊风雨淋 唔惊日头晒",
+      "match_text": "咱唔惊风雨淋 唔惊日头晒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 211.7,
+      "online_text": "爱你的人 会为你期待为你等",
+      "match_text": "爱你的人 会为你期待为你等",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 218.7,
+      "online_text": "揽着希望 饮水思源",
+      "match_text": "揽着希望 饮水思源",
+      "text": "攬著希望 飲水思源",
+      "spelling": "lám-tio̍h hi-bāng im tsuí su guân",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 221.9,
+      "online_text": "返来 彼一工",
+      "match_text": "返来 彼一工",
+      "text": "返來彼一工",
+      "spelling": "tńg-lâi hit tsi̍t kang",
+      "manual_id": "line-76:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 230.7,
+      "online_text": "揽着希望 饮水思源",
+      "match_text": "揽着希望 饮水思源",
+      "text": "攬著希望 飲水思源",
+      "spelling": "lám-tio̍h hi-bāng im tsuí su guân",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 234.7,
+      "online_text": "为梦 阮甘愿",
+      "match_text": "为梦 阮甘愿",
+      "text": "阮甘願",
+      "spelling": "gún kam-guān",
+      "manual_id": "line-88:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 30,
+      "time": 257.733,
+      "online_text": "人声 : Hsiao Huang Chi",
+      "match_text": "人声 : Hsiao Huang Chi",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "8b178befef8acf40e0946f659d45162eb09555167305143a93b6fbb0258b1f42",
+    "manual": "83f4cd1700841c45b9e5b281cebcbdba9ee92917458a648cd1738a8cdb2357f5",
+    "timed": "6c9047359d057c1ca3c54c73cf4a8b992f7b26bb00098c261c7a0a92e8adb269"
+  }
+}

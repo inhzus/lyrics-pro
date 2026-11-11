@@ -1,0 +1,406 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "風吹影搖移 伴著",
+      "spelling": "hong-tshue iánn iô î phuānn tio̍h",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "風吹影搖移",
+          "spelling": "hong-tshue iánn iô î"
+        },
+        {
+          "text": "伴著",
+          "spelling": "phuānn tio̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "麻黃的樹枝",
+      "spelling": "mah n̂g ê tshiū-ki",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "麻黃的樹枝",
+          "spelling": "mah n̂g ê tshiū-ki"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "看見海面的 燒風",
+      "spelling": "khuànn kìnn hái-bīn ê sio hong",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "看見海面的",
+          "spelling": "khuànn kìnn hái-bīn ê"
+        },
+        {
+          "text": "燒風",
+          "spelling": "sio hong"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "拆破了雲碎",
+      "spelling": "thiah-phuà liáu hûn tshuì",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "拆破了雲碎",
+          "spelling": "thiah-phuà liáu hûn tshuì"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "難免轟轟叫 海螺",
+      "spelling": "lân-bián hong hong kiò hái lê",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "難免轟轟叫",
+          "spelling": "lân-bián hong hong kiò"
+        },
+        {
+          "text": "海螺",
+          "spelling": "hái lê"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "聽見你躊蹴",
+      "spelling": "thiann-kìnn lí tiû-tî",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "聽見你躊蹴",
+          "spelling": "thiann-kìnn lí tiû-tî"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "眼前離別時 妳是",
+      "spelling": "gán-tsiân lī-pia̍t sî lí sī",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "眼前離別時",
+          "spelling": "gán-tsiân lī-pia̍t sî"
+        },
+        {
+          "text": "妳是",
+          "spelling": "lí sī"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "波浪伊是水",
+      "spelling": "pho-lōng i sī tsuí",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "波浪伊是水",
+          "spelling": "pho-lōng i sī tsuí"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "越頭伊不願切 往事欲如何",
+      "spelling": "ua̍t-thâu i m̄ guān tshè óng-sū beh lû-hô",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "越頭伊不願切",
+          "spelling": "ua̍t-thâu i m̄ guān tshè"
+        },
+        {
+          "text": "往事欲如何",
+          "spelling": "óng-sū beh lû-hô"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "要將伊初戀心肝放在佗",
+      "spelling": "beh tsiòng i tshoo luân sim-kuann khǹg tī tui",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "要將伊初戀心肝放在佗",
+          "spelling": "beh tsiòng i tshoo luân sim-kuann khǹg tī tui"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "熟識妳了後佗位找",
+      "spelling": "si̍k-sāi lí liáu-āu tó-uī tshuē",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "熟識妳了後佗位找",
+          "spelling": "si̍k-sāi lí liáu-āu tó-uī tshuē"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "眼淚嘛不願切 以後欲如何",
+      "spelling": "gán luī mah m̄ guān tshè í-āu beh lû-hô",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "眼淚嘛不願切",
+          "spelling": "gán luī mah m̄ guān tshè"
+        },
+        {
+          "text": "以後欲如何",
+          "spelling": "í-āu beh lû-hô"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "我知影恁攏暫時不要想這",
+      "spelling": "guá tsai-iánn lín lóng tsiām-sî bô ài siūnn tse",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "我知影恁攏暫時不要想這",
+          "spelling": "guá tsai-iánn lín lóng tsiām-sî bô ài siūnn tse"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "攏說無話",
+      "spelling": "lóng kóng bô uē",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "攏說無話",
+          "spelling": "lóng kóng bô uē"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "越頭伊不願切 往事欲如何",
+      "spelling": "ua̍t-thâu i m̄ guān tshè óng-sū beh lû-hô",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "越頭伊不願切",
+          "spelling": "ua̍t-thâu i m̄ guān tshè"
+        },
+        {
+          "text": "往事欲如何",
+          "spelling": "óng-sū beh lû-hô"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "要將伊失戀心肝放在哪",
+      "spelling": "beh tsiòng i sit luân sim-kuann khǹg tī tui",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "要將伊失戀心肝放在哪",
+          "spelling": "beh tsiòng i sit luân sim-kuann khǹg tī tui"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "離開妳了後佗位找",
+      "spelling": "lī-khui lí liáu-āu tó-uī tshuē",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "離開妳了後佗位找",
+          "spelling": "lī-khui lí liáu-āu tó-uī tshuē"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "海風嘛不願切 白雲欲如何",
+      "spelling": "hái-hong mah m̄ guān tshè pe̍h-hûn beh lû-hô",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "海風嘛不願切",
+          "spelling": "hái-hong mah m̄ guān tshè"
+        },
+        {
+          "text": "白雲欲如何",
+          "spelling": "pe̍h-hûn beh lû-hô"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "我知影恁攏暫時不要受罪",
+      "spelling": "guá tsai-iánn lín lóng tsiām-sî bô ài siū-tsuē",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "我知影恁攏暫時不要受罪",
+          "spelling": "guá tsai-iánn lín lóng tsiām-sî bô ài siū-tsuē"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "愛情是假",
+      "spelling": "ài-tsîng sī ké",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "愛情是假",
+          "spelling": "ài-tsîng sī ké"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "站在妳身邊 犁頭",
+      "spelling": "khiā tsāi lí sin-pinn lê-thâu",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "站在妳身邊",
+          "spelling": "khiā tsāi lí sin-pinn"
+        },
+        {
+          "text": "犁頭",
+          "spelling": "lê-thâu"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "沒說半個字",
+      "spelling": "bô kóng puànn ê jī",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "沒說半個字",
+          "spelling": "bô kóng puànn ê jī"
+        }
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "難免轟轟叫 海螺",
+      "spelling": "lân-bián hong hong kiò hái lê",
+      "source_lines": [
+        69,
+        70
+      ],
+      "parts": [
+        {
+          "text": "難免轟轟叫",
+          "spelling": "lân-bián hong hong kiò"
+        },
+        {
+          "text": "海螺",
+          "spelling": "hái lê"
+        }
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "欲來潛水鼻",
+      "spelling": "beh lâi tsiâm tsuí phīnn",
+      "source_lines": [
+        72,
+        73
+      ],
+      "parts": [
+        {
+          "text": "欲來潛水鼻",
+          "spelling": "beh lâi tsiâm tsuí phīnn"
+        }
+      ]
+    }
+  ],
+  "repairs": [],
+  "notes": []
+}

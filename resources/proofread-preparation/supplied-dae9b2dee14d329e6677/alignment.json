@@ -1,0 +1,623 @@
+{
+  "recording_id": "netease:386017",
+  "timing_source": "NetEase https://music.163.com/song?id=386017",
+  "manual_source": "User-supplied resources/lyrics-spelling/好不好-五月天",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "unresolved": 20,
+    "approximate": 5,
+    "repeat": 15,
+    "gap": 2,
+    "exact": 1
+  },
+  "review_row_count": 26,
+  "unmatched_manual_ids": [
+    "line-3:0",
+    "line-6:0",
+    "line-9:0",
+    "line-12:0",
+    "line-36:0",
+    "line-39:0",
+    "line-42:0",
+    "line-51:0"
+  ],
+  "unused_repeat_ids": [
+    "line-18:1",
+    "line-21:0",
+    "line-21:1",
+    "line-24:0",
+    "line-24:1",
+    "line-27:0",
+    "line-30:0",
+    "line-30:1",
+    "line-33:2",
+    "line-51:1",
+    "line-54:0",
+    "line-54:1",
+    "line-57:0",
+    "line-57:1",
+    "line-60:0",
+    "line-63:0",
+    "line-63:1",
+    "line-66:2",
+    "line-69:0",
+    "line-69:1",
+    "line-72:0",
+    "line-72:1",
+    "line-75:0",
+    "line-78:0",
+    "line-78:1",
+    "line-81:2"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 22.799,
+      "online_text": "不知是对或是不对",
+      "match_text": "不知是对或是不对",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-3:0"
+    },
+    {
+      "source_row": 1,
+      "time": 25.45,
+      "online_text": "不知是好或是不好",
+      "match_text": "不知是好或是不好",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-3:0"
+    },
+    {
+      "source_row": 2,
+      "time": 28.999,
+      "online_text": "不知你甘会笑阮憨",
+      "match_text": "不知你甘会笑阮憨",
+      "text": "甘會笑阮憨",
+      "spelling": "kam ē tshiò gún gōng",
+      "manual_id": "line-6:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.769231
+    },
+    {
+      "source_row": 3,
+      "time": 35.729,
+      "online_text": "热天西北雨的下午",
+      "match_text": "热天西北雨的下午",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-9:0"
+    },
+    {
+      "source_row": 4,
+      "time": 39.59,
+      "online_text": "想你不知影你在哪",
+      "match_text": "想你不知影你在哪",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-9:0"
+    },
+    {
+      "source_row": 5,
+      "time": 42.599,
+      "online_text": "真希望看到你的笑容",
+      "match_text": "真希望看到你的笑容",
+      "text": "看到你的笑容",
+      "spelling": "khuànn tio̍h lí ê tshiò-iông",
+      "manual_id": "line-12:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 6,
+      "time": 48.49,
+      "online_text": "你的温暖充满着阮孤单的心脏",
+      "match_text": "你的温暖充满着阮孤单的心脏",
+      "text": "你的溫暖充滿著阮孤單的心臟",
+      "spelling": "lí ê un-luán tshiong-buán tio̍h gún koo-tuann ê sim-tsōng",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 55.819,
+      "online_text": "我不能继续再等待想要对你说",
+      "match_text": "我不能继续再等待想要对你说",
+      "text": "我不能繼續再等待",
+      "spelling": "guá bē-tàng kè-sio̍k tsài tán-thāi",
+      "manual_id": "line-18:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.761905
+    },
+    {
+      "source_row": 8,
+      "time": 61.429,
+      "online_text": "乎你想乎你猜",
+      "match_text": "乎你想乎你猜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 64.688,
+      "online_text": "是谁人整眠烦恼",
+      "match_text": "是谁人整眠烦恼",
+      "text": "是誰人整眠煩惱",
+      "spelling": "sī siánn-lâng kui bîn huân-ló",
+      "manual_id": "line-21:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 68.249,
+      "online_text": "烦恼着无情的风 无情的雨",
+      "match_text": "烦恼着无情的风 无情的雨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 73.499,
+      "online_text": "阻碍咱的路",
+      "match_text": "阻碍咱的路",
+      "text": "阻礙咱的路",
+      "spelling": "tsóo-gāi lán ê lōo",
+      "manual_id": "line-27:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 75.789,
+      "online_text": "甲你疼甲你惜",
+      "match_text": "甲你疼甲你惜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 78.489,
+      "online_text": "甲你捧在我双手中",
+      "match_text": "甲你捧在我双手中",
+      "text": "甲你捧在我雙手中",
+      "spelling": "kah lí phâng tiàm guá siang-tshiú tiong",
+      "manual_id": "line-30:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 82.999,
+      "online_text": "我一生唯一的希望",
+      "match_text": "我一生唯一的希望",
+      "text": "我一生唯一的希望",
+      "spelling": "guá it-sing uî-it ê hi-bāng",
+      "manual_id": "line-33:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 86.539,
+      "online_text": "要给你快乐好或不好",
+      "match_text": "要给你快乐好或不好",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 95.799,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 17,
+      "time": 97.469,
+      "online_text": "日子有甜也有艰苦",
+      "match_text": "日子有甜也有艰苦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-36:0"
+    },
+    {
+      "source_row": 18,
+      "time": 100.869,
+      "online_text": "有你有我互相照顾",
+      "match_text": "有你有我互相照顾",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-36:0"
+    },
+    {
+      "source_row": 19,
+      "time": 103.579,
+      "online_text": "想要听你心内的感想",
+      "match_text": "想要听你心内的感想",
+      "text": "你心內的感想",
+      "spelling": "lí sim-lāi ê kám-sióng",
+      "manual_id": "line-39:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 20,
+      "time": 107.429,
+      "online_text": "亲爱你甘有听阮讲",
+      "match_text": "亲爱你甘有听阮讲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-42:0"
+    },
+    {
+      "source_row": 21,
+      "time": 114.479,
+      "online_text": "亲爱到底是好不好",
+      "match_text": "亲爱到底是好不好",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-42:0"
+    },
+    {
+      "source_row": 22,
+      "time": 118.99,
+      "online_text": "甘讲你惊阮没信用",
+      "match_text": "甘讲你惊阮没信用",
+      "text": "甘講你驚阮沒信用",
+      "spelling": "kam kóng lí kiann gún bô sìn-iōng",
+      "manual_id": "line-45:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 122.279,
+      "online_text": "还是你搁有苦衷",
+      "match_text": "还是你搁有苦衷",
+      "text": "還是你擱有苦衷",
+      "spelling": "iáu sī lí koh ū khóo-tsiong",
+      "manual_id": "line-45:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 24,
+      "time": 130.469,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 25,
+      "time": 150.369,
+      "online_text": "你的温暖充满着阮孤单的心脏",
+      "match_text": "你的温暖充满着阮孤单的心脏",
+      "text": "你的溫暖充滿著阮孤單的心臟",
+      "spelling": "lí ê un-luán tshiong-buán tio̍h gún koo-tuann ê sim-tsōng",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 158.69,
+      "online_text": "我不能继续再等待想要对你说",
+      "match_text": "我不能继续再等待想要对你说",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 163.559,
+      "online_text": "乎你想乎你猜",
+      "match_text": "乎你想乎你猜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 167.499,
+      "online_text": "是谁人整眠烦恼",
+      "match_text": "是谁人整眠烦恼",
+      "text": "是誰人整眠煩惱",
+      "spelling": "sī siánn-lâng kui bîn huân-ló",
+      "manual_id": "line-21:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 170.359,
+      "online_text": "烦恼着无情的风 无情的雨",
+      "match_text": "烦恼着无情的风 无情的雨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 175.119,
+      "online_text": "阻碍咱的路",
+      "match_text": "阻碍咱的路",
+      "text": "阻礙咱的路",
+      "spelling": "tsóo-gāi lán ê lōo",
+      "manual_id": "line-27:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 177.259,
+      "online_text": "甲你疼甲你惜",
+      "match_text": "甲你疼甲你惜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 181.69,
+      "online_text": "甲你捧在我双手中",
+      "match_text": "甲你捧在我双手中",
+      "text": "甲你捧在我雙手中",
+      "spelling": "kah lí phâng tiàm guá siang-tshiú tiong",
+      "manual_id": "line-30:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 184.939,
+      "online_text": "我一生唯一的希望",
+      "match_text": "我一生唯一的希望",
+      "text": "我一生唯一的希望",
+      "spelling": "guá it-sing uî-it ê hi-bāng",
+      "manual_id": "line-33:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 188.549,
+      "online_text": "要给你快乐",
+      "match_text": "要给你快乐",
+      "text": "要給你快樂",
+      "spelling": "beh hōo lí khuài-lo̍k",
+      "manual_id": "line-33:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 35,
+      "time": 190.909,
+      "online_text": "乎你想乎你猜",
+      "match_text": "乎你想乎你猜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 194.379,
+      "online_text": "是谁人整眠烦恼",
+      "match_text": "是谁人整眠烦恼",
+      "text": "是誰人整眠煩惱",
+      "spelling": "sī siánn-lâng kui bîn huân-ló",
+      "manual_id": "line-21:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 198.99,
+      "online_text": "烦恼着无情的风 无情的雨",
+      "match_text": "烦恼着无情的风 无情的雨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 202.499,
+      "online_text": "阻碍咱的路",
+      "match_text": "阻碍咱的路",
+      "text": "阻礙咱的路",
+      "spelling": "tsóo-gāi lán ê lōo",
+      "manual_id": "line-27:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 205.99,
+      "online_text": "甲你疼甲你惜",
+      "match_text": "甲你疼甲你惜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 208.89,
+      "online_text": "甲你捧在我双手中",
+      "match_text": "甲你捧在我双手中",
+      "text": "甲你捧在我雙手中",
+      "spelling": "kah lí phâng tiàm guá siang-tshiú tiong",
+      "manual_id": "line-30:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 41,
+      "time": 212.449,
+      "online_text": "我一生唯一的希望",
+      "match_text": "我一生唯一的希望",
+      "text": "我一生唯一的希望",
+      "spelling": "guá it-sing uî-it ê hi-bāng",
+      "manual_id": "line-33:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 216.59,
+      "online_text": "要给你快乐好或不好 好或不好",
+      "match_text": "要给你快乐好或不好 好或不好",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "75920df3ad2bd3ffc16f14253b733113413c634cb10b50d01ba8a499ee1d3f73",
+    "manual": "7cea1405da832b45a6318b90d7f9fc845b359c9129f08367f8502178b09b2038",
+    "timed": "49294b9a7c7f65a5aa9a971ab59af525a5ba9c364cf99d0e17804c5cfd442245"
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "recording_id": "netease:168373",
+  "source": "NetEase https://music.163.com/song?id=168373",
+  "lines": [
+    {
+      "time": 0,
+      "text": "作词 : 萧煌奇",
+      "kind": "credit"
+    },
+    {
+      "time": 0.02,
+      "text": "作曲 : 萧煌奇",
+      "kind": "credit"
+    },
+    {
+      "time": 0.05,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 14.0,
+      "text": "带你心飞",
+      "kind": "lyric"
+    },
+    {
+      "time": 19.0,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 20.64,
+      "text": "对我会晓弹吉他到今嘛",
+      "kind": "lyric"
+    },
+    {
+      "time": 27.24,
+      "text": "唱歌来乎人听嘛欲归十年啦",
+      "kind": "lyric"
+    },
+    {
+      "time": 34.14,
+      "text": "对什么拢无的囝仔",
+      "kind": "lyric"
+    },
+    {
+      "time": 37.38,
+      "text": "变成一个受尽风霜的大人",
+      "kind": "lyric"
+    },
+    {
+      "time": 40.86,
+      "text": "置咧舞台上表演乎人看",
+      "kind": "lyric"
+    },
+    {
+      "time": 44.35,
+      "text": "接受恁的扑仔声",
+      "kind": "lyric"
+    },
+    {
+      "time": 47.15,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 47.85,
+      "text": "啊不知经过外多风风雨雨的生活",
+      "kind": "lyric"
+    },
+    {
+      "time": 54.65,
+      "text": "啊不管别人安怎甲阮看",
+      "kind": "lyric"
+    },
+    {
+      "time": 58.05,
+      "text": "只要阮会当唱歌",
+      "kind": "lyric"
+    },
+    {
+      "time": 60.54,
+      "text": "伊就是阮的性命",
+      "kind": "lyric"
+    },
+    {
+      "time": 65.8,
+      "text": "啊～　啊～　啊～",
+      "kind": "lyric"
+    },
+    {
+      "time": 75.15,
+      "text": "阮欲唱甲尚大声",
+      "kind": "lyric"
+    },
+    {
+      "time": 78.7,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 79.4,
+      "text": "我欲来唱歌",
+      "kind": "lyric"
+    },
+    {
+      "time": 82.03,
+      "text": "虽然这条路是很歹行",
+      "kind": "lyric"
+    },
+    {
+      "time": 85.71,
+      "text": "只要咱唱甲尚大声",
+      "kind": "lyric"
+    },
+    {
+      "time": 88.23,
+      "text": "什么拢嘛呒免惊",
+      "kind": "lyric"
+    },
+    {
+      "time": 91.62,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 92.87,
+      "text": "我欲来唱歌",
+      "kind": "lyric"
+    },
+    {
+      "time": 95.51,
+      "text": "呒管是出名抑是袂出名",
+      "kind": "lyric"
+    },
+    {
+      "time": 99.25,
+      "text": "只要咱唱甲尚大声",
+      "kind": "lyric"
+    },
+    {
+      "time": 101.92,
+      "text": "天地拢嘛会知影",
+      "kind": "lyric"
+    },
+    {
+      "time": 105.19,
+      "text": "嘛会甲阮疼",
+      "kind": "lyric"
+    },
+    {
+      "time": 110.2,
+      "text": "啊～　啊～　啊～",
+      "kind": "lyric"
+    },
+    {
+      "time": 119.84,
+      "text": "阮欲唱歌",
+      "kind": "lyric"
+    },
+    {
+      "time": 125.81,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 128.0,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 136.0,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 137.03,
+      "text": "细汉甲爸爸妈妈殷咧学念歌",
+      "kind": "lyric"
+    },
+    {
+      "time": 144.22,
+      "text": "大汉去pub西餐厅表演乎人看",
+      "kind": "lyric"
+    },
+    {
+      "time": 150.91,
+      "text": "对日本时代的歌唱甲今嘛",
+      "kind": "lyric"
+    },
+    {
+      "time": 157.69,
+      "text": "对别人的歌唱甲自己的心声",
+      "kind": "lyric"
+    },
+    {
+      "time": 163.49,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 164.3,
+      "text": "啊不知经过外多风风雨雨的拖磨",
+      "kind": "lyric"
+    },
+    {
+      "time": 171.12,
+      "text": "啊不管别人安怎甲阮看",
+      "kind": "lyric"
+    },
+    {
+      "time": 174.68,
+      "text": "只要阮认真唱歌",
+      "kind": "lyric"
+    },
+    {
+      "time": 177.13,
+      "text": "伊就是阮的性命",
+      "kind": "lyric"
+    },
+    {
+      "time": 181.8,
+      "text": "啊～　啊～　啊～",
+      "kind": "lyric"
+    },
+    {
+      "time": 192.04,
+      "text": "阮欲唱甲尚大声",
+      "kind": "lyric"
+    },
+    {
+      "time": 195.3,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 196.0,
+      "text": "我欲来唱歌",
+      "kind": "lyric"
+    },
+    {
+      "time": 198.4,
+      "text": "虽然这条路是很歹行",
+      "kind": "lyric"
+    },
+    {
+      "time": 202.2,
+      "text": "只要咱唱甲尚大声",
+      "kind": "lyric"
+    },
+    {
+      "time": 204.8,
+      "text": "什么拢嘛呒免惊",
+      "kind": "lyric"
+    },
+    {
+      "time": 208.14,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 209.38,
+      "text": "我欲来唱歌",
+      "kind": "lyric"
+    },
+    {
+      "time": 212.02,
+      "text": "呒管是出名抑是袂出名",
+      "kind": "lyric"
+    },
+    {
+      "time": 215.98,
+      "text": "只要咱唱甲尚大声",
+      "kind": "lyric"
+    },
+    {
+      "time": 218.47,
+      "text": "天地拢嘛会知影",
+      "kind": "lyric"
+    },
+    {
+      "time": 221.94,
+      "text": "嘛会甲阮疼",
+      "kind": "lyric"
+    },
+    {
+      "time": 226.24,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 226.94,
+      "text": "虽然这个社会黑暗路歹行",
+      "kind": "lyric"
+    },
+    {
+      "time": 233.44,
+      "text": "但是阮会认真用 斟酌听",
+      "kind": "lyric"
+    },
+    {
+      "time": 240.27,
+      "text": "有你甲阮逗阵陪伴 永远袂孤单",
+      "kind": "lyric"
+    },
+    {
+      "time": 246.37,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 247.2,
+      "text": "我欲来唱歌",
+      "kind": "lyric"
+    },
+    {
+      "time": 249.83,
+      "text": "虽然这条路是很歹行",
+      "kind": "lyric"
+    },
+    {
+      "time": 253.72,
+      "text": "只要咱唱甲尚大声",
+      "kind": "lyric"
+    },
+    {
+      "time": 256.28,
+      "text": "什么拢嘛呒免惊",
+      "kind": "lyric"
+    },
+    {
+      "time": 259.2,
+      "text": "",
+      "kind": "gap"
+    },
+    {
+      "time": 260.83,
+      "text": "我欲来唱歌",
+      "kind": "lyric"
+    },
+    {
+      "time": 263.45,
+      "text": "呒管是出名抑是袂出名",
+      "kind": "lyric"
+    },
+    {
+      "time": 267.3,
+      "text": "只要咱唱甲尚大声",
+      "kind": "lyric"
+    },
+    {
+      "time": 269.92,
+      "text": "天地拢嘛会知影",
+      "kind": "lyric"
+    },
+    {
+      "time": 273.28,
+      "text": "嘛会甲阮疼",
+      "kind": "lyric"
+    },
+    {
+      "time": 278.2,
+      "text": "啊～　啊～　啊～",
+      "kind": "lyric"
+    },
+    {
+      "time": 287.81,
+      "text": "阮欲唱歌",
+      "kind": "lyric"
+    },
+    {
+      "time": 291.89,
+      "text": "啊～　啊～　啊～",
+      "kind": "lyric"
+    },
+    {
+      "time": 301.4,
+      "text": "唱歌乎恁听",
+      "kind": "lyric"
+    },
+    {
+      "time": 309.39,
+      "text": "",
+      "kind": "gap"
+    }
+  ]
+}

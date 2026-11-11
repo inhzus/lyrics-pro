@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": "1269013232",
+    "title": "纯情贺尔蒙",
+    "artists": [
+      "草屯囝仔"
+    ],
+    "album": "囝仔",
+    "duration": 204.255,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1269013232",
+      "duration": 204.255,
+      "ready": false,
+      "coverage": 0.84,
+      "exact_fraction": 0.8,
+      "summary": {
+        "exact": 16,
+        "approximate": 2,
+        "unresolved": 8,
+        "repeat": 24
+      }
+    }
+  ]
+}

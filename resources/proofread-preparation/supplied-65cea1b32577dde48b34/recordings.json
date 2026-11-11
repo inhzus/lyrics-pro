@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": 36393588,
+      "title": "憨阿嬤",
+      "artists": [
+        "Jody Chiang"
+      ],
+      "album": "甲你攬牢牢 - Hold You Tightly",
+      "duration": 269.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 34450852,
+      "title": "憨阿嬤",
+      "artists": [
+        "Jody Chiang"
+      ],
+      "album": "甲你攬牢牢",
+      "duration": 269.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

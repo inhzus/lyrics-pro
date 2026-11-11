@@ -1,0 +1,167 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "油頭結面 印堂發黑 為何這麼失志",
+      "spelling": "iû thâu kat biān ìn-tông huán-oo uī-hô tsiah sit-tsì",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "若是遇到什麼困難我們會陪你",
+      "spelling": "nā-sī tú-tio̍h siánn-mih khùn-lân gún ē puê lí",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "生活之中難免會有一些不如意",
+      "spelling": "sing-ua̍h tsi-tiong lân-bián ē ū tsi̍t kuá put-lû-ì",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "雖然度爛 總有一天 都會過去",
+      "spelling": "sui-liân dù làn tsóng ū tsi̍t kang lóng ē kuè-khì",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "把握眼前的青春 不要空枉費",
+      "spelling": "pá-ak gán-tsiân ê tshing-tshun m̄-thang khàng óng-huì",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "朋友兄弟一條心 共渡歹時機",
+      "spelling": "pîng-iú hiann-tī tsi̍t tiâu sim kiōng tōo pháinn sî-ki",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "沒人會知一生之中青春有多少",
+      "spelling": "bô-lâng tsai-iánn it-sing tsi-tiong tshing-tshun ū guā-tsē",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "怎能眼睜睜的看他隨風過",
+      "spelling": "kám thang ba̍k-tsiu tènn tènn khuànn i suî-hong kuè",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "別在龜龜毛毛",
+      "spelling": "mài goh ku ku mn̂g mn̂g",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "盡說一些沒路用的廢話",
+      "spelling": "theh kóng tsi̍t kuá bô-lōo iōng ê huì-uē",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "這些話你要放在心底",
+      "spelling": "tsia uē lí ài khǹg sim té",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "沒人會知一生之中青春有多少",
+      "spelling": "bô-lâng tsai-iánn it-sing tsi-tiong tshing-tshun ū guā-tsē",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "怎能眼睜睜的看他隨風過",
+      "spelling": "kám thang ba̍k-tsiu tènn tènn khuànn i suî-hong kuè",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "別在龜龜毛毛",
+      "spelling": "mài goh ku ku mn̂g mn̂g theh kóng tsi̍t kuá bô-lōo iōng ê huì-uē",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "盡說一些沒路用的廢話",
+      "spelling": "theh kóng tsi̍t kuá bô-lōo iōng ê huì-uē",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "這些話你要放在心底",
+      "spelling": "tsia uē lí ài khǹg sim té",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "這些話你要放在心底",
+      "spelling": "tsia uē lí ài khǹg sim té",
+      "source_lines": [
+        51,
+        52
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：楊大正   作曲：楊大正 編曲滅火器  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

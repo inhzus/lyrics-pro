@@ -1,0 +1,336 @@
+{
+  "recording_id": "netease:386860",
+  "source": "NetEase https://music.163.com/song?id=386860",
+  "lines": [
+    {
+      "time": 0,
+      "text": "作词 : 五月天 阿信",
+      "kind": "credit"
+    },
+    {
+      "time": 0.27,
+      "text": "作曲 : 五月天 阿信",
+      "kind": "credit"
+    },
+    {
+      "time": 0.54,
+      "text": "编曲 : 五月天",
+      "kind": "credit"
+    },
+    {
+      "time": 0.81,
+      "text": "親愛的你甘放未記",
+      "kind": "lyric"
+    },
+    {
+      "time": 3.71,
+      "text": "彼個有你的暗眠",
+      "kind": "lyric"
+    },
+    {
+      "time": 7.259,
+      "text": "雨聲撞不停",
+      "kind": "lyric"
+    },
+    {
+      "time": 13.643,
+      "text": "你親像溫柔的海浪",
+      "kind": "lyric"
+    },
+    {
+      "time": 16.71,
+      "text": "棉被下跤的代志",
+      "kind": "lyric"
+    },
+    {
+      "time": 20.276,
+      "text": "已經不再可能",
+      "kind": "lyric"
+    },
+    {
+      "time": 29.91,
+      "text": "天頂是小雨落不停",
+      "kind": "lyric"
+    },
+    {
+      "time": 32.909,
+      "text": "海底是目屎落未漧",
+      "kind": "lyric"
+    },
+    {
+      "time": 36.476,
+      "text": "我是雲一朵",
+      "kind": "lyric"
+    },
+    {
+      "time": 42.934,
+      "text": "命運將你我逗作陣",
+      "kind": "lyric"
+    },
+    {
+      "time": 45.792,
+      "text": "享受到愛人的甜蜜",
+      "kind": "lyric"
+    },
+    {
+      "time": 49.559,
+      "text": "再將你甲我拆分開",
+      "kind": "lyric"
+    },
+    {
+      "time": 59.241,
+      "text": "親愛的",
+      "kind": "lyric"
+    },
+    {
+      "time": 60.041,
+      "text": "親愛的",
+      "kind": "lyric"
+    },
+    {
+      "time": 60.841,
+      "text": "你所講過的話",
+      "kind": "lyric"
+    },
+    {
+      "time": 62.558,
+      "text": "哪會到今仔日",
+      "kind": "lyric"
+    },
+    {
+      "time": 64.024,
+      "text": "攏總無地找",
+      "kind": "lyric"
+    },
+    {
+      "time": 65.642,
+      "text": "人生太無知",
+      "kind": "lyric"
+    },
+    {
+      "time": 68.875,
+      "text": "愛情是什麼",
+      "kind": "lyric"
+    },
+    {
+      "time": 72.408,
+      "text": "永遠太空虛",
+      "kind": "lyric"
+    },
+    {
+      "time": 74.475,
+      "text": "无人担当会起",
+      "kind": "lyric"
+    },
+    {
+      "time": 78.541,
+      "text": "將你的",
+      "kind": "lyric"
+    },
+    {
+      "time": 79.459,
+      "text": "將我的",
+      "kind": "lyric"
+    },
+    {
+      "time": 80.207,
+      "text": "昨日說過的話",
+      "kind": "lyric"
+    },
+    {
+      "time": 81.792,
+      "text": "放水流",
+      "kind": "lyric"
+    },
+    {
+      "time": 82.701,
+      "text": "受風吹",
+      "kind": "lyric"
+    },
+    {
+      "time": 83.943,
+      "text": "葬入海底",
+      "kind": "lyric"
+    },
+    {
+      "time": 85.058,
+      "text": "將你放未記",
+      "kind": "lyric"
+    },
+    {
+      "time": 88.274,
+      "text": "永遠麥想起",
+      "kind": "lyric"
+    },
+    {
+      "time": 91.674,
+      "text": "你是彼粒星",
+      "kind": "lyric"
+    },
+    {
+      "time": 94.008,
+      "text": "飛過我的天頂",
+      "kind": "lyric"
+    },
+    {
+      "time": 101.317,
+      "text": "親愛的你甘放未記",
+      "kind": "lyric"
+    },
+    {
+      "time": 104.218,
+      "text": "彼個有你的暗眠",
+      "kind": "lyric"
+    },
+    {
+      "time": 107.901,
+      "text": "雨聲撞不停",
+      "kind": "lyric"
+    },
+    {
+      "time": 114.136,
+      "text": "你親像溫柔的海浪",
+      "kind": "lyric"
+    },
+    {
+      "time": 117.217,
+      "text": "棉被下跤的代志",
+      "kind": "lyric"
+    },
+    {
+      "time": 120.768,
+      "text": "已經不再可能",
+      "kind": "lyric"
+    },
+    {
+      "time": 130.542,
+      "text": "天頂是小雨落不停",
+      "kind": "lyric"
+    },
+    {
+      "time": 133.458,
+      "text": "海底是目屎落未漧",
+      "kind": "lyric"
+    },
+    {
+      "time": 136.959,
+      "text": "我是雲一朵",
+      "kind": "lyric"
+    },
+    {
+      "time": 143.625,
+      "text": "命運將你我逗作陣",
+      "kind": "lyric"
+    },
+    {
+      "time": 146.408,
+      "text": "享受到愛人的甜蜜",
+      "kind": "lyric"
+    },
+    {
+      "time": 149.991,
+      "text": "再將你甲我拆分開",
+      "kind": "lyric"
+    },
+    {
+      "time": 169.798,
+      "text": "親愛的",
+      "kind": "lyric"
+    },
+    {
+      "time": 170.381,
+      "text": "親愛的",
+      "kind": "lyric"
+    },
+    {
+      "time": 171.148,
+      "text": "你所講過的話",
+      "kind": "lyric"
+    },
+    {
+      "time": 172.698,
+      "text": "哪會到今仔日",
+      "kind": "lyric"
+    },
+    {
+      "time": 174.398,
+      "text": "攏總無地找",
+      "kind": "lyric"
+    },
+    {
+      "time": 175.931,
+      "text": "人生太無知",
+      "kind": "lyric"
+    },
+    {
+      "time": 179.097,
+      "text": "愛情是什麼",
+      "kind": "lyric"
+    },
+    {
+      "time": 182.431,
+      "text": "永遠太空虛",
+      "kind": "lyric"
+    },
+    {
+      "time": 184.816,
+      "text": "无人担当会起",
+      "kind": "lyric"
+    },
+    {
+      "time": 188.998,
+      "text": "將你的",
+      "kind": "lyric"
+    },
+    {
+      "time": 189.681,
+      "text": "將我的",
+      "kind": "lyric"
+    },
+    {
+      "time": 190.565,
+      "text": "昨日說過的話",
+      "kind": "lyric"
+    },
+    {
+      "time": 192.047,
+      "text": "放水流",
+      "kind": "lyric"
+    },
+    {
+      "time": 192.831,
+      "text": "受風吹",
+      "kind": "lyric"
+    },
+    {
+      "time": 194.197,
+      "text": "葬入海底",
+      "kind": "lyric"
+    },
+    {
+      "time": 195.497,
+      "text": "將你放未記",
+      "kind": "lyric"
+    },
+    {
+      "time": 198.664,
+      "text": "永遠麥想起",
+      "kind": "lyric"
+    },
+    {
+      "time": 201.898,
+      "text": "你是彼粒星",
+      "kind": "lyric"
+    },
+    {
+      "time": 204.331,
+      "text": "飛過我的天頂",
+      "kind": "lyric"
+    },
+    {
+      "time": 210.73,
+      "text": "又擱是落雨的暗眠",
+      "kind": "lyric"
+    }
+  ]
+}

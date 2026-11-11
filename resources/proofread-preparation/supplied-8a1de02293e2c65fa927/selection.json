@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 28661104,
+    "title": "爱河",
+    "artists": [
+      "陈建玮"
+    ],
+    "album": "30出头",
+    "duration": 238.906,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:28661104",
+      "duration": 238.906,
+      "ready": false,
+      "coverage": 0.34615384615384615,
+      "exact_fraction": 0.3076923076923077,
+      "summary": {
+        "credit": 2,
+        "unresolved": 17,
+        "gap": 6,
+        "exact": 8,
+        "approximate": 1
+      }
+    }
+  ]
+}

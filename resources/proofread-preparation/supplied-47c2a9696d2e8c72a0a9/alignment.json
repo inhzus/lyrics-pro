@@ -1,0 +1,261 @@
+{
+  "recording_id": "lrclib:16907359",
+  "timing_source": "LRCLIB https://lrclib.net/api/get/16907359",
+  "manual_source": "User-supplied resources/lyrics-spelling/為什麼 (今日的愛情)-五月天",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "unresolved": 6,
+    "exact": 4,
+    "approximate": 5,
+    "gap": 1
+  },
+  "review_row_count": 15,
+  "unmatched_manual_ids": [
+    "line-4:0",
+    "line-13:0",
+    "line-37:0",
+    "line-40:0"
+  ],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-10:0",
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 6.15,
+      "online_text": "為什麼 為什麼 為什麼 為什麼又擱是我傷心",
+      "match_text": "為什麼 為什麼 為什麼 為什麼又擱是我傷心",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 13.36,
+      "online_text": "手牽著手的熱天 凍未到風吹的寒天",
+      "match_text": "手牽著手的熱天 凍未到風吹的寒天",
+      "text": "手牽著手的熱天 凍未到風吹的寒天",
+      "spelling": "tshiú khan-tio̍h tshiú ê jua̍h-thinn  tàng buē kàu hong-tshue ê kuânn-thinn",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 18.14,
+      "online_text": "為什麼 為什麼 為什麼 為什麼惦在這個都市",
+      "match_text": "為什麼 為什麼 為什麼 為什麼惦在這個都市",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 23.38,
+      "online_text": "應該是歡喜的代誌 那會每一遍攏眼淚滴",
+      "match_text": "應該是歡喜的代誌 那會每一遍攏眼淚滴",
+      "text": "應該是歡喜的代誌 那會每一遍攏眼屎滴",
+      "spelling": "ing-kai sī huann-hí ê tāi-tsì  ná-ē muí tsi̍t pái lóng ba̍k-sái tih",
+      "manual_id": "line-16:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.941176
+    },
+    {
+      "source_row": 4,
+      "time": 29.05,
+      "online_text": "真正我不甘願 也不相信 今日的愛情",
+      "match_text": "真正我不甘願 也不相信 今日的愛情",
+      "text": "真正我不甘願 嘛不相信 今日的愛情",
+      "spelling": "tsin-tsiànn guá m̄-kam-guān  mah m̄-siong-sìn  kin-á-ji̍t ê ài-tsîng",
+      "manual_id": "line-19:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.933333
+    },
+    {
+      "source_row": 5,
+      "time": 35.99,
+      "online_text": "為什麼 一聲來 一聲去 一聲放未記",
+      "match_text": "為什麼 一聲來 一聲去 一聲放未記",
+      "text": "為什麼 一聲來 一聲去 一聲放未記",
+      "spelling": "uī-siánn-mi̍h tsi̍t siann lâi tsi̍t siann khì tsi̍t siann pàng bē kì",
+      "manual_id": "line-22:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 41.33,
+      "online_text": "為什麼昨日的愛情 聽人講框金又包銀",
+      "match_text": "為什麼昨日的愛情 聽人講框金又包銀",
+      "text": "為什麼昨日的愛情 聽人講框金又包銀",
+      "spelling": "uī-siánn-mi̍h tso̍h-ji̍t ê ài-tsîng  thiann lâng kóng khong kim koh pau gûn",
+      "manual_id": "line-25:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 47.65,
+      "online_text": "為什麼今日的這件代誌 親像在吃泡麵",
+      "match_text": "為什麼今日的這件代誌 親像在吃泡麵",
+      "text": "為什麼今日這件代誌 親像在吃泡麵",
+      "spelling": "uī-siánn-mi̍h kin-á na li̍t tsit kiānn tāi-tsì  tshin-tshiūnn tī tsia̍h phàu-mī",
+      "manual_id": "line-28:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.967742
+    },
+    {
+      "source_row": 8,
+      "time": 53.18,
+      "online_text": "為什麼變甲這呢生 最憨是春嬌和志明",
+      "match_text": "為什麼變甲這呢生 最憨是春嬌和志明",
+      "text": "為什麼變甲這呢生 最憨是春嬌甲志明",
+      "spelling": "uī-siánn-mi̍h pènn-kah an-neh sinn  siōng gōng sī tshun kiau kah tsì miâ",
+      "manual_id": "line-31:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.9375
+    },
+    {
+      "source_row": 9,
+      "time": 58.66,
+      "online_text": "真心藏在心裡面 愛情我真正真正玩不起",
+      "match_text": "真心藏在心裡面 愛情我真正真正玩不起",
+      "text": "真心藏在心內避 愛情我真正真正玩不起",
+      "spelling": "tsin-sim tshàng tsāi sim-lāi pī  ài-tsîng guá tsin-tsiànn tsin-tsiànn sńg buē khí",
+      "manual_id": "line-34:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.882353
+    },
+    {
+      "source_row": 10,
+      "time": 64.04,
+      "online_text": "真正我放不下 也玩不起 今日的愛情",
+      "match_text": "真正我放不下 也玩不起 今日的愛情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-40:0"
+    },
+    {
+      "source_row": 11,
+      "time": 70.93,
+      "online_text": "無睬我這愛你 這愛你 這這這愛你",
+      "match_text": "無睬我這愛你 這愛你 這這這愛你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-40:0"
+    },
+    {
+      "source_row": 12,
+      "time": 78.69,
+      "online_text": "耶欸欸欸 嗚嗚嗚嗚",
+      "match_text": "耶欸欸欸 嗚嗚嗚嗚",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 87.25,
+      "online_text": "為什麼...",
+      "match_text": "為什麼...",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 100.85,
+      "online_text": "啦啦啦...",
+      "match_text": "啦啦啦...",
+      "text": "啦…啦…啦…",
+      "spelling": "là…là…là…",
+      "manual_id": "line-55:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 116.57,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "4ac78bc772f3c66f64d10c98786162cb0ea1376870d7e8c963ca20574bdfb6f3",
+    "manual": "c069cceffb3145241c7926cb99af1faf6b59609a675c4956a9d1d7c7df730c7f",
+    "timed": "682e0ee1e2207c9620c31f660073fcd246d1d559748343fc0e87d10ca85d6cfb"
+  }
+}

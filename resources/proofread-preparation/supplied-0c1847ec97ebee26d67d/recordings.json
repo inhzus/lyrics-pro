@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": "956393715",
+      "title": "伊",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "也兽",
+      "duration": 217.84,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

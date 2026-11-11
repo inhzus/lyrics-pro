@@ -1,0 +1,312 @@
+{
+  "recording_id": "netease:168373",
+  "source": "User-supplied resources/lyrics-spelling/唱歌乎恁聽-蕭煌奇",
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "對我會曉彈吉他到今嘛",
+      "spelling": "tuì guá ē-hiáu tuânn gì-tà kàu tsit-má",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "唱歌來乎人聽　嘛欲歸十年啦",
+      "spelling": "tshiùnn-kua lâi hōo lâng thiann mā beh kui tsa̍p nî là",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "對什麼攏無的囝仔　變成一個受盡風霜的大人",
+      "spelling": "tuì siánn-mih lóng bô ê kín-á piàn-sîng tsi̍t ê siū tsīn hong sng ê tuā-lâng",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "置咧舞台頂表演乎人看　接受恁的撲仔聲",
+      "spelling": "tì leh bú-tâi tíng piáu-ián hōo lâng khuànn tsiap-siū lin ê hop á siann",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "啊不知經過外多風風雨雨的生活",
+      "spelling": "ah m̄ tsai king-kuè guā tsuē hong-hong-ú-ú ê sing-ua̍h",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "啊不管別人安怎甲阮看",
+      "spelling": "ah m̄ kuán pa̍t-lâng an-tsuánn kā gún khuànn",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "只要阮會當唱歌　伊就是阮的性命",
+      "spelling": "tsí-iàu gún ē-tàng tshiùnn-kua i tio̍h-sī gún ê sìnn-miā",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "啊～　啊～　啊～　阮欲唱甲尚大聲",
+      "spelling": "ah～ ah～ ah～ gún beh tshiùnn kā siōng tuā-siann",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "我欲來唱歌　雖然這條路是很歹行",
+      "spelling": "guá beh lâi tshiùnn-kua sui-liân tsit-tiâu-lōo sī tsin pháinn-kiânn",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "只要咱唱甲尚大聲　什麼攏嘛嘸免驚　喔～",
+      "spelling": "tsí-iàu lán tshiùnn kā siōng tuā-siann siánn-mih lóng mā m̄-bián kiann ooh",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "我欲來唱歌　嘸管是出名抑是袂出名",
+      "spelling": "guá beh lâi tshiùnn-kua m̄ kuán sī tshut-miâ ia̍h-sī buē tshut-miâ",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "只要咱唱甲尚大聲　天地攏嘛會知影　嘛會甲阮疼",
+      "spelling": "tsí-iàu lán tshiùnn kā siōng tuā-siann thinn-tē lóng mā ē tsai-iánn mā ē kā gún thiànn",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "啊～　啊～　啊～　阮欲唱歌",
+      "spelling": "ah～ ah～ ah～ gún beh tshiùnn kua",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "細漢甲爸爸媽媽殷咧學唸歌",
+      "spelling": "sè-hàn kā pā-pā-má-mah in leh o̍h liām kua",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "大漢去 pub 西餐廳表演乎人看",
+      "spelling": "tuā-hàn khì pub se tshan-thiann piáu-ián hōo lâng khuànn",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "對日本時代的歌唱甲今嘛",
+      "spelling": "tuì li̍t-pún sî-tāi ê kua tshiùnn kā tsit-má",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "對唱別人的歌唱甲自己的心聲",
+      "spelling": "tuì tshiùnn pa̍t-lâng ê kua tshiùnn kā ka-kī ê sim-siann",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "啊不知經過外多風風雨雨的拖磨",
+      "spelling": "ah m̄ tsai king-kuè guā tsuē hong-hong-ú-ú ê thua-buà",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "啊不管別人安怎甲阮看",
+      "spelling": "ah m̄ kuán pa̍t-lâng an-tsuánn kā gún khuànn",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "只要阮認真唱歌　伊就是阮的性命",
+      "spelling": "tsí-iàu gún līn-tsin tshiùnn-kua i tio̍h-sī gún ê sìnn-miā",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "啊～　啊～　啊～　阮欲唱甲尚大聲",
+      "spelling": "ah～ ah～ ah～ gún beh tshiùnn kā siōng tuā-siann",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "我欲來唱歌　雖然這條路是很歹行",
+      "spelling": "guá beh lâi tshiùnn-kua sui-liân tsit-tiâu-lōo sī tsin pháinn-kiânn",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "只要咱唱甲尚大聲　什麼攏嘛嘸免驚　喔～",
+      "spelling": "tsí-iàu lán tshiùnn kā siōng tuā-siann siánn-mih lóng mā m̄-bián kiann ooh",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "我欲來唱歌　嘸管是出名抑是袂出名",
+      "spelling": "guá beh lâi tshiùnn-kua m̄ kuán sī tshut-miâ ia̍h-sī buē tshut-miâ",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "只要咱唱甲尚大聲　天地攏嘛會知影　嘛會甲阮疼",
+      "spelling": "tsí-iàu lán tshiùnn kā siōng tuā-siann thinn-tē lóng mā ē tsai-iánn mā ē kā gún thiànn",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "雖然這個社會黑暗路歹行",
+      "spelling": "sui-liân tsit-ê siā-huē oo-àm lōo pháinn-kiânn",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "但是阮會認真用心　斟酌聽",
+      "spelling": "tān-sī gún ē līn-tsin iōng-sim tsim-tsiok thiann",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "有你甲阮逗陣陪伴　永遠袂孤單",
+      "spelling": "ū lí kā gún tàu-tīn puê-phuānn íng-uán buē koo-tuann",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "我欲來唱歌　雖然這條路是很歹行",
+      "spelling": "guá beh lâi tshiùnn-kua sui-liân tsit-tiâu-lōo sī tsin pháinn-kiânn",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "只要咱唱甲尚大聲　什麼攏嘛嘸免驚　喔～",
+      "spelling": "tsí-iàu lán tshiùnn kā siōng tuā-siann siánn-mih lóng mā m̄-bián kiann ooh",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "我欲來唱歌　嘸管是出名抑是袂出名",
+      "spelling": "guá beh lâi tshiùnn-kua m̄ kuán sī tshut-miâ ia̍h-sī buē tshut-miâ",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "只要咱唱甲尚大聲　天地攏嘛會知影　嘛會甲阮疼",
+      "spelling": "tsí-iàu lán tshiùnn kā siōng tuā-siann thinn-tē lóng mā ē tsai-iánn mā ē kā gún thiànn",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "啊～　啊～　啊～　阮欲唱甲尚大聲",
+      "spelling": "ah～ ah～ ah～ gún beh tshiùnn kā siōng tuā-siann",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "啊～　啊～　啊～　唱歌乎恁聽",
+      "spelling": "ah～ ah～ ah～ tshiùnn kua hōo lín thiann",
+      "source_lines": [
+        102,
+        103
+      ]
+    }
+  ]
+}

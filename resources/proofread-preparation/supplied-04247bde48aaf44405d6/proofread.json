@@ -1,0 +1,195 @@
+{
+  "recording_id": "netease:156664",
+  "source": "User-supplied resources/lyrics-spelling/斷腸詩-伍佰",
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "春夏交接的當時                                     蟬聲哀啼響上天",
+      "spelling": "tshun-hā kau-tsiap ê tong-sî             siân siann ai thî hiáng tsiūnn-thinn",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "春夏交接的當時",
+          "spelling": "tshun-hā kau-tsiap ê tong-sî"
+        },
+        {
+          "text": "蟬聲哀啼響上天",
+          "spelling": "siân siann ai thî hiáng tsiūnn-thinn"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "蝴蝶折翅落大水                                         路邊有斷頭的蜻蜓",
+      "spelling": "ôo-tia̍p tsiat si̍t lo̍h tuā-tsuí                   lōo-pinn ū tn̄g-thâu ê tshân-inn",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "蝴蝶折翅落大水",
+          "spelling": "ôo-tia̍p tsiat si̍t lo̍h tuā-tsuí"
+        },
+        {
+          "text": "路邊有斷頭的蜻蜓",
+          "spelling": "lōo-pinn ū tn̄g-thâu ê tshân-inn"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "下埔雷雨落滿墘                                        日頭猶原光晴晴",
+      "spelling": "hē poo luî hōo lōo muá kînn                ji̍t-thâu iáu guân kng tsînn tsînn",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "下埔雷雨落滿墘",
+          "spelling": "hē poo luî hōo lōo muá kînn"
+        },
+        {
+          "text": "日頭猶原光晴晴",
+          "spelling": "ji̍t-thâu iáu guân kng tsînn tsînn"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "照著南國的都市                                        照著流浪的男兒",
+      "spelling": "tsiò tio̍h lâm kok ê too-tshī                   tsiò tio̍h liû-lōng ê lâm-jî",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "照著南國的都市",
+          "spelling": "tsiò tio̍h lâm kok ê too-tshī"
+        },
+        {
+          "text": "照著流浪的男兒",
+          "spelling": "tsiò tio̍h liû-lōng ê lâm-jî"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "青春青春渡時機                                        孤船有岸等何時",
+      "spelling": "tshing-tshun tshing-tshun tōo sî-ki    koo tsûn ū huānn tán hô-sî",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "青春青春渡時機",
+          "spelling": "tshing-tshun tshing-tshun tōo sî-ki"
+        },
+        {
+          "text": "孤船有岸等何時",
+          "spelling": "koo tsûn ū huānn tán hô-sî"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "風雨停了愈空虛                                        茫茫人生佗位去",
+      "spelling": "hong-hōo thîng liáu lú khang-hi         bâng-bâng lîn-sing tó-uī khì",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "風雨停了愈空虛",
+          "spelling": "hong-hōo thîng liáu lú khang-hi"
+        },
+        {
+          "text": "茫茫人生佗位去",
+          "spelling": "bâng-bâng lîn-sing tó-uī khì"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "青春青春渡時機                                        孤船有岸等何時",
+      "spelling": "tshing-tshun tshing-tshun tōo sî-ki     koo tsûn ū huānn tán hô-sî",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "青春青春渡時機",
+          "spelling": "tshing-tshun tshing-tshun tōo sî-ki"
+        },
+        {
+          "text": "孤船有岸等何時",
+          "spelling": "koo tsûn ū huānn tán hô-sî"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "想到心內小哀悲                                        一種澀澀的滋味",
+      "spelling": "siūnn tio̍h sim-lāi sió ai pi                    tsi̍t tsióng siap siap ê tsu-bī",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "想到心內小哀悲",
+          "spelling": "siūnn tio̍h sim-lāi sió ai pi"
+        },
+        {
+          "text": "一種澀澀的滋味",
+          "spelling": "tsi̍t tsióng siap siap ê tsu-bī"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "東邊吹來雲一朵                                        催阮不通歇過時",
+      "spelling": "tang-pîng tshue lâi hûn tsi̍t luí            tshui gún bô-thang hioh kuè-sî",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "東邊吹來雲一朵",
+          "spelling": "tang-pîng tshue lâi hûn tsi̍t luí"
+        },
+        {
+          "text": "催阮不通歇過時",
+          "spelling": "tshui gún bô-thang hioh kuè-sî"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "啊啊～～啊啊～～心稀微",
+      "spelling": "ah ah ~ ~ ah ah ~ ~ sim hi bî",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-32",
+      "text": "啊啊～～啊啊～～斷腸詩",
+      "spelling": "ah ah ~ ~ ah ah ~ ~ tuān-tiông si",
+      "source_lines": [
+        32,
+        33
+      ]
+    }
+  ]
+}

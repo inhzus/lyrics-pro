@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 386177,
+      "title": "垃圾车",
+      "artists": [
+        "五月天"
+      ],
+      "album": "神的孩子都在跳舞",
+      "duration": 256.97,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

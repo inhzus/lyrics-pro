@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": 157171,
+      "title": "断肠诗",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "树枝孤鸟",
+      "duration": 215.706,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 156664,
+      "title": "断肠诗",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "爱你伍佰年",
+      "duration": 215.706,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

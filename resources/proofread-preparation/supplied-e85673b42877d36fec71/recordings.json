@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 13889474,
+      "title": "台北哪會攏嘸人",
+      "artists": [
+        "陳建瑋"
+      ],
+      "album": "三十出頭",
+      "duration": 257.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,390 @@
+{
+  "candidates": [
+    {
+      "song_id": 2055560174,
+      "title": "有一天",
+      "artists": [
+        "严曲东"
+      ],
+      "album": "洪流中的音乐花园",
+      "duration": 268.12,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2055560174,
+      "title": "有一天",
+      "artists": [
+        "严曲东"
+      ],
+      "album": "洪流中的音乐花园",
+      "duration": 268.12,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 185634,
+      "title": "有一天",
+      "artists": [
+        "张震岳"
+      ],
+      "album": "我想要的感觉",
+      "duration": 272.425,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 483910114,
+      "title": "有一天",
+      "artists": [
+        "兔子ST"
+      ],
+      "album": "有一天",
+      "duration": 212.845,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 185654,
+      "title": "有一天",
+      "artists": [
+        "张震岳"
+      ],
+      "album": "两手空空",
+      "duration": 272.425,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2021887247,
+      "title": "有一天",
+      "artists": [
+        "祝赞"
+      ],
+      "album": "爱的经典11",
+      "duration": 352.515,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1857805410,
+      "title": "有一天",
+      "artists": [
+        "杜鹃"
+      ],
+      "album": "建党百年献礼",
+      "duration": 237.139,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 247511,
+      "title": "有一天",
+      "artists": [
+        "江美琪"
+      ],
+      "album": "恋人心中有一首诗",
+      "duration": 225.133,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1679024346",
+      "title": "有一天",
+      "artists": [
+        "饶天亮"
+      ],
+      "album": "有一天 - Single",
+      "duration": 200.739,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "639561568",
+      "title": "有一天",
+      "artists": [
+        "饶天亮"
+      ],
+      "album": "饶式情歌 - EP",
+      "duration": 200.7,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1708199238",
+      "title": "有一天",
+      "artists": [
+        "羽姗"
+      ],
+      "album": "有一天 - Single",
+      "duration": 204.8,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "589275453",
+      "title": "有一天",
+      "artists": [
+        "钟嘉欣"
+      ],
+      "album": "锺嘉欣私歌集 My Private Selection (新曲+精选)",
+      "duration": 187.76,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "588145607",
+      "title": "有一天",
+      "artists": [
+        "钟嘉欣"
+      ],
+      "album": "My Love Story (Happy Ending Edition)",
+      "duration": 188.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "908243215",
+      "title": "有一天",
+      "artists": [
+        "江美琪"
+      ],
+      "album": "恋人心中有一首诗",
+      "duration": 225.133,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1528462847",
+      "title": "有一天",
+      "artists": [
+        "苏慧伦"
+      ],
+      "album": "30周年精选辑: 生命之花 Flower of Life",
+      "duration": 240.6,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1651398074",
+      "title": "有一天",
+      "artists": [
+        "随性乐团"
+      ],
+      "album": "中年病",
+      "duration": 223.001,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29607557,
+      "title": "有一天",
+      "artists": [
+        "張震嶽"
+      ],
+      "album": "兩手空空",
+      "duration": 272.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 32597463,
+      "title": "有一天",
+      "artists": [
+        "蘇慧倫"
+      ],
+      "album": "生命之花Flower of Life",
+      "duration": 241.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18047887,
+      "title": "有一天",
+      "artists": [
+        "Chung, Linda"
+      ],
+      "album": "My Love Story",
+      "duration": 188.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17465047,
+      "title": "有一天",
+      "artists": [
+        "张震岳"
+      ],
+      "album": "两手空空",
+      "duration": 272.416508,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 18390669,
+      "title": "有一天",
+      "artists": [
+        "鍾嘉欣"
+      ],
+      "album": "My Love Story",
+      "duration": 188.05551,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 25119428,
+      "title": "有一天",
+      "artists": [
+        "苏慧伦"
+      ],
+      "album": "生命之花 - 30周年精选辑cd1",
+      "duration": 240.6,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 24246244,
+      "title": "有一天",
+      "artists": [
+        "苏慧伦"
+      ],
+      "album": "生命之花 - 30周年精选辑",
+      "duration": 240.64,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 24140898,
+      "title": "有一天",
+      "artists": [
+        "张震岳"
+      ],
+      "album": "我想要的感觉",
+      "duration": 270.524082,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 23442332,
+      "title": "有一天",
+      "artists": [
+        "[51ape.com]张震岳"
+      ],
+      "album": "两手空空",
+      "duration": 272.41285,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 33680670,
+      "title": "有一天",
+      "artists": [
+        "鍾嘉欣"
+      ],
+      "album": "My Love Story (Happy Ending Edition)",
+      "duration": 188.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 36231661,
+      "title": "有一天",
+      "artists": [
+        "钟嘉欣"
+      ],
+      "album": "钟嘉欣私歌集 My Private Selection",
+      "duration": 188.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 36231668,
+      "title": "有一天",
+      "artists": [
+        "钟嘉欣"
+      ],
+      "album": "My Love Story（Happy Ending Edition）",
+      "duration": 188.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 36396847,
+      "title": "有一天",
+      "artists": [
+        "DSPS"
+      ],
+      "album": "yolk on rice",
+      "duration": 291.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29032255,
+      "title": "有一天",
+      "artists": [
+        "張震嶽"
+      ],
+      "album": "我想要的感觉",
+      "duration": 272.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29052513,
+      "title": "有一天",
+      "artists": [
+        "鍾嘉欣"
+      ],
+      "album": "My Private Selection 新曲+精選",
+      "duration": 188.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 27135049,
+      "title": "有一天",
+      "artists": [
+        "張震嶽"
+      ],
+      "album": "我想要的感覺",
+      "duration": 271.992,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 27334437,
+      "title": "有一天",
+      "artists": [
+        "張震嶽"
+      ],
+      "album": "Disc 2",
+      "duration": 274.426667,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 39207820,
+      "title": "有一天",
+      "artists": [
+        "鍾嘉欣"
+      ],
+      "album": "鍾嘉欣私歌集 My Private Selection – 新曲+精選",
+      "duration": 188.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 38189328,
+      "title": "有一天",
+      "artists": [
+        "張震嶽"
+      ],
+      "album": "两手空空 - EP",
+      "duration": 272.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

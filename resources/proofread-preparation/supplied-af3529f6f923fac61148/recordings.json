@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 526468653,
+      "title": "一只鸡",
+      "artists": [
+        "美秀集团"
+      ],
+      "album": "Sound Check",
+      "duration": 318.648,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

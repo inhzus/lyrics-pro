@@ -1,0 +1,275 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "走出這個門我要來返返去我的故鄉　我的家門",
+      "spelling": "kiânn-tshut tsit-ê mn̂g guá lâi tńg tńg khì guá ê kòo-hiong guá ê ka-mn̂g",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "走出這個門我要來返",
+          "spelling": "kiânn-tshut tsit-ê mn̂g guá lâi tńg"
+        },
+        {
+          "text": "返去我的故鄉　我的家門",
+          "spelling": "tńg khì guá ê kòo-hiong guá ê ka-mn̂g"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "想到父母我的腳就軟",
+      "spelling": "siūnn tio̍h pē-bú guá ê kha tsiū nńg",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "想到父母我的腳就軟",
+          "spelling": "siūnn tio̍h pē-bú guá ê kha tsiū nńg"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "日頭曬甲目睭張不開                                                我的心裡今嘛才做準備",
+      "spelling": "ji̍t-thâu pha̍k kah ba̍k-tsiu khi buē khui           guá ê sim-lí jīn mah tsâi tsò tsún-pī",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "日頭曬甲目睭張不開",
+          "spelling": "ji̍t-thâu pha̍k kah ba̍k-tsiu khi buē khui"
+        },
+        {
+          "text": "我的心裡今嘛才做準備",
+          "spelling": "guá ê sim-lí jīn mah tsâi tsò tsún-pī"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "路上景緻我隴無心通留戀",
+      "spelling": "lōo-siōng kíng-tì guá lóng bô-sim thang liû-luân",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "路上景緻我隴無心通留戀",
+          "spelling": "lōo-siōng kíng-tì guá lóng bô-sim thang liû-luân"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "咱來借問路邊的歐吉桑                                            這條路和較早哪隴無同",
+      "spelling": "lán lâi tshiánn-mn̄g lōo-pinn ê oo-jí-sáng         tsit tiâu-lōo kāng khah-tsá ná lóng bô  kāng",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "咱來借問路邊的歐吉桑",
+          "spelling": "lán lâi tshiánn-mn̄g lōo-pinn ê oo-jí-sáng"
+        },
+        {
+          "text": "這條路和較早哪隴無同",
+          "spelling": "tsit tiâu-lōo kāng khah-tsá ná lóng bô  kāng"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "心情愈來是愈沈重　                             一切親像夢",
+      "spelling": "sim-tsîng lú-lâi sī lú tîm-tāng            it-tshè tshin-tshiūnn bāng",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "心情愈來是愈沈重",
+          "spelling": "sim-tsîng lú-lâi sī lú tîm-tāng"
+        },
+        {
+          "text": "一切親像夢",
+          "spelling": "it-tshè tshin-tshiūnn bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "風真透我強愈哭                                        我哪乎人吃得這呢到",
+      "spelling": "hong tsin thàu guá kiông bē háu        guá ná honnh lâng tsia̍h kah tsia lih kàu",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "風真透我強愈哭",
+          "spelling": "hong tsin thàu guá kiông bē háu"
+        },
+        {
+          "text": "我哪乎人吃得這呢到",
+          "spelling": "guá ná honnh lâng tsia̍h kah tsia lih kàu"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "社會無量需要性命才是英雄",
+      "spelling": "siā-huē bô-liōng su-iàu sìnn-miā tsiah-sī ing-hiông",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "社會無量需要性命才是英雄",
+          "spelling": "siā-huē bô-liōng su-iàu sìnn-miā tsiah-sī ing-hiông"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "回到我的家門我將門關　                                                   所有計較隴總是多餘",
+      "spelling": "huê-kàu guá ê ka mn̂g guá tsiong mn̂g kuinn        sóo-ū kè-kàu lóng tsóng-sī to kī",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "回到我的家門我將門關",
+          "spelling": "huê-kàu guá ê ka mn̂g guá tsiong mn̂g kuinn"
+        },
+        {
+          "text": "所有計較隴總是多餘",
+          "spelling": "sóo-ū kè-kàu lóng tsóng-sī to kī"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "我今嘛已經是有準備　                          轉頭對天大聲喊出",
+      "spelling": "guá jīn mah í-king sī ū tsún-pī          huan-thâu tuì thinn tuā-siann huah-tshut",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "我今嘛已經是有準備",
+          "spelling": "guá jīn mah í-king sī ū tsún-pī"
+        },
+        {
+          "text": "轉頭對天大聲喊出",
+          "spelling": "huan-thâu tuì thinn tuā-siann huah-tshut"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "我的雙腳站在這                                     我的鮮血我的目屎隴藏在這個土腳",
+      "spelling": "guá ê siang-kha khiā tī tsia                guá ê tshinn-hueh guá ê ba̍k-sái lóng tshàng tī tsit-ê thóo kha",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "我的雙腳站在這",
+          "spelling": "guá ê siang-kha khiā tī tsia"
+        },
+        {
+          "text": "我的鮮血我的目屎",
+          "spelling": "guá ê tshinn-hueh guá ê ba̍k-sái"
+        },
+        {
+          "text": "隴藏在這個土腳",
+          "spelling": "lóng tshàng tī tsit-ê thóo kha"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "我的雙腳站在這                                     這有我的靈魂雖然我猶原是感覺孤單",
+      "spelling": "guá ê siang-kha khiā tī tsia               tsia ū guá ê lîng-hûn sui-liân guá iu-guân sī kám-kak koo-tuann",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "我的雙腳站在這",
+          "spelling": "guá ê siang-kha khiā tī tsia"
+        },
+        {
+          "text": "這有我的靈魂",
+          "spelling": "tsia ū guá ê lîng-hûn"
+        },
+        {
+          "text": "雖然我猶原是感覺孤單",
+          "spelling": "sui-liân guá iu-guân sī kám-kak koo-tuann"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "沒人會凍震動著我                                                  但是沒人會凍震動著我",
+      "spelling": "bô lâng ē tàng tsìn-tōng tio̍h guá                      tān-sī bô lâng ē tàng tsìn-tōng tio̍h guá",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "沒人會凍震動著我",
+          "spelling": "bô lâng ē tàng tsìn-tōng tio̍h guá"
+        },
+        {
+          "text": "但是沒人會凍震動著我",
+          "spelling": "tān-sī bô lâng ē tàng tsìn-tōng tio̍h guá"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "在這沒人會凍震動著我                                          但是沒人會凍震動著我",
+      "spelling": "tī tsiabô lâng ē tàng tsìn-tōng tio̍h guá           tān-sī bô lâng ē tàng tsìn-tōng tio̍h guá",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "在這沒人會凍震動著我",
+          "spelling": "tī tsiabô lâng ē tàng tsìn-tōng tio̍h guá"
+        },
+        {
+          "text": "但是沒人會凍震動著我",
+          "spelling": "tān-sī bô lâng ē tàng tsìn-tōng tio̍h guá"
+        }
+      ]
+    }
+  ],
+  "repairs": [
+    {
+      "line": 6,
+      "before": "想到父母我的腳就軟日頭",
+      "after": "想到父母我的腳就軟",
+      "evidence": "Duplicated 日頭 prefix belongs to next source line 9; this line reading ends at 軟 / nńg. Online rows 5-6 independently confirm boundary."
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,187 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "青瞑狗 三腳貓",
+      "spelling": "tshinn mî káu sann-kha-niau",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "蓋頭鰻 不知影死活",
+      "spelling": "khap thâu muâ m̄ tsai-iánn sí-ua̍h",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "秘雕魚 斷頭龜",
+      "spelling": "pì tiau hî tn̄g thâu ku",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "臭耳聾 走來黏相偎",
+      "spelling": "tshàu-hīnn-lâng tsáu-lâi liâm sio uá",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "火金姑 暗光鳥",
+      "spelling": "hué-kim-koo àm-kong-tsiáu",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "虎頭蜂 找沒位匿藏",
+      "spelling": "hóo-thâu-phang (it-ti̍t it-ti̍t pue) tshuē bô uī mi tsn̄g (it-ti̍t it-ti̍t)",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "四兩雞 半斤屎",
+      "spelling": "sì niú ke (pó-tó ah pó-tó) puànn-kin sái (su-liām ê hô)",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "豬哥涎 老鼠欲吞蛇",
+      "spelling": "ti ko nuā (ná ē) niáu-tshí beh thun tsuâ",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "火金姑（敢是我咧眠夢） 暗光鳥（已經無看秋冬）",
+      "spelling": "hué-kim-koo (kánn-sī guá leh bîn-bāng) àm-kong-tsiáu (í-king bô khuànn tshiu-tang)",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "虎頭蜂（一直一直飛） 找沒位匿藏（一直一直）",
+      "spelling": "hóo-thâu-phang (it-ti̍t it-ti̍t pue) tshuē bô uī mi tsn̄g (it-ti̍t it-ti̍t)",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "四兩雞（寶島啊寶島） 半斤屎（思念的河）",
+      "spelling": "sì niú ke (pó-tó ah pó-tó) puànn-kin sái (su-liām ê hô)",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "豬哥涎 （哪會）老鼠欲吞蛇",
+      "spelling": "ti ko nuā (ná ē) niáu-tshí beh thun tsuâ",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "嗚～嗚～嗚～ （嗚～嗚～嗚～）",
+      "spelling": "oo~ oo~ oo~ (oo~ oo~ oo~)",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "嗚～嗚～嗚～ （嗚～嗚～嗚～）",
+      "spelling": "oo~ oo~ oo~ (oo~ oo~ oo~)",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "嗚～嗚～嗚～ （嗚～嗚～嗚～）",
+      "spelling": "oo~ oo~ oo~ (oo~ oo~ oo~)",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "嗚～嗚～嗚～ （嗚～嗚～嗚～）",
+      "spelling": "oo~ oo~ oo~ (oo~ oo~ oo~)",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "凹嗚～～～ （嗚～嗚～嗚～）",
+      "spelling": "au oo~ ~ ~ (oo~ oo~ oo~)",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "凹嗚～～～ （嗚～嗚～嗚～）",
+      "spelling": "au oo~ ~ ~ (oo~ oo~ oo~)",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "凹嗚～～～ （嗚～嗚～嗚～）",
+      "spelling": "au oo~ ~ ~ (oo~ oo~ oo~)",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "凹嗚～～～",
+      "spelling": "au oo~ ~ ~",
+      "source_lines": [
+        57,
+        58
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

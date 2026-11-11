@@ -1,0 +1,56 @@
+{
+  "selected": {
+    "song_id": 386017,
+    "title": "好不好",
+    "artists": [
+      "五月天"
+    ],
+    "album": "知足 最真杰作选",
+    "duration": 256.762,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "netease:386017",
+      "duration": 256.762,
+      "ready": false,
+      "coverage": 0.4321608040201005,
+      "exact_fraction": 0.3902439024390244,
+      "summary": {
+        "unresolved": 20,
+        "approximate": 5,
+        "repeat": 15,
+        "gap": 2,
+        "exact": 1
+      }
+    },
+    {
+      "recording_id": "netease:543965362",
+      "duration": 261.626,
+      "ready": false,
+      "coverage": 0.4321608040201005,
+      "exact_fraction": 0.3902439024390244,
+      "summary": {
+        "unresolved": 20,
+        "approximate": 5,
+        "repeat": 15,
+        "exact": 1
+      }
+    },
+    {
+      "recording_id": "netease:386697",
+      "duration": 259.626,
+      "ready": false,
+      "coverage": 0.08040201005025126,
+      "exact_fraction": 0.0625,
+      "summary": {
+        "credit": 3,
+        "unresolved": 44,
+        "approximate": 1,
+        "repeat": 3,
+        "gap": 1
+      }
+    }
+  ]
+}

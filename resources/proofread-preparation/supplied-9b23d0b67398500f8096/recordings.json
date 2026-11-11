@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": "1194938599",
+      "title": "青春的火车",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "旧年",
+      "duration": 322.547,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1194938599",
+      "title": "青春的火车",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "旧年",
+      "duration": 322.547,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

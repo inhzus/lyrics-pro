@@ -1,0 +1,93 @@
+{
+  "candidates": [
+    {
+      "song_id": 113889,
+      "title": "杂念",
+      "artists": [
+        "黎明"
+      ],
+      "album": "感应",
+      "duration": 245.36,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 113763,
+      "title": "杂念",
+      "artists": [
+        "黎明"
+      ],
+      "album": "半生缘 电影主题曲歌集",
+      "duration": 243.333,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2124123310,
+      "title": "杂念",
+      "artists": [
+        "消灾咒Liberspell"
+      ],
+      "album": "没有敌人",
+      "duration": 163.216,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1194938607",
+      "title": "杂念",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "旧年",
+      "duration": 208.613,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1536826264",
+      "title": "杂念",
+      "artists": [
+        "宅奥利"
+      ],
+      "album": "忘记时间",
+      "duration": 397.296,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1695678712",
+      "title": "杂念",
+      "artists": [
+        "家家"
+      ],
+      "album": "一个人活着",
+      "duration": 229.763,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1194938607",
+      "title": "杂念",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "旧年",
+      "duration": 208.613,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1536826264",
+      "title": "杂念",
+      "artists": [
+        "宅奥利"
+      ],
+      "album": "忘记时间",
+      "duration": 397.296,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

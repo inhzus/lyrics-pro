@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 13889850,
+    "title": "糞埽人",
+    "artists": [
+      "陳建瑋"
+    ],
+    "album": "三十出頭",
+    "duration": 243.0,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrclib:13889850",
+      "duration": 243.0,
+      "ready": false,
+      "coverage": 0.6896551724137931,
+      "exact_fraction": 0.4827586206896552,
+      "summary": {
+        "exact": 11,
+        "approximate": 6,
+        "unresolved": 9,
+        "repeat": 3,
+        "gap": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 31830692,
+      "title": "新娘茶",
+      "artists": [
+        "川秋沙"
+      ],
+      "album": "白噪音",
+      "duration": 341.0,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

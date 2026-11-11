@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 31830691,
+      "title": "日出之前",
+      "artists": [
+        "川秋沙"
+      ],
+      "album": "白噪音",
+      "duration": 284.0,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

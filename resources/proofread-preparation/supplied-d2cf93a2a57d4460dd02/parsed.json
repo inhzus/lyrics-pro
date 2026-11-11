@@ -1,0 +1,300 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "一時失志不免怨歎",
+      "spelling": "tsi̍t-sî sit-tsì m̄ bián uàn thàn",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "一時落 魄不免膽寒",
+      "spelling": "tsi̍t-sî lo̍h phik m̄ bián tám-hân",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "那通失去希望",
+      "spelling": "ná-thang sit-khì hi-bāng",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "每日醉茫茫",
+      "spelling": "muí-li̍t tsuì bâng bâng",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "無魂有體親像稻草人",
+      "spelling": "bô hûn ū thé tshin-tshiūnn tiū-tsháu-lâng",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "人生可比是海上的波浪",
+      "spelling": "lîn-sing khó-pí sī hái-siōng ê pho-lōng",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "有時起有時落",
+      "spelling": "ū-sî khí ū sî lo̍h",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "好運歹運 總嘛要照起工來行",
+      "spelling": "hó-ūn pháinn-ūn tsóng mah ài tsiáu khí-kang lâi kiânn",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "三分天注定 七分靠打拼",
+      "spelling": "sann hun thinn tsù-tiānn tshit hun khò phah-piànn",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "愛拼啊才會贏",
+      "spelling": "ài piànn ah tsiah ē iânn",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "一時失志不免怨歎",
+      "spelling": "tsi̍t-sî sit-tsì m̄ bián uàn thàn",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "一時落魄不免膽寒",
+      "spelling": "tsi̍t-sî lo̍h phik m̄ bián tám-hân",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "那通失去希望",
+      "spelling": "ná-thang sit-khì hi-bāng",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "每日醉茫茫",
+      "spelling": "muí-li̍t tsuì bâng bâng",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "無魂有體親像稻草人",
+      "spelling": "bô hûn ū thé tshin-tshiūnn tiū-tsháu-lâng",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "人生可比是海上的波浪",
+      "spelling": "lîn-sing khó-pí sī hái-siōng ê pho-lōng",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "有時起有時落",
+      "spelling": "ū-sî khí ū sî lo̍h",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "好運歹運 總嘛要照起工來行",
+      "spelling": "hó-ūn pháinn-ūn tsóng mah ài tsiáu khí-kang lâi kiânn",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "三分天注定 七分靠打拼",
+      "spelling": "sann hun thinn tsù-tiānn tshit hun khò phah-piànn",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "愛拼才會贏",
+      "spelling": "ài piànn ah tsiah ē iânn",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "人生可比是海上的波浪",
+      "spelling": "lîn-sing khó-pí sī hái-siōng ê pho-lōng",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "有時起有時落",
+      "spelling": "ū-sî khí ū sî lo̍h",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "好運歹運 總嘛要照起工來行",
+      "spelling": "hó-ūn pháinn-ūn tsóng mah ài tsiáu khí-kang lâi kiânn",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "三分天注定 七分靠打拼",
+      "spelling": "sann hun thinn tsù-tiānn tshit hun khò phah-piànn",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "愛拼才會贏",
+      "spelling": "ài piànn ah tsiah ē iânn",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "人生可比是海上的波浪",
+      "spelling": "lîn-sing khó-pí sī hái-siōng ê pho-lōng",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "有時起有時落",
+      "spelling": "ū-sî khí ū sî lo̍h",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "好運歹運 總嘛要照起工來行",
+      "spelling": "hó-ūn pháinn-ūn tsóng mah ài tsiáu khí-kang lâi kiânn",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "三分天注定 七分靠打拼",
+      "spelling": "sann hun thinn tsù-tiānn tshit hun khò phah-piànn",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "愛拼才會贏",
+      "spelling": "ài piànn ah tsiah ē iânn",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "三分天注定 七分靠打拼",
+      "spelling": "sann hun thinn tsù-tiānn tshit hun khò phah-piànn",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "愛拼才會贏",
+      "spelling": "ài piànn ah tsiah ē iânn",
+      "source_lines": [
+        96,
+        97
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：陳百潭    作曲：董事長樂團 & 葉啟田    台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

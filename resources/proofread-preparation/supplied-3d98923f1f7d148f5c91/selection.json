@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": "1001038634",
+    "title": "台北台北",
+    "artists": [
+      "谢和弦"
+    ],
+    "album": "不需要装乖",
+    "duration": 268.03,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1001038634",
+      "duration": 268.03,
+      "ready": false,
+      "coverage": 0.37037037037037035,
+      "exact_fraction": 0.3333333333333333,
+      "summary": {
+        "unresolved": 17,
+        "exact": 1,
+        "repeat": 8,
+        "approximate": 1
+      }
+    }
+  ]
+}

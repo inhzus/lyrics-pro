@@ -1,0 +1,211 @@
+{
+  "recording_id": "netease:2706345337",
+  "timing_source": "NetEase https://music.163.com/song?id=2706345337",
+  "manual_source": "User-supplied resources/lyrics-spelling/八字-男子漢樂團",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 7,
+    "repeat": 5
+  },
+  "review_row_count": 7,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-10:0",
+    "line-13:0",
+    "line-25:0",
+    "line-31:0",
+    "line-34:0",
+    "line-40:0",
+    "line-43:0",
+    "line-55:0",
+    "line-67:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 狗斌",
+      "match_text": "作词 : 狗斌",
+      "text": "作词 : 狗斌",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 狗斌",
+      "match_text": "作曲 : 狗斌",
+      "text": "作曲 : 狗斌",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 50.88,
+      "online_text": "八字",
+      "match_text": "八字",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 51.12,
+      "online_text": "词／曲：狗斌",
+      "match_text": "词／曲：狗斌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 60.75,
+      "online_text": "刚刚才哭完 是淡薄啊累啦",
+      "match_text": "刚刚才哭完 是淡薄啊累啦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 88.92,
+      "online_text": "想到你的一句话 壁角屈归暝",
+      "match_text": "想到你的一句话 壁角屈归暝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 137.79,
+      "online_text": "甘有影 甘有影",
+      "match_text": "甘有影 甘有影",
+      "text": "甘有影　甘有影",
+      "spelling": "kam-ū iánn kam-ū iánn",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 142.74,
+      "online_text": "父母来反对 呒是你的意",
+      "match_text": "父母来反对 呒是你的意",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 148.05,
+      "online_text": "越想越怨嗟 甘讲相爱的一切",
+      "match_text": "越想越怨嗟 甘讲相爱的一切",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 155.43,
+      "online_text": "拼不过 拼不过 烟一嘴 酒一杯",
+      "match_text": "拼不过 拼不过 烟一嘴 酒一杯",
+      "text": "拼不過　拼不過　煙一嘴　酒一杯",
+      "spelling": "piànn-bē-kuè piànn-bē-kuè hun tsi̍t tshuì tsiú tsi̍t pue",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 172.32,
+      "online_text": "你欲离开的原因是因为无奈的八字",
+      "match_text": "你欲离开的原因是因为无奈的八字",
+      "text": "你欲離開的原因是因為無奈的八字",
+      "spelling": "lí bē lī-khui ê guân-in sī in-uī bô-nāi ê peh-lī",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 176.61,
+      "online_text": "命中注定的天意失去了爱的意义",
+      "match_text": "命中注定的天意失去了爱的意义",
+      "text": "命中注定的天意失去了愛的意義",
+      "spelling": "miā-tiong tsù-tiānn ê thinn-ì sit-khì liáu ài ê ì-gī",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 183.69,
+      "online_text": "你讲缘份甲八字全拢是命运的捉弄",
+      "match_text": "你讲缘份甲八字全拢是命运的捉弄",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 265.35,
+      "online_text": "不愿放手来放弃 因为一句我爱你",
+      "match_text": "不愿放手来放弃 因为一句我爱你",
+      "text": "不願放手來放棄 因為一句 我愛你",
+      "spelling": "m̄-guān pàng-tshiú lâi hòng-khì in-uī tsi̍t kù guá ài lí",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "1d17a1a8d92920ceacb713a6a522062cfbe60e90e96aacfdcc1c8439ac42c515",
+    "manual": "3f965ce1b4cd1cfef01c5518e098b195b6a4b42fb888b08192df46470b808dba",
+    "timed": "dea79fa971677bd3768d90cafd31dc42ed9fca4e7e9561b7e551cca2a845b689"
+  }
+}

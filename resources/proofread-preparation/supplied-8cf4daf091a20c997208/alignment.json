@@ -1,0 +1,788 @@
+{
+  "recording_id": "netease:168369",
+  "timing_source": "NetEase https://music.163.com/song?id=168369",
+  "manual_source": "User-supplied resources/lyrics-spelling/甲我跳舞好否-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "gap": 12,
+    "unresolved": 32,
+    "exact": 6,
+    "repeat": 6,
+    "approximate": 1
+  },
+  "review_row_count": 39,
+  "unmatched_manual_ids": [
+    "line-9:0",
+    "line-42:0"
+  ],
+  "unused_repeat_ids": [
+    "line-24:0",
+    "line-30:0",
+    "line-33:0",
+    "line-39:0",
+    "line-45:0",
+    "line-51:0",
+    "line-54:0",
+    "line-60:0",
+    "line-63:0",
+    "line-69:0",
+    "line-75:0",
+    "line-81:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 武雄",
+      "match_text": "作词 : 武雄",
+      "text": "作词 : 武雄",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 0.02,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 0.05,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 22.0,
+      "online_text": "带你心飞",
+      "match_text": "带你心飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 32.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 45.5,
+      "online_text": "今夜花含笑 浪漫的情调",
+      "match_text": "今夜花含笑 浪漫的情调",
+      "text": "今夜花含笑　浪漫的情調",
+      "spelling": "kim-iā hue hâm-tshiàu lōng-bān ê tsîng tiâu",
+      "manual_id": "line-3:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 51.34,
+      "online_text": "亲像会当听见两个人的心跳",
+      "match_text": "亲像会当听见两个人的心跳",
+      "text": "親像會當聽見兩個人的心跳",
+      "spelling": "tshin-tshiūnn ē-tàng thiann-kinn nn̄g-ê lâng ê sim-thiàu",
+      "manual_id": "line-6:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 57.0,
+      "online_text": "惦惦块等候 希望在今宵",
+      "match_text": "惦惦块等候 希望在今宵",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-9:0"
+    },
+    {
+      "source_row": 8,
+      "time": 63.04,
+      "online_text": "爱会当作阵揽着着",
+      "match_text": "爱会当作阵揽着着",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-9:0"
+    },
+    {
+      "source_row": 9,
+      "time": 67.66,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 10,
+      "time": 68.4,
+      "online_text": "甜蜜的歌谣 缠绵的演奏",
+      "match_text": "甜蜜的歌谣 缠绵的演奏",
+      "text": "甜蜜的歌謠　纏綿的演奏",
+      "spelling": "tinn-bi̍t ê kua-iâu tînn mî ê ián-tsàu",
+      "manual_id": "line-12:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 74.22,
+      "online_text": "陪伴有情的人一对对慢慢跳",
+      "match_text": "陪伴有情的人一对对慢慢跳",
+      "text": "陪伴有情的人一對對慢慢跳",
+      "spelling": "puê-phuānn ū-tsîng ê lâng tsi̍t tuì-tuì bān-bān thiàu",
+      "manual_id": "line-15:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 79.83,
+      "online_text": "找你做舞伴 对我真重要",
+      "match_text": "找你做舞伴 对我真重要",
+      "text": "找你做舞伴　對我真重要",
+      "spelling": "tshuē lí tsuè bú phuānn tuì guá tsin tiōng-iàu",
+      "manual_id": "line-18:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 85.76,
+      "online_text": "望你不通摇头",
+      "match_text": "望你不通摇头",
+      "text": "望你不通搖頭",
+      "spelling": "bāng lí m̄-thang iô-thâu",
+      "manual_id": "line-21:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 91.9,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 15,
+      "time": 94.08,
+      "online_text": "陪我跳舞好不好",
+      "match_text": "陪我跳舞好不好",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 97.05,
+      "online_text": "我舞步卡生疏",
+      "match_text": "我舞步卡生疏",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 100.24,
+      "online_text": "足希望有你作阵学",
+      "match_text": "足希望有你作阵学",
+      "text": "足希望有你作陣學",
+      "spelling": "tsiok hi-bāng ū lí tsuè tīn o̍h",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 105.52,
+      "online_text": "陪我跳舞好不好",
+      "match_text": "陪我跳舞好不好",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 108.76,
+      "online_text": "进一步退一步",
+      "match_text": "进一步退一步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 111.69,
+      "online_text": "是我的思慕",
+      "match_text": "是我的思慕",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 118.63,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 22,
+      "time": 119.9,
+      "online_text": "甲你摇啊摇",
+      "match_text": "甲你摇啊摇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 122.91,
+      "online_text": "甲你惜啊惜",
+      "match_text": "甲你惜啊惜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 125.97,
+      "online_text": "用双人尚美妙的舞步",
+      "match_text": "用双人尚美妙的舞步",
+      "text": "用雙人尚美妙的舞步",
+      "spelling": "iōng siang-lâng siōng bí-miāu ê bú-pōo",
+      "manual_id": "line-36:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 131.32,
+      "online_text": "一手放肩头",
+      "match_text": "一手放肩头",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 134.1,
+      "online_text": "一手撼着腰",
+      "match_text": "一手撼着腰",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 137.35,
+      "online_text": "这就是爱情对不对",
+      "match_text": "这就是爱情对不对",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 142.1,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 29,
+      "time": 142.8,
+      "online_text": "甲你摇啊摇",
+      "match_text": "甲你摇啊摇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 145.59,
+      "online_text": "甲你惜啊惜",
+      "match_text": "甲你惜啊惜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 148.68,
+      "online_text": "两个人踏共款的脚步",
+      "match_text": "两个人踏共款的脚步",
+      "text": "兩個人踏共款的腳步",
+      "spelling": "nn̄g-ê lâng ta̍h kāng-khuán ê kha-pōo",
+      "manual_id": "line-48:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 154.19,
+      "online_text": "继续慢慢跳",
+      "match_text": "继续慢慢跳",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 156.96,
+      "online_text": "继续轻轻笑",
+      "match_text": "继续轻轻笑",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 160.14,
+      "online_text": "摇过爱情路",
+      "match_text": "摇过爱情路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 169.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 36,
+      "time": 172.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 37,
+      "time": 190.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 38,
+      "time": 191.5,
+      "online_text": "陪我跳舞好不好",
+      "match_text": "陪我跳舞好不好",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 194.54,
+      "online_text": "我舞步卡生疏",
+      "match_text": "我舞步卡生疏",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 197.5,
+      "online_text": "足希望有你作阵学",
+      "match_text": "足希望有你作阵学",
+      "text": "足希望有你作陣學",
+      "spelling": "tsiok hi-bāng ū lí tsuè tīn o̍h",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 41,
+      "time": 202.6,
+      "online_text": "陪我跳舞好不好",
+      "match_text": "陪我跳舞好不好",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 205.8,
+      "online_text": "进一步退一步",
+      "match_text": "进一步退一步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 208.84,
+      "online_text": "是我的思慕",
+      "match_text": "是我的思慕",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 215.9,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 45,
+      "time": 217.1,
+      "online_text": "甲你摇啊摇",
+      "match_text": "甲你摇啊摇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 220.03,
+      "online_text": "甲你惜啊惜",
+      "match_text": "甲你惜啊惜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 223.11,
+      "online_text": "用双人尚美妙的舞步",
+      "match_text": "用双人尚美妙的舞步",
+      "text": "用雙人尚美妙的舞步",
+      "spelling": "iōng siang-lâng siōng bí-miāu ê bú-pōo",
+      "manual_id": "line-36:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 48,
+      "time": 228.38,
+      "online_text": "一手放肩头",
+      "match_text": "一手放肩头",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 49,
+      "time": 231.26,
+      "online_text": "一手撼着腰",
+      "match_text": "一手撼着腰",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 50,
+      "time": 234.64,
+      "online_text": "这就是爱情呒不对",
+      "match_text": "这就是爱情呒不对",
+      "text": "這就是愛情嘸不對",
+      "spelling": "tsit tio̍h-sī ài-tsîng bô m̄-tio̍h",
+      "manual_id": "line-72:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 51,
+      "time": 239.35,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 52,
+      "time": 240.05,
+      "online_text": "甲你摇啊摇",
+      "match_text": "甲你摇啊摇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 53,
+      "time": 242.63,
+      "online_text": "甲你惜啊惜",
+      "match_text": "甲你惜啊惜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 54,
+      "time": 245.95,
+      "online_text": "两个人踏共款的脚步",
+      "match_text": "两个人踏共款的脚步",
+      "text": "兩個人踏共款的腳步",
+      "spelling": "nn̄g-ê lâng ta̍h kāng-khuán ê kha-pōo",
+      "manual_id": "line-48:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 55,
+      "time": 251.23,
+      "online_text": "继续慢慢跳",
+      "match_text": "继续慢慢跳",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 56,
+      "time": 254.12,
+      "online_text": "继续轻轻笑",
+      "match_text": "继续轻轻笑",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 57,
+      "time": 257.55,
+      "online_text": "摇过爱情路",
+      "match_text": "摇过爱情路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 58,
+      "time": 266.8,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "f29608175296352a1661f6e53d14f425ee85167d907b8bd4237e00eb63fe7010",
+    "manual": "a5bf52e1d85cf246044ae97d9661ddcb47849056dbb2e13a167d7b718669f230",
+    "timed": "11684c699138f7d06773fefd2d5af72f93fd0c2c5570139063891dda00a50083"
+  }
+}

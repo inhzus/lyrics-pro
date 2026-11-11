@@ -1,0 +1,301 @@
+{
+  "recording_id": "netease:28661107",
+  "timing_source": "NetEase https://music.163.com/song?id=28661107",
+  "manual_source": "User-supplied resources/lyrics-spelling/討生活的少年人-陳建瑋",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "unresolved": 10,
+    "approximate": 4,
+    "exact": 1,
+    "repeat": 5
+  },
+  "review_row_count": 15,
+  "unmatched_manual_ids": [
+    "line-10:0"
+  ],
+  "unused_repeat_ids": [
+    "line-13:0",
+    "line-25:0",
+    "line-28:0",
+    "line-37:0",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 1.463,
+      "online_text": "讨生活的少年人",
+      "match_text": "讨生活的少年人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 7.618,
+      "online_text": "又阁到天光代志犹做袂完",
+      "match_text": "又阁到天光代志犹做袂完",
+      "text": "又擱到天光 代誌猶做袂完",
+      "spelling": "iū-koh kàu thinn-kng tāi-tsì iáu tsò-buē-uân",
+      "manual_id": "line-1:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 2,
+      "time": 16.319,
+      "online_text": "哪会主管电话一直来",
+      "match_text": "哪会主管电话一直来",
+      "text": "哪會主管電話一直來",
+      "spelling": "ná ē tsú-kuán tiān-uē it-ti̍t lâi",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 22.7,
+      "online_text": "啊身体害了了平平咧讨生活",
+      "match_text": "啊身体害了了平平咧讨生活",
+      "text": "身體壞了了 平平咧討生活",
+      "spelling": "sin-thé pháinn liáu-liáu pênn-pênn leh thó sing-ua̍h",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.869565
+    },
+    {
+      "source_row": 4,
+      "time": 30.728,
+      "online_text": "哪着我会讨甲遮硬笃",
+      "match_text": "哪着我会讨甲遮硬笃",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 35.682,
+      "online_text": "一跤皮箱会当装偌济梦我的手会当捾偌重",
+      "match_text": "一跤皮箱会当装偌济梦我的手会当捾偌重",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 43.175,
+      "online_text": "一支吉他会当写几条歌我犹原相信我",
+      "match_text": "一支吉他会当写几条歌我犹原相信我",
+      "text": "一支吉他會當寫幾條歌 我猶原相信我",
+      "spelling": "tsi̍t ki gì-tà ē-tàng siá kuí tiâu kua guá iû-guân siong-sìn guá",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 51.129,
+      "online_text": "辛苦的讨生活的少年人咱拢拄着歹年冬",
+      "match_text": "辛苦的讨生活的少年人咱拢拄着歹年冬",
+      "text": "辛苦的討生活的少年人 咱攏拄著歹年冬",
+      "spelling": "sin-khóo ê thó sing-ua̍h ê siàu-liân-lâng lán lóng tú-tio̍h pháinn nî-tang",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 59.22,
+      "online_text": "薪水是那来那少若无效物件欲买无几项",
+      "match_text": "薪水是那来那少若无效物件欲买无几项",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 65.972,
+      "online_text": "艰苦的拼事业的少年人时机歹嘛变无蠓",
+      "match_text": "艰苦的拼事业的少年人时机歹嘛变无蠓",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 72.874,
+      "online_text": "人生是起起落落的山路咱只是讨生活的人",
+      "match_text": "人生是起起落落的山路咱只是讨生活的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 94.945,
+      "online_text": "开会敖啄龟毋是我爱眠梦是因为昨暝赶你的物件",
+      "match_text": "开会敖啄龟毋是我爱眠梦是因为昨暝赶你的物件",
+      "text": "開會熬啄龜 毋是我愛瞑夢 是因為昨暝趕你的物件",
+      "spelling": "khui-huē ngâu tu-ku m̄ sī guá ài bīn-bāng sī in-uī tsá mê kuánn lí ê mi̍h-kiānn",
+      "manual_id": "line-31:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.904762
+    },
+    {
+      "source_row": 12,
+      "time": 109.251,
+      "online_text": "序大定烦恼啊理想若无理想转来厝里帮忙敢毋好",
+      "match_text": "序大定烦恼啊理想若无理想转来厝里帮忙敢毋好",
+      "text": "序大常煩腦 理想若無理想 返來厝裡幫忙甘毋好",
+      "spelling": "sī tuā tiānn huân-ló lí-sióng ná bô lí-sióng tńg-lâi tshù lí pang-bâng kam m̄ hó",
+      "manual_id": "line-34:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.731707
+    },
+    {
+      "source_row": 13,
+      "time": 123.103,
+      "online_text": "一跤皮箱会当装偌济梦我的手会当捾偌重",
+      "match_text": "一跤皮箱会当装偌济梦我的手会当捾偌重",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 130.453,
+      "online_text": "一支吉他会当写几条歌我犹原相信我",
+      "match_text": "一支吉他会当写几条歌我犹原相信我",
+      "text": "一支吉他會當寫幾條歌 我猶原相信我",
+      "spelling": "tsi̍t ki gì-tà ē-tàng siá kuí tiâu kua guá iû-guân siong-sìn guá",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 138.413,
+      "online_text": "辛苦的讨生活的少年人咱拢拄着歹年冬",
+      "match_text": "辛苦的讨生活的少年人咱拢拄着歹年冬",
+      "text": "辛苦的討生活的少年人 咱攏拄著歹年冬",
+      "spelling": "sin-khóo ê thó sing-ua̍h ê siàu-liân-lâng lán lóng tú-tio̍h pháinn nî-tang",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 145.567,
+      "online_text": "薪水是若来若少若无效物件欲买无几项",
+      "match_text": "薪水是若来若少若无效物件欲买无几项",
+      "text": "薪水是若來若少若無效 物件欲買無幾項",
+      "spelling": "sin-suí sī ná lâi ná siàu ná bô-hāu mi̍h-kiānn beh-bé bô kuí hāng",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 152.885,
+      "online_text": "艰苦的拼事业的少年人时机歹嘛变无蠓",
+      "match_text": "艰苦的拼事业的少年人时机歹嘛变无蠓",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 160.187,
+      "online_text": "人生是起起落落的山路咱只是讨生活的人",
+      "match_text": "人生是起起落落的山路咱只是讨生活的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 189.708,
+      "online_text": "人生是起起落落的山路咱只是讨生活的人",
+      "match_text": "人生是起起落落的山路咱只是讨生活的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "cbbb7116fa27a693a69e955831558583196a0bb6db9071b18f9c68d865be628f",
+    "manual": "0ba28dc5a802e38e65c36033313b2ed571a90d07a6fdddae49870baba99f7850",
+    "timed": "c3cb3fcdd2d9625e0dedac938e564e8e8e3c8f95070a00d8e2e362d06c510aa2"
+  }
+}

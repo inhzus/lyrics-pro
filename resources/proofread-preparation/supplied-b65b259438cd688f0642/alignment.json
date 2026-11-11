@@ -1,0 +1,621 @@
+{
+  "recording_id": "netease:386010",
+  "timing_source": "NetEase https://music.163.com/song?id=386010",
+  "manual_source": "User-supplied resources/lyrics-spelling/麥來亂-五月天",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "exact": 5,
+    "unresolved": 36,
+    "approximate": 1
+  },
+  "review_row_count": 37,
+  "unmatched_manual_ids": [
+    "line-6:0",
+    "line-12:0",
+    "line-30:0",
+    "line-36:0",
+    "line-57:0"
+  ],
+  "unused_repeat_ids": [
+    "line-15:0",
+    "line-18:0",
+    "line-21:0",
+    "line-24:0",
+    "line-39:0",
+    "line-42:0",
+    "line-45:0",
+    "line-48:0",
+    "line-60:0",
+    "line-63:0",
+    "line-66:0",
+    "line-69:0",
+    "line-72:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 五月天 阿信",
+      "match_text": "作词 : 五月天 阿信",
+      "text": "作词 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 五月天 怪兽",
+      "match_text": "作曲 : 五月天 怪兽",
+      "text": "作曲 : 五月天 怪兽",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 13.95,
+      "online_text": "眼泪咸哭到眼泪不咸",
+      "match_text": "眼泪咸哭到眼泪不咸",
+      "text": "眼淚鹹 哭到眼淚 不鹹",
+      "spelling": "ba̍k-sái kiâm  khàu kàu ba̍k-sái buē kiâm",
+      "manual_id": "line-3:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 20.39,
+      "online_text": "过一天痛一天",
+      "match_text": "过一天痛一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-6:0"
+    },
+    {
+      "source_row": 4,
+      "time": 23.41,
+      "online_text": "一天亲像一冬",
+      "match_text": "一天亲像一冬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-6:0"
+    },
+    {
+      "source_row": 5,
+      "time": 27.49,
+      "online_text": "过一冬你又找阮开讲",
+      "match_text": "过一冬你又找阮开讲",
+      "text": "過一冬 你又找阮 開講",
+      "spelling": "kuè tsi̍t tang  lí iū tshuē gún  khai káng",
+      "manual_id": "line-9:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 33.69,
+      "online_text": "你说你 你想我",
+      "match_text": "你说你 你想我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-12:0"
+    },
+    {
+      "source_row": 7,
+      "time": 36.6,
+      "online_text": "我的一冬拢无采工",
+      "match_text": "我的一冬拢无采工",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-12:0"
+    },
+    {
+      "source_row": 8,
+      "time": 43.24,
+      "online_text": "最怕你讲你犹原思念",
+      "match_text": "最怕你讲你犹原思念",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 47.33,
+      "online_text": "阁再予阮希望",
+      "match_text": "阁再予阮希望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 50.32,
+      "online_text": "最怕你说你爱我",
+      "match_text": "最怕你说你爱我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 53.46,
+      "online_text": "心搁破洞我搁山崩",
+      "match_text": "心搁破洞我搁山崩",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 57.55,
+      "online_text": "电话我也不接",
+      "match_text": "电话我也不接",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 60.68,
+      "online_text": "找我我也不睬",
+      "match_text": "找我我也不睬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 63.76,
+      "online_text": "麦来乱无缘的人",
+      "match_text": "麦来乱无缘的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 66.76,
+      "online_text": "麦搁来乱去爱别人",
+      "match_text": "麦搁来乱去爱别人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 86.2,
+      "online_text": "真感谢感谢你的陪伴",
+      "match_text": "真感谢感谢你的陪伴",
+      "text": "真感謝 感謝你的 陪伴",
+      "spelling": "tsin kám-siā  kám-siā lí ê puê-phuānn",
+      "manual_id": "line-27:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 92.5,
+      "online_text": "自屏东到基隆",
+      "match_text": "自屏东到基隆",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-30:0"
+    },
+    {
+      "source_row": 18,
+      "time": 95.6,
+      "online_text": "走过这多美梦",
+      "match_text": "走过这多美梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-30:0"
+    },
+    {
+      "source_row": 19,
+      "time": 100.39,
+      "online_text": "梦醒了咱是无缘的人",
+      "match_text": "梦醒了咱是无缘的人",
+      "text": "夢醒了 咱是無緣 的人",
+      "spelling": "bāng tshínn liáu  lán sī bô iân ê lâng",
+      "manual_id": "line-33:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 106.4,
+      "online_text": "拜托你麦回头",
+      "match_text": "拜托你麦回头",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-36:0"
+    },
+    {
+      "source_row": 21,
+      "time": 109.27,
+      "online_text": "麦搁问我目眶怎红",
+      "match_text": "麦搁问我目眶怎红",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-36:0"
+    },
+    {
+      "source_row": 22,
+      "time": 116.43,
+      "online_text": "最怕你讲你犹原思念",
+      "match_text": "最怕你讲你犹原思念",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 120.2,
+      "online_text": "阁再予阮希望",
+      "match_text": "阁再予阮希望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 123.7,
+      "online_text": "最怕你说你爱我",
+      "match_text": "最怕你说你爱我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 126.41,
+      "online_text": "心搁破洞我搁山崩",
+      "match_text": "心搁破洞我搁山崩",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 130.69,
+      "online_text": "电话我也不接",
+      "match_text": "电话我也不接",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 133.74,
+      "online_text": "找我我也不睬",
+      "match_text": "找我我也不睬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 136.86,
+      "online_text": "麦来乱无缘的人",
+      "match_text": "麦来乱无缘的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 139.66,
+      "online_text": "麦搁来乱去爱别人",
+      "match_text": "麦搁来乱去爱别人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 171.94,
+      "online_text": "为怎样我奈这白目我奈这饭桶啊",
+      "match_text": "为怎样我奈这白目我奈这饭桶啊",
+      "text": "為怎樣 我奈這白目 我奈這飯桶 啊",
+      "spelling": "uî tsuánn-iūnn  guá nāi tsit pe̍h-ba̍k  guá nāi tsit pn̄g-tháng ah",
+      "manual_id": "line-51:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 174.42,
+      "online_text": "明知影你是这危险啊搁学不会闪",
+      "match_text": "明知影你是这危险啊搁学不会闪",
+      "text": "明知影 你是這危險 啊擱學不會 閃",
+      "spelling": "bîng tsai-iánn  lí sī tsia huî-hiám  ah koh ha̍k buē hiáu  siám",
+      "manual_id": "line-54:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.928571
+    },
+    {
+      "source_row": 32,
+      "time": 178.79,
+      "online_text": "放着你甲我的青春甲我的生活",
+      "match_text": "放着你甲我的青春甲我的生活",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-57:0"
+    },
+    {
+      "source_row": 33,
+      "time": 181.58,
+      "online_text": "拢拆吃入腹",
+      "match_text": "拢拆吃入腹",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-57:0"
+    },
+    {
+      "source_row": 34,
+      "time": 185.22,
+      "online_text": "最怕你讲你犹原思念",
+      "match_text": "最怕你讲你犹原思念",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 189.23,
+      "online_text": "阁再予阮希望",
+      "match_text": "阁再予阮希望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 192.73,
+      "online_text": "最怕你说你爱我",
+      "match_text": "最怕你说你爱我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 195.92,
+      "online_text": "心搁破洞我搁山崩",
+      "match_text": "心搁破洞我搁山崩",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 200.7,
+      "online_text": "电话我也不接",
+      "match_text": "电话我也不接",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 203.13,
+      "online_text": "找我我也不睬",
+      "match_text": "找我我也不睬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 206.35,
+      "online_text": "麦来乱无缘的人",
+      "match_text": "麦来乱无缘的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 209.17,
+      "online_text": "麦搁来乱去爱别人",
+      "match_text": "麦搁来乱去爱别人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 212.4,
+      "online_text": "麦来乱无缘的人",
+      "match_text": "麦来乱无缘的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 215.39,
+      "online_text": "麦搁来乱去爱别人",
+      "match_text": "麦搁来乱去爱别人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "20cca09b5e92f58621e7a73124a5dd63f2f8793c1dffa56cc56c84c2dfb519d7",
+    "manual": "09935198c85c888c30429b4d432bebc8adbdbde4b9f615f6f8a022de357afa53",
+    "timed": "e8136f80a2584730723ec5f1adba8482bb15e56631fcc1bfc9a6f6a25ccf30cf"
+  }
+}

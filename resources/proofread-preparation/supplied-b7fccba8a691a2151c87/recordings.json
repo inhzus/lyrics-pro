@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 248810,
+      "title": "跳舞到天光",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "甲你揽牢牢",
+      "duration": 249.0,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

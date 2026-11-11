@@ -1,0 +1,361 @@
+{
+  "recording_id": "lrclib:29760563",
+  "source": "User-supplied resources/lyrics-spelling/21 － 殺手驪歌-伍佰",
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "現此時　              我的心中　               吹起了一陣風",
+      "spelling": "hiān-tshú-sî        guá ê sim-tiong      tshue-khí liáu tsi̍t tsūn hong",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "現此時",
+          "spelling": "hiān-tshú-sî"
+        },
+        {
+          "text": "我的心中",
+          "spelling": "guá ê sim-tiong"
+        },
+        {
+          "text": "吹起了一陣風",
+          "spelling": "tshue-khí liáu tsi̍t tsūn hong"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "現此時　               我的心中　              也知我猶原寂寞",
+      "spelling": "hiān-tshú-sî        guá ê sim-tiong      iā tsai guá iu-guân siok-bo̍k",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "現此時",
+          "spelling": "hiān-tshú-sî"
+        },
+        {
+          "text": "我的心中",
+          "spelling": "guá ê sim-tiong"
+        },
+        {
+          "text": "也知我猶原寂寞",
+          "spelling": "iā tsai guá iu-guân siok-bo̍k"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "人生伊一向辜不二衷　                         也不一定善良",
+      "spelling": "lîn-sing i hiànn bô put jī tsiong        iā bô-it-tīng siān-liông",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "人生伊一向辜不二衷",
+          "spelling": "lîn-sing i hiànn bô put jī tsiong"
+        },
+        {
+          "text": "也不一定善良",
+          "spelling": "iā bô-it-tīng siān-liông"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "離別你誰人說不悲傷　                                   生死要安怎參詳",
+      "spelling": "lī-pia̍t lí siánn-lâng kóng bē pi-siong        senn-sí beh an-tsuánn tsham-siông",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "離別你誰人說不悲傷",
+          "spelling": "lī-pia̍t lí siánn-lâng kóng bē pi-siong"
+        },
+        {
+          "text": "生死要安怎參詳",
+          "spelling": "senn-sí beh an-tsuánn tsham-siông"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "過去是過去　                  不需要再勉強",
+      "spelling": "kuè-khì sī kuè-khì        bô su-iàu tsài bián-kióng",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "過去是過去",
+          "spelling": "kuè-khì sī kuè-khì"
+        },
+        {
+          "text": "不需要再勉強",
+          "spelling": "bô su-iàu tsài bián-kióng"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "面對著繁榮虛華　                         我耳邊隴無聲",
+      "spelling": "bīn-tuì tio̍h huân-îng hi-hua    guá hīnn pinn lóng bô-siann",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "面對著繁榮虛華",
+          "spelling": "bīn-tuì tio̍h huân-îng hi-hua"
+        },
+        {
+          "text": "我耳邊隴無聲",
+          "spelling": "guá hīnn pinn lóng bô-siann"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "面對著流浪的歌　                    這就是我的生活",
+      "spelling": "bīn-tuì tio̍h liû-lōng ê kua    tse tsiū-sī guá ê sing-ua̍h",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "面對著流浪的歌",
+          "spelling": "bīn-tuì tio̍h liû-lōng ê kua"
+        },
+        {
+          "text": "這就是我的生活",
+          "spelling": "tse tsiū-sī guá ê sing-ua̍h"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "甘說我永遠不凍脫離這場波浪　                                                       甘說我無堅強",
+      "spelling": "kam kóng guá íng-uán bē tàng thuat-lī tsit tiûnn pho-lōng    kam kóng guá bô kian-kiông",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "甘說我永遠不凍脫離這場波浪",
+          "spelling": "kam kóng guá íng-uán bē tàng thuat-lī tsit tiûnn pho-lōng"
+        },
+        {
+          "text": "甘說我無堅強",
+          "spelling": "kam kóng guá bô kian-kiông"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "假使咱以後擱再相逢　                               我不是你的手足",
+      "spelling": "ká-sú lán í-āu khè tsài siong-hông        guá m̄ sī lí ê tshiú-tsiok",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "假使咱以後擱再相逢",
+          "spelling": "ká-sú lán í-āu khè tsài siong-hông"
+        },
+        {
+          "text": "我不是你的手足",
+          "spelling": "guá m̄ sī lí ê tshiú-tsiok"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "過去是過去　                  不需要再勉強",
+      "spelling": "kuè-khì sī kuè-khì        bô su-iàu tsài bián-kióng",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "過去是過去",
+          "spelling": "kuè-khì sī kuè-khì"
+        },
+        {
+          "text": "不需要再勉強",
+          "spelling": "bô su-iàu tsài bián-kióng"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "我的心情　             希望你知影                   Adios Cucaracha",
+      "spelling": "guá ê sim-tsîng    hi-bāng lí tsai-iánn    Adios Cucaracha",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "我的心情",
+          "spelling": "guá ê sim-tsîng"
+        },
+        {
+          "text": "希望你知影",
+          "spelling": "hi-bāng lí tsai-iánn"
+        },
+        {
+          "text": "Adios Cucaracha",
+          "spelling": "Adios Cucaracha"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "咱的運命　            只有咱知影                Adios Cucaracha",
+      "spelling": "lán ê ūn-miā        tsí-ū lán tsai-iánn    Adios Cucaracha",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "咱的運命",
+          "spelling": "lán ê ūn-miā"
+        },
+        {
+          "text": "只有咱知影",
+          "spelling": "tsí-ū lán tsai-iánn"
+        },
+        {
+          "text": "Adios Cucaracha",
+          "spelling": "Adios Cucaracha"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "過去是過去　                  不需要再勉強",
+      "spelling": "kuè-khì sī kuè-khì        bô su-iàu tsài bián-kióng",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "過去是過去",
+          "spelling": "kuè-khì sī kuè-khì"
+        },
+        {
+          "text": "不需要再勉強",
+          "spelling": "bô su-iàu tsài bián-kióng"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "我的心情　            希望你知影                   Adios Cucaracha",
+      "spelling": "guá ê sim-tsîng    hi-bāng lí tsai-iánn    Adios Cucaracha",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "我的心情",
+          "spelling": "guá ê sim-tsîng"
+        },
+        {
+          "text": "希望你知影",
+          "spelling": "hi-bāng lí tsai-iánn"
+        },
+        {
+          "text": "Adios Cucaracha",
+          "spelling": "Adios Cucaracha"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "咱的運命　            只有咱知影                Adios Cucaracha",
+      "spelling": "lán ê ūn-miā        tsí-ū lán tsai-iánn    Adios Cucaracha",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "咱的運命",
+          "spelling": "lán ê ūn-miā"
+        },
+        {
+          "text": "只有咱知影",
+          "spelling": "tsí-ū lán tsai-iánn"
+        },
+        {
+          "text": "Adios Cucaracha",
+          "spelling": "Adios Cucaracha"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "我的心情　            希望你知影                   Adios Cucaracha",
+      "spelling": "guá ê sim-tsîng    hi-bāng lí tsai-iánn    Adios Cucaracha",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "我的心情",
+          "spelling": "guá ê sim-tsîng"
+        },
+        {
+          "text": "希望你知影",
+          "spelling": "hi-bāng lí tsai-iánn"
+        },
+        {
+          "text": "Adios Cucaracha",
+          "spelling": "Adios Cucaracha"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "咱的運命　            只有咱知影                 Adios Cucaracha",
+      "spelling": "lán ê ūn-miā        tsí-ū lán tsai-iánn    Adios Cucaracha",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "咱的運命",
+          "spelling": "lán ê ūn-miā"
+        },
+        {
+          "text": "只有咱知影",
+          "spelling": "tsí-ū lán tsai-iánn"
+        },
+        {
+          "text": "Adios Cucaracha",
+          "spelling": "Adios Cucaracha"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 168369,
+      "title": "甲我跳舞好否",
+      "artists": [
+        "萧煌奇"
+      ],
+      "album": "真·情·歌",
+      "duration": 305.08,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

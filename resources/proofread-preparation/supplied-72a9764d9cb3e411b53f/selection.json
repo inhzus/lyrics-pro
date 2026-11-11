@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "song_id": 16631861,
+    "title": "檳榔西施",
+    "artists": [
+      "董事長樂團"
+    ],
+    "album": "十一台",
+    "duration": 158.088,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrclib:16631861",
+      "duration": 158.088,
+      "ready": false,
+      "coverage": 0.0,
+      "exact_fraction": 0.0,
+      "summary": {
+        "unresolved": 24,
+        "gap": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "recording_id": "netease:490182970",
+  "timing_source": "NetEase https://music.163.com/song?id=490182970",
+  "manual_source": "User-supplied resources/lyrics-spelling/風吹的眠夢-Ripple",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "gap": 2,
+    "unresolved": 10,
+    "approximate": 5,
+    "exact": 8
+  },
+  "review_row_count": 23,
+  "unmatched_manual_ids": [
+    "line-45:0"
+  ],
+  "unused_repeat_ids": [
+    "line-3:0",
+    "line-6:0",
+    "line-9:0",
+    "line-36:0",
+    "line-39:0",
+    "line-42:0",
+    "line-60:0",
+    "line-63:0",
+    "line-66:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : Deng Guang Xian",
+      "match_text": "作词 : Deng Guang Xian",
+      "text": "作词 : Deng Guang Xian",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : Deng Guang Xian/Zhuang Jian Long/Kang Wei Li",
+      "match_text": "作曲 : Deng Guang Xian/Zhuang Jian Long/Kang Wei Li",
+      "text": "作曲 : Deng Guang Xian/Zhuang Jian Long/Kang Wei Li",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 20.82,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 34.12,
+      "online_text": "掠袂絚的时间 阮著 放予伊行",
+      "match_text": "掠袂絚的时间 阮著 放予伊行",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 41.9,
+      "online_text": "咱两人的精彩故事 可以另工佫写",
+      "match_text": "咱两人的精彩故事 可以另工佫写",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 50.37,
+      "online_text": "放袂记的过去 阮著 送予伊啊",
+      "match_text": "放袂记的过去 阮著 送予伊啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 58.3,
+      "online_text": "只有越头继续拍拼 过著扂扂的生活",
+      "match_text": "只有越头继续拍拼 过著扂扂的生活",
+      "text": "只有越頭繼續打拚 過著惦惦的生活",
+      "spelling": "tsí-ū ua̍t-thâu kè-sio̍k phah-piànn kuè-tio̍h tiām-tiām ê sing-ua̍h",
+      "manual_id": "line-12:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.733333
+    },
+    {
+      "source_row": 7,
+      "time": 68.92,
+      "online_text": "路 一步一步家己来行",
+      "match_text": "路 一步一步家己来行",
+      "text": "路 一步一步家己來行",
+      "spelling": "lōo tsi̍t pōo tsi̍t pōo ka-kī lâi kiânn",
+      "manual_id": "line-15:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 77.72,
+      "online_text": "话 一句一句听入心肝",
+      "match_text": "话 一句一句听入心肝",
+      "text": "話 一句一句聽入心肝",
+      "spelling": "uē tsi̍t kù tsi̍t kù thiann-li̍p sim-kuann",
+      "manual_id": "line-18:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 86.05,
+      "online_text": "我 犹原坚持站伫遮",
+      "match_text": "我 犹原坚持站伫遮",
+      "text": "我 猶原堅持站佇遮",
+      "spelling": "guá iu-guân kian-sí khiā tī jia",
+      "manual_id": "line-21:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 93.62,
+      "online_text": "青春 亲像风吹的向望",
+      "match_text": "青春 亲像风吹的向望",
+      "text": "青春 親像風吹的眠夢",
+      "spelling": "tshing-tshun tshin-tshiūnn hong-tshue ê bîn-bāng",
+      "manual_id": "line-24:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.777778
+    },
+    {
+      "source_row": 11,
+      "time": 101.8,
+      "online_text": "一枝草 一点露 两枝草 有倚靠",
+      "match_text": "一枝草 一点露 两枝草 有倚靠",
+      "text": "一枝草 一點露 兩枝草 有倚靠",
+      "spelling": "tsi̍t ki tsháu tsi̍t tiám lōo nn̄g ki tsháu ū uá-khò",
+      "manual_id": "line-27:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 106.45,
+      "online_text": "风雨 火烧 同齐免烦恼",
+      "match_text": "风雨 火烧 同齐免烦恼",
+      "text": "風雨 火燒 同齊免煩惱",
+      "spelling": "hong-hōo hué-sio tâng-tsê bián huân-ló",
+      "manual_id": "line-30:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 110.85,
+      "online_text": "为理想 为前途 按怎拢袂辛苦",
+      "match_text": "为理想 为前途 按怎拢袂辛苦",
+      "text": "有理想 為前途 按怎攏袂辛苦",
+      "spelling": "ū lí-sióng uî tsiân-tôo án-tsuánn lóng buē sin-khóo",
+      "manual_id": "line-33:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.916667
+    },
+    {
+      "source_row": 14,
+      "time": 120.72,
+      "online_text": "掠袂絚的时间 阮著 放予伊行",
+      "match_text": "掠袂絚的时间 阮著 放予伊行",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 129.75,
+      "online_text": "咱两人的精彩故事 可以另工佫写",
+      "match_text": "咱两人的精彩故事 可以另工佫写",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 138.12,
+      "online_text": "放袂记的过去 阮著 送予伊啊",
+      "match_text": "放袂记的过去 阮著 送予伊啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 146.25,
+      "online_text": "只有越头继续拍拼 过著扂扂的",
+      "match_text": "只有越头继续拍拼 过著扂扂的",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 153.87,
+      "online_text": "梦 一个一个斗阵来担",
+      "match_text": "梦 一个一个斗阵来担",
+      "text": "夢 一個一個鬥陣來擔",
+      "spelling": "bāng tsi̍t ê tsi̍t ê tàu-tīn lâi tann",
+      "manual_id": "line-48:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.777778
+    },
+    {
+      "source_row": 19,
+      "time": 161.57,
+      "online_text": "酒 一杯一杯做伙来拼",
+      "match_text": "酒 一杯一杯做伙来拼",
+      "text": "酒 一杯一杯做夥來拚",
+      "spelling": "tsiú tsi̍t pue tsi̍t pue tsò-hué lâi piànn",
+      "manual_id": "line-51:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.777778
+    },
+    {
+      "source_row": 20,
+      "time": 169.55,
+      "online_text": "阮 犹原坚持站伫遮",
+      "match_text": "阮 犹原坚持站伫遮",
+      "text": "阮 猶原堅持站佇遮",
+      "spelling": "gún iu-guân kian-sí khiā tī jia",
+      "manual_id": "line-54:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 177.77,
+      "online_text": "日子 亲像风吹的眠梦",
+      "match_text": "日子 亲像风吹的眠梦",
+      "text": "日子 親像風吹的眠夢",
+      "spelling": "li̍t-tsí tshin-tshiūnn hong-tshue ê bîn-bāng",
+      "manual_id": "line-57:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 185.12,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 23,
+      "time": 235.92,
+      "online_text": "掠袂絚的时间 阮著 放予伊行",
+      "match_text": "掠袂絚的时间 阮著 放予伊行",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 244.1,
+      "online_text": "咱两人的精彩故事 可以另工佫写",
+      "match_text": "咱两人的精彩故事 可以另工佫写",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 252.45,
+      "online_text": "放袂记的过去 阮著 送予伊啊",
+      "match_text": "放袂记的过去 阮著 送予伊啊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 259.82,
+      "online_text": "拢总莫去计较谁输赢",
+      "match_text": "拢总莫去计较谁输赢",
+      "text": "攏總莫去計較誰輸贏",
+      "spelling": "lóng-tsóng bē khì kè-kàu siáng su-iânn",
+      "manual_id": "line-69:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "2eb23f9357a86b6f1e030c68b9514f1e3c3d51b53c0c8aeb1d4db802b9f12510",
+    "manual": "8a4de0315eb852c122a6fdbcd5e325538cfc72eb0d74404b7692ac5ff79957bd",
+    "timed": "b87ff80fca7c21a2b8be466158f870f7f2b02cf079449289f76f0b9bf87bfc69"
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "recording_id": "netease:249191",
+  "timing_source": "NetEase https://music.163.com/song?id=249191",
+  "manual_source": "User-supplied resources/lyrics-spelling/酒醉還是地震-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 24,
+    "repeat": 6,
+    "gap": 2
+  },
+  "review_row_count": 24,
+  "unmatched_manual_ids": [
+    "line-55:0"
+  ],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-22:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 陈子鸿",
+      "match_text": "作词 : 陈子鸿",
+      "text": "作词 : 陈子鸿",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 陈子鸿",
+      "match_text": "作曲 : 陈子鸿",
+      "text": "作曲 : 陈子鸿",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 27.19,
+      "online_text": "痛甲彻底就袂搁痛",
+      "match_text": "痛甲彻底就袂搁痛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 33.02,
+      "online_text": "痛过的心才会晓看破",
+      "match_text": "痛过的心才会晓看破",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 38.93,
+      "online_text": "目屎流干人才会勇敢",
+      "match_text": "目屎流干人才会勇敢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 45.49,
+      "online_text": "阮还有孤单来作伴",
+      "match_text": "阮还有孤单来作伴",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 51.62,
+      "online_text": "酒饮乎醉就袂搁茫",
+      "match_text": "酒饮乎醉就袂搁茫",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 57.81,
+      "online_text": "酒醒后世界甘会不同",
+      "match_text": "酒醒后世界甘会不同",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 64.06,
+      "online_text": "到底是酒醉还是地震",
+      "match_text": "到底是酒醉还是地震",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 70.14,
+      "online_text": "心肝块摇人袂振动",
+      "match_text": "心肝块摇人袂振动",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 75.56,
+      "online_text": "啊　短短一世人　感情麦看彼重",
+      "match_text": "啊　短短一世人　感情麦看彼重",
+      "text": "啊　短短一世人　感情麥看彼重",
+      "spelling": "ah té té tsi̍t-sì-lâng kám-tsîng mài khuànn hiah tiông",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 81.6,
+      "online_text": "咱一步一步　人生路途脚步放轻松",
+      "match_text": "咱一步一步　人生路途脚步放轻松",
+      "text": "咱一步一步　人生路途腳步放輕鬆",
+      "spelling": "lán tsi̍t-pōo tsi̍t-pōo lîn-sing lōo-tôo kha-pōo pàng khin-sang",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 87.69,
+      "online_text": "啊　短短一世人　悲欢故事讲袂完",
+      "match_text": "啊　短短一世人　悲欢故事讲袂完",
+      "text": "啊　短短一世人　悲歡故事講袂完",
+      "spelling": "ah té té tsi̍t-sì-lâng pi-huan kòo-sū kóng-buē-uân",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 94.07,
+      "online_text": "咱一杯一杯　饮乎干饮乎快活",
+      "match_text": "咱一杯一杯　饮乎干饮乎快活",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 101.26,
+      "online_text": "酒饮乎醉就袂搁茫",
+      "match_text": "酒饮乎醉就袂搁茫",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 107.39,
+      "online_text": "酒醒后世界甘会不同",
+      "match_text": "酒醒后世界甘会不同",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 113.71,
+      "online_text": "到底是酒醉还是地震",
+      "match_text": "到底是酒醉还是地震",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 119.9,
+      "online_text": "心肝块摇人袂振动",
+      "match_text": "心肝块摇人袂振动",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 127.66,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 19,
+      "time": 145.41,
+      "online_text": "痛甲彻底就袂搁痛",
+      "match_text": "痛甲彻底就袂搁痛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 151.54,
+      "online_text": "痛过的心才会晓看破",
+      "match_text": "痛过的心才会晓看破",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 157.72,
+      "online_text": "目屎流干人才会勇敢",
+      "match_text": "目屎流干人才会勇敢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 163.95,
+      "online_text": "阮还有孤单来作伴",
+      "match_text": "阮还有孤单来作伴",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 169.51,
+      "online_text": "啊　短短一世人　感情麦看彼重",
+      "match_text": "啊　短短一世人　感情麦看彼重",
+      "text": "啊　短短一世人　感情麥看彼重",
+      "spelling": "ah té té tsi̍t-sì-lâng kám-tsîng mài khuànn hiah tiông",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 175.42,
+      "online_text": "咱一步一步　人生路途脚步放轻松",
+      "match_text": "咱一步一步　人生路途脚步放轻松",
+      "text": "咱一步一步　人生路途腳步放輕鬆",
+      "spelling": "lán tsi̍t-pōo tsi̍t-pōo lîn-sing lōo-tôo kha-pōo pàng khin-sang",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 181.68,
+      "online_text": "啊　短短一世人　悲欢故事讲袂完",
+      "match_text": "啊　短短一世人　悲欢故事讲袂完",
+      "text": "啊　短短一世人　悲歡故事講袂完",
+      "spelling": "ah té té tsi̍t-sì-lâng pi-huan kòo-sū kóng-buē-uân",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 187.81,
+      "online_text": "咱一杯一杯　饮乎干饮乎快活",
+      "match_text": "咱一杯一杯　饮乎干饮乎快活",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 194.93,
+      "online_text": "酒饮乎醉就袂搁茫",
+      "match_text": "酒饮乎醉就袂搁茫",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 201.22,
+      "online_text": "酒醒后世界甘会不同",
+      "match_text": "酒醒后世界甘会不同",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 207.36,
+      "online_text": "到底是酒醉还是地震",
+      "match_text": "到底是酒醉还是地震",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 213.51,
+      "online_text": "心肝块摇人袂振动",
+      "match_text": "心肝块摇人袂振动",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 219.95,
+      "online_text": "管太伊酒醉还是地震",
+      "match_text": "管太伊酒醉还是地震",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-55:0"
+    },
+    {
+      "source_row": 32,
+      "time": 225.88,
+      "online_text": "作伊去摇　作伊去茫",
+      "match_text": "作伊去摇　作伊去茫",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-55:0"
+    },
+    {
+      "source_row": 33,
+      "time": 233.27,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "64b890bc89d13524554f3af6a7e4e021c5932ad8ffd375ae77654e9f5de3b623",
+    "manual": "ddea5e05946fb47c419ad1ed8032e4040f8ae36b9dc3eeaefc1d56fee55d57dc",
+    "timed": "3a254e3454c03b59a56df00f4bf29a8b68e79e82f7a697c5cb8fe7511e5b8a96"
+  }
+}

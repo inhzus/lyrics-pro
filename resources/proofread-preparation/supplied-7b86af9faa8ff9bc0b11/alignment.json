@@ -1,0 +1,400 @@
+{
+  "recording_id": "netease:399367440",
+  "timing_source": "NetEase https://music.163.com/song?id=399367440",
+  "manual_source": "User-supplied resources/lyrics-spelling/燈光下-夕陽武士",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 3,
+    "unresolved": 16,
+    "repeat": 8,
+    "exact": 2
+  },
+  "review_row_count": 16,
+  "unmatched_manual_ids": [
+    "line-40:0",
+    "line-46:0"
+  ],
+  "unused_repeat_ids": [
+    "line-13:0",
+    "line-16:0",
+    "line-31:0",
+    "line-34:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 黄圣峰",
+      "match_text": "作词 : 黄圣峰",
+      "text": "作词 : 黄圣峰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 王立",
+      "match_text": "作曲 : 王立",
+      "text": "作曲 : 王立",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "制作人 : 夕阳武士",
+      "match_text": "制作人 : 夕阳武士",
+      "text": "制作人 : 夕阳武士",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 3.0,
+      "online_text": "编曲人 : 夕阳武士",
+      "match_text": "编曲人 : 夕阳武士",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 4.0,
+      "online_text": "录音工程师 : 陈莹哲",
+      "match_text": "录音工程师 : 陈莹哲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 5.0,
+      "online_text": "混音工程师 : 陈莹哲",
+      "match_text": "混音工程师 : 陈莹哲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 55.11,
+      "online_text": "灯光咧闪烁 照着我的每一日",
+      "match_text": "灯光咧闪烁 照着我的每一日",
+      "text": "燈光咧閃爍 照著我的每一日",
+      "spelling": "ting-kng leh siám-sih tshiō-tio̍h guá ê muí tsi̍t li̍t",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 59.79,
+      "online_text": "你看我的表情 总是满面笑容面对你",
+      "match_text": "你看我的表情 总是满面笑容面对你",
+      "text": "你看我的表情 總是滿面笑容面對你",
+      "spelling": "lí khuànn guá ê piáu-tsîng tsóng-sī muá-bīn tshiò-iông bīn-tuì lí",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 65.12,
+      "online_text": "汗流的表情 没人会去看见",
+      "match_text": "汗流的表情 没人会去看见",
+      "text": "汗流的表情 沒人會去看見",
+      "spelling": "kuānn-lâu ê piáu-tsîng bô-lâng ē khì khuànn-kìnn",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 69.65,
+      "online_text": "时常会迷失着自己的价值到底伫佗位",
+      "match_text": "时常会迷失着自己的价值到底伫佗位",
+      "text": "時常會迷失著自己的價值到底佇佗位",
+      "spelling": "sî-siông ē bê-sit-tio̍h ka-kī ê kè-ta̍t tàu-té tī tó-uī",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 75.31,
+      "online_text": "黑白踅 戆戆的踅",
+      "match_text": "黑白踅 戆戆的踅",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 77.82,
+      "online_text": "无人知无人了解的日子",
+      "match_text": "无人知无人了解的日子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 82.48,
+      "online_text": "（没人了解的日子）",
+      "match_text": "（没人了解的日子）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 84.51,
+      "online_text": "酸苦也是甜",
+      "match_text": "酸苦也是甜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 89.86,
+      "online_text": "灯光咧闪烁 照着我的每一日",
+      "match_text": "灯光咧闪烁 照着我的每一日",
+      "text": "燈光咧閃爍 照著我的每一日",
+      "spelling": "ting-kng leh siám-sih tshiō-tio̍h guá ê muí tsi̍t li̍t",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 94.6,
+      "online_text": "你看我的表情 总是满面笑容面对你",
+      "match_text": "你看我的表情 总是满面笑容面对你",
+      "text": "你看我的表情 總是滿面笑容面對你",
+      "spelling": "lí khuànn guá ê piáu-tsîng tsóng-sī muá-bīn tshiò-iông bīn-tuì lí",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 99.86,
+      "online_text": "汗流的表情 没人会去看见",
+      "match_text": "汗流的表情 没人会去看见",
+      "text": "汗流的表情 沒人會去看見",
+      "spelling": "kuānn-lâu ê piáu-tsîng bô-lâng ē khì khuànn-kìnn",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 104.49,
+      "online_text": "时常会迷失着自己的价值到底伫佗位",
+      "match_text": "时常会迷失着自己的价值到底伫佗位",
+      "text": "時常會迷失著自己的價值到底佇佗位",
+      "spelling": "sî-siông ē bê-sit-tio̍h ka-kī ê kè-ta̍t tàu-té tī tó-uī",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 110.1,
+      "online_text": "黑白踅 戆戆的踅",
+      "match_text": "黑白踅 戆戆的踅",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 112.41,
+      "online_text": "无人知无人了解的日子",
+      "match_text": "无人知无人了解的日子",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 117.14,
+      "online_text": "（没人了解的日子）",
+      "match_text": "（没人了解的日子）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 119.4,
+      "online_text": "酸苦也是甜",
+      "match_text": "酸苦也是甜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 149.96,
+      "online_text": "我也是 戆戆选择我选的路",
+      "match_text": "我也是 戆戆选择我选的路",
+      "text": "我也是 戇戇選擇我選的路",
+      "spelling": "guá iā-sī gōng gōng suán-ti̍k guá suán ê lōo",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 158.94,
+      "online_text": "就算讲生活毋是真理想",
+      "match_text": "就算讲生活毋是真理想",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-40:0"
+    },
+    {
+      "source_row": 24,
+      "time": 163.86,
+      "online_text": "我也是俭俭的度",
+      "match_text": "我也是俭俭的度",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-40:0"
+    },
+    {
+      "source_row": 25,
+      "time": 169.74,
+      "online_text": "做眠梦 梦着我的拍拚变成空",
+      "match_text": "做眠梦 梦着我的拍拚变成空",
+      "text": "做眠夢 夢著我的拍拚變成空",
+      "spelling": "tsuè bîn-bāng bāng-tio̍h guá ê phah-piànn piàn-sîng khang",
+      "manual_id": "line-43:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 178.71,
+      "online_text": "我记得彼暗我哭甲真惨",
+      "match_text": "我记得彼暗我哭甲真惨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-46:0"
+    },
+    {
+      "source_row": 27,
+      "time": 183.66,
+      "online_text": "灯光背后的苦涩",
+      "match_text": "灯光背后的苦涩",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-46:0"
+    },
+    {
+      "source_row": 28,
+      "time": 188.06,
+      "online_text": "~~~",
+      "match_text": "~~~",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "01b257cfc265d9cbe76f38c8663d8fc940891837d3e9c37943cdd63aab778fae",
+    "manual": "24467d5e5460f5daf50272cc7afae2bf64892e73948dab08730178bc491f2076",
+    "timed": "2f69bbd58a93b201018d12f4b2b1a2de31945065b65f92154742ff0f9d060b5a"
+  }
+}

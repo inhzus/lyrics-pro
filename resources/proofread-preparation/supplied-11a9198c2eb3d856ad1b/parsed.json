@@ -1,0 +1,24 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "This is a place for 滅火器 (Fire Ex.) songs that aren’t on any of their main albums.",
+      "spelling": "Enjoy!",
+      "source_lines": [
+        1,
+        3
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:10,11",
+    "ambiguous_pair:5,6",
+    "ambiguous_pair:6,7",
+    "ambiguous_pair:7,8",
+    "ambiguous_pair:8,9",
+    "ambiguous_pair:9,10",
+    "unpaired_line:11"
+  ]
+}

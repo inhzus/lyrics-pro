@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": "840578242",
+      "title": "卒仔",
+      "artists": [
+        "董事长乐团"
+      ],
+      "album": "十一台",
+      "duration": 307.693,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": 16527642,
+      "title": "卒仔",
+      "artists": [
+        "董事長樂團"
+      ],
+      "album": "十一台",
+      "duration": 307.8,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

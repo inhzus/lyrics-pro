@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 248698,
+      "title": "头仔",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "江蕙10年‧典藏精选",
+      "duration": 282.534,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 248805,
+      "title": "头仔",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "甲你揽牢牢",
+      "duration": 282.534,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 5239558,
+      "title": "头仔",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "K情歌8",
+      "duration": 282.534,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

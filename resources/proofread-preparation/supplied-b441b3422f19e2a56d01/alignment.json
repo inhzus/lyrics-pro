@@ -1,0 +1,496 @@
+{
+  "recording_id": "netease:249199",
+  "timing_source": "NetEase https://music.163.com/song?id=249199",
+  "manual_source": "User-supplied resources/lyrics-spelling/美麗的交換-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 26,
+    "repeat": 6,
+    "gap": 2
+  },
+  "review_row_count": 26,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-58:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 姚谦",
+      "match_text": "作词 : 姚谦",
+      "text": "作词 : 姚谦",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 日曲-吉几三",
+      "match_text": "作曲 : 日曲-吉几三",
+      "text": "作曲 : 日曲-吉几三",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 13.22,
+      "online_text": "有人欣赏我唱过的歌",
+      "match_text": "有人欣赏我唱过的歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 19.08,
+      "online_text": "心肝内深深感谢",
+      "match_text": "心肝内深深感谢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 25.13,
+      "online_text": "艺界的路有恁作伴",
+      "match_text": "艺界的路有恁作伴",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 31.03,
+      "online_text": "我才会继续惦这",
+      "match_text": "我才会继续惦这",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 37.14,
+      "online_text": "情路起起落落的变化",
+      "match_text": "情路起起落落的变化",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 39.43,
+      "online_text": "唱出着你的心晟",
+      "match_text": "唱出着你的心晟",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 43.15,
+      "online_text": "人生来来去去的悲欢",
+      "match_text": "人生来来去去的悲欢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 45.29,
+      "online_text": "三两句谁人唱会煞",
+      "match_text": "三两句谁人唱会煞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 52.04,
+      "online_text": "你热情的掌声　我真心的歌声",
+      "match_text": "你热情的掌声　我真心的歌声",
+      "text": "你熱情的掌聲　我真心的歌聲",
+      "spelling": "lí jia̍t-tsîng ê tsióng-siann guá tsin-sim ê kua-siann",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 58.13,
+      "online_text": "冷淡世间　美丽的交换",
+      "match_text": "冷淡世间　美丽的交换",
+      "text": "冷淡世間　美麗的交換",
+      "spelling": "líng-tām sè-kan bí-lē ê kau-uānn",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 64.33,
+      "online_text": "若是你听着我这首歌",
+      "match_text": "若是你听着我这首歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 70.16,
+      "online_text": "这是我最近的心声",
+      "match_text": "这是我最近的心声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 76.23,
+      "online_text": "天边或海角　无论你置叨生活",
+      "match_text": "天边或海角　无论你置叨生活",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 82.12,
+      "online_text": "听我的歌　甲你作伴",
+      "match_text": "听我的歌　甲你作伴",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 89.88,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 17,
+      "time": 109.53,
+      "online_text": "有人欣赏我唱过的歌",
+      "match_text": "有人欣赏我唱过的歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 115.28,
+      "online_text": "心肝内深深感谢",
+      "match_text": "心肝内深深感谢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 121.41,
+      "online_text": "艺界的路有恁作伴",
+      "match_text": "艺界的路有恁作伴",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 127.28,
+      "online_text": "我才会继续惦这",
+      "match_text": "我才会继续惦这",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 133.36,
+      "online_text": "情路起起落落的变化",
+      "match_text": "情路起起落落的变化",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 135.48,
+      "online_text": "唱出着你的心晟",
+      "match_text": "唱出着你的心晟",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 139.32,
+      "online_text": "人生来来去去的悲欢",
+      "match_text": "人生来来去去的悲欢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 141.51,
+      "online_text": "三两句谁人唱会煞",
+      "match_text": "三两句谁人唱会煞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 148.33,
+      "online_text": "你热情的掌声　我真心的歌声",
+      "match_text": "你热情的掌声　我真心的歌声",
+      "text": "你熱情的掌聲　我真心的歌聲",
+      "spelling": "lí jia̍t-tsîng ê tsióng-siann guá tsin-sim ê kua-siann",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 154.4,
+      "online_text": "冷淡世间　美丽的交换",
+      "match_text": "冷淡世间　美丽的交换",
+      "text": "冷淡世間　美麗的交換",
+      "spelling": "líng-tām sè-kan bí-lē ê kau-uānn",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 160.58,
+      "online_text": "若是你听着我这首歌",
+      "match_text": "若是你听着我这首歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 166.39,
+      "online_text": "这是我最近的心声",
+      "match_text": "这是我最近的心声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 172.42,
+      "online_text": "天边或海角　无论你置叨生活",
+      "match_text": "天边或海角　无论你置叨生活",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 178.29,
+      "online_text": "听我的歌　甲你作伴",
+      "match_text": "听我的歌　甲你作伴",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 187.59,
+      "online_text": "啦～　啦～　啦～",
+      "match_text": "啦～　啦～　啦～",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 199.0,
+      "online_text": "你热情的掌声　我真心的歌声",
+      "match_text": "你热情的掌声　我真心的歌声",
+      "text": "你熱情的掌聲　我真心的歌聲",
+      "spelling": "lí jia̍t-tsîng ê tsióng-siann guá tsin-sim ê kua-siann",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 205.07,
+      "online_text": "冷淡世间　美丽的交换",
+      "match_text": "冷淡世间　美丽的交换",
+      "text": "冷淡世間　美麗的交換",
+      "spelling": "líng-tām sè-kan bí-lē ê kau-uānn",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 210.83,
+      "online_text": "啦～　啦～　冷淡世间　美丽的交换",
+      "match_text": "啦～　啦～　冷淡世间　美丽的交换",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 226.87,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "4d0284587fddd6a89ec8e7d254ea32df1fa1e33062ad05ac2d9cd4c68249856f",
+    "manual": "89a2ea236fcfe40ad7919265d77da5b9b5e3db22566df5b02bb192969e3fda0d",
+    "timed": "06dec4f1870fbc6f538756bbd5328652e837b1c49d0a0badf64c1af022f86520"
+  }
+}

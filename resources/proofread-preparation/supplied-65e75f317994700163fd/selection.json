@@ -1,0 +1,59 @@
+{
+  "selected": {
+    "song_id": 386032,
+    "title": "轧车",
+    "artists": [
+      "五月天"
+    ],
+    "album": "知足 最真杰作选",
+    "duration": 156.734,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "netease:386032",
+      "duration": 156.734,
+      "ready": false,
+      "coverage": 0.35714285714285715,
+      "exact_fraction": 0.14285714285714285,
+      "summary": {
+        "credit": 3,
+        "approximate": 6,
+        "exact": 2,
+        "unresolved": 18,
+        "repeat": 2,
+        "gap": 3
+      }
+    },
+    {
+      "recording_id": "netease:386934",
+      "duration": 156.734,
+      "ready": false,
+      "coverage": 0.35714285714285715,
+      "exact_fraction": 0.14285714285714285,
+      "summary": {
+        "credit": 3,
+        "approximate": 6,
+        "exact": 2,
+        "unresolved": 18,
+        "repeat": 2
+      }
+    },
+    {
+      "recording_id": "netease:5276469",
+      "duration": 163.0,
+      "ready": false,
+      "coverage": 0.35714285714285715,
+      "exact_fraction": 0.14285714285714285,
+      "summary": {
+        "credit": 2,
+        "gap": 3,
+        "approximate": 6,
+        "exact": 2,
+        "unresolved": 18,
+        "repeat": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "recording_id": "netease:490182967",
+  "timing_source": "NetEase https://music.163.com/song?id=490182967",
+  "manual_source": "User-supplied resources/lyrics-spelling/袂開的花-Ripple",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "repeat": 20,
+    "unresolved": 7,
+    "gap": 1
+  },
+  "review_row_count": 7,
+  "unmatched_manual_ids": [
+    "line-28:0",
+    "line-37:0"
+  ],
+  "unused_repeat_ids": [
+    "line-19:0",
+    "line-43:0",
+    "line-46:0",
+    "line-73:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : Deng Guang Xian",
+      "match_text": "作词 : Deng Guang Xian",
+      "text": "作词 : Deng Guang Xian",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : Deng Guang Xian/Zhuang Jian Long/Kang Wei Li",
+      "match_text": "作曲 : Deng Guang Xian/Zhuang Jian Long/Kang Wei Li",
+      "text": "作曲 : Deng Guang Xian/Zhuang Jian Long/Kang Wei Li",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 25.08,
+      "online_text": "阮定定会想袂清",
+      "match_text": "阮定定会想袂清",
+      "text": "阮定定會想袂清",
+      "spelling": "gún tiānn-tiānn ē siūnn-buē-tshing",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 30.06,
+      "online_text": "看袂着 阮看袂着头前的路",
+      "match_text": "看袂着 阮看袂着头前的路",
+      "text": "看袂著 阮看袂著頭前的路",
+      "spelling": "khuànn-buē-tio̍h gún khuànn-buē-tio̍h thâu-tsîng ê lōo",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 35.06,
+      "online_text": "你应该知影",
+      "match_text": "你应该知影",
+      "text": "你應該知影",
+      "spelling": "lí ing-kai tsai-iánn",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 40.06,
+      "online_text": "甲意的所疼惜的全部代志",
+      "match_text": "甲意的所疼惜的全部代志",
+      "text": "甲意的所疼惜的全部代誌",
+      "spelling": "kā-ì ê sóo thiànn-sioh ê tsuân-pōo tāi-tsì",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 45.03,
+      "online_text": "阮心肝底放袂记",
+      "match_text": "阮心肝底放袂记",
+      "text": "阮心肝底放袂記",
+      "spelling": "gún sim-kuann té pàng-buē-kì",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 50.06,
+      "online_text": "少年时伫彼当阵所有过去",
+      "match_text": "少年时伫彼当阵所有过去",
+      "text": "少年時佇彼當陣所有過去",
+      "spelling": "siàu-liân sî tī hit tang tsūn sóo-iú kuè-khì",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 54.98,
+      "online_text": "你其实了解",
+      "match_text": "你其实了解",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 60.01,
+      "online_text": "真简单将心打开就好",
+      "match_text": "真简单将心打开就好",
+      "text": "真簡單將心打開就好",
+      "spelling": "tsin kán-tan tsiòng sim phah khui tio̍h hó",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 64.86,
+      "online_text": "（口白：",
+      "match_text": "（口白：",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 66.08,
+      "online_text": "阮定定会想袂清 看袂着头前的路",
+      "match_text": "阮定定会想袂清 看袂着头前的路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 71.98,
+      "online_text": "你应该知影 甲意的所疼惜的全部代志",
+      "match_text": "你应该知影 甲意的所疼惜的全部代志",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 78.31,
+      "online_text": "阮心肝底嘛放袂记 少年时伫彼当阵所有过去",
+      "match_text": "阮心肝底嘛放袂记 少年时伫彼当阵所有过去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 83.53,
+      "online_text": "你嘛其实了解 你嘛其实了解）",
+      "match_text": "你嘛其实了解 你嘛其实了解）",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 89.13,
+      "online_text": "花袂开 莫怨叹",
+      "match_text": "花袂开 莫怨叹",
+      "text": "花袂開 莫怨嘆",
+      "spelling": "hue-buē-khui mài uàn-thàn",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 99.23,
+      "online_text": "爱期待 有春天",
+      "match_text": "爱期待 有春天",
+      "text": "愛期待 有春天",
+      "spelling": "ài kî-thāi ū tshun-thinn",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 110.03,
+      "online_text": "阮定定会想袂清",
+      "match_text": "阮定定会想袂清",
+      "text": "阮定定會想袂清",
+      "spelling": "gún tiānn-tiānn ē siūnn-buē-tshing",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 115.06,
+      "online_text": "看袂着 阮看袂着头前的路",
+      "match_text": "看袂着 阮看袂着头前的路",
+      "text": "看袂著 阮看袂著頭前的路",
+      "spelling": "khuànn-buē-tio̍h gún khuànn-buē-tio̍h thâu-tsîng ê lōo",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 119.78,
+      "online_text": "你应该知影",
+      "match_text": "你应该知影",
+      "text": "你應該知影",
+      "spelling": "lí ing-kai tsai-iánn",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 125.13,
+      "online_text": "甲意的所疼惜的全部代志",
+      "match_text": "甲意的所疼惜的全部代志",
+      "text": "甲意的所疼惜的全部代誌",
+      "spelling": "kā-ì ê sóo thiànn-sioh ê tsuân-pōo tāi-tsì",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 130.13,
+      "online_text": "阮心肝底放袂记",
+      "match_text": "阮心肝底放袂记",
+      "text": "阮心肝底放袂記",
+      "spelling": "gún sim-kuann té pàng-buē-kì",
+      "manual_id": "line-13:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 135.03,
+      "online_text": "少年时伫彼当阵所有过去",
+      "match_text": "少年时伫彼当阵所有过去",
+      "text": "少年時佇彼當陣所有過去",
+      "spelling": "siàu-liân sî tī hit tang tsūn sóo-iú kuè-khì",
+      "manual_id": "line-16:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 139.91,
+      "online_text": "你其实了解",
+      "match_text": "你其实了解",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 145.06,
+      "online_text": "真简单将心打开就好",
+      "match_text": "真简单将心打开就好",
+      "text": "真簡單將心打開就好",
+      "spelling": "tsin kán-tan tsiòng sim phah khui tio̍h hó",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 152.03,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 26,
+      "time": 173.98,
+      "online_text": "花袂开 莫怨叹",
+      "match_text": "花袂开 莫怨叹",
+      "text": "花袂開 莫怨嘆",
+      "spelling": "hue-buē-khui mài uàn-thàn",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 184.63,
+      "online_text": "爱期待 有春天",
+      "match_text": "爱期待 有春天",
+      "text": "愛期待 有春天",
+      "spelling": "ài kî-thāi ū tshun-thinn",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 227.21,
+      "online_text": "花袂开 莫怨叹",
+      "match_text": "花袂开 莫怨叹",
+      "text": "花袂開 莫怨嘆",
+      "spelling": "hue-buē-khui mài uàn-thàn",
+      "manual_id": "line-49:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 237.53,
+      "online_text": "爱期待 有春天",
+      "match_text": "爱期待 有春天",
+      "text": "愛期待 有春天",
+      "spelling": "ài kî-thāi ū tshun-thinn",
+      "manual_id": "line-52:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "c44025ceb61473a67d86f9a990e79f0abeec9dc6230a5e1250c7d0edc9e5fcd4",
+    "manual": "f72161f8eef53d8cc9f6b42edbb483a0d0463ce2044fdcca023d99badba26e4b",
+    "timed": "1b0e35b7cfc6b4000a121418be60ecdec7f2ffd26f7098674452898897e5fc30"
+  }
+}

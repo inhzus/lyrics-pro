@@ -1,0 +1,690 @@
+{
+  "recording_id": "netease:386854",
+  "timing_source": "NetEase https://music.163.com/song?id=386854",
+  "manual_source": "User-supplied resources/lyrics-spelling/憨人-五月天",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 3,
+    "approximate": 4,
+    "exact": 5,
+    "unresolved": 26,
+    "repeat": 10
+  },
+  "review_row_count": 35,
+  "unmatched_manual_ids": [
+    "line-3:1",
+    "line-6:0",
+    "line-6:1",
+    "line-9:1",
+    "line-12:1",
+    "line-33:1",
+    "line-33:2",
+    "line-36:0",
+    "line-36:1",
+    "line-39:1",
+    "line-39:2",
+    "line-42:0",
+    "line-42:1"
+  ],
+  "unused_repeat_ids": [
+    "line-12:2",
+    "line-18:0",
+    "line-21:0",
+    "line-21:1",
+    "line-21:2",
+    "line-27:0",
+    "line-27:1",
+    "line-30:0",
+    "line-30:1",
+    "line-42:2",
+    "line-48:0",
+    "line-51:0",
+    "line-51:1",
+    "line-51:2",
+    "line-57:0",
+    "line-57:1",
+    "line-60:0",
+    "line-60:1",
+    "line-63:0",
+    "line-63:1",
+    "line-63:2",
+    "line-69:0",
+    "line-69:1",
+    "line-72:0",
+    "line-72:1",
+    "line-72:2"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 五月天 阿信",
+      "match_text": "作词 : 五月天 阿信",
+      "text": "作词 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 五月天 阿信",
+      "match_text": "作曲 : 五月天 阿信",
+      "text": "作曲 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "编曲 : 五月天",
+      "match_text": "编曲 : 五月天",
+      "text": "编曲 : 五月天",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 11.84,
+      "online_text": "我的心内感觉 人生的沉重",
+      "match_text": "我的心内感觉 人生的沉重",
+      "text": "我的心內感覺",
+      "spelling": "guá ê sim-lāi kám-kak",
+      "manual_id": "line-3:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.705882
+    },
+    {
+      "source_row": 4,
+      "time": 15.08,
+      "online_text": "不敢来振动",
+      "match_text": "不敢来振动",
+      "text": "不敢來振動",
+      "spelling": "m̄ kánn lâi tín-tāng",
+      "manual_id": "line-3:2",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 17.96,
+      "online_text": "我不是好子 嘛不是歹人",
+      "match_text": "我不是好子 嘛不是歹人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 21.02,
+      "online_text": "我只是爱眠梦",
+      "match_text": "我只是爱眠梦",
+      "text": "我只是愛眠夢",
+      "spelling": "guá tsí-sī ài bîn-bāng",
+      "manual_id": "line-6:2",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 23.83,
+      "online_text": "我不愿随浪随风 飘浪西东",
+      "match_text": "我不愿随浪随风 飘浪西东",
+      "text": "我不願隨浪隨風",
+      "spelling": "guá m̄-guān suî íng suî hong",
+      "manual_id": "line-9:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.777778
+    },
+    {
+      "source_row": 8,
+      "time": 27.17,
+      "online_text": "亲像船无港",
+      "match_text": "亲像船无港",
+      "text": "親像船無港",
+      "spelling": "tshin-tshiūnn tsûn bô káng",
+      "manual_id": "line-9:2",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 29.84,
+      "online_text": "我不愿做人 奸巧钻缝",
+      "match_text": "我不愿做人 奸巧钻缝",
+      "text": "我不願做人",
+      "spelling": "guá m̄-guān tsuè lâng",
+      "manual_id": "line-12:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.714286
+    },
+    {
+      "source_row": 10,
+      "time": 33.03,
+      "online_text": "甘愿来做憨人",
+      "match_text": "甘愿来做憨人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 37.74,
+      "online_text": "我不是头脑空空",
+      "match_text": "我不是头脑空空",
+      "text": "我不是頭腦空空",
+      "spelling": "guá m̄ sī thâu-náu khàng khàng",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 40.89,
+      "online_text": "我不是一只米虫",
+      "match_text": "我不是一只米虫",
+      "text": "我不是一隻米蟲",
+      "spelling": "guá m̄ sī tsi̍t tsiah bí-thâng",
+      "manual_id": "line-15:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 43.52,
+      "online_text": "人啊人 一世人",
+      "match_text": "人啊人 一世人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 46.28,
+      "online_text": "要安怎欢喜 过春夏秋冬",
+      "match_text": "要安怎欢喜 过春夏秋冬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 50.95,
+      "online_text": "我有我的路 有我的梦",
+      "match_text": "我有我的路 有我的梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 57.43,
+      "online_text": "梦中的那个世界",
+      "match_text": "梦中的那个世界",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 60.24,
+      "online_text": "甘讲伊是一场空",
+      "match_text": "甘讲伊是一场空",
+      "text": "甘講伊是一場空",
+      "spelling": "kam kóng i sī tsi̍t tiûnn khòng",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 63.02,
+      "online_text": "我走过的路 只有希望",
+      "match_text": "我走过的路 只有希望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 69.27,
+      "online_text": "希望你我讲过的话",
+      "match_text": "希望你我讲过的话",
+      "text": "希望你我講過的話",
+      "spelling": "hi-bāng lí guá kóng kè ê uē",
+      "manual_id": "line-27:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 72.01,
+      "online_text": "放在心肝内 总有一天",
+      "match_text": "放在心肝内 总有一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 86.78,
+      "online_text": "看着满天全金条",
+      "match_text": "看着满天全金条",
+      "text": "看到滿天全金條",
+      "spelling": "khuànn-kàu muá-thinn tsuân kim-tiâu",
+      "manual_id": "line-33:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 22,
+      "time": 88.82,
+      "online_text": "要煞无半项 环境来戏弄",
+      "match_text": "要煞无半项 环境来戏弄",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 92.54,
+      "online_text": "背景无够强 天才无够弄",
+      "match_text": "背景无够强 天才无够弄",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 95.98,
+      "online_text": "逐项是拢输人",
+      "match_text": "逐项是拢输人",
+      "text": "逐項是攏輸人",
+      "spelling": "ta̍k-hāng sī lóng su lâng",
+      "manual_id": "line-36:2",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 98.69,
+      "online_text": "只好看破这虚华",
+      "match_text": "只好看破这虚华",
+      "text": "只好看破這虛華",
+      "spelling": "tsí-hó khuànn-phuà tse hi-hua",
+      "manual_id": "line-39:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 100.79,
+      "online_text": "不怕路歹行 不怕大雨淋",
+      "match_text": "不怕路歹行 不怕大雨淋",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 104.73,
+      "online_text": "心上一字敢 面对我的梦",
+      "match_text": "心上一字敢 面对我的梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 107.65,
+      "online_text": "甘愿来做憨人",
+      "match_text": "甘愿来做憨人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 112.81,
+      "online_text": "我不是头脑空空",
+      "match_text": "我不是头脑空空",
+      "text": "我不是頭腦空空",
+      "spelling": "guá m̄ sī thâu-náu khàng khàng",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 115.84,
+      "online_text": "我不是一只米虫",
+      "match_text": "我不是一只米虫",
+      "text": "我不是一隻米蟲",
+      "spelling": "guá m̄ sī tsi̍t tsiah bí-thâng",
+      "manual_id": "line-15:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 118.64,
+      "online_text": "人啊人 一世人",
+      "match_text": "人啊人 一世人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 121.51,
+      "online_text": "要安怎欢喜 过春夏秋冬",
+      "match_text": "要安怎欢喜 过春夏秋冬",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 126.28,
+      "online_text": "我有我的路 有我的梦",
+      "match_text": "我有我的路 有我的梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 132.32,
+      "online_text": "梦中的那个世界",
+      "match_text": "梦中的那个世界",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 135.2,
+      "online_text": "甘讲伊是一场空",
+      "match_text": "甘讲伊是一场空",
+      "text": "甘講伊是一場空",
+      "spelling": "kam kóng i sī tsi̍t tiûnn khòng",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 137.89,
+      "online_text": "我走过的路 只有希望",
+      "match_text": "我走过的路 只有希望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 144.2,
+      "online_text": "希望你我讲过的话",
+      "match_text": "希望你我讲过的话",
+      "text": "希望你我講過的話",
+      "spelling": "hi-bāng lí guá kóng kè ê uē",
+      "manual_id": "line-27:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 38,
+      "time": 147.24,
+      "online_text": "放在心肝内 总有一天",
+      "match_text": "放在心肝内 总有一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 166.67,
+      "online_text": "我有我的路 有我的梦",
+      "match_text": "我有我的路 有我的梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 172.72,
+      "online_text": "梦中的那个世界",
+      "match_text": "梦中的那个世界",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 175.13,
+      "online_text": "甘讲伊是一场空",
+      "match_text": "甘讲伊是一场空",
+      "text": "甘講伊是一場空",
+      "spelling": "kam kóng i sī tsi̍t tiûnn khòng",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 178.82,
+      "online_text": "我走过的路 只有希望",
+      "match_text": "我走过的路 只有希望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 184.79,
+      "online_text": "希望你我讲过的话",
+      "match_text": "希望你我讲过的话",
+      "text": "希望你我講過的話",
+      "spelling": "hi-bāng lí guá kóng kè ê uē",
+      "manual_id": "line-27:2",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 44,
+      "time": 187.45,
+      "online_text": "放在心肝内 总有一天",
+      "match_text": "放在心肝内 总有一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 194.89,
+      "online_text": "我知影总会有一天",
+      "match_text": "我知影总会有一天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 199.74,
+      "online_text": "Yeah~~~",
+      "match_text": "Yeah~~~",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 203.0,
+      "online_text": "LaLaLa...........",
+      "match_text": "LaLaLa...........",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "fda3637764cf7dd6d7c7c8fd495cc338734e1ee44234441a65a3731640ab4e60",
+    "manual": "d8c4d8c6aa67fa7448d57b7ed1d7905f6002b3dd689f44c4ac8d9a1fa0941b33",
+    "timed": "3400012927aaefb62f639373f3c9411ceb889be93463b4063939090eac7a2285"
+  }
+}

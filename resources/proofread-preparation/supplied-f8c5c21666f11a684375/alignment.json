@@ -1,0 +1,725 @@
+{
+  "recording_id": "lrcapi:1445522132",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E7%94%9C%E8%9C%9C%E7%9A%84%E4%B8%96%E7%95%8C&artist=%E6%B1%9F%E8%95%99&album=%E7%94%B2%E4%BD%A0%E6%8F%BD%E7%89%A2%E7%89%A2#1445522132",
+  "manual_source": "User-supplied resources/lyrics-spelling/甜蜜的世界-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "unresolved": 51
+  },
+  "review_row_count": 51,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0"
+  ],
+  "unused_repeat_ids": [
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-22:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0",
+    "line-58:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 17.228,
+      "online_text": "(La-la-la-la)",
+      "match_text": "(La-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 19.703,
+      "online_text": "(La-la-la-la)",
+      "match_text": "(La-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 2,
+      "time": 23.582,
+      "online_text": "(Ha-ah-ah)",
+      "match_text": "(Ha-ah-ah)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 29.027,
+      "online_text": "當初阮的笑",
+      "match_text": "當初阮的笑",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 4,
+      "time": 30.889,
+      "online_text": "阮的哭",
+      "match_text": "阮的哭",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 5,
+      "time": 32.986,
+      "online_text": "阮的世界",
+      "match_text": "阮的世界",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 35.819,
+      "online_text": "只是單純的",
+      "match_text": "只是單純的",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 7,
+      "time": 38.291,
+      "online_text": "美麗情懷",
+      "match_text": "美麗情懷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 8,
+      "time": 42.854,
+      "online_text": "自從你的人",
+      "match_text": "自從你的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 9,
+      "time": 45.49,
+      "online_text": "你的夢",
+      "match_text": "你的夢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-7:0"
+    },
+    {
+      "source_row": 10,
+      "time": 47.429,
+      "online_text": "行入心內",
+      "match_text": "行入心內",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 50.389,
+      "online_text": "改變阮",
+      "match_text": "改變阮",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 12,
+      "time": 52.421,
+      "online_text": "所有的色彩",
+      "match_text": "所有的色彩",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-10:0"
+    },
+    {
+      "source_row": 13,
+      "time": 57.1,
+      "online_text": "緣份是一場",
+      "match_text": "緣份是一場",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 61.256,
+      "online_text": "最溫暖的等待",
+      "match_text": "最溫暖的等待",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 64.785,
+      "online_text": "雙人愛到結局",
+      "match_text": "雙人愛到結局",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 68.292,
+      "online_text": "共同打拼將來",
+      "match_text": "共同打拼將來",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 72.135,
+      "online_text": "陣陣音樂聲",
+      "match_text": "陣陣音樂聲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 75.56,
+      "online_text": "祝賀咱的光采",
+      "match_text": "祝賀咱的光采",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 78.556,
+      "online_text": "(咱的光采)",
+      "match_text": "(咱的光采)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 79.263,
+      "online_text": "上甜蜜",
+      "match_text": "上甜蜜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 80.912,
+      "online_text": "兩個人的世界",
+      "match_text": "兩個人的世界",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 87.982,
+      "online_text": "(La-la)",
+      "match_text": "(La-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 97.232,
+      "online_text": "(La-la-la-la-la-la)",
+      "match_text": "(La-la-la-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 101.615,
+      "online_text": "(La-la-la-la)",
+      "match_text": "(La-la-la-la)",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 118.76,
+      "online_text": "今後阮的夢",
+      "match_text": "今後阮的夢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-25:0"
+    },
+    {
+      "source_row": 26,
+      "time": 121.268,
+      "online_text": "阮的愛",
+      "match_text": "阮的愛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-25:0"
+    },
+    {
+      "source_row": 27,
+      "time": 123.114,
+      "online_text": "阮的世界",
+      "match_text": "阮的世界",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 126.04,
+      "online_text": "就欲交乎你",
+      "match_text": "就欲交乎你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-28:0"
+    },
+    {
+      "source_row": 29,
+      "time": 128.786,
+      "online_text": "替阮安排",
+      "match_text": "替阮安排",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-28:0"
+    },
+    {
+      "source_row": 30,
+      "time": 133.354,
+      "online_text": "無論風外透",
+      "match_text": "無論風外透",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-31:0"
+    },
+    {
+      "source_row": 31,
+      "time": 135.688,
+      "online_text": "雨外大",
+      "match_text": "雨外大",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-31:0"
+    },
+    {
+      "source_row": 32,
+      "time": 137.452,
+      "online_text": "情深如海",
+      "match_text": "情深如海",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 140.471,
+      "online_text": "若有你",
+      "match_text": "若有你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-34:0"
+    },
+    {
+      "source_row": 34,
+      "time": 142.027,
+      "online_text": "笑容永遠在",
+      "match_text": "笑容永遠在",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-34:0"
+    },
+    {
+      "source_row": 35,
+      "time": 147.344,
+      "online_text": "緣份是一場",
+      "match_text": "緣份是一場",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 151.233,
+      "online_text": "最溫暖的等待",
+      "match_text": "最溫暖的等待",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 154.798,
+      "online_text": "雙人愛到結局",
+      "match_text": "雙人愛到結局",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 158.281,
+      "online_text": "共同打拼將來",
+      "match_text": "共同打拼將來",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 162.158,
+      "online_text": "陣陣音樂聲",
+      "match_text": "陣陣音樂聲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 165.665,
+      "online_text": "祝賀咱的光采",
+      "match_text": "祝賀咱的光采",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 169.298,
+      "online_text": "上甜蜜",
+      "match_text": "上甜蜜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 170.97,
+      "online_text": "兩個人的世界",
+      "match_text": "兩個人的世界",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 176.299,
+      "online_text": "緣份是一場",
+      "match_text": "緣份是一場",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 179.887,
+      "online_text": "最溫暖的等待",
+      "match_text": "最溫暖的等待",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 183.497,
+      "online_text": "雙人愛到結局",
+      "match_text": "雙人愛到結局",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 187.05,
+      "online_text": "共同打拼將來",
+      "match_text": "共同打拼將來",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 191.067,
+      "online_text": "陣陣音樂聲",
+      "match_text": "陣陣音樂聲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 48,
+      "time": 194.504,
+      "online_text": "祝賀咱的光采",
+      "match_text": "祝賀咱的光采",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 49,
+      "time": 197.436,
+      "online_text": "上甜蜜",
+      "match_text": "上甜蜜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 50,
+      "time": 199.27,
+      "online_text": "兩個人的世界",
+      "match_text": "兩個人的世界",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "1b69c52dc6ab4a07dc61d0df77440af4bc780002b569d42228970373713e5793",
+    "manual": "129d7a93dcfa257f7de198b99936c9cbc308590fbc0cb2e6d77bfebf8e216056",
+    "timed": "3ea6e219ef3af4285158f2ea6c8e73a601001eed8746de29e9885bd8cd70c621"
+  }
+}

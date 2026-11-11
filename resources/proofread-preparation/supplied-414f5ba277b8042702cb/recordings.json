@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": 168365,
+      "title": "爱这首歌",
+      "artists": [
+        "萧煌奇"
+      ],
+      "album": "真·情·歌",
+      "duration": 280.92,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 1883541114,
+      "title": "爱这首歌",
+      "artists": [
+        "卢昌义"
+      ],
+      "album": "爱这首歌",
+      "duration": 275.721,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

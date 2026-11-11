@@ -1,0 +1,131 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "風 鹹鹹的風 日頭 照著阮",
+      "spelling": "hong kiâm kiâm ê hong ji̍t-thâu tsiò tio̍h gún",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "寫幾句話 畫一張圖 頭前敢有路",
+      "spelling": "siá kuí kù uē uē tsi̍t tiunn tôo thâu tsîng kám ū-lōo",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "啥物時陣 擱來這散步?",
+      "spelling": "siánn-mih sî-tsūn koh lâi tsia sàn-pōo",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "信守的明信片 薄薄的心意",
+      "spelling": "sìn-siú ê bîng-sìn-phìnn po̍h po̍h ê sim-ì",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "寄予家己 寄予你",
+      "spelling": "kià-hōo ka-kī kià-hōo lí",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "日子是風 南來北去 好歹攏有時",
+      "spelling": "ji̍t-tsí sī hong lâm lâi pak khì hònn pháinn lóng ū-sî",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "行 嘛是愛 轉去",
+      "spelling": "kiânn mah sī ài tńg khì",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "寫幾句話 畫一張圖 頭前敢有路",
+      "spelling": "siá kuí kù uē uē tsi̍t tiunn tôo thâu tsîng kám ū-lōo",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "啥物時陣 擱來這散步?",
+      "spelling": "siánn-mih sî-tsūn koh lâi tsia sàn-pōo",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "信守的明信片 薄薄的心意",
+      "spelling": "siánn-mih sî-tsūn koh lâi tsia sàn-pōo",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "寄予家己 寄予你",
+      "spelling": "kià-hōo ka-kī kià-hōo lí",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "日子是風 南來北去 好歹攏有時",
+      "spelling": "ji̍t-tsí sī hong lâm lâi pak khì hònn pháinn lóng ū-sî",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "行 嘛是愛 轉去",
+      "spelling": "kiânn mah sī ài tńg khì",
+      "source_lines": [
+        39,
+        40
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：謝銘祐   作曲：謝銘祐   台語拼音： 關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

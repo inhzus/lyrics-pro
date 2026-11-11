@@ -1,0 +1,151 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "心愛的一句講嘛袂曉話 親像風吹斷線汝欲飛去哪",
+      "spelling": "sim-ài ê tsi̍t kù kóng mā buē hiáu uē tshin-tshiūnn hong-tshue tn̄g suànn lí beh pue-khì tuī",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "攏無留只剩風中一枝花 放乎流賣擱想袂曉",
+      "spelling": "lóng bô lâu tsí sīng hong tiong tsi̍t ki hue pàng honnh lâu mái koh siūnn buē hiáu",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "我甲汝惦同一個所在 但只剩風雨滲到目屎",
+      "spelling": "guá kah lí tiām kâng tsi̍t ê sóo-tsāi nā tsí tshun hong-hōo siàm-tio̍h ba̍k-sái",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "汝美麗的模樣 只有惦夢中才看的在",
+      "spelling": "lí bí-lē ê bôo-iūnn tsí-ū tiām bāng-tiong tsiah khuànn ê tsāi",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "看到天頂消逝的流星 早已經找無汝的形影",
+      "spelling": "khuànn-tio̍h thinn-tíng siau-sē ê liû-tshinn tsá í-king tshuē bô lí ê hîng-iánn",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "我叫著汝的名字 希望我哭束的時 汝就返來",
+      "spelling": "guá kiò-tio̍h lí ê miâ-lī hi-bāng guá khàu suah ê sî lí tio̍h tńg-lâi",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "心愛的一張無地址的批 思念的我欲寄去哪",
+      "spelling": "sim-ài ê tsi̍t tiunn bô tē-tsí ê phue su-liām ê guá beh kià khì tuī",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "我甲汝惦同一個所在 但只剩風雨滲到目屎",
+      "spelling": "guá kah lí tiām kâng tsi̍t ê sóo-tsāi nā tsí tshun hong-hōo siàm-tio̍h ba̍k-sái",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "汝美麗的模樣 只有惦夢中才看的在",
+      "spelling": "lí bí-lē ê bôo-iūnn tsí-ū tiām bāng-tiong tsiah khuànn ê tsāi",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "看到天頂消逝的流星 早已經找無汝的形影",
+      "spelling": "khuànn-tio̍h thinn-tíng siau-sē ê liû-tshinn tsá í-king tshuē bô lí ê hîng-iánn",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "我叫著汝的名字 希望我哭束的時 汝就返來",
+      "spelling": "guá kiò-tio̍h lí ê miâ-lī hi-bāng guá khàu suah ê sî lí tio̍h tńg-lâi",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "我甲汝惦同一個所在 但只剩風雨滲到目屎",
+      "spelling": "guá kah lí tiām kâng tsi̍t ê sóo-tsāi nā tsí tshun hong-hōo siàm-tio̍h ba̍k-sái",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "汝美麗的模樣 只有惦夢中才看的在",
+      "spelling": "lí bí-lē ê bôo-iūnn tsí-ū tiām bāng-tiong tsiah khuànn ê tsāi",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "看到天頂消逝的流星 早已經找無汝的形影",
+      "spelling": "khuànn-tio̍h thinn-tíng siau-sē ê liû-tshinn tsá í-king tshuē bô lí ê hîng-iánn",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "我叫著汝的名字 希望我哭束的時 汝就返來",
+      "spelling": "guá kiò-tio̍h lí ê miâ-lī hi-bāng guá khàu suah ê sî lí tio̍h tńg-lâi",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "汝就返來 汝就返來 啊～",
+      "spelling": "lí tio̍h tńg-lâi lí tio̍h tńg-lâi ah~",
+      "source_lines": [
+        46,
+        47
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

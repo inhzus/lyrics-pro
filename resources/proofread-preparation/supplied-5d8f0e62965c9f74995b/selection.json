@@ -1,0 +1,37 @@
+{
+  "selected": {
+    "song_id": "1547227754",
+    "title": "海上的人",
+    "artists": [
+      "灭火器"
+    ],
+    "album": "进击下半场",
+    "duration": 246.227,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1547227754",
+      "duration": 246.227,
+      "ready": false,
+      "coverage": 0.05555555555555555,
+      "exact_fraction": 0.0,
+      "summary": {
+        "unresolved": 34,
+        "approximate": 2
+      }
+    },
+    {
+      "recording_id": "lrcapi:375431427",
+      "duration": 246.35,
+      "ready": false,
+      "coverage": 0.05555555555555555,
+      "exact_fraction": 0.0,
+      "summary": {
+        "unresolved": 34,
+        "approximate": 2
+      }
+    }
+  ]
+}

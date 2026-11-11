@@ -1,0 +1,61 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "漂流 漂流 漂流 漂流 ～～",
+      "spelling": "phiau-liû phiau-liû phiau-liû phiau-liû～～",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "敢猶有人咧聽歌",
+      "spelling": "kám iáu ū lâng leh thiann kua",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "敢猶有人咧聽阮个歌",
+      "spelling": "kám iáu ū lâng leh thiann gún ê kua",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "敢猶有人咧聽歌",
+      "spelling": "kám iáu ū lâng leh thiann kua",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "敢猶有人咧聽阮个歌",
+      "spelling": "kám iáu ū lâng leh thiann gún ê kua",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "敢猶有人…",
+      "spelling": "kám iáu ū lâng",
+      "source_lines": [
+        16,
+        17
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

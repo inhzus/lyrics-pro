@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 17912095,
+    "title": "桂花巷",
+    "artists": [
+      "法蘭黛樂團"
+    ],
+    "album": "隨波逐流我不介意",
+    "duration": 347.426667,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrclib:17912095",
+      "duration": 347.426667,
+      "ready": false,
+      "coverage": 0.20666666666666667,
+      "exact_fraction": 0.25,
+      "summary": {
+        "unresolved": 8,
+        "exact": 2,
+        "approximate": 1,
+        "repeat": 1,
+        "gap": 1
+      }
+    }
+  ]
+}

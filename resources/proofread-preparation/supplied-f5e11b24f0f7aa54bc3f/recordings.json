@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 399366482,
+      "title": "关心你的人",
+      "artists": [
+        "夕阳武士"
+      ],
+      "album": "日出",
+      "duration": 281.5,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

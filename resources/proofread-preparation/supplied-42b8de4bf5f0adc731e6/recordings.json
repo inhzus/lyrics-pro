@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 543798015,
+      "title": "宜兰城",
+      "artists": [
+        "草屯囝仔"
+      ],
+      "album": "囝仔",
+      "duration": 279.5,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1269013223",
+      "title": "宜兰城",
+      "artists": [
+        "臭屁婴仔"
+      ],
+      "album": "囝仔",
+      "duration": 279.281,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1269013223",
+      "title": "宜兰城",
+      "artists": [
+        "臭屁婴仔"
+      ],
+      "album": "囝仔",
+      "duration": 279.281,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

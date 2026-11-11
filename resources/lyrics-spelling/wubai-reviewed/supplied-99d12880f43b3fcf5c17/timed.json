@@ -1,0 +1,206 @@
+{
+  "recording_id": "netease:297917",
+  "source": "NetEase https://music.163.com/song?id=297917",
+  "lines": [
+    {
+      "time": 0,
+      "text": "作词 : 伍佰",
+      "kind": "credit"
+    },
+    {
+      "time": 1.0,
+      "text": "作曲 : 伍佰",
+      "kind": "credit"
+    },
+    {
+      "time": 2.0,
+      "text": "编曲 : 伍佰 & China Blue",
+      "kind": "credit"
+    },
+    {
+      "time": 11.27,
+      "text": "(女)要安怎对你说出心内话",
+      "kind": "lyric"
+    },
+    {
+      "time": 15.13,
+      "text": "想了归暝　恰想嘛歹势",
+      "kind": "lyric"
+    },
+    {
+      "time": 19.29,
+      "text": "看到你我就完全未说话",
+      "kind": "lyric"
+    },
+    {
+      "time": 23.3,
+      "text": "只好头犁犁",
+      "kind": "lyric"
+    },
+    {
+      "time": 27.41,
+      "text": "(男)要安怎对你说出心内话",
+      "kind": "lyric"
+    },
+    {
+      "time": 31.39,
+      "text": "说我每日恰想嘛你一咧",
+      "kind": "lyric"
+    },
+    {
+      "time": 35.62,
+      "text": "心情亲像春天的风在吹",
+      "kind": "lyric"
+    },
+    {
+      "time": 39.6,
+      "text": "只好写著一张爱情的限时批",
+      "kind": "lyric"
+    },
+    {
+      "time": 44.21,
+      "text": "(女)啊～(男)啊～(合)啊～",
+      "kind": "lyric"
+    },
+    {
+      "time": 49.57,
+      "text": "(合)信纸才会完全来表达我的意爱",
+      "kind": "lyric"
+    },
+    {
+      "time": 53.65,
+      "text": "(女)你的温柔　你的可爱",
+      "kind": "lyric"
+    },
+    {
+      "time": 55.69,
+      "text": "(男)你的美丽　你的风采",
+      "kind": "lyric"
+    },
+    {
+      "time": 57.96,
+      "text": "(合)给我坠落你无边的情海",
+      "kind": "lyric"
+    },
+    {
+      "time": 80.79,
+      "text": "(女)要安怎对你说出心内话",
+      "kind": "lyric"
+    },
+    {
+      "time": 84.57,
+      "text": "说我每日恰想嘛你一咧",
+      "kind": "lyric"
+    },
+    {
+      "time": 88.72,
+      "text": "[男]心情亲像春天的风在吹",
+      "kind": "lyric"
+    },
+    {
+      "time": 92.62,
+      "text": "只好写著一张爱情的限时批",
+      "kind": "lyric"
+    },
+    {
+      "time": 98.98,
+      "text": "(合)啊～",
+      "kind": "lyric"
+    },
+    {
+      "time": 103.01,
+      "text": "(合)信纸才会完全来表达我的意爱",
+      "kind": "lyric"
+    },
+    {
+      "time": 107.08,
+      "text": "(女)你的温柔　你的可爱",
+      "kind": "lyric"
+    },
+    {
+      "time": 109.16,
+      "text": "(男)你的美丽　你的风采",
+      "kind": "lyric"
+    },
+    {
+      "time": 111.5,
+      "text": "(合)给我坠落你无边的情海",
+      "kind": "lyric"
+    },
+    {
+      "time": 116.26,
+      "text": "(女)啊～(男)啊～(合)啊～",
+      "kind": "lyric"
+    },
+    {
+      "time": 121.39,
+      "text": "(合)信纸才会完全来表达我的意爱",
+      "kind": "lyric"
+    },
+    {
+      "time": 125.52,
+      "text": "(女)你的温柔　你的可爱",
+      "kind": "lyric"
+    },
+    {
+      "time": 127.55,
+      "text": "(男)你的美丽　你的风采",
+      "kind": "lyric"
+    },
+    {
+      "time": 129.83,
+      "text": "(合)给我坠落你无边的情海",
+      "kind": "lyric"
+    },
+    {
+      "time": 164.45,
+      "text": "(合)啊～",
+      "kind": "lyric"
+    },
+    {
+      "time": 168.39,
+      "text": "(合)信纸才会完全来表达我的意爱",
+      "kind": "lyric"
+    },
+    {
+      "time": 172.46,
+      "text": "(女)你的温柔　你的可爱",
+      "kind": "lyric"
+    },
+    {
+      "time": 174.53,
+      "text": "(男)你的美丽　你的风采",
+      "kind": "lyric"
+    },
+    {
+      "time": 177.1,
+      "text": "(合)给我坠落你无边的情海",
+      "kind": "lyric"
+    },
+    {
+      "time": 182.05,
+      "text": "(女)啊～(男)啊～(合)啊～",
+      "kind": "lyric"
+    },
+    {
+      "time": 187.17,
+      "text": "(合)信纸才会完全来表达我的意爱",
+      "kind": "lyric"
+    },
+    {
+      "time": 191.27,
+      "text": "(女)你的温柔　你的可爱",
+      "kind": "lyric"
+    },
+    {
+      "time": 193.65,
+      "text": "(男)你的美丽　你的风采",
+      "kind": "lyric"
+    },
+    {
+      "time": 195.68,
+      "text": "(合)给我坠落你无边的情海",
+      "kind": "lyric"
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "recording_id": "netease:157197",
+  "timing_source": "NetEase https://music.163.com/song?id=157197",
+  "manual_source": "User-supplied resources/lyrics-spelling/怨嗟嘆-伍佰",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 4,
+    "exact": 14,
+    "unresolved": 6,
+    "repeat": 6,
+    "approximate": 3
+  },
+  "review_row_count": 9,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-15:0",
+    "line-18:0",
+    "line-36:0",
+    "line-39:0",
+    "line-42:0",
+    "line-45:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 伍佰",
+      "match_text": "作词 : 伍佰",
+      "text": "作词 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 伍佰",
+      "match_text": "作曲 : 伍佰",
+      "text": "作曲 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "编曲 : 伍佰 & China Blue",
+      "match_text": "编曲 : 伍佰 & China Blue",
+      "text": "编曲 : 伍佰 & China Blue",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 3.0,
+      "online_text": "制作人 : 伍佰 & China Blue",
+      "match_text": "制作人 : 伍佰 & China Blue",
+      "text": "制作人 : 伍佰 & China Blue",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 4,
+      "time": 34.04,
+      "online_text": "人生啊有怨叹",
+      "match_text": "人生啊有怨叹",
+      "text": "人生啊有怨嘆",
+      "spelling": "lîn-sing ah ū uàn-thàn",
+      "manual_id": "line-3:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 39.1,
+      "online_text": "日时太阳瞑时暗",
+      "match_text": "日时太阳瞑时暗",
+      "text": "日時太陽瞑時暗",
+      "spelling": "ji̍t-sî thài iông mê sî àm",
+      "manual_id": "line-3:1",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 44.78,
+      "online_text": "落花啊心胆寒",
+      "match_text": "落花啊心胆寒",
+      "text": "落花啊心膽寒",
+      "spelling": "lo̍h hue ah sim tám-hân",
+      "manual_id": "line-6:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 50.36,
+      "online_text": "风雨若来佗位藏",
+      "match_text": "风雨若来佗位藏",
+      "text": "風雨若來佗位藏",
+      "spelling": "hong hōo ná lâi tó-uī tshàng",
+      "manual_id": "line-6:1",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 58.87,
+      "online_text": "白云啊不情愿",
+      "match_text": "白云啊不情愿",
+      "text": "白雲啊不情願",
+      "spelling": "pe̍h-hûn ah bô tsîng-guān",
+      "manual_id": "line-9:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 64.12,
+      "online_text": "飘落红尘为哪般",
+      "match_text": "飘落红尘为哪般",
+      "text": "飄落紅塵為哪般",
+      "spelling": "phiau lo̍h hông-tîn uî ná puann",
+      "manual_id": "line-9:1",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 69.8,
+      "online_text": "流水啊有希望",
+      "match_text": "流水啊有希望",
+      "text": "流水啊有希望",
+      "spelling": "liû tsuí ah ū hi-bāng",
+      "manual_id": "line-12:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 75.15,
+      "online_text": "走找一生的美梦",
+      "match_text": "走找一生的美梦",
+      "text": "走找一生的美夢",
+      "spelling": "tsáu tshuē it-sing ê bí-bāng",
+      "manual_id": "line-12:1",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 86.48,
+      "online_text": "*事情啊本是难",
+      "match_text": "*事情啊本是难",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 91.91,
+      "online_text": "喜时当思哀时怨",
+      "match_text": "喜时当思哀时怨",
+      "text": "喜時當思哀時怨",
+      "spelling": "hí sî tong su ai sî uàn",
+      "manual_id": "line-15:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 97.75,
+      "online_text": "过程啊未完全",
+      "match_text": "过程啊未完全",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 103.09,
+      "online_text": "总有期待的心愿",
+      "match_text": "总有期待的心愿",
+      "text": "總有期待的心願",
+      "spelling": "tsóng ū kî-thāi ê sim-guān",
+      "manual_id": "line-18:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 114.31,
+      "online_text": "啊|",
+      "match_text": "啊|",
+      "text": "啊～～",
+      "spelling": "ah~  ~",
+      "manual_id": "line-21:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 119.59,
+      "online_text": "是什麽款的我",
+      "match_text": "是什麽款的我",
+      "text": "是什麼款的我",
+      "spelling": "sī siánn-mih khuánn ê guá",
+      "manual_id": "line-24:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 18,
+      "time": 122.31,
+      "online_text": "要做什麽样的人",
+      "match_text": "要做什麽样的人",
+      "text": "要做什麼樣的人",
+      "spelling": "beh tsuè siánn-mih khuán ê lâng",
+      "manual_id": "line-24:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 19,
+      "time": 125.74,
+      "online_text": "飘飘然怨嗟叹",
+      "match_text": "飘飘然怨嗟叹",
+      "text": "飄飄然怨嗟歎",
+      "spelling": "phiau phiau jiân uàn tse thàn",
+      "manual_id": "line-27:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 131.52,
+      "online_text": "常常悲伤是人间",
+      "match_text": "常常悲伤是人间",
+      "text": "常常悲傷是人間",
+      "spelling": "siông siông pi-siong sī lîn-kan",
+      "manual_id": "line-27:1",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 188.04,
+      "online_text": "人生啊真感叹",
+      "match_text": "人生啊真感叹",
+      "text": "人生啊真感嘆",
+      "spelling": "jîn-sing ah tsin kám-thàn",
+      "manual_id": "line-30:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 192.89,
+      "online_text": "春天伴随着秋冬",
+      "match_text": "春天伴随着秋冬",
+      "text": "春天伴隨著秋冬",
+      "spelling": "tshun-thinn phuānn suî tio̍h tshiu-tang",
+      "manual_id": "line-30:1",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 198.54,
+      "online_text": "应该懂照起工",
+      "match_text": "应该懂照起工",
+      "text": "應該著照起工",
+      "spelling": "ing-kai tio̍h tsiáu khí-kang",
+      "manual_id": "line-33:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 24,
+      "time": 203.98,
+      "online_text": "茫茫渺渺嘛一天",
+      "match_text": "茫茫渺渺嘛一天",
+      "text": "茫茫渺渺嘛一天",
+      "spelling": "bông bông biáu biáu mah tsi̍t kang",
+      "manual_id": "line-33:1",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 212.48,
+      "online_text": "*事情啊本是难",
+      "match_text": "*事情啊本是难",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 217.96,
+      "online_text": "喜时当思哀时怨",
+      "match_text": "喜时当思哀时怨",
+      "text": "喜時當思哀時怨",
+      "spelling": "hí sî tong su ai sî uàn",
+      "manual_id": "line-15:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 223.45,
+      "online_text": "过程啊未完全",
+      "match_text": "过程啊未完全",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 229.12,
+      "online_text": "总有期待的心愿",
+      "match_text": "总有期待的心愿",
+      "text": "總有期待的心願",
+      "spelling": "tsóng ū kî-thāi ê sim-guān",
+      "manual_id": "line-18:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 238.96,
+      "online_text": "*事情啊本是难",
+      "match_text": "*事情啊本是难",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 244.48,
+      "online_text": "喜时当思哀时怨",
+      "match_text": "喜时当思哀时怨",
+      "text": "喜時當思哀時怨",
+      "spelling": "hí sî tong su ai sî uàn",
+      "manual_id": "line-15:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 250.08,
+      "online_text": "过程啊未完全",
+      "match_text": "过程啊未完全",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 255.47,
+      "online_text": "总有期待的心愿",
+      "match_text": "总有期待的心愿",
+      "text": "總有期待的心願",
+      "spelling": "tsóng ū kî-thāi ê sim-guān",
+      "manual_id": "line-18:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "ef2ebacd84e5969b466b3e453dd093e47714be01a23fec5c35321aaaadb11749",
+    "manual": "7a150314ccbf3ccb5d9e89de7d3bcbeeb2bc8604b940e42e183c2063607ac4bd",
+    "timed": "6ee2563f7e202be06e6ac94052681d4921b02ed5b9a00e6d31e2ec432ed63377"
+  }
+}

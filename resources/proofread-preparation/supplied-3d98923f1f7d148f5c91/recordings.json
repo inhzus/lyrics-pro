@@ -1,0 +1,71 @@
+{
+  "candidates": [
+    {
+      "song_id": 124387,
+      "title": "台北台北",
+      "artists": [
+        "李恕权"
+      ],
+      "album": "迴(20年全精选)",
+      "duration": 281.611,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1895628735,
+      "title": "台北台北",
+      "artists": [
+        "110年度青年流行客家文化推動計畫"
+      ],
+      "album": "流行音乐的诗人语吟唱者",
+      "duration": 247.551,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1001038634",
+      "title": "台北台北",
+      "artists": [
+        "谢和弦"
+      ],
+      "album": "不需要装乖",
+      "duration": 268.03,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1538406830",
+      "title": "台北台北",
+      "artists": [
+        "李恕权"
+      ],
+      "album": "李恕权回20年全精选",
+      "duration": 281.611,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1313656558",
+      "title": "台北台北",
+      "artists": [
+        "李恕权"
+      ],
+      "album": "明天",
+      "duration": 281.611,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1282853364",
+      "title": "台北!台北!",
+      "artists": [
+        "八十八颗芭乐籽"
+      ],
+      "album": "比兽还坏",
+      "duration": 267.587,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

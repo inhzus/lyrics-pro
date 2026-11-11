@@ -1,0 +1,179 @@
+{
+  "blocks": [
+    {
+      "id": "line-5",
+      "text": "今夜月光特別圓　                           特別圓",
+      "spelling": "gím ia ngied góng tid pied          înn tid pied înn",
+      "source_lines": [
+        5,
+        6
+      ],
+      "parts": [
+        {
+          "text": "今夜月光特別圓",
+          "spelling": "gím ia ngied góng tid pied"
+        },
+        {
+          "text": "特別圓",
+          "spelling": "înn tid pied înn"
+        }
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "想起往事真怨嘆　                              斷情又一年",
+      "spelling": "xiòng hì vóng sii  ziín ien tan        tón qǐn iu ìd ngiěn",
+      "source_lines": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "今日何苦恁冷淡                                越想心越冷",
+      "spelling": "gím ngìd hǒ kù àn láng tam         ied xiòng xím ied láng",
+      "source_lines": [
+        11,
+        12
+      ],
+      "parts": [
+        {
+          "text": "今日何苦恁冷淡",
+          "spelling": "gím ngìd hǒ kù àn láng tam"
+        },
+        {
+          "text": "越想心越冷",
+          "spelling": "ied xiòng xím ied láng"
+        }
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "心事重重講不完　                                講不完",
+      "spelling": "xím sii cung cung gòng bùd vǎn     gòng bùd vǎn",
+      "source_lines": [
+        14,
+        15
+      ],
+      "parts": [
+        {
+          "text": "心事重重講不完",
+          "spelling": "xím sii cung cung gòng bùd vǎn"
+        },
+        {
+          "text": "講不完",
+          "spelling": "gòng bùd vǎn"
+        }
+      ]
+    },
+    {
+      "id": "line-17",
+      "text": "男人立志出鄉關　                                何必添麻煩",
+      "spelling": "nǎm ngǐn lib zii cùd hióng guán     hǒ bìd tiám mǎ fǎn",
+      "source_lines": [
+        17,
+        18
+      ],
+      "parts": [
+        {
+          "text": "男人立志出鄉關",
+          "spelling": "nǎm ngǐn lib zii cùd hióng guán"
+        },
+        {
+          "text": "何必添麻煩",
+          "spelling": "hǒ bìd tiám mǎ fǎn"
+        }
+      ]
+    },
+    {
+      "id": "line-20",
+      "text": "昔日戀情已經淡                               看破沒彩工",
+      "spelling": "xìd ngìd lien qǐn i gín tám           kon po mud cài gúng",
+      "source_lines": [
+        20,
+        21
+      ],
+      "parts": [
+        {
+          "text": "昔日戀情已經淡",
+          "spelling": "xìd ngìd lien qǐn i gín tám"
+        },
+        {
+          "text": "看破沒彩工",
+          "spelling": "kon po mud cài gúng"
+        }
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "流浪四海過自然　                        過自然",
+      "spelling": "liǔ lǒng xi hoì go cii iěn            go cii ien",
+      "source_lines": [
+        23,
+        24
+      ],
+      "parts": [
+        {
+          "text": "流浪四海過自然",
+          "spelling": "liǔ lǒng xi hoì go cii iěn"
+        },
+        {
+          "text": "過自然",
+          "spelling": "go cii ien"
+        }
+      ]
+    },
+    {
+      "id": "line-26",
+      "text": "莫為愛情來刁難　                               打拚正有影",
+      "spelling": "mog vǐ oi qǐn loǐ diáu nǎn              dà biang záng iú iàng",
+      "source_lines": [
+        26,
+        27
+      ],
+      "parts": [
+        {
+          "text": "莫為愛情來刁難",
+          "spelling": "mog vǐ oi qǐn loǐ diáu nǎn"
+        },
+        {
+          "text": "打拚正有影",
+          "spelling": "dà biang záng iú iàng"
+        }
+      ]
+    },
+    {
+      "id": "line-29",
+      "text": "管佢對我恁冷淡                                總講亻恩無緣",
+      "spelling": "gòn gǐ dui ngó  àn lang tám         zùng gòng én mǒ iěn",
+      "source_lines": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "line-32",
+      "text": "管佢對我恁冷淡                                   總講亻恩無緣",
+      "spelling": "gòn gǐ dui ngó  àn lang tám            zùng gòng én mǒ iěn",
+      "source_lines": [
+        32,
+        33
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳盛智    作曲：董事長樂團  & 吳盛智  客語拼音：關德樂"
+    }
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "text": "Note:  This song was a bit of a challenge as it is in Hakkanese, not Taiwanese.  It took me a little while to figure out the pinyin system for the language, but I believe the following ot be correct."
+    }
+  ],
+  "reasons": [
+    "source_note_requires_review:3"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 449769017,
+    "title": "放浪舞者",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "钉子花",
+    "duration": 271.0,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:449769017",
+      "duration": 271.0,
+      "ready": false,
+      "coverage": 0.7181208053691275,
+      "exact_fraction": 0.7083333333333334,
+      "summary": {
+        "credit": 2,
+        "repeat": 6,
+        "exact": 11,
+        "approximate": 1,
+        "unresolved": 6
+      }
+    }
+  ]
+}

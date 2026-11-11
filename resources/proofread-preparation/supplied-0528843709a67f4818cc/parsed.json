@@ -1,0 +1,315 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "人生 有苦有甜                       有時天光 有時暗暝",
+      "spelling": "lîn-sing ū khóo ū tinn        ū sî thinn-kng ū sî àm-mî",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "人生 有苦有甜",
+          "spelling": "lîn-sing ū khóo ū tinn"
+        },
+        {
+          "text": "有時天光 有時暗暝",
+          "spelling": "ū sî thinn-kng ū sî àm-mî"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "感謝你的提醒                         我會照顧我自己",
+      "spelling": "kám-siā lí ê thê-tshínn        guá ē tsiàu-kòo ka-kī",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "感謝你的提醒",
+          "spelling": "kám-siā lí ê thê-tshínn"
+        },
+        {
+          "text": "我會照顧我自己",
+          "spelling": "guá ē tsiàu-kòo ka-kī"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "這條路上咱互相支持",
+      "spelling": "tsit tiâu lōo siōng lán hōo-siong tsi-tshî",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "人生 有情有義                 哩尚瞭解 我的心情",
+      "spelling": "lîn-sing ū tsîng ū ī        lih siōng liáu-kái guá ê sim-tsîng",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "人生 有情有義",
+          "spelling": "lîn-sing ū tsîng ū ī"
+        },
+        {
+          "text": "哩尚瞭解 我的心情",
+          "spelling": "lih siōng liáu-kái guá ê sim-tsîng"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "感謝哩的相挺                         支持我的決定",
+      "spelling": "kám-siā lih ê sio thìnn        tsi-tshî guá ê kuat-tīng",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "感謝哩的相挺",
+          "spelling": "kám-siā lih ê sio thìnn"
+        },
+        {
+          "text": "支持我的決定",
+          "spelling": "tsi-tshî guá ê kuat-tīng"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "人生的路途咱互相約定",
+      "spelling": "lîn-sing lōo tôo lán hōo-siong iok-tīng",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "我的身邊有哩陪伴                                    我的生活免擱驚惶",
+      "spelling": "guá ê sin-pinn ū lih puê-phuānn        guá ê sing-ua̍h bián kok kiann-hiânn",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "我的身邊有哩陪伴",
+          "spelling": "guá ê sin-pinn ū lih puê-phuānn"
+        },
+        {
+          "text": "我的生活免擱驚惶",
+          "spelling": "guá ê sing-ua̍h bián kok kiann-hiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "好朋友出來話工袂煞                                        大聲工出咱的希望",
+      "spelling": "hònn pîng-iú tshut-lâi uē kang bē suah    tuā-siann kóng tshut lán ê hi-bāng",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "好朋友出來話工袂煞",
+          "spelling": "hònn pîng-iú tshut-lâi uē kang bē suah"
+        },
+        {
+          "text": "大聲工出咱的希望",
+          "spelling": "tuā-siann kóng tshut lán ê hi-bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "我的身邊有哩陪伴                                    我的心肝免擱驚惶",
+      "spelling": "guá ê sin-pinn ū lih puê-phuānn        guá ê sing-ua̍h bián kok kiann-hiânn",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "我的身邊有哩陪伴",
+          "spelling": "guá ê sin-pinn ū lih puê-phuānn"
+        },
+        {
+          "text": "我的心肝免擱驚惶",
+          "spelling": "guá ê sing-ua̍h bián kok kiann-hiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "好朋友出來酒飲乎乾                                        大聲工出咱的夢~~~",
+      "spelling": "hònn pîng-iú tshut-lâi tsiú ím honnh ta    tuā-siann kóng tshut lán ê bāng~~~",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "好朋友出來酒飲乎乾",
+          "spelling": "hònn pîng-iú tshut-lâi tsiú ím honnh ta"
+        },
+        {
+          "text": "大聲工出咱的夢~~~",
+          "spelling": "tuā-siann kóng tshut lán ê bāng~~~"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "感謝哩的陪伴                                朋友一句話這嘸算啥",
+      "spelling": "kám-siā lih ê puê-phuānn        pîng-iú tsi̍t kù uē tse bô sǹg siánn",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "感謝哩的陪伴",
+          "spelling": "kám-siā lih ê puê-phuānn"
+        },
+        {
+          "text": "朋友一句話這嘸算啥",
+          "spelling": "pîng-iú tsi̍t kù uē tse bô sǹg siánn"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "看破種種的虛華                                     哩的支持最甘心啦~",
+      "spelling": "khuànn phuà tsìng tsìng ê hi-hua    lih ê tsi-tshî siōng kam sim là~",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "看破種種的虛華",
+          "spelling": "khuànn phuà tsìng tsìng ê hi-hua"
+        },
+        {
+          "text": "哩的支持最甘心啦~",
+          "spelling": "lih ê tsi-tshî siōng kam sim là~"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "我的身邊有哩陪伴                                    我的生活免擱驚惶",
+      "spelling": "guá ê sin-pinn ū lih puê-phuānn        guá ê sing-ua̍h bián kok kiann-hiânn",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "我的身邊有哩陪伴",
+          "spelling": "guá ê sin-pinn ū lih puê-phuānn"
+        },
+        {
+          "text": "我的生活免擱驚惶",
+          "spelling": "guá ê sing-ua̍h bián kok kiann-hiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "好朋友出來話工袂煞                                        大聲工出咱的希望",
+      "spelling": "hònn pîng-iú tshut-lâi uē kang bē suah    tuā-siann kóng tshut lán ê hi-bāng",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "好朋友出來話工袂煞",
+          "spelling": "hònn pîng-iú tshut-lâi uē kang bē suah"
+        },
+        {
+          "text": "大聲工出咱的希望",
+          "spelling": "tuā-siann kóng tshut lán ê hi-bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "我的身邊有哩陪伴                                    我的心肝免擱驚惶",
+      "spelling": "guá ê sin-pinn ū lih puê-phuānn        guá ê sing-ua̍h bián kok kiann-hiânn",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "我的身邊有哩陪伴",
+          "spelling": "guá ê sin-pinn ū lih puê-phuānn"
+        },
+        {
+          "text": "我的心肝免擱驚惶",
+          "spelling": "guá ê sing-ua̍h bián kok kiann-hiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "好朋友出來酒飲乎乾                                        大聲工出咱的夢~~~",
+      "spelling": "hònn pîng-iú tshut-lâi tsiú ím honnh ta    tuā-siann kóng tshut lán ê bāng~~~",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "好朋友出來酒飲乎乾",
+          "spelling": "hònn pîng-iú tshut-lâi tsiú ím honnh ta"
+        },
+        {
+          "text": "大聲工出咱的夢~~~",
+          "spelling": "tuā-siann kóng tshut lán ê bāng~~~"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "好朋友出來酒飲乎乾                                        大聲工出咱的夢~~~",
+      "spelling": "hònn pîng-iú tshut-lâi tsiú ím honnh ta    tuā-siann kóng tshut lán ê bāng~~~",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "好朋友出來酒飲乎乾",
+          "spelling": "hònn pîng-iú tshut-lâi tsiú ím honnh ta"
+        },
+        {
+          "text": "大聲工出咱的夢~~~",
+          "spelling": "tuā-siann kóng tshut lán ê bāng~~~"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：隨性樂團 (Random)   作曲：隨性樂團 (Random)   台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 168390,
+    "title": "返来恁身边",
+    "artists": [
+      "萧煌奇"
+    ],
+    "album": "真·情·歌",
+    "duration": 290.706,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:168390",
+      "duration": 290.706,
+      "ready": false,
+      "coverage": 0.1891891891891892,
+      "exact_fraction": 0.16216216216216217,
+      "summary": {
+        "credit": 2,
+        "gap": 14,
+        "unresolved": 30,
+        "exact": 6,
+        "approximate": 1
+      }
+    }
+  ]
+}

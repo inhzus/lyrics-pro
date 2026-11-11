@@ -1,0 +1,466 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "心愛的你甘放未記　                          彼個有你的暗眠",
+      "spelling": "sim-ài-ê lí kam pàng buē kì            hit-ê ū lí ê àm bîn",
+      "source_lines": [
+        1,
+        2
+      ],
+      "parts": [
+        {
+          "text": "心愛的你甘放未記",
+          "spelling": "sim-ài-ê lí kam pàng buē kì"
+        },
+        {
+          "text": "彼個有你的暗眠",
+          "spelling": "hit-ê ū lí ê àm bîn"
+        }
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "雨聲撞不停                                      你親像溫柔的海浪",
+      "spelling": "hōo siann lòng buē-thîng            lí tshin-tshiūnn un-liû ê hái-íng",
+      "source_lines": [
+        4,
+        5
+      ],
+      "parts": [
+        {
+          "text": "雨聲撞不停",
+          "spelling": "hōo siann lòng buē-thîng"
+        },
+        {
+          "text": "你親像溫柔的海浪",
+          "spelling": "lí tshin-tshiūnn un-liû ê hái-íng"
+        }
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "棉被底下的代誌　                      已經不再可能",
+      "spelling": "mî-phuē ē-kha ê tāi-tsì            í-king put tsài khó-lîng",
+      "source_lines": [
+        7,
+        8
+      ],
+      "parts": [
+        {
+          "text": "棉被底下的代誌",
+          "spelling": "mî-phuē ē-kha ê tāi-tsì"
+        },
+        {
+          "text": "已經不再可能",
+          "spelling": "í-king put tsài khó-lîng"
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "天頂是小雨落不停　                              海底是眼屎落未漧",
+      "spelling": "thinn-tíng sī hōo lo̍h  buē-thîng        hái-té sī ba̍k-sái lo̍h buē tînn",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "我是雲一朵                            命運將你我逗作陣",
+      "spelling": "guá sī hûn tsi̍t luí                miā-ūn tsiòng lí guá lāng tsuè tīn",
+      "source_lines": [
+        13,
+        14
+      ],
+      "parts": [
+        {
+          "text": "我是雲一朵",
+          "spelling": "guá sī hûn tsi̍t luí"
+        },
+        {
+          "text": "命運將你我逗作陣",
+          "spelling": "miā-ūn tsiòng lí guá lāng tsuè tīn"
+        }
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "享受到愛人的甜蜜　                               再將你和我拆分開",
+      "spelling": "hiáng-siū tio̍h ài-jîn ê tinn-bi̍t            tsài tsiòng lí kah guá thiah hun-khui",
+      "source_lines": [
+        16,
+        17
+      ],
+      "parts": [
+        {
+          "text": "享受到愛人的甜蜜",
+          "spelling": "hiáng-siū tio̍h ài-jîn ê tinn-bi̍t"
+        },
+        {
+          "text": "再將你和我拆分開",
+          "spelling": "tsài tsiòng lí kah guá thiah hun-khui"
+        }
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "親愛的  親愛的　                你所講過的話",
+      "spelling": "tshin-ài ê  tshin-ài ê          lí sóo kóng kuè ê uē",
+      "source_lines": [
+        19,
+        20
+      ],
+      "parts": [
+        {
+          "text": "親愛的",
+          "spelling": "tshin-ài ê"
+        },
+        {
+          "text": "親愛的",
+          "spelling": "tshin-ài ê"
+        },
+        {
+          "text": "你所講過的話",
+          "spelling": "lí sóo kóng kuè ê uē"
+        }
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "哪會到今仔日　                    攏總無地找",
+      "spelling": "ná ē kàu kin-á-li̍t                lóng tsóng bô tē tshuē",
+      "source_lines": [
+        22,
+        23
+      ],
+      "parts": [
+        {
+          "text": "哪會到今仔日",
+          "spelling": "ná ē kàu kin-á-li̍t"
+        },
+        {
+          "text": "攏總無地找",
+          "spelling": "lóng tsóng bô tē tshuē"
+        }
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "人生太無知　                        愛情是什麼",
+      "spelling": "lîn-sing thài bû ti                ài-tsîng sī siánn-mih",
+      "source_lines": [
+        25,
+        26
+      ],
+      "parts": [
+        {
+          "text": "人生太無知",
+          "spelling": "lîn-sing thài bû ti"
+        },
+        {
+          "text": "愛情是什麼",
+          "spelling": "ài-tsîng sī siánn-mih"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "永遠太空虛　                                 無人擔當的起",
+      "spelling": "íng-uán thài khang-hi                bô lâng tam-tong ê khí",
+      "source_lines": [
+        28,
+        29
+      ],
+      "parts": [
+        {
+          "text": "永遠太空虛",
+          "spelling": "íng-uán thài khang-hi"
+        },
+        {
+          "text": "無人擔當的起",
+          "spelling": "bô lâng tam-tong ê khí"
+        }
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "將你的　將我的　                       昨日說過的話",
+      "spelling": "tsiòng lí ê  tsiòng guá ê            tsa-li̍t kóng kuè ê uē",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "放水流　                       受風吹　                       葬入海底",
+      "spelling": "pàng tsuí-lâu              siū hong tshue            tsòng ji̍p hái-té",
+      "source_lines": [
+        34,
+        35
+      ],
+      "parts": [
+        {
+          "text": "放水流",
+          "spelling": "pàng tsuí-lâu"
+        },
+        {
+          "text": "受風吹",
+          "spelling": "siū hong tshue"
+        },
+        {
+          "text": "葬入海底",
+          "spelling": "tsòng ji̍p hái-té"
+        }
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "將你放未記　                    永遠麥想起　                         你是彼粒星",
+      "spelling": "tsiòng lí pàng bē kì        íng-uán mái siūnn-khí        lí sī hit lia̍p tshinn",
+      "source_lines": [
+        37,
+        38
+      ],
+      "parts": [
+        {
+          "text": "將你放未記",
+          "spelling": "tsiòng lí pàng bē kì"
+        },
+        {
+          "text": "永遠麥想起",
+          "spelling": "íng-uán mái siūnn-khí"
+        },
+        {
+          "text": "你是彼粒星",
+          "spelling": "lí sī hit lia̍p tshinn"
+        }
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "飛過我的天頂　                      又擱是落雨的暗眠",
+      "spelling": "pue-kuè guá ê thinn-tíng    iū koh sī lo̍h hōo ê àm bîn",
+      "source_lines": [
+        40,
+        41
+      ],
+      "parts": [
+        {
+          "text": "飛過我的天頂",
+          "spelling": "pue-kuè guá ê thinn-tíng"
+        },
+        {
+          "text": "又擱是落雨的暗眠",
+          "spelling": "iū koh sī lo̍h hōo ê àm bîn"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "天頂是小雨落不停　                              海底是眼屎落未漧",
+      "spelling": "thinn-tíng sī hōo lo̍h  buē-thîng        hái-té sī ba̍k-sái lo̍h buē tînn",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "我是雲一朵                            命運將你我逗作陣",
+      "spelling": "guá sī hûn tsi̍t luí                miā-ūn tsiòng lí guá lāng tsuè tīn",
+      "source_lines": [
+        46,
+        47
+      ],
+      "parts": [
+        {
+          "text": "我是雲一朵",
+          "spelling": "guá sī hûn tsi̍t luí"
+        },
+        {
+          "text": "命運將你我逗作陣",
+          "spelling": "miā-ūn tsiòng lí guá lāng tsuè tīn"
+        }
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "享受到愛人的甜蜜　                               再將你和我拆分開",
+      "spelling": "hiáng-siū tio̍h ài-jîn ê tinn-bi̍t            tsài tsiòng lí kah guá thiah hun-khui",
+      "source_lines": [
+        49,
+        50
+      ],
+      "parts": [
+        {
+          "text": "享受到愛人的甜蜜",
+          "spelling": "hiáng-siū tio̍h ài-jîn ê tinn-bi̍t"
+        },
+        {
+          "text": "再將你和我拆分開",
+          "spelling": "tsài tsiòng lí kah guá thiah hun-khui"
+        }
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "親愛的  親愛的　                      你所講過的話",
+      "spelling": "tshin-ài ê  tshin-ài ê                lí sóo kóng kuè ê uē",
+      "source_lines": [
+        52,
+        53
+      ],
+      "parts": [
+        {
+          "text": "親愛的",
+          "spelling": "tshin-ài ê"
+        },
+        {
+          "text": "親愛的",
+          "spelling": "tshin-ài ê"
+        },
+        {
+          "text": "你所講過的話",
+          "spelling": "lí sóo kóng kuè ê uē"
+        }
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "哪會到今仔日　                    攏總無地找",
+      "spelling": "ná ē kàu kin-á-li̍t                lóng tsóng bô tē tshuē",
+      "source_lines": [
+        55,
+        56
+      ],
+      "parts": [
+        {
+          "text": "哪會到今仔日",
+          "spelling": "ná ē kàu kin-á-li̍t"
+        },
+        {
+          "text": "攏總無地找",
+          "spelling": "lóng tsóng bô tē tshuē"
+        }
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "人生太無知　                        愛情是什麼",
+      "spelling": "lîn-sing thài bû ti                ài-tsîng sī siánn-mih",
+      "source_lines": [
+        58,
+        59
+      ],
+      "parts": [
+        {
+          "text": "人生太無知",
+          "spelling": "lîn-sing thài bû ti"
+        },
+        {
+          "text": "愛情是什麼",
+          "spelling": "ài-tsîng sī siánn-mih"
+        }
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "永遠太空虛　                                 無人擔當的起",
+      "spelling": "íng-uán thài khang-hi                bô lâng tam-tong ê khí",
+      "source_lines": [
+        61,
+        62
+      ],
+      "parts": [
+        {
+          "text": "永遠太空虛",
+          "spelling": "íng-uán thài khang-hi"
+        },
+        {
+          "text": "無人擔當的起",
+          "spelling": "bô lâng tam-tong ê khí"
+        }
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "將你的　將我的　                       昨日說過的話",
+      "spelling": "tsiòng lí ê  tsiòng guá ê            tsa-li̍t kóng kuè ê uē",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "放水流　                       受風吹　                       葬入海底",
+      "spelling": "pàng tsuí-lâu              siū hong tshue            tsòng ji̍p hái-té",
+      "source_lines": [
+        67,
+        68
+      ],
+      "parts": [
+        {
+          "text": "放水流",
+          "spelling": "pàng tsuí-lâu"
+        },
+        {
+          "text": "受風吹",
+          "spelling": "siū hong tshue"
+        },
+        {
+          "text": "葬入海底",
+          "spelling": "tsòng ji̍p hái-té"
+        }
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "將你放未記　                   永遠麥想起　                          你是彼粒星",
+      "spelling": "tsiòng lí pàng bē kì        íng-uán mái siūnn-khí        lí sī hit lia̍p tshinn",
+      "source_lines": [
+        70,
+        71
+      ],
+      "parts": [
+        {
+          "text": "將你放未記",
+          "spelling": "tsiòng lí pàng bē kì"
+        },
+        {
+          "text": "永遠麥想起",
+          "spelling": "íng-uán mái siūnn-khí"
+        },
+        {
+          "text": "你是彼粒星",
+          "spelling": "lí sī hit lia̍p tshinn"
+        }
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "飛過我的天頂　                      又擱是落雨的暗眠",
+      "spelling": "pue-kuè guá ê thinn-tíng    iū koh sī lo̍h hōo ê àm bîn",
+      "source_lines": [
+        73,
+        74
+      ],
+      "parts": [
+        {
+          "text": "飛過我的天頂",
+          "spelling": "pue-kuè guá ê thinn-tíng"
+        },
+        {
+          "text": "又擱是落雨的暗眠",
+          "spelling": "iū koh sī lo̍h hōo ê àm bîn"
+        }
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

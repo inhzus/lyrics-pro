@@ -1,0 +1,128 @@
+{
+  "candidates": [
+    {
+      "song_id": 2620003324,
+      "title": "顛倒是非",
+      "artists": [
+        "百合花 Lilium"
+      ],
+      "album": "萬事美妙",
+      "duration": 226.106,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2620003324,
+      "title": "顛倒是非",
+      "artists": [
+        "百合花 Lilium"
+      ],
+      "album": "萬事美妙",
+      "duration": 226.106,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2620003324,
+      "title": "顛倒是非",
+      "artists": [
+        "百合花 Lilium"
+      ],
+      "album": "萬事美妙",
+      "duration": 226.106,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2641319160,
+      "title": "颠倒是非",
+      "artists": [
+        "左瑞琴",
+        "张嘉盛",
+        "刘秀琴"
+      ],
+      "album": "审御案中 (晋剧)",
+      "duration": 328.449,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3454747283,
+      "title": "颠倒是非",
+      "artists": [
+        "艺昕"
+      ],
+      "album": "怪趣混音鬼畜音乐",
+      "duration": 17.972,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2088760575,
+      "title": "颠倒是非",
+      "artists": [
+        "东哥哥"
+      ],
+      "album": "穿云箭",
+      "duration": 101.928,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1474119928,
+      "title": "颠倒是非",
+      "artists": [
+        "裙子"
+      ],
+      "album": "颠倒是非",
+      "duration": 158.537,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2136172681,
+      "title": "颠倒是非",
+      "artists": [
+        "安然xy"
+      ],
+      "album": "白羊",
+      "duration": 96.801,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2626823817,
+      "title": "颠倒是非",
+      "artists": [
+        "小小"
+      ],
+      "album": "Feel Good.wav",
+      "duration": 96.627,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1764559304",
+      "title": "颠倒是非",
+      "artists": [
+        "百合花"
+      ],
+      "album": "万事美妙",
+      "duration": 226.107,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1777306779",
+      "title": "颠倒是非",
+      "artists": [
+        "左瑞琴, 张嘉盛 & 刘秀琴"
+      ],
+      "album": "审御案中 (晋剧)",
+      "duration": 328.449,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

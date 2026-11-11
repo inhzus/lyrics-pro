@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 426881143,
+    "title": "勇敢",
+    "artists": [
+      "五月天"
+    ],
+    "album": "勇敢",
+    "duration": 278.413,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:426881143",
+      "duration": 278.413,
+      "ready": false,
+      "coverage": 0.20930232558139536,
+      "exact_fraction": 0.06976744186046512,
+      "summary": {
+        "credit": 3,
+        "unresolved": 34,
+        "exact": 3,
+        "approximate": 6
+      }
+    }
+  ]
+}

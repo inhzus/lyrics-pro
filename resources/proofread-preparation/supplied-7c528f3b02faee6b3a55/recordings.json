@@ -1,0 +1,82 @@
+{
+  "candidates": [
+    {
+      "song_id": 1975685262,
+      "title": "海湾",
+      "artists": [
+        "麻园诗人"
+      ],
+      "album": "OPEN MUSIC",
+      "duration": 312.391,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "956393721",
+      "title": "海湾",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "也兽",
+      "duration": 251.813,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1716014898",
+      "title": "海湾",
+      "artists": [
+        "贾鹏芳"
+      ],
+      "album": "明天",
+      "duration": 293.24,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1650810123",
+      "title": "海湾",
+      "artists": [
+        "自然白噪音 & 夏季音乐"
+      ],
+      "album": "海洋白噪音 - 让深度放松的海洋声音,水下音景,适合睡眠、温泉水疗、按摩、冥想、休息的海浪声音",
+      "duration": 228.999,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "956393721",
+      "title": "海湾",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "也兽",
+      "duration": 251.813,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1716014898",
+      "title": "海湾",
+      "artists": [
+        "贾鹏芳"
+      ],
+      "album": "明天",
+      "duration": 293.24,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1650810123",
+      "title": "海湾",
+      "artists": [
+        "自然白噪音 & 夏季音乐"
+      ],
+      "album": "海洋白噪音 - 让深度放松的海洋声音,水下音景,适合睡眠、温泉水疗、按摩、冥想、休息的海浪声音",
+      "duration": 228.999,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

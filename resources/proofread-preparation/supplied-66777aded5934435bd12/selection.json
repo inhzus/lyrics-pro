@@ -1,0 +1,56 @@
+{
+  "selected": {
+    "song_id": 386854,
+    "title": "憨人",
+    "artists": [
+      "五月天"
+    ],
+    "album": "爱情万岁",
+    "duration": 250.4,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:386854",
+      "duration": 250.4,
+      "ready": false,
+      "coverage": 0.41089108910891087,
+      "exact_fraction": 0.3333333333333333,
+      "summary": {
+        "credit": 3,
+        "approximate": 4,
+        "exact": 5,
+        "unresolved": 26,
+        "repeat": 10
+      }
+    },
+    {
+      "recording_id": "netease:386021",
+      "duration": 247.049,
+      "ready": false,
+      "coverage": 0.38613861386138615,
+      "exact_fraction": 0.35555555555555557,
+      "summary": {
+        "credit": 3,
+        "approximate": 2,
+        "exact": 6,
+        "unresolved": 27,
+        "repeat": 10
+      }
+    },
+    {
+      "recording_id": "netease:543965609",
+      "duration": 250.4,
+      "ready": false,
+      "coverage": 0.15555555555555556,
+      "exact_fraction": 0.06666666666666667,
+      "summary": {
+        "credit": 3,
+        "approximate": 4,
+        "unresolved": 38,
+        "exact": 3
+      }
+    }
+  ]
+}

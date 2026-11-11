@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "song_id": 248715,
+    "title": "一叶女人心",
+    "artists": [
+      "江蕙"
+    ],
+    "album": "当时欲嫁",
+    "duration": 316.56,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:248715",
+      "duration": 316.56,
+      "ready": false,
+      "coverage": 0.8620689655172413,
+      "exact_fraction": 0.9130434782608695,
+      "summary": {
+        "exact": 4,
+        "unresolved": 2,
+        "repeat": 17
+      }
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "recording_id": "netease:157189",
+  "timing_source": "NetEase https://music.163.com/song?id=157189",
+  "manual_source": "User-supplied resources/lyrics-spelling/空襲警報-伍佰",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 3,
+    "repeat": 8,
+    "exact": 11,
+    "approximate": 10,
+    "unresolved": 3
+  },
+  "review_row_count": 13,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-39:0",
+    "line-60:0",
+    "line-93:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 伍佰",
+      "match_text": "作词 : 伍佰",
+      "text": "作词 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 伍佰",
+      "match_text": "作曲 : 伍佰",
+      "text": "作曲 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "编曲 : 伍佰 & China Blue",
+      "match_text": "编曲 : 伍佰 & China Blue",
+      "text": "编曲 : 伍佰 & China Blue",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 13.09,
+      "online_text": "空袭警报~~~~",
+      "match_text": "空袭警报~~~~",
+      "text": "空襲警報～～～～",
+      "spelling": "khòng si̍p kíng-pò",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 18.31,
+      "online_text": "空袭警报~~~~",
+      "match_text": "空袭警报~~~~",
+      "text": "空襲警報～～～～",
+      "spelling": "khòng si̍p kíng-pò",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 28.99,
+      "online_text": "空袭警报~~~~",
+      "match_text": "空袭警报~~~~",
+      "text": "空襲警報～～～～",
+      "spelling": "khòng si̍p kíng-pò",
+      "manual_id": "line-3:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 44.21,
+      "online_text": "阮阿公空袭的时早就已经跌落山脚",
+      "match_text": "阮阿公空袭的时早就已经跌落山脚",
+      "text": "阮阿公空襲的時早就已經跌落山腳",
+      "spelling": "guán a kong khòng si̍p ê sî tsá tsiū í-king pua̍h-lo̍h suann-kha",
+      "manual_id": "line-12:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 47.99,
+      "online_text": "阮阿嬷的猪圈乎伊烧甲臭火干",
+      "match_text": "阮阿嬷的猪圈乎伊烧甲臭火干",
+      "text": "阮阿嬤的豬圈乎伊燒甲臭火乾",
+      "spelling": "guán a má ê ti-tiâu honnh i sio kah tshàu hué kan",
+      "manual_id": "line-15:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.846154
+    },
+    {
+      "source_row": 8,
+      "time": 51.89,
+      "online_text": "阮阿爸上班的糖厂去乎伊扫甲一坑一嘎",
+      "match_text": "阮阿爸上班的糖厂去乎伊扫甲一坑一嘎",
+      "text": "阮阿爸上班的糖廠去乎掃甲一坑一嘎",
+      "spelling": "guán a pâ siōng pan ê thn̂g-tshiúnn khì honnh sàu kah tsi̍t khenn tsi̍t ka̍h",
+      "manual_id": "line-18:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.969697
+    },
+    {
+      "source_row": 9,
+      "time": 55.72,
+      "online_text": "做田的陇嘛走去躲在树仔脚",
+      "match_text": "做田的陇嘛走去躲在树仔脚",
+      "text": "做田的隴嘛走去躲在樹仔腳",
+      "spelling": "tsuè tshân ê lóng mah tsáu-khì bih tī tshiū á c",
+      "manual_id": "line-21:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.916667
+    },
+    {
+      "source_row": 10,
+      "time": 63.66,
+      "online_text": "飞凌机若来你就趴落烂沟仔或是土脚",
+      "match_text": "飞凌机若来你就趴落烂沟仔或是土脚",
+      "text": "飛凌機若來你就趴落爛溝仔或是土腳",
+      "spelling": "hui lîng ki nā lâi lí tō phak bue nuā kau-á ia̍h-sī thóo kha",
+      "manual_id": "line-24:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 67.42,
+      "online_text": "阮厝边有人未付去乎弹到脚",
+      "match_text": "阮厝边有人未付去乎弹到脚",
+      "text": "阮厝邊有人未付去乎彈到腳",
+      "spelling": "guán tshù-pinn ū-lâng bē hù khì honnh tuânn tio̍h kha",
+      "manual_id": "line-27:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 71.52,
+      "online_text": "飞凌机飞来的时盛盛叫是有够大声",
+      "match_text": "飞凌机飞来的时盛盛叫是有够大声",
+      "text": "飛凌機飛來的時盛盛叫是有夠大聲",
+      "spelling": "hui lîng ki hui lâi ê sî sīng sīng kiò sī ū kàu tuā-siann",
+      "manual_id": "line-30:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 75.27,
+      "online_text": "你远远无见人是已经就知影",
+      "match_text": "你远远无见人是已经就知影",
+      "text": "你遠遠無見人是已經就知影",
+      "spelling": "lí hn̄g hn̄g bô khuànn sī í-king tō tsai-iánn",
+      "manual_id": "line-33:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 79.09,
+      "online_text": "啊~~~ 这款的代志",
+      "match_text": "啊~~~ 这款的代志",
+      "text": "啊～～～這款的代誌",
+      "spelling": "ah～ ～ ～tsit-khuán ê tāi-tsì",
+      "manual_id": "line-36:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 82.62,
+      "online_text": "啊~~~ 学校陇无提",
+      "match_text": "啊~~~ 学校陇无提",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 86.57,
+      "online_text": "啊~~~ 那当时那这呢神秘",
+      "match_text": "啊~~~ 那当时那这呢神秘",
+      "text": "啊～～～那當時那這呢神祕",
+      "spelling": "ah～ ～ ～hit tàng chūn nà tsia lih sîn-pì",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 94.71,
+      "online_text": "听说是美军要来炸台湾的日本兵仔",
+      "match_text": "听说是美军要来炸台湾的日本兵仔",
+      "text": "聽說是美軍要來炸台灣的日本兵仔",
+      "spelling": "thiann kóng sī bí-kun beh lâi tsà tâi-uân ê li̍t-pún ping-á",
+      "manual_id": "line-45:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 98.43,
+      "online_text": "听说咱陇总唱着日本的军歌",
+      "match_text": "听说咱陇总唱着日本的军歌",
+      "text": "聽說咱隴總唱著日本的軍歌",
+      "spelling": "thiann kóng lán lóng tsóng tshiùnn tio̍h li̍t-pún ê kun-kua",
+      "manual_id": "line-48:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.916667
+    },
+    {
+      "source_row": 19,
+      "time": 102.53,
+      "online_text": "听说咱着要交出锄头剪刀掺ㄌㄡ ㄌㄞ ·ㄅㄚ",
+      "match_text": "听说咱着要交出锄头剪刀掺ㄌㄡ ㄌㄞ ·ㄅㄚ",
+      "text": "聽說咱著要交出鋤頭剪刀 摻ㄌㄡˊㄌㄞˋㄅㄚ˙lô-lái-bà",
+      "spelling": "thiann kóng lán tio̍h ài kau-tshut tî-thâu ka-to tsham lô-lái-bà",
+      "manual_id": "line-51:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 20,
+      "time": 106.84,
+      "online_text": "说战争是保护咱自己的国家",
+      "match_text": "说战争是保护咱自己的国家",
+      "text": "說戰爭是保護咱自己的國家",
+      "spelling": "kóng tsiàn-tsing sī pó-hōo lán ka-kī ê kok-ka",
+      "manual_id": "line-54:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 110.08,
+      "online_text": "啊~~~ 这款的代志",
+      "match_text": "啊~~~ 这款的代志",
+      "text": "啊～～～這款的代誌",
+      "spelling": "ah～ ～ ～tsit-khuán ê tāi-tsì",
+      "manual_id": "line-36:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 114.04,
+      "online_text": "啊~~~ 学校陇无提",
+      "match_text": "啊~~~ 学校陇无提",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 117.88,
+      "online_text": "啊~~~ 那当时那这呢神秘",
+      "match_text": "啊~~~ 那当时那这呢神秘",
+      "text": "啊～～～那當時那這呢神祕",
+      "spelling": "ah～ ～ ～hit tàng chūn nà tsia lih sîn-pì",
+      "manual_id": "line-42:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 125.64,
+      "online_text": "酸酸哟哟酸哟哟",
+      "match_text": "酸酸哟哟酸哟哟",
+      "text": "酸酸喲喲酸喲喲",
+      "spelling": "sng sng io io sng io io",
+      "manual_id": "line-66:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 129.53,
+      "online_text": "儿仔时的Radio陇听会到",
+      "match_text": "儿仔时的Radio陇听会到",
+      "text": "兒仔時的 Radio 隴聽會到",
+      "spelling": "kín-á sî ê Radio lóng thiann ē tio̍h",
+      "manual_id": "line-69:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 26,
+      "time": 133.49,
+      "online_text": "对你的了解哪这呢少",
+      "match_text": "对你的了解哪这呢少",
+      "text": "對你的了解哪這呢少",
+      "spelling": "tuì lí ê liáu-kái ná tsia lih tsió",
+      "manual_id": "line-72:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 137.19,
+      "online_text": "历史的伤害搁有影不是亲采",
+      "match_text": "历史的伤害搁有影不是亲采",
+      "text": "歷史的傷害擱有影不是親采",
+      "spelling": "li̍k-sú ê siong-hāi khǹg ū-iánn put-sī tsim tshái",
+      "manual_id": "line-75:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.916667
+    },
+    {
+      "source_row": 28,
+      "time": 188.51,
+      "online_text": "自开始我陇当做是阮阿爸在说的诙颜",
+      "match_text": "自开始我陇当做是阮阿爸在说的诙颜",
+      "text": "自開始我隴當做是阮阿爸在說的詼頦",
+      "spelling": "tsū khai-sí guá lóng tòng-tsuè sī guán a pā teh kóng ē khue hâi",
+      "manual_id": "line-78:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 29,
+      "time": 192.36,
+      "online_text": "自开始不知咱过去有这多的目屎",
+      "match_text": "自开始不知咱过去有这多的目屎",
+      "text": "自開始不知影過去有這多的目屎",
+      "spelling": "tsū khai-sí m̄ tsai-iánn kuè-khì iú tsia tsē ē ba̍k-sái",
+      "manual_id": "line-81:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.928571
+    },
+    {
+      "source_row": 30,
+      "time": 196.33,
+      "online_text": "现此时咱是生活在块不同的世界",
+      "match_text": "现此时咱是生活在块不同的世界",
+      "text": "現此時咱是生活在塊不同的世界",
+      "spelling": "hiàn tshú sî lán sī sing-ua̍h tī tè bô-kāng ē sè-kài",
+      "manual_id": "line-84:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 200.23,
+      "online_text": "不知影飞凌机何时会搁来",
+      "match_text": "不知影飞凌机何时会搁来",
+      "text": "不知影飛凌機何時會擱來",
+      "spelling": "m̄ tsai-iánn hui lîng ki tang-sî ē ko lâi",
+      "manual_id": "line-87:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 32,
+      "time": 203.95,
+      "online_text": "啊~~~ 这款的代志",
+      "match_text": "啊~~~ 这款的代志",
+      "text": "啊～～～這款的代誌",
+      "spelling": "ah～ ～ ～tsit-khuán ê tāi-tsì",
+      "manual_id": "line-36:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 207.33,
+      "online_text": "啊~~~ 学校陇无提",
+      "match_text": "啊~~~ 学校陇无提",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 211.44,
+      "online_text": "啊~~~ 未来嘛是非常神秘",
+      "match_text": "啊~~~ 未来嘛是非常神秘",
+      "text": "啊～～～未來嘛是非常神祕",
+      "spelling": "ah～ ～ ～bī-lâi mā sī hui-siông sîn-pì",
+      "manual_id": "line-96:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "f3410add9d549e341fdc8e0040f3e2679625ef9d668c53ae38c610ab85401282",
+    "manual": "88b36b92fa9b4f17c4c94e4a02a9e0bef6cc7a00423ae9a2cf28f0e26b46c96f",
+    "timed": "68f816d444b810d9ff03ddb6478a6bf49aec79052b8ce5bc42b7bc6d169b89c5"
+  }
+}

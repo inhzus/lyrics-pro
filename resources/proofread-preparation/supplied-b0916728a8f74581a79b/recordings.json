@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 490182970,
+      "title": "风吹的眠梦",
+      "artists": [
+        "Ripple"
+      ],
+      "album": "袂开的花",
+      "duration": 282.697,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

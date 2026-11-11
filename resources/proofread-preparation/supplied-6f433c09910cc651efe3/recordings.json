@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": "1765477905",
+      "title": "站作伙",
+      "artists": [
+        "枪击泼辣"
+      ],
+      "album": "黑色莲花",
+      "duration": 213.326,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

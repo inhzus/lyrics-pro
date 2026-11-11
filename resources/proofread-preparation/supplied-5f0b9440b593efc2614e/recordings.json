@@ -1,0 +1,27 @@
+{
+  "candidates": [
+    {
+      "song_id": 478203274,
+      "title": "走钟",
+      "artists": [
+        "孩子王"
+      ],
+      "album": "最窘丸",
+      "duration": 273.36,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1230303046",
+      "title": "走钟",
+      "artists": [
+        "孩子王"
+      ],
+      "album": "最窘丸",
+      "duration": 273.321,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

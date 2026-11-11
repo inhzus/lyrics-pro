@@ -1,0 +1,466 @@
+{
+  "recording_id": "lrcapi:1444719870",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E8%87%AA%E4%BD%9C%E5%A4%9A%E6%83%85&artist=%E6%B1%9F%E8%95%99&album=%E7%88%B1%E4%BD%9C%E6%A2%A6%E7%9A%84%E9%B1%BC#1444719870",
+  "manual_source": "User-supplied resources/lyrics-spelling/自作多情-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "unresolved": 26,
+    "repeat": 7
+  },
+  "review_row_count": 26,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0"
+  ],
+  "unused_repeat_ids": [
+    "line-13:0",
+    "line-16:0",
+    "line-22:0",
+    "line-25:0",
+    "line-34:0",
+    "line-37:0",
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-55:0",
+    "line-58:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 28.08,
+      "online_text": "今夜的風吹無停",
+      "match_text": "今夜的風吹無停",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 1,
+      "time": 34.68,
+      "online_text": "又吹亂城市吵鬧的夜景彼呢冷",
+      "match_text": "又吹亂城市吵鬧的夜景彼呢冷",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-1:0"
+    },
+    {
+      "source_row": 2,
+      "time": 41.2,
+      "online_text": "想着青春的過程",
+      "match_text": "想着青春的過程",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 3,
+      "time": 47.7,
+      "online_text": "有真多心酸浮惦阮面前",
+      "match_text": "有真多心酸浮惦阮面前",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-4:0"
+    },
+    {
+      "source_row": 4,
+      "time": 54.36,
+      "online_text": "心愛的人叫袂應",
+      "match_text": "心愛的人叫袂應",
+      "text": "心愛的人叫袂應",
+      "spelling": "sim-ài ê lâng kiò buē ìn",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 60.83,
+      "online_text": "無意愛的人雖然真熱情我不肯",
+      "match_text": "無意愛的人雖然真熱情我不肯",
+      "text": "無意愛的人雖然真熱情我不肯",
+      "spelling": "bô-ì ài ê lâng sui-liân tsin jia̍t-tsîng guá m̄-khíng",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 67.46,
+      "online_text": "聽見情歌塊叮嚀",
+      "match_text": "聽見情歌塊叮嚀",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 74.12,
+      "online_text": "原來是痴情已經退流行",
+      "match_text": "原來是痴情已經退流行",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 80.76,
+      "online_text": "啊紛紛擾擾風風雨雨",
+      "match_text": "啊紛紛擾擾風風雨雨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 83.75,
+      "online_text": "世事轉啊轉袂停",
+      "match_text": "世事轉啊轉袂停",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 86.68,
+      "online_text": "難免的恩恩怨怨有情夢無情債",
+      "match_text": "難免的恩恩怨怨有情夢無情債",
+      "text": "難免的恩恩怨怨有情夢無情債",
+      "spelling": "lân-bián ê un-un-uàn-uàn ū-tsîng bāng bô tsîng-tsè",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 90.87,
+      "online_text": "早慢我會還",
+      "match_text": "早慢我會還",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 93.26,
+      "online_text": "甘願用寂寞交換平靜",
+      "match_text": "甘願用寂寞交換平靜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 96.57,
+      "online_text": "不願為名利自作多情",
+      "match_text": "不願為名利自作多情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 100.36,
+      "online_text": "我只有 笑家已 無夠聰明",
+      "match_text": "我只有 笑家已 無夠聰明",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 133.12,
+      "online_text": "心愛的人叫袂應",
+      "match_text": "心愛的人叫袂應",
+      "text": "心愛的人叫袂應",
+      "spelling": "sim-ài ê lâng kiò buē ìn",
+      "manual_id": "line-7:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 139.91,
+      "online_text": "無意愛的人雖然真熱情我不肯",
+      "match_text": "無意愛的人雖然真熱情我不肯",
+      "text": "無意愛的人雖然真熱情我不肯",
+      "spelling": "bô-ì ài ê lâng sui-liân tsin jia̍t-tsîng guá m̄-khíng",
+      "manual_id": "line-10:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 146.46,
+      "online_text": "聽見情歌塊叮嚀",
+      "match_text": "聽見情歌塊叮嚀",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 152.84,
+      "online_text": "原來是痴情已經退流行",
+      "match_text": "原來是痴情已經退流行",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 159.68,
+      "online_text": "啊紛紛擾擾風風雨雨",
+      "match_text": "啊紛紛擾擾風風雨雨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 162.66,
+      "online_text": "世事轉啊轉袂停",
+      "match_text": "世事轉啊轉袂停",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 165.69,
+      "online_text": "難免的恩恩怨怨有情夢無情債",
+      "match_text": "難免的恩恩怨怨有情夢無情債",
+      "text": "難免的恩恩怨怨有情夢無情債",
+      "spelling": "lân-bián ê un-un-uàn-uàn ū-tsîng bāng bô tsîng-tsè",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 169.62,
+      "online_text": "早慢我會還",
+      "match_text": "早慢我會還",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 172.28,
+      "online_text": "甘願用寂寞交換平靜",
+      "match_text": "甘願用寂寞交換平靜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 175.33,
+      "online_text": "不願為名利自作多情",
+      "match_text": "不願為名利自作多情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 179.38,
+      "online_text": "我只有 笑家已 無夠聰明",
+      "match_text": "我只有 笑家已 無夠聰明",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 185.85,
+      "online_text": "啊紛紛擾擾風風雨雨",
+      "match_text": "啊紛紛擾擾風風雨雨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 188.83,
+      "online_text": "世事轉啊轉袂停",
+      "match_text": "世事轉啊轉袂停",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 191.87,
+      "online_text": "難免的恩恩怨怨有情夢無情債",
+      "match_text": "難免的恩恩怨怨有情夢無情債",
+      "text": "難免的恩恩怨怨有情夢無情債",
+      "spelling": "lân-bián ê un-un-uàn-uàn ū-tsîng bāng bô tsîng-tsè",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 195.97,
+      "online_text": "早慢我會還",
+      "match_text": "早慢我會還",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 198.55,
+      "online_text": "甘願用寂寞交換平靜",
+      "match_text": "甘願用寂寞交換平靜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 201.66,
+      "online_text": "不願為名利自作多情",
+      "match_text": "不願為名利自作多情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 207.26,
+      "online_text": "我只有 笑家已 無夠聰明",
+      "match_text": "我只有 笑家已 無夠聰明",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "7460df51bd400c4e6c4084eb39987aede4779bf3ea3bd8e85d2dedab55dcdf99",
+    "manual": "1c0b2b7f19d6e331dc6d2ac041984fcae8f4fce6a483a146e9a3bf65e9083dbe",
+    "timed": "795015cdb6bd0f03f35ad191e8cb4eab9e6738f9b5b21d90f460d604858dc560"
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "聽人塊講惦遙遠的東海岸",
+      "spelling": "thiann lâng tè kóng tiām iâu-uán ê tang-hái-huānn",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "住著一個姑娘 生做是真正好看",
+      "spelling": "tuà-tio̍h tsi̍t ê koo-niû sinn-tsuè sī tsin-tsiànn hó-khuànn",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "伊每天攏置海邊塊唱情歌",
+      "spelling": "i muí-kang lóng tì hái-pinn tè tshiùnn tsîng-kua",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "一聲一聲一聲 來唱出伊的心聲",
+      "spelling": "tsi̍t siann tsi̍t siann tsi̍t siann lâi tshiùnn-tshut i ê sim-siann",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "伊的心願真簡單嘛無蓋大",
+      "spelling": "i ê sim-guān tsin kán-tan mā bô kài tuā",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "但是聽伊講來 乎人會依依不捨",
+      "spelling": "tān-sī thiann i kóng-lâi hōo lâng ē i-i-put-sià",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "伊心愛的人彼工欲去城市",
+      "spelling": "i sim-ài ê lâng hit kang bē khì siânn-tshī",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "將伊的人的心 的夢全部留惦這",
+      "spelling": "tsiòng i ê lâng ê sim ê bāng tsuân-pōo lâu tiām tsia",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "青春 甜甜甜甜的咒詛",
+      "spelling": "tshing-tshun tinn tinn tinn tinn ê tsiù-tsuā",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "如今 被風吹斷線",
+      "spelling": "lû-kim pī hong-tshue tn̄g suànn",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "相思 長長長長的海岸",
+      "spelling": "siunn-si tn̂g tn̂g tn̂g tn̂g ê hái-huānn",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "嘛不知 哪會變成 別人的亭仔腳",
+      "spelling": "mā m̄ tsai ná ē piàn-sîng pa̍t-lâng ê tîng-á kha",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "卡早彼條戀愛歌 今嘛聽著會心痛",
+      "spelling": "khá tsá hit tiâu luân-ài kua kim mā thiann-tio̍h ē sim-thiànn",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "故鄉變甲看海無岸 看山已經無算山",
+      "spelling": "kòo-hiong piàn kā khuànn bô huānn khuànn suann í-king bô sǹg suann",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "假使你若詳細聽 假使你若斟酌看",
+      "spelling": "ká-sú lí ná siông-sè thiann ká-sú lí ná tsim-tsiok khuànn",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "原來石頭正經會爛 海水正經會乾",
+      "spelling": "guân-lâi tsio̍h-thâu tsìng-king ē nuā hái-tsuí tsìng-king ê ta",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "你的心肝 我的心肝 咱的心肝 會痛疼",
+      "spelling": "lí ê sim-kuann guá ê sim-kuann lán ê sim-kuann ê thiànn-thàng",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "到底是你 到底是我",
+      "spelling": "tàu-té sī lí tàu-té sī guá",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "是誰改變美麗的生活",
+      "spelling": "sī siáng kái-piàn bí-lē ê sing-ua̍h",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "聽人塊講伊思念的戀愛伴",
+      "spelling": "thiann lâng tè kóng i su-liām ê luân-ài phuānn",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "去到都市以後 生活是真正打拼",
+      "spelling": "khì kàu too-tshī í-āu sing-ua̍h sī tsin-tsiànn phah-piànn",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "伊每天駛著超重的砂石車",
+      "spelling": "i muí-kang sái-tio̍h tshiau-tāng ê sua-tsio̍h-tshia",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "一綴一綴一綴 前途用命來交換",
+      "spelling": "tsi̍t tsuā tsi̍t tsuā tsi̍t tsuā tsiân-tôo iōng miā lâi kau-uānn",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "最近故鄉的新路是開足闊",
+      "spelling": "tsuè-kīn kòo-hiong ê sin lōo sī khui tsiok khuah",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "擱有一間飯店 欲起置相思海岸",
+      "spelling": "koh ū tsi̍t kan pn̄g-tiàm bē-khí-tì siunn-si hái-huānn",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "伊期待看到愛人的彼台車",
+      "spelling": "i kî-thāi khuànn-tio̍h ài-lîn ê hit tâi tshia",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "將伊的人的心 的夢載返來到這",
+      "spelling": "tsiòng i ê lâng ê sim ê bāng tsài tńg-lâi kàu tsia",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "青春 甜甜甜甜的咒詛",
+      "spelling": "tshing-tshun tinn tinn tinn tinn ê tsiù-tsuā",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "隨風 飄飄拆分散",
+      "spelling": "suî-hong phiau phiau thiah hun sán",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "相思 長長長長的海岸",
+      "spelling": "siunn-si tn̂g tn̂g tn̂g tn̂g ê hái-huānn",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "到如今 已經變成 黑色的點阿膠",
+      "spelling": "kàu lû-kim í-king piàn-sîng oo-sik ê tiám ah ka",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "卡早彼條戀愛歌 今嘛聽著會心痛",
+      "spelling": "khá tsá hit tiâu luân-ài kua kim mā thiann-tio̍h ē sim-thiànn",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "故鄉變甲看海無岸 看山已經無算山",
+      "spelling": "kòo-hiong piàn kā khuànn bô huānn khuànn suann í-king bô sǹg suann",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "假使你若詳細聽 假使你若斟酌看",
+      "spelling": "ká-sú lí ná siông-sè thiann ká-sú lí ná tsim-tsiok khuànn",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "原來石頭正經會爛 海水正經會乾",
+      "spelling": "guân-lâi tsio̍h-thâu tsìng-king ē nuā hái-tsuí tsìng-king ê ta",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "你的心肝 我的心肝 咱的心肝 會痛疼",
+      "spelling": "lí ê sim-kuann guá ê sim-kuann lán ê sim-kuann ê thiànn-thàng",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "到底是你 到底是我",
+      "spelling": "tàu-té sī lí tàu-té sī guá",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "是誰改變美麗的生活",
+      "spelling": "sī siáng kái-piàn bí-lē ê sing-ua̍h",
+      "source_lines": [
+        112,
+        113
+      ]
+    },
+    {
+      "id": "line-115",
+      "text": "卡早彼條戀愛歌 今嘛聽著會心痛",
+      "spelling": "khá tsá hit tiâu luân-ài kua kim mā thiann-tio̍h ē sim-thiànn",
+      "source_lines": [
+        115,
+        116
+      ]
+    },
+    {
+      "id": "line-118",
+      "text": "故鄉變甲看海無岸 看山已經無算山",
+      "spelling": "kòo-hiong piàn kā khuànn bô huānn khuànn suann í-king bô sǹg suann",
+      "source_lines": [
+        118,
+        119
+      ]
+    },
+    {
+      "id": "line-121",
+      "text": "假使你若詳細聽 假使你若斟酌看",
+      "spelling": "ká-sú lí ná siông-sè thiann ká-sú lí ná tsim-tsiok khuànn",
+      "source_lines": [
+        121,
+        122
+      ]
+    },
+    {
+      "id": "line-124",
+      "text": "原來石頭正經會爛 海水正經會乾",
+      "spelling": "guân-lâi tsio̍h-thâu tsìng-king ē nuā hái-tsuí tsìng-king ê ta",
+      "source_lines": [
+        124,
+        125
+      ]
+    },
+    {
+      "id": "line-127",
+      "text": "你的心肝 我的心肝 咱的心肝 會痛疼",
+      "spelling": "lí ê sim-kuann guá ê sim-kuann lán ê sim-kuann ê thiànn-thàng",
+      "source_lines": [
+        127,
+        128
+      ]
+    },
+    {
+      "id": "line-130",
+      "text": "到底是你 到底是我",
+      "spelling": "tàu-té sī lí tàu-té sī guá",
+      "source_lines": [
+        130,
+        131
+      ]
+    },
+    {
+      "id": "line-133",
+      "text": "是誰改變美麗的生活",
+      "spelling": "sī siáng kái-piàn bí-lē ê sing-ua̍h",
+      "source_lines": [
+        133,
+        134
+      ]
+    },
+    {
+      "id": "line-136",
+      "text": "卡早彼條戀愛歌 今嘛聽著會心痛",
+      "spelling": "khá tsá hit tiâu luân-ài kua kim mā thiann-tio̍h ē sim-thiànn",
+      "source_lines": [
+        136,
+        137
+      ]
+    },
+    {
+      "id": "line-139",
+      "text": "故鄉變甲看海無岸 看山已經無算山",
+      "spelling": "kòo-hiong piàn kā khuànn bô huānn khuànn suann í-king bô sǹg suann",
+      "source_lines": [
+        139,
+        140
+      ]
+    },
+    {
+      "id": "line-142",
+      "text": "假使你若詳細聽 假使你若斟酌看",
+      "spelling": "ká-sú lí ná siông-sè thiann ká-sú lí ná tsim-tsiok khuànn",
+      "source_lines": [
+        142,
+        143
+      ]
+    },
+    {
+      "id": "line-145",
+      "text": "原來石頭正經會爛 海水正經會乾",
+      "spelling": "guân-lâi tsio̍h-thâu tsìng-king ē nuā hái-tsuí tsìng-king ê ta",
+      "source_lines": [
+        145,
+        146
+      ]
+    },
+    {
+      "id": "line-148",
+      "text": "你的心肝 我的心肝 咱的心肝 會痛疼",
+      "spelling": "lí ê sim-kuann guá ê sim-kuann lán ê sim-kuann ê thiànn-thàng",
+      "source_lines": [
+        148,
+        149
+      ]
+    },
+    {
+      "id": "line-151",
+      "text": "你的心肝 我的心肝 咱的心肝 會痛疼",
+      "spelling": "lí ê sim-kuann guá ê sim-kuann lán ê sim-kuann ê thiànn-thàng",
+      "source_lines": [
+        151,
+        152
+      ]
+    },
+    {
+      "id": "line-154",
+      "text": "你的心肝 我的心肝 咱的心肝 會痛疼",
+      "spelling": "lí ê sim-kuann guá ê sim-kuann lán ê sim-kuann ê thiànn-thàng",
+      "source_lines": [
+        154,
+        155
+      ]
+    },
+    {
+      "id": "line-157",
+      "text": "到底是你 到底是我",
+      "spelling": "tàu-té sī lí tàu-té sī guá",
+      "source_lines": [
+        157,
+        158
+      ]
+    },
+    {
+      "id": "line-160",
+      "text": "是誰改變美麗的生活",
+      "spelling": "sī siáng kái-piàn bí-lē ê sing-ua̍h",
+      "source_lines": [
+        160,
+        161
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

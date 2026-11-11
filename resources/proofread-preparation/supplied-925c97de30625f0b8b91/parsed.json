@@ -1,0 +1,450 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "行 沿路行 行 慢慢行                                                  經過少年的囝仔伴",
+      "spelling": "kiânn iân-lōo kiânn kiânn bān bān kiânn        king-kuè siàu-liân ê gín-á phuānn",
+      "source_lines": [
+        1,
+        2
+      ],
+      "parts": [
+        {
+          "text": "行 沿路行 行 慢慢行",
+          "spelling": "kiânn iân-lōo kiânn kiânn bān bān kiânn"
+        },
+        {
+          "text": "經過少年的囝仔伴",
+          "spelling": "king-kuè siàu-liân ê gín-á phuānn"
+        }
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "嘛經過失戀的亭仔跤                                         擱行 繼續行",
+      "spelling": "mah king-kuè sit-luân ê tîng-á kha             koh kiânn kè-sio̍k kiânn",
+      "source_lines": [
+        4,
+        5
+      ],
+      "parts": [
+        {
+          "text": "嘛經過失戀的亭仔跤",
+          "spelling": "mah king-kuè sit-luân ê tîng-á kha"
+        },
+        {
+          "text": "擱行 繼續行",
+          "spelling": "koh kiânn kè-sio̍k kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "行 沿路行 行 若拭汗                                                  聽見阮子在叫阿爸",
+      "spelling": "kiânn iân-lōo kiânn kiânn ná tshit kuānn        thiann-kìnn gún kiánn teh kiò a-pa",
+      "source_lines": [
+        7,
+        8
+      ],
+      "parts": [
+        {
+          "text": "行 沿路行 行 若拭汗",
+          "spelling": "kiânn iân-lōo kiânn kiânn ná tshit kuānn"
+        },
+        {
+          "text": "聽見阮子在叫阿爸",
+          "spelling": "thiann-kìnn gún kiánn teh kiò a-pa"
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "嘛聽見幾落聲再會啦                                                    來行 心愛的 湊陣行",
+      "spelling": "mah thiann-kìnn kuí lo̍h siann tsài huē lah        lâi kiânn sim-ài ê tàu tīn kiânn",
+      "source_lines": [
+        10,
+        11
+      ],
+      "parts": [
+        {
+          "text": "嘛聽見幾落聲再會啦",
+          "spelling": "mah thiann-kìnn kuí lo̍h siann tsài huē lah"
+        },
+        {
+          "text": "來行 心愛的 湊陣行",
+          "spelling": "lâi kiânn sim-ài ê tàu tīn kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "直直的 彎曲的                    看無尾的人生",
+      "spelling": "ti̍t ti̍t ê  uan khiau ê        khuànn bô bué ê lîn-sing",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "鬧熱的 寂寞的                     無閒趕路的面",
+      "spelling": "lāu-jia̍t ê  siok-bo̍k ê        bô îng kuánn-lōo ê bīn",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "時間伊 毋捌停",
+      "spelling": "sî-kan i m̄ bat thîng",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "大雨大風                        咱就頭犁犁若停若行",
+      "spelling": "tuā-hōo tuā-hong        lán tio̍h thâu lê lê ná thîng ná kiânn",
+      "source_lines": [
+        22,
+        23
+      ],
+      "parts": [
+        {
+          "text": "大雨大風",
+          "spelling": "tuā-hōo tuā-hong"
+        },
+        {
+          "text": "咱就頭犁犁若停若行",
+          "spelling": "lán tio̍h thâu lê lê ná thîng ná kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "爬崎落山                       咱就一步步穩穩啊行",
+      "spelling": "pê kiā lo̍h-suann        lán tio̍h tsi̍t pōo pōo ún ún ah kiânn",
+      "source_lines": [
+        25,
+        26
+      ],
+      "parts": [
+        {
+          "text": "爬崎落山",
+          "spelling": "pê kiā lo̍h-suann"
+        },
+        {
+          "text": "咱就一步步穩穩啊行",
+          "spelling": "lán tio̍h tsi̍t pōo pōo ún ún ah kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "有好風景                         稍揉一下啊跤",
+      "spelling": "ū hònn kong-kíng        sió nuá tsi̍t-ē ah kha",
+      "source_lines": [
+        28,
+        29
+      ],
+      "parts": [
+        {
+          "text": "有好風景",
+          "spelling": "ū hònn kong-kíng"
+        },
+        {
+          "text": "稍揉一下啊跤",
+          "spelling": "sió nuá tsi̍t-ē ah kha"
+        }
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "有双叉路                     心掠予定",
+      "spelling": "ū siang tshe lōo        sim lia̍h hōo tiānn",
+      "source_lines": [
+        31,
+        32
+      ],
+      "parts": [
+        {
+          "text": "有双叉路",
+          "spelling": "ū siang tshe lōo"
+        },
+        {
+          "text": "心掠予定",
+          "spelling": "sim lia̍h hōo tiānn"
+        }
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "轉彎踅角                      攏嘛家己跟家己輸贏",
+      "spelling": "tńg-uan se̍h kak        lóng mah ka-kī kum ka-kī su-iânn",
+      "source_lines": [
+        34,
+        35
+      ],
+      "parts": [
+        {
+          "text": "轉彎踅角",
+          "spelling": "tńg-uan se̍h kak"
+        },
+        {
+          "text": "攏嘛家己跟家己輸贏",
+          "spelling": "lóng mah ka-kī kum ka-kī su-iânn"
+        }
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "夢一大片                              拖著半路阮長長的影",
+      "spelling": "bāng tsi̍t tuā phiánn        thua tio̍h puànn lōo gún tn̂g tn̂g ê iánn",
+      "source_lines": [
+        37,
+        38
+      ],
+      "parts": [
+        {
+          "text": "夢一大片",
+          "spelling": "bāng tsi̍t tuā phiánn"
+        },
+        {
+          "text": "拖著半路阮長長的影",
+          "spelling": "thua tio̍h puànn lōo gún tn̂g tn̂g ê iánn"
+        }
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "好額散赤                           好命猶歹命",
+      "spelling": "hó-gia̍h sàn-tshiah        hó-miā iáu pháinn-miā",
+      "source_lines": [
+        40,
+        41
+      ],
+      "parts": [
+        {
+          "text": "好額散赤",
+          "spelling": "hó-gia̍h sàn-tshiah"
+        },
+        {
+          "text": "好命猶歹命",
+          "spelling": "hó-miā iáu pháinn-miā"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "路猶真遠                     阮憨憨啊行",
+      "spelling": "lōo iáu tsin hn̄g        gún gōng gōng ah kiânn",
+      "source_lines": [
+        43,
+        44
+      ],
+      "parts": [
+        {
+          "text": "路猶真遠",
+          "spelling": "lōo iáu tsin hn̄g"
+        },
+        {
+          "text": "阮憨憨啊行",
+          "spelling": "gún gōng gōng ah kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "直直的 彎曲的                   看無尾的人生",
+      "spelling": "ti̍t ti̍t ê  uan khiau ê        khuànn bô bué ê lîn-sing",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "鬧熱的 寂寞的                     無閒趕路的面",
+      "spelling": "lāu-jia̍t ê  siok-bo̍k ê        bô îng kuánn-lōo ê bīn",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "時間伊 毋捌停",
+      "spelling": "sî-kan i m̄ bat thîng",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "大雨大風                        咱就頭犁犁若停若行",
+      "spelling": "tuā-hōo tuā-hong        lán tio̍h thâu lê lê ná thîng ná kiânn",
+      "source_lines": [
+        55,
+        56
+      ],
+      "parts": [
+        {
+          "text": "大雨大風",
+          "spelling": "tuā-hōo tuā-hong"
+        },
+        {
+          "text": "咱就頭犁犁若停若行",
+          "spelling": "lán tio̍h thâu lê lê ná thîng ná kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "爬崎落山                       咱就一步步穩穩啊行",
+      "spelling": "pê kiā lo̍h-suann        lán tio̍h tsi̍t pōo pōo ún ún ah kiânn",
+      "source_lines": [
+        58,
+        59
+      ],
+      "parts": [
+        {
+          "text": "爬崎落山",
+          "spelling": "pê kiā lo̍h-suann"
+        },
+        {
+          "text": "咱就一步步穩穩啊行",
+          "spelling": "lán tio̍h tsi̍t pōo pōo ún ún ah kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "有好風景                         稍揉一下啊跤",
+      "spelling": "ū hònn kong-kíng        sió nuá tsi̍t-ē ah kha",
+      "source_lines": [
+        61,
+        62
+      ],
+      "parts": [
+        {
+          "text": "有好風景",
+          "spelling": "ū hònn kong-kíng"
+        },
+        {
+          "text": "稍揉一下啊跤",
+          "spelling": "sió nuá tsi̍t-ē ah kha"
+        }
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "有双叉路                     心掠予定",
+      "spelling": "ū siang tshe lōo        sim lia̍h hōo tiānn",
+      "source_lines": [
+        64,
+        65
+      ],
+      "parts": [
+        {
+          "text": "有双叉路",
+          "spelling": "ū siang tshe lōo"
+        },
+        {
+          "text": "心掠予定",
+          "spelling": "sim lia̍h hōo tiānn"
+        }
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "轉彎踅角                      攏嘛家己跟家己輸贏",
+      "spelling": "tńg-uan se̍h kak        lóng mah ka-kī kum ka-kī su-iânn",
+      "source_lines": [
+        67,
+        68
+      ],
+      "parts": [
+        {
+          "text": "轉彎踅角",
+          "spelling": "tńg-uan se̍h kak"
+        },
+        {
+          "text": "攏嘛家己跟家己輸贏",
+          "spelling": "lóng mah ka-kī kum ka-kī su-iânn"
+        }
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "夢一大片                              拖著半路阮長長的影",
+      "spelling": "bāng tsi̍t tuā phiánn        thua tio̍h puànn lōo gún tn̂g tn̂g ê iánn",
+      "source_lines": [
+        70,
+        71
+      ],
+      "parts": [
+        {
+          "text": "夢一大片",
+          "spelling": "bāng tsi̍t tuā phiánn"
+        },
+        {
+          "text": "拖著半路阮長長的影",
+          "spelling": "thua tio̍h puànn lōo gún tn̂g tn̂g ê iánn"
+        }
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "好額散赤                          好命猶歹命",
+      "spelling": "hó-gia̍h sàn-tshiah        hó-miā iáu pháinn-miā",
+      "source_lines": [
+        73,
+        74
+      ],
+      "parts": [
+        {
+          "text": "好額散赤",
+          "spelling": "hó-gia̍h sàn-tshiah"
+        },
+        {
+          "text": "好命猶歹命",
+          "spelling": "hó-miā iáu pháinn-miā"
+        }
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "路猶真遠                     阮憨憨啊行",
+      "spelling": "lōo iáu tsin hn̄g        gún gōng gōng ah kiânn",
+      "source_lines": [
+        76,
+        77
+      ],
+      "parts": [
+        {
+          "text": "路猶真遠",
+          "spelling": "lōo iáu tsin hn̄g"
+        },
+        {
+          "text": "阮憨憨啊行",
+          "spelling": "gún gōng gōng ah kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "行 沿路行 行 繼續行",
+      "spelling": "kiânn iân-lōo kiânn kè-sio̍k kiânn",
+      "source_lines": [
+        79,
+        80
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

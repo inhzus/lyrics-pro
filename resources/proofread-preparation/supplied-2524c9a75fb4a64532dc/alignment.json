@@ -1,0 +1,339 @@
+{
+  "recording_id": "netease:29717872",
+  "timing_source": "NetEase https://music.163.com/song?id=29717872",
+  "manual_source": "User-supplied resources/lyrics-spelling/一幕一幕-農村武裝青年",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "repeat": 6,
+    "approximate": 5,
+    "exact": 7,
+    "unresolved": 3,
+    "gap": 2
+  },
+  "review_row_count": 15,
+  "unmatched_manual_ids": [
+    "line-22:0"
+  ],
+  "unused_repeat_ids": [
+    "line-28:0",
+    "line-40:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 39.484,
+      "online_text": "青春的风景 一幕一幕",
+      "match_text": "青春的风景 一幕一幕",
+      "text": "青春的風景 一幕一幕",
+      "spelling": "tshing-tshun ê hong-kíng tsi̍t bōo tsi̍t bōo",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 43.795,
+      "online_text": "面前吹来一阵清香的风",
+      "match_text": "面前吹来一阵清香的风",
+      "text": "面前吹來一陣清香的風",
+      "spelling": "bīn-tsîng tshue lâi tsi̍t tsūn tshing-phang ê hong",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 48.183,
+      "online_text": "牵起你的手 嘴念囝仔歌",
+      "match_text": "牵起你的手 嘴念囝仔歌",
+      "text": "牽起你的手 嘴唸囝仔的歌",
+      "spelling": "khan khí lí ê tshiú tshuì liām kín-á ê kua",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 3,
+      "time": 52.311,
+      "online_text": "脱赤脚来散步吹着稻仔香的风",
+      "match_text": "脱赤脚来散步吹着稻仔香的风",
+      "text": "脫赤腳來散步吹著稻仔香的風",
+      "spelling": "thǹg-tshiah-kha lâi sàn-pōo tshue-tio̍h tiū-á phang ê hong",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 61.218,
+      "online_text": "礼拜三下埔 是囝仔的天空",
+      "match_text": "礼拜三下埔 是囝仔的天空",
+      "text": "禮拜三下埔 是囝仔的天空",
+      "spelling": "lé-pài sann ē poo sī kín-á ê thian-khong",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 65.476,
+      "online_text": "作伙来七逃 控番薯抠",
+      "match_text": "作伙来七逃 控番薯抠",
+      "text": "作伙來七逃 控番薯摳",
+      "spelling": "tsò-hué lâi tshit tô khōng han tsî kho̍k",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 69.734,
+      "online_text": "溪水冷吱吱 心凉脾透开",
+      "match_text": "溪水冷吱吱 心凉脾透开",
+      "text": "溪水冷吱吱 心涼脾透開",
+      "spelling": "khe-tsuí líng-ki-ki sim liâng pî thàu khui",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 74.097,
+      "online_text": "折好一只船 放给溪里说要留给大海",
+      "match_text": "折好一只船 放给溪里说要留给大海",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 84.128,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 9,
+      "time": 142.093,
+      "online_text": "这是阮故乡的土地 青青的菜瓜 黄黄的花",
+      "match_text": "这是阮故乡的土地 青青的菜瓜 黄黄的花",
+      "text": "這是阮故鄉的土地 青青的菜瓜 黃黃的花",
+      "spelling": "lim kòo-hiong ê tī-leh tshinn tshinn ê tshài-kue kā n̂g n̂g ê hue",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 150.609,
+      "online_text": "惦在他乡打拼的我 思念厝内辛苦的阿母",
+      "match_text": "惦在他乡打拼的我 思念厝内辛苦的阿母",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 163.54,
+      "online_text": "故乡写来一张相思批 带着一朵黄黄的菜瓜花",
+      "match_text": "故乡写来一张相思批 带着一朵黄黄的菜瓜花",
+      "text": "故鄉寫來一張思念批 帶著一朵黃黃的菜瓜花",
+      "spelling": "kòo-hiong siá lâi tsi̍t tiunn su-liām ê phue tuà-tio̍h tsi̍t luí n̂g n̂g ê tshài-kue hue",
+      "manual_id": "line-31:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.947368
+    },
+    {
+      "source_row": 12,
+      "time": 172.265,
+      "online_text": "阿母望阮头路顺遂 去妈祖婆那替我求来一个平安火",
+      "match_text": "阿母望阮头路顺遂 去妈祖婆那替我求来一个平安火",
+      "text": "阿母望阮頭路順遂 去媽祖婆那替我求來一個平安火",
+      "spelling": "a-bú bāng gún lâi thâu lōo sūn-suī khì má-tsóo pô hiâ thè gún kiû tsi̍t ê pîng-an hué",
+      "manual_id": "line-34:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.954545
+    },
+    {
+      "source_row": 13,
+      "time": 187.207,
+      "online_text": "这是阮故乡的土地 青青的菜瓜 黄黄的花",
+      "match_text": "这是阮故乡的土地 青青的菜瓜 黄黄的花",
+      "text": "這是阮故鄉的土地 青青的菜瓜 黃黃的花",
+      "spelling": "lim kòo-hiong ê tī-leh tshinn tshinn ê tshài-kue kā n̂g n̂g ê hue",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 195.592,
+      "online_text": "惦在他乡打拼的我 思念厝内辛苦的阿母",
+      "match_text": "惦在他乡打拼的我 思念厝内辛苦的阿母",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 208.523,
+      "online_text": "西北雨直直落 鲫仔鱼卜娶某",
+      "match_text": "西北雨直直落 鲫仔鱼卜娶某",
+      "text": "西北雨直直落，鯽仔魚卜娶某，",
+      "spelling": "sai-pak hōo ti̍t-ti̍t lo̍h tsit-á-hî peh tshuā-bóo",
+      "manual_id": "line-43:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 216.96,
+      "online_text": "鮕鲐兄拍锣鼓 媒人婆仔土虱嫂",
+      "match_text": "鮕鲐兄拍锣鼓 媒人婆仔土虱嫂",
+      "text": "鮕鮐兄拍鑼鼓，媒人婆仔土虱嫂，",
+      "spelling": "ko tái hiann phah lô-kó muê-lâng pô-á thôo-sat só",
+      "manual_id": "line-46:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.923077
+    },
+    {
+      "source_row": 17,
+      "time": 228.716,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 18,
+      "time": 265.809,
+      "online_text": "青春的风景 一幕一幕",
+      "match_text": "青春的风景 一幕一幕",
+      "text": "青春的風景 一幕一幕",
+      "spelling": "tshing-tshun ê hong-kíng tsi̍t bōo tsi̍t bōo",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 269.937,
+      "online_text": "面前吹来一阵清香的风",
+      "match_text": "面前吹来一阵清香的风",
+      "text": "面前吹來一陣清香的風",
+      "spelling": "bīn-tsîng tshue lâi tsi̍t tsūn tshing-phang ê hong",
+      "manual_id": "line-4:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 274.351,
+      "online_text": "牵起你的手 嘴念囝仔歌",
+      "match_text": "牵起你的手 嘴念囝仔歌",
+      "text": "牽起你的手 嘴念囝仔歌",
+      "spelling": "khan khí lí ê tshiú tshuì liām kín-á kua",
+      "manual_id": "line-55:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 278.557,
+      "online_text": "脱赤脚来散步却闻不到稻仔香的风",
+      "match_text": "脱赤脚来散步却闻不到稻仔香的风",
+      "text": "脫赤腳來散步 卻聞無稻仔香的風",
+      "spelling": "thǹg-tshiah-kha lâi sàn-pōo soh phīnn-bô tiū-á phang ê hong",
+      "manual_id": "line-58:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.896552
+    },
+    {
+      "source_row": 22,
+      "time": 293.682,
+      "online_text": "阮找无囝仔时袸的幸福",
+      "match_text": "阮找无囝仔时袸的幸福",
+      "text": "阮找無囝仔時袸的幸福",
+      "spelling": "gún tshuē bô kín-á sî tsūn ê hīng-hok",
+      "manual_id": "line-61:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "3a2fc9fd498956b33a9ba65d67114da5f8332888b82f7558af96d97133edd361",
+    "manual": "89ad4a28cee92b9b854a1636e13c3ebcc0dec3729dc3c3278f43bfa2381d2186",
+    "timed": "5f24f1a0531054ffb292b9eaa681a07a957dfd4c0655de402d50218bb2f3757e"
+  }
+}

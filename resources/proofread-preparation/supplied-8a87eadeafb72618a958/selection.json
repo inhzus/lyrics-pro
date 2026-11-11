@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 31830693,
+    "title": "今晚又是落雨夜",
+    "artists": [
+      "川秋沙"
+    ],
+    "album": "白噪音",
+    "duration": 400.0,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:31830693",
+      "duration": 400.0,
+      "ready": false,
+      "coverage": 0.75,
+      "exact_fraction": 0.65625,
+      "summary": {
+        "unresolved": 8,
+        "repeat": 18,
+        "exact": 3,
+        "approximate": 3
+      }
+    }
+  ]
+}

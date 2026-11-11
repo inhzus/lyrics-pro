@@ -1,0 +1,182 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "我真悲哀  看著你行過來",
+      "spelling": "guá tsin pi-ai  khuànn-tio̍h lí kiânn kò-lâi",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "我真悲哀",
+          "spelling": "guá tsin pi-ai"
+        },
+        {
+          "text": "看著你行過來",
+          "spelling": "khuànn-tio̍h lí kiânn kò-lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "搖搖擺擺  看袂著咱的未來",
+      "spelling": "iô-iô-pái-pái  khuànn bē tio̍h lán ê bī-lâi",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "搖搖擺擺",
+          "spelling": "iô-iô-pái-pái"
+        },
+        {
+          "text": "看袂著咱的未來",
+          "spelling": "khuànn bē tio̍h lán ê bī-lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "鴛鴦水鴨水底倆相隨 那嘸是我",
+      "spelling": "uan-iun tsuí-ah tsuí-té lióng siong-suî  he m̄ sī guá",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "孤鳥海浪天頂找無你  心那底痛",
+      "spelling": "koo-tsiáu hái-íng thinn-tíng tshuē bô lí  sim ná té thiànn",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "孤鳥海浪天頂找無你",
+          "spelling": "koo-tsiáu hái-íng thinn-tíng tshuē bô lí"
+        },
+        {
+          "text": "心那底痛",
+          "spelling": "sim ná té thiànn"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "我乎你的愛  希望你收起來",
+      "spelling": "guá honnh lí ê ài  hi-bāng lí siu khí-lâi",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "我乎你的愛",
+          "spelling": "guá honnh lí ê ài"
+        },
+        {
+          "text": "希望你收起來",
+          "spelling": "hi-bāng lí siu khí-lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "丟落大海  後世人才甲撿起來",
+      "spelling": "tàn lo̍h tuā-hái  āu-sì-lâng tsiah kah khioh-khí-lâi",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "丟落大海",
+          "spelling": "tàn lo̍h tuā-hái"
+        },
+        {
+          "text": "後世人才甲撿起來",
+          "spelling": "āu-sì-lâng tsiah kah khioh-khí-lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "鴛鴦水鴨水底倆相隨 那嘸是我",
+      "spelling": "uan-iun tsuí-ah tsuí-té lióng siong-suî  he m̄ sī guá",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "孤鳥海浪天頂找無你  心那底痛",
+      "spelling": "koo-tsiáu hái-íng thinn-tíng tshuē bô lí  sim ná té thiànn",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "孤鳥海浪天頂找無你",
+          "spelling": "koo-tsiáu hái-íng thinn-tíng tshuē bô lí"
+        },
+        {
+          "text": "心那底痛",
+          "spelling": "sim ná té thiànn"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "我乎你的愛  希望你收起來",
+      "spelling": "guá honnh lí ê ài  hi-bāng lí siu khí-lâi",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "我乎你的愛",
+          "spelling": "guá honnh lí ê ài"
+        },
+        {
+          "text": "希望你收起來",
+          "spelling": "hi-bāng lí siu khí-lâi"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "丟落大海  後世人才甲撿起來",
+      "spelling": "tàn lo̍h tuā-hái  āu-sì-lâng tsiah kah khioh-khí-lâi",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "丟落大海",
+          "spelling": "tàn lo̍h tuā-hái"
+        },
+        {
+          "text": "後世人才甲撿起來",
+          "spelling": "āu-sì-lâng tsiah kah khioh-khí-lâi"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳永吉   作曲：吳永吉  台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

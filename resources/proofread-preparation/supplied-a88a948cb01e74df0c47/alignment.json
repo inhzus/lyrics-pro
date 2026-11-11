@@ -1,0 +1,309 @@
+{
+  "recording_id": "netease:248715",
+  "timing_source": "NetEase https://music.163.com/song?id=248715",
+  "manual_source": "User-supplied resources/lyrics-spelling/一葉女人心-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "exact": 4,
+    "unresolved": 2,
+    "repeat": 17
+  },
+  "review_row_count": 2,
+  "unmatched_manual_ids": [
+    "line-1:0"
+  ],
+  "unused_repeat_ids": [
+    "line-16:0",
+    "line-43:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 35.37,
+      "online_text": "人情世事袂轻松 何时春花透清香",
+      "match_text": "人情世事袂轻松 何时春花透清香",
+      "text": "人情世事袂輕鬆　何時春花透清香",
+      "spelling": "lîn-tsîng sè-sū buē khin-sang hô-sî tshun hue thàu tshing-phang",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 46.5,
+      "online_text": "踏入人的户埕 做了妈妈才知影",
+      "match_text": "踏入人的户埕 做了妈妈才知影",
+      "text": "踏入人的戶埕　做了媽媽才知影",
+      "spelling": "ta̍h-ji̍p lâng ê hōo tíng tsuè-liáu má-mah tsiah tsai-iánn",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 57.64,
+      "online_text": "咱拢是一家人的靠岸",
+      "match_text": "咱拢是一家人的靠岸",
+      "text": "咱攏是一家人的靠岸",
+      "spelling": "lán lóng sī tsi̍t ke lâng ê khò-huānn",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 62.25,
+      "online_text": "你让我退 心就会结相偎",
+      "match_text": "你让我退 心就会结相偎",
+      "text": "你讓我退　心就會結相偎",
+      "spelling": "lí niū guá thuè sim tio̍h ē kat siong uá",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 66.13,
+      "online_text": "举头金金看 月娘犹原挂底遐",
+      "match_text": "举头金金看 月娘犹原挂底遐",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 78.64,
+      "online_text": "田螺含水忍过冬 未来一定有希望",
+      "match_text": "田螺含水忍过冬 未来一定有希望",
+      "text": "田螺含水忍過冬　未來一定有希望",
+      "spelling": "tshân-lê hâm-tsuí lím-kuè tang bī-lâi it-tīng ū hi-bāng",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 90.45,
+      "online_text": "捧起别人的饭碗 做人的妈妈才知影",
+      "match_text": "捧起别人的饭碗 做人的妈妈才知影",
+      "text": "捧起別人的飯碗　做人的媽媽才知影",
+      "spelling": "phâng khí pa̍t-lâng ê pn̄g-uánn tsuè-lâng ê má-mah tsiah tsai-iánn",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 101.96,
+      "online_text": "咱好比是箍桶的箍仔",
+      "match_text": "咱好比是箍桶的箍仔",
+      "text": "咱好比是箍桶的箍仔",
+      "spelling": "lán hó-pí sī khoo-tháng ê khoo-á",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 107.2,
+      "online_text": "幸福要靠咱来 箍乎偎",
+      "match_text": "幸福要靠咱来 箍乎偎",
+      "text": "幸福要靠咱來　箍乎偎",
+      "spelling": "hīng-hok ài kōo lán lâi khoo hōo uá",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 112.02,
+      "online_text": "一叶女人心 用温柔跟你的脚步行",
+      "match_text": "一叶女人心 用温柔跟你的脚步行",
+      "text": "一葉女人心　用溫柔跟你的腳步行",
+      "spelling": "tsi̍t hio̍h lú-lîn-sim iōng un-liû tuè lí ê kha-pōo kiânn",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 127.52,
+      "online_text": "婆家媳妇要同心 一家伙仔才袂散",
+      "match_text": "婆家媳妇要同心 一家伙仔才袂散",
+      "text": "婆家媳婦要同心　一家伙仔才袂散",
+      "spelling": "pô-ke sin-pū ài kāng-sim tsi̍t ke-hué á tsiah buē suánn",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 139.66,
+      "online_text": "一叶女人心 用真心跟你的脚步行",
+      "match_text": "一叶女人心 用真心跟你的脚步行",
+      "text": "一葉女人心　用真心跟你的腳步行",
+      "spelling": "tsi̍t hio̍h lú-lîn-sim iōng tsin-sim tuè lí ê kha-pōo kiânn",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 150.96,
+      "online_text": "人块说家和万事兴 大风大雨嘛袂惊",
+      "match_text": "人块说家和万事兴 大风大雨嘛袂惊",
+      "text": "人塊說家和萬事興　大風大雨嘛袂驚",
+      "spelling": "lâng tè kóng ka hô bān-sū hìng tuā-hong tuā-hōo mā buē kiann",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 186.65,
+      "online_text": "举头金金看 月娘犹原挂底遐",
+      "match_text": "举头金金看 月娘犹原挂底遐",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 195.85,
+      "online_text": "田螺含水忍过冬 未来一定有希望",
+      "match_text": "田螺含水忍过冬 未来一定有希望",
+      "text": "田螺含水忍過冬　未來一定有希望",
+      "spelling": "tshân-lê hâm-tsuí lím-kuè tang bī-lâi it-tīng ū hi-bāng",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 205.72,
+      "online_text": "捧起别人的饭碗 做人的妈妈才知影",
+      "match_text": "捧起别人的饭碗 做人的妈妈才知影",
+      "text": "捧起別人的飯碗　做人的媽媽才知影",
+      "spelling": "phâng khí pa̍t-lâng ê pn̄g-uánn tsuè-lâng ê má-mah tsiah tsai-iánn",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 216.92,
+      "online_text": "咱好比是箍桶的箍仔",
+      "match_text": "咱好比是箍桶的箍仔",
+      "text": "咱好比是箍桶的箍仔",
+      "spelling": "lán hó-pí sī khoo-tháng ê khoo-á",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 223.04,
+      "online_text": "幸福要靠咱来 箍乎偎",
+      "match_text": "幸福要靠咱来 箍乎偎",
+      "text": "幸福要靠咱來　箍乎偎",
+      "spelling": "hīng-hok ài kōo lán lâi khoo hōo uá",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 233.48,
+      "online_text": "一叶女人心 用温柔跟你的脚步行",
+      "match_text": "一叶女人心 用温柔跟你的脚步行",
+      "text": "一葉女人心　用溫柔跟你的腳步行",
+      "spelling": "tsi̍t hio̍h lú-lîn-sim iōng un-liû tuè lí ê kha-pōo kiânn",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 244.72,
+      "online_text": "婆家媳妇要同心 一家伙仔才袂散",
+      "match_text": "婆家媳妇要同心 一家伙仔才袂散",
+      "text": "婆家媳婦要同心　一家伙仔才袂散",
+      "spelling": "pô-ke sin-pū ài kāng-sim tsi̍t ke-hué á tsiah buē suánn",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 252.48,
+      "online_text": "一叶女人心 用真心跟你的脚步行",
+      "match_text": "一叶女人心 用真心跟你的脚步行",
+      "text": "一葉女人心　用真心跟你的腳步行",
+      "spelling": "tsi̍t hio̍h lú-lîn-sim iōng tsin-sim tuè lí ê kha-pōo kiânn",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 266.55,
+      "online_text": "人块说家和万事兴 大风大雨嘛袂惊",
+      "match_text": "人块说家和万事兴 大风大雨嘛袂惊",
+      "text": "人塊說家和萬事興　大風大雨嘛袂驚",
+      "spelling": "lâng tè kóng ka hô bān-sū hìng tuā-hong tuā-hōo mā buē kiann",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 278.04,
+      "online_text": "人块说家和万事兴 大风大雨嘛袂惊",
+      "match_text": "人块说家和万事兴 大风大雨嘛袂惊",
+      "text": "人塊說家和萬事興　大風大雨嘛袂驚",
+      "spelling": "lâng tè kóng ka hô bān-sū hìng tuā-hong tuā-hōo mā buē kiann",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "9381b89055cc098aeb24994bb944943c921c35b46195b668fa19d5711795b770",
+    "manual": "ca2d987f3d4a07ea9dd57f457406822858727d274d2700e720c1bb3641392a14",
+    "timed": "195a09b7b3f701dcabc1d4bd5c015cd2166a5c06ec83431267ed94084be50abe"
+  }
+}

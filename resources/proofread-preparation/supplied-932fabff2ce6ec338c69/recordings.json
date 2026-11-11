@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 350182,
+      "title": "少年花",
+      "artists": [
+        "川秋沙"
+      ],
+      "album": "人造沙洲",
+      "duration": 388.413,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

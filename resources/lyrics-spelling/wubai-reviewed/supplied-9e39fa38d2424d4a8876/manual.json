@@ -1,0 +1,420 @@
+{
+  "recording_id": "netease:157174",
+  "source": "User-supplied resources/lyrics-spelling/漂浪-伍佰",
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "你若袂輕鬆                           擱飲些酒來茫",
+      "spelling": "lí ná  bē khin-sang            khǹg ím kuá tsiú lâi bâng",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "你若袂輕鬆",
+          "spelling": "lí ná  bē khin-sang"
+        },
+        {
+          "text": "擱飲些酒來茫",
+          "spelling": "khǹg ím kuá tsiú lâi bâng"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "麥凍那牽拖什麼如此甲這般",
+      "spelling": "mài tòng nà khan-thua siánn-mih lû-tshú kah tse-puann",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "麥凍那牽拖什麼如此甲這般",
+          "spelling": "mài tòng nà khan-thua siánn-mih lû-tshú kah tse-puann"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "你若袂輕鬆                           擱飲些酒來茫",
+      "spelling": "lí ná  bē khin-sang            khǹg ím kuá tsiú lâi bâng",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "你若袂輕鬆",
+          "spelling": "lí ná  bē khin-sang"
+        },
+        {
+          "text": "擱飲些酒來茫",
+          "spelling": "khǹg ím kuá tsiú lâi bâng"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "茫乎伊面紅紅                                  心臟霹噗喘",
+      "spelling": "bâng honnh i biān âng âng        sim-tsōng phik pho̍k tshuán",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "茫乎伊面紅紅",
+          "spelling": "bâng honnh i biān âng âng"
+        },
+        {
+          "text": "心臟霹噗喘",
+          "spelling": "sim-tsōng phik pho̍k tshuán"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "我的是你的                                   說暫時沒問題",
+      "spelling": "guá ê sī lí ê                                  kóng tsiām-sî bô būn-tê",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "我的是你的",
+          "spelling": "guá ê sī lí ê"
+        },
+        {
+          "text": "說暫時沒問題",
+          "spelling": "kóng tsiām-sî bô būn-tê"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "朋友的交陪                                   咱不通太超過",
+      "spelling": "pîng-iú ê kau-puê                      lán m̄-thang siunn tshiau-kuè",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "朋友的交陪",
+          "spelling": "pîng-iú ê kau-puê"
+        },
+        {
+          "text": "咱不通太超過",
+          "spelling": "lán m̄-thang siunn tshiau-kuè"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "酒是袂嫌多                                   說人生是短短",
+      "spelling": "tsiú sī buē hiâm tsē                   kóng lîn-sing sī té té",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "酒是袂嫌多",
+          "spelling": "tsiú sī buē hiâm tsē"
+        },
+        {
+          "text": "說人生是短短",
+          "spelling": "kóng lîn-sing sī té té"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "鬱卒的代誌                                   咱互相會體會",
+      "spelling": "ut-tsut ê tāi-tsì                            lán hōo siong ē thé-huē",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "鬱卒的代誌",
+          "spelling": "ut-tsut ê tāi-tsì"
+        },
+        {
+          "text": "咱互相會體會",
+          "spelling": "lán hōo siong ē thé-huē"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "半瞑的夢中                                   有貼心啊的面容",
+      "spelling": "puànn mî ê bāng-tiong             ū tah-sim ah ē bīn-iông",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "半瞑的夢中",
+          "spelling": "puànn mî ê bāng-tiong"
+        },
+        {
+          "text": "有貼心啊的面容",
+          "spelling": "ū tah-sim ah ē bīn-iông"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "對妳已不在玲瓏轉                        妳哪不說話",
+      "spelling": "tuì lí í put-tsāi lin-long se̍h       lí ná m̄ kóng-uē",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "對妳已不在玲瓏轉",
+          "spelling": "tuì lí í put-tsāi lin-long se̍h"
+        },
+        {
+          "text": "妳哪不說話",
+          "spelling": "lí ná m̄ kóng-uē"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "你若袂輕鬆                                   擱飲些酒來茫",
+      "spelling": "lí ná  bē khin-sang                     khǹg ím kuá tsiú lâi bâng",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "你若袂輕鬆",
+          "spelling": "lí ná  bē khin-sang"
+        },
+        {
+          "text": "擱飲些酒來茫",
+          "spelling": "khǹg ím kuá tsiú lâi bâng"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "心內的憂悶                                   咱暫時且甲放",
+      "spelling": "sim-lāi ē iu-būn                          lán tsiām-sî tshiánn kah pàng",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "心內的憂悶",
+          "spelling": "sim-lāi ē iu-būn"
+        },
+        {
+          "text": "咱暫時且甲放",
+          "spelling": "lán tsiām-sî tshiánn kah pàng"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "滿面的春風                                   有七逃時的莽",
+      "spelling": "muá-bīn ē tshun-hong              ū tshit tô sî ê bóng",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "滿面的春風",
+          "spelling": "muá-bīn ē tshun-hong"
+        },
+        {
+          "text": "有七逃時的莽",
+          "spelling": "ū tshit tô sî ê bóng"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "飲酒的時袸                                   哇哪著愛豪爽",
+      "spelling": "ím tsiú ê sî tsūn                          oa ná tio̍h ài hô sóng",
+      "source_lines": [
+        42,
+        43
+      ],
+      "parts": [
+        {
+          "text": "飲酒的時袸",
+          "spelling": "ím tsiú ê sî tsūn"
+        },
+        {
+          "text": "哇哪著愛豪爽",
+          "spelling": "oa ná tio̍h ài hô sóng"
+        }
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "半瞑的夢中                                  有貼心啊的面容",
+      "spelling": "puànn mî ê bāng-tiong            ū tah-sim ah ē bīn-iông",
+      "source_lines": [
+        45,
+        46
+      ],
+      "parts": [
+        {
+          "text": "半瞑的夢中",
+          "spelling": "puànn mî ê bāng-tiong"
+        },
+        {
+          "text": "有貼心啊的面容",
+          "spelling": "ū tah-sim ah ē bīn-iông"
+        }
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "對妳已不在玲瓏轉                      妳哪不說話",
+      "spelling": "tuì lí í put-tsāi lin-long se̍h     lí ná m̄ kóng-uē",
+      "source_lines": [
+        48,
+        49
+      ],
+      "parts": [
+        {
+          "text": "對妳已不在玲瓏轉",
+          "spelling": "tuì lí í put-tsāi lin-long se̍h"
+        },
+        {
+          "text": "妳哪不說話",
+          "spelling": "lí ná m̄ kóng-uē"
+        }
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "搖著你的身軀                              搖著你的手",
+      "spelling": "iô tio̍h lí ê sin-khu                    iô tio̍h lí ê tshiú",
+      "source_lines": [
+        51,
+        52
+      ],
+      "parts": [
+        {
+          "text": "搖著你的身軀",
+          "spelling": "iô tio̍h lí ê sin-khu"
+        },
+        {
+          "text": "搖著你的手",
+          "spelling": "iô tio̍h lí ê tshiú"
+        }
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "迷人的腳步                                 有淡薄啊溫柔",
+      "spelling": "bê-lâng ê kha-pōo                    ū tām-po̍h ah un-jiû",
+      "source_lines": [
+        54,
+        55
+      ],
+      "parts": [
+        {
+          "text": "迷人的腳步",
+          "spelling": "bê-lâng ê kha-pōo"
+        },
+        {
+          "text": "有淡薄啊溫柔",
+          "spelling": "ū tām-po̍h ah un-jiû"
+        }
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "心情哪快活                                 擱歡喜來唱歌",
+      "spelling": "sim-tsîng ná khuìnn-ua̍h       khǹg huann-hí lâi tshiùnn-kua",
+      "source_lines": [
+        57,
+        58
+      ],
+      "parts": [
+        {
+          "text": "心情哪快活",
+          "spelling": "sim-tsîng ná khuìnn-ua̍h"
+        },
+        {
+          "text": "擱歡喜來唱歌",
+          "spelling": "khǹg huann-hí lâi tshiùnn-kua"
+        }
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "漂浪罔漂浪                                       哇哪不通太虛華",
+      "spelling": "phiau lâng bóng phiau lâng        oa ná m̄-thang siunn hi-hua",
+      "source_lines": [
+        60,
+        61
+      ],
+      "parts": [
+        {
+          "text": "漂浪罔漂浪",
+          "spelling": "phiau lâng bóng phiau lâng"
+        },
+        {
+          "text": "哇哪不通太虛華",
+          "spelling": "oa ná m̄-thang siunn hi-hua"
+        }
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "漂浪罔漂浪                                       哇哪不通太虛華",
+      "spelling": "phiau lâng bóng phiau lâng        oa ná m̄-thang siunn hi-hua",
+      "source_lines": [
+        63,
+        64
+      ],
+      "parts": [
+        {
+          "text": "漂浪罔漂浪",
+          "spelling": "phiau lâng bóng phiau lâng"
+        },
+        {
+          "text": "哇哪不通太虛華",
+          "spelling": "oa ná m̄-thang siunn hi-hua"
+        }
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "漂浪罔漂浪                                       哇哪不通太虛華",
+      "spelling": "phiau lâng bóng phiau lâng       oa ná m̄-thang siunn hi-hua",
+      "source_lines": [
+        66,
+        67
+      ],
+      "parts": [
+        {
+          "text": "漂浪罔漂浪",
+          "spelling": "phiau lâng bóng phiau lâng"
+        },
+        {
+          "text": "哇哪不通太虛華",
+          "spelling": "oa ná m̄-thang siunn hi-hua"
+        }
+      ]
+    }
+  ]
+}

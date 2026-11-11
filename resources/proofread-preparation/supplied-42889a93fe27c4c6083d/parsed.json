@@ -1,0 +1,172 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "夜色 自妳開始變化",
+      "spelling": "iā-sik tsū lí khai-sí piàn-huà",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "是改變妳 改變我 改變了啥",
+      "spelling": "sī kái-piàn lí kái-piàn guá kái-piàn liáu siánn",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "時間 自現在就不振動",
+      "spelling": "sî-kan tsū tsit-má tio̍h buē tín-tāng",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "是怎樣妳 怎樣我 怎樣佇遮",
+      "spelling": "sī tsuánn-iūnn lí tsuánn-iūnn guá tsuánn-iūnn tī tsia",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "枕頭留剩妳昨暝的香",
+      "spelling": "tsím-thâu lâu tshun lí tsa-mî ê phang",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "愛情 說不出嘴的夢",
+      "spelling": "ài-tsîng kóng buē tshut tshuì ê bāng",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "是改變妳 改變我 改變了啥",
+      "spelling": "sī kái-piàn lí kái-piàn guá kái-piàn liáu siánn",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "甘系心中有淡薄驚惶",
+      "spelling": "kam sī sim-tiong ū tām-po̍h kiann-hiânn",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "風箏 自開始斷了線",
+      "spelling": "hong-tshue tsū khai-sí tn̄g liáu suànn",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "是忘記妳 忘記我 忘記追啥",
+      "spelling": "sī buē-kì-tit lí buē-kì-tit guá buē-kì-tit tui siánn",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "甘袂當停下留吻佇遮",
+      "spelling": "kam buē-tàng thîng hā lâu bún tī tsia",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "是等待乎人思念 也是黑夜寂寞折磨",
+      "spelling": "sī tán-thāi hōo lâng su-liām iā-sī oo-iā siok-bo̍k tsiat-buâ",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "時間催人更加痛疼",
+      "spelling": "sî-kan tshui lâng kìng-ka thiànn-thàng",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "越愛卻是更加無望",
+      "spelling": "lú ài suah-sī kìng-ka bô-bāng",
+      "source_lines": [
+        47,
+        48
+      ]
+    },
+    {
+      "id": "line-50",
+      "text": "是等待乎人思念 也是黑夜寂寞折磨",
+      "spelling": "sī tán-thāi hōo lâng su-liām iā-sī oo-iā siok-bo̍k tsiat-buâ",
+      "source_lines": [
+        50,
+        51
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "時間催人更加痛疼",
+      "spelling": "sî-kan tshui lâng kìng-ka thiànn-thàng",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "越愛卻是更加無望",
+      "spelling": "lú ài suah-sī kìng-ka bô-bāng",
+      "source_lines": [
+        60,
+        61
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:40,41",
+    "ambiguous_pair:41,42",
+    "ambiguous_pair:45,46",
+    "ambiguous_pair:46,47",
+    "ambiguous_pair:53,54",
+    "ambiguous_pair:54,55",
+    "ambiguous_pair:58,59",
+    "ambiguous_pair:59,60",
+    "ambiguous_pair:7,8",
+    "ambiguous_pair:8,10",
+    "unpaired_line:63"
+  ]
+}

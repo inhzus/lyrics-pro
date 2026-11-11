@@ -1,0 +1,424 @@
+{
+  "recording_id": "lrcapi:1753653081",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E7%84%A1%E9%A1%8C&artist=%E6%8B%8D%E8%AC%9D%E5%B0%91%E5%B9%B4&album=%E6%B5%B7%E5%8F%A3%E5%91%B3#1753653081",
+  "manual_source": "User-supplied resources/lyrics-spelling/無題-拍謝少年",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "exact": 21,
+    "approximate": 1,
+    "unresolved": 4,
+    "repeat": 6
+  },
+  "review_row_count": 5,
+  "unmatched_manual_ids": [
+    "line-40:0",
+    "line-43:0"
+  ],
+  "unused_repeat_ids": [],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 27.385,
+      "online_text": "我想你已經知影彼兩天",
+      "match_text": "我想你已經知影彼兩天",
+      "text": "我想你已經知影彼兩天",
+      "spelling": "guá siūnn lí í-king tsai-iánn hit nn̄g-kang",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 32.215,
+      "online_text": "我是決心離開莫閣越頭盼望",
+      "match_text": "我是決心離開莫閣越頭盼望",
+      "text": "我是決心離開莫閣越頭盼望",
+      "spelling": "guá sī kuat-sim lī-khui mài koh ua̍t-thâu phàn-bāng",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 39.715,
+      "online_text": "是你的執癖 予我袂喘氣啊",
+      "match_text": "是你的執癖 予我袂喘氣啊",
+      "text": "是你的執癖，予我袂喘氣啊",
+      "spelling": "sī lí ê tsiah-phiah hōo guá buē tshuán khì ah",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 46.764,
+      "online_text": "咱的生活走精恬恬跋落無聲",
+      "match_text": "咱的生活走精恬恬跋落無聲",
+      "text": "咱的生活走精恬恬跋落無聲",
+      "spelling": "lán ê sing-ua̍h tsáu tsing tiām-tiām pua̍h lo̍h bô-siann",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 53.932,
+      "online_text": "是我堅持欲走 你著莫閣姑情",
+      "match_text": "是我堅持欲走 你著莫閣姑情",
+      "text": "是我堅持欲走，你著莫閣姑情",
+      "spelling": "sī guá ngē-sí bē tsáu lí tio̍h mài koh koo-tsiânn",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 61.014,
+      "online_text": "想你講進前的日子 是天星閃爍啊",
+      "match_text": "想你講進前的日子 是天星閃爍啊",
+      "text": "想你講進前的日子，是天星閃爍啊",
+      "spelling": "siūnn lí kóng tsìn-tsîng ê li̍t-tsí sī thinn-tshinn siám-sih ah",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 68.21,
+      "online_text": "較早是黏黐黐 啊這馬生份滿滿",
+      "match_text": "較早是黏黐黐 啊這馬生份滿滿",
+      "text": "較早是黏黐黐，啊這馬生份滿滿",
+      "spelling": "khah-tsá sī liâm-thi thi ah tsit-má senn-hun muá-muá",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 75.913,
+      "online_text": "扶著我的心肝憂悶遮爾重",
+      "match_text": "扶著我的心肝憂悶遮爾重",
+      "text": "扞著我的心肝憂悶遮爾重",
+      "spelling": "huānn-tio̍h guá ê sim-kuann iu-būn tsiah-nī tng",
+      "manual_id": "line-22:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 8,
+      "time": 101.219,
+      "online_text": "是好天氣 做伙散步去",
+      "match_text": "是好天氣 做伙散步去",
+      "text": "是好天氣，做伙散步去",
+      "spelling": "sī hó thinn-khì tsò-hué sàn-pōo khì",
+      "manual_id": "line-25:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 108.566,
+      "online_text": "是好天氣 咱做伙散步去",
+      "match_text": "是好天氣 咱做伙散步去",
+      "text": "是好天氣，咱做伙散步去",
+      "spelling": "sī hó thinn-khì lán tsò-hué sàn-pōo khì",
+      "manual_id": "line-28:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 115.767,
+      "online_text": "親像開始的時 你講你一定愛去",
+      "match_text": "親像開始的時 你講你一定愛去",
+      "text": "親像開始的時，你講你一定愛去",
+      "spelling": "tshin-tshiūnn khai-sí ê sî lí kóng lí it-tīng ài khì",
+      "manual_id": "line-31:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 122.26,
+      "online_text": "今仔日又夢醒 輕聲落目屎滴",
+      "match_text": "今仔日又夢醒 輕聲落目屎滴",
+      "text": "今仔日又夢醒，輕聲落目屎滴",
+      "spelling": "kin-á-lit iū bāng tshínn khin-siann lo̍h ba̍k-sái tih",
+      "manual_id": "line-34:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 129.517,
+      "online_text": "落雨的暗暝",
+      "match_text": "落雨的暗暝",
+      "text": "落雨的暗暝",
+      "spelling": "lo̍h-hōo ê àm-mî",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 138.016,
+      "online_text": "你那會目箍紅",
+      "match_text": "你那會目箍紅",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-40:0"
+    },
+    {
+      "source_row": 14,
+      "time": 145.311,
+      "online_text": "你那會目箍紅紅",
+      "match_text": "你那會目箍紅紅",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-40:0"
+    },
+    {
+      "source_row": 15,
+      "time": 152.218,
+      "online_text": "過稀微的生活",
+      "match_text": "過稀微的生活",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-43:0"
+    },
+    {
+      "source_row": 16,
+      "time": 159.419,
+      "online_text": "是悲傷來強迫",
+      "match_text": "是悲傷來強迫",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "needs_explicit_text_and_spelling_split"
+      ],
+      "candidate_manual_id": "line-43:0"
+    },
+    {
+      "source_row": 17,
+      "time": 167.218,
+      "online_text": "彼當時 用你的批紙紀錄散場的感覺",
+      "match_text": "彼當時 用你的批紙紀錄散場的感覺",
+      "text": "彼當時，用你的批紙紀錄散場的感覺",
+      "spelling": "hit-tong-sî iōng lí ê phue-tsuá kì-lo̍k suah-tiûnn ê kám-kak",
+      "manual_id": "line-46:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 174.86,
+      "online_text": "這齣啊 予命運的風車搧落黑暗的山林",
+      "match_text": "這齣啊 予命運的風車搧落黑暗的山林",
+      "text": "這齣啊，予命運的風車搧落黑暗的山林",
+      "spelling": "tsit tshut ah miā-ūn ê hong-tshia siàn lue oo-àm-ê suann-nâ",
+      "manual_id": "line-49:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 182.163,
+      "online_text": "最近的我 已經是無法度 來佮你作伴",
+      "match_text": "最近的我 已經是無法度 來佮你作伴",
+      "text": "最近的我，已經是無法度，來佮你作伴",
+      "spelling": "tsuè-kīn ê guá í-king sī bô-huat-tōo lâi ka lí tsuè phuānn",
+      "manual_id": "line-52:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 222.016,
+      "online_text": "你彼段坎坷的線",
+      "match_text": "你彼段坎坷的線",
+      "text": "你彼段坎坷的線，",
+      "spelling": "lí hit tuānn khám-khia̍t ê suànn",
+      "manual_id": "line-55:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 225.166,
+      "online_text": "著算是倔強歸工孔嘴痛",
+      "match_text": "著算是倔強歸工孔嘴痛",
+      "text": "著算是倔強歸工孔嘴痛",
+      "spelling": "tio̍h-sǹg sī khut-kiông kui-kang khang tshuì thiànn",
+      "manual_id": "line-58:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 229.611,
+      "online_text": "嘛會孤單恬恬看",
+      "match_text": "嘛會孤單恬恬看",
+      "text": "嘛會孤單恬恬看",
+      "spelling": "mā ē koo-tuann tiām-tiām khuànn",
+      "manual_id": "line-61:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 234.918,
+      "online_text": "我離開啥人照顧啊",
+      "match_text": "我離開啥人照顧啊",
+      "text": "我離開啥人照顧啊，",
+      "spelling": "guá lī-khui siánn-lâng tsiàu-kòo ah",
+      "manual_id": "line-64:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 238.169,
+      "online_text": "愛慣習自己坐車提物件",
+      "match_text": "愛慣習自己坐車提物件",
+      "text": "愛慣習自己坐車提物件",
+      "spelling": "ài kuàn si̍p ka-kī tsē-tshia thê mi̍h-kiānn",
+      "manual_id": "line-67:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 242.511,
+      "online_text": "但是無聊欲按怎",
+      "match_text": "但是無聊欲按怎",
+      "text": "但是無聊欲按怎",
+      "spelling": "tān-sī bô-liâu bē án-tsuánn",
+      "manual_id": "line-70:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 247.916,
+      "online_text": "驚無人知 你的感覺",
+      "match_text": "驚無人知 你的感覺",
+      "text": "驚無人知，你的感覺",
+      "spelling": "kiann bô-lâng tsai lí ê kám-kak",
+      "manual_id": "line-73:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 250.615,
+      "online_text": "惜情的人啊 是一條無尾巷",
+      "match_text": "惜情的人啊 是一條無尾巷",
+      "text": "惜情的人啊，是一條無尾巷",
+      "spelling": "sioh-tsîng ê lâng sī tsi̍t tiâu bô-bué hāng",
+      "manual_id": "line-76:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 255.316,
+      "online_text": "愛較緊認清看破",
+      "match_text": "愛較緊認清看破",
+      "text": "愛較緊認清看破",
+      "spelling": "ài khah kín līn tshing khuànn-phuà",
+      "manual_id": "line-79:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 260.865,
+      "online_text": "驚無人知 你的感覺",
+      "match_text": "驚無人知 你的感覺",
+      "text": "驚無人知，你的感覺",
+      "spelling": "kiann bô-lâng tsai lí ê kám-kak",
+      "manual_id": "line-73:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 263.519,
+      "online_text": "惜情的人啊 是一條無尾巷",
+      "match_text": "惜情的人啊 是一條無尾巷",
+      "text": "惜情的人啊，是一條無尾巷",
+      "spelling": "sioh-tsîng ê lâng sī tsi̍t tiâu bô-bué hāng",
+      "manual_id": "line-76:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 268.369,
+      "online_text": "愛較緊認清看破",
+      "match_text": "愛較緊認清看破",
+      "text": "愛較緊認清看破",
+      "spelling": "ài khah kín līn tshing khuànn-phuà",
+      "manual_id": "line-79:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "fd84267ed55f27111d0ddf7da94b8e2bd22b0142d74972519764d31311ca501c",
+    "manual": "55b7a1ba21609f9cf286484f9cf1d278ac2b35e981da3503336ecf84912b87ed",
+    "timed": "2a82cc8a2937f964af6399f04dd26c1febe1edf30deda6c2a51521bc69ea38ef"
+  }
+}

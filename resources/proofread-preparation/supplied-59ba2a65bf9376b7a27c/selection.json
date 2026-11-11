@@ -1,0 +1,55 @@
+{
+  "selected": {
+    "song_id": 5252256,
+    "title": "心中无别人",
+    "artists": [
+      "五月天"
+    ],
+    "album": "超级星光Pk宝典2",
+    "duration": 253.987,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:5252256",
+      "duration": 253.987,
+      "ready": false,
+      "coverage": 0.5654008438818565,
+      "exact_fraction": 0.47368421052631576,
+      "summary": {
+        "credit": 3,
+        "unresolved": 23,
+        "approximate": 7,
+        "exact": 13,
+        "gap": 5,
+        "repeat": 14
+      }
+    },
+    {
+      "recording_id": "netease:386014",
+      "duration": 250.865,
+      "ready": false,
+      "coverage": 0.1308016877637131,
+      "exact_fraction": 0.0,
+      "summary": {
+        "credit": 3,
+        "unresolved": 21,
+        "gap": 4,
+        "approximate": 6
+      }
+    },
+    {
+      "recording_id": "netease:386848",
+      "duration": 251.96,
+      "ready": false,
+      "coverage": 0.1308016877637131,
+      "exact_fraction": 0.0,
+      "summary": {
+        "credit": 3,
+        "unresolved": 23,
+        "approximate": 4
+      }
+    }
+  ]
+}

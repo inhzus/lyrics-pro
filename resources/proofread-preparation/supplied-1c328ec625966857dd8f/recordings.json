@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "song_id": 157176,
+      "title": "返去故乡",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "树枝孤鸟",
+      "duration": 347.773,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 156669,
+      "title": "返去故乡",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "爱你伍佰年",
+      "duration": 347.773,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2056259111,
+      "title": "返去故乡",
+      "artists": [
+        "黄飞豪"
+      ],
+      "album": "KTV总动员 21 台语流行金曲",
+      "duration": 341.928,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

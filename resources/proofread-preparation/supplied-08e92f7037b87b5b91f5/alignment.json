@@ -1,0 +1,246 @@
+{
+  "recording_id": "netease:350193",
+  "timing_source": "NetEase https://music.163.com/song?id=350193",
+  "manual_source": "User-supplied resources/lyrics-spelling/鐵塔巨人-川秋沙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "exact": 8,
+    "repeat": 6,
+    "unresolved": 2
+  },
+  "review_row_count": 2,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-18:0",
+    "line-42:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 川秋沙",
+      "match_text": "作词 : 川秋沙",
+      "text": "作词 : 川秋沙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 川秋沙",
+      "match_text": "作曲 : 川秋沙",
+      "text": "作曲 : 川秋沙",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 27.36,
+      "online_text": "室外山 蜿蜒站",
+      "match_text": "室外山 蜿蜒站",
+      "text": "室外山 蜿蜒站",
+      "spelling": "tshi guā suann buan-en khiā",
+      "manual_id": "line-3:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 33.55,
+      "online_text": "钢铁担起 不夜繁华",
+      "match_text": "钢铁担起 不夜繁华",
+      "text": "鋼鐵擔起 不夜繁華",
+      "spelling": "kǹg-thih tànn khí put-iā huân-huâ",
+      "manual_id": "line-6:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 40.73,
+      "online_text": "铁塔顶 线牵引",
+      "match_text": "铁塔顶 线牵引",
+      "text": "鐵塔頂 線牽引",
+      "spelling": "thih thah tíng suànn khan-ín",
+      "manual_id": "line-9:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 47.55,
+      "online_text": "灯火通明 未来光景",
+      "match_text": "灯火通明 未来光景",
+      "text": "燈火通明 未來光景",
+      "spelling": "ting-hué thong-bîng bī-lâi kong-kíng",
+      "manual_id": "line-12:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 68.2,
+      "online_text": "电流动 日夜行",
+      "match_text": "电流动 日夜行",
+      "text": "電流動 日夜行",
+      "spelling": "tiān-liû tāng li̍t-iā kiânn",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 74.81,
+      "online_text": "呒暝的人 抹醒的梦",
+      "match_text": "呒暝的人 抹醒的梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 81.98,
+      "online_text": "层层风 阵阵起",
+      "match_text": "层层风 阵阵起",
+      "text": "層層風 陣陣起",
+      "spelling": "tîn tîn hong tsūn tsūn khí",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 88.5,
+      "online_text": "铁塔巨人 排阵过山",
+      "match_text": "铁塔巨人 排阵过山",
+      "text": "鐵塔巨人 排陣過山",
+      "spelling": "thih thah kū-lîn pâi-tīn kuè-suann",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 109.83,
+      "online_text": "铁塔流光 照空太阳",
+      "match_text": "铁塔流光 照空太阳",
+      "text": "鐵塔流光 照空太陽",
+      "spelling": "thih thah liû kng tshiō khàng thài-iông",
+      "manual_id": "line-27:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 117.2,
+      "online_text": "为着你我 传信过岭",
+      "match_text": "为着你我 传信过岭",
+      "text": "為著你我 傳信過嶺",
+      "spelling": "uī-tio̍h lí guá thuân-sìn kuè niá",
+      "manual_id": "line-30:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 124.41,
+      "online_text": "城市迷茫 车来人往",
+      "match_text": "城市迷茫 车来人往",
+      "text": "城市迷茫 車來人往",
+      "spelling": "siânn-tshī bî bâng tshia lâi lîn óng",
+      "manual_id": "line-33:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 130.95,
+      "online_text": "叨位是故乡",
+      "match_text": "叨位是故乡",
+      "text": "叨位是故鄉",
+      "spelling": "tó-uī sī kòo-hiong",
+      "manual_id": "line-36:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 137.87,
+      "online_text": "电流动 日夜行",
+      "match_text": "电流动 日夜行",
+      "text": "電流動 日夜行",
+      "spelling": "tiān-liû tāng li̍t-iā kiânn",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 143.29,
+      "online_text": "呒暝的人 抹醒的梦",
+      "match_text": "呒暝的人 抹醒的梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 150.51,
+      "online_text": "层层风 阵阵起",
+      "match_text": "层层风 阵阵起",
+      "text": "層層風 陣陣起",
+      "spelling": "tîn tîn hong tsūn tsūn khí",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 157.0,
+      "online_text": "铁塔巨人 排阵过山",
+      "match_text": "铁塔巨人 排阵过山",
+      "text": "鐵塔巨人 排陣過山",
+      "spelling": "thih thah kū-lîn pâi-tīn kuè-suann",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "da5741a374bbc35fcab6f86b31cb873e237a98f77b17ad29e12edcbca70c88e9",
+    "manual": "21e3d7bd1ddb7a2963902149e56052e39af13d89b8aaf65878db729bad5fda85",
+    "timed": "8ac28952a67073a4c0479a683999e83ee5b485ecdddd0674973ab0c3fe22bff8"
+  }
+}

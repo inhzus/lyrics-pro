@@ -1,0 +1,349 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "月娘聽到咱ㄟ歌 那ㄟ這傲早",
+      "spelling": "gue̍h-niû thiann-tio̍h lán ê kua na ê tsia gōo tsá",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "慢慢ㄟ牛車款款也駛 連日頭嘛隨出來",
+      "spelling": "bān-bān ê gû-tshia khuán khuán iā sái ji̍t-thâu mā tuè tshut-lâi",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "風吹骨力ㄟ身軀 屈落 企乎在",
+      "spelling": "hong-tshue-tio̍h kut-la̍t ê sin-khu khut lo̍h khìa hōo tsāi",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "土地公伯也 笑呵呵 今年少風颱",
+      "spelling": "thóo-tē kong peh iā tshiò hai hai kin-nî tsió hong-thai",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "黃黃ㄟ油菜花 等待春風來",
+      "spelling": "bān-bān ê iû-tshài-hue tán-thāi tshun-hong lâi",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "黃昏ㄟ稻草人 跟日頭Say Goodbye",
+      "spelling": "hông-hun ê tiū-tsháu-lâng kā ji̍t-thâu Say Goodbye",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "粒粒ㄟ栗ㄚ 攏摻著咱ㄟ愛",
+      "spelling": "lia̍p lia̍p ê tshing-á lóng tsham-tio̍h lán ê ài",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "阿嬷ㄟ割稻ㄚ飯 有豐收ㄟ目屎",
+      "spelling": "ah-má ê kuah-tiū-á pn̄g ū hong-siu ê ba̍k-sái",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "呼 來 呼 來 有鐮勒ㄚㄟ 攏出來",
+      "spelling": "hoo lâi hoo lâi ū liam li̍k á ê lóng tshut-lâi",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "阿公行出來 水牛牽出來",
+      "spelling": "a-kong kiânn tshut-lâi tsuí-gû khan tshut-lâi",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "呼 來 呼 來 有鋤頭ㄟ 擎出來",
+      "spelling": "hoo lâi hoo lâi ū tî-thâu ê kìn tshut-lâi",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "阿嬷隨出來 孫ㄚ揹出來",
+      "spelling": "ah-má tuè tshut-lâi sun-á phāinn tshut-lâi",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "月娘聽到咱ㄟ歌 那ㄟ這傲早",
+      "spelling": "gue̍h-niû thiann-tio̍h lán ê kua na ê tsia gōo tsá",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "慢慢ㄟ牛車款款也駛 連日頭嘛隨出來",
+      "spelling": "bān-bān ê gû-tshia khuán khuán iā sái ji̍t-thâu mā tuè tshut-lâi",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "風吹骨力ㄟ身軀 屈落 企乎在",
+      "spelling": "hong-tshue-tio̍h kut-la̍t ê sin-khu khut lo̍h khìa hōo tsāi",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "土地公伯也 笑呵呵 今年少風颱",
+      "spelling": "thóo-tē kong peh iā tshiò hai hai kin-nî tsió hong-thai",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "黃黃ㄟ油菜花 等待春風來",
+      "spelling": "bān-bān ê iû-tshài-hue tán-thāi tshun-hong lâi",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "黃昏ㄟ稻草人 跟日頭Say Goodbye",
+      "spelling": "hông-hun ê tiū-tsháu-lâng kā ji̍t-thâu Say Goodbye",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "粒粒ㄟ栗ㄚ 攏摻著咱ㄟ愛",
+      "spelling": "lia̍p lia̍p ê tshing-á lóng tsham-tio̍h lán ê ài",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "阿嬷ㄟ割稻ㄚ飯 有豐收ㄟ目屎",
+      "spelling": "ah-má ê kuah-tiū-á pn̄g ū hong-siu ê ba̍k-sái",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "呼 來 呼 來 有鐮勒ㄚㄟ 攏出來",
+      "spelling": "hoo lâi hoo lâi ū liam li̍k á ê lóng tshut-lâi",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "阿公行出來 水牛牽出來",
+      "spelling": "a-kong kiânn tshut-lâi tsuí-gû khan tshut-lâi",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "呼 來 呼 來 有鋤頭ㄟ 擎出來",
+      "spelling": "hoo lâi hoo lâi ū tî-thâu ê kìn tshut-lâi",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "阿嬷隨出來 孫ㄚ揹出來",
+      "spelling": "ah-má tuè tshut-lâi sun-á phāinn tshut-lâi",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "呼 來 呼 來 將手掩ㄚ 蔽起來",
+      "spelling": "hoo lâi hoo lâi tsiòng tshiú am á pîn khí-lâi",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "阿伯喊出來 阿姆緊出來",
+      "spelling": "a-peh-ah huah tshut-lâi a-ḿ kín tshut-lâi",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "呼 來 呼 來 將褲腳 撂起來",
+      "spelling": "hoo lâi hoo lâi tsiòng khòo-kha phè khí-lâi",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "弟弟跳出來 妹妹湊陣來",
+      "spelling": "tī-tî thiàu tshut-lâi mē mē tàu tīn lâi",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "呼 來 呼 來 有鐮勒ㄚㄟ 攏出來",
+      "spelling": "hoo lâi hoo lâi ū liam li̍k á ê lóng tshut-lâi",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "阿公行出來 水牛牽出來",
+      "spelling": "a-kong kiânn tshut-lâi tsuí-gû khan tshut-lâi",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "呼 來 呼 來 有鋤頭ㄟ 擎出來",
+      "spelling": "hoo lâi hoo lâi ū tî-thâu ê kìn tshut-lâi",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "阿嬷隨出來 孫ㄚ揹出來",
+      "spelling": "ah-má tuè tshut-lâi sun-á phāinn tshut-lâi",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "呼 來 呼 來 將手掩ㄚ 蔽起來",
+      "spelling": "hoo lâi hoo lâi tsiòng tshiú am á pîn khí-lâi",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "阿伯喊出來 阿姆緊出來",
+      "spelling": "a-peh-ah huah tshut-lâi a-ḿ kín tshut-lâi",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "呼 來 呼 來 將褲腳 撂起來",
+      "spelling": "hoo lâi hoo lâi tsiòng khòo-kha phè khí-lâi",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "弟弟跳出來 妹妹湊陣來",
+      "spelling": "tī-tî thiàu tshut-lâi mē mē tàu tīn lâi",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "有氣力ㄟ 農出來 大家農出來",
+      "spelling": "ū khì-li̍k ê lông tshut-lâi ta̍k-ke lông tshut-lâi",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "有氣力ㄟ農出來 農出來 農出來 農出來",
+      "spelling": "ū khì-li̍k ê lông tshut-lâi ta̍k-ke lông tshut-lâi lông tshut-lâi",
+      "source_lines": [
+        112,
+        113
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

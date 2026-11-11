@@ -1,0 +1,115 @@
+{
+  "candidates": [
+    {
+      "song_id": 231311,
+      "title": "想要弹同调",
+      "artists": [
+        "凤飞飞"
+      ],
+      "album": "想要弹同调",
+      "duration": 211.733,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1336790967,
+      "title": "想要弹同调",
+      "artists": [
+        "凤飞飞"
+      ],
+      "album": "想要弹同调最精选",
+      "duration": 212.323,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 378825,
+      "title": "想要弹同调",
+      "artists": [
+        "孙建平 & Sweet Style"
+      ],
+      "album": "音乐磁场9",
+      "duration": 203.493,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 231228,
+      "title": "想要弹同调",
+      "artists": [
+        "凤飞飞"
+      ],
+      "album": "想要弹同调精选辑",
+      "duration": 214.76,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1194938608",
+      "title": "想要弹同调",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "旧年",
+      "duration": 222.147,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1694524889",
+      "title": "想要弹同调",
+      "artists": [
+        "音乐磁场"
+      ],
+      "album": "音乐磁场9-台语经典名曲",
+      "duration": 203.493,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1447260379",
+      "title": "想要弹同调",
+      "artists": [
+        "凤飞飞"
+      ],
+      "album": "想要弹同调最精选",
+      "duration": 212.293,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1194938608",
+      "title": "想要弹同调",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "旧年",
+      "duration": 222.147,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1694524889",
+      "title": "想要弹同调",
+      "artists": [
+        "音乐磁场"
+      ],
+      "album": "音乐磁场9-台语经典名曲",
+      "duration": 203.493,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1447260379",
+      "title": "想要弹同调",
+      "artists": [
+        "凤飞飞"
+      ],
+      "album": "想要弹同调最精选",
+      "duration": 212.293,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

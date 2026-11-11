@@ -1,0 +1,216 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "飛在風中的小雨　                     夜夜在我的窗前                        怨這條愛情路",
+      "spelling": "hui tī hong tiong ê sió hōo    iā iā tī guá ê thang tsîng        uàn tsit tiâu ài-tsîng lōo",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "飛在風中的小雨",
+          "spelling": "hui tī hong tiong ê sió hōo"
+        },
+        {
+          "text": "夜夜在我的窗前",
+          "spelling": "iā iā tī guá ê thang tsîng"
+        },
+        {
+          "text": "怨這條愛情路",
+          "spelling": "uàn tsit tiâu ài-tsîng lōo"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "甘是黑雲起怨妒                         將阮月娘的目屎　                           吹冷冷的風",
+      "spelling": "kam sī oo-hûn khí uàn-tòo    tsiòng gún gue̍h-niû ê ba̍k-sái    tshue líng líng ê hong",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "甘是黑雲起怨妒",
+          "spelling": "kam sī oo-hûn khí uàn-tòo"
+        },
+        {
+          "text": "將阮月娘的目屎",
+          "spelling": "tsiòng gún gue̍h-niû ê ba̍k-sái"
+        },
+        {
+          "text": "吹冷冷的風",
+          "spelling": "tshue líng líng ê hong"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "那時甲妳有約束　              治我倒返來那時                      妳會在我身邊",
+      "spelling": "he sî kah lí ê iok-sok        tī guá tó tńg lâi he sî            lí ē tī guá sin-pinn",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "那時甲妳有約束",
+          "spelling": "he sî kah lí ê iok-sok"
+        },
+        {
+          "text": "治我倒返來那時",
+          "spelling": "tī guá tó tńg lâi he sî"
+        },
+        {
+          "text": "妳會在我身邊",
+          "spelling": "lí ē tī guá sin-pinn"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "那知日子做伊去                     我猶原不曾回來                            妳不知在佗位",
+      "spelling": "ná-tsai ji̍t-tsí tsuè i khì        guá iu-guân m̄ bat tńg-lâi        lí m̄ tsai tī tah-uī",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "那知日子做伊去",
+          "spelling": "ná-tsai ji̍t-tsí tsuè i khì"
+        },
+        {
+          "text": "我猶原不曾回來",
+          "spelling": "guá iu-guân m̄ bat tńg-lâi"
+        },
+        {
+          "text": "妳不知在佗位",
+          "spelling": "lí m̄ tsai tī tah-uī"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "誓言只是談愛的話　             不管妳相信或無                            這代表我愛妳",
+      "spelling": "sè giân tsí sī tâm ài ê uē    m̄ kuán lí siong-sìn ia̍h bô        tse tāi-piáu guá ài lí",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "誓言只是談愛的話",
+          "spelling": "sè giân tsí sī tâm ài ê uē"
+        },
+        {
+          "text": "不管妳相信或無",
+          "spelling": "m̄ kuán lí siong-sìn ia̍h bô"
+        },
+        {
+          "text": "這代表我愛妳",
+          "spelling": "tse tāi-piáu guá ài lí"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "愛情總是甜甜蜜蜜                                   很多很傻的代誌",
+      "spelling": "ài-tsîng tsóng sī tinn tinn bi̍t bi̍t        chiok chōe tsin gōng ê tāi-tsì",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "愛情總是甜甜蜜蜜",
+          "spelling": "ài-tsîng tsóng sī tinn tinn bi̍t bi̍t"
+        },
+        {
+          "text": "很多很傻的代誌",
+          "spelling": "chiok chōe tsin gōng ê tāi-tsì"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "隴發生在　                    熱戀的時",
+      "spelling": "lóng huat-sing tī         jia̍t-luân ê sî",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "隴發生在",
+          "spelling": "lóng huat-sing tī"
+        },
+        {
+          "text": "熱戀的時",
+          "spelling": "jia̍t-luân ê sî"
+        }
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "飛在風中的小雨　                     請問你甘有看見                                         我思戀那個伊",
+      "spelling": "hui tī hong tiong ê sió hōo    tshiánn-mn̄g lí kam ū khuànn-kìnn    guá su luân hit ê i",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "飛在風中的小雨",
+          "spelling": "hui tī hong tiong ê sió hōo"
+        },
+        {
+          "text": "請問你甘有看見",
+          "spelling": "tshiánn-mn̄g lí kam ū khuànn-kìnn"
+        },
+        {
+          "text": "我思戀那個伊",
+          "spelling": "guá su luân hit ê i"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "請你幫我訴情意                                    說我在遠遠的所在",
+      "spelling": "tshiánn lí pang guá sòo tsîng-ì        kóng guá tī hn̄g hn̄g ê sóo-tsāi",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "請你幫我訴情意",
+          "spelling": "tshiánn lí pang guá sòo tsîng-ì"
+        },
+        {
+          "text": "說我在遠遠的所在",
+          "spelling": "kóng guá tī hn̄g hn̄g ê sóo-tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "猶原愛伊",
+      "spelling": "iu-guân ài i",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "猶原愛伊",
+          "spelling": "iu-guân ài i"
+        }
+      ]
+    }
+  ],
+  "repairs": [],
+  "notes": []
+}

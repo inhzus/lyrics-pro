@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 449769018,
+    "title": "热泪暗班车",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "钉子花",
+    "duration": 291.178,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:449769018",
+      "duration": 291.178,
+      "ready": false,
+      "coverage": 0.8325991189427313,
+      "exact_fraction": 0.7894736842105263,
+      "summary": {
+        "credit": 2,
+        "approximate": 2,
+        "exact": 17,
+        "unresolved": 6,
+        "repeat": 13
+      }
+    }
+  ]
+}

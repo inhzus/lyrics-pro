@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": "1753653081",
+    "title": "无题",
+    "artists": [
+      "拍谢少年"
+    ],
+    "album": "海口味",
+    "duration": 312.679,
+    "provider": "lrcapi"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrcapi:1753653081",
+      "duration": 312.679,
+      "ready": false,
+      "coverage": 0.875,
+      "exact_fraction": 0.84375,
+      "summary": {
+        "exact": 21,
+        "approximate": 1,
+        "unresolved": 4,
+        "repeat": 6
+      }
+    }
+  ]
+}

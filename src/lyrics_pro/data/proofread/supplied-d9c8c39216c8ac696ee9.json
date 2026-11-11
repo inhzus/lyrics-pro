@@ -1,0 +1,481 @@
+{
+  "schema_version": 1,
+  "id": "supplied-d9c8c39216c8ac696ee9",
+  "revision": "1",
+  "title": "小姐免驚",
+  "title_aliases": [
+    "小姐免惊(Live)"
+  ],
+  "artist": "伍佰",
+  "album": "伍佰的Live",
+  "duration": 197.906667,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "lrclib:18535997",
+    "timing_source": "LRCLIB https://lrclib.net/api/get/18535997",
+    "manual_source": "resources/lyrics-spelling/小姐免驚-伍佰",
+    "audio_verified": false,
+    "agent_review": "Explicitly reviewed supplied phrase grouping, sequence, repetitions and wording differences. Keep source words/readings; preserve every provider timestamp. No audio verification.",
+    "input_sha256": {
+      "original": "5570e94cd0b38e65a52b8993e1c5743932d40c7bb407373e009cefe2bb9c7a9b",
+      "manual": "2910d9b896df0f8d1d3eeca9d9415e644f37b3881011b41aff933aadf0982c26",
+      "timed": "8678a1b9033e4b8e816de33b54dc583fcd4d902b81e89a50f5fdbd3b6d92b220"
+    },
+    "source_spelling_notes": [
+      "Source line 80 pairs 請你無免驚 with tshiánn lí án-tsuánn. Preserve that occurrence rather than silently replacing the supplied reading."
+    ],
+    "summary": {
+      "credit": 1,
+      "exact": 18,
+      "gap": 3,
+      "approximate": 15
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 4.2,
+        "online_text": "小姐免驚",
+        "status": "credit",
+        "text": "小姐免驚",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Introductory song title"
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 9.36,
+        "online_text": "One, two, one two three four",
+        "status": "exact",
+        "text": "One Two One Two Three Four",
+        "spelling": "One Two One Two Three Four",
+        "manual_id": "line-3:0+line-4:0+line-5:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 13.13,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 27.98,
+        "online_text": "頭前的小姐實在生作足幼齒",
+        "status": "exact",
+        "text": "頭前的小姐實在生作足幼齒",
+        "spelling": "thâu-tsîng ê sió-tsiá si̍t-tsāi senn tsoh tsiok iù-khí",
+        "manual_id": "line-7:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 31.69,
+        "online_text": "皮肉粉粉又攔點胭脂",
+        "status": "approximate",
+        "text": "皮肉粉粉又擱點胭脂",
+        "spelling": "phuê-bah hún hún iū khè tiám ian-tsi",
+        "manual_id": "line-10:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 35.25,
+        "online_text": "行路實在有影足有味",
+        "status": "exact",
+        "text": "行路實在有影足有味",
+        "spelling": "kiânn-lōo si̍t-tsāi ū iánn tsiok ū bī",
+        "manual_id": "line-13:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 38.54,
+        "online_text": "扭來扭去看心花開",
+        "status": "approximate",
+        "text": "扭來扭去看得心花開",
+        "spelling": "ngiú lâi ngiú khì khuànn tio̍h sim-hue-khui",
+        "manual_id": "line-16:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 42.54,
+        "online_text": "頭前的小姐實在大方擱伶俐",
+        "status": "exact",
+        "text": "頭前的小姐實在大方擱伶俐",
+        "spelling": "thâu-tsîng ê sió-tsiá si̍t-tsāi tāi hng khè líng-lī",
+        "manual_id": "line-19:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 46.04,
+        "online_text": "頭毛黑金又擱有香味",
+        "status": "exact",
+        "text": "頭毛黑金又擱有香味",
+        "spelling": "thâu-mn̂g oo-kim iū khè ū phang-bī",
+        "manual_id": "line-22:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 49.44,
+        "online_text": "紅紅的嘴唇甲白白的嘴齒",
+        "status": "exact",
+        "text": "紅紅的嘴唇甲白白的嘴齒",
+        "spelling": "âng âng ê tshuì tûn kah pe̍h pe̍h ê tshuì-khí",
+        "manual_id": "line-25:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 53.18,
+        "online_text": "看來看去也是你最美",
+        "status": "exact",
+        "text": "看來看去也是你最美",
+        "spelling": "khuànn lâi khuànn khì iā sī lí siōng súi",
+        "manual_id": "line-28:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 56.64,
+        "online_text": "小姐小姐 請你嘸免驚",
+        "status": "approximate",
+        "text": "小姐小姐請你無免驚",
+        "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann",
+        "manual_id": "line-31:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 60.11,
+        "online_text": "我不是人咧講的彼款流氓",
+        "status": "exact",
+        "text": "我不是人咧講的彼款流氓",
+        "spelling": "guá m̄ sī lâng leh kóng ê hit khuán lôo-muâ",
+        "manual_id": "line-34:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 63.87,
+        "online_text": "平常時雖然我真愛臭彈",
+        "status": "exact",
+        "text": "平常時雖然我真愛臭彈",
+        "spelling": "pîng-siông-sî sui-liân guá tsin ài tshàu-tuānn",
+        "manual_id": "line-37:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 67.42,
+        "online_text": "看到美麗姑娘 我攏不知要按怎 要按怎",
+        "status": "exact",
+        "text": "看到美麗姑娘我攏不知要按怎 要按怎",
+        "spelling": "khuànn-tio̍h bí-lē koo-niû guá lóng m̄ tsai beh án-tsuánn beh án-tsuánn",
+        "manual_id": "line-40:0+line-43:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 75.99,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 106.72,
+        "online_text": "雖然我冊是讀無多少",
+        "status": "exact",
+        "text": "雖然我冊是讀無多少",
+        "spelling": "sui-liân guá tsheh sī tha̍k bô guā-tsē",
+        "manual_id": "line-46:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 110.44,
+        "online_text": "人生到今嘛也二三十歲",
+        "status": "exact",
+        "text": "人生到今嘛也二三十歲",
+        "spelling": "jîn-sing kàu kim mah iā jī sann tsa̍p huè",
+        "manual_id": "line-49:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 113.66,
+        "online_text": "不過我是一個善良的老百姓",
+        "status": "exact",
+        "text": "不過我是一個善良的老百姓",
+        "spelling": "m̄-koh guá sī tsi̍t ê siān-liông ê lāu peh-sènn",
+        "manual_id": "line-52:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 117.57,
+        "online_text": "飲酒了後我嘛未黑白花",
+        "status": "exact",
+        "text": "飲酒了後我嘛未黑白花",
+        "spelling": "ím tsiú liáu āu guá mah bē oo-pe̍h hue",
+        "manual_id": "line-55:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 120.99,
+        "online_text": "小姐小姐 請你嘸免驚",
+        "status": "approximate",
+        "text": "小姐小姐請你無免驚",
+        "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann",
+        "manual_id": "line-58:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 124.48,
+        "online_text": "我不是人咧講的彼款流氓",
+        "status": "exact",
+        "text": "我不是人咧講的彼款流氓",
+        "spelling": "guá m̄ sī lâng leh kóng ê hit khuán lôo-muâ",
+        "manual_id": "line-61:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 128.02,
+        "online_text": "平常時雖然我真愛臭彈",
+        "status": "exact",
+        "text": "平常時雖然我真愛臭彈",
+        "spelling": "pîng-siông-sî sui-liân guá tsin ài tshàu-tuānn",
+        "manual_id": "line-64:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 131.62,
+        "online_text": "看到美麗姑娘 我攏不知要按怎 要按怎",
+        "status": "exact",
+        "text": "看到美麗姑娘我攏不知要按怎 要按怎",
+        "spelling": "khuànn-tio̍h bí-lē koo-niû guá lóng m̄ tsai beh án-tsuánn beh án-tsuánn",
+        "manual_id": "line-67:0+line-70:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 142.48,
+        "online_text": "小姐小姐 請你嘸免驚",
+        "status": "approximate",
+        "text": "小姐小姐請你無免驚",
+        "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann",
+        "manual_id": "line-73:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 146.18,
+        "online_text": "小姐小姐 請你嘸免驚",
+        "status": "approximate",
+        "text": "小姐小姐請你無免驚",
+        "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann",
+        "manual_id": "line-73:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 149.7,
+        "online_text": "小姐小姐 請你嘸免驚",
+        "status": "approximate",
+        "text": "小姐小姐請你無免驚",
+        "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann",
+        "manual_id": "line-76:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 27,
+        "time": 153.21,
+        "online_text": "小姐小姐 請你嘸免驚",
+        "status": "approximate",
+        "text": "小姐小姐請你無免驚",
+        "spelling": "sió-tsiá sió-tsiá tshiánn lí án-tsuánn",
+        "manual_id": "line-79:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 28,
+        "time": 156.76,
+        "online_text": "小姐小姐小姐 嘸免驚嘸免驚",
+        "status": "approximate",
+        "text": "小姐小姐小姐無免驚無免驚",
+        "spelling": "sió-tsiá sió-tsiá tshiánn m̄ bián-kiann m̄ bián-kiann",
+        "manual_id": "line-79:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 29,
+        "time": 160.13,
+        "online_text": "小姐小姐小姐 我不會尬按怎",
+        "status": "approximate",
+        "text": "小姐小姐小姐我不甲你按怎",
+        "spelling": "sió-tsiá sió-tsiá guá bē kah lí án-tsuánn",
+        "manual_id": "line-82:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 30,
+        "time": 163.86,
+        "online_text": "小姐小姐小姐 嘸免驚嘸免驚",
+        "status": "approximate",
+        "text": "小姐小姐小姐無免驚無免驚",
+        "spelling": "sió-tsiá sió-tsiá tshiánn m̄ bián-kiann m̄ bián-kiann",
+        "manual_id": "line-82:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 31,
+        "time": 167.22,
+        "online_text": "小姐小姐小姐 我不會尬按怎",
+        "status": "approximate",
+        "text": "小姐小姐小姐我不甲你按怎",
+        "spelling": "sió-tsiá sió-tsiá guá bē kah lí án-tsuánn",
+        "manual_id": "line-85:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 32,
+        "time": 170.75,
+        "online_text": "小姐小姐 請你嘸免驚",
+        "status": "approximate",
+        "text": "小姐小姐請你無免驚",
+        "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann",
+        "manual_id": "line-85:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 33,
+        "time": 174.45,
+        "online_text": "小姐小姐 請你嘸免驚",
+        "status": "approximate",
+        "text": "小姐小姐請你無免驚",
+        "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann",
+        "manual_id": "line-88:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 34,
+        "time": 177.98,
+        "online_text": "小姐小姐 請你嘸免驚",
+        "status": "approximate",
+        "text": "小姐小姐請你無免驚",
+        "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann",
+        "manual_id": "line-88:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 35,
+        "time": 181.57,
+        "online_text": "小姐小姐",
+        "status": "exact",
+        "text": "小姐小姐",
+        "spelling": "sió-tsiá sió-tsiá",
+        "manual_id": "line-91:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 36,
+        "time": 183.06,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

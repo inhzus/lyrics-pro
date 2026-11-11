@@ -1,0 +1,292 @@
+{
+  "recording_id": "netease:399366482",
+  "timing_source": "NetEase https://music.163.com/song?id=399366482",
+  "manual_source": "User-supplied resources/lyrics-spelling/關心你的人-夕陽武士",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 1,
+    "exact": 12,
+    "repeat": 2,
+    "gap": 3,
+    "unresolved": 4
+  },
+  "review_row_count": 4,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 黄圣峰 / 作曲 : 王立 / 制作人 : 夕阳武士 / 编曲人 : 夕阳武士 / 录音工程师 : 陈莹哲 / 混音工程师 : 陈莹哲",
+      "match_text": "作词 : 黄圣峰 / 作曲 : 王立 / 制作人 : 夕阳武士 / 编曲人 : 夕阳武士 / 录音工程师 : 陈莹哲 / 混音工程师 : 陈莹哲",
+      "text": "作词 : 黄圣峰 / 作曲 : 王立 / 制作人 : 夕阳武士 / 编曲人 : 夕阳武士 / 录音工程师 : 陈莹哲 / 混音工程师 : 陈莹哲",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 33.16,
+      "online_text": "我毋知 失败的路上我来回几摆",
+      "match_text": "我毋知 失败的路上我来回几摆",
+      "text": "我毋知 失敗的路上我來回幾擺",
+      "spelling": "guá m̄ tsai sit-pāi ê lōo-siōng guá lâi-huê kuí-pái",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 41.11,
+      "online_text": "也毋知 我阁有多少青春会当重来",
+      "match_text": "也毋知 我阁有多少青春会当重来",
+      "text": "也毋知 我閣有多少青春會當重來",
+      "spelling": "iā m̄ tsai guá koh ū guā-tsē tshing-tshun ē-tàng tîng-lâi",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 48.94,
+      "online_text": "走伫海边 看着海浪 看日头要落山",
+      "match_text": "走伫海边 看着海浪 看日头要落山",
+      "text": "走佇海邊 看著海浪 看日頭要落山",
+      "spelling": "kiânn tī hái-pinn khuànn-tio̍h hái-lōng khuànn li̍t-thâu beh lo̍h-suann",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 56.77,
+      "online_text": "想到自己 少年的时 眼泪已经流落来",
+      "match_text": "想到自己 少年的时 眼泪已经流落来",
+      "text": "想到自己 少年的時 眼淚已經流落來",
+      "spelling": "siūnn-tio̍h ka-kī siàu-liân ê sî ba̍k-sái í-king lâu-lo̍k lâi",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 64.95,
+      "online_text": "看无头前 不知从何走",
+      "match_text": "看无头前 不知从何走",
+      "text": "看無頭前 不知從何走",
+      "spelling": "khuànn-bô thâu-tsîng m̄ tsai uì tue kiânn",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 73.33,
+      "online_text": "不曾想过 关心你的人的心晟",
+      "match_text": "不曾想过 关心你的人的心晟",
+      "text": "不曾想過 關心你的人的心晟",
+      "spelling": "m̄ bat siūnn-kuè kuan-sim lí ê lâng ê sim tshiânn",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 80.8,
+      "online_text": "彼时的单纯 分不清白贼内底的话",
+      "match_text": "彼时的单纯 分不清白贼内底的话",
+      "text": "彼時的單純 分不清白賊內底的話",
+      "spelling": "hit-sî ê tan-sûn hun buē tshing pe̍h-tsha̍t lāi-té ê uē",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 88.7,
+      "online_text": "过了几落冬 也看过不少人",
+      "match_text": "过了几落冬 也看过不少人",
+      "text": "過了幾落冬 也看過不少人",
+      "spelling": "kuè-liáu kuí lo̍h tang iā khuànn kuè buē-tsió lâng",
+      "manual_id": "line-22:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 96.63,
+      "online_text": "所以心情 总是会怀念 关心你的人",
+      "match_text": "所以心情 总是会怀念 关心你的人",
+      "text": "所以心情 總是會懷念 關心你的人",
+      "spelling": "sóo-í sim-tsîng tsóng-sī ē huâi-liām kuan-sim lí ê lâng",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 109.25,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 11,
+      "time": 125.21,
+      "online_text": "我毋知 失败的路上我来回几摆",
+      "match_text": "我毋知 失败的路上我来回几摆",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 133.12,
+      "online_text": "也毋知 我阁有多少青春会当重来",
+      "match_text": "也毋知 我阁有多少青春会当重来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 141.03,
+      "online_text": "走伫海边 看着海浪 看日头要落山",
+      "match_text": "走伫海边 看着海浪 看日头要落山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 148.9,
+      "online_text": "想到自己 少年的时 眼泪已经流落来",
+      "match_text": "想到自己 少年的时 眼泪已经流落来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 156.88,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 16,
+      "time": 196.86,
+      "online_text": "彼时的单纯 分袂清白贼内底的话",
+      "match_text": "彼时的单纯 分袂清白贼内底的话",
+      "text": "彼時的單純 分袂清白賊內底的話",
+      "spelling": "hit-sî ê tan-sûn hun buē tshing pe̍h-tsha̍t lāi-té ê uē",
+      "manual_id": "line-28:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 204.73,
+      "online_text": "过了几落冬 也看过袂少人",
+      "match_text": "过了几落冬 也看过袂少人",
+      "text": "過了幾落冬 也看過袂少人",
+      "spelling": "kuè-liáu kuí lo̍h tang iā khuànn kuè buē-tsió lâng",
+      "manual_id": "line-31:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 212.54,
+      "online_text": "所以心情总是会怀念 关心你的人",
+      "match_text": "所以心情总是会怀念 关心你的人",
+      "text": "所以心情 總是會懷念 關心你的人",
+      "spelling": "sóo-í sim-tsîng tsóng-sī ē huâi-liām kuan-sim lí ê lâng",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 223.92,
+      "online_text": "其实一直踮遮 斟酌去看 景色没变化",
+      "match_text": "其实一直踮遮 斟酌去看 景色没变化",
+      "text": "其實一直踮遮 斟酌去看 景色沒變化",
+      "spelling": "kî-si̍t it-ti̍t liam tsiâ tsim-tsiok khì khuànn kíng-sik bô piàn-huà",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 236.66,
+      "online_text": "关心你的人 关心你的人 踮伫遮",
+      "match_text": "关心你的人 关心你的人 踮伫遮",
+      "text": "關心你的人 關心你的人 踮佇遮",
+      "spelling": "kuan-sim lí ê lâng kuan-sim lí ê lâng liam tī tsiâ",
+      "manual_id": "line-40:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 257.68,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "6f325c83b4d26ef5175625cebf04fce6530ce7e9106fca048912db8dd45e0181",
+    "manual": "c3d2002fb74bda6034d3eea24af328854cf7f5655faeab359cdceab489e5c5da",
+    "timed": "d4407f077dce7cc690574da55fae8b79756a370833d5e68880a1950cb4146c9b"
+  }
+}

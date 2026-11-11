@@ -1,0 +1,331 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "這段情路　繞呀繞　繞呀繞",
+      "spelling": "tsit tuānn tsîng lōo se̍h iah se̍h se̍h iah se̍h",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "女人的夢　天真到徹底",
+      "spelling": "lú-lîn ê bāng thian-tsin kàu thiat-té",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "越頭猶原孤一個 你的形影",
+      "spelling": "ua̍t-thâu iu-guân koo tsi̍t ê lí ê hîng-iánn",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "繞呀繞　繞呀繞",
+      "spelling": "se̍h iah se̍h se̍h iah se̍h",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "褪色的夢",
+      "spelling": "thè-sik ê bāng",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "威置阮心底 紛紛心事亂亂飛",
+      "spelling": "ui tì gún sim té té hun-hun sim-sū luān luān pue",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "人講人生親像陀螺旋來又旋去",
+      "spelling": "lâng kóng lîn-sing tshin-tshiūnn kan-lo̍k se̍h lâi iū se̍h khì",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "旋袂完的鹹酸甜",
+      "spelling": "se̍h buē uân ê kiâm sng tinn",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "阮的思念親像陀螺旋來又旋去",
+      "spelling": "gún ê su-liām tshin-tshiūnn kan-lo̍k se̍h lâi iū se̍h khì",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "鑽入心肝打袂開",
+      "spelling": "tsǹg li̍p sim-kuann phah buē khui",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "你是窗外秋天的雨來來又去去",
+      "spelling": "lí sī thang-guā tshiu-thinn ê hōo-lâi lâi iū khì khì",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "愛阮傷阮同一暝",
+      "spelling": "ài gún siunn gún kang tsi̍t mî",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "才知阮是你的陀螺飛出感情的線",
+      "spelling": "tsiah tsai gún sī lí ê kan-lo̍k pue-tshut kám-tsîng ê suànn",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "跌落土腳旋歸暝",
+      "spelling": "pua̍h lo̍h-thóo kha-se̍h kui-mî",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "這段情路　繞呀繞　繞呀繞",
+      "spelling": "tsit tuānn tsîng lōo se̍h iah se̍h se̍h iah se̍h",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "女人的夢　天真到徹底",
+      "spelling": "lú-lîn ê bāng thian-tsin kàu thiat-té",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "越頭猶原孤一個 你的形影",
+      "spelling": "ua̍t-thâu iu-guân koo tsi̍t ê lí ê hîng-iánn",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "繞呀繞　繞呀繞",
+      "spelling": "se̍h iah se̍h se̍h iah se̍h",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "褪色的夢",
+      "spelling": "thè-sik ê bāng",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "威置阮心底 紛紛心事亂亂飛",
+      "spelling": "ui tì gún sim té té hun-hun sim-sū luān luān pue",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "人講人生親像陀螺旋來又旋去",
+      "spelling": "lâng kóng lîn-sing tshin-tshiūnn kan-lo̍k se̍h lâi iū se̍h khì",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "旋袂完的鹹酸甜",
+      "spelling": "se̍h buē uân ê kiâm sng tinn",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "阮的思念親像陀螺旋來又旋去",
+      "spelling": "gún ê su-liām tshin-tshiūnn kan-lo̍k se̍h lâi iū se̍h khì",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "鑽入心肝打袂開",
+      "spelling": "tsǹg li̍p sim-kuann phah buē khui",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "你是窗外秋天的雨來來又去去",
+      "spelling": "lí sī thang-guā tshiu-thinn ê hōo-lâi lâi iū khì khì",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "愛阮傷阮同一暝",
+      "spelling": "ài gún siunn gún kang tsi̍t mî",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "才知阮是你的陀螺飛出感情的線",
+      "spelling": "tsiah tsai gún sī lí ê kan-lo̍k pue-tshut kám-tsîng ê suànn",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "跌落土腳旋歸暝",
+      "spelling": "pua̍h lo̍h-thóo kha-se̍h kui-mî",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "人講人生親像陀螺旋來又旋去",
+      "spelling": "lâng kóng lîn-sing tshin-tshiūnn kan-lo̍k se̍h lâi iū se̍h khì",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "旋袂完的鹹酸甜",
+      "spelling": "se̍h buē uân ê kiâm sng tinn",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "阮的思念親像陀螺旋來又旋去",
+      "spelling": "gún ê su-liām tshin-tshiūnn kan-lo̍k se̍h lâi iū se̍h khì",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "鑽入心肝打袂開",
+      "spelling": "tsǹg li̍p sim-kuann phah buē khui",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "你是窗外秋天的雨來來又去去",
+      "spelling": "lí sī thang-guā tshiu-thinn ê hōo-lâi lâi iū khì khì",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "愛阮傷阮同一暝",
+      "spelling": "ài gún siunn gún kang tsi̍t mî",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "才知阮是你的陀螺飛出感情的線",
+      "spelling": "tsiah tsai gún sī lí ê kan-lo̍k pue-tshut kám-tsîng ê suànn",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "跌落土腳旋歸暝",
+      "spelling": "pua̍h lo̍h-thóo kha-se̍h kui-mî",
+      "source_lines": [
+        106,
+        107
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

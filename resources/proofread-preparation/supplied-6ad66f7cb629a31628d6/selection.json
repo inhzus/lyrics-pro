@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 69184,
+    "title": "飘浪的人",
+    "artists": [
+      "陈雷"
+    ],
+    "album": "人在江湖",
+    "duration": 233.106,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:69184",
+      "duration": 233.106,
+      "ready": false,
+      "coverage": 0.06976744186046512,
+      "exact_fraction": 0.06976744186046512,
+      "summary": {
+        "credit": 2,
+        "unresolved": 40,
+        "repeat": 3,
+        "gap": 1
+      }
+    }
+  ]
+}

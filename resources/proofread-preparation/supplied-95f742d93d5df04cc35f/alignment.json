@@ -1,0 +1,301 @@
+{
+  "recording_id": "lrcapi:1753652893",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E5%A4%A2%E4%B8%AD%E8%A6%8B&artist=%E6%8B%8D%E8%AC%9D%E5%B0%91%E5%B9%B4&album=%E6%B5%B7%E5%8F%A3%E5%91%B3#1753652893",
+  "manual_source": "User-supplied resources/lyrics-spelling/夢中見-拍謝少年",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "exact": 16,
+    "unresolved": 4
+  },
+  "review_row_count": 20,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 29.924,
+      "online_text": "揣一個無夢的所在 你敢有佮阮來",
+      "match_text": "揣一個無夢的所在 你敢有佮阮來",
+      "text": "揣一個無夢的所在，你敢有佮阮來",
+      "spelling": "tshuē tsi̍t ê bô bāng ê sóo-tsāi lí kám ū ka gún lâi",
+      "manual_id": "line-1:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 44.07,
+      "online_text": "過去的孤單無人知 心怎樣疼起來",
+      "match_text": "過去的孤單無人知 心怎樣疼起來",
+      "text": "過去的孤單無人知，心怎樣疼起來",
+      "spelling": "kuè-khì ê koo-tuann bô lâng tsai sim tsuánn-iūnn thiànn khí-lâi",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 58.17,
+      "online_text": "轉來去故鄉較自在 心嘛會較實在",
+      "match_text": "轉來去故鄉較自在 心嘛會較實在",
+      "text": "轉來去故鄉較自在，心嘛會較實在",
+      "spelling": "tńg-lâi khì kòo-hiong khah tsū-tsāi sim mā ē kha si̍t-tsāi",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 72.29,
+      "online_text": "這馬的人攏無心情 只有你了解我",
+      "match_text": "這馬的人攏無心情 只有你了解我",
+      "text": "這馬的人攏無心情，只有你了解我",
+      "spelling": "tsit-má ê lâng lóng bô sim-tsîng tsí-ū lí liáu-kái guá",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 141.111,
+      "online_text": "青春的無奈 你反白的夢",
+      "match_text": "青春的無奈 你反白的夢",
+      "text": "青春的無奈，你反白的夢",
+      "spelling": "tshing-tshun ê bô-nāi lí huán pi̍k ê bāng",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 147.758,
+      "online_text": "我相信啊你是阮上後的愛",
+      "match_text": "我相信啊你是阮上後的愛",
+      "text": "我相信啊你是阮上後的愛",
+      "spelling": "guá siong-sìn ah lí sī gún siōng āu ê ài",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 154.77,
+      "online_text": "佇困頓的時陣 你佮我相倚",
+      "match_text": "佇困頓的時陣 你佮我相倚",
+      "text": "佇困頓的時陣，你佮我相倚",
+      "spelling": "tī khùn-tùn ê sî-tsūn lí ka guá sio-uá",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 161.843,
+      "online_text": "我相信啊這是上好的安排",
+      "match_text": "我相信啊這是上好的安排",
+      "text": "我相信啊這是上好的安排",
+      "spelling": "guá siong-sìn ah tse sī siōng-hó ê an-pâi",
+      "manual_id": "line-22:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 169.367,
+      "online_text": "阮的心 疼甲袂喘氣",
+      "match_text": "阮的心 疼甲袂喘氣",
+      "text": "阮的心，疼甲袂喘氣",
+      "spelling": "gún ê sim thiànn kah buē tshuán-khuì",
+      "manual_id": "line-25:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 175.962,
+      "online_text": "想著未來 到底欲走去佗位",
+      "match_text": "想著未來 到底欲走去佗位",
+      "text": "想著未來，到底欲走去佗位",
+      "spelling": "siūnn-tio̍h bī-lâi tàu-té bē tsáu khì tó-uī",
+      "manual_id": "line-28:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 183.024,
+      "online_text": "佇決定的時 阮袂振袂動",
+      "match_text": "佇決定的時 阮袂振袂動",
+      "text": "佇決定的時，阮袂振袂動",
+      "spelling": "tī kuat-tīng ê sî gún buē tín buē tāng",
+      "manual_id": "line-31:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 190.057,
+      "online_text": "是要怎樣怎樣變成彼個人",
+      "match_text": "是要怎樣怎樣變成彼個人",
+      "text": "是要怎樣怎樣變成彼個人",
+      "spelling": "sī beh tsuánn-iūnn tsuánn-iūnn piàn-sîng hit ê lâng",
+      "manual_id": "line-34:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 274.829,
+      "online_text": "佇上課的時陣 你佇我的夢中",
+      "match_text": "佇上課的時陣 你佇我的夢中",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 281.844,
+      "online_text": "佇下課的時陣 咱做伙去海邊",
+      "match_text": "佇下課的時陣 咱做伙去海邊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 289.034,
+      "online_text": "佇散步的時陣 咱兩人佇相偎",
+      "match_text": "佇散步的時陣 咱兩人佇相偎",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 295.973,
+      "online_text": "佇放蕩的時陣 我佮你做伙",
+      "match_text": "佇放蕩的時陣 我佮你做伙",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 303.075,
+      "online_text": "佇上課的時陣 你佇我的夢中",
+      "match_text": "佇上課的時陣 你佇我的夢中",
+      "text": "佇上課的時陣，你佇我的夢中",
+      "spelling": "tī siōng-khò ê sî-tsūn lí tī guá ê bāng-tiong",
+      "manual_id": "line-37:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 310.125,
+      "online_text": "佇下課的時陣 咱做伙去海邊",
+      "match_text": "佇下課的時陣 咱做伙去海邊",
+      "text": "佇下課的時陣，咱做伙去海邊",
+      "spelling": "tī hā-khò ê sî-tsūn lán tsò-hué khì hái-pinn",
+      "manual_id": "line-40:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 317.156,
+      "online_text": "佇散步的時陣 咱兩人佇相偎",
+      "match_text": "佇散步的時陣 咱兩人佇相偎",
+      "text": "佇散步的時陣，咱兩人佇相偎",
+      "spelling": "tī sàn-pōo ê sî-tsūn lán nn̄g-lâng tī siòng uá",
+      "manual_id": "line-43:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 324.228,
+      "online_text": "佇放蕩的時陣 我佮你做伙",
+      "match_text": "佇放蕩的時陣 我佮你做伙",
+      "text": "佇放蕩的時陣，我佮你做伙",
+      "spelling": "tī hòng-tōng ê sî-tsūn guá kā lí tsò-hué",
+      "manual_id": "line-46:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "842284c012259183d0392e0770302cd0c646a840b70b07b6e3c3f7b7feda8295",
+    "manual": "5802c8052c86bfbbd5b1141848fdbca61526b725bf133bfe6c2209afc76d4e04",
+    "timed": "a9723718001aff5996feacdba1e129c308dc864a3633a06f5f66222042f2afdf"
+  }
+}

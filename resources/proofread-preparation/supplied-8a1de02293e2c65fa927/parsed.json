@@ -1,0 +1,196 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "手若捋過你的頭鬃 心內感覺足茫",
+      "spelling": "tshiú ná lua̍h kuè lí ê thâu-tsang sim-lāi kám-kak tsiok bâng",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "親像故鄉的河水涼涼 輕輕流過我昔日的夢",
+      "spelling": "tshin-tshiūnn kòo-hiong ê hô-tsuí liâng-liâng khin-khin lâu-kuè guá sî-ji̍t ê bāng",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "已經熟似遐爾濟冬 心願猶原相仝",
+      "spelling": "í-king si̍k-sāi hiah-nī tsuè tang sim-guān iû-guân sio-kâng",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "希望早日取你倒轉去 認真拍拼等待成功彼工",
+      "spelling": "hi-bāng tsá-ji̍t tshúa lí tò-tńg-khì līn-tsin phah-piànn tán-thāi sîng-kong hit kang",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "城市吵吵鬧鬧的路 沉沉重重的雨",
+      "spelling": "siânn-tshī tshá-tshá-nāu-nāu ê lōo tîm-tîm-tāng-tāng ê hōo",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "閃閃爍爍燈號 擾亂我的跤步",
+      "spelling": "siám-siám-sih-sih ting-hō jiáu-luān guá ê kha-pōo",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "若是我一直揣無頭路 一直等無出路 一直想無撇步",
+      "spelling": "nā-sī guá it-ti̍t tshuē bô thâu lōo it-ti̍t tán bô tshut-lōo it-ti̍t siūnn bô phiat-pōo",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "心愛的 你敢欲綴我食苦",
+      "spelling": "sim-ài-ê lí kám bē tuè guá tsia̍h-khóo",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "Love River 流去佗 Let Me Know 我為何心遐爾糟",
+      "spelling": "Love River lâu khì tó Let Me Know guá uī-hô sim hiah-nī tso",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "Love River 流去佗 Take Me Home 夢迴我思念的河",
+      "spelling": "Love River lâu khì tó Take Me Home bāng huê guá su-liām ê hô",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "城市彎彎斡斡的路 冷冷淡淡的雨",
+      "spelling": "siânn-tshī uan-uan-uat-uat ê lōo líng-líng-tām-tām ê hōo",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "凌凌亂亂燈號 變甲彼爾生疏",
+      "spelling": "lîng-lîng-luān-luān ting-hō piàn kah hiah-nī senn-sòo",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "若是我一直繼續愛你",
+      "spelling": "nā-sī guá it-ti̍t kè-sio̍k ài lí",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "一直繼續疼你 一直繼續等你",
+      "spelling": "it-ti̍t kè-sio̍k thiànn lí it-ti̍t kè-sio̍k tán lí",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "到最後 你敢欲做我的某",
+      "spelling": "kàu tsuè-āu lí kám bē tsuè guá ê bóo",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "Love River 流去佗 Let Me Know 我為何心遐爾糟",
+      "spelling": "Love River lâu khì tó Let Me Know guá uī-hô sim hiah-nī tso",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "Love River 流去佗 Take Me Home 夢迴我思念的河",
+      "spelling": "Love River lâu khì tó Take Me Home bāng huê guá su-liām ê hô",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "Love River 流去佗 Let Me Know 我應該如何是好",
+      "spelling": "Love River lâu khì tó Let Me Know guá ing-kai lû-hô sī hó",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "Love River 流去佗 Take Me Home",
+      "spelling": "Love River lâu khì tó Take Me Home",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "夢迴青春 夢迴港都 夢迴思念的河",
+      "spelling": "bāng huê tshing-tshun bāng huê káng-too bāng huê su-liām ê hô",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "夢迴青春 夢迴港都 夢迴思念的河",
+      "spelling": "bāng huê tshing-tshun bāng huê káng-too bāng huê su-liām ê hô",
+      "source_lines": [
+        61,
+        62
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

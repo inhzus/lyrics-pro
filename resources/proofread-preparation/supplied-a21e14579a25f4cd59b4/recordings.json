@@ -1,0 +1,192 @@
+{
+  "candidates": [
+    {
+      "song_id": 22201025,
+      "title": "电话",
+      "artists": [
+        "张清芳"
+      ],
+      "album": "双陈故事",
+      "duration": 316.626,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 392657,
+      "title": "电话",
+      "artists": [
+        "印象合唱团"
+      ],
+      "album": "印象",
+      "duration": 296.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 15604581,
+      "title": "电话",
+      "artists": [
+        "张清芳"
+      ],
+      "album": "双陈故事",
+      "duration": 316.6824448,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 27107938,
+      "title": "电话",
+      "artists": [
+        "张清芳"
+      ],
+      "album": "双陈故事",
+      "duration": 314.618776,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2862563,
+      "title": "電話",
+      "artists": [
+        "レミオロメン"
+      ],
+      "album": "朝顔",
+      "duration": 332.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 19076004,
+      "title": "電話",
+      "artists": [
+        "松山千春"
+      ],
+      "album": "起承転結 III",
+      "duration": 289.4,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16653765,
+      "title": "電話",
+      "artists": [
+        "レミオロメン"
+      ],
+      "album": "My Choice",
+      "duration": 329.8481664,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 17037818,
+      "title": "電話",
+      "artists": [
+        "黃小琥"
+      ],
+      "album": "Voice 3 L.V醉愛情歌全輯",
+      "duration": 292.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 21926378,
+      "title": "電話",
+      "artists": [
+        "黃小琥"
+      ],
+      "album": "不只是朋友",
+      "duration": 289.25895,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 23041658,
+      "title": "電話",
+      "artists": [
+        "張清芳"
+      ],
+      "album": "雙陳故事",
+      "duration": 316.664312,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 11374355,
+      "title": "電話",
+      "artists": [
+        "レミオロメン"
+      ],
+      "album": "レミオベスト",
+      "duration": 331.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 11594718,
+      "title": "電話",
+      "artists": [
+        "Chisato Moritaka"
+      ],
+      "album": "The Singles",
+      "duration": 235.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 10009573,
+      "title": "電話",
+      "artists": [
+        "Moritaka, Chisato"
+      ],
+      "album": "ザ・シングルス",
+      "duration": 235.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 35105173,
+      "title": "電話",
+      "artists": [
+        "レミオロメン"
+      ],
+      "album": "SINGLES BEST＋",
+      "duration": 331.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 37522382,
+      "title": "電話",
+      "artists": [
+        "Yoeko Kurahashi"
+      ],
+      "album": "解体ピアノ",
+      "duration": 303.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 39081611,
+      "title": "電話",
+      "artists": [
+        "黃小琥"
+      ],
+      "album": "黃小琥-愈愛愈明白 CD3",
+      "duration": 313.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 39210138,
+      "title": "電話",
+      "artists": [
+        "黃小琥"
+      ],
+      "album": "黃小琥-Voice3 L. V最愛情歌全輯 CD2",
+      "duration": 292.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

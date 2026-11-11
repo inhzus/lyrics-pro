@@ -1,0 +1,394 @@
+{
+  "recording_id": "netease:28661106",
+  "timing_source": "NetEase https://music.163.com/song?id=28661106",
+  "manual_source": "User-supplied resources/lyrics-spelling/是我較歹勢-陳建瑋",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "unresolved": 15,
+    "exact": 4,
+    "gap": 3,
+    "repeat": 2,
+    "approximate": 3
+  },
+  "review_row_count": 22,
+  "unmatched_manual_ids": [
+    "line-16:0"
+  ],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-19:0",
+    "line-22:0",
+    "line-25:0",
+    "line-28:0",
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0",
+    "line-58:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 22.3,
+      "online_text": "挂电话 你的话响规暝",
+      "match_text": "挂电话 你的话响规暝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 32.53,
+      "online_text": "你欲缀伊走 歹势 你真歹势",
+      "match_text": "你欲缀伊走 歹势 你真歹势",
+      "text": "你欲綴伊走 歹勢 你真歹勢",
+      "spelling": "lí bē tuè i tsáu pháinn-sè lí tsin pháinn-sè",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 38.77,
+      "online_text": "心一横山盟海誓走敢若飞",
+      "match_text": "心一横山盟海誓走敢若飞",
+      "text": "心一橫山盟海誓走敢若飛",
+      "spelling": "sim tsi̍t huâinn san-bîng-hái-sè tsáu kánn-ná pue",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 44.37,
+      "online_text": "无路用 海边的大别庄",
+      "match_text": "无路用 海边的大别庄",
+      "text": "無路用 海邊的大別莊",
+      "spelling": "bô-lōo-iōng hái-pinn ê tuā pia̍t-tsong",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 54.4,
+      "online_text": "我起袂起来 歹势 我较歹势",
+      "match_text": "我起袂起来 歹势 我较歹势",
+      "text": "我起袂起來 歹勢 我較歹勢",
+      "spelling": "guá khí buē khí lâi pháinn-sè guá khah pháinn-sè",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 61.13,
+      "online_text": "犹规日兼来兼去戆戆仔",
+      "match_text": "犹规日兼来兼去戆戆仔",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 65.97,
+      "online_text": "流规身躯的汗 风那吹起来起畏寒",
+      "match_text": "流规身躯的汗 风那吹起来起畏寒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 76.39,
+      "online_text": "三坪大的房间 无温暖的功能",
+      "match_text": "三坪大的房间 无温暖的功能",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 82.83,
+      "online_text": "爱留拢袂牢啥情形",
+      "match_text": "爱留拢袂牢啥情形",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 88.34,
+      "online_text": "我袂晓大心肝 啥人来教我按怎赢",
+      "match_text": "我袂晓大心肝 啥人来教我按怎赢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 98.89,
+      "online_text": "你讲的无毋着 散赤亲像苦药",
+      "match_text": "你讲的无毋着 散赤亲像苦药",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 105.21,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 12,
+      "time": 105.71,
+      "online_text": "伊害我的梦无人惜",
+      "match_text": "伊害我的梦无人惜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 111.1,
+      "online_text": "歹势 我较歹势 歹势 是我较歹势",
+      "match_text": "歹势 我较歹势 歹势 是我较歹势",
+      "text": "歹勢 我較歹勢 歹勢 是我較歹勢",
+      "spelling": "pháinn-sè guá khah pháinn-sè pháinn-sè sī guá khah pháinn-sè",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 132.72,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 15,
+      "time": 133.91,
+      "online_text": "无路用 你的环游世界",
+      "match_text": "无路用 你的环游世界",
+      "text": "無路用 你的環遊世界",
+      "spelling": "bô-lōo-iōng lí ê huân iû sè-kài",
+      "manual_id": "line-34:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 16,
+      "time": 142.92,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 17,
+      "time": 144.1,
+      "online_text": "一片苦海 歹势 我较歹势",
+      "match_text": "一片苦海 歹势 我较歹势",
+      "text": "賰一片苦海 歹勢 我較歹勢",
+      "spelling": "tshun tsit-phiàn khóo-hái pháinn-sè guá khah pháinn-sè",
+      "manual_id": "line-37:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.952381
+    },
+    {
+      "source_row": 18,
+      "time": 150.45,
+      "online_text": "无法度予你遮简单的交代",
+      "match_text": "无法度予你遮简单的交代",
+      "text": "無法度予你即簡單的交代",
+      "spelling": "bô-huat-tōo hōo lí tshiok kán-tan ê kau-tài",
+      "manual_id": "line-40:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.909091
+    },
+    {
+      "source_row": 19,
+      "time": 155.38,
+      "online_text": "流规身躯的汗 风那吹起来起畏寒",
+      "match_text": "流规身躯的汗 风那吹起来起畏寒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 166.52,
+      "online_text": "三坪大的房间 无温暖的功能",
+      "match_text": "三坪大的房间 无温暖的功能",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 172.77,
+      "online_text": "爱留拢袂牢啥情形",
+      "match_text": "爱留拢袂牢啥情形",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 177.54,
+      "online_text": "我袂晓大心肝 啥人来教我按怎赢",
+      "match_text": "我袂晓大心肝 啥人来教我按怎赢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 188.05,
+      "online_text": "你讲的无毋着 散赤亲像苦药",
+      "match_text": "你讲的无毋着 散赤亲像苦药",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 194.41,
+      "online_text": "伊害我的梦无人惜",
+      "match_text": "伊害我的梦无人惜",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 200.32,
+      "online_text": "歹势 我较歹势 歹势 是我较歹势",
+      "match_text": "歹势 我较歹势 歹势 是我较歹势",
+      "text": "歹勢 我較歹勢 歹勢 是我較歹勢",
+      "spelling": "pháinn-sè guá khah pháinn-sè pháinn-sè sī guá khah pháinn-sè",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 223.08,
+      "online_text": "挂电话 你的话响规暝",
+      "match_text": "挂电话 你的话响规暝",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "fdd8d8567a648498bb3dde03f057aaffb9042a54215c8f6f436ff0a419404ddc",
+    "manual": "4976f1056e2447762996f6ea448ab10168f8fda280fbe9c828938424502541cf",
+    "timed": "244064ecc309579e382abc6b64324a5ab161030e4c58789d91dc5ad4383cd754"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "candidates": [
+    {
+      "song_id": 28661104,
+      "title": "爱河",
+      "artists": [
+        "陈建玮"
+      ],
+      "album": "30出头",
+      "duration": 238.906,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 2612510173,
+      "title": "爱河",
+      "artists": [
+        "DJ小祖"
+      ],
+      "album": "HO为什么说不出口",
+      "duration": 307.565,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2653800985,
+      "title": "爱河",
+      "artists": [
+        "ZaZaZsu咂咂苏"
+      ],
+      "album": "第一千夜",
+      "duration": 197.128,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2630261426,
+      "title": "爱河",
+      "artists": [
+        "备乾"
+      ],
+      "album": "爱河",
+      "duration": 170.805,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3319966990,
+      "title": "爱河",
+      "artists": [
+        "Rosy赵露思"
+      ],
+      "album": "思念如面 音乐会",
+      "duration": 190.41,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

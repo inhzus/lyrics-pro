@@ -1,0 +1,41 @@
+{
+  "selected": {
+    "song_id": 386035,
+    "title": "永远的永远",
+    "artists": [
+      "五月天"
+    ],
+    "album": "知足 最真杰作选",
+    "duration": 267.029,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:386035",
+      "duration": 267.029,
+      "ready": false,
+      "coverage": 0.23529411764705882,
+      "exact_fraction": 0.24,
+      "summary": {
+        "credit": 2,
+        "unresolved": 37,
+        "repeat": 12,
+        "gap": 3,
+        "approximate": 1
+      }
+    },
+    {
+      "recording_id": "netease:386709",
+      "duration": 256.066,
+      "ready": false,
+      "coverage": 0.18181818181818182,
+      "exact_fraction": 0.21818181818181817,
+      "summary": {
+        "credit": 3,
+        "unresolved": 43,
+        "repeat": 12
+      }
+    }
+  ]
+}

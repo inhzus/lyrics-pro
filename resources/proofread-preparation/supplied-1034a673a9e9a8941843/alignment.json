@@ -1,0 +1,230 @@
+{
+  "recording_id": "netease:156526",
+  "timing_source": "NetEase https://music.163.com/song?id=156526",
+  "manual_source": "User-supplied resources/lyrics-spelling/莎喲娜啦-伍佰",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 3,
+    "approximate": 4,
+    "exact": 3,
+    "repeat": 4,
+    "unresolved": 2
+  },
+  "review_row_count": 6,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-18:0",
+    "line-33:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 伍佰",
+      "match_text": "作词 : 伍佰",
+      "text": "作词 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 伍佰",
+      "match_text": "作曲 : 伍佰",
+      "text": "作曲 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "编曲 : 伍佰 & China Blue",
+      "match_text": "编曲 : 伍佰 & China Blue",
+      "text": "编曲 : 伍佰 & China Blue",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 33.72,
+      "online_text": "慢慢走过你身边 不知是你爱我抑是我爱你",
+      "match_text": "慢慢走过你身边 不知是你爱我抑是我爱你",
+      "text": "慢慢走過妳身邊 不知是妳愛我抑是我愛妳",
+      "spelling": "bān bān kiânn-kuè lí sin-pinn m̄ tsai sī lí ài guá ia̍h-sī guá ài lí",
+      "manual_id": "line-3:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 4,
+      "time": 45.41,
+      "online_text": "匆匆离开这多年   如今甘知谁是谁",
+      "match_text": "匆匆离开这多年   如今甘知谁是谁",
+      "text": "匆匆離開這多年 如今甘知誰是誰",
+      "spelling": "tshong tshong lī-khui tsiah tsē nî lû-kim kam tsai tsuî sī tsuî",
+      "manual_id": "line-6:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 57.47,
+      "online_text": "也来悲伤不愿啼 不知是你恨我抑是我恨你",
+      "match_text": "也来悲伤不愿啼 不知是你恨我抑是我恨你",
+      "text": "也來悲傷不願啼 不知是妳恨我抑是我恨妳",
+      "spelling": "iā lâi pi-siong m̄-guān thî m̄ tsai sī lí hūn guá ia̍h-sī guá hūn lí",
+      "manual_id": "line-9:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 6,
+      "time": 69.24,
+      "online_text": "不是哀歌嘛没酒醉   为何走不出你的范围",
+      "match_text": "不是哀歌嘛没酒醉   为何走不出你的范围",
+      "text": "不是哀歌嘛沒酒醉 為何走不出妳的範圍",
+      "spelling": "m̄ sī ai kua mah bô tsiú-tsuì uī-hô kiânn-put-tshut lí ê huān-uî",
+      "manual_id": "line-12:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.941176
+    },
+    {
+      "source_row": 7,
+      "time": 81.37,
+      "online_text": "我 不是完全的我 冷风对我嘛无相瞒",
+      "match_text": "我 不是完全的我 冷风对我嘛无相瞒",
+      "text": "我 不是完全的我 冷風對我嘛無相瞞",
+      "spelling": "guá m̄ sī uân-tsuân ê guá líng-hong tuì guá mah bô sio-muâ",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 93.42,
+      "online_text": "尽吹吹我孤一个   明明我已经对你分别",
+      "match_text": "尽吹吹我孤一个   明明我已经对你分别",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 108.44,
+      "online_text": "莎呦娜啦   莎呦娜啦   走在风中的海岸",
+      "match_text": "莎呦娜啦   莎呦娜啦   走在风中的海岸",
+      "text": "莎呦娜啦 莎呦娜啦 走在風中的海岸",
+      "spelling": "sayōnara sayōnara kiânn tī hong tiong ê hái-huānn",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 156.75,
+      "online_text": "就算你我对不起 嘛不是你欠我抑是我欠你",
+      "match_text": "就算你我对不起 嘛不是你欠我抑是我欠你",
+      "text": "就算妳我對不起 嘛不是妳欠我抑是我欠妳",
+      "spelling": "tsiū-sǹg lí guá tuì-put-khí mah m̄ sī lí khiàm guá ia̍h-sī guá khiàm lí",
+      "manual_id": "line-24:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.833333
+    },
+    {
+      "source_row": 11,
+      "time": 168.46,
+      "online_text": "当作普通的友谊   双人变作拢无过去",
+      "match_text": "当作普通的友谊   双人变作拢无过去",
+      "text": "當作普通的友誼 雙人變作攏無過去",
+      "spelling": "tòng-tsuè phóo-thong ê iú-gî siang-lâng piàn tsuè lóng bô kuè-khì",
+      "manual_id": "line-27:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 180.66,
+      "online_text": "我 不是完全的我 冷风对我嘛无相瞒",
+      "match_text": "我 不是完全的我 冷风对我嘛无相瞒",
+      "text": "我 不是完全的我 冷風對我嘛無相瞞",
+      "spelling": "guá m̄ sī uân-tsuân ê guá líng-hong tuì guá mah bô sio-muâ",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 192.45,
+      "online_text": "尽吹吹我孤一个   明明我已经对你分别",
+      "match_text": "尽吹吹我孤一个   明明我已经对你分别",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 207.62,
+      "online_text": "莎呦娜啦   莎呦娜啦   走在风中的海岸",
+      "match_text": "莎呦娜啦   莎呦娜啦   走在风中的海岸",
+      "text": "莎呦娜啦 莎呦娜啦 走在風中的海岸",
+      "spelling": "sayōnara sayōnara kiânn tī hong tiong ê hái-huānn",
+      "manual_id": "line-21:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 219.57,
+      "online_text": "莎呦娜啦   莎呦娜啦   走在时间的海岸",
+      "match_text": "莎呦娜啦   莎呦娜啦   走在时间的海岸",
+      "text": "莎呦娜啦 莎呦娜啦 走在時間的海岸",
+      "spelling": "sayōnara sayōnara kiânn tī sî-kan ê hái-huānn",
+      "manual_id": "line-39:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "4f73513f68fb83f24752f1996c3232b92205df132a36f33e929c5ae058e2922d",
+    "manual": "e3cb49a4606f096ad8ffdda1fbbb5db368dc10a425f5aee838e80686880e5931",
+    "timed": "ccc6763d5a159acadb3dee405c801b0059abbb134a0ff45f3055c8f962c88893"
+  }
+}

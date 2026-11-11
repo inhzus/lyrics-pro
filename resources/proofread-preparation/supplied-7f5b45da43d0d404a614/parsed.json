@@ -1,0 +1,277 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "我想你已經知影彼兩天",
+      "spelling": "guá siūnn lí í-king tsai-iánn hit nn̄g-kang",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "我是決心離開莫閣越頭盼望",
+      "spelling": "guá sī kuat-sim lī-khui mài koh ua̍t-thâu phàn-bāng",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "是你的執癖，予我袂喘氣啊",
+      "spelling": "sī lí ê tsiah-phiah hōo guá buē tshuán khì ah",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "咱的生活走精恬恬跋落無聲",
+      "spelling": "lán ê sing-ua̍h tsáu tsing tiām-tiām pua̍h lo̍h bô-siann",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "是我堅持欲走，你著莫閣姑情",
+      "spelling": "sī guá ngē-sí bē tsáu lí tio̍h mài koh koo-tsiânn",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "想你講進前的日子，是天星閃爍啊",
+      "spelling": "siūnn lí kóng tsìn-tsîng ê li̍t-tsí sī thinn-tshinn siám-sih ah",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "較早是黏黐黐，啊這馬生份滿滿",
+      "spelling": "khah-tsá sī liâm-thi thi ah tsit-má senn-hun muá-muá",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "扞著我的心肝憂悶遮爾重",
+      "spelling": "huānn-tio̍h guá ê sim-kuann iu-būn tsiah-nī tng",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "是好天氣，做伙散步去",
+      "spelling": "sī hó thinn-khì tsò-hué sàn-pōo khì",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "是好天氣，咱做伙散步去",
+      "spelling": "sī hó thinn-khì lán tsò-hué sàn-pōo khì",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "親像開始的時，你講你一定愛去",
+      "spelling": "tshin-tshiūnn khai-sí ê sî lí kóng lí it-tīng ài khì",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "今仔日又夢醒，輕聲落目屎滴",
+      "spelling": "kin-á-lit iū bāng tshínn khin-siann lo̍h ba̍k-sái tih",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "落雨的暗暝",
+      "spelling": "lo̍h-hōo ê àm-mî",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "你那會目箍紅？你那會目箍紅紅？",
+      "spelling": "lí ná-ē ba̍k-khoo âng lí ná-ē ba̍k-khoo âng âng",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "過稀微的生活 ，是悲傷來強迫",
+      "spelling": "kuè hi-bî ê sing-ua̍h sī pi-siong lâi kiông-ah",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "彼當時，用你的批紙紀錄散場的感覺",
+      "spelling": "hit-tong-sî iōng lí ê phue-tsuá kì-lo̍k suah-tiûnn ê kám-kak",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "這齣啊，予命運的風車搧落黑暗的山林",
+      "spelling": "tsit tshut ah miā-ūn ê hong-tshia siàn lue oo-àm-ê suann-nâ",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "最近的我，已經是無法度，來佮你作伴",
+      "spelling": "tsuè-kīn ê guá í-king sī bô-huat-tōo lâi ka lí tsuè phuānn",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "你彼段坎坷的線，",
+      "spelling": "lí hit tuānn khám-khia̍t ê suànn",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "著算是倔強歸工孔嘴痛",
+      "spelling": "tio̍h-sǹg sī khut-kiông kui-kang khang tshuì thiànn",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "嘛會孤單恬恬看",
+      "spelling": "mā ē koo-tuann tiām-tiām khuànn",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "我離開啥人照顧啊，",
+      "spelling": "guá lī-khui siánn-lâng tsiàu-kòo ah",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "愛慣習自己坐車提物件",
+      "spelling": "ài kuàn si̍p ka-kī tsē-tshia thê mi̍h-kiānn",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "但是無聊欲按怎",
+      "spelling": "tān-sī bô-liâu bē án-tsuánn",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "驚無人知，你的感覺",
+      "spelling": "kiann bô-lâng tsai lí ê kám-kak",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "惜情的人啊，是一條無尾巷",
+      "spelling": "sioh-tsîng ê lâng sī tsi̍t tiâu bô-bué hāng",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "愛較緊認清看破",
+      "spelling": "ài khah kín līn tshing khuànn-phuà",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "驚無人知，你的感覺",
+      "spelling": "kiann bô-lâng tsai lí ê kám-kak",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "惜情的人啊，是一條無尾巷",
+      "spelling": "sioh-tsîng ê lâng sī tsi̍t tiâu bô-bué hāng",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "愛較緊認清看破",
+      "spelling": "ài khah kín līn tshing khuànn-phuà",
+      "source_lines": [
+        88,
+        89
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

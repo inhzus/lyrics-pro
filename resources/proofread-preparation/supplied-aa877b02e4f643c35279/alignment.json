@@ -1,0 +1,622 @@
+{
+  "recording_id": "netease:156706",
+  "timing_source": "NetEase https://music.163.com/song?id=156706",
+  "manual_source": "User-supplied resources/lyrics-spelling/世界第一等-伍佰",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 4,
+    "gap": 4,
+    "unresolved": 15,
+    "exact": 8,
+    "repeat": 14,
+    "approximate": 1
+  },
+  "review_row_count": 24,
+  "unmatched_manual_ids": [
+    "line-3:1",
+    "line-24:0",
+    "line-42:0"
+  ],
+  "unused_repeat_ids": [
+    "line-15:0",
+    "line-18:0",
+    "line-21:0",
+    "line-27:1",
+    "line-33:0",
+    "line-36:0",
+    "line-39:0",
+    "line-45:1",
+    "line-54:0",
+    "line-57:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 李安修/陈富荣",
+      "match_text": "作词 : 李安修/陈富荣",
+      "text": "作词 : 李安修/陈富荣",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 伍佰",
+      "match_text": "作曲 : 伍佰",
+      "text": "作曲 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 2.0,
+      "online_text": "编曲 : 伍佰 & China Blue",
+      "match_text": "编曲 : 伍佰 & China Blue",
+      "text": "编曲 : 伍佰 & China Blue",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 3.0,
+      "online_text": "原唱 : 刘德华",
+      "match_text": "原唱 : 刘德华",
+      "text": "原唱 : 刘德华",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 4,
+      "time": 4.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 9.38,
+      "online_text": "在写了这么多歌给别人唱之后",
+      "match_text": "在写了这么多歌给别人唱之后",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 12.332,
+      "online_text": "总想自己资源回收一下",
+      "match_text": "总想自己资源回收一下",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 20.012,
+      "online_text": "我们来唱一个很Ballad的歌 好不好",
+      "match_text": "我们来唱一个很Ballad的歌 好不好",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 22.346,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 9,
+      "time": 55.57,
+      "online_text": "人生的风景",
+      "match_text": "人生的风景",
+      "text": "人生的風景",
+      "spelling": "lîn-sing ê kong-kíng",
+      "manual_id": "line-3:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 58.148,
+      "online_text": "亲像大海的风涌",
+      "match_text": "亲像大海的风涌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 61.628,
+      "online_text": "有时猛有时平",
+      "match_text": "有时猛有时平",
+      "text": "有時猛有時平",
+      "spelling": "ū sî bíng ū sî pînn",
+      "manual_id": "line-6:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 65.101,
+      "online_text": "亲爱朋友你着小心",
+      "match_text": "亲爱朋友你着小心",
+      "text": "親愛朋友你著小心",
+      "spelling": "tshin ài pîng-iú lí tio̍h sió-sim",
+      "manual_id": "line-6:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 69.416,
+      "online_text": "人生的环境",
+      "match_text": "人生的环境",
+      "text": "人生的環境",
+      "spelling": "lîn-sing ê khuân-kíng",
+      "manual_id": "line-9:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 72.014,
+      "online_text": "乞食嘛会出头天",
+      "match_text": "乞食嘛会出头天",
+      "text": "乞食嘛會出頭天",
+      "spelling": "khit tsia̍h mah ē tshut-thâu thinn",
+      "manual_id": "line-9:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 75.443,
+      "online_text": "莫怨天莫尤人",
+      "match_text": "莫怨天莫尤人",
+      "text": "莫怨天莫尤人",
+      "spelling": "bo̍h uàn-thinn bo̍h iû jîn",
+      "manual_id": "line-12:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 78.89,
+      "online_text": "命顺命歹拢是一生",
+      "match_text": "命顺命歹拢是一生",
+      "text": "命順命歹攏是一生",
+      "spelling": "miā sūn miā phái lóng sī it-sing",
+      "manual_id": "line-12:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 84.041,
+      "online_text": "一杯酒两角银",
+      "match_text": "一杯酒两角银",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 87.479,
+      "online_text": "三不五时嘛来凑阵",
+      "match_text": "三不五时嘛来凑阵",
+      "text": "三不五時嘛來湊陣",
+      "spelling": "sann put gōo sî mah lâi tàu tīn",
+      "manual_id": "line-15:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 90.95,
+      "online_text": "若要讲博感情",
+      "match_text": "若要讲博感情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 94.423,
+      "online_text": "我是世界第一等",
+      "match_text": "我是世界第一等",
+      "text": "我是世界第一等",
+      "spelling": "guá sī sè-kài tē i̍t tíng",
+      "manual_id": "line-18:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 97.787,
+      "online_text": "是缘分是注定",
+      "match_text": "是缘分是注定",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 101.273,
+      "online_text": "好汉剖腹来参见",
+      "match_text": "好汉剖腹来参见",
+      "text": "好漢剖腹來參見",
+      "spelling": "hó-hàn phuà-pak lâi sann kìnn",
+      "manual_id": "line-21:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 104.72,
+      "online_text": "呒惊风呒惊涌",
+      "match_text": "呒惊风呒惊涌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 108.208,
+      "online_text": "有情有义好兄弟",
+      "match_text": "有情有义好兄弟",
+      "text": "有情有義好兄弟",
+      "spelling": "ū tsîng ū gī hó hiann-tī",
+      "manual_id": "line-24:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 114.208,
+      "online_text": "短短仔的光阴",
+      "match_text": "短短仔的光阴",
+      "text": "短短仔的光陰",
+      "spelling": "té té á ê kong-im",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 116.813,
+      "online_text": "七迌着趁少年时",
+      "match_text": "七迌着趁少年时",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 120.245,
+      "online_text": "求名利无了时",
+      "match_text": "求名利无了时",
+      "text": "求名利無了時",
+      "spelling": "kiû bîng-lī bô liáu sî",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 123.628,
+      "online_text": "千金难买好人生",
+      "match_text": "千金难买好人生",
+      "text": "千金難買好人生",
+      "spelling": "tshian-kim lân bé hó lâng sing",
+      "manual_id": "line-30:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 128.812,
+      "online_text": "大猫",
+      "match_text": "大猫",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 129.555,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 31,
+      "time": 157.908,
+      "online_text": "一杯酒两角银",
+      "match_text": "一杯酒两角银",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 161.275,
+      "online_text": "三不五时嘛来凑阵",
+      "match_text": "三不五时嘛来凑阵",
+      "text": "三不五時嘛來湊陣",
+      "spelling": "sann put gōo sî mah lâi tàu tīn",
+      "manual_id": "line-15:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 33,
+      "time": 164.805,
+      "online_text": "若要讲博感情",
+      "match_text": "若要讲博感情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 168.245,
+      "online_text": "我是世界第一等",
+      "match_text": "我是世界第一等",
+      "text": "我是世界的第一等",
+      "spelling": "guá sī sè-kài tē i̍t tíng",
+      "manual_id": "line-36:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.933333
+    },
+    {
+      "source_row": 35,
+      "time": 171.583,
+      "online_text": "是缘分是注定",
+      "match_text": "是缘分是注定",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 175.035,
+      "online_text": "好汉剖腹来参见",
+      "match_text": "好汉剖腹来参见",
+      "text": "好漢剖腹來參見",
+      "spelling": "hó-hàn phuà-pak lâi sann kìnn",
+      "manual_id": "line-21:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 37,
+      "time": 178.447,
+      "online_text": "呒惊风呒惊涌",
+      "match_text": "呒惊风呒惊涌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 181.836,
+      "online_text": "有情有义好兄弟",
+      "match_text": "有情有义好兄弟",
+      "text": "有情有義好兄弟",
+      "spelling": "ū tsîng ū gī hó hiann-tī",
+      "manual_id": "line-24:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 39,
+      "time": 187.788,
+      "online_text": "短短仔的光阴",
+      "match_text": "短短仔的光阴",
+      "text": "短短仔的光陰",
+      "spelling": "té té á ê kong-im",
+      "manual_id": "line-27:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 40,
+      "time": 190.408,
+      "online_text": "七迌着趁少年时",
+      "match_text": "七迌着趁少年时",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 193.996,
+      "online_text": "求名利无了时",
+      "match_text": "求名利无了时",
+      "text": "求名利無了時",
+      "spelling": "kiû bîng-lī bô liáu sî",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 42,
+      "time": 197.357,
+      "online_text": "千金难买好人生",
+      "match_text": "千金难买好人生",
+      "text": "千金難買好人生",
+      "spelling": "tshian-kim lân bé hó lâng sing",
+      "manual_id": "line-30:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 43,
+      "time": 202.395,
+      "online_text": "求名利无了时",
+      "match_text": "求名利无了时",
+      "text": "求名利無了時",
+      "spelling": "kiû bîng-lī bô liáu sî",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 44,
+      "time": 205.895,
+      "online_text": "千金难买好人生",
+      "match_text": "千金难买好人生",
+      "text": "千金難買好人生",
+      "spelling": "tshian-kim lân bé hó lâng sing",
+      "manual_id": "line-30:1",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 45,
+      "time": 210.186,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "99285f4179968db5978a560dd2c1ba9af78ca08ada7374e7eace18d02608bad4",
+    "manual": "486f5acb87941e6ff35504dfa9d64453cd1f2db818e46d5f2b0415d927aac1ba",
+    "timed": "d1a609398320e11eace78af1450d37c12962543b92430d36f87cd994c3835d1e"
+  }
+}

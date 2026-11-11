@@ -1,0 +1,373 @@
+{
+  "recording_id": "netease:156708",
+  "timing_source": "NetEase https://music.163.com/song?id=156708",
+  "manual_source": "User-supplied resources/lyrics-spelling/16 － 衝衝衝-伍佰",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "unresolved": 20,
+    "repeat": 4
+  },
+  "review_row_count": 20,
+  "unmatched_manual_ids": [
+    "line-3:0",
+    "line-3:1",
+    "line-6:0",
+    "line-6:1",
+    "line-9:0",
+    "line-9:1",
+    "line-12:0",
+    "line-12:1",
+    "line-33:0",
+    "line-33:1",
+    "line-36:0",
+    "line-36:1"
+  ],
+  "unused_repeat_ids": [
+    "line-18:0",
+    "line-21:0",
+    "line-21:1",
+    "line-24:0",
+    "line-24:1",
+    "line-27:0",
+    "line-27:1",
+    "line-30:0",
+    "line-30:1",
+    "line-42:0",
+    "line-45:0",
+    "line-45:1",
+    "line-48:0",
+    "line-48:1",
+    "line-51:0",
+    "line-51:1",
+    "line-54:0",
+    "line-54:1",
+    "line-60:0",
+    "line-60:1",
+    "line-63:0",
+    "line-63:1",
+    "line-66:0",
+    "line-66:1",
+    "line-69:0",
+    "line-69:1"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 25.94,
+      "online_text": "炎热的这个下埔 逍遥来吹着热风",
+      "match_text": "炎热的这个下埔 逍遥来吹着热风",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 33.19,
+      "online_text": "脚底有一道金光 头前就是我的愿望",
+      "match_text": "脚底有一道金光 头前就是我的愿望",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 2,
+      "time": 42.28,
+      "online_text": "提出着我的力量 展开着我的笑容",
+      "match_text": "提出着我的力量 展开着我的笑容",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 49.6,
+      "online_text": "失败是普通平常 荆棘才有一条平路",
+      "match_text": "失败是普通平常 荆棘才有一条平路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 56.74,
+      "online_text": "没时间通乎我来怨叹",
+      "match_text": "没时间通乎我来怨叹",
+      "text": "沒時間 通乎我來怨嘆",
+      "spelling": "bô sî-kan thàng honnh guá lâi uàn-thàn",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 60.51,
+      "online_text": "没时间通乎我来瞑梦",
+      "match_text": "没时间通乎我来瞑梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 65.72,
+      "online_text": "冲冲冲 提出信心向前冲",
+      "match_text": "冲冲冲 提出信心向前冲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 69.29,
+      "online_text": "冲冲冲 踏遍天下我尚勇",
+      "match_text": "冲冲冲 踏遍天下我尚勇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 73.06,
+      "online_text": "冲冲冲 走找着我的心中",
+      "match_text": "冲冲冲 走找着我的心中",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 76.65,
+      "online_text": "最美丽 当初坚持的理想",
+      "match_text": "最美丽 当初坚持的理想",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 105.38,
+      "online_text": "四边是亲像火炉 漂撇是我的脚步",
+      "match_text": "四边是亲像火炉 漂撇是我的脚步",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 112.22,
+      "online_text": "乎我来当作前锋 开出一条爽快的路",
+      "match_text": "乎我来当作前锋 开出一条爽快的路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 119.47,
+      "online_text": "没时间通乎我来怨叹",
+      "match_text": "没时间通乎我来怨叹",
+      "text": "沒時間 通乎我來怨嘆",
+      "spelling": "bô sî-kan thàng honnh guá lâi uàn-thàn",
+      "manual_id": "line-15:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 123.0,
+      "online_text": "没时间通乎我来瞑梦",
+      "match_text": "没时间通乎我来瞑梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 128.4,
+      "online_text": "冲冲冲 提出信心向前冲",
+      "match_text": "冲冲冲 提出信心向前冲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 132.06,
+      "online_text": "冲冲冲 踏遍天下我尚勇",
+      "match_text": "冲冲冲 踏遍天下我尚勇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 135.61,
+      "online_text": "冲冲冲 走找着我的心中",
+      "match_text": "冲冲冲 走找着我的心中",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 139.26,
+      "online_text": "最美丽 当初坚持的理想",
+      "match_text": "最美丽 当初坚持的理想",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 144.51,
+      "online_text": "若心中充满热情来冲 一定成功",
+      "match_text": "若心中充满热情来冲 一定成功",
+      "text": "若心中充滿熱情來衝 一定成功",
+      "spelling": "ná sim-tiong tshiong-buán lia̍t-tsîng lâi tshiong it-tīng sîng-kong",
+      "manual_id": "line-57:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 151.29,
+      "online_text": "冲冲冲 提出信心向前冲",
+      "match_text": "冲冲冲 提出信心向前冲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 154.77,
+      "online_text": "冲冲冲 踏遍天下我尚勇",
+      "match_text": "冲冲冲 踏遍天下我尚勇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 158.39,
+      "online_text": "冲冲冲 走找着我的心中",
+      "match_text": "冲冲冲 走找着我的心中",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 162.1,
+      "online_text": "最美丽 当初坚持的理想",
+      "match_text": "最美丽 当初坚持的理想",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 167.2,
+      "online_text": "若心中充满热情来冲 一定成功",
+      "match_text": "若心中充满热情来冲 一定成功",
+      "text": "若心中充滿熱情來衝 一定成功",
+      "spelling": "ná sim-tiong tshiong-buán lia̍t-tsîng lâi tshiong it-tīng sîng-kong",
+      "manual_id": "line-57:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "336db5aca51c086aa12ade18540573b5651f4ff9289f545f1470e23107bcbf18",
+    "manual": "50b925ab6bcfd8a90cb72a7e101531ffbcf0f890c19c28b37f9817a608328d7c",
+    "timed": "85d63253e84ab5cb2bdc1334f5dd8d42c6feaf750974d5944c93518a9f390b99"
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "recording_id": "lrclib:32710778",
+  "timing_source": "LRCLIB https://lrclib.net/api/get/32710778",
+  "manual_source": "User-supplied resources/lyrics-spelling/慶端陽-黑名單工作室",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "repeat": 2,
+    "unresolved": 9,
+    "gap": 4,
+    "exact": 3,
+    "approximate": 3
+  },
+  "review_row_count": 15,
+  "unmatched_manual_ids": [
+    "line-16:0",
+    "line-28:0"
+  ],
+  "unused_repeat_ids": [
+    "line-4:0",
+    "line-7:0",
+    "line-25:0",
+    "line-31:0",
+    "line-43:0",
+    "line-46:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 30.0,
+      "online_text": "五月鑼鼓響半天",
+      "match_text": "五月鑼鼓響半天",
+      "text": "五月鑼鼓響半天",
+      "spelling": "gōo ge̍h lô-kóo hiáng puànn thinn",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 42.93,
+      "online_text": "阮欲看龍船行河邊",
+      "match_text": "阮欲看龍船行河邊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 2,
+      "time": 52.83,
+      "online_text": "人講塗牛嫂仔佇河邊",
+      "match_text": "人講塗牛嫂仔佇河邊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 62.13,
+      "online_text": "排一擔擔仔咧賣胭脂",
+      "match_text": "排一擔擔仔咧賣胭脂",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 69.98,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 79.41,
+      "online_text": "炮聲響 龍船行",
+      "match_text": "炮聲響 龍船行",
+      "text": "炮聲響　龍船行",
+      "spelling": "phàu siann-hiáng lîng-tsûn kiânn",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 86.96,
+      "online_text": "鑼鼓若響風浪會驚",
+      "match_text": "鑼鼓若響風浪會驚",
+      "text": "鑼鼓若響　風浪會驚",
+      "spelling": "lô-kóo ná hiáng hong-long ē kiann",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 94.77,
+      "online_text": "鯽仔魚講伊無地覕",
+      "match_text": "鯽仔魚講伊無地覕",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 102.58,
+      "online_text": "因為龍船咧搶紅旗",
+      "match_text": "因為龍船咧搶紅旗",
+      "text": "因為龍船在搶紅旗",
+      "spelling": "in-uī lîng-tsûn te tshiúnn âng-kî",
+      "manual_id": "line-19:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.875
+    },
+    {
+      "source_row": 9,
+      "time": 113.42,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 10,
+      "time": 166.91,
+      "online_text": "五月鑼鼓響半天",
+      "match_text": "五月鑼鼓響半天",
+      "text": "五月鑼鼓響半天",
+      "spelling": "gōo ge̍h lô-kóo hiáng puànn thinn",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 179.25,
+      "online_text": "阮欲看龍船行河邊",
+      "match_text": "阮欲看龍船行河邊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 188.4,
+      "online_text": "人講塗牛嫂仔佇河邊",
+      "match_text": "人講塗牛嫂仔佇河邊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 196.79,
+      "online_text": "排一擔擔仔咧賣胭脂",
+      "match_text": "排一擔擔仔咧賣胭脂",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 206.76,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 15,
+      "time": 215.81,
+      "online_text": "慶端陽 龍船行",
+      "match_text": "慶端陽 龍船行",
+      "text": "慶端陽　龍船行",
+      "spelling": "khìng tuann iûnn iông lîng-tsûn kiânn",
+      "manual_id": "line-34:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 223.14,
+      "online_text": "買一罐燒酒款待親情",
+      "match_text": "買一罐燒酒款待親情",
+      "text": "買一瓶燒酒款待親戚",
+      "spelling": "bué tsi̍t-kuàn sio-tsiú khuán-thāi tshin-tshik",
+      "manual_id": "line-37:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.777778
+    },
+    {
+      "source_row": 17,
+      "time": 230.91,
+      "online_text": "掔肉粽是飼溪魚",
+      "match_text": "掔肉粽是飼溪魚",
+      "text": "丟肉粽是飼溪魚",
+      "spelling": "kiàn bah-tsàng sī tshī kue hî",
+      "manual_id": "line-40:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.857143
+    },
+    {
+      "source_row": 18,
+      "time": 240.73,
+      "online_text": "拜託你莫食屈原屍",
+      "match_text": "拜託你莫食屈原屍",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 249.89,
+      "online_text": "拜託你莫食屈原屍",
+      "match_text": "拜託你莫食屈原屍",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 268.17,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "27ac27095215332cc2fb99e8fdb5f76bc97d21e1c8ef8cedbe3d4eec165d8b6c",
+    "manual": "fe3633e60dc224254549219556cf62221a4e49e5438b2a90e006e1d063069f77",
+    "timed": "4b19f7a2b6e033bbccf06054286368ffd5b01a908f23df7db198b6f786428eca"
+  }
+}

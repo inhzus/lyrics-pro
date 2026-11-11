@@ -1,0 +1,232 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "有誰人　願意　放棄美麗的今宵",
+      "spelling": "ū siánn-lâng guān-ì hòng-khì bí-lē ê kim siau",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "有誰人　願意　為情等候",
+      "spelling": "ū siánn-lâng guān-ì uî tsîng tán-hāu",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "有誰人　願意　一生為愛來困擾",
+      "spelling": "ū siánn-lâng guān-ì it-sing uî ài lâi khùn-jiáu",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "徘徊　感情的雙叉路口",
+      "spelling": "pai-hui kám-tsîng ê siang-tshe-lōo kháu",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "有誰人　願意　站惦風雨的門口",
+      "spelling": "ū siánn-lâng guān-ì khiā tiām hong-hōo ê mn̂g-kháu",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "有誰人　願意　為情等候",
+      "spelling": "ū siánn-lâng guān-ì uî tsîng tán-hāu",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "千年萬年　換作你甘做會到",
+      "spelling": "tshian-nî bān-nî uānn-tsuè lí kam tsuè ē kàu",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "用盡　一生　陪阮到老",
+      "spelling": "iōng-tsīn it-sing puê gún kàu láu",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "情深似海　無暝無日的等待",
+      "spelling": "tsîng tshim sù-hái bô mî bô li̍t ê tán-thāi",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "為了將來　咱著忍耐",
+      "spelling": "uī-tio̍h tsiong-lâi lán-tio̍h lím-nāi",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "情深似海　甘願為你走天涯",
+      "spelling": "tsîng tshim sù-hái kam-guān uî lí tsáu thian-gâi",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "心愛的　你是我溫暖的所在",
+      "spelling": "sim-ài ê lí sī guá un-luán ê sóo-tsāi",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "心愛的　你是我溫暖的所在",
+      "spelling": "sim-ài ê lí sī guá un-luán ê sóo-tsāi",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "有誰人　願意　站惦風雨的門口",
+      "spelling": "ū siánn-lâng guān-ì khiā tiām hong-hōo ê mn̂g-kháu",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "有誰人　願意　為情等候",
+      "spelling": "ū siánn-lâng guān-ì uî tsîng tán-hāu",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "千年萬年　換作你甘做會到",
+      "spelling": "tshian-nî bān-nî uānn-tsuè lí kam tsuè ē kàu",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "用盡　一生　陪阮到老",
+      "spelling": "iōng-tsīn it-sing puê gún kàu láu",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "情深似海　無暝無日的等待",
+      "spelling": "tsîng tshim sù-hái bô mî bô li̍t ê tán-thāi",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "為了將來　咱著忍耐",
+      "spelling": "uī-tio̍h tsiong-lâi lán-tio̍h lím-nāi",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "情深似海　甘願為你走天涯",
+      "spelling": "tsîng tshim sù-hái kam-guān uî lí tsáu thian-gâi",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "心愛的　你是我溫暖的所在",
+      "spelling": "sim-ài ê lí sī guá un-luán ê sóo-tsāi",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "情深似海　無暝無日的等待",
+      "spelling": "tsîng tshim sù-hái bô mî bô li̍t ê tán-thāi",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "為了將來　咱著忍耐",
+      "spelling": "uī-tio̍h tsiong-lâi lán-tio̍h lím-nāi",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "情深似海　甘願為你走天涯",
+      "spelling": "tsîng tshim sù-hái kam-guān uî lí tsáu thian-gâi",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "心愛的　你是我溫暖的所在",
+      "spelling": "sim-ài ê lí sī guá un-luán ê sóo-tsāi",
+      "source_lines": [
+        73,
+        74
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

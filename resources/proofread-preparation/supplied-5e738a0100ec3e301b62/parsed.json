@@ -1,0 +1,264 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "Doremi 我如此愛妳",
+      "spelling": "Doremi guá lû-tshú ài lí",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "Doremi 妳了解我心意",
+      "spelling": "Doremi lí liáu-kái guá sim-ì",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "Doremi 戀愛的酸甘甜",
+      "spelling": "Doremi luân-ài ê sng kam-tinn",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "Doremi 驚愛妳袂喘氣",
+      "spelling": "Doremi kiann ài lí buē tshuán-khuì",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "一世人煞煞去",
+      "spelling": "tsi̍t-sì-lâng suah-suah-khì",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "空缺攏顛倒邊",
+      "spelling": "khang-khuat lóng tian-tò pîng",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "煩惱是越加添",
+      "spelling": "huân-ló sī hānn ke thinn",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "妳是攏總的原因",
+      "spelling": "lí sī lóng-tsóng ê guân-in",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "人講我真正憨",
+      "spelling": "lâng kóng guá tsin-tsiànn gōng",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "逐工為妳走闖",
+      "spelling": "ta̍k-kang uî lí tsáu tsông",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "戀愛毋通勉強",
+      "spelling": "luân-ài m̄-thang bián-kióng",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "這擺我完全跋倒",
+      "spelling": "tsit-pái guá uân-tsuân pua̍h-tó",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "天底下怎會有妳這款的查某人",
+      "spelling": "thinn-té-hā tsuánn-ē ū lí tsit-khuán ê tsa-bóo-lâng",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "我希望妳會艱苦跟我的心情相仝",
+      "spelling": "guá hi-bāng lí ē kan-khóo kā guá ê sim-tsîng sio-kāng",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "六冬的過去我的生活越來越冷",
+      "spelling": "la̍k tang ê kuè-khì guá ê sing-ua̍h lú lâi lú líng",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "借問妳甘會知影我這款人的愛情",
+      "spelling": "tsioh-mn̄g lí kam-ē tsai-iánn guá tsit-khuán lâng ê ài-tsîng",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "Doremi 我如此愛妳",
+      "spelling": "Doremi guá lû-tshú ài lí",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "Doremi 妳了解我心意",
+      "spelling": "Doremi lí liáu-kái guá sim-ì",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "Doremi 戀愛的酸甘甜",
+      "spelling": "Doremi luân-ài ê sng kam-tinn",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "Doremi 驚愛妳袂喘氣",
+      "spelling": "Doremi kiann ài lí buē tshuán-khuì",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "憨慢駛船卻唸溪彎",
+      "spelling": "khám bān sái-tsûn suah liām khe uan",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "心頭若亂就結歸丸",
+      "spelling": "sim-thâu ná luān tio̍h kiat kui uân",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "憨慢駛船卻唸溪彎",
+      "spelling": "khám bān sái-tsûn suah liām khe uan",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "心頭若亂就結歸丸",
+      "spelling": "sim-thâu ná luān tio̍h kiat kui uân",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "Doremi 我如此愛妳",
+      "spelling": "Doremi guá lû-tshú ài lí",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "Doremi 妳了解我心意",
+      "spelling": "Doremi lí liáu-kái guá sim-ì",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "Doremi 戀愛的酸甘甜",
+      "spelling": "Doremi luân-ài ê sng kam-tinn",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "Doremi 驚愛妳袂喘氣",
+      "spelling": "Doremi kiann ài lí buē tshuán-khuì",
+      "source_lines": [
+        87,
+        88
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:73,74",
+    "ambiguous_pair:74,75",
+    "ambiguous_pair:75,76",
+    "ambiguous_pair:76,78"
+  ]
+}

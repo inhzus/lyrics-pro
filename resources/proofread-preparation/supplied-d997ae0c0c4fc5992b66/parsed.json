@@ -1,0 +1,187 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "天色袜光著啊出門 替人洗衫又煮飯",
+      "spelling": "thinn-sik buē kng-tio̍h ah tshut-mn̂g thè-lâng sé-sann iū tsú-pn̄g",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "為著厝內的三頓 千辛萬苦作飯吞",
+      "spelling": "uī-tio̍h tshù-lāi ê sann tǹg tshian-sin-bān-khóo tsuè pn̄g thun",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "望子成龍啊無惜本 飼子不教犯人問",
+      "spelling": "bāng kiánn sing liông ah bô-sioh pún tshī kiánn bû kà huān lâng-mn̄g",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "望子友孝照算頓 啊誰知媽媽的心酸",
+      "spelling": "bāng kiánn iú hàu tsiàu sǹg tǹg ah siáng-tsai má-má ê sim-sng",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "無情的皺紋 一巡又一巡",
+      "spelling": "bô-tsîng ê liâu-hûn tsi̍t sûn iū tsi̍t sûn",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "歲月染成白雪的頭毛",
+      "spelling": "suè-gua̍t ní sing pe̍h-suah ê thâu-mn̂g",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "用盡一生的青春哪守著窗門",
+      "spelling": "iōng-tsīn it-sing ê tshing-tshun ná siú-tio̍h thang-á-mn̂g",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "等待回鄉的子兒孫",
+      "spelling": "tán-thāi huê hiong ê kiánn-lî-sun",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "天色袜光著啊出門 替人洗衫又煮飯",
+      "spelling": "thinn-sik buē kng-tio̍h ah tshut-mn̂g thè-lâng sé-sann iū tsú-pn̄g",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "為著厝內的三頓 千辛萬苦作飯吞",
+      "spelling": "uī-tio̍h tshù-lāi ê sann tǹg tshian-sin-bān-khóo tsuè pn̄g thun",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "望子成龍啊無惜本 飼子不教犯人問",
+      "spelling": "bāng kiánn sing liông ah bô-sioh pún tshī kiánn bû kà huān lâng-mn̄g",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "望子友孝照算頓 啊誰知媽媽的心酸",
+      "spelling": "bāng kiánn iú hàu tsiàu sǹg tǹg ah siáng-tsai má-má ê sim-sng",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "無情的皺紋 一巡又一巡",
+      "spelling": "bô-tsîng ê liâu-hûn tsi̍t sûn iū tsi̍t sûn",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "歲月染成白雪的頭毛",
+      "spelling": "suè-gua̍t ní sing pe̍h-suah ê thâu-mn̂g",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "用盡一生的青春哪守著窗門",
+      "spelling": "iōng-tsīn it-sing ê tshing-tshun ná siú-tio̍h thang-á-mn̂g",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "等待回鄉的子兒孫",
+      "spelling": "tán-thāi huê hiong ê kiánn-lî-sun",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "無情的皺紋 一巡又一巡",
+      "spelling": "bô-tsîng ê liâu-hûn tsi̍t sûn iū tsi̍t sûn",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "歲月染成白雪的頭毛",
+      "spelling": "suè-gua̍t ní sing pe̍h-suah ê thâu-mn̂g",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "用盡一生的青春哪守著窗門",
+      "spelling": "iōng-tsīn it-sing ê tshing-tshun ná siú-tio̍h thang-á-mn̂g",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "等待回鄉的子兒孫",
+      "spelling": "tán-thāi huê hiong ê kiánn-lî-sun",
+      "source_lines": [
+        58,
+        59
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

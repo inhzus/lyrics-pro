@@ -1,0 +1,78 @@
+{
+  "recording_id": "netease:350182",
+  "source": "User-supplied resources/lyrics-spelling/少年花-川秋沙",
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "那叢盛開的花朵 聞到我們思念的氣味",
+      "spelling": "hit tsâng sīng-khui ê hue-luí phīnn-tio̍h lán su-liām ê khì-bī",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "陣陣淡淡的香味 那段衝動過後的空虛",
+      "spelling": "tsūn tsūn tām tām ê phang-bī hit tuānn tshiong-tōng āu ê khang-hi",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "是光線太過迷濛 青春的日子就像夢",
+      "spelling": "sī kng-suànn thài bî bông tshing-tshun ê li̍t-tsí tshin-tshiūnn bāng",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "過去還是那麼深 牽絆我現在的日子",
+      "spelling": "kuè-khì iû-guân hiah-nī tshim khan pàn lán tsit-má ê li̍t-tsí",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "怨妒少年時的面容 美麗單純又倔強",
+      "spelling": "uàn-tòo siàu-liân-sî ê bīn-iông bí-lē tan-sûn koh khut-kiông",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "是否花開正不對時 怨嘆又稀噓",
+      "spelling": "kam sin hue khui tsìng m̄-tio̍h-sî uàn-thàn koh hi bî",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "昨日之時 含苞待放 明日之時 凋謝欲落",
+      "spelling": "tsa-li̍t ê sî hâm pau thāi pàng miâ li̍t ê sî tiau-siā bē lo̍h",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "花開花落 春風秋雨 人海茫茫 浮浮沉沉",
+      "spelling": "hue khui hue lo̍h tshun-hong tshiu hōo lîn-hái bâng bâng phû-phû-tîm-tîm",
+      "source_lines": [
+        22,
+        23
+      ]
+    }
+  ]
+}

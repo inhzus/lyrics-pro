@@ -1,0 +1,304 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "漂丿少年家 看相片沒幾歲",
+      "spelling": "phiau pi̍k siàu-liân-ke khuànn siòng-phìnn bô kuí huè",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "頭鬃 西裝 齊齊",
+      "spelling": "thâu-tsang se-tsng tsê tsê",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "幾十年日子攏按呢過",
+      "spelling": "kuí tsa̍p nî li̍t-tsí lóng án-ne kuè",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "身邊老伴陪",
+      "spelling": "sin-pinn láu phuānn puê",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "雖然真嚴格 有時會講笑虧",
+      "spelling": "sui-liân tsin giâm-keh ū-sî ē kóng tshiò khui",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "上驚 伊發 性地",
+      "spelling": "siōng kiann i huat sìng-tē",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "我的記誌中甲伊沒講幾句話",
+      "spelling": "guá ê kì tì tiong kah i bô kóng kuí kù uē",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "其實想欲 陪伊飲一杯茶",
+      "spelling": "kî-si̍t siūnn buē puê i lím tsi̍t pue tê",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "啊~ 惦惦為著家 風雨吹 伊是阮老爸",
+      "spelling": "ah～ tiām-tiām uī-tio̍h ke hong-hōo tshue i sī gún lāu-pē",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "看伊吃的穿的攏嘛沒外多",
+      "spelling": "khuànn i tsia̍h ê tshīng ê lóng mā bô guā tsuē",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "早頓一碗粥 若出門一雙鞋",
+      "spelling": "tsá-tǹg tsi̍t uánn buê ná tshut-mn̂g tsi̍t siang ê",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "甘有好好照顧您身體",
+      "spelling": "kam ū hó hó tsiàu-kòo lín sin-thé",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "啊~ 頭鬃漸漸白 風中吹 伊是阮老爸",
+      "spelling": "ah～ thâu-tsang tsiām-tsiām pe̍h hong-tiong tshue i sī gún lāu-pē",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "若無伊來牽咧阮會飛去對",
+      "spelling": "ná bô i lâi khan leh gún ē pue-khì tuì",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "幸運阮一個 阮不是沒人的",
+      "spelling": "hīng-ūn gún tsi̍t ê gún m̄ sī bô-lâng ê",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "感謝天地 感謝阮老爸",
+      "spelling": "kám-siā thinn-tē kám-siā gún lāu-pē",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "我不愛讀冊 煩惱阮做什貨",
+      "spelling": "guá bô ài tha̍k-tsheh huân-ló gún tsuè siánn-huè",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "上驚 沒伊 來找",
+      "spelling": "siōng kiann bô i lâi tshuē",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "離開那一暝甲伊沒講幾句話",
+      "spelling": "lī-khui hit tsi̍t mê kah i bô kóng kuí kù uē",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "其實想欲 陪伊講天講地",
+      "spelling": "kî-si̍t siūnn buē puê i kóng thinn kóng tê",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "啊~ 頭鬃漸漸白 風中吹 伊是阮老爸",
+      "spelling": "ah～ thâu-tsang tsiām-tsiām pe̍h hong-tiong tshue i sī gún lāu-pē",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "若無伊來牽咧阮會飛去對",
+      "spelling": "ná bô i lâi khan leh gún ē pue-khì tuì",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "幸運阮一個 阮不是沒人的",
+      "spelling": "hīng-ūn gún tsi̍t ê gún m̄ sī bô-lâng ê",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "感謝天地 感謝阮老爸",
+      "spelling": "kám-siā thinn-tē kám-siā gún lāu-pē",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "啊~ 惦惦為著家 風雨吹 伊是阮老爸",
+      "spelling": "ah～ tiām-tiām uī-tio̍h ke hong-hōo tshue i sī gún lāu-pē",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "看伊吃的穿的攏嘛沒外多",
+      "spelling": "khuànn i tsia̍h ê tshīng ê lóng mā bô guā tsuē",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "早頓一碗粥 若出門一雙鞋",
+      "spelling": "tsá-tǹg tsi̍t uánn buê ná tshut-mn̂g tsi̍t siang ê",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "甘有好好照顧您身體",
+      "spelling": "kam ū hó hó tsiàu-kòo lín sin-thé",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "啊~ 來寫ㄧ張批 寄乎您 親愛的老爸",
+      "spelling": "ah～ lâi siá tsi̍t tiunn phue kià hōo lín tshin-ài ê lāu-pē",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "您的一片苦心阮會凍體會",
+      "spelling": "lín ê tsi̍t-phiàn khóo sim gún ē tàng thái huē",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "男子漢一個 大聲講這句話",
+      "spelling": "lâm-tsú-hàn tsi̍t ê tuā-siann kóng tsit kù uē",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "感謝天地 感謝阮老爸",
+      "spelling": "kám-siā thinn-tē kám-siā gún lāu-pē",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "感謝天地 感謝阮老~ 爸~",
+      "spelling": "kám-siā thinn-tē kám-siā gún lāu-pē",
+      "source_lines": [
+        97,
+        98
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

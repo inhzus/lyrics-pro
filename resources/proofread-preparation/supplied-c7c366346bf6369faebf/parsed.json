@@ -1,0 +1,289 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "早早就起床  共旗仔囥佇眠床頂",
+      "spelling": "tsá tsá tio̍h khí-tshn̂g  kāng kî á khǹg teh bîn tshn̂g-tíng",
+      "source_lines": [
+        1,
+        2
+      ],
+      "parts": [
+        {
+          "text": "早早就起床",
+          "spelling": "tsá tsá tio̍h khí-tshn̂g"
+        },
+        {
+          "text": "共旗仔囥佇眠床頂",
+          "spelling": "kāng kî á khǹg teh bîn tshn̂g-tíng"
+        }
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "帶著全家大小  來去找媽祖",
+      "spelling": "tuà-tio̍h tsuân-ke tuā-sè  lâi-khì tshuē má-tsóo",
+      "source_lines": [
+        4,
+        5
+      ],
+      "parts": [
+        {
+          "text": "帶著全家大小",
+          "spelling": "tuà-tio̍h tsuân-ke tuā-sè"
+        },
+        {
+          "text": "來去找媽祖",
+          "spelling": "lâi-khì tshuē má-tsóo"
+        }
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "這流傳一個故事  講勇敢不是比拳頭母",
+      "spelling": "tsia liû-thuân tsi̍t ê kòo-sū  kóng ióng-kám m̄ sī pí kûn-thâu bú",
+      "source_lines": [
+        7,
+        8
+      ],
+      "parts": [
+        {
+          "text": "這流傳一個故事",
+          "spelling": "tsia liû-thuân tsi̍t ê kòo-sū"
+        },
+        {
+          "text": "講勇敢不是比拳頭母",
+          "spelling": "kóng ióng-kám m̄ sī pí kûn-thâu bú"
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "是你敢跟我出海𨑨迌",
+      "spelling": "sī lí kánn tè guá tshut-hái tshit-thô",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "原本啥物都攏無，是咱一步一步",
+      "spelling": "guân-pún siánn-mih tio̍h lóng bô  sī lán tsi̍t-pōo tsi̍t-pōo",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "用網仔  牽著全家大小",
+      "spelling": "iōng bāng-á  khan-tio̍h tsuân-ke tuā-sè",
+      "source_lines": [
+        16,
+        17
+      ],
+      "parts": [
+        {
+          "text": "用網仔",
+          "spelling": "iōng bāng-á"
+        },
+        {
+          "text": "牽著全家大小",
+          "spelling": "khan-tio̍h tsuân-ke tuā-sè"
+        }
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "開發第二港口  閣用輸送帶閘牢",
+      "spelling": "khai-huat tē-lī káng-kháu  koh iōng kò phè a tsa̍h tiâu",
+      "source_lines": [
+        19,
+        20
+      ],
+      "parts": [
+        {
+          "text": "開發第二港口",
+          "spelling": "khai-huat tē-lī káng-kháu"
+        },
+        {
+          "text": "閣用輸送帶閘牢",
+          "spelling": "koh iōng kò phè a tsa̍h tiâu"
+        }
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "進步的城市  工業化的機器",
+      "spelling": "tsìn-pōo ê siânn-tshī  kang-gia̍p-huà ê ki-khì",
+      "source_lines": [
+        22,
+        23
+      ],
+      "parts": [
+        {
+          "text": "進步的城市",
+          "spelling": "tsìn-pōo ê siânn-tshī"
+        },
+        {
+          "text": "工業化的機器",
+          "spelling": "kang-gia̍p-huà ê ki-khì"
+        }
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "住了世世代代的家  毋是你講拆就會使拆",
+      "spelling": "tuà liáu sè-sè-tāi-tāi ê ke  m̄ sī lí kóng thiah tio̍h ē sái thiah",
+      "source_lines": [
+        25,
+        26
+      ],
+      "parts": [
+        {
+          "text": "住了世世代代的家",
+          "spelling": "tuà liáu sè-sè-tāi-tāi ê ke"
+        },
+        {
+          "text": "毋是你講拆就會使拆",
+          "spelling": "m̄ sī lí kóng thiah tio̍h ē sái thiah"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "天公伯阿  這咁公平",
+      "spelling": "thinn-kong peh a  tse kam kong-pênn",
+      "source_lines": [
+        28,
+        29
+      ],
+      "parts": [
+        {
+          "text": "天公伯阿",
+          "spelling": "thinn-kong peh a"
+        },
+        {
+          "text": "這咁公平",
+          "spelling": "tse kam kong-pênn"
+        }
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "怪手拍佇塗跤的聲",
+      "spelling": "kuài-tshiú puānn tī thôo-kha ê siann",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "親像拍佇我的肩舺頭",
+      "spelling": "tshin-tshiūnn puānn tī guá ê king kah thâu",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "天公伯阿  我猶未變老",
+      "spelling": "thinn-kong peh a  guá bē piàn láu",
+      "source_lines": [
+        37,
+        38
+      ],
+      "parts": [
+        {
+          "text": "天公伯阿",
+          "spelling": "thinn-kong peh a"
+        },
+        {
+          "text": "我猶未變老",
+          "spelling": "guá bē piàn láu"
+        }
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "住了世世代代的家  毋是你講拆就會使拆",
+      "spelling": "tuà liáu sè-sè-tāi-tāi ê ke  m̄ sī lí kóng thiah tio̍h ē sái thiah",
+      "source_lines": [
+        40,
+        41
+      ],
+      "parts": [
+        {
+          "text": "住了世世代代的家",
+          "spelling": "tuà liáu sè-sè-tāi-tāi ê ke"
+        },
+        {
+          "text": "毋是你講拆就會使拆",
+          "spelling": "m̄ sī lí kóng thiah tio̍h ē sái thiah"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "天公伯阿  這咁公平",
+      "spelling": "thinn-kong peh a  tse kam kong-pênn",
+      "source_lines": [
+        43,
+        44
+      ],
+      "parts": [
+        {
+          "text": "天公伯阿",
+          "spelling": "thinn-kong peh a"
+        },
+        {
+          "text": "這咁公平",
+          "spelling": "tse kam kong-pênn"
+        }
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "怪手拍佇塗跤的聲",
+      "spelling": "kuài-tshiú puānn tī thôo-kha ê siann",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "親像拍佇我的肩舺頭",
+      "spelling": "tshin-tshiūnn puānn tī guá ê king kah thâu",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "天公伯阿  我猶未變老",
+      "spelling": "thinn-kong peh a  guá bē piàn láu",
+      "source_lines": [
+        52,
+        53
+      ],
+      "parts": [
+        {
+          "text": "天公伯阿",
+          "spelling": "thinn-kong peh a"
+        },
+        {
+          "text": "我猶未變老",
+          "spelling": "guá bē piàn láu"
+        }
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

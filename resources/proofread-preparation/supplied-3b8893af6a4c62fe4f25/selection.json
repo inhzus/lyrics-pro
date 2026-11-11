@@ -1,0 +1,41 @@
+{
+  "selected": {
+    "song_id": 32710529,
+    "title": "傷心無話",
+    "artists": [
+      "黑名單工作室"
+    ],
+    "album": "抓狂歌",
+    "duration": 172.0,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "lrclib:32710529",
+      "duration": 172.0,
+      "ready": false,
+      "coverage": 0.08695652173913043,
+      "exact_fraction": 0.043478260869565216,
+      "summary": {
+        "approximate": 1,
+        "unresolved": 21,
+        "gap": 4,
+        "exact": 1
+      }
+    },
+    {
+      "recording_id": "lrclib:39692254",
+      "duration": 176.0,
+      "ready": false,
+      "coverage": 0.08695652173913043,
+      "exact_fraction": 0.043478260869565216,
+      "summary": {
+        "approximate": 1,
+        "unresolved": 21,
+        "gap": 4,
+        "exact": 1
+      }
+    }
+  ]
+}

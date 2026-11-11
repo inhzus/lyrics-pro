@@ -1,0 +1,448 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "今阿日月娘那這呢光                          照著阮歸暝攏未凍睏",
+      "spelling": "kin-á-li̍t gue̍h-niû ná hiâ nî kng    tsiáu tio̍h gún kui-mî lóng buē tàng khùn",
+      "source_lines": [
+        1,
+        2
+      ],
+      "parts": [
+        {
+          "text": "今阿日月娘那這呢光",
+          "spelling": "kin-á-li̍t gue̍h-niû ná hiâ nî kng"
+        },
+        {
+          "text": "照著阮歸暝攏未凍睏",
+          "spelling": "tsiáu tio̍h gún kui-mî lóng buē tàng khùn"
+        }
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "連頭毛都沒休睏                                        你甘知阮對你的思念",
+      "spelling": "liân thâu-mn̂g lóng bô hioh khùn    lí kam tsai gún tuì lí ê su-liām",
+      "source_lines": [
+        4,
+        5
+      ],
+      "parts": [
+        {
+          "text": "連頭毛都沒休睏",
+          "spelling": "liân thâu-mn̂g lóng bô hioh khùn"
+        },
+        {
+          "text": "你甘知阮對你的思念",
+          "spelling": "lí kam tsai gún tuì lí ê su-liām"
+        }
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "希望你有同款的夢                              咱兩人做陣返來那一天",
+      "spelling": "hi-bāng lí ū kāng khuán ê bāng    lán nn̄g-lâng tsuè-tīn tńg-lâi hit tsi̍t kang",
+      "source_lines": [
+        7,
+        8
+      ],
+      "parts": [
+        {
+          "text": "希望你有同款的夢",
+          "spelling": "hi-bāng lí ū kāng khuán ê bāng"
+        },
+        {
+          "text": "咱兩人做陣返來那一天",
+          "spelling": "lán nn̄g-lâng tsuè-tīn tńg-lâi hit tsi̍t kang"
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "互相依偎的情愛",
+      "spelling": "hōo-siong i-uá ê tsîng-ài",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "底你的心肝內                        是不是還有我的存在",
+      "spelling": "tí lí ê sim-kuann lāi            sī m̄ sī koh-ū guá ê tsûn-tsāi",
+      "source_lines": [
+        13,
+        14
+      ],
+      "parts": [
+        {
+          "text": "底你的心肝內",
+          "spelling": "tí lí ê sim-kuann lāi"
+        },
+        {
+          "text": "是不是還有我的存在",
+          "spelling": "sī m̄ sī koh-ū guá ê tsûn-tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "永遠攏底等                            有時陣嘛會不甘願",
+      "spelling": "íng-uán lóng té tán            ū-sî tsūn mah ē m̄-kam-guān",
+      "source_lines": [
+        16,
+        17
+      ],
+      "parts": [
+        {
+          "text": "永遠攏底等",
+          "spelling": "íng-uán lóng té tán"
+        },
+        {
+          "text": "有時陣嘛會不甘願",
+          "spelling": "ū-sî tsūn mah ē m̄-kam-guān"
+        }
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "想講要作伙飛                                    去一個心中美麗的所在",
+      "spelling": "siūnn kóng beh tsò-hué pue        khì tsi̍t ê sim-tiong bí-lē ê sóo-tsāi",
+      "source_lines": [
+        19,
+        20
+      ],
+      "parts": [
+        {
+          "text": "想講要作伙飛",
+          "spelling": "siūnn kóng beh tsò-hué pue"
+        },
+        {
+          "text": "去一個心中美麗的所在",
+          "spelling": "khì tsi̍t ê sim-tiong bí-lē ê sóo-tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "所有的一切                      攏總尬你放作夥",
+      "spelling": "sóo-ú ê it-tshè                lóng tsóng kā lí khǹg tsò-hué",
+      "source_lines": [
+        22,
+        23
+      ],
+      "parts": [
+        {
+          "text": "所有的一切",
+          "spelling": "sóo-ú ê it-tshè"
+        },
+        {
+          "text": "攏總尬你放作夥",
+          "spelling": "lóng tsóng kā lí khǹg tsò-hué"
+        }
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "希望你 會當了解",
+      "spelling": "hi-bāng lí ē-tàng liáu-kái",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "今阿日月娘那這呢光                          照著阮歸暝攏未凍睏",
+      "spelling": "kin-á-li̍t gue̍h-niû ná hiâ nî kng    tsiáu tio̍h gún kui-mî lóng buē tàng khùn",
+      "source_lines": [
+        28,
+        29
+      ],
+      "parts": [
+        {
+          "text": "今阿日月娘那這呢光",
+          "spelling": "kin-á-li̍t gue̍h-niû ná hiâ nî kng"
+        },
+        {
+          "text": "照著阮歸暝攏未凍睏",
+          "spelling": "tsiáu tio̍h gún kui-mî lóng buē tàng khùn"
+        }
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "親像魚死底花園",
+      "spelling": "tshin-tshiūnn hî sí tí hue-hn̂g",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "你甘知阮對你的思念                            希望你有同款的夢",
+      "spelling": "lí kam tsai gún tuì lí ê su-liām        hi-bāng lí ū kāng khuán ê bāng",
+      "source_lines": [
+        34,
+        35
+      ],
+      "parts": [
+        {
+          "text": "你甘知阮對你的思念",
+          "spelling": "lí kam tsai gún tuì lí ê su-liām"
+        },
+        {
+          "text": "希望你有同款的夢",
+          "spelling": "hi-bāng lí ū kāng khuán ê bāng"
+        }
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "咱兩人做陣返來那一天",
+      "spelling": "lán nn̄g-lâng tsuè-tīn tńg-lâi hit tsi̍t kang",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "互相依偎的情愛",
+      "spelling": "hōo-siong i-uá ê tsîng-ài",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "底你的心肝內                        是不是還有我的存在",
+      "spelling": "tí lí ê sim-kuann lāi            sī m̄ sī koh-ū guá ê tsûn-tsāi",
+      "source_lines": [
+        43,
+        44
+      ],
+      "parts": [
+        {
+          "text": "底你的心肝內",
+          "spelling": "tí lí ê sim-kuann lāi"
+        },
+        {
+          "text": "是不是還有我的存在",
+          "spelling": "sī m̄ sī koh-ū guá ê tsûn-tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "永遠攏底等                           有時陣嘛會不甘願",
+      "spelling": "íng-uán lóng té tán            ū-sî tsūn mah ē m̄-kam-guān",
+      "source_lines": [
+        46,
+        47
+      ],
+      "parts": [
+        {
+          "text": "永遠攏底等",
+          "spelling": "íng-uán lóng té tán"
+        },
+        {
+          "text": "有時陣嘛會不甘願",
+          "spelling": "ū-sî tsūn mah ē m̄-kam-guān"
+        }
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "想講要作伙飛                                    去一個心中美麗的所在",
+      "spelling": "siūnn kóng beh tsò-hué pue        khì tsi̍t ê sim-tiong bí-lē ê sóo-tsāi",
+      "source_lines": [
+        49,
+        50
+      ],
+      "parts": [
+        {
+          "text": "想講要作伙飛",
+          "spelling": "siūnn kóng beh tsò-hué pue"
+        },
+        {
+          "text": "去一個心中美麗的所在",
+          "spelling": "khì tsi̍t ê sim-tiong bí-lē ê sóo-tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "所有的一切                      攏總尬你放作夥",
+      "spelling": "sóo-ú ê it-tshè                lóng tsóng kā lí khǹg tsò-hué",
+      "source_lines": [
+        52,
+        53
+      ],
+      "parts": [
+        {
+          "text": "所有的一切",
+          "spelling": "sóo-ú ê it-tshè"
+        },
+        {
+          "text": "攏總尬你放作夥",
+          "spelling": "lóng tsóng kā lí khǹg tsò-hué"
+        }
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "希望你 會當了解",
+      "spelling": "hi-bāng lí ē-tàng liáu-kái",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "我不管多少時間",
+      "spelling": "guá m̄ kuán guā-tsē sî-kan",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "多少目屎多少失望來忍耐",
+      "spelling": "guā-tsē ba̍k-sái guā-tsē sit-bōng lâi lím-nāi",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "我不管你當時會返來",
+      "spelling": "guá m̄ kuán lí tǹg-sî ē tńg-lâi",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "其實我嘛不知影為怎樣為怎樣憨憨等待",
+      "spelling": "kî-si̍t guá mah m̄-tsai-iánn uî-tsuánn-iūnn uî-tsuánn-iūnn gōng gōng tán-thāi",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "你是我唯一的愛",
+      "spelling": "lí sī guá uî-it-ê ài",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "底你的心肝內                        是不是還有我的存在",
+      "spelling": "tí lí ê sim-kuann lāi            sī m̄ sī koh-ū guá ê tsûn-tsāi",
+      "source_lines": [
+        73,
+        74
+      ],
+      "parts": [
+        {
+          "text": "底你的心肝內",
+          "spelling": "tí lí ê sim-kuann lāi"
+        },
+        {
+          "text": "是不是還有我的存在",
+          "spelling": "sī m̄ sī koh-ū guá ê tsûn-tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "永遠攏底等                           有時陣嘛會不甘願",
+      "spelling": "íng-uán lóng té tán            ū-sî tsūn mah ē m̄-kam-guān",
+      "source_lines": [
+        76,
+        77
+      ],
+      "parts": [
+        {
+          "text": "永遠攏底等",
+          "spelling": "íng-uán lóng té tán"
+        },
+        {
+          "text": "有時陣嘛會不甘願",
+          "spelling": "ū-sî tsūn mah ē m̄-kam-guān"
+        }
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "想講要作伙飛                                    去一個心中美麗的所在",
+      "spelling": "siūnn kóng beh tsò-hué pue        khì tsi̍t ê sim-tiong bí-lē ê sóo-tsāi",
+      "source_lines": [
+        79,
+        80
+      ],
+      "parts": [
+        {
+          "text": "想講要作伙飛",
+          "spelling": "siūnn kóng beh tsò-hué pue"
+        },
+        {
+          "text": "去一個心中美麗的所在",
+          "spelling": "khì tsi̍t ê sim-tiong bí-lē ê sóo-tsāi"
+        }
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "所有的一切                      攏總尬你放作夥",
+      "spelling": "sóo-ú ê it-tshè                lóng tsóng kā lí khǹg tsò-hué",
+      "source_lines": [
+        82,
+        83
+      ],
+      "parts": [
+        {
+          "text": "所有的一切",
+          "spelling": "sóo-ú ê it-tshè"
+        },
+        {
+          "text": "攏總尬你放作夥",
+          "spelling": "lóng tsóng kā lí khǹg tsò-hué"
+        }
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "希望你 會當了解                        為著你 我一定等",
+      "spelling": "hi-bāng lí ē-tàng liáu-kái        uī-tio̍h lí guá it-tīng tán",
+      "source_lines": [
+        85,
+        86
+      ],
+      "parts": [
+        {
+          "text": "希望你 會當了解",
+          "spelling": "hi-bāng lí ē-tàng liáu-kái"
+        },
+        {
+          "text": "為著你 我一定等",
+          "spelling": "uī-tio̍h lí guá it-tīng tán"
+        }
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

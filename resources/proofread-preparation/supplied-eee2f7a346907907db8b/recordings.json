@@ -1,0 +1,615 @@
+{
+  "candidates": [
+    {
+      "song_id": 1941639510,
+      "title": "彼岸花",
+      "artists": [
+        "周深"
+      ],
+      "album": "问天录 电视原声专辑",
+      "duration": 257.027,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 299594,
+      "title": "彼岸花",
+      "artists": [
+        "王菲"
+      ],
+      "album": "寓言",
+      "duration": 316.706,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 27556052,
+      "title": "彼岸花",
+      "artists": [
+        "DeZI:R",
+        "巡音ルカ"
+      ],
+      "album": "花鳥風月",
+      "duration": 291.213,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2010941300,
+      "title": "彼岸花",
+      "artists": [
+        "艾克斯Dragon"
+      ],
+      "album": "BAI",
+      "duration": 194.181,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2730514822,
+      "title": "彼岸花",
+      "artists": [
+        "邓千荧"
+      ],
+      "album": "彼岸花",
+      "duration": 260.217,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2650762347,
+      "title": "彼岸花",
+      "artists": [
+        "陈斯瑞ChansReal"
+      ],
+      "album": "彼岸花",
+      "duration": 148.131,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1345688374,
+      "title": "彼岸花",
+      "artists": [
+        "刘小乐"
+      ],
+      "album": "爱情诗",
+      "duration": 246.752,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 532931,
+      "title": "彼岸花",
+      "artists": [
+        "高梨康治"
+      ],
+      "album": "地狱少女 二笼 オリジナルサウンドトラック",
+      "duration": 112.226,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1337579884,
+      "title": "彼岸花",
+      "artists": [
+        "璐璐吖"
+      ],
+      "album": "彼岸花",
+      "duration": 238.68,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1393247018,
+      "title": "彼岸花",
+      "artists": [
+        "印良法师"
+      ],
+      "album": "行愿吉祥",
+      "duration": 238.811,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3345795653,
+      "title": "彼岸花",
+      "artists": [
+        "邹晔Ganny"
+      ],
+      "album": "彼岸花",
+      "duration": 225.156,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2726062206,
+      "title": "彼岸花",
+      "artists": [
+        "孤独",
+        "洛天依"
+      ],
+      "album": "彼岸花",
+      "duration": 165.428,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1909139816,
+      "title": "彼岸花",
+      "artists": [
+        "李健"
+      ],
+      "album": "彼岸花",
+      "duration": 158.521,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1941639510,
+      "title": "彼岸花",
+      "artists": [
+        "周深"
+      ],
+      "album": "问天录 电视原声专辑",
+      "duration": 257.027,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 299594,
+      "title": "彼岸花",
+      "artists": [
+        "王菲"
+      ],
+      "album": "寓言",
+      "duration": 316.706,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 27556052,
+      "title": "彼岸花",
+      "artists": [
+        "DeZI:R",
+        "巡音ルカ"
+      ],
+      "album": "花鳥風月",
+      "duration": 291.213,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2010941300,
+      "title": "彼岸花",
+      "artists": [
+        "艾克斯Dragon"
+      ],
+      "album": "BAI",
+      "duration": 194.181,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2730514822,
+      "title": "彼岸花",
+      "artists": [
+        "邓千荧"
+      ],
+      "album": "彼岸花",
+      "duration": 260.217,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2650762347,
+      "title": "彼岸花",
+      "artists": [
+        "陈斯瑞ChansReal"
+      ],
+      "album": "彼岸花",
+      "duration": 148.131,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1345688374,
+      "title": "彼岸花",
+      "artists": [
+        "刘小乐"
+      ],
+      "album": "爱情诗",
+      "duration": 246.752,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 532931,
+      "title": "彼岸花",
+      "artists": [
+        "高梨康治"
+      ],
+      "album": "地狱少女 二笼 オリジナルサウンドトラック",
+      "duration": 112.226,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1337579884,
+      "title": "彼岸花",
+      "artists": [
+        "璐璐吖"
+      ],
+      "album": "彼岸花",
+      "duration": 238.68,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1393247018,
+      "title": "彼岸花",
+      "artists": [
+        "印良法师"
+      ],
+      "album": "行愿吉祥",
+      "duration": 238.811,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3345795653,
+      "title": "彼岸花",
+      "artists": [
+        "邹晔Ganny"
+      ],
+      "album": "彼岸花",
+      "duration": 225.156,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2726062206,
+      "title": "彼岸花",
+      "artists": [
+        "孤独",
+        "洛天依"
+      ],
+      "album": "彼岸花",
+      "duration": 165.428,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1909139816,
+      "title": "彼岸花",
+      "artists": [
+        "李健"
+      ],
+      "album": "彼岸花",
+      "duration": 158.521,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 299594,
+      "title": "彼岸花",
+      "artists": [
+        "王菲"
+      ],
+      "album": "寓言",
+      "duration": 316.706,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2010941300,
+      "title": "彼岸花",
+      "artists": [
+        "艾克斯Dragon"
+      ],
+      "album": "BAI",
+      "duration": 194.181,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2650762347,
+      "title": "彼岸花",
+      "artists": [
+        "陈斯瑞ChansReal"
+      ],
+      "album": "彼岸花",
+      "duration": 148.131,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 532931,
+      "title": "彼岸花",
+      "artists": [
+        "高梨康治"
+      ],
+      "album": "地狱少女 二笼 オリジナルサウンドトラック",
+      "duration": 112.226,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 531343949,
+      "title": "彼岸花",
+      "artists": [
+        "洛天依Official"
+      ],
+      "album": "彼岸花",
+      "duration": 232.345,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3345795653,
+      "title": "彼岸花",
+      "artists": [
+        "邹晔Ganny"
+      ],
+      "album": "彼岸花",
+      "duration": 225.156,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1941639510,
+      "title": "彼岸花",
+      "artists": [
+        "周深"
+      ],
+      "album": "问天录 电视原声专辑",
+      "duration": 257.027,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 27556052,
+      "title": "彼岸花",
+      "artists": [
+        "DeZI:R",
+        "巡音ルカ"
+      ],
+      "album": "花鳥風月",
+      "duration": 291.213,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 34204334,
+      "title": "彼岸花",
+      "artists": [
+        "森昌子"
+      ],
+      "album": "続・人間万葉歌~阿久悠 作詞集",
+      "duration": 249.884,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2730514822,
+      "title": "彼岸花",
+      "artists": [
+        "邓千荧"
+      ],
+      "album": "彼岸花",
+      "duration": 260.217,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1532278857",
+      "title": "彼岸花",
+      "artists": [
+        "一步乐团"
+      ],
+      "album": "刺鸟",
+      "duration": 133.013,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1805560318",
+      "title": "彼岸花",
+      "artists": [
+        "刘小乐"
+      ],
+      "album": "爱情诗 - Single",
+      "duration": 246.703,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1591051481",
+      "title": "彼岸花",
+      "artists": [
+        "宋孟君 & 唐千云"
+      ],
+      "album": "彼岸花 - Single",
+      "duration": 190.476,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1433483291",
+      "title": "彼岸花",
+      "artists": [
+        "尚雯婕"
+      ],
+      "album": "黑金",
+      "duration": 222.667,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1273628253",
+      "title": "彼岸花",
+      "artists": [
+        "Rica Matsumoto"
+      ],
+      "album": "顔晴れワッショイ! - EP",
+      "duration": 257.587,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1788784871",
+      "title": "彼岸花",
+      "artists": [
+        "楸"
+      ],
+      "album": "小夜曲",
+      "duration": 159.977,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30584639,
+      "title": "彼岸花",
+      "artists": [
+        "幽闭サテライト"
+      ],
+      "album": "カフカなる群青へ",
+      "duration": 252.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 16804318,
+      "title": "彼岸花",
+      "artists": [
+        "senya"
+      ],
+      "album": "カフカなる群青へ",
+      "duration": 251.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 13684026,
+      "title": "彼岸花",
+      "artists": [
+        "YoungQueenz"
+      ],
+      "album": "神隱 Spirited Away",
+      "duration": 167.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 13976681,
+      "title": "彼岸花",
+      "artists": [
+        "何洁"
+      ],
+      "album": "解忧公主 电视剧原声带",
+      "duration": 300.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 13987415,
+      "title": "彼岸花",
+      "artists": [
+        "Wong, Faye"
+      ],
+      "album": "寓言",
+      "duration": 317.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 15816777,
+      "title": "彼岸花",
+      "artists": [
+        "幽閉サテライト"
+      ],
+      "album": "カフカなる群青へ",
+      "duration": 251.586667,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 24958317,
+      "title": "彼岸花",
+      "artists": [
+        "Faye Wong"
+      ],
+      "album": "2010演唱會主題曲目",
+      "duration": 316.764,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 22249294,
+      "title": "彼岸花",
+      "artists": [
+        "AvelCain"
+      ],
+      "album": "ID",
+      "duration": 319.111837,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 11282113,
+      "title": "彼岸花",
+      "artists": [
+        "Faye Wong"
+      ],
+      "album": "寓言",
+      "duration": 317.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 12552910,
+      "title": "彼岸花",
+      "artists": [
+        "欧阳朵"
+      ],
+      "album": "彼岸花",
+      "duration": 199.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 35523472,
+      "title": "彼岸花",
+      "artists": [
+        "宋孟君"
+      ],
+      "album": "彼岸花",
+      "duration": 241.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 38009138,
+      "title": "彼岸花",
+      "artists": [
+        "Faye Wong 王菲"
+      ],
+      "album": "寓言",
+      "duration": 317.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 38737001,
+      "title": "彼岸花",
+      "artists": [
+        "王菲 (Faye Wong)"
+      ],
+      "album": "寓言 (Fable)",
+      "duration": 317.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

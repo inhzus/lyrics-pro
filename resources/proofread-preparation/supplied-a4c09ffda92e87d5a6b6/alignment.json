@@ -1,0 +1,350 @@
+{
+  "recording_id": "netease:248703",
+  "timing_source": "NetEase https://music.163.com/song?id=248703",
+  "manual_source": "User-supplied resources/lyrics-spelling/電車內面-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 1,
+    "approximate": 1,
+    "exact": 12,
+    "unresolved": 4,
+    "repeat": 8
+  },
+  "review_row_count": 5,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-25:0",
+    "line-37:0",
+    "line-43:0",
+    "line-55:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 巫宇轩",
+      "match_text": "作词 : 巫宇轩",
+      "text": "作词 : 巫宇轩",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 23.06,
+      "online_text": "坐置电车内面 对面一个女人",
+      "match_text": "坐置电车内面 对面一个女人",
+      "text": "坐置電車內面 對面一個女人",
+      "spelling": "tsē tì tiān-tshia lāi-bīn tuì-bīn tsi̍t ê lú-lîn",
+      "manual_id": "line-1:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.916667
+    },
+    {
+      "source_row": 2,
+      "time": 33.5,
+      "online_text": "提着一卡行李 不知欲去叨位",
+      "match_text": "提着一卡行李 不知欲去叨位",
+      "text": "提著一卡行李 不知欲去叨位",
+      "spelling": "kuānn-tio̍h tsi̍t-khá hîng-lí m̄ tsai beh khì tó-uī",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 43.66,
+      "online_text": "电话声响起 伊缓缓打开手机",
+      "match_text": "电话声响起 伊缓缓打开手机",
+      "text": "電話聲響起 伊緩緩打開手機",
+      "spelling": "tiān-uē siann hiáng-khí i khuann-khuann phah-khui tshiú-ki",
+      "manual_id": "line-7:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 54.3,
+      "online_text": "讲无两字 目屎流袂离 惊人看见",
+      "match_text": "讲无两字 目屎流袂离 惊人看见",
+      "text": "講無兩字 目屎流袂離 驚人看見",
+      "spelling": "kóng bô nn̄g jī ba̍k-sái lâu buē lī kiann-lâng khuànn-kìnn",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 73.52,
+      "online_text": "坐置电车内面 彼边一对男女",
+      "match_text": "坐置电车内面 彼边一对男女",
+      "text": "坐置電車內面 彼邊一對男女",
+      "spelling": "tsē tì tiān-tshia lāi-bīn hit bīn tsi̍t tuì lâm-lí",
+      "manual_id": "line-13:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 84.51,
+      "online_text": "共款一卡行李 不知欲去叨位",
+      "match_text": "共款一卡行李 不知欲去叨位",
+      "text": "共款一卡行李 不知欲去叨位",
+      "spelling": "kāng-khuán tsi̍t-khá hîng-lí m̄ tsai beh khì tó-uī",
+      "manual_id": "line-16:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 94.7,
+      "online_text": "拿一叠相片 怹 那看那偎那甜",
+      "match_text": "拿一叠相片 怹 那看那偎那甜",
+      "text": "拿一疊相片 怹 那看那偎那甜",
+      "spelling": "the̍h tsi̍t tha̍h siòng-phìnn i ná khuànn ná uá ná tinn",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 105.04,
+      "online_text": "讲话咬耳 愈笑愈欢喜 像无人看见",
+      "match_text": "讲话咬耳 愈笑愈欢喜 像无人看见",
+      "text": "講話咬耳 愈笑愈歡喜 像無人看見",
+      "spelling": "kóng-uē kā hīnn lú tshiò lú huann-hí tshiūnn bô-lâng khuànn-kìnn",
+      "manual_id": "line-22:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 135.01,
+      "online_text": "电车载咱离开 这个城市",
+      "match_text": "电车载咱离开 这个城市",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 142.06,
+      "online_text": "带着无共款的记持",
+      "match_text": "带着无共款的记持",
+      "text": "帶著無共款的記持",
+      "spelling": "tsah-tio̍h bô kāng-khuán ê kì-tî",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 147.62,
+      "online_text": "是春天的花蕊 是冬天落雨暝",
+      "match_text": "是春天的花蕊 是冬天落雨暝",
+      "text": "是春天的花蕊 是冬天落雨暝",
+      "spelling": "sī tshun-thinn ê hue-luí sī tang-thinn lo̍h-hōo mî",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 153.39,
+      "online_text": "是秋天枯叶落土望新芽",
+      "match_text": "是秋天枯叶落土望新芽",
+      "text": "是秋天枯葉落土望新芽",
+      "spelling": "sī tshiu-thinn ta-hio̍h lo̍h-thóo bāng sin ínn",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 158.3,
+      "online_text": "人讲人生一出戏 好坏目一睨",
+      "match_text": "人讲人生一出戏 好坏目一睨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 163.61,
+      "online_text": "主角是我亦是你",
+      "match_text": "主角是我亦是你",
+      "text": "主角是我亦是你",
+      "spelling": "tsú-kak sī guá ia̍h-sī lí",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 15,
+      "time": 192.91,
+      "online_text": "电车载咱离开 这个城市",
+      "match_text": "电车载咱离开 这个城市",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 199.56,
+      "online_text": "带着无共款的记持",
+      "match_text": "带着无共款的记持",
+      "text": "帶著無共款的記持",
+      "spelling": "tsah-tio̍h bô kāng-khuán ê kì-tî",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 205.5,
+      "online_text": "是春天的花蕊 是冬天落雨暝",
+      "match_text": "是春天的花蕊 是冬天落雨暝",
+      "text": "是春天的花蕊 是冬天落雨暝",
+      "spelling": "sī tshun-thinn ê hue-luí sī tang-thinn lo̍h-hōo mî",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 211.02,
+      "online_text": "是秋天枯叶落土望新芽",
+      "match_text": "是秋天枯叶落土望新芽",
+      "text": "是秋天枯葉落土望新芽",
+      "spelling": "sī tshiu-thinn ta-hio̍h lo̍h-thóo bāng sin ínn",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 216.0,
+      "online_text": "人讲人生一出戏 好坏目一睨",
+      "match_text": "人讲人生一出戏 好坏目一睨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 221.35,
+      "online_text": "主角是我亦是你",
+      "match_text": "主角是我亦是你",
+      "text": "主角是我亦是你",
+      "spelling": "tsú-kak sī guá ia̍h-sī lí",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 229.99,
+      "online_text": "坐置电车内面 想起彼年秋天",
+      "match_text": "坐置电车内面 想起彼年秋天",
+      "text": "坐置電車內面 想起彼年秋天",
+      "spelling": "tsē tì tiān-tshia lāi-bīn siūnn-khí hit nî tshiu-thinn",
+      "manual_id": "line-61:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 240.61,
+      "online_text": "我提一卡行李 不知欲去叨位",
+      "match_text": "我提一卡行李 不知欲去叨位",
+      "text": "我提一卡行李 不知欲去叨位",
+      "spelling": "guá kuānn tsi̍t-khá hîng-lí m̄ tsai beh khì tó-uī",
+      "manual_id": "line-64:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 250.67,
+      "online_text": "只想欲离开 彼时拿相片的伊",
+      "match_text": "只想欲离开 彼时拿相片的伊",
+      "text": "只想欲離開 彼時拿相片的伊",
+      "spelling": "tsí siūnn-beh lī-khui hit sî the̍h siòng-phìnn ê i",
+      "manual_id": "line-67:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 261.27,
+      "online_text": "无情的冷气 目屎流乾墘 惊人看见",
+      "match_text": "无情的冷气 目屎流乾墘 惊人看见",
+      "text": "無情的冷氣 目屎流乾墘 驚人看見",
+      "spelling": "bô-tsîng ê líng-khì ba̍k-sái lâu ta kînn kiann-lâng khuànn-kìnn",
+      "manual_id": "line-70:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 275.94,
+      "online_text": "电车载咱离开 抑是载咱返去",
+      "match_text": "电车载咱离开 抑是载咱返去",
+      "text": "電車載咱離開 抑是載咱返去",
+      "spelling": "tiān-tshia tsài lán lī-khui ia̍h-sī tsài lán tńg-khì",
+      "manual_id": "line-73:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "d655070588ecb901545244077e523a997f71ae9488904eac256e6b45886ad46e",
+    "manual": "b19d2354a9cd5e664d7189b56021ea5a5ac246fe58630489fdc87352c274b29e",
+    "timed": "3b65e7fe3819ca11e695a6253ecd3284156cfef5e3f8669f5ce4cec71978e766"
+  }
+}

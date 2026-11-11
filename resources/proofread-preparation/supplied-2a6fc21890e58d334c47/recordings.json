@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 10759065,
+      "title": "哎唷喂呀",
+      "artists": [
+        "Zhang Zhen Yue"
+      ],
+      "album": "我是海雅谷慕",
+      "duration": 221.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

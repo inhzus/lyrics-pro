@@ -1,0 +1,223 @@
+{
+  "recording_id": "lrclib:17912095",
+  "timing_source": "LRCLIB https://lrclib.net/api/get/17912095",
+  "manual_source": "User-supplied resources/lyrics-spelling/法蘭黛樂團 (Frandé) – 桂花巷-法蘭黛樂團",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "unresolved": 8,
+    "exact": 2,
+    "approximate": 1,
+    "repeat": 1,
+    "gap": 1
+  },
+  "review_row_count": 11,
+  "unmatched_manual_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-22:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0"
+  ],
+  "unused_repeat_ids": [
+    "line-43:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0",
+    "line-58:0",
+    "line-64:0",
+    "line-67:0",
+    "line-70:0",
+    "line-73:0",
+    "line-76:0",
+    "line-79:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 27.59,
+      "online_text": "想我一生的運命 親像風吹打斷線",
+      "match_text": "想我一生的運命 親像風吹打斷線",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 1,
+      "time": 41.06,
+      "online_text": "隨風浮沈沒依偎 這山飄浪過彼山",
+      "match_text": "隨風浮沈沒依偎 這山飄浪過彼山",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 2,
+      "time": 55.08,
+      "online_text": "一旦落土低頭看 只存枝骨身已爛",
+      "match_text": "一旦落土低頭看 只存枝骨身已爛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 69.37,
+      "online_text": "啊 只存枝骨身已爛",
+      "match_text": "啊 只存枝骨身已爛",
+      "text": "啊 只存枝骨身已爛",
+      "spelling": "ah tsí tsûn ki kut sin í nuā",
+      "manual_id": "line-19:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 111.72,
+      "online_text": "花朵再醜也再開一次 偏偏春風等袂來",
+      "match_text": "花朵再醜也再開一次 偏偏春風等袂來",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 125.72,
+      "online_text": "只要根頭猶原在 不怕枝頭受風颱",
+      "match_text": "只要根頭猶原在 不怕枝頭受風颱",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 140.17,
+      "online_text": "誰知花等人採 已經霜降日落西",
+      "match_text": "誰知花等人採 已經霜降日落西",
+      "text": "已經霜降日落西",
+      "spelling": "í-king sng-kàng li̍t-lo̍h sai",
+      "manual_id": "line-37:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.7
+    },
+    {
+      "source_row": 7,
+      "time": 154.06,
+      "online_text": "啊 已經霜降日落西",
+      "match_text": "啊 已經霜降日落西",
+      "text": "啊 已經霜降日落西",
+      "spelling": "ah í-king sng-kàng li̍t-lo̍h sai",
+      "manual_id": "line-40:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 8,
+      "time": 196.24,
+      "online_text": "風吹身軀桂花命 若來想起心就痛",
+      "match_text": "風吹身軀桂花命 若來想起心就痛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 210.36,
+      "online_text": "恩怨如煙皆當歡 禍福當作天註定",
+      "match_text": "恩怨如煙皆當歡 禍福當作天註定",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 224.41,
+      "online_text": "往事何必回頭看 把它當作夢一般",
+      "match_text": "往事何必回頭看 把它當作夢一般",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 238.36,
+      "online_text": "啊 把它當作夢一般",
+      "match_text": "啊 把它當作夢一般",
+      "text": "啊 把它當作夢一般",
+      "spelling": "ah kā i tsuè-tsò bāng tsi̍t-puann",
+      "manual_id": "line-61:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 338.48,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "697fe1756c01cc26d1871bb33b883ae15b58d626c0df8abafdd02168ee3e669a",
+    "manual": "6d830c46477d8ae0ae9f734130ad31dcf72b31adc374aa36a8158ce8416257fa",
+    "timed": "7b0fa2a8d7a48f390d8356fa082efd737028d1781909eee48d3091a926dea136"
+  }
+}

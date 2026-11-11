@@ -1,0 +1,513 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "One",
+      "spelling": "One",
+      "source_lines": [
+        3,
+        3
+      ],
+      "parts": [
+        {
+          "text": "One",
+          "spelling": "One"
+        }
+      ],
+      "verbatim_latin": true
+    },
+    {
+      "id": "line-4",
+      "text": "Two",
+      "spelling": "Two",
+      "source_lines": [
+        4,
+        4
+      ],
+      "parts": [
+        {
+          "text": "Two",
+          "spelling": "Two"
+        }
+      ],
+      "verbatim_latin": true
+    },
+    {
+      "id": "line-5",
+      "text": "One Two Three Four",
+      "spelling": "One Two Three Four",
+      "source_lines": [
+        5,
+        5
+      ],
+      "parts": [
+        {
+          "text": "One Two Three Four",
+          "spelling": "One Two Three Four"
+        }
+      ],
+      "verbatim_latin": true
+    },
+    {
+      "id": "line-7",
+      "text": "頭前的小姐實在生作足幼齒",
+      "spelling": "thâu-tsîng ê sió-tsiá si̍t-tsāi senn tsoh tsiok iù-khí",
+      "source_lines": [
+        7,
+        8
+      ],
+      "parts": [
+        {
+          "text": "頭前的小姐實在生作足幼齒",
+          "spelling": "thâu-tsîng ê sió-tsiá si̍t-tsāi senn tsoh tsiok iù-khí"
+        }
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "皮肉粉粉又擱點胭脂",
+      "spelling": "phuê-bah hún hún iū khè tiám ian-tsi",
+      "source_lines": [
+        10,
+        11
+      ],
+      "parts": [
+        {
+          "text": "皮肉粉粉又擱點胭脂",
+          "spelling": "phuê-bah hún hún iū khè tiám ian-tsi"
+        }
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "行路實在有影足有味",
+      "spelling": "kiânn-lōo si̍t-tsāi ū iánn tsiok ū bī",
+      "source_lines": [
+        13,
+        14
+      ],
+      "parts": [
+        {
+          "text": "行路實在有影足有味",
+          "spelling": "kiânn-lōo si̍t-tsāi ū iánn tsiok ū bī"
+        }
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "扭來扭去看得心花開",
+      "spelling": "ngiú lâi ngiú khì khuànn tio̍h sim-hue-khui",
+      "source_lines": [
+        16,
+        17
+      ],
+      "parts": [
+        {
+          "text": "扭來扭去看得心花開",
+          "spelling": "ngiú lâi ngiú khì khuànn tio̍h sim-hue-khui"
+        }
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "頭前的小姐實在大方擱伶俐",
+      "spelling": "thâu-tsîng ê sió-tsiá si̍t-tsāi tāi hng khè líng-lī",
+      "source_lines": [
+        19,
+        20
+      ],
+      "parts": [
+        {
+          "text": "頭前的小姐實在大方擱伶俐",
+          "spelling": "thâu-tsîng ê sió-tsiá si̍t-tsāi tāi hng khè líng-lī"
+        }
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "頭毛黑金又擱有香味",
+      "spelling": "thâu-mn̂g oo-kim iū khè ū phang-bī",
+      "source_lines": [
+        22,
+        23
+      ],
+      "parts": [
+        {
+          "text": "頭毛黑金又擱有香味",
+          "spelling": "thâu-mn̂g oo-kim iū khè ū phang-bī"
+        }
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "紅紅的嘴唇甲白白的嘴齒",
+      "spelling": "âng âng ê tshuì tûn kah pe̍h pe̍h ê tshuì-khí",
+      "source_lines": [
+        25,
+        26
+      ],
+      "parts": [
+        {
+          "text": "紅紅的嘴唇甲白白的嘴齒",
+          "spelling": "âng âng ê tshuì tûn kah pe̍h pe̍h ê tshuì-khí"
+        }
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "看來看去也是你最美",
+      "spelling": "khuànn lâi khuànn khì iā sī lí siōng súi",
+      "source_lines": [
+        28,
+        29
+      ],
+      "parts": [
+        {
+          "text": "看來看去也是你最美",
+          "spelling": "khuànn lâi khuànn khì iā sī lí siōng súi"
+        }
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "小姐小姐請你無免驚",
+      "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann",
+      "source_lines": [
+        31,
+        32
+      ],
+      "parts": [
+        {
+          "text": "小姐小姐請你無免驚",
+          "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann"
+        }
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "我不是人咧講的彼款流氓",
+      "spelling": "guá m̄ sī lâng leh kóng ê hit khuán lôo-muâ",
+      "source_lines": [
+        34,
+        35
+      ],
+      "parts": [
+        {
+          "text": "我不是人咧講的彼款流氓",
+          "spelling": "guá m̄ sī lâng leh kóng ê hit khuán lôo-muâ"
+        }
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "平常時雖然我真愛臭彈",
+      "spelling": "pîng-siông-sî sui-liân guá tsin ài tshàu-tuānn",
+      "source_lines": [
+        37,
+        38
+      ],
+      "parts": [
+        {
+          "text": "平常時雖然我真愛臭彈",
+          "spelling": "pîng-siông-sî sui-liân guá tsin ài tshàu-tuānn"
+        }
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "看到美麗姑娘我攏不知要按怎",
+      "spelling": "khuànn-tio̍h bí-lē koo-niû guá lóng m̄ tsai beh án-tsuánn",
+      "source_lines": [
+        40,
+        41
+      ],
+      "parts": [
+        {
+          "text": "看到美麗姑娘我攏不知要按怎",
+          "spelling": "khuànn-tio̍h bí-lē koo-niû guá lóng m̄ tsai beh án-tsuánn"
+        }
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "要按怎",
+      "spelling": "beh án-tsuánn",
+      "source_lines": [
+        43,
+        44
+      ],
+      "parts": [
+        {
+          "text": "要按怎",
+          "spelling": "beh án-tsuánn"
+        }
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "雖然我冊是讀無多少",
+      "spelling": "sui-liân guá tsheh sī tha̍k bô guā-tsē",
+      "source_lines": [
+        46,
+        47
+      ],
+      "parts": [
+        {
+          "text": "雖然我冊是讀無多少",
+          "spelling": "sui-liân guá tsheh sī tha̍k bô guā-tsē"
+        }
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "人生到今嘛也二三十歲",
+      "spelling": "jîn-sing kàu kim mah iā jī sann tsa̍p huè",
+      "source_lines": [
+        49,
+        50
+      ],
+      "parts": [
+        {
+          "text": "人生到今嘛也二三十歲",
+          "spelling": "jîn-sing kàu kim mah iā jī sann tsa̍p huè"
+        }
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "不過我是一個善良的老百姓",
+      "spelling": "m̄-koh guá sī tsi̍t ê siān-liông ê lāu peh-sènn",
+      "source_lines": [
+        52,
+        53
+      ],
+      "parts": [
+        {
+          "text": "不過我是一個善良的老百姓",
+          "spelling": "m̄-koh guá sī tsi̍t ê siān-liông ê lāu peh-sènn"
+        }
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "飲酒了後我嘛未黑白花",
+      "spelling": "ím tsiú liáu āu guá mah bē oo-pe̍h hue",
+      "source_lines": [
+        55,
+        56
+      ],
+      "parts": [
+        {
+          "text": "飲酒了後我嘛未黑白花",
+          "spelling": "ím tsiú liáu āu guá mah bē oo-pe̍h hue"
+        }
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "小姐小姐請你無免驚",
+      "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann",
+      "source_lines": [
+        58,
+        59
+      ],
+      "parts": [
+        {
+          "text": "小姐小姐請你無免驚",
+          "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann"
+        }
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "我不是人咧講的彼款流氓",
+      "spelling": "guá m̄ sī lâng leh kóng ê hit khuán lôo-muâ",
+      "source_lines": [
+        61,
+        62
+      ],
+      "parts": [
+        {
+          "text": "我不是人咧講的彼款流氓",
+          "spelling": "guá m̄ sī lâng leh kóng ê hit khuán lôo-muâ"
+        }
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "平常時雖然我真愛臭彈",
+      "spelling": "pîng-siông-sî sui-liân guá tsin ài tshàu-tuānn",
+      "source_lines": [
+        64,
+        65
+      ],
+      "parts": [
+        {
+          "text": "平常時雖然我真愛臭彈",
+          "spelling": "pîng-siông-sî sui-liân guá tsin ài tshàu-tuānn"
+        }
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "看到美麗姑娘我攏不知要按怎",
+      "spelling": "khuànn-tio̍h bí-lē koo-niû guá lóng m̄ tsai beh án-tsuánn",
+      "source_lines": [
+        67,
+        68
+      ],
+      "parts": [
+        {
+          "text": "看到美麗姑娘我攏不知要按怎",
+          "spelling": "khuànn-tio̍h bí-lē koo-niû guá lóng m̄ tsai beh án-tsuánn"
+        }
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "要按怎",
+      "spelling": "beh án-tsuánn",
+      "source_lines": [
+        70,
+        71
+      ],
+      "parts": [
+        {
+          "text": "要按怎",
+          "spelling": "beh án-tsuánn"
+        }
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "小姐小姐請你無免驚            小姐小姐請你無免驚",
+      "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann    sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann",
+      "source_lines": [
+        73,
+        74
+      ],
+      "parts": [
+        {
+          "text": "小姐小姐請你無免驚",
+          "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann"
+        },
+        {
+          "text": "小姐小姐請你無免驚",
+          "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann"
+        }
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "小姐小姐請你無免驚            小姐小姐請你無免驚",
+      "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann    sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann",
+      "source_lines": [
+        76,
+        77
+      ],
+      "parts": [
+        {
+          "text": "小姐小姐請你無免驚",
+          "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann"
+        },
+        {
+          "text": "小姐小姐請你無免驚",
+          "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann"
+        }
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "小姐小姐請你無免驚            小姐小姐小姐無免驚無免驚",
+      "spelling": "sió-tsiá sió-tsiá tshiánn lí án-tsuánn        sió-tsiá sió-tsiá tshiánn m̄ bián-kiann m̄ bián-kiann",
+      "source_lines": [
+        79,
+        80
+      ],
+      "parts": [
+        {
+          "text": "小姐小姐請你無免驚",
+          "spelling": "sió-tsiá sió-tsiá tshiánn lí án-tsuánn"
+        },
+        {
+          "text": "小姐小姐小姐無免驚無免驚",
+          "spelling": "sió-tsiá sió-tsiá tshiánn m̄ bián-kiann m̄ bián-kiann"
+        }
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "小姐小姐小姐我不甲你按怎        小姐小姐小姐無免驚無免驚",
+      "spelling": "sió-tsiá sió-tsiá guá bē kah lí án-tsuánn    sió-tsiá sió-tsiá tshiánn m̄ bián-kiann m̄ bián-kiann",
+      "source_lines": [
+        82,
+        83
+      ],
+      "parts": [
+        {
+          "text": "小姐小姐小姐我不甲你按怎",
+          "spelling": "sió-tsiá sió-tsiá guá bē kah lí án-tsuánn"
+        },
+        {
+          "text": "小姐小姐小姐無免驚無免驚",
+          "spelling": "sió-tsiá sió-tsiá tshiánn m̄ bián-kiann m̄ bián-kiann"
+        }
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "小姐小姐小姐我不甲你按怎         小姐小姐請你無免驚",
+      "spelling": "sió-tsiá sió-tsiá guá bē kah lí án-tsuánn    sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann",
+      "source_lines": [
+        85,
+        86
+      ],
+      "parts": [
+        {
+          "text": "小姐小姐小姐我不甲你按怎",
+          "spelling": "sió-tsiá sió-tsiá guá bē kah lí án-tsuánn"
+        },
+        {
+          "text": "小姐小姐請你無免驚",
+          "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann"
+        }
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "小姐小姐請你無免驚            小姐小姐請你無免驚",
+      "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann    sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann",
+      "source_lines": [
+        88,
+        89
+      ],
+      "parts": [
+        {
+          "text": "小姐小姐請你無免驚",
+          "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann"
+        },
+        {
+          "text": "小姐小姐請你無免驚",
+          "spelling": "sió-tsiá sió-tsiá tshiánn lí m̄ bián-kiann"
+        }
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "小姐小姐",
+      "spelling": "sió-tsiá sió-tsiá",
+      "source_lines": [
+        91,
+        92
+      ],
+      "parts": [
+        {
+          "text": "小姐小姐",
+          "spelling": "sió-tsiá sió-tsiá"
+        }
+      ]
+    }
+  ],
+  "repairs": [],
+  "notes": []
+}

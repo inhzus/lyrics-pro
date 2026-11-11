@@ -1,0 +1,304 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "月落啊 烏啼霜滿天",
+      "spelling": "gue̍h lo̍h ah oo thî sng muá-thian",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "江楓啊 漁火對愁眠",
+      "spelling": "kang png ah hî hué tuì tshiû bîn",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "雲沉狼煙悽涼味",
+      "spelling": "hûn tîm lông ian tshi liâng bī",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "夜半蟲聲罩四邊",
+      "spelling": "iā-puànn thâng siann khàm sì-pîng",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "秋涼蕭瑟風微微",
+      "spelling": "tshiu liâng siau sik hong bî-bî",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "杯酒狼籍醉歸暝",
+      "spelling": "pue tsiú lông tsi̍k tsuì kui-mî",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "黑夜流星對明月",
+      "spelling": "oo-iā liû-tshinn tuì bîng-gue̍h",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "捧杯敬月嘜相推",
+      "spelling": "phâng pue kìng gue̍h mài sio the",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "珍惜今夜訴情話",
+      "spelling": "tin-sioh kim-iā sòo tsîng uē",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "把酒瀟灑乾一杯",
+      "spelling": "ka tsiú siau-suān ta tsi̍t pue",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "望啊望啊望相會",
+      "spelling": "bāng ah bāng ah bāng siong-huē",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "嘜講傷心話",
+      "spelling": "mài kóng siong-sim uē",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "等啊等啊等你陪",
+      "spelling": "tán ah tán ah tán lí puê",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "等到孤雁飛",
+      "spelling": "tán-kàh koo-gān pue",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "月落烏啼霜滿天",
+      "spelling": "gue̍h lo̍h oo thî sng muá-thian",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "雲沉狼煙悽涼味",
+      "spelling": "hûn tîm lông ian tshi liâng bī",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "夜半蟲聲罩四邊",
+      "spelling": "iā-puànn thâng siann khàm sì-pîng",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "秋涼蕭瑟風微微",
+      "spelling": "tshiu liâng siau sik hong bî-bî",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "杯酒狼籍醉歸暝",
+      "spelling": "pue tsiú lông tsi̍k tsuì kui-mî",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "黑夜流星對明月",
+      "spelling": "oo-iā liû-tshinn tuì bîng-gue̍h",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "捧杯敬月嘜相推",
+      "spelling": "phâng pue kìng gue̍h mài sio the",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "珍惜今夜訴情話",
+      "spelling": "tin-sioh kim-iā sòo tsîng uē",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "把酒瀟灑乾一杯",
+      "spelling": "ka tsiú siau-suān ta tsi̍t pue",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "望啊望啊望相會",
+      "spelling": "bāng ah bāng ah bāng siong-huē",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "嘜講傷心話",
+      "spelling": "mài kóng siong-sim uē",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "等啊等啊等你陪",
+      "spelling": "tán ah tán ah tán lí puê",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "等到孤雁飛",
+      "spelling": "tán-kàh koo-gān pue",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "月落烏啼霜滿天",
+      "spelling": "gue̍h lo̍h oo thî sng muá-thian",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "望啊望啊望相會",
+      "spelling": "bāng ah bāng ah bāng siong-huē",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "嘜講傷心話",
+      "spelling": "mài kóng siong-sim uē",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "等啊等啊等你陪",
+      "spelling": "tán ah tán ah tán lí puê",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "等到孤雁飛",
+      "spelling": "tán-kàh koo-gān pue",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "月落烏啼霜滿天",
+      "spelling": "gue̍h lo̍h oo thî sng muá-thian",
+      "source_lines": [
+        97,
+        98
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

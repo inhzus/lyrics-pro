@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 168377,
+    "title": "国民学校",
+    "artists": [
+      "萧煌奇"
+    ],
+    "album": "真·情·歌",
+    "duration": 315.106,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:168377",
+      "duration": 315.106,
+      "ready": false,
+      "coverage": 0.425,
+      "exact_fraction": 0.05,
+      "summary": {
+        "credit": 2,
+        "approximate": 15,
+        "exact": 2,
+        "gap": 11,
+        "unresolved": 23
+      }
+    }
+  ]
+}

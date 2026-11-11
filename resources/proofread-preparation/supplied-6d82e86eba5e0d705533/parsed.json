@@ -1,0 +1,320 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "陣陣銃子 陣陣海風",
+      "spelling": "tsūn tsūn tshìng-tsí   tsūn tsūn hái-hong",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "陣陣砲煙 陣陣海湧",
+      "spelling": "tsūn tsūn phàu ian tsūn tsūn hái-íng",
+      "source_lines": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "陣陣銃子鑽過陣陣海風",
+      "spelling": "tsūn tsūn tshìng-tsí tsǹg kuè tsūn tsūn hái-hong",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "陣陣砲煙軁過陣陣海湧",
+      "spelling": "tsūn tsūn phàu ian nǹg kuè tsūn tsūn hái-íng",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "銃子射袂透我鋼鐵的意志",
+      "spelling": "tshìng-tsí siā bē thàu guá kǹg-thih ê ì-tsì",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "砲煙遮袂牢我無回的行動",
+      "spelling": "phàu ian jia bē tiâu guá bû huê ê hîng-tōng",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "陣陣銃子 陣陣海風",
+      "spelling": "tsūn tsūn tshìng-tsí   tsūn tsūn hái-hong",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "陣陣砲煙 陣陣海湧",
+      "spelling": "tsūn tsūn phàu ian tsūn tsūn hái-íng",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "無底記智",
+      "spelling": "bû té kì tì",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "空轉プロペラ",
+      "spelling": "khang-lìn puropera",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "無邊思念",
+      "spelling": "bû pian su-liām",
+      "source_lines": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "空轉プロペラ",
+      "spelling": "khang-tńg puropera",
+      "source_lines": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "出征時",
+      "spelling": "tshut-tsing sî",
+      "source_lines": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "爸母驕傲的毋甘的目神中放出閃爍的微光",
+      "spelling": "pē-bú kiau-ngōo ê m̄-kam ê ba̍k-sîn tiong hòng-tshut siám-sih ê bî kng",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "戰場頂",
+      "spelling": "tsiàn-tiûnn tíng",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "敵我不明的烏暗的山林中保護我入死出生",
+      "spelling": "ti̍k guá put-bîng ê oo-àm ê suann-nâ tiong pó-hōo guá ji̍p sí tshut-sing",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "祈求這絲微光 護我完璧成仁",
+      "spelling": "kî-kiû tsit si bî kng  hōo guá uân piah sîng-jîn",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "閣一絲微光 閣一絲微光",
+      "spelling": "koh tsi̍t-si bî kng koh tsi̍t-si bî kng",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "無底記智",
+      "spelling": "bû té kì tì",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "空轉プロペラ",
+      "spelling": "khang-tńg puropera",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "無邊思念",
+      "spelling": "bû-pian su-liām",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "空轉プロペラ",
+      "spelling": "khang-tńg puropera",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "空轉プロペラ",
+      "spelling": "khang-tńg puropera",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "思念片斷切割",
+      "spelling": "su-liām phiàn tuān tshè kuah",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "出征時",
+      "spelling": "tshut-tsing sî",
+      "source_lines": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "某囝深愛的毋甘的目神中放出閃爍的微光",
+      "spelling": "bóo-kiánn tshim ài ê m̄-kam ê ba̍k-sîn tiong hòng-tshut siám-sih ê bî kng",
+      "source_lines": [
+        78,
+        79
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "戰場頂",
+      "spelling": "tsiàn-tiûnn tíng",
+      "source_lines": [
+        81,
+        82
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "敵我不明的烏暗的山林中保護我入死出生",
+      "spelling": "ti̍k guá put-bîng ê oo-àm ê suann-nâ tiong pó-hōo guá ji̍p sí tshut-sing",
+      "source_lines": [
+        84,
+        85
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "祈求這絲微光 護我完璧成仁",
+      "spelling": "kî-kiû tsit si bî kng  hōo guá uân piah sîng-jîn",
+      "source_lines": [
+        87,
+        88
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "閣一絲微光 閣一絲微光",
+      "spelling": "koh tsi̍t-si bî kng koh tsi̍t-si bî kng",
+      "source_lines": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "陣陣海風 順 陣陣海湧",
+      "spelling": "tsūn tsūn hái-hong sūn tsūn tsūn hái-íng",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "將我點滴 拆食吞入海洋",
+      "spelling": "tsiòng guá tiám-tih  thiah-tsia̍h thun ji̍p hái-iûnn",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "陣陣海風 順 陣陣海湧",
+      "spelling": "tsūn tsūn hái-hong sūn tsūn tsūn hái-íng",
+      "source_lines": [
+        99,
+        100
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "將我意志片片送轉母島",
+      "spelling": "tsiòng guá ì-tsì phiàn phiàn sàng tsūn bó tó",
+      "source_lines": [
+        102,
+        103
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：閃靈   作曲：閃靈  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

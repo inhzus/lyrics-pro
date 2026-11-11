@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 385793,
+      "title": "出头天",
+      "artists": [
+        "五月天"
+      ],
+      "album": "后青春期的诗",
+      "duration": 252.466,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

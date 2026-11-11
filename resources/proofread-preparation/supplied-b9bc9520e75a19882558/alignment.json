@@ -1,0 +1,473 @@
+{
+  "recording_id": "lrcapi:1444719877",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E8%80%81%E6%83%85%E6%AD%8C&artist=%E6%B1%9F%E8%95%99&album=%E7%88%B1%E4%BD%9C%E6%A2%A6%E7%9A%84%E9%B1%BC#1444719877",
+  "manual_source": "User-supplied resources/lyrics-spelling/老情歌-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "exact": 2,
+    "repeat": 8,
+    "unresolved": 24
+  },
+  "review_row_count": 24,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-15:0",
+    "line-18:0",
+    "line-21:0",
+    "line-27:0",
+    "line-33:0",
+    "line-36:0",
+    "line-45:0",
+    "line-48:0",
+    "line-51:0",
+    "line-57:0",
+    "line-63:0",
+    "line-66:0",
+    "line-69:0",
+    "line-72:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 20.06,
+      "online_text": "原來你也擱留著 咱蓋的彼領被",
+      "match_text": "原來你也擱留著 咱蓋的彼領被",
+      "text": "原來你也擱留著　咱蓋的彼領被",
+      "spelling": "guân-lâi lí iā koh lâu tio̍h lán khàm ê hit niá phuē",
+      "manual_id": "line-3:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 29.49,
+      "online_text": "原來你彼呢驚 我甲你講再會",
+      "match_text": "原來你彼呢驚 我甲你講再會",
+      "text": "原來你彼呢驚　我甲你講再會",
+      "spelling": "guân-lâi lí hit-ni kiann guá kā lí kóng tsài-huē",
+      "manual_id": "line-6:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 38.89,
+      "online_text": "原來你也擱置恨悔 你講的彼句話",
+      "match_text": "原來你也擱置恨悔 你講的彼句話",
+      "text": "原來你也擱置恨悔　你講的彼句話",
+      "spelling": "guân-lâi lí iā koh te hūn hué lí kóng ê hit kù-uē",
+      "manual_id": "line-9:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 3,
+      "time": 47.53,
+      "online_text": "原來你一生中 只愛過我一個",
+      "match_text": "原來你一生中 只愛過我一個",
+      "text": "原來你一生中　只愛過我一個",
+      "spelling": "guân-lâi lí it-sing tiong tsí ài kuè guá tsi̍t ê",
+      "manual_id": "line-12:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 56.46,
+      "online_text": "猶原塊落雨",
+      "match_text": "猶原塊落雨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 59.3,
+      "online_text": "猶原你的眼神彼無辜 親像當初",
+      "match_text": "猶原你的眼神彼無辜 親像當初",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 65.87,
+      "online_text": "可惜阮的心 袂擱行同路",
+      "match_text": "可惜阮的心 袂擱行同路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 70.58,
+      "online_text": "袂擱濕糊糊",
+      "match_text": "袂擱濕糊糊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 73.91,
+      "online_text": "你也免恨悔 往事會變成一蕊花",
+      "match_text": "你也免恨悔 往事會變成一蕊花",
+      "text": "你也免恨悔　往事會變成一蕊花",
+      "spelling": "lí iā bián hūn hué óng-sū ē piàn-sîng tsi̍t luí hue",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 79.28,
+      "online_text": "陪咱渡過思念的溪",
+      "match_text": "陪咱渡過思念的溪",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 85.5,
+      "online_text": "彼美麗 精彩的經過",
+      "match_text": "彼美麗 精彩的經過",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 88.55,
+      "online_text": "挺好茫旋歸暝 一杯擱一杯",
+      "match_text": "挺好茫旋歸暝 一杯擱一杯",
+      "text": "挺好茫旋歸暝　一杯擱一杯",
+      "spelling": "thīn hó bâng se̍h kui-mî tsi̍t pue koh tsi̍t pue",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 93.94,
+      "online_text": "傷心話 只有加添怨磋",
+      "match_text": "傷心話 只有加添怨磋",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 98.45,
+      "online_text": "今夜咱來講笑虧",
+      "match_text": "今夜咱來講笑虧",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 103.27,
+      "online_text": "點一條老情歌",
+      "match_text": "點一條老情歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 106.07,
+      "online_text": "再會吧無緣戀花",
+      "match_text": "再會吧無緣戀花",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 135.35,
+      "online_text": "原來你也擱置恨悔 你講的彼句話",
+      "match_text": "原來你也擱置恨悔 你講的彼句話",
+      "text": "原來你也擱置恨悔　你講的彼句話",
+      "spelling": "guân-lâi lí iā koh te hūn hué lí kóng ê hit kù-uē",
+      "manual_id": "line-9:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 143.87,
+      "online_text": "原來你一生中 只愛過我一個",
+      "match_text": "原來你一生中 只愛過我一個",
+      "text": "原來你一生中　只愛過我一個",
+      "spelling": "guân-lâi lí it-sing tiong tsí ài kuè guá tsi̍t ê",
+      "manual_id": "line-12:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 152.48,
+      "online_text": "猶原塊落雨",
+      "match_text": "猶原塊落雨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 155.18,
+      "online_text": "猶原你的眼神彼無辜 親像當初",
+      "match_text": "猶原你的眼神彼無辜 親像當初",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 161.53,
+      "online_text": "可惜阮的心 袂擱行同路",
+      "match_text": "可惜阮的心 袂擱行同路",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 166.03,
+      "online_text": "袂擱濕糊糊",
+      "match_text": "袂擱濕糊糊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 171.38,
+      "online_text": "你也免恨悔 往事會變成一蕊花",
+      "match_text": "你也免恨悔 往事會變成一蕊花",
+      "text": "你也免恨悔　往事會變成一蕊花",
+      "spelling": "lí iā bián hūn hué óng-sū ē piàn-sîng tsi̍t luí hue",
+      "manual_id": "line-24:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 179.16,
+      "online_text": "陪咱渡過思念的溪",
+      "match_text": "陪咱渡過思念的溪",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 185.13,
+      "online_text": "彼美麗 精彩的經過",
+      "match_text": "彼美麗 精彩的經過",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 187.97,
+      "online_text": "挺好茫旋歸暝 一杯擱一杯",
+      "match_text": "挺好茫旋歸暝 一杯擱一杯",
+      "text": "挺好茫旋歸暝　一杯擱一杯",
+      "spelling": "thīn hó bâng se̍h kui-mî tsi̍t pue koh tsi̍t pue",
+      "manual_id": "line-30:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 193.52,
+      "online_text": "傷心話 只有加添怨磋",
+      "match_text": "傷心話 只有加添怨磋",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 198.26,
+      "online_text": "今夜咱來講笑虧",
+      "match_text": "今夜咱來講笑虧",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 202.6,
+      "online_text": "點一條老情歌",
+      "match_text": "點一條老情歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 205.47,
+      "online_text": "再會吧無緣戀花",
+      "match_text": "再會吧無緣戀花",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 211.73,
+      "online_text": "傷心話 只有加添怨磋",
+      "match_text": "傷心話 只有加添怨磋",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 216.36,
+      "online_text": "今夜咱來講笑虧",
+      "match_text": "今夜咱來講笑虧",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 220.96,
+      "online_text": "點一條老情歌",
+      "match_text": "點一條老情歌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 223.91,
+      "online_text": "再會吧無緣戀花",
+      "match_text": "再會吧無緣戀花",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "1d59b31fbc2b8bdbc5d23efdb95fa60df24e8accac4cefb13032e0074477de37",
+    "manual": "3645c64124db8c37df5b3b25bba94977c287c87b370e2027a8abede1f088e68d",
+    "timed": "0075e2d0da7b0b1b9046b6744ef9eb0d58c4e67832f6339344158c0b2e7e90a4"
+  }
+}

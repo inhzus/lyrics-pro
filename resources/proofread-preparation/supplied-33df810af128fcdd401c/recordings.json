@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": "1532278853",
+      "title": "憨子",
+      "artists": [
+        "一步乐团"
+      ],
+      "album": "刺鸟",
+      "duration": 237.013,
+      "provider": "lrcapi",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

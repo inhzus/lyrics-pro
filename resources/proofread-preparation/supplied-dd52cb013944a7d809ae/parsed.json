@@ -1,0 +1,158 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "敢袂當揣         無聲的所在         恬恬看未來",
+      "spelling": "kám bē-tàng tshuē    bô-siann ê sóo-tsāi    tiām tiām khuànn bī",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "敢袂當揣",
+          "spelling": "kám bē-tàng tshuē"
+        },
+        {
+          "text": "無聲的所在",
+          "spelling": "bô-siann ê sóo-tsāi"
+        },
+        {
+          "text": "恬恬看未來",
+          "spelling": "tiām tiām khuànn bī"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "走敢無回         生敢無悔         腳步通行去綴",
+      "spelling": "tsáu kám bô huê    sing kám bô hué    kha-pōo thàng kiânn khì tuè",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "走敢無回",
+          "spelling": "tsáu kám bô huê"
+        },
+        {
+          "text": "生敢無悔",
+          "spelling": "sing kám bô hué"
+        },
+        {
+          "text": "腳步通行去綴",
+          "spelling": "kha-pōo thàng kiânn khì tuè"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "走敢無回         生敢無悔         腳步通行去綴",
+      "spelling": "tsáu kám bô huê    sing kám bô hué    kha-pōo thàng kiânn khì tuè",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "走敢無回",
+          "spelling": "tsáu kám bô huê"
+        },
+        {
+          "text": "生敢無悔",
+          "spelling": "sing kám bô hué"
+        },
+        {
+          "text": "腳步通行去綴",
+          "spelling": "kha-pōo thàng kiânn khì tuè"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "一步一步         一步一步         行無望的路",
+      "spelling": "tsi̍t-pōo tsi̍t-pōo    tsi̍t-pōo tsi̍t-pōo    kiânn bô bāng ê lōo",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "一步一步",
+          "spelling": "tsi̍t-pōo tsi̍t-pōo"
+        },
+        {
+          "text": "一步一步",
+          "spelling": "tsi̍t-pōo tsi̍t-pōo"
+        },
+        {
+          "text": "行無望的路",
+          "spelling": "kiânn bô bāng ê lōo"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "等候烏影         掠到我         拆食落腹         魂魄落土",
+      "spelling": "tán-hāu oo-iánn    lia̍h tio̍h guá        thiah-tsia̍h lo̍h-pak    hûn-phik lo̍h-thóo",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "等候烏影",
+          "spelling": "tán-hāu oo-iánn"
+        },
+        {
+          "text": "掠到我",
+          "spelling": "lia̍h tio̍h guá"
+        },
+        {
+          "text": "拆食落腹",
+          "spelling": "thiah-tsia̍h lo̍h-pak"
+        },
+        {
+          "text": "魂魄落土",
+          "spelling": "hûn-phik lo̍h-thóo"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "一步一步         一步一步        行無望的路        魂魄落土",
+      "spelling": "tsi̍t-pōo tsi̍t-pōo    tsi̍t-pōo tsi̍t-pōo    kiânn bô bāng ê lōo    hûn-phik lo̍h-thóo",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "一步一步",
+          "spelling": "tsi̍t-pōo tsi̍t-pōo"
+        },
+        {
+          "text": "一步一步",
+          "spelling": "tsi̍t-pōo tsi̍t-pōo"
+        },
+        {
+          "text": "行無望的路",
+          "spelling": "kiânn bô bāng ê lōo"
+        },
+        {
+          "text": "魂魄落土",
+          "spelling": "hûn-phik lo̍h-thóo"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：閃靈   作曲：閃靈  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

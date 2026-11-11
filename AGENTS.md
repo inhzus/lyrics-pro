@@ -83,6 +83,22 @@ not application rebuilds or new tests.
 
 ## Lyrics, matching, and pronunciation
 
+- Supplied collection preparation is an offline workflow documented in
+  [docs/proofread-collection.md](docs/proofread-collection.md). Run
+  `uv run --locked python -m scripts.prepare_proofread`; do not run alignment in
+  the playback worker. Preserve raw transcriptions and accepted assets. Bundle
+  only exact, complete, unambiguous results; keep approximate results for review.
+- The explicitly reviewed Wu Bai integration lives in
+  `resources/lyrics-spelling/wubai-reviewed/`. Reproduce/check with
+  `uv run --locked python -m scripts.prepare_wubai --check`; `--integrate` writes
+  its validated assets. Preserve frozen source hashes, explicit phrase boundaries,
+  documented source-backed repairs and unresolved timing notes. Never rerun fuzzy
+  matching to replace these decisions. The original automatic survey remains
+  separate; `verify_proofread_collection` audits both catalogs.
+- Proofread assets can designate `supplied` spelling for mixed/unknown languages.
+  This is an effective Auto language, not an additional menu choice. Respect
+  explicit language overrides. Validate NetEase, LrcAPI and LRCLIB timing provenance.
+
 - Keep the provider order **NetEase → LrcAPI → LRCLIB**. A verified timed NetEase
   result or explicit instrumental result finishes lookup. A later timed fallback
   can improve an earlier plain result; otherwise retain usable plain lyrics.
@@ -122,6 +138,9 @@ not application rebuilds or new tests.
   language overrides.
   Bump the asset revision when changing content; preserve timing inputs and review
   notes under `resources/lyrics-spelling/`. Never run alignment during playback.
+  Optional asset `title_aliases` are explicitly reviewed catalog spellings/version
+  names; they retain the same duration gate. Never strip live/remix qualifiers
+  globally. Check overlap across primary titles and aliases before bundling.
 
 ## Persistence and diagnostics
 

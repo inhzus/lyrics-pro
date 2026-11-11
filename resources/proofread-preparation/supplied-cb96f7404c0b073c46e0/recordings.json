@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": "1194938595",
+      "title": "彼卡皮箱",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "旧年",
+      "duration": 320.04,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 28528288,
+    "title": "想要爱的人",
+    "artists": [
+      "萧煌奇"
+    ],
+    "album": "上水的花",
+    "duration": 292.293,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:28528288",
+      "duration": 292.293,
+      "ready": false,
+      "coverage": 0.6037735849056604,
+      "exact_fraction": 0.41509433962264153,
+      "summary": {
+        "credit": 2,
+        "exact": 3,
+        "approximate": 10,
+        "unresolved": 21,
+        "repeat": 19
+      }
+    }
+  ]
+}

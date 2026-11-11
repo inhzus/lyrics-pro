@@ -1,0 +1,306 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "田底稻仔青青　家家戶戶好收成",
+      "spelling": "tshân té tiū-á tshinn tshinn ke-ke-hōo-hōo hó siu-sing",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "滿山茶葉清香　姑娘歌聲迷人",
+      "spelling": "muá-suann tê-hio̍h tshing-phang koo-niû kua-siann bê-lâng",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "少年仔割草犁田土　靠咱本領相照顧",
+      "spelling": "siàu-liân-á kuah-tsháu lê tshân-thôo kōo lán pún-tíng siò tsiàu-kòo",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "親家親母好鬥陣　燒酒扞來飲",
+      "spelling": "tshin-ke tshin-má hó tàu-tīn sio-tsiú huānn lâi lím",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "海峽吹來南風　蓮霧花開滿樹紅",
+      "spelling": "hái-kiap tshue lâi lâm-hong lián-bū hue khui muá tshiū âng",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "八月圳溝濁水　經過數百個鄉鎮",
+      "spelling": "peh-gue̍h tsùn-kau lô-tsuí king-kuè sòo pah ê hiong-tìn",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "山珍海味吃未空　鹹酸苦淡一世人",
+      "spelling": "san-tin-hái-bī tsia̍h buē khang kiâm sng khóo tsiánn tsi̍t-sì-lâng",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "時代改變人情變　農友心不變",
+      "spelling": "sî-tāi kái-piàn lîn-tsîng piàn lông-iú sim put-piàn",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "受盡苦中苦　日曬風來吹",
+      "spelling": "siū tsīn khóo tiong khóo li̍t-pha̍k hong lâi tshue",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "春夏擱秋冬　大海變良田",
+      "spelling": "tshun hā koh tshiu tang tuā-hái piàn liông-tiân",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "腳踏一片地　頭頂一片天",
+      "spelling": "kha ta̍h tsi̍t phìnn tē thâu-tíng tsi̍t phiàn thinn",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "公嬤有保庇　子孫大富貴",
+      "spelling": "kue má ū pó-pì kiánn-sun tuā-pù kuì",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "咱是勤儉打拼種田人　有情有義凡事照起工",
+      "spelling": "lán sī khûn-khiām phah-piànn tsíng tshân-lâng ū tsîng ū gī huân-sū tsiàu khí-kang",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "一粒米　百粒汗　露水滴落心",
+      "spelling": "tsi̍t lia̍p bí pah lia̍p kuānn lōo-tsuí tin lo̍h sim",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "(三不五時乾一杯　困難免驚惶)",
+      "spelling": "(sann bē ngóo sî kan tsi̍t pue khùn-lân bián kiann-hiânn)",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "咱是出身惦農村草地人　平安自在心情卡快活",
+      "spelling": "lán sī tshut-sin tiām lông-tshun tsháu-tē-lâng pîng-an tsū-tsāi sim-tsîng khá khuìnn-ua̍h",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "人生長路來鼓勵　天涯做陣行",
+      "spelling": "lîn-sing tn̂g lōo lâi kóo-lē thian-gâi tsuè tīn kiânn",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "海峽吹來南風　蓮霧花開滿樹紅",
+      "spelling": "hái-kiap tshue lâi lâm-hong lián-bū hue khui muá tshiū âng",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "八月圳溝濁水　經過數百個鄉鎮",
+      "spelling": "peh-gue̍h tsùn-kau lô-tsuí king-kuè sòo pah ê hiong-tìn",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "山珍海味吃未空　鹹酸苦淡一世人",
+      "spelling": "san-tin-hái-bī tsia̍h buē khang kiâm sng khóo tsiánn tsi̍t-sì-lâng",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "時代改變人情變　農友心不變",
+      "spelling": "sî-tāi kái-piàn lîn-tsîng piàn lông-iú sim put-piàn",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "受盡苦中苦　日曬風來吹",
+      "spelling": "siū tsīn khóo tiong khóo li̍t-pha̍k hong lâi tshue",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "春夏擱秋冬　大海變良田",
+      "spelling": "tshun hā koh tshiu tang tuā-hái piàn liông-tiân",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "腳踏一片地　頭頂一片天",
+      "spelling": "kha ta̍h tsi̍t phìnn tē thâu-tíng tsi̍t phiàn thinn",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "公嬤有保庇　子孫大富貴",
+      "spelling": "kue má ū pó-pì kiánn-sun tuā-pù kuì",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "咱是勤儉打拼種田人　有情有義凡事照起工",
+      "spelling": "lán sī khûn-khiām phah-piànn tsíng tshân-lâng ū tsîng ū gī huân-sū tsiàu khí-kang",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "一粒米　百粒汗　露水滴落心",
+      "spelling": "tsi̍t lia̍p bí pah lia̍p kuānn lōo-tsuí tin lo̍h sim",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "咱是出身惦農村草地人　平安自在心情卡快活",
+      "spelling": "lán sī tshut-sin tiām lông-tshun tsháu-tē-lâng pîng-an tsū-tsāi sim-tsîng khá khuìnn-ua̍h",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "人生長路來鼓勵　天涯做陣行",
+      "spelling": "lîn-sing tn̂g lōo lâi kóo-lē thian-gâi tsuè tīn kiânn",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "咱是勤儉打拼種田人　有情有義凡事照起工",
+      "spelling": "lán sī khûn-khiām phah-piànn tsíng tshân-lâng ū tsîng ū gī huân-sū tsiàu khí-kang",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "三不五時乾一杯　困難免驚惶",
+      "spelling": "sann put ngóo sî kan tsi̍t pue khùn-lân bián kiann-hiânn",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "咱是出身惦農村草地人　平安自在心情卡快活",
+      "spelling": "lán sī tshut-sin tiām lông-tshun tsháu-tē-lâng pîng-an tsū-tsāi sim-tsîng khá khuìnn-ua̍h",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "人生長路來鼓勵　天涯做陣行",
+      "spelling": "lîn-sing tn̂g lōo lâi kóo-lē thian-gâi tsuè tīn kiânn",
+      "source_lines": [
+        97,
+        98
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

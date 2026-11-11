@@ -1,0 +1,405 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "那會酒後的心聲",
+      "spelling": "ná-ē tsiú āu ê sim-siann",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "在傷心的酒店",
+      "spelling": "tī siong-sim ê tsiú-tiàm",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "轉頭是落雨聲",
+      "spelling": "ua̍t-thâu sī lo̍h-hōo siann",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "落到繁華攏是夢",
+      "spelling": "lo̍h-kàu huân-huâ lóng sī bāng",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "望春風的那天",
+      "spelling": "bāng tshun-hong ê hit-kang",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "我愛到才知痛",
+      "spelling": "guá ài-kàu tsiah tsai thiànn",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "雨夜花雪中紅",
+      "spelling": "ú iā hue suat tiong âng",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "攏是命中註定",
+      "spelling": "lóng sī miā-tiong tsù-tiānn",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "愛到無命不知驚",
+      "spelling": "ài-kàu bô-miā m̄ tsai kiann",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "猶原是孤孤單單一個人",
+      "spelling": "iu-guân sī koo-koo-tuann-tuann tsi̍t ê lâng",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "想你的心 這呢痛",
+      "spelling": "siūnn lí ê sim tsiah-nī thiànn",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "等無聲 找無人 我是麥安怎",
+      "spelling": "tán bô-siann tshuē bô-lâng guá sī be̍h an-tsuánn",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "猶原是空空夢夢一個人",
+      "spelling": "iu-guân sī khàng khàng bāng bāng tsi̍t ê lâng",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "想你的心 這歹款",
+      "spelling": "siūnn lí ê sim tsia pháinn khuánn",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "不甘願 不甘放",
+      "spelling": "m̄-kam guān m̄-kam pàng",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "不甘到這尊嘟散",
+      "spelling": "m̄-kam kàu tsia tsun suánn",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "你甘攏袂不甘",
+      "spelling": "m̄-kam lóng bē m̄-kam",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "那會酒後的心聲",
+      "spelling": "ná-ē tsiú āu ê sim-siann",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "在傷心的酒店",
+      "spelling": "tī siong-sim ê tsiú-tiàm",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "轉頭是落雨聲",
+      "spelling": "ua̍t-thâu sī lo̍h-hōo siann",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "落到繁華攏是夢",
+      "spelling": "lo̍h-kàu huân-huâ lóng sī bāng",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "望春風的那天",
+      "spelling": "bāng tshun-hong ê hit-kang",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "我愛到才知痛",
+      "spelling": "guá ài-kàu tsiah tsai thiànn",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "雨夜花雪中紅",
+      "spelling": "ú iā hue suat tiong âng",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "攏是命中註定",
+      "spelling": "lóng sī miā-tiong tsù-tiānn",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "愛到無命不知驚",
+      "spelling": "ài-kàu bô-miā m̄ tsai kiann",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "猶原是孤孤單單一個人",
+      "spelling": "iu-guân sī koo-koo-tuann-tuann tsi̍t ê lâng",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "想你的心 這呢痛",
+      "spelling": "siūnn lí ê sim tsiah-nī thiànn",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "等無聲 找無人 我是麥安怎",
+      "spelling": "tán bô-siann tshuē bô-lâng guá sī be̍h an-tsuánn",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "猶原是空空夢夢一個人",
+      "spelling": "iu-guân sī khàng khàng bāng bāng tsi̍t ê lâng",
+      "source_lines": [
+        88,
+        89
+      ]
+    },
+    {
+      "id": "line-91",
+      "text": "想你的心 這歹款",
+      "spelling": "siūnn lí ê sim tsia pháinn khuánn",
+      "source_lines": [
+        91,
+        92
+      ]
+    },
+    {
+      "id": "line-94",
+      "text": "不甘願 不甘放",
+      "spelling": "m̄-kam guān m̄-kam pàng",
+      "source_lines": [
+        94,
+        95
+      ]
+    },
+    {
+      "id": "line-97",
+      "text": "不甘到這尊嘟散",
+      "spelling": "m̄-kam kàu tsia tsun suánn",
+      "source_lines": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "你甘攏袂不甘",
+      "spelling": "m̄-kam lóng bē m̄-kam",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "猶原是孤孤單單一個人",
+      "spelling": "iu-guân sī koo-koo-tuann-tuann tsi̍t ê lâng",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-106",
+      "text": "想你的心 這呢痛",
+      "spelling": "siūnn lí ê sim tsiah-nī thiànn",
+      "source_lines": [
+        106,
+        107
+      ]
+    },
+    {
+      "id": "line-109",
+      "text": "等無聲 找無人 我是麥安怎",
+      "spelling": "tán bô-siann tshuē bô-lâng guá sī be̍h an-tsuánn",
+      "source_lines": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "line-112",
+      "text": "猶原是空空夢夢一個人",
+      "spelling": "iu-guân sī khàng khàng bāng bāng tsi̍t ê lâng",
+      "source_lines": [
+        112,
+        113
+      ]
+    },
+    {
+      "id": "line-115",
+      "text": "想你的心 這歹款",
+      "spelling": "siūnn lí ê sim tsia pháinn khuánn",
+      "source_lines": [
+        115,
+        116
+      ]
+    },
+    {
+      "id": "line-118",
+      "text": "不甘願 不甘放",
+      "spelling": "m̄-kam guān m̄-kam pàng",
+      "source_lines": [
+        118,
+        119
+      ]
+    },
+    {
+      "id": "line-121",
+      "text": "不甘到這尊嘟散",
+      "spelling": "m̄-kam kàu tsia tsun suánn",
+      "source_lines": [
+        121,
+        122
+      ]
+    },
+    {
+      "id": "line-124",
+      "text": "你甘攏袂不甘",
+      "spelling": "lí kam lóng bē m̄-kam",
+      "source_lines": [
+        124,
+        125
+      ]
+    },
+    {
+      "id": "line-127",
+      "text": "你甘攏袂不甘",
+      "spelling": "lí kam lóng bē m̄-kam",
+      "source_lines": [
+        127,
+        128
+      ]
+    },
+    {
+      "id": "line-130",
+      "text": "你甘攏袂不甘",
+      "spelling": "lí kam lóng bē m̄-kam",
+      "source_lines": [
+        130,
+        131
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

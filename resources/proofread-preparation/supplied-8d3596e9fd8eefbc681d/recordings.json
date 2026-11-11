@@ -1,0 +1,98 @@
+{
+  "candidates": [
+    {
+      "song_id": 543798023,
+      "title": "无法无天",
+      "artists": [
+        "草屯囝仔"
+      ],
+      "album": "囝仔",
+      "duration": 180.5,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 118028,
+      "title": "无法无天",
+      "artists": [
+        "刘以达"
+      ],
+      "album": "电影原声 醉生梦死之湾仔之虎",
+      "duration": 153.733,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1848602954,
+      "title": "无法无天",
+      "artists": [
+        "圈妹",
+        "吉子迈子",
+        "pyai",
+        "小奶瓶"
+      ],
+      "album": "我以前犯过很多错",
+      "duration": 327.575,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2124106965,
+      "title": "无法无天",
+      "artists": [
+        "落落"
+      ],
+      "album": "二选一的时候别选我10",
+      "duration": 155.295,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1975705693,
+      "title": "无法无天",
+      "artists": [
+        "搞笑天团"
+      ],
+      "album": "真心实意缓释片",
+      "duration": 66.113,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1848194309,
+      "title": "无法无天",
+      "artists": [
+        "肖天"
+      ],
+      "album": "Z",
+      "duration": 271.428,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1857570478,
+      "title": "无法无天",
+      "artists": [
+        "王绎龙",
+        "Akihl"
+      ],
+      "album": "无法无天",
+      "duration": 171.45,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2017761375,
+      "title": "无法无天",
+      "artists": [
+        "巴依",
+        "RobRoth 宋清玉"
+      ],
+      "album": "无法无天",
+      "duration": 98.56,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

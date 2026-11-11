@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 28528290,
+    "title": "银角仔",
+    "artists": [
+      "萧煌奇"
+    ],
+    "album": "上水的花",
+    "duration": 289.2,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:28528290",
+      "duration": 289.2,
+      "ready": false,
+      "coverage": 0.3877551020408163,
+      "exact_fraction": 0.24489795918367346,
+      "summary": {
+        "credit": 2,
+        "approximate": 7,
+        "unresolved": 30,
+        "exact": 4,
+        "repeat": 8
+      }
+    }
+  ]
+}

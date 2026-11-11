@@ -1,0 +1,48 @@
+{
+  "selected": {
+    "song_id": 156619,
+    "title": "只要为你活一天",
+    "artists": [
+      "伍佰"
+    ],
+    "album": "爱你伍佰年",
+    "duration": 321.666,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": true,
+  "candidates": [
+    {
+      "recording_id": "netease:156619",
+      "duration": 321.666,
+      "ready": false,
+      "coverage": 0.27932960893854747,
+      "exact_fraction": 0.2857142857142857,
+      "summary": {
+        "unresolved": 35,
+        "repeat": 14
+      }
+    },
+    {
+      "recording_id": "netease:156996",
+      "duration": 319.878,
+      "ready": false,
+      "coverage": 0.27932960893854747,
+      "exact_fraction": 0.2857142857142857,
+      "summary": {
+        "unresolved": 35,
+        "repeat": 14
+      }
+    },
+    {
+      "recording_id": "netease:28274183",
+      "duration": 321.2,
+      "ready": false,
+      "coverage": 0.2122905027932961,
+      "exact_fraction": 0.23529411764705882,
+      "summary": {
+        "unresolved": 26,
+        "repeat": 8
+      }
+    }
+  ]
+}

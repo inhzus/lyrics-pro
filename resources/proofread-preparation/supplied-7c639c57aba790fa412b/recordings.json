@@ -1,0 +1,60 @@
+{
+  "candidates": [
+    {
+      "song_id": 28710597,
+      "title": "我今仔日无想欲飞",
+      "artists": [
+        "青衣"
+      ],
+      "album": "新鲜鱼",
+      "duration": 283.88,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1393950629",
+      "title": "我今仔日无想欲飞",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "台南",
+      "duration": 246.387,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "808527905",
+      "title": "我今仔日无想欲飞",
+      "artists": [
+        "青衣"
+      ],
+      "album": "新鲜鱼 - EP",
+      "duration": 283.896,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1393950629",
+      "title": "我今仔日无想欲飞",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "台南",
+      "duration": 246.387,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "808527905",
+      "title": "我今仔日无想欲飞",
+      "artists": [
+        "青衣"
+      ],
+      "album": "新鲜鱼 - EP",
+      "duration": 283.896,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

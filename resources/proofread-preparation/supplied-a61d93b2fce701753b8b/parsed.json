@@ -1,0 +1,202 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "自細漢就愛浪遛連  四界走闖  四界駱駝",
+      "spelling": "tsū-sè hàn tio̍h ài lōng liù liân  sì-kè tsáu tshuàn sì-kè lo̍k-tô",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "歹工結歸黨底七逃  持大講的話  甲當作風底吹",
+      "spelling": "pháinn kang kat kui tóng té tshit tô  tî tuā kóng ê uē  kā tòng-tsò hong té tshue",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "歹工結歸黨底七逃",
+          "spelling": "pháinn kang kat kui tóng té tshit tô"
+        },
+        {
+          "text": "持大講的話",
+          "spelling": "tî tuā kóng ê uē"
+        },
+        {
+          "text": "甲當作風底吹",
+          "spelling": "kā tòng-tsò hong té tshue"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "自從我懂事情了後  撥覺這個社會  不是咱所想的",
+      "spelling": "tsū-tsiông guá bat tāi-tsì liáu-āu  puah kak tsit-ê siā-huē  m̄ sī lán sóo-siūnn ê",
+      "source_lines": [
+        9,
+        10
+      ],
+      "parts": [
+        {
+          "text": "自從我懂事情了後",
+          "spelling": "tsū-tsiông guá bat tāi-tsì liáu-āu"
+        },
+        {
+          "text": "撥覺這個社會",
+          "spelling": "puah kak tsit-ê siā-huē"
+        },
+        {
+          "text": "不是咱所想的",
+          "spelling": "m̄ sī lán sóo-siūnn ê"
+        }
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "老師搖頭叫我麥問這濟  你若擱皮若  以後就免註冊",
+      "spelling": "lāu-su hián-thâu kiò guá mái mn̄g tsiah tsē  lí ná koh phuê ná  í-āu tio̍h bián tsù-tsheh",
+      "source_lines": [
+        12,
+        13
+      ],
+      "parts": [
+        {
+          "text": "老師搖頭叫我麥問這濟",
+          "spelling": "lāu-su hián-thâu kiò guá mái mn̄g tsiah tsē"
+        },
+        {
+          "text": "你若擱皮若",
+          "spelling": "lí ná koh phuê ná"
+        },
+        {
+          "text": "以後就免註冊",
+          "spelling": "í-āu tio̍h bián tsù-tsheh"
+        }
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "我就是統皮  無你欲安怎",
+      "spelling": "guá tio̍h sī thóng phî  bô lí beh an-tsuánn",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "我就是統皮",
+          "spelling": "guá tio̍h sī thóng phî"
+        },
+        {
+          "text": "無你欲安怎",
+          "spelling": "bô lí beh an-tsuánn"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "無想欲甲人比  歡喜做自己",
+      "spelling": "bô siūnn-beh kā lâng pí  huann-hí tsò ka-kī",
+      "source_lines": [
+        18,
+        19
+      ],
+      "parts": [
+        {
+          "text": "無想欲甲人比",
+          "spelling": "bô siūnn-beh kā lâng pí"
+        },
+        {
+          "text": "歡喜做自己",
+          "spelling": "huann-hí tsò ka-kī"
+        }
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "我就是統皮　甲意嘛這一味",
+      "spelling": "guá tio̍h sī thóng phî  kā ì mā tse tsi̍t bī",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "朋友底做伙  嘸通養金魚",
+      "spelling": "pîng-iú té tsò-hué  m̄-thàng tshī kim-hî",
+      "source_lines": [
+        24,
+        25
+      ],
+      "parts": [
+        {
+          "text": "朋友底做伙",
+          "spelling": "pîng-iú té tsò-hué"
+        },
+        {
+          "text": "嘸通養金魚",
+          "spelling": "m̄-thàng tshī kim-hî"
+        }
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "自細漢就愛浪遛連　四界走闖　四界駱駝",
+      "spelling": "tsū-sè hàn tio̍h ài lōng liù liân  sì-kè tsáu tshuàn sì-kè lo̍k-tô",
+      "source_lines": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "歹工結歸黨底七逃　持大講的話　甲當作風底吹",
+      "spelling": "pháinn kang kat kui tóng té tshit tô  tî tuā kóng ê uē  kā tòng-tsò hong té tshue",
+      "source_lines": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "甘講讀冊才會出頭天  甘講生活是為著賺錢",
+      "spelling": "kam kóng tha̍k-tsheh tsiah ē tshut-thâu thinn  kam kóng sing-ua̍h sī uī-tio̍h thàn-tsînn",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "甘講讀冊才會出頭天",
+          "spelling": "kam kóng tha̍k-tsheh tsiah ē tshut-thâu thinn"
+        },
+        {
+          "text": "甘講生活是為著賺錢",
+          "spelling": "kam kóng sing-ua̍h sī uī-tio̍h thàn-tsînn"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "滿腹的理想一定要堅持　安呢生活才會充滿意義",
+      "spelling": "muá-pak ê lí-sióng it-tīng ài ngē-sí  an-ne sing-ua̍h tsiah ē tshiong-buán ì-gī",
+      "source_lines": [
+        36,
+        37
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：吳永吉   作曲：吳永吉   台羅拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": []
+}

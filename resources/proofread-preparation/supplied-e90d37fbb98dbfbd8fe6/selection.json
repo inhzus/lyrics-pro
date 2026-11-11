@@ -1,0 +1,28 @@
+{
+  "selected": {
+    "song_id": 490182972,
+    "title": "再会",
+    "artists": [
+      "Ripple"
+    ],
+    "album": "袂开的花",
+    "duration": 315.036,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:490182972",
+      "duration": 315.036,
+      "ready": false,
+      "coverage": 0.6116504854368932,
+      "exact_fraction": 0.6666666666666666,
+      "summary": {
+        "credit": 2,
+        "unresolved": 8,
+        "repeat": 16,
+        "gap": 4
+      }
+    }
+  ]
+}

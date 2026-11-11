@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 157189,
+    "title": "空袭警报",
+    "artists": [
+      "伍佰 & China Blue"
+    ],
+    "album": "树枝孤鸟",
+    "duration": 244.466,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:157189",
+      "duration": 244.466,
+      "ready": false,
+      "coverage": 0.90625,
+      "exact_fraction": 0.59375,
+      "summary": {
+        "credit": 3,
+        "repeat": 8,
+        "exact": 11,
+        "approximate": 10,
+        "unresolved": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "recording_id": "netease:249190",
+  "timing_source": "NetEase https://music.163.com/song?id=249190",
+  "manual_source": "User-supplied resources/lyrics-spelling/風中的蠟燭-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "repeat": 20,
+    "exact": 2,
+    "approximate": 1,
+    "unresolved": 6,
+    "gap": 2
+  },
+  "review_row_count": 7,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-16:0",
+    "line-22:0",
+    "line-25:0",
+    "line-46:0",
+    "line-52:0",
+    "line-55:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 28.54,
+      "online_text": "女人心 像风中的蜡烛",
+      "match_text": "女人心 像风中的蜡烛",
+      "text": "女人心　像風中的蠟燭",
+      "spelling": "lí-lîn-sim tshiūnn hong-tiong ê la̍h-tsik",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 35.26,
+      "online_text": "秋风微微啊 受尽刺激",
+      "match_text": "秋风微微啊 受尽刺激",
+      "text": "秋風微微啊　受盡刺激",
+      "spelling": "tshiu hong bî-bî-á siū tsīn tshì-kik",
+      "manual_id": "line-4:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 2,
+      "time": 42.06,
+      "online_text": "月光影块闪炽 风云褪色",
+      "match_text": "月光影块闪炽 风云褪色",
+      "text": "月光影塊閃熾　風雲褪色",
+      "spelling": "gue̍h-kng iánn tè siám-sih hong hûn thè-sik",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.9
+    },
+    {
+      "source_row": 3,
+      "time": 49.01,
+      "online_text": "女人啊 无言是美德",
+      "match_text": "女人啊 无言是美德",
+      "text": "女人啊　無言是美德",
+      "spelling": "lú-lîn ah bô-giân sī bí-tik",
+      "manual_id": "line-10:0",
+      "status": "exact",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 4,
+      "time": 56.48,
+      "online_text": "女人心 像风中的蜡烛",
+      "match_text": "女人心 像风中的蜡烛",
+      "text": "女人心　像風中的蠟燭",
+      "spelling": "lí-lîn-sim tshiūnn hong-tiong ê la̍h-tsik",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 63.22,
+      "online_text": "只有雨绵绵啊 受尽打击",
+      "match_text": "只有雨绵绵啊 受尽打击",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 70.39,
+      "online_text": "天顶啊块闪电 风云变色",
+      "match_text": "天顶啊块闪电 风云变色",
+      "text": "天頂啊塊閃電　風雲變色",
+      "spelling": "thinn-tíng ah tè siám-tiān hong-hûn piàn-sik",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 77.44,
+      "online_text": "女人啊 按耐是气魄",
+      "match_text": "女人啊 按耐是气魄",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 84.86,
+      "online_text": "天性温柔啊 是女人的本色",
+      "match_text": "天性温柔啊 是女人的本色",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 92.09,
+      "online_text": "该当疼惜啊 是男人的选择",
+      "match_text": "该当疼惜啊 是男人的选择",
+      "text": "該當疼惜啊　是男人的選擇",
+      "spelling": "kai-tong thiànn-sioh ah sī lâm-lîn ê suán-ti̍k",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 98.97,
+      "online_text": "风中的蜡烛 心碎流红泪",
+      "match_text": "风中的蜡烛 心碎流红泪",
+      "text": "風中的蠟燭　心碎流紅淚",
+      "spelling": "hong-tiong ê la̍h-tsik sim tshuì lâu âng luī",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 106.97,
+      "online_text": "无人看见 无人来安慰",
+      "match_text": "无人看见 无人来安慰",
+      "text": "無人看見　無人來安慰",
+      "spelling": "bô-lâng khuànn-kìnn bô-lâng lâi an-uì",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 113.55,
+      "online_text": "啊 风中的蜡烛 受风雨的凌迟",
+      "match_text": "啊 风中的蜡烛 受风雨的凌迟",
+      "text": "啊　風中的蠟燭　受風雨的凌遲",
+      "spelling": "ah hong-tiong ê la̍h-tsik siū hong-hōo ê lîng-tî",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 120.63,
+      "online_text": "谁人来解围 阮将魂魄交乎伊",
+      "match_text": "谁人来解围 阮将魂魄交乎伊",
+      "text": "誰人來解圍　阮將魂魄交乎伊",
+      "spelling": "siánn-lâng lâi kái-uî gún tsiòng hûn-phik ka hōo i",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 14,
+      "time": 129.78,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 15,
+      "time": 141.52,
+      "online_text": "女人心 像风中的蜡烛",
+      "match_text": "女人心 像风中的蜡烛",
+      "text": "女人心　像風中的蠟燭",
+      "spelling": "lí-lîn-sim tshiūnn hong-tiong ê la̍h-tsik",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 147.95,
+      "online_text": "只有雨绵绵啊 受尽打击",
+      "match_text": "只有雨绵绵啊 受尽打击",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 155.06,
+      "online_text": "天顶啊块闪电 风云变色",
+      "match_text": "天顶啊块闪电 风云变色",
+      "text": "天頂啊塊閃電　風雲變色",
+      "spelling": "thinn-tíng ah tè siám-tiān hong-hûn piàn-sik",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 162.09,
+      "online_text": "女人啊 按耐是气魄",
+      "match_text": "女人啊 按耐是气魄",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 169.2,
+      "online_text": "天性温柔啊 是女人的本色",
+      "match_text": "天性温柔啊 是女人的本色",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 176.65,
+      "online_text": "该当疼惜啊 是男人的选择",
+      "match_text": "该当疼惜啊 是男人的选择",
+      "text": "該當疼惜啊　是男人的選擇",
+      "spelling": "kai-tong thiànn-sioh ah sī lâm-lîn ê suán-ti̍k",
+      "manual_id": "line-28:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 184.44,
+      "online_text": "风中的蜡烛 心碎流红泪",
+      "match_text": "风中的蜡烛 心碎流红泪",
+      "text": "風中的蠟燭　心碎流紅淚",
+      "spelling": "hong-tiong ê la̍h-tsik sim tshuì lâu âng luī",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 191.82,
+      "online_text": "无人看见 无人来安慰",
+      "match_text": "无人看见 无人来安慰",
+      "text": "無人看見　無人來安慰",
+      "spelling": "bô-lâng khuànn-kìnn bô-lâng lâi an-uì",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 198.5,
+      "online_text": "啊 风中的蜡烛 受风雨的凌迟",
+      "match_text": "啊 风中的蜡烛 受风雨的凌迟",
+      "text": "啊　風中的蠟燭　受風雨的凌遲",
+      "spelling": "ah hong-tiong ê la̍h-tsik siū hong-hōo ê lîng-tî",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 205.55,
+      "online_text": "谁人来解围 阮将魂魄交乎伊",
+      "match_text": "谁人来解围 阮将魂魄交乎伊",
+      "text": "誰人來解圍　阮將魂魄交乎伊",
+      "spelling": "siánn-lâng lâi kái-uî gún tsiòng hûn-phik ka hōo i",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 212.26,
+      "online_text": "风中的蜡烛 心碎流红泪",
+      "match_text": "风中的蜡烛 心碎流红泪",
+      "text": "風中的蠟燭　心碎流紅淚",
+      "spelling": "hong-tiong ê la̍h-tsik sim tshuì lâu âng luī",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 219.6,
+      "online_text": "无人看见 无人来安慰",
+      "match_text": "无人看见 无人来安慰",
+      "text": "無人看見　無人來安慰",
+      "spelling": "bô-lâng khuànn-kìnn bô-lâng lâi an-uì",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 226.35,
+      "online_text": "啊 风中的蜡烛 受风雨的凌迟",
+      "match_text": "啊 风中的蜡烛 受风雨的凌迟",
+      "text": "啊　風中的蠟燭　受風雨的凌遲",
+      "spelling": "ah hong-tiong ê la̍h-tsik siū hong-hōo ê lîng-tî",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 28,
+      "time": 233.36,
+      "online_text": "谁人来解围 阮将魂魄交乎伊",
+      "match_text": "谁人来解围 阮将魂魄交乎伊",
+      "text": "誰人來解圍　阮將魂魄交乎伊",
+      "spelling": "siánn-lâng lâi kái-uî gún tsiòng hûn-phik ka hōo i",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 240.38,
+      "online_text": "谁人来解围 阮将魂魄交乎伊",
+      "match_text": "谁人来解围 阮将魂魄交乎伊",
+      "text": "誰人來解圍　阮將魂魄交乎伊",
+      "spelling": "siánn-lâng lâi kái-uî gún tsiòng hûn-phik ka hōo i",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 249.41,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "6b7c2e8b031b30ec98c05a9ad2bcbfa9f3c0bce7ff5f64abaf27fb0dbb1037a2",
+    "manual": "d228e5fa18956d8920c6d9559a434ae73e26a8a95b88dd2862a7b7f700404fa1",
+    "timed": "bf6308e5c72b9e7d5332e0acfe5015e6f9ca113e21a7070190780b4dd5a21d1f"
+  }
+}

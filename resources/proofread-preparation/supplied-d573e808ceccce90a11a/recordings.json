@@ -1,0 +1,780 @@
+{
+  "candidates": [
+    {
+      "song_id": 1354451040,
+      "title": "約束",
+      "artists": [
+        "Akie秋绘"
+      ],
+      "album": "约定",
+      "duration": 292.222,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1416874871,
+      "title": "約束",
+      "artists": [
+        "Roselia"
+      ],
+      "album": "約束",
+      "duration": 304.6,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3450842158,
+      "title": "約束",
+      "artists": [
+        "高嶺のなでしこ"
+      ],
+      "album": "約束",
+      "duration": 206.999,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 22663881,
+      "title": "約束",
+      "artists": [
+        "中森明菜"
+      ],
+      "album": "CRIMSON",
+      "duration": 245.093,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 26134220,
+      "title": "約束",
+      "artists": [
+        "折戸伸治"
+      ],
+      "album": "Kanon Original SoundTrack",
+      "duration": 190.8,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1810913539,
+      "title": "約束",
+      "artists": [
+        "フレンズ"
+      ],
+      "album": "約束",
+      "duration": 297.958,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5000649,
+      "title": "約束",
+      "artists": [
+        "笠原弘子"
+      ],
+      "album": "マクロス SONG COLLECTION",
+      "duration": 325.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 425280140,
+      "title": "約束",
+      "artists": [
+        "上北健"
+      ],
+      "album": "TIDE",
+      "duration": 275.733,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1500883820,
+      "title": "約束",
+      "artists": [
+        "Eve"
+      ],
+      "album": "廻廻奇譚 / 蒼のワルツ",
+      "duration": 252.693,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 4994307,
+      "title": "约束",
+      "artists": [
+        "Little Wing",
+        "片霧烈火"
+      ],
+      "album": "最终兵器彼女イメージアルバム-远い约束",
+      "duration": 240.075,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 414085,
+      "title": "約束",
+      "artists": [
+        "井上和彦"
+      ],
+      "album": "ニャンコ先生 プレミアムボイス集",
+      "duration": 6.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1354451040,
+      "title": "約束",
+      "artists": [
+        "Akie秋绘"
+      ],
+      "album": "约定",
+      "duration": 292.222,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1416874871,
+      "title": "約束",
+      "artists": [
+        "Roselia"
+      ],
+      "album": "約束",
+      "duration": 304.6,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3450842158,
+      "title": "約束",
+      "artists": [
+        "高嶺のなでしこ"
+      ],
+      "album": "約束",
+      "duration": 206.999,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 22663881,
+      "title": "約束",
+      "artists": [
+        "中森明菜"
+      ],
+      "album": "CRIMSON",
+      "duration": 245.093,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 26134220,
+      "title": "約束",
+      "artists": [
+        "折戸伸治"
+      ],
+      "album": "Kanon Original SoundTrack",
+      "duration": 190.8,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1810913539,
+      "title": "約束",
+      "artists": [
+        "フレンズ"
+      ],
+      "album": "約束",
+      "duration": 297.958,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5000649,
+      "title": "約束",
+      "artists": [
+        "笠原弘子"
+      ],
+      "album": "マクロス SONG COLLECTION",
+      "duration": 325.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 425280140,
+      "title": "約束",
+      "artists": [
+        "上北健"
+      ],
+      "album": "TIDE",
+      "duration": 275.733,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1500883820,
+      "title": "約束",
+      "artists": [
+        "Eve"
+      ],
+      "album": "廻廻奇譚 / 蒼のワルツ",
+      "duration": 252.693,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 4994307,
+      "title": "约束",
+      "artists": [
+        "Little Wing",
+        "片霧烈火"
+      ],
+      "album": "最终兵器彼女イメージアルバム-远い约束",
+      "duration": 240.075,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 414085,
+      "title": "約束",
+      "artists": [
+        "井上和彦"
+      ],
+      "album": "ニャンコ先生 プレミアムボイス集",
+      "duration": 6.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1354451040,
+      "title": "約束",
+      "artists": [
+        "Akie秋绘"
+      ],
+      "album": "约定",
+      "duration": 292.222,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 28738968,
+      "title": "約束",
+      "artists": [
+        "深田愛衣"
+      ],
+      "album": "恋がさくころ桜どき キャラクターソングアルバム",
+      "duration": 300.706,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 26134220,
+      "title": "約束",
+      "artists": [
+        "折戸伸治"
+      ],
+      "album": "Kanon Original SoundTrack",
+      "duration": 190.8,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1416874871,
+      "title": "約束",
+      "artists": [
+        "Roselia"
+      ],
+      "album": "約束",
+      "duration": 304.6,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1810913539,
+      "title": "約束",
+      "artists": [
+        "フレンズ"
+      ],
+      "album": "約束",
+      "duration": 297.958,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31560286,
+      "title": "約束",
+      "artists": [
+        "今井麻美"
+      ],
+      "album": "THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! -LOVE&PEACE!-",
+      "duration": 457.706,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 22663881,
+      "title": "約束",
+      "artists": [
+        "中森明菜"
+      ],
+      "album": "CRIMSON",
+      "duration": 245.093,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1500883820,
+      "title": "約束",
+      "artists": [
+        "Eve"
+      ],
+      "album": "廻廻奇譚 / 蒼のワルツ",
+      "duration": 252.693,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3386621011,
+      "title": "約束",
+      "artists": [
+        "Dehumanizing Itatrain Worship",
+        "PALE"
+      ],
+      "album": "二次元コンプレックス 2D Complex",
+      "duration": 351.437,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3450842158,
+      "title": "約束",
+      "artists": [
+        "高嶺のなでしこ"
+      ],
+      "album": "約束",
+      "duration": 206.999,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 26332226,
+      "title": "約束",
+      "artists": [
+        "門脇舞以",
+        "高橋美佳子",
+        "能登麻美子"
+      ],
+      "album": "今日の5の2 Blu-ray Collection",
+      "duration": 261.72,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 26143970,
+      "title": "約束",
+      "artists": [
+        "堀江由衣"
+      ],
+      "album": "ラブひな ヴォーカル・コンプリート・ボックス 届け、私たちの歌♥",
+      "duration": 281.053,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1463129698,
+      "title": "約束",
+      "artists": [
+        "Roselia"
+      ],
+      "album": "Wahl",
+      "duration": 304.6,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 554245085,
+      "title": "約束",
+      "artists": [
+        "藍井エイル"
+      ],
+      "album": "流星 / 約束",
+      "duration": 286.371,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 756962,
+      "title": "約束",
+      "artists": [
+        "KinKi Kids"
+      ],
+      "album": "約束",
+      "duration": 257.695,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 618340,
+      "title": "約束",
+      "artists": [
+        "Miss Monday"
+      ],
+      "album": "雨虹 -no rain, no rainbow-",
+      "duration": 289.506,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 425280140,
+      "title": "約束",
+      "artists": [
+        "上北健"
+      ],
+      "album": "TIDE",
+      "duration": 275.733,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 608693,
+      "title": "約束",
+      "artists": [
+        "Lia"
+      ],
+      "album": "约束",
+      "duration": 273.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1444711764",
+      "title": "约束",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "爱着啊",
+      "duration": 244.507,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1741559043",
+      "title": "約束",
+      "artists": [
+        "Okea"
+      ],
+      "album": "I've Been Pretended Regarded for Seven Years",
+      "duration": 151.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1619481073",
+      "title": "約束",
+      "artists": [
+        "砂布°"
+      ],
+      "album": "Blue",
+      "duration": 247.957,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1052026213",
+      "title": "約束",
+      "artists": [
+        "Minami Kizuki"
+      ],
+      "album": "尊々加那志~トウトガナシ~",
+      "duration": 309.253,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "295251581",
+      "title": "約束",
+      "artists": [
+        "田我流"
+      ],
+      "album": "作品集 JUST",
+      "duration": 225.027,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1257619407",
+      "title": "約束",
+      "artists": [
+        "Seifuku Koujyou Iinkai"
+      ],
+      "album": "愛と勇気と思いやり",
+      "duration": 260.133,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1546590927",
+      "title": "約束",
+      "artists": [
+        "ATLUS Sound Team"
+      ],
+      "album": "ペルソナQ シャドウ オブ ザ ラビリンス オリジナル・サウンドトラック",
+      "duration": 102.16,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 15893417,
+      "title": "约束",
+      "artists": [
+        "DOMINO"
+      ],
+      "album": "U can do it !",
+      "duration": 235.16,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 37086455,
+      "title": "约束",
+      "artists": [
+        "笠原弘子"
+      ],
+      "album": "Macross Song Collection 2002 (Disc 1)",
+      "duration": 324.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 38368402,
+      "title": "约束",
+      "artists": [
+        "Kiroro"
+      ],
+      "album": "Four Leaves Clover",
+      "duration": 308.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 8344496,
+      "title": "約束",
+      "artists": [
+        "Sei"
+      ],
+      "album": "The Promise",
+      "duration": 169.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5343134,
+      "title": "約束",
+      "artists": [
+        "Akina Nakamori"
+      ],
+      "album": "CRIMSON",
+      "duration": 245.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3501091,
+      "title": "約束",
+      "artists": [
+        "佐藤直紀"
+      ],
+      "album": "Sen No Kaze Ni Natte Dorama Special Hadashi No Gen (Original Soundtrack)",
+      "duration": 245.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3124327,
+      "title": "約束",
+      "artists": [
+        "Roselia"
+      ],
+      "album": "Wahl",
+      "duration": 305.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3327044,
+      "title": "約束",
+      "artists": [
+        "Roselia"
+      ],
+      "album": "約束",
+      "duration": 305.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 6512903,
+      "title": "約束",
+      "artists": [
+        "FRIENDS"
+      ],
+      "album": "約束",
+      "duration": 298.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 6602122,
+      "title": "約束",
+      "artists": [
+        "Shiggy Jr."
+      ],
+      "album": "SHUFFLE!! E.P.",
+      "duration": 277.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 6512902,
+      "title": "約束",
+      "artists": [
+        "Friends"
+      ],
+      "album": "Yakusoku - Single",
+      "duration": 298.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 8858069,
+      "title": "約束",
+      "artists": [
+        "MUCC"
+      ],
+      "album": "Yakusoku",
+      "duration": 249.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 9151444,
+      "title": "約束",
+      "artists": [
+        "Eir Aoi"
+      ],
+      "album": "FRAGMENT （Special Edition）",
+      "duration": 287.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 9207258,
+      "title": "約束",
+      "artists": [
+        "Akina Nakamori"
+      ],
+      "album": "CRIMSON (Lacquer Master Sound)",
+      "duration": 245.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30511422,
+      "title": "約束",
+      "artists": [
+        "リリィ、さよなら。"
+      ],
+      "album": "サイドストーリー",
+      "duration": 292.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30449532,
+      "title": "約束",
+      "artists": [
+        "五輪真弓"
+      ],
+      "album": "MAYUMI CLASSICS (disc 1)",
+      "duration": 192.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29711121,
+      "title": "約束",
+      "artists": [
+        "Eir Aoi"
+      ],
+      "album": "流星 / 約束",
+      "duration": 287.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 29421896,
+      "title": "約束",
+      "artists": [
+        "渡辺徹"
+      ],
+      "album": "青春歌年鑑 BEST30 ('82)",
+      "duration": 223.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30298547,
+      "title": "約束",
+      "artists": [
+        "五輪真弓"
+      ],
+      "album": "五輪真弓超級金裝精選",
+      "duration": 192.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 33173212,
+      "title": "約束",
+      "artists": [
+        "UTAMARO Movement"
+      ],
+      "album": "TVアニメ『ウマ娘 プリティーダービー』ANIMATION DERBY Season 2 vol.3 Original Sound Track",
+      "duration": 103.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 33027350,
+      "title": "約束",
+      "artists": [
+        "Hiroko Kasahara"
+      ],
+      "album": "決定版 マクロス ソングコレクション",
+      "duration": 326.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 32464251,
+      "title": "約束",
+      "artists": [
+        "チューリップ"
+      ],
+      "album": "Tulip おいしい曲すべて 1972-2006 Young Days～ [Disc 2]",
+      "duration": 287.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 32467292,
+      "title": "約束",
+      "artists": [
+        "Murashita Kozo (村下孝蔵)"
+      ],
+      "album": "歌人II -ソングコレクション-",
+      "duration": 252.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,695 @@
+{
+  "recording_id": "netease:426881143",
+  "timing_source": "NetEase https://music.163.com/song?id=426881143",
+  "manual_source": "User-supplied resources/lyrics-spelling/勇敢-五月天",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 3,
+    "unresolved": 34,
+    "exact": 3,
+    "approximate": 6
+  },
+  "review_row_count": 43,
+  "unmatched_manual_ids": [
+    "line-9:1",
+    "line-12:1",
+    "line-18:0",
+    "line-21:0",
+    "line-21:1",
+    "line-24:0",
+    "line-24:1",
+    "line-48:0",
+    "line-48:1",
+    "line-51:0",
+    "line-69:0",
+    "line-69:1",
+    "line-69:2",
+    "line-72:0",
+    "line-72:1",
+    "line-72:2",
+    "line-75:0",
+    "line-75:1",
+    "line-75:2"
+  ],
+  "unused_repeat_ids": [
+    "line-27:0",
+    "line-30:0",
+    "line-30:1",
+    "line-30:2",
+    "line-30:3",
+    "line-33:0",
+    "line-33:1",
+    "line-33:2",
+    "line-33:3",
+    "line-36:0",
+    "line-36:1",
+    "line-36:2",
+    "line-36:3",
+    "line-39:0",
+    "line-39:1",
+    "line-54:0",
+    "line-57:0",
+    "line-57:1",
+    "line-57:2",
+    "line-57:3",
+    "line-60:0",
+    "line-60:1",
+    "line-60:2",
+    "line-60:3",
+    "line-63:0",
+    "line-63:1",
+    "line-63:2",
+    "line-63:3",
+    "line-66:0",
+    "line-66:1",
+    "line-78:0",
+    "line-78:1",
+    "line-78:2",
+    "line-78:3",
+    "line-81:0",
+    "line-81:1",
+    "line-81:2",
+    "line-81:3",
+    "line-87:0",
+    "line-87:1"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 五月天 阿信",
+      "match_text": "作词 : 五月天 阿信",
+      "text": "作词 : 五月天 阿信",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 五月天 怪兽",
+      "match_text": "作曲 : 五月天 怪兽",
+      "text": "作曲 : 五月天 怪兽",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 3.94,
+      "online_text": "编曲演奏：五月天",
+      "match_text": "编曲演奏：五月天",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 4.9399999999999995,
+      "online_text": "导演：邓勇星+詹凯",
+      "match_text": "导演：邓勇星+詹凯",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 25.94,
+      "online_text": "敢讲这是失去希望的时代？",
+      "match_text": "敢讲这是失去希望的时代？",
+      "text": "敢講這是失去希望的時代",
+      "spelling": "kám kóng tse sī sit-khì hi-bāng ê sî-tāi",
+      "manual_id": "line-3:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 32.24,
+      "online_text": "敢讲这是失去期待的所在？",
+      "match_text": "敢讲这是失去期待的所在？",
+      "text": "敢講這是失去期待的所在",
+      "spelling": "kám kóng tse sī sit-khì kî-thāi ê sóo-tsāi",
+      "manual_id": "line-6:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 38.59,
+      "online_text": "敢讲咱一世人只有忍耐 只有愤慨 只有无奈",
+      "match_text": "敢讲咱一世人只有忍耐 只有愤慨 只有无奈",
+      "text": "敢講咱一世人只有忍耐",
+      "spelling": "kám kóng lán tsi̍t-sì-lâng tsí-ū lím-nāi",
+      "manual_id": "line-9:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.714286
+    },
+    {
+      "source_row": 7,
+      "time": 45.79,
+      "online_text": "只有目屎无人知 吞落腹肚内",
+      "match_text": "只有目屎无人知 吞落腹肚内",
+      "text": "只有目屎無人知",
+      "spelling": "tsí-ū ba̍k-sái bô-lâng tsai",
+      "manual_id": "line-12:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.736842
+    },
+    {
+      "source_row": 8,
+      "time": 51.9,
+      "online_text": "看着心愿慢慢变做毋甘愿",
+      "match_text": "看着心愿慢慢变做毋甘愿",
+      "text": "看到心願慢慢變成不甘願",
+      "spelling": "khuànn-tio̍h sim-guān bān bān piàn-sîng m̄ kam-guān",
+      "manual_id": "line-15:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.727273
+    },
+    {
+      "source_row": 9,
+      "time": 57.9,
+      "online_text": "才知期待袂当恬恬仔等待",
+      "match_text": "才知期待袂当恬恬仔等待",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 64.13,
+      "online_text": "毋管咱是天才抑是奴才 只有拼着所有气力",
+      "match_text": "毋管咱是天才抑是奴才 只有拼着所有气力",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 71.37,
+      "online_text": "挑战无情的世间 一工一冬一世人到永远",
+      "match_text": "挑战无情的世间 一工一冬一世人到永远",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 77.72,
+      "online_text": "一摆阁一摆",
+      "match_text": "一摆阁一摆",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 80.42,
+      "online_text": "毋知影 谁咧安排 命运好歹 一人拢一款",
+      "match_text": "毋知影 谁咧安排 命运好歹 一人拢一款",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 87.01,
+      "online_text": "有时阵 想欲放弃 想欲怨叹 想欲流目屎",
+      "match_text": "有时阵 想欲放弃 想欲怨叹 想欲流目屎",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 93.35,
+      "online_text": "等一工 乌暗过去 苦尽甘来 人生滋味才了解",
+      "match_text": "等一工 乌暗过去 苦尽甘来 人生滋味才了解",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 99.63,
+      "online_text": "为着彼个将来",
+      "match_text": "为着彼个将来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 101.17,
+      "online_text": "爱自己 勇敢再勇敢",
+      "match_text": "爱自己 勇敢再勇敢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 128.14,
+      "online_text": "若有一工 若阮消失伫世间",
+      "match_text": "若有一工 若阮消失伫世间",
+      "text": "若有一天若我消失在世間",
+      "spelling": "nā-ū tsi̍t kang ná guá siau-sit tsāi sè-kan",
+      "manual_id": "line-42:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.727273
+    },
+    {
+      "source_row": 19,
+      "time": 134.57,
+      "online_text": "若有我的故事予谁人熟似",
+      "match_text": "若有我的故事予谁人熟似",
+      "text": "若有我的故事給誰人熟識",
+      "spelling": "nā-ū guá ê kòo-sū hōo siánn-lâng si̍k-sāi",
+      "manual_id": "line-45:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.818182
+    },
+    {
+      "source_row": 20,
+      "time": 140.98,
+      "online_text": "毋管阮是成功抑是失败 我的名字号做勇敢",
+      "match_text": "毋管阮是成功抑是失败 我的名字号做勇敢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 148.16,
+      "online_text": "唱做美丽的歌曲 一字一句一世人到永远",
+      "match_text": "唱做美丽的歌曲 一字一句一世人到永远",
+      "text": "一字一句 一世人到永遠",
+      "spelling": "tsi̍t jī tsi̍t kù tsi̍t-sì-lâng kàu íng-uán",
+      "manual_id": "line-51:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.740741
+    },
+    {
+      "source_row": 22,
+      "time": 154.55,
+      "online_text": "一摆阁一摆",
+      "match_text": "一摆阁一摆",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 157.46,
+      "online_text": "毋知影 谁咧安排 命运好歹 一人拢一款",
+      "match_text": "毋知影 谁咧安排 命运好歹 一人拢一款",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 163.75,
+      "online_text": "有时阵 想欲放弃 想欲怨叹 想欲流目屎",
+      "match_text": "有时阵 想欲放弃 想欲怨叹 想欲流目屎",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 170.17,
+      "online_text": "等一工 乌暗过去 苦尽甘来 人生滋味才了解",
+      "match_text": "等一工 乌暗过去 苦尽甘来 人生滋味才了解",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 176.42,
+      "online_text": "为着彼个将来",
+      "match_text": "为着彼个将来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 178.14,
+      "online_text": "爱自己 勇敢再勇敢",
+      "match_text": "爱自己 勇敢再勇敢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 205.63,
+      "online_text": "风无情 雨无情 命运也无情",
+      "match_text": "风无情 雨无情 命运也无情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 208.71,
+      "online_text": "若有胆 若有心 风雨算啥物",
+      "match_text": "若有胆 若有心 风雨算啥物",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 212.18,
+      "online_text": "飘浪一生 着爱盘过上悬的海涌",
+      "match_text": "飘浪一生 着爱盘过上悬的海涌",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 221.48,
+      "online_text": "毋知影 谁咧安排 命运好歹 一人拢一款",
+      "match_text": "毋知影 谁咧安排 命运好歹 一人拢一款",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 227.84,
+      "online_text": "有时阵 想欲放弃 想欲怨叹 想欲流目屎",
+      "match_text": "有时阵 想欲放弃 想欲怨叹 想欲流目屎",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 234.16,
+      "online_text": "等一天 黑暗过去 苦尽甘来 人生滋味才了解",
+      "match_text": "等一天 黑暗过去 苦尽甘来 人生滋味才了解",
+      "text": "等一天 黑暗過去                                 苦盡甘來                     人生滋味才了解",
+      "spelling": "tán tsi̍t kang    oo-àm kuè-khì        khóo tsīn kam lâi    lîn-sing tsu-bī tsiah liáu-kái",
+      "manual_id": "line-84:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 34,
+      "time": 240.25,
+      "online_text": "为着彼个将来",
+      "match_text": "为着彼个将来",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 242.34,
+      "online_text": "爱自己 勇敢再勇敢",
+      "match_text": "爱自己 勇敢再勇敢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 273.41,
+      "online_text": "制作人：五月天",
+      "match_text": "制作人：五月天",
+      "text": "制作人：五月天",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 37,
+      "time": 273.91,
+      "online_text": "編曲演奏：五月天+Cola Kai",
+      "match_text": "編曲演奏：五月天+Cola Kai",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 274.41,
+      "online_text": "和音演唱：黄士杰+Cola Kai",
+      "match_text": "和音演唱：黄士杰+Cola Kai",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 274.91,
+      "online_text": "弦乐编写演奏：李琪弦乐团",
+      "match_text": "弦乐编写演奏：李琪弦乐团",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 275.41,
+      "online_text": "管乐编写：怪兽",
+      "match_text": "管乐编写：怪兽",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 275.91,
+      "online_text": "录/混音：黄士杰 @五月天录音室",
+      "match_text": "录/混音：黄士杰 @五月天录音室",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 276.41,
+      "online_text": "鼓技師：余璨宇",
+      "match_text": "鼓技師：余璨宇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 276.91,
+      "online_text": "吉他技师：陈俊豪",
+      "match_text": "吉他技师：陈俊豪",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 277.41,
+      "online_text": "制作助理：江昆余+柯弗奇",
+      "match_text": "制作助理：江昆余+柯弗奇",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 277.91,
+      "online_text": "母带后期制作：Brad Blackwood @Euphonic Masters",
+      "match_text": "母带后期制作：Brad Blackwood @Euphonic Masters",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "499cbda9df2a635c1b6382dc1055a7b02d3a726ea5f3b2993a02b4df4af21d5f",
+    "manual": "a516ce88c997a0b94cf2dada0f084065094dc5f1fbf35dca4bd70649fad9106b",
+    "timed": "64f040147b8aa1daac48074e5999b37289a22525a6d3b59c61d9c95621a6ff72"
+  }
+}

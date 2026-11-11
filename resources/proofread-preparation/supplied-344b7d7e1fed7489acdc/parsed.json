@@ -1,0 +1,261 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "忽然間你一通電話",
+      "spelling": "hut-liân kan lí tsi̍t thong tiān-uē",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "掐倒我手中捧的茶",
+      "spelling": "tsiah tó guá tshiú-tiong phâng ê tê",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "聽你講心內話 心情底落雪",
+      "spelling": "thiann lí kóng sim-lāi uē sim-tsîng té lo̍h-seh",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "置這坐 到天白",
+      "spelling": "tì tsia tsē kàu thinn pe̍h",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "驚你乎風雨吹啊吹",
+      "spelling": "kiann lí hōo hong-hōo tshue ah tshue",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "你是我手中捧的花",
+      "spelling": "lí sī guá tshiú-tiong phâng ê hue",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "花開真正美麗 花期哪這短",
+      "spelling": "hue khui tsin-tsiànn bí-lē hue-kî ná tsit té",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "緣分若凋謝 無底找",
+      "spelling": "iân hun ná tiau-siā bô té tshuē",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "送你惦惦離開滿腹心酸沒人知影甘會卡好過",
+      "spelling": "sàng lí tiām tiām lī-khui muá-pak sim-sng bô-lâng tsai-iánn kam ē khá hó kuè",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "乎我最後的批滿面目屎流 幾落暝",
+      "spelling": "hōo guá tsuè-āu ê phue muá-bīn ba̍k-sái lâu kuí làu mê",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "欲怎樣返去 點未著的情火",
+      "spelling": "beh tsuánn-iūnn tńg khì tiám buē-tio̍h ê tsîng hué",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "電話寫著你的名字 無緣ㄟ",
+      "spelling": "tiān-uē siá-tio̍h lí ê miâ-lī bô iân ê",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "忽然間你一通電話",
+      "spelling": "hut-liân kan lí tsi̍t thong tiān-uē",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "往事置眼前飛啊飛",
+      "spelling": "óng-sū tì gíng-tsîng pue ah pue",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "無想欲再挽回 無需要解說",
+      "spelling": "bô siūnn buē tsài bán-huê bô su-iàu kái-sueh",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "緣分若無多 放風吹",
+      "spelling": "iân hun ná bô tsuē pàng hong tshue",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "祝你漸漸快樂漸漸幸福你的身邊 一直有人陪",
+      "spelling": "tsiok lí tsiām-tsiām khuài-lo̍k tsiām-tsiām hīng-hok lí ê sin-pinn it-ti̍t ū lâng puê",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "也有滿山花開滿天流星來 跟你飛",
+      "spelling": "iā ū muá-suann hue khui muá-thinn liû-tshinn lâi tuè lí pue",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "順命運的波浪 感謝這一切",
+      "spelling": "sūn miā-ūn ê pho-lōng kám-siā tse it-tshè",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "乎我叫著你的名字 無緣ㄟ",
+      "spelling": "hōo guá kiò-tio̍h lí ê miâ-lī bô iân ê",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "送你惦惦離開滿腹心酸沒人知影甘會卡好過",
+      "spelling": "sàng lí tiām tiām lī-khui muá-pak sim-sng bô-lâng tsai-iánn kam ē khá hó kuè",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "當作一場感情的債乎人老 幾落歲",
+      "spelling": "tòng-tsò tsi̍t tiûnn kám-tsîng ê tsè hōo lâng lāu kuí lo̍h huè",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "欲怎樣返去 點未著的情火",
+      "spelling": "beh tsuánn-iūnn tńg khì tiám buē-to̍h ê tsîng hué",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "感情未凍剩我 癡迷",
+      "spelling": "kám-tsîng buē tàng tshun guá tshi-bê",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "祝你漸漸快樂漸漸幸福你的身邊 一直有人陪",
+      "spelling": "tsiok lí tsiām-tsiām khuài-lo̍k tsiām-tsiām hīng-hok lí ê sin-pinn it-ti̍t ū lâng puê",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "也有滿山花開滿天流星來 跟你飛",
+      "spelling": "iā ū muá-suann hue khui muá-thinn liû-tshinn lâi tuè lí pue",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "順命運的波浪 感謝這一切",
+      "spelling": "sūn miā-ūn ê pho-lōng kám-siā tse it-tshè",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "乎我輕輕叫著你的名字 無緣ㄟ",
+      "spelling": "hōo guá khin khin kiò-tio̍h lí ê miâ-lī bô iân ê",
+      "source_lines": [
+        82,
+        83
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

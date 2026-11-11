@@ -1,0 +1,181 @@
+{
+  "candidates": [
+    {
+      "song_id": 142993,
+      "title": "恨世生",
+      "artists": [
+        "齐秦"
+      ],
+      "album": "纯情歌",
+      "duration": 183.771,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 142993,
+      "title": "恨世生",
+      "artists": [
+        "齐秦"
+      ],
+      "album": "纯情歌",
+      "duration": 183.771,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1956499340,
+      "title": "恨世生",
+      "artists": [
+        "小握"
+      ],
+      "album": "《淡水河边》小握闽南语三部曲Ⅱ",
+      "duration": 184.006,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3357585202,
+      "title": "恨世生",
+      "artists": [
+        "林玉英"
+      ],
+      "album": "台语钢琴酒吧8",
+      "duration": 191.333,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3433047628,
+      "title": "恨世生",
+      "artists": [
+        "孙庸铭"
+      ],
+      "album": "台语老歌精选1",
+      "duration": 191.378,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3357232375,
+      "title": "恨世生",
+      "artists": [
+        "空中夜总会"
+      ],
+      "album": "空中夜总会2",
+      "duration": 186.453,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 240807,
+      "title": "恨世生",
+      "artists": [
+        "黄妃"
+      ],
+      "album": "非常妃",
+      "duration": 155.893,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 28038090,
+      "title": "恨世生",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "戏梦演唱会Live",
+      "duration": 97.2,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1445985164",
+      "title": "恨世生",
+      "artists": [
+        "黄妃"
+      ],
+      "album": "非常妃",
+      "duration": 155.893,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 30831672,
+      "title": "恨世生",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "伍佰的LIVE - 枉費青春",
+      "duration": 200.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 31154799,
+      "title": "恨世生",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "伍佰的Live",
+      "duration": 200.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 18267561,
+      "title": "恨世生",
+      "artists": [
+        "伍佰"
+      ],
+      "album": "伍佰的Live",
+      "duration": 200.225669,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 18436602,
+      "title": "恨世生",
+      "artists": [
+        "伍佰"
+      ],
+      "album": "伍佰的LIVE-枉費青春",
+      "duration": 200.16,
+      "provider": "lrclib",
+      "verified_artist": true
+    },
+    {
+      "song_id": 13857834,
+      "title": "恨世生",
+      "artists": [
+        "黃妃"
+      ],
+      "album": "非常妃",
+      "duration": 156.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 27247967,
+      "title": "恨世生",
+      "artists": [
+        "伍佰 And China Blue"
+      ],
+      "album": "伍佰的Live",
+      "duration": 200.202449,
+      "provider": "lrclib",
+      "verified_artist": false
+    },
+    {
+      "song_id": 39122653,
+      "title": "恨世生",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "伍佰的LIVE-枉费青春",
+      "duration": 200.0,
+      "provider": "lrclib",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

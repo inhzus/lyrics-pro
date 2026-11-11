@@ -1,0 +1,277 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "一條大路通基隆　沿路紅燈擋袂完",
+      "spelling": "tsi̍t tiâu tuā-lōo thàng ke-lâng iân-lōo âng-ting tòng-buē-uân",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "一幕生活的討趁　到如今已經嘛彼呢多冬",
+      "spelling": "tsi̍t bōo sing-ua̍h ê thó-thàn kàu lû-kim í-king mā hiah-nī tsē tang",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "頭帶葵笠面紅紅　不驚風吹日亦曝",
+      "spelling": "thâu ti kuî le̍h bīn âng âng m̄-kiann hong-tshue ji̍t ia̍h pha̍k",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "惦在十字路頭賣玉蘭　伊將眠夢雙手捧",
+      "spelling": "tiām tsāi si̍p-jī lōo-thâu bē gio̍k-lân i tsiòng bîn-bāng siang-tshiú phâng",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "玉蘭花　雖然是真平凡",
+      "spelling": "gio̍k-lân hue sui-liân sī tsin pîng-huân",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "有心人　手梳著舉卡高",
+      "spelling": "ū sim lâng tshiú se-tio̍h gia̍h khá kuân",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "這個時代相偓促　互相愛幫忙",
+      "spelling": "tsit-ê sî-tāi siong ak-gak hōo-siong ài pang-bâng",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "咱的心內才會香",
+      "spelling": "lán ê sim-lāi tsiah ē phang",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "玉蘭花　氣味永遠真迷人",
+      "spelling": "gio̍k-lân hue khì-bī íng-uán tsin bê-lâng",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "用清香　安慰世態的炎涼",
+      "spelling": "iōng tshing-phang an-uì sè-thài ê iām liâng",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "雖然時代有卡亂　不是無溫暖",
+      "spelling": "sui-liân sî-tāi ū khá luān m̄ sī bô un-luán",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "咱若互相相痛疼　攏有希望",
+      "spelling": "lán ná hōo-siong siong thiànn-thàng lóng ū hi-bāng",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "頭帶葵笠面紅紅　不驚風吹日亦曝",
+      "spelling": "thâu ti kuî le̍h bīn âng âng m̄-kiann hong-tshue ji̍t ia̍h pha̍k",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "惦在十字路頭賣玉蘭　伊將眠夢雙手捧",
+      "spelling": "tiām tsāi si̍p-jī lōo-thâu bē gio̍k-lân i tsiòng bîn-bāng siang-tshiú phâng",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "玉蘭花　雖然是真平凡",
+      "spelling": "gio̍k-lân hue sui-liân sī tsin pîng-huân",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "有心人　手梳著舉卡高",
+      "spelling": "ū sim lâng tshiú se-tio̍h gia̍h khá kuân",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "這個時代相偓促　互相愛幫忙",
+      "spelling": "tsit-ê sî-tāi siong ak-gak hōo-siong ài pang-bâng",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "咱的心內才會香",
+      "spelling": "lán ê sim-lāi tsiah ē phang",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "玉蘭花　氣味永遠真迷人",
+      "spelling": "gio̍k-lân hue khì-bī íng-uán tsin bê-lâng",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "用清香　安慰世態的炎涼",
+      "spelling": "iōng tshing-phang an-uì sè-thài ê iām liâng",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "雖然時代有卡亂　不是無溫暖",
+      "spelling": "sui-liân sî-tāi ū khá luān m̄ sī bô un-luán",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "咱若互相相痛疼　攏有希望",
+      "spelling": "lán ná hōo-siong siong thiànn-thàng lóng ū hi-bāng",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "玉蘭花　雖然是真平凡",
+      "spelling": "gio̍k-lân hue sui-liân sī tsin pîng-huân",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "有心人　手梳著舉卡高",
+      "spelling": "ū sim lâng tshiú se-tio̍h gia̍h khá kuân",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "這個時代相偓促　互相愛幫忙",
+      "spelling": "tsit-ê sî-tāi siong ak-gak hōo-siong ài pang-bâng",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "咱的心內才會香",
+      "spelling": "lán ê sim-lāi tsiah ē phang",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-79",
+      "text": "玉蘭花　氣味永遠真迷人",
+      "spelling": "gio̍k-lân hue khì-bī íng-uán tsin bê-lâng",
+      "source_lines": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "line-82",
+      "text": "用清香　安慰世態的炎涼",
+      "spelling": "iōng tshing-phang an-uì sè-thài ê iām liâng",
+      "source_lines": [
+        82,
+        83
+      ]
+    },
+    {
+      "id": "line-85",
+      "text": "雖然時代有卡亂　不是無溫暖",
+      "spelling": "sui-liân sî-tāi ū khá luān m̄ sī bô un-luán",
+      "source_lines": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "line-88",
+      "text": "咱若互相相痛疼　攏有希望",
+      "spelling": "lán ná hōo-siong siong thiànn-thàng lóng ū hi-bāng",
+      "source_lines": [
+        88,
+        89
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

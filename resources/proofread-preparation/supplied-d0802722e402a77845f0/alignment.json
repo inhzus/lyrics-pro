@@ -1,0 +1,256 @@
+{
+  "recording_id": "netease:2706343918",
+  "timing_source": "NetEase https://music.163.com/song?id=2706343918",
+  "manual_source": "User-supplied resources/lyrics-spelling/卡拼咧-男子漢樂團",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 4,
+    "unresolved": 5,
+    "approximate": 8
+  },
+  "review_row_count": 13,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-46:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 宏大",
+      "match_text": "作词 : 宏大",
+      "text": "作词 : 宏大",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 宏大/狗斌",
+      "match_text": "作曲 : 宏大/狗斌",
+      "text": "作曲 : 宏大/狗斌",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 15.6,
+      "online_text": "卡拼咧",
+      "match_text": "卡拼咧",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 15.9,
+      "online_text": "词：宏大",
+      "match_text": "词：宏大",
+      "text": "词：宏大",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 4,
+      "time": 16.17,
+      "online_text": "曲：宏大／狗斌",
+      "match_text": "曲：宏大／狗斌",
+      "text": "曲：宏大／狗斌",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 20.43,
+      "online_text": "肚子已经是这大个搁呒知孩子是谁人的",
+      "match_text": "肚子已经是这大个搁呒知孩子是谁人的",
+      "text": "肚子攏已經駕大個 擱毋知孩子是誰人的",
+      "spelling": "pak-tóo lóng í-king sī tsiah tuā-ê koh m̄ tsai kín-á sī siánn-lâng ê",
+      "manual_id": "line-1:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.705882
+    },
+    {
+      "source_row": 6,
+      "time": 21.78,
+      "online_text": "大学毕业的有很多读到博士嘛是无工作",
+      "match_text": "大学毕业的有很多读到博士嘛是无工作",
+      "text": "大學畢業的有很多 讀到博士嘛是嘸工作",
+      "spelling": "tāi-ha̍k pit-gia̍p ê ū tsin tsē tha̍k-kàu phok-sū mā sī bô khang-khuè",
+      "manual_id": "line-4:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.941176
+    },
+    {
+      "source_row": 7,
+      "time": 23.7,
+      "online_text": "疯囝仔逐天热热绕警察搁底欺负老百姓",
+      "match_text": "疯囝仔逐天热热绕警察搁底欺负老百姓",
+      "text": "瘋孩子每天熱熱繞 警察擱底欺負老百姓",
+      "spelling": "siáu kín-á ta̍k-kang jua̍h jua̍h se̍h kíng-tshat koh tē khi-hū láu-peh-sènn",
+      "manual_id": "line-7:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.764706
+    },
+    {
+      "source_row": 8,
+      "time": 30.36,
+      "online_text": "总统呒知拢底冲啥夥选伊日子嘛无巧好过",
+      "match_text": "总统呒知拢底冲啥夥选伊日子嘛无巧好过",
+      "text": "總統嘸災攏底衝啥會 選伊日子嘛嘸卡好過",
+      "spelling": "tsóng-thóng m̄ tsai lóng tē tshiong siánn-huè suán i ji̍t-tsí mā m̄ khá-hó kuè",
+      "manual_id": "line-10:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.722222
+    },
+    {
+      "source_row": 9,
+      "time": 49.65,
+      "online_text": "老师问我那会无注册拢呒知阮爸早就无头家",
+      "match_text": "老师问我那会无注册拢呒知阮爸早就无头家",
+      "text": "老師問我那耶沒註冊 攏嘸知阮爸早就無頭家",
+      "spelling": "lāu-su mn̄g guá ná ê bô tsù-tsheh lóng m̄ tsai gún pā tsá tio̍h bô thâu-ke",
+      "manual_id": "line-13:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.842105
+    },
+    {
+      "source_row": 10,
+      "time": 55.98,
+      "online_text": "做兵是底糟蹋少年家退伍了后是欲冲啥夥",
+      "match_text": "做兵是底糟蹋少年家退伍了后是欲冲啥夥",
+      "text": "做兵是底糟蹋少年家 退伍之後是要做啥會",
+      "spelling": "tsò-ping sī tē tsháu-ta̍h siàu-liân ke thuè-ngóo liáu-āu sī bē tshiong siánn-huè",
+      "manual_id": "line-16:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.777778
+    },
+    {
+      "source_row": 11,
+      "time": 62.25,
+      "online_text": "政府拢底讲白贼话景气这坏拢嘛算阮耶",
+      "match_text": "政府拢底讲白贼话景气这坏拢嘛算阮耶",
+      "text": "政府攏底公白賊話 景氣駕壞攏嘛算阮耶",
+      "spelling": "tsìng-hú lóng tē kóng pe̍h-tsha̍t uē kíng-khì tsiah pháinn lóng mā sǹg gún ê",
+      "manual_id": "line-19:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.882353
+    },
+    {
+      "source_row": 12,
+      "time": 69.24,
+      "online_text": "有钱的安怎拢无罪这就是今嘛的社会",
+      "match_text": "有钱的安怎拢无罪这就是今嘛的社会",
+      "text": "有錢的安抓攏無罪 這就是今嘛的社會",
+      "spelling": "ū-tsînn ê an-tsuánn lóng bô tsuē tse tio̍h sī tsit-má ê siā-huē",
+      "manual_id": "line-22:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match"
+      ],
+      "similarity": 0.9375
+    },
+    {
+      "source_row": 13,
+      "time": 76.47,
+      "online_text": "为啥咪 为啥咪 哪会变安呢",
+      "match_text": "为啥咪 为啥咪 哪会变安呢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 83.55,
+      "online_text": "这种生活甲社会 甘讲恁拢呒讲话",
+      "match_text": "这种生活甲社会 甘讲恁拢呒讲话",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 89.1,
+      "online_text": "为啥咪 为啥咪 怎会变安呢",
+      "match_text": "为啥咪 为啥咪 怎会变安呢",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 160.2,
+      "online_text": "大家做夥卡拼咧 乎台湾变成世界第一个",
+      "match_text": "大家做夥卡拼咧 乎台湾变成世界第一个",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "beefed247f2e097a26a55bbd114acbaf663fd23a2a58e8f63e1ceef915071fe7",
+    "manual": "81f6cf9e88961a21e8bcfc74b711a652801390444185058c3a55905fea010e3b",
+    "timed": "7992ab311c1bcd5dac718ddce095d93c2949b67a54dafb8bed7ec6f3ad96fb91"
+  }
+}

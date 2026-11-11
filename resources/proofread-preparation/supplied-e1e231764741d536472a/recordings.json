@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 168248,
+      "title": "阿爸的虱目魚",
+      "artists": [
+        "萧煌奇"
+      ],
+      "album": "思念会惊",
+      "duration": 266.173,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

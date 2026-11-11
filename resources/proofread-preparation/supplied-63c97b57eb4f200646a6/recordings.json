@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 2704743634,
+      "title": "代客约会中心",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "爱情广播电台",
+      "duration": 54.177,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

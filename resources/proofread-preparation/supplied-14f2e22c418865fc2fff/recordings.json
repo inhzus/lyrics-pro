@@ -1,0 +1,236 @@
+{
+  "candidates": [
+    {
+      "song_id": 155753,
+      "title": "陀螺",
+      "artists": [
+        "万晓利"
+      ],
+      "album": "这一切没有想象的那么糟",
+      "duration": 284.733,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31877546,
+      "title": "陀螺",
+      "artists": [
+        "李健"
+      ],
+      "album": "我是歌手第三季 第11期",
+      "duration": 349.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2608990073,
+      "title": "陀螺",
+      "artists": [
+        "王铮亮"
+      ],
+      "album": "慢人理论",
+      "duration": 192.661,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5243607,
+      "title": "陀螺",
+      "artists": [
+        "万晓利"
+      ],
+      "album": "十三月纪念碟",
+      "duration": 284.63,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1317517599,
+      "title": "陀螺",
+      "artists": [
+        "江美琪"
+      ],
+      "album": "我们都是有歌的人",
+      "duration": 247.153,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1499313937,
+      "title": "陀螺",
+      "artists": [
+        "许富凯"
+      ],
+      "album": "拾歌",
+      "duration": 258.946,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 155753,
+      "title": "陀螺",
+      "artists": [
+        "万晓利"
+      ],
+      "album": "这一切没有想象的那么糟",
+      "duration": 284.733,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 31877546,
+      "title": "陀螺",
+      "artists": [
+        "李健"
+      ],
+      "album": "我是歌手第三季 第11期",
+      "duration": 349.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2608990073,
+      "title": "陀螺",
+      "artists": [
+        "王铮亮"
+      ],
+      "album": "慢人理论",
+      "duration": 192.661,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2698359590,
+      "title": "陀螺",
+      "artists": [
+        "迈利撒"
+      ],
+      "album": "陀螺",
+      "duration": 193.28,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2748998319,
+      "title": "陀螺",
+      "artists": [
+        "万晓利"
+      ],
+      "album": "目之所及 电视原声带",
+      "duration": 148.464,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1444719876",
+      "title": "陀螺",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "爱作梦的鱼",
+      "duration": 273.267,
+      "provider": "lrcapi",
+      "verified_artist": true
+    },
+    {
+      "song_id": "1542153205",
+      "title": "陀螺",
+      "artists": [
+        "许富凯"
+      ],
+      "album": "拾歌",
+      "duration": 258.946,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1329457521",
+      "title": "陀螺",
+      "artists": [
+        "品冠"
+      ],
+      "album": "言外之意",
+      "duration": 278.909,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1563366529",
+      "title": "陀螺",
+      "artists": [
+        "含笑"
+      ],
+      "album": "陀螺 - Single",
+      "duration": 400.869,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1445656152",
+      "title": "陀螺",
+      "artists": [
+        "江美琪"
+      ],
+      "album": "我们都是有歌的人",
+      "duration": 245.042,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1540229982",
+      "title": "陀螺",
+      "artists": [
+        "谭杏蓝"
+      ],
+      "album": "陀螺 - Single",
+      "duration": 273.505,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1636427404",
+      "title": "陀螺",
+      "artists": [
+        "李奉慈"
+      ],
+      "album": "台湾流行歌曲精华 27",
+      "duration": 320.601,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1618559525",
+      "title": "陀螺",
+      "artists": [
+        "李健"
+      ],
+      "album": "溺爱",
+      "duration": 303.053,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1437878560",
+      "title": "陀螺",
+      "artists": [
+        "江美琪"
+      ],
+      "album": "陀螺 - Single",
+      "duration": 246.976,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1637710871",
+      "title": "陀螺",
+      "artists": [
+        "万晓利"
+      ],
+      "album": "这一切没有想象的那么糟",
+      "duration": 284.747,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 412951593,
+      "title": "透早就出门",
+      "artists": [
+        "陈建玮"
+      ],
+      "album": "古伦美亚",
+      "duration": 215.466,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

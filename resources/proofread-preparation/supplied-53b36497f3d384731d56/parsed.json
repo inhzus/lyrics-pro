@@ -1,0 +1,450 @@
+{
+  "blocks": [
+    {
+      "id": "line-2",
+      "text": "自從我熟悉你暸後的",
+      "spelling": "tsū-tsiông guá si̍k-sāi lí liáu-āu ê",
+      "source_lines": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "line-5",
+      "text": "每一工 我的世界攏是春天",
+      "spelling": "muí-tsi̍t kang guá ê sè-kài lóng sī tshun-thinn",
+      "source_lines": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "我上愛 兩個人 手牽勒",
+      "spelling": "guá siōng ài nn̄g-ê lâng tshiú-khan leh",
+      "source_lines": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "作陣迺街 迺出一朵 愛情的花",
+      "spelling": "tsuè-tīn se-ke se-tshut tsi̍t luí ài-tsîng ê hue",
+      "source_lines": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "阮心內充滿期待 馬感覺真歹勢",
+      "spelling": "gún sim-lāi tshiong-buán kî-thāi má kám-kak tsin pháinn-sè",
+      "source_lines": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "不知咱的愛 咁有速配",
+      "spelling": "m̄ tsai lán ê ài kam-ū su phuè",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "我上愛 兩個人 坐作伙",
+      "spelling": "guá siōng ài nn̄g-ê lâng tsē tsò-hué",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "聽你說話 講出一段 山盟海誓",
+      "spelling": "thiann lí kóng-uē kóng-tshut tsi̍t tuānn san-bîng-hái-sè",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "天涯海角 我帶妳 四界去走",
+      "spelling": "thian-gâi-hái-kak guá tuà lí sì-kè khì kiânn",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "遇到落雨 我的愛 就是雨傘",
+      "spelling": "tú-tio̍h lo̍h-hōo guá ê ài tio̍h-sī hōo-suànn",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "阮這世人 若沒你是袂安怎",
+      "spelling": "gún tsit-sì-lâng ná bô lí sī bē an-tsuánn",
+      "source_lines": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "阮的心內 阮的未來 你是阮的最愛",
+      "spelling": "gún ê sim-lāi gún ê bī-lâi lí sī gún ê tsuè ài",
+      "source_lines": [
+        38,
+        39
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "上美麗的情歌 是我唱乎你來聽",
+      "spelling": "siōng bí-lē ê tsîng-kua sī guá tshiùnn hoo lí lâi thiann",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "蝦米代誌 攏有我 替你來擔",
+      "spelling": "siánn-mih tāi-tsì lóng ū guá thè lí lâi tànn",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "上愛聽 世界充滿 你的笑聲",
+      "spelling": "siōng ài thiann sè-kài tshiong-buán lí ê tshiò-siann",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "未來的路 我甲你 作陣走",
+      "spelling": "bī-lâi ê lōo guá kā lí tsuè-tīn kiânn",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "上美麗的情歌 是咱作伙唱的歌",
+      "spelling": "siōng bí-lē ê tsîng-kua sī lán tsò-hué tshiùnn ê kua",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "阮的心內 馬想要一個靠岸",
+      "spelling": "gún ê sim-lāi má siūnn-beh tsi̍t ê khò-huānn",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "若有你永遠作伴 阮的心袂孤單",
+      "spelling": "nā-ū lí íng-uán tsuè-phuānn gún ê sim buē koo-tuann",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "美麗的這首情歌 哪沒你 唱袂煞",
+      "spelling": "bí-lē ê tsîng-kua ná bô lí tshiùnn buē suah",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "自從我熟悉你暸後的",
+      "spelling": "tsū-tsiông guá si̍k-sāi lí liáu-āu ê",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "每一工 我的世界攏是春天",
+      "spelling": "muí-tsi̍t kang guá ê sè-kài lóng sī tshun-thinn",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "我上愛 兩個人 手牽勒",
+      "spelling": "guá siōng ài nn̄g-ê lâng tshiú-khan leh",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "作陣迺街 迺出一朵 愛情的花",
+      "spelling": "tsuè-tīn se-ke se-tshut tsi̍t luí ài-tsîng ê hue",
+      "source_lines": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "line-80",
+      "text": "阮心內充滿期待 馬感覺真歹勢",
+      "spelling": "gún sim-lāi tshiong-buán kî-thāi má kám-kak tsin pháinn-sè",
+      "source_lines": [
+        80,
+        81
+      ]
+    },
+    {
+      "id": "line-83",
+      "text": "不知咱的愛 咁有速配",
+      "spelling": "m̄ tsai lán ê ài kam-ū su phuè",
+      "source_lines": [
+        83,
+        84
+      ]
+    },
+    {
+      "id": "line-86",
+      "text": "我上愛 兩個人 坐作伙",
+      "spelling": "guá siōng ài nn̄g-ê lâng tsē tsò-hué",
+      "source_lines": [
+        86,
+        87
+      ]
+    },
+    {
+      "id": "line-89",
+      "text": "聽你說話 講出一段 山盟海誓",
+      "spelling": "thiann lí kóng-uē kóng-tshut tsi̍t tuānn san-bîng-hái-sè",
+      "source_lines": [
+        89,
+        90
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "天涯海角 我帶妳 四界去走",
+      "spelling": "thian-gâi-hái-kak guá tuà lí sì-kè khì kiânn",
+      "source_lines": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "遇到落雨 我的愛 就是雨傘",
+      "spelling": "tú-tio̍h lo̍h-hōo guá ê ài tio̍h-sī hōo-suànn",
+      "source_lines": [
+        96,
+        97
+      ]
+    },
+    {
+      "id": "line-100",
+      "text": "阮這世人 若沒你是袂安怎",
+      "spelling": "gún tsit-sì-lâng ná bô lí sī bē an-tsuánn",
+      "source_lines": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "line-103",
+      "text": "阮的心內 阮的未來 你是阮的最愛",
+      "spelling": "gún ê sim-lāi gún ê bī-lâi lí sī gún ê tsuè ài",
+      "source_lines": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "line-107",
+      "text": "上美麗的情歌 是我唱乎你來聽",
+      "spelling": "siōng bí-lē ê tsîng-kua sī guá tshiùnn hoo lí lâi thiann",
+      "source_lines": [
+        107,
+        108
+      ]
+    },
+    {
+      "id": "line-110",
+      "text": "蝦米代誌 攏有我 替你來擔",
+      "spelling": "siánn-mih tāi-tsì lóng ū guá thè lí lâi tànn",
+      "source_lines": [
+        110,
+        111
+      ]
+    },
+    {
+      "id": "line-113",
+      "text": "上愛聽 世界充滿 你的笑聲",
+      "spelling": "siōng ài thiann sè-kài tshiong-buán lí ê tshiò-siann",
+      "source_lines": [
+        113,
+        114
+      ]
+    },
+    {
+      "id": "line-116",
+      "text": "未來的路 我甲你 作陣走",
+      "spelling": "bī-lâi ê lōo guá kā lí tsuè-tīn kiânn",
+      "source_lines": [
+        116,
+        117
+      ]
+    },
+    {
+      "id": "line-119",
+      "text": "上美麗的情歌 是咱作伙唱的歌",
+      "spelling": "siōng bí-lē ê tsîng-kua sī lán tsò-hué tshiùnn ê kua",
+      "source_lines": [
+        119,
+        120
+      ]
+    },
+    {
+      "id": "line-122",
+      "text": "阮的心內 馬想要一個靠岸",
+      "spelling": "gún ê sim-lāi má siūnn-beh tsi̍t ê khò-huānn",
+      "source_lines": [
+        122,
+        123
+      ]
+    },
+    {
+      "id": "line-125",
+      "text": "若有你永遠作伴 阮的心袂孤單",
+      "spelling": "nā-ū lí íng-uán tsuè-phuānn gún ê sim buē koo-tuann",
+      "source_lines": [
+        125,
+        126
+      ]
+    },
+    {
+      "id": "line-128",
+      "text": "美麗的這首情歌 哪沒你 唱袂煞",
+      "spelling": "bí-lē ê tsîng-kua ná bô lí tshiùnn buē suah",
+      "source_lines": [
+        128,
+        129
+      ]
+    },
+    {
+      "id": "line-131",
+      "text": "上美麗的情歌 是我唱乎你來聽",
+      "spelling": "siōng bí-lē ê tsîng-kua sī guá tshiùnn hoo lí lâi thiann",
+      "source_lines": [
+        131,
+        132
+      ]
+    },
+    {
+      "id": "line-134",
+      "text": "蝦米代誌 攏有我 替你來擔",
+      "spelling": "siánn-mih tāi-tsì lóng ū guá thè lí lâi tànn",
+      "source_lines": [
+        134,
+        135
+      ]
+    },
+    {
+      "id": "line-137",
+      "text": "上愛聽 世界充滿 你的笑聲",
+      "spelling": "siōng ài thiann sè-kài tshiong-buán lí ê tshiò-siann",
+      "source_lines": [
+        137,
+        138
+      ]
+    },
+    {
+      "id": "line-140",
+      "text": "未來的路 我甲你 作陣走",
+      "spelling": "bī-lâi ê lōo guá kā lí tsuè-tīn kiânn",
+      "source_lines": [
+        140,
+        141
+      ]
+    },
+    {
+      "id": "line-143",
+      "text": "上美麗的情歌 是咱作伙唱的歌",
+      "spelling": "siōng bí-lē ê tsîng-kua sī lán tsò-hué tshiùnn ê kua",
+      "source_lines": [
+        143,
+        144
+      ]
+    },
+    {
+      "id": "line-146",
+      "text": "阮的心內 馬想要一個靠岸",
+      "spelling": "gún ê sim-lāi má siūnn-beh tsi̍t ê khò-huānn",
+      "source_lines": [
+        146,
+        147
+      ]
+    },
+    {
+      "id": "line-149",
+      "text": "若有你永遠作伴 阮的心袂孤單",
+      "spelling": "nā-ū lí íng-uán tsuè-phuānn gún ê sim buē koo-tuann",
+      "source_lines": [
+        149,
+        150
+      ]
+    },
+    {
+      "id": "line-152",
+      "text": "、美麗的這首情歌 咱唱甲 上大聲",
+      "spelling": "bí-lē ê tsit siú tsîng-kua lán tshiùnn kā siōng tuā-siann",
+      "source_lines": [
+        152,
+        153
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "ambiguous_pair:1,2",
+    "ambiguous_pair:106,107",
+    "ambiguous_pair:14,15",
+    "ambiguous_pair:27,28",
+    "ambiguous_pair:34,35",
+    "ambiguous_pair:41,42",
+    "ambiguous_pair:66,67",
+    "ambiguous_pair:79,80",
+    "ambiguous_pair:92,93",
+    "ambiguous_pair:99,100"
+  ]
+}

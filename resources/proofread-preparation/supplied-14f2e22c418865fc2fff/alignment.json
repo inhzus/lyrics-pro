@@ -1,0 +1,432 @@
+{
+  "recording_id": "lrcapi:1444719876",
+  "timing_source": "LrcAPI https://api.lrc.cx/jsonapi?title=%E9%99%80%E8%9E%BA&artist=%E6%B1%9F%E8%95%99&album=%E7%88%B1%E4%BD%9C%E6%A2%A6%E7%9A%84%E9%B1%BC#1444719876",
+  "manual_source": "User-supplied resources/lyrics-spelling/陀螺-江蕙",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "repeat": 23,
+    "unresolved": 9
+  },
+  "review_row_count": 9,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-28:0",
+    "line-46:0",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0",
+    "line-58:0",
+    "line-70:0",
+    "line-94:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 23.81,
+      "online_text": "這段情路 繞呀繞 繞呀繞",
+      "match_text": "這段情路 繞呀繞 繞呀繞",
+      "text": "這段情路　繞呀繞　繞呀繞",
+      "spelling": "tsit tuānn tsîng lōo se̍h iah se̍h se̍h iah se̍h",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 1,
+      "time": 33.74,
+      "online_text": "女人的夢 天真到徹底 越頭猶原孤一個",
+      "match_text": "女人的夢 天真到徹底 越頭猶原孤一個",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 2,
+      "time": 43.18,
+      "online_text": "你的形影 繞呀繞 繞呀繞",
+      "match_text": "你的形影 繞呀繞 繞呀繞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 52.9,
+      "online_text": "褪色的夢 威置阮心底 紛紛心事亂亂飛",
+      "match_text": "褪色的夢 威置阮心底 紛紛心事亂亂飛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 64.39,
+      "online_text": "人講人生親像陀螺旋來又旋去",
+      "match_text": "人講人生親像陀螺旋來又旋去",
+      "text": "人講人生親像陀螺旋來又旋去",
+      "spelling": "lâng kóng lîn-sing tshin-tshiūnn kan-lo̍k se̍h lâi iū se̍h khì",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 5,
+      "time": 70.08,
+      "online_text": "旋袂完的鹹酸甜",
+      "match_text": "旋袂完的鹹酸甜",
+      "text": "旋袂完的鹹酸甜",
+      "spelling": "se̍h buē uân ê kiâm sng tinn",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 6,
+      "time": 74.35,
+      "online_text": "阮的思念親像陀螺旋來又旋去",
+      "match_text": "阮的思念親像陀螺旋來又旋去",
+      "text": "阮的思念親像陀螺旋來又旋去",
+      "spelling": "gún ê su-liām tshin-tshiūnn kan-lo̍k se̍h lâi iū se̍h khì",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 7,
+      "time": 79.94,
+      "online_text": "鉆入心肝打袂開",
+      "match_text": "鉆入心肝打袂開",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 83.99,
+      "online_text": "你是窗外秋天的雨來來又去去",
+      "match_text": "你是窗外秋天的雨來來又去去",
+      "text": "你是窗外秋天的雨來來又去去",
+      "spelling": "lí sī thang-guā tshiu-thinn ê hōo-lâi lâi iū khì khì",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 9,
+      "time": 89.54,
+      "online_text": "愛阮傷阮同一暝",
+      "match_text": "愛阮傷阮同一暝",
+      "text": "愛阮傷阮同一暝",
+      "spelling": "ài gún siunn gún kang tsi̍t mî",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 10,
+      "time": 93.61,
+      "online_text": "才知阮是你的陀螺飛出感情的線",
+      "match_text": "才知阮是你的陀螺飛出感情的線",
+      "text": "才知阮是你的陀螺飛出感情的線",
+      "spelling": "tsiah tsai gún sī lí ê kan-lo̍k pue-tshut kám-tsîng ê suànn",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 11,
+      "time": 99.79,
+      "online_text": "跌落土腳旋歸暝",
+      "match_text": "跌落土腳旋歸暝",
+      "text": "跌落土腳旋歸暝",
+      "spelling": "pua̍h lo̍h-thóo kha-se̍h kui-mî",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 120.95,
+      "online_text": "這段情路 繞呀繞 繞呀繞",
+      "match_text": "這段情路 繞呀繞 繞呀繞",
+      "text": "這段情路　繞呀繞　繞呀繞",
+      "spelling": "tsit tuānn tsîng lōo se̍h iah se̍h se̍h iah se̍h",
+      "manual_id": "line-1:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 13,
+      "time": 130.72,
+      "online_text": "女人的夢 天真到徹底 越頭猶原孤一個",
+      "match_text": "女人的夢 天真到徹底 越頭猶原孤一個",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 140.72,
+      "online_text": "你的形影 繞呀繞 繞呀繞",
+      "match_text": "你的形影 繞呀繞 繞呀繞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 150.54,
+      "online_text": "褪色的夢 威置阮心底 紛紛心事亂亂飛",
+      "match_text": "褪色的夢 威置阮心底 紛紛心事亂亂飛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 161.99,
+      "online_text": "人講人生親像陀螺旋來又旋去",
+      "match_text": "人講人生親像陀螺旋來又旋去",
+      "text": "人講人生親像陀螺旋來又旋去",
+      "spelling": "lâng kóng lîn-sing tshin-tshiūnn kan-lo̍k se̍h lâi iū se̍h khì",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 17,
+      "time": 167.24,
+      "online_text": "旋袂完的鹹酸甜",
+      "match_text": "旋袂完的鹹酸甜",
+      "text": "旋袂完的鹹酸甜",
+      "spelling": "se̍h buē uân ê kiâm sng tinn",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 171.58,
+      "online_text": "阮的思念親像陀螺旋來又旋去",
+      "match_text": "阮的思念親像陀螺旋來又旋去",
+      "text": "阮的思念親像陀螺旋來又旋去",
+      "spelling": "gún ê su-liām tshin-tshiūnn kan-lo̍k se̍h lâi iū se̍h khì",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 19,
+      "time": 177.24,
+      "online_text": "鉆入心肝打袂開",
+      "match_text": "鉆入心肝打袂開",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 181.24,
+      "online_text": "你是窗外秋天的雨來來又去去",
+      "match_text": "你是窗外秋天的雨來來又去去",
+      "text": "你是窗外秋天的雨來來又去去",
+      "spelling": "lí sī thang-guā tshiu-thinn ê hōo-lâi lâi iū khì khì",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 21,
+      "time": 186.89,
+      "online_text": "愛阮傷阮同一暝",
+      "match_text": "愛阮傷阮同一暝",
+      "text": "愛阮傷阮同一暝",
+      "spelling": "ài gún siunn gún kang tsi̍t mî",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 22,
+      "time": 190.99,
+      "online_text": "才知阮是你的陀螺飛出感情的線",
+      "match_text": "才知阮是你的陀螺飛出感情的線",
+      "text": "才知阮是你的陀螺飛出感情的線",
+      "spelling": "tsiah tsai gún sī lí ê kan-lo̍k pue-tshut kám-tsîng ê suànn",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 23,
+      "time": 197.05,
+      "online_text": "跌落土腳旋歸暝",
+      "match_text": "跌落土腳旋歸暝",
+      "text": "跌落土腳旋歸暝",
+      "spelling": "pua̍h lo̍h-thóo kha-se̍h kui-mî",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 24,
+      "time": 210.44,
+      "online_text": "人講人生親像陀螺旋來又旋去",
+      "match_text": "人講人生親像陀螺旋來又旋去",
+      "text": "人講人生親像陀螺旋來又旋去",
+      "spelling": "lâng kóng lîn-sing tshin-tshiūnn kan-lo̍k se̍h lâi iū se̍h khì",
+      "manual_id": "line-19:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 25,
+      "time": 216.01,
+      "online_text": "旋袂完的鹹酸甜",
+      "match_text": "旋袂完的鹹酸甜",
+      "text": "旋袂完的鹹酸甜",
+      "spelling": "se̍h buē uân ê kiâm sng tinn",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 26,
+      "time": 220.03,
+      "online_text": "阮的思念親像陀螺旋來又旋去",
+      "match_text": "阮的思念親像陀螺旋來又旋去",
+      "text": "阮的思念親像陀螺旋來又旋去",
+      "spelling": "gún ê su-liām tshin-tshiūnn kan-lo̍k se̍h lâi iū se̍h khì",
+      "manual_id": "line-25:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 27,
+      "time": 225.66,
+      "online_text": "鉆入心肝打袂開",
+      "match_text": "鉆入心肝打袂開",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 229.75,
+      "online_text": "你是窗外秋天的雨來來又去去",
+      "match_text": "你是窗外秋天的雨來來又去去",
+      "text": "你是窗外秋天的雨來來又去去",
+      "spelling": "lí sī thang-guā tshiu-thinn ê hōo-lâi lâi iū khì khì",
+      "manual_id": "line-31:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 29,
+      "time": 235.45,
+      "online_text": "愛阮傷阮同一暝",
+      "match_text": "愛阮傷阮同一暝",
+      "text": "愛阮傷阮同一暝",
+      "spelling": "ài gún siunn gún kang tsi̍t mî",
+      "manual_id": "line-34:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 30,
+      "time": 239.7,
+      "online_text": "才知阮是你的陀螺飛出感情的線",
+      "match_text": "才知阮是你的陀螺飛出感情的線",
+      "text": "才知阮是你的陀螺飛出感情的線",
+      "spelling": "tsiah tsai gún sī lí ê kan-lo̍k pue-tshut kám-tsîng ê suànn",
+      "manual_id": "line-37:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 31,
+      "time": 245.86,
+      "online_text": "跌落土腳旋歸暝",
+      "match_text": "跌落土腳旋歸暝",
+      "text": "跌落土腳旋歸暝",
+      "spelling": "pua̍h lo̍h-thóo kha-se̍h kui-mî",
+      "manual_id": "line-40:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "ad260badde4041deaf6e7c7364f09d4dd661d363c6d712895685cd63babbab00",
+    "manual": "8c46493a5d3a7b2e6a36d815631238bab12251d94d2bbb2a5e033bab9288c6b8",
+    "timed": "590f14fd372485e07914fb38387eff0b4205ffbcc22c69bc9c8a1d97e5511de8"
+  }
+}

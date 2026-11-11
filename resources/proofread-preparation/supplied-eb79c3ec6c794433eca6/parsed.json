@@ -1,0 +1,538 @@
+{
+  "blocks": [
+    {
+      "id": "line-3",
+      "text": "有一種新的感覺                             熊熊在我心肝底",
+      "spelling": "ū tsi̍t tsióng sin ê kám-kak        hiong hiong tī guá sim-kuann té",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "有一種新的感覺",
+          "spelling": "ū tsi̍t tsióng sin ê kám-kak"
+        },
+        {
+          "text": "熊熊在我心肝底",
+          "spelling": "hiong hiong tī guá sim-kuann té"
+        }
+      ]
+    },
+    {
+      "id": "line-6",
+      "text": "煽動我全身軀                                害我一直想要飛",
+      "spelling": "siàn-tōng guá kui sin-khu        hāi guá it-ti̍t siūnn beh pue",
+      "source_lines": [
+        6,
+        7
+      ],
+      "parts": [
+        {
+          "text": "煽動我全身軀",
+          "spelling": "siàn-tōng guá kui sin-khu"
+        },
+        {
+          "text": "害我一直想要飛",
+          "spelling": "hāi guá it-ti̍t siūnn beh pue"
+        }
+      ]
+    },
+    {
+      "id": "line-9",
+      "text": "飛去天頂讓我什麼代誌都不免做",
+      "spelling": "pue khì thinn-tíng hōo guá siánn-mih tāi-tsì lóng m̄ bián tsuè",
+      "source_lines": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "line-12",
+      "text": "飛去那邊和我的愛人啊來相會",
+      "spelling": "pue khì hit pîng kah guá ê ài-lâng ah lâi siong-huē",
+      "source_lines": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "line-15",
+      "text": "有一種新的感覺                             熊熊在我心肝底",
+      "spelling": "ū tsi̍t tsióng sin ê kám-kak        hiong hiong tī guá sim-kuann té",
+      "source_lines": [
+        15,
+        16
+      ],
+      "parts": [
+        {
+          "text": "有一種新的感覺",
+          "spelling": "ū tsi̍t tsióng sin ê kám-kak"
+        },
+        {
+          "text": "熊熊在我心肝底",
+          "spelling": "hiong hiong tī guá sim-kuann té"
+        }
+      ]
+    },
+    {
+      "id": "line-18",
+      "text": "伊叫我什麼代誌都免管那多",
+      "spelling": "i kiò guá siánn-mih tāi-tsì lóng m̄ bián tshap hiâ tsuē",
+      "source_lines": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "橫直人生本來就是真歹控制",
+      "spelling": "huînn-ti̍t jîn-sing pún lâi tio̍h sī tsin pháinn khòng-tsè",
+      "source_lines": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "line-24",
+      "text": "歸去飛去和我的愛人啊來相會",
+      "spelling": "kui khì pue khì kah guá ê ài-lâng ah lâi siong-huē",
+      "source_lines": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "line-27",
+      "text": "全身軀那攏總綁咧                                           整個頭殼那咧冤家",
+      "spelling": "kui sin-khu ná lóng-tsóng khuan leh        kui-ê thâu-khak ná leh uan-ke",
+      "source_lines": [
+        27,
+        28
+      ],
+      "parts": [
+        {
+          "text": "全身軀那攏總綁咧",
+          "spelling": "kui sin-khu ná lóng-tsóng khuan leh"
+        },
+        {
+          "text": "整個頭殼那咧冤家",
+          "spelling": "kui-ê thâu-khak ná leh uan-ke"
+        }
+      ]
+    },
+    {
+      "id": "line-30",
+      "text": "心內的氣都喘不過                                    只為只為你你一個",
+      "spelling": "sim-lāi ê khì lóng tshuán bē-kuè        tsí uî tsí uî lí lí tsi̍t ê",
+      "source_lines": [
+        30,
+        31
+      ],
+      "parts": [
+        {
+          "text": "心內的氣都喘不過",
+          "spelling": "sim-lāi ê khì lóng tshuán bē-kuè"
+        },
+        {
+          "text": "只為只為你你一個",
+          "spelling": "tsí uî tsí uî lí lí tsi̍t ê"
+        }
+      ]
+    },
+    {
+      "id": "line-33",
+      "text": "全身軀那攏總綁咧                                          整個頭殼那咧冤家",
+      "spelling": "kui sin-khu ná lóng-tsóng khuan leh        kui-ê thâu-khak ná leh uan-ke",
+      "source_lines": [
+        33,
+        34
+      ],
+      "parts": [
+        {
+          "text": "全身軀那攏總綁咧",
+          "spelling": "kui sin-khu ná lóng-tsóng khuan leh"
+        },
+        {
+          "text": "整個頭殼那咧冤家",
+          "spelling": "kui-ê thâu-khak ná leh uan-ke"
+        }
+      ]
+    },
+    {
+      "id": "line-36",
+      "text": "心肝內干單想會飛                                       要甲你作伙",
+      "spelling": "sim-kuann lāi kan-nā siūnn ē pue        beh kah lí tsuè hué",
+      "source_lines": [
+        36,
+        37
+      ],
+      "parts": [
+        {
+          "text": "心肝內干單想會飛",
+          "spelling": "sim-kuann lāi kan-nā siūnn ē pue"
+        },
+        {
+          "text": "要甲你作伙",
+          "spelling": "beh kah lí tsuè hué"
+        }
+      ]
+    },
+    {
+      "id": "line-39",
+      "text": "有一種新的感覺                             熊熊在我心肝底",
+      "spelling": "ū tsi̍t tsióng sin ê kám-kak        hiong hiong tī guá sim-kuann té",
+      "source_lines": [
+        39,
+        40
+      ],
+      "parts": [
+        {
+          "text": "有一種新的感覺",
+          "spelling": "ū tsi̍t tsióng sin ê kám-kak"
+        },
+        {
+          "text": "熊熊在我心肝底",
+          "spelling": "hiong hiong tī guá sim-kuann té"
+        }
+      ]
+    },
+    {
+      "id": "line-42",
+      "text": "伊叫我什麼代誌都免管那多",
+      "spelling": "i kiò guá siánn-mih tāi-tsì lóng m̄ bián tshap hiâ tsuē",
+      "source_lines": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "line-45",
+      "text": "橫直人生本來就是真歹控制",
+      "spelling": "huînn-ti̍t jîn-sing pún lâi tio̍h sī tsin pháinn khòng-tsè",
+      "source_lines": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "line-48",
+      "text": "歸去飛去和我的愛人啊來相會",
+      "spelling": "kui khì pue khì kah guá ê ài-lâng ah lâi siong-huē",
+      "source_lines": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "line-51",
+      "text": "無人會凍了解我的心聲",
+      "spelling": "bô-lâng ē-tàng liáu-kái gún ê sim-siann",
+      "source_lines": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "line-54",
+      "text": "不是要出世就要來做壞子",
+      "spelling": "m̄ sī beh tshut-sì tō beh lâi tsuè pháinn kiánn",
+      "source_lines": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "line-57",
+      "text": "無人會凍了解我的心聲",
+      "spelling": "bô-lâng ē-tàng liáu-kái guá ê sim-siann",
+      "source_lines": [
+        57,
+        58
+      ]
+    },
+    {
+      "id": "line-60",
+      "text": "嘛想要得到父母溫暖的疼痛",
+      "spelling": "mah siūnn beh tit-tio̍h pē-bú un-luán ê thiànn-thàng",
+      "source_lines": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": "line-63",
+      "text": "這款的生活我是過得會驚",
+      "spelling": "tsit-khuán ê sing-ua̍h guá sī kuè tio̍h ē kiann",
+      "source_lines": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "line-66",
+      "text": "那像大家攏顧著自己的飯碗",
+      "spelling": "ná-tshiūnn ta̍k-ke lóng kòo-tio̍h ka-kī ê pn̄g-uánn",
+      "source_lines": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": "line-69",
+      "text": "我只好才會跑來躲在這",
+      "spelling": "guá tsí-hó tsiah ē tsáu-lâi bih tī tsia",
+      "source_lines": [
+        69,
+        70
+      ]
+    },
+    {
+      "id": "line-72",
+      "text": "大聲來唱歌唱歌給自己聽",
+      "spelling": "tuā-siann lâi tshiùnn-kua tshiùnn-kua hōo ka-kī thiann",
+      "source_lines": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "line-75",
+      "text": "全身軀那攏總綁咧                                           整個頭殼那咧冤家",
+      "spelling": "kui sin-khu ná lóng-tsóng khuan leh        kui-ê thâu-khak ná leh uan-ke",
+      "source_lines": [
+        75,
+        76
+      ],
+      "parts": [
+        {
+          "text": "全身軀那攏總綁咧",
+          "spelling": "kui sin-khu ná lóng-tsóng khuan leh"
+        },
+        {
+          "text": "整個頭殼那咧冤家",
+          "spelling": "kui-ê thâu-khak ná leh uan-ke"
+        }
+      ]
+    },
+    {
+      "id": "line-78",
+      "text": "心內的氣都喘不過                                   只為只為你你一個",
+      "spelling": "sim-lāi ê khì lóng tshuán bē-kuè        tsí uî tsí uî lí lí tsi̍t ê",
+      "source_lines": [
+        78,
+        79
+      ],
+      "parts": [
+        {
+          "text": "心內的氣都喘不過",
+          "spelling": "sim-lāi ê khì lóng tshuán bē-kuè"
+        },
+        {
+          "text": "只為只為你你一個",
+          "spelling": "tsí uî tsí uî lí lí tsi̍t ê"
+        }
+      ]
+    },
+    {
+      "id": "line-81",
+      "text": "全身軀那攏總綁咧                                            整個頭殼那咧冤家",
+      "spelling": "kui sin-khu ná lóng-tsóng khuan leh        kui-ê thâu-khak ná leh uan-ke",
+      "source_lines": [
+        81,
+        82
+      ],
+      "parts": [
+        {
+          "text": "全身軀那攏總綁咧",
+          "spelling": "kui sin-khu ná lóng-tsóng khuan leh"
+        },
+        {
+          "text": "整個頭殼那咧冤家",
+          "spelling": "kui-ê thâu-khak ná leh uan-ke"
+        }
+      ]
+    },
+    {
+      "id": "line-84",
+      "text": "心肝內干單想會飛                                       要甲你作伙",
+      "spelling": "sim-kuann lāi kan-nā siūnn ē pue        beh kah lí tsuè hué",
+      "source_lines": [
+        84,
+        85
+      ],
+      "parts": [
+        {
+          "text": "心肝內干單想會飛",
+          "spelling": "sim-kuann lāi kan-nā siūnn ē pue"
+        },
+        {
+          "text": "要甲你作伙",
+          "spelling": "beh kah lí tsuè hué"
+        }
+      ]
+    },
+    {
+      "id": "line-87",
+      "text": "飛去和愛人來作伙                                    飛去和愛人來作伙",
+      "spelling": "pue-khì hām ài lâng lâi tsuè hué        pue-khì hām ài lâng lâi tsuè hué",
+      "source_lines": [
+        87,
+        88
+      ],
+      "parts": [
+        {
+          "text": "飛去和愛人來作伙",
+          "spelling": "pue-khì hām ài lâng lâi tsuè hué"
+        },
+        {
+          "text": "飛去和愛人來作伙",
+          "spelling": "pue-khì hām ài lâng lâi tsuè hué"
+        }
+      ]
+    },
+    {
+      "id": "line-90",
+      "text": "飛去和愛人來相會                                       飛去和愛人來作伙",
+      "spelling": "pue-khì hām ài lâng lâi siong-huē        pue-khì hām ài lâng lâi tsuè hué",
+      "source_lines": [
+        90,
+        91
+      ],
+      "parts": [
+        {
+          "text": "飛去和愛人來相會",
+          "spelling": "pue-khì hām ài lâng lâi siong-huē"
+        },
+        {
+          "text": "飛去和愛人來作伙",
+          "spelling": "pue-khì hām ài lâng lâi tsuè hué"
+        }
+      ]
+    },
+    {
+      "id": "line-93",
+      "text": "飛去和愛人來作伙                                    飛去和愛人來作伙",
+      "spelling": "pue-khì hām ài lâng lâi tsuè hué        pue-khì hām ài lâng lâi tsuè hué",
+      "source_lines": [
+        93,
+        94
+      ],
+      "parts": [
+        {
+          "text": "飛去和愛人來作伙",
+          "spelling": "pue-khì hām ài lâng lâi tsuè hué"
+        },
+        {
+          "text": "飛去和愛人來作伙",
+          "spelling": "pue-khì hām ài lâng lâi tsuè hué"
+        }
+      ]
+    },
+    {
+      "id": "line-96",
+      "text": "飛去和愛人來相會                                       飛去和愛人來作伙",
+      "spelling": "pue-khì hām ài lâng lâi siong-huē         pue-khì hām ài lâng lâi tsuè hué",
+      "source_lines": [
+        96,
+        97
+      ],
+      "parts": [
+        {
+          "text": "飛去和愛人來相會",
+          "spelling": "pue-khì hām ài lâng lâi siong-huē"
+        },
+        {
+          "text": "飛去和愛人來作伙",
+          "spelling": "pue-khì hām ài lâng lâi tsuè hué"
+        }
+      ]
+    },
+    {
+      "id": "line-99",
+      "text": "飛去和愛人來作伙                                    飛去和愛人來作伙",
+      "spelling": "pue-khì hām ài lâng lâi tsuè hué        pue-khì hām ài lâng lâi tsuè hué",
+      "source_lines": [
+        99,
+        100
+      ],
+      "parts": [
+        {
+          "text": "飛去和愛人來作伙",
+          "spelling": "pue-khì hām ài lâng lâi tsuè hué"
+        },
+        {
+          "text": "飛去和愛人來作伙",
+          "spelling": "pue-khì hām ài lâng lâi tsuè hué"
+        }
+      ]
+    },
+    {
+      "id": "line-102",
+      "text": "飛去和愛人來相會                                       飛去和愛人來作伙",
+      "spelling": "pue-khì hām ài lâng lâi siong-huē        pue-khì hām ài lâng lâi tsuè hué",
+      "source_lines": [
+        102,
+        103
+      ],
+      "parts": [
+        {
+          "text": "飛去和愛人來相會",
+          "spelling": "pue-khì hām ài lâng lâi siong-huē"
+        },
+        {
+          "text": "飛去和愛人來作伙",
+          "spelling": "pue-khì hām ài lâng lâi tsuè hué"
+        }
+      ]
+    },
+    {
+      "id": "line-105",
+      "text": "飛去和愛人來作伙                                    飛去和愛人來作伙",
+      "spelling": "pue-khì hām ài lâng lâi tsuè hué        pue-khì hām ài lâng lâi tsuè hué",
+      "source_lines": [
+        105,
+        106
+      ],
+      "parts": [
+        {
+          "text": "飛去和愛人來作伙",
+          "spelling": "pue-khì hām ài lâng lâi tsuè hué"
+        },
+        {
+          "text": "飛去和愛人來作伙",
+          "spelling": "pue-khì hām ài lâng lâi tsuè hué"
+        }
+      ]
+    },
+    {
+      "id": "line-108",
+      "text": "飛去和愛人來相會                                       飛去和愛人來作伙",
+      "spelling": "pue-khì hām ài lâng lâi siong-huē        pue-khì hām ài lâng lâi tsuè hué",
+      "source_lines": [
+        108,
+        109
+      ],
+      "parts": [
+        {
+          "text": "飛去和愛人來相會",
+          "spelling": "pue-khì hām ài lâng lâi siong-huē"
+        },
+        {
+          "text": "飛去和愛人來作伙",
+          "spelling": "pue-khì hām ài lâng lâi tsuè hué"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：伍佰　作曲： 伍佰  台語拼音：關德樂"
+    }
+  ],
+  "notes": [],
+  "reasons": [
+    "conflicting_spellings_for_repeated_text"
+  ]
+}

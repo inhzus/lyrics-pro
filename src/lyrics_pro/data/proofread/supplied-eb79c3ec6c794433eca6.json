@@ -1,0 +1,681 @@
+{
+  "schema_version": 1,
+  "id": "supplied-eb79c3ec6c794433eca6",
+  "revision": "1",
+  "title": "飛",
+  "title_aliases": [
+    "飞(Live)"
+  ],
+  "artist": "伍佰",
+  "album": "伍佰的LIVE-枉費青春",
+  "duration": 299.493333,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰　作曲： 伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "lrclib:16432589",
+    "timing_source": "LRCLIB https://lrclib.net/api/get/16432589",
+    "manual_source": "resources/lyrics-spelling/飛-伍佰",
+    "audio_verified": false,
+    "agent_review": "LRCLIB 16432589 includes the opening line and full repeated outro missing from NetEase. Preserve per-occurrence gún/guá readings and use its complete live timeline.",
+    "input_sha256": {
+      "original": "9b910370480e10e93b4687f0d0851b60d2c2a47c80c5bec3e1c14fdef5561ef9",
+      "manual": "fc977f0eb24ac6c535d830b05dde350c0cf6af4f498e937f6f35ba175de2b372",
+      "timed": "5f0f8408aaacc4721190e28cc3e314c10a046d462751133f941200a2d9cbd0a4"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "exact": 52,
+      "gap": 2
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 88.02,
+        "online_text": "有一種新的感覺 熊熊在我心肝底",
+        "status": "exact",
+        "text": "有一種新的感覺 熊熊在我心肝底",
+        "spelling": "ū tsi̍t tsióng sin ê kám-kak hiong hiong tī guá sim-kuann té",
+        "manual_id": "line-3:0+line-3:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 92.03,
+        "online_text": "煽動我全身軀 害我一直想要飛",
+        "status": "exact",
+        "text": "煽動我全身軀 害我一直想要飛",
+        "spelling": "siàn-tōng guá kui sin-khu hāi guá it-ti̍t siūnn beh pue",
+        "manual_id": "line-6:0+line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 96.41,
+        "online_text": "飛去天頂讓我什麼代誌都不免做",
+        "status": "exact",
+        "text": "飛去天頂讓我什麼代誌都不免做",
+        "spelling": "pue khì thinn-tíng hōo guá siánn-mih tāi-tsì lóng m̄ bián tsuè",
+        "manual_id": "line-9:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 99.47,
+        "online_text": "飛去那邊 和我的愛人啊來相會",
+        "status": "exact",
+        "text": "飛去那邊和我的愛人啊來相會",
+        "spelling": "pue khì hit pîng kah guá ê ài-lâng ah lâi siong-huē",
+        "manual_id": "line-12:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 104.72,
+        "online_text": "有一種新的感覺 熊熊在我心肝底",
+        "status": "exact",
+        "text": "有一種新的感覺 熊熊在我心肝底",
+        "spelling": "ū tsi̍t tsióng sin ê kám-kak hiong hiong tī guá sim-kuann té",
+        "manual_id": "line-15:0+line-15:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 108.83,
+        "online_text": "伊叫我什麼代誌都免管那多",
+        "status": "exact",
+        "text": "伊叫我什麼代誌都免管那多",
+        "spelling": "i kiò guá siánn-mih tāi-tsì lóng m̄ bián tshap hiâ tsuē",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 113.03,
+        "online_text": "橫直人生本來就是真歹控制",
+        "status": "exact",
+        "text": "橫直人生本來就是真歹控制",
+        "spelling": "huînn-ti̍t jîn-sing pún lâi tio̍h sī tsin pháinn khòng-tsè",
+        "manual_id": "line-21:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 116.18,
+        "online_text": "歸去飛去 和我的愛人啊來相會",
+        "status": "exact",
+        "text": "歸去飛去和我的愛人啊來相會",
+        "spelling": "kui khì pue khì kah guá ê ài-lâng ah lâi siong-huē",
+        "manual_id": "line-24:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 121.05,
+        "online_text": "全身軀那攏總綁咧",
+        "status": "exact",
+        "text": "全身軀那攏總綁咧",
+        "spelling": "kui sin-khu ná lóng-tsóng khuan leh",
+        "manual_id": "line-27:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 123.09,
+        "online_text": "整個頭殼那咧冤家",
+        "status": "exact",
+        "text": "整個頭殼那咧冤家",
+        "spelling": "kui-ê thâu-khak ná leh uan-ke",
+        "manual_id": "line-27:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 125.14,
+        "online_text": "心內的氣都喘不過",
+        "status": "exact",
+        "text": "心內的氣都喘不過",
+        "spelling": "sim-lāi ê khì lóng tshuán bē-kuè",
+        "manual_id": "line-30:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 127.39,
+        "online_text": "只為只為你你一個",
+        "status": "exact",
+        "text": "只為只為你你一個",
+        "spelling": "tsí uî tsí uî lí lí tsi̍t ê",
+        "manual_id": "line-30:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 129.28,
+        "online_text": "全身軀那攏總綁咧",
+        "status": "exact",
+        "text": "全身軀那攏總綁咧",
+        "spelling": "kui sin-khu ná lóng-tsóng khuan leh",
+        "manual_id": "line-33:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 131.28,
+        "online_text": "整個頭殼那咧冤家",
+        "status": "exact",
+        "text": "整個頭殼那咧冤家",
+        "spelling": "kui-ê thâu-khak ná leh uan-ke",
+        "manual_id": "line-33:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 133.38,
+        "online_text": "心肝內干單想會飛",
+        "status": "exact",
+        "text": "心肝內干單想會飛",
+        "spelling": "sim-kuann lāi kan-nā siūnn ē pue",
+        "manual_id": "line-36:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 135.3,
+        "online_text": "要甲你作伙",
+        "status": "exact",
+        "text": "要甲你作伙",
+        "spelling": "beh kah lí tsuè hué",
+        "manual_id": "line-36:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 137.38,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 154.33,
+        "online_text": "有一種新的感覺 熊熊在我心肝底",
+        "status": "exact",
+        "text": "有一種新的感覺 熊熊在我心肝底",
+        "spelling": "ū tsi̍t tsióng sin ê kám-kak hiong hiong tī guá sim-kuann té",
+        "manual_id": "line-39:0+line-39:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 158.67,
+        "online_text": "伊叫我什麼代誌都免管那多",
+        "status": "exact",
+        "text": "伊叫我什麼代誌都免管那多",
+        "spelling": "i kiò guá siánn-mih tāi-tsì lóng m̄ bián tshap hiâ tsuē",
+        "manual_id": "line-42:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 162.67,
+        "online_text": "橫直人生本來就是真歹控制",
+        "status": "exact",
+        "text": "橫直人生本來就是真歹控制",
+        "spelling": "huînn-ti̍t jîn-sing pún lâi tio̍h sī tsin pháinn khòng-tsè",
+        "manual_id": "line-45:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 165.86,
+        "online_text": "歸去飛去 和我的愛人啊來相會",
+        "status": "exact",
+        "text": "歸去飛去和我的愛人啊來相會",
+        "spelling": "kui khì pue khì kah guá ê ài-lâng ah lâi siong-huē",
+        "manual_id": "line-48:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 170.91,
+        "online_text": "無人會凍了解我的心聲",
+        "status": "exact",
+        "text": "無人會凍了解我的心聲",
+        "spelling": "bô-lâng ē-tàng liáu-kái gún ê sim-siann",
+        "manual_id": "line-51:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 174.24,
+        "online_text": "不是要出世就要來做壞子",
+        "status": "exact",
+        "text": "不是要出世就要來做壞子",
+        "spelling": "m̄ sī beh tshut-sì tō beh lâi tsuè pháinn kiánn",
+        "manual_id": "line-54:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 179.02,
+        "online_text": "無人會凍了解我的心聲",
+        "status": "exact",
+        "text": "無人會凍了解我的心聲",
+        "spelling": "bô-lâng ē-tàng liáu-kái guá ê sim-siann",
+        "manual_id": "line-57:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 182.47,
+        "online_text": "嘛想要得到父母溫暖的疼痛",
+        "status": "exact",
+        "text": "嘛想要得到父母溫暖的疼痛",
+        "spelling": "mah siūnn beh tit-tio̍h pē-bú un-luán ê thiànn-thàng",
+        "manual_id": "line-60:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 187.31,
+        "online_text": "這款的生活我是過得會驚",
+        "status": "exact",
+        "text": "這款的生活我是過得會驚",
+        "spelling": "tsit-khuán ê sing-ua̍h guá sī kuè tio̍h ē kiann",
+        "manual_id": "line-63:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 190.75,
+        "online_text": "那像大家攏顧著自己的飯碗",
+        "status": "exact",
+        "text": "那像大家攏顧著自己的飯碗",
+        "spelling": "ná-tshiūnn ta̍k-ke lóng kòo-tio̍h ka-kī ê pn̄g-uánn",
+        "manual_id": "line-66:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 27,
+        "time": 195.48,
+        "online_text": "我只好才會跑來躲在這",
+        "status": "exact",
+        "text": "我只好才會跑來躲在這",
+        "spelling": "guá tsí-hó tsiah ē tsáu-lâi bih tī tsia",
+        "manual_id": "line-69:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 28,
+        "time": 198.93,
+        "online_text": "大聲來唱歌唱歌給自己聽",
+        "status": "exact",
+        "text": "大聲來唱歌唱歌給自己聽",
+        "spelling": "tuā-siann lâi tshiùnn-kua tshiùnn-kua hōo ka-kī thiann",
+        "manual_id": "line-72:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 29,
+        "time": 203.79,
+        "online_text": "全身軀那攏總綁咧",
+        "status": "exact",
+        "text": "全身軀那攏總綁咧",
+        "spelling": "kui sin-khu ná lóng-tsóng khuan leh",
+        "manual_id": "line-75:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 30,
+        "time": 205.65,
+        "online_text": "整個頭殼那咧冤家",
+        "status": "exact",
+        "text": "整個頭殼那咧冤家",
+        "spelling": "kui-ê thâu-khak ná leh uan-ke",
+        "manual_id": "line-75:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 31,
+        "time": 207.86,
+        "online_text": "心內的氣都喘不過",
+        "status": "exact",
+        "text": "心內的氣都喘不過",
+        "spelling": "sim-lāi ê khì lóng tshuán bē-kuè",
+        "manual_id": "line-78:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 32,
+        "time": 209.71,
+        "online_text": "只為只為你你一個",
+        "status": "exact",
+        "text": "只為只為你你一個",
+        "spelling": "tsí uî tsí uî lí lí tsi̍t ê",
+        "manual_id": "line-78:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 33,
+        "time": 211.98,
+        "online_text": "全身軀那攏總綁咧",
+        "status": "exact",
+        "text": "全身軀那攏總綁咧",
+        "spelling": "kui sin-khu ná lóng-tsóng khuan leh",
+        "manual_id": "line-81:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 34,
+        "time": 214.07,
+        "online_text": "整個頭殼那咧冤家",
+        "status": "exact",
+        "text": "整個頭殼那咧冤家",
+        "spelling": "kui-ê thâu-khak ná leh uan-ke",
+        "manual_id": "line-81:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 35,
+        "time": 215.99,
+        "online_text": "心肝內干單想會飛",
+        "status": "exact",
+        "text": "心肝內干單想會飛",
+        "spelling": "sim-kuann lāi kan-nā siūnn ē pue",
+        "manual_id": "line-84:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 36,
+        "time": 217.81,
+        "online_text": "要甲你作伙",
+        "status": "exact",
+        "text": "要甲你作伙",
+        "spelling": "beh kah lí tsuè hué",
+        "manual_id": "line-84:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 37,
+        "time": 220.1,
+        "online_text": "飛去和愛人 來作伙",
+        "status": "exact",
+        "text": "飛去和愛人來作伙",
+        "spelling": "pue-khì hām ài lâng lâi tsuè hué",
+        "manual_id": "line-87:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 38,
+        "time": 224.42,
+        "online_text": "飛去和愛人 來作伙",
+        "status": "exact",
+        "text": "飛去和愛人來作伙",
+        "spelling": "pue-khì hām ài lâng lâi tsuè hué",
+        "manual_id": "line-87:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 39,
+        "time": 228.59,
+        "online_text": "飛去和愛人 來相會",
+        "status": "exact",
+        "text": "飛去和愛人來相會",
+        "spelling": "pue-khì hām ài lâng lâi siong-huē",
+        "manual_id": "line-90:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 40,
+        "time": 232.56,
+        "online_text": "飛去和愛人 來作伙",
+        "status": "exact",
+        "text": "飛去和愛人來作伙",
+        "spelling": "pue-khì hām ài lâng lâi tsuè hué",
+        "manual_id": "line-90:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 41,
+        "time": 236.82,
+        "online_text": "飛去和愛人 來作伙",
+        "status": "exact",
+        "text": "飛去和愛人來作伙",
+        "spelling": "pue-khì hām ài lâng lâi tsuè hué",
+        "manual_id": "line-93:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 42,
+        "time": 240.93,
+        "online_text": "飛去和愛人 來作伙",
+        "status": "exact",
+        "text": "飛去和愛人來作伙",
+        "spelling": "pue-khì hām ài lâng lâi tsuè hué",
+        "manual_id": "line-93:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 43,
+        "time": 245.25,
+        "online_text": "飛去和愛人 來相會",
+        "status": "exact",
+        "text": "飛去和愛人來相會",
+        "spelling": "pue-khì hām ài lâng lâi siong-huē",
+        "manual_id": "line-96:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 44,
+        "time": 249.4,
+        "online_text": "飛去和愛人 來作伙",
+        "status": "exact",
+        "text": "飛去和愛人來作伙",
+        "spelling": "pue-khì hām ài lâng lâi tsuè hué",
+        "manual_id": "line-96:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 45,
+        "time": 254.51,
+        "online_text": "飛去和愛人 來作伙",
+        "status": "exact",
+        "text": "飛去和愛人來作伙",
+        "spelling": "pue-khì hām ài lâng lâi tsuè hué",
+        "manual_id": "line-99:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 46,
+        "time": 258.64,
+        "online_text": "飛去和愛人 來作伙",
+        "status": "exact",
+        "text": "飛去和愛人來作伙",
+        "spelling": "pue-khì hām ài lâng lâi tsuè hué",
+        "manual_id": "line-99:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 47,
+        "time": 262.9,
+        "online_text": "飛去和愛人 來相會",
+        "status": "exact",
+        "text": "飛去和愛人來相會",
+        "spelling": "pue-khì hām ài lâng lâi siong-huē",
+        "manual_id": "line-102:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 48,
+        "time": 267.04,
+        "online_text": "飛去和愛人 來作伙",
+        "status": "exact",
+        "text": "飛去和愛人來作伙",
+        "spelling": "pue-khì hām ài lâng lâi tsuè hué",
+        "manual_id": "line-102:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 49,
+        "time": 271.22,
+        "online_text": "飛去和愛人 來作伙",
+        "status": "exact",
+        "text": "飛去和愛人來作伙",
+        "spelling": "pue-khì hām ài lâng lâi tsuè hué",
+        "manual_id": "line-105:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 50,
+        "time": 275.47,
+        "online_text": "飛去和愛人 來作伙",
+        "status": "exact",
+        "text": "飛去和愛人來作伙",
+        "spelling": "pue-khì hām ài lâng lâi tsuè hué",
+        "manual_id": "line-105:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 51,
+        "time": 279.61,
+        "online_text": "飛去和愛人 來相會",
+        "status": "exact",
+        "text": "飛去和愛人來相會",
+        "spelling": "pue-khì hām ài lâng lâi siong-huē",
+        "manual_id": "line-108:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 52,
+        "time": 283.94,
+        "online_text": "飛去和愛人 來作伙",
+        "status": "exact",
+        "text": "飛去和愛人來作伙",
+        "spelling": "pue-khì hām ài lâng lâi tsuè hué",
+        "manual_id": "line-108:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 53,
+        "time": 287.42,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

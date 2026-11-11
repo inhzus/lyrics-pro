@@ -1,0 +1,304 @@
+{
+  "blocks": [
+    {
+      "id": "line-5",
+      "text": "OH! 再會吧! OH!啥物攏不驚",
+      "spelling": "OH! tsài-huē pa!   OH! siánn-mih lóng m̄ kiann",
+      "source_lines": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "line-8",
+      "text": "OH! 再會吧! OH! 向前行",
+      "spelling": "OH! tsài-huē pa!   OH! hiòng-tsiân kiânn",
+      "source_lines": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "火車漸漸在起走　                                                  再會我的故鄉和親戚",
+      "spelling": "hué-tshia tsiām tsiām teh khí kiânn                tsài-huē guá ê kòo-hiong kah tshin-tsiânn",
+      "source_lines": [
+        11,
+        12
+      ],
+      "parts": [
+        {
+          "text": "火車漸漸在起走",
+          "spelling": "hué-tshia tsiām tsiām teh khí kiânn"
+        },
+        {
+          "text": "再會我的故鄉和親戚",
+          "spelling": "tsài-huē guá ê kòo-hiong kah tshin-tsiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-14",
+      "text": "親愛的父母再會吧　                                  到陣的朋友告辭啦",
+      "spelling": "tshin-ài ê pē-bú  tsài-huē pa                  làu tīn ê pîng-iú kò sî lah",
+      "source_lines": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "line-17",
+      "text": "阮欲來去台北打拼　                                           聽人講啥物好空的攏在那",
+      "spelling": "guán beh lâi-khì tâi-pak phah-piànn            thiann lâng kóng siánn-mih hó khàng ê lóng tī hiâ",
+      "source_lines": [
+        17,
+        18
+      ],
+      "parts": [
+        {
+          "text": "阮欲來去台北打拼",
+          "spelling": "guán beh lâi-khì tâi-pak phah-piànn"
+        },
+        {
+          "text": "聽人講啥物好空的攏在那",
+          "spelling": "thiann lâng kóng siánn-mih hó khàng ê lóng tī hiâ"
+        }
+      ]
+    },
+    {
+      "id": "line-20",
+      "text": "朋友笑我是愛做暝夢的憨子　                                             不管如何路是自己走",
+      "spelling": "pîng-iú tshiò guá sī ài tsuè mî bāng ê khong kiánn    m̄ kuán lû-hô lōo sī ka-kī kiânn",
+      "source_lines": [
+        20,
+        21
+      ],
+      "parts": [
+        {
+          "text": "朋友笑我是愛做暝夢的憨子",
+          "spelling": "pîng-iú tshiò guá sī ài tsuè mî bāng ê khong kiánn"
+        },
+        {
+          "text": "不管如何路是自己走",
+          "spelling": "m̄ kuán lû-hô lōo sī ka-kī kiânn"
+        }
+      ]
+    },
+    {
+      "id": "line-23",
+      "text": "OH! 再會吧! OH!啥物攏不驚",
+      "spelling": "OH! tsài-huē pa!   OH! siánn-mih lóng m̄ kiann",
+      "source_lines": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "line-26",
+      "text": "OH! 再會吧! OH! 向前行",
+      "spelling": "OH! tsài-huē pa!   OH! hiòng-tsiân kiânn",
+      "source_lines": [
+        26,
+        27
+      ]
+    },
+    {
+      "id": "line-29",
+      "text": "車站一站一站過去啦　                                            風景一幕一幕親像電影",
+      "spelling": "tshia-tsām tsi̍t tsām tsi̍t tsām kuè-khì lah         hong-kíng tsi̍t bōo tsi̍t bōo tshin-tshiūnn tiān-iánn",
+      "source_lines": [
+        29,
+        30
+      ],
+      "parts": [
+        {
+          "text": "車站一站一站過去啦",
+          "spelling": "tshia-tsām tsi̍t tsām tsi̍t tsām kuè-khì lah"
+        },
+        {
+          "text": "風景一幕一幕親像電影",
+          "spelling": "hong-kíng tsi̍t bōo tsi̍t bōo tshin-tshiūnn tiān-iánn"
+        }
+      ]
+    },
+    {
+      "id": "line-32",
+      "text": "把自己當作是男主角來扮　                                        雲遊四海可比是小飛俠",
+      "spelling": "bǎ ka-kī tòng-tsuè sī lâm-tsú-kak lâi puann        hûn-iû sù-hái khó-pí sī xiǎo fēi xiá",
+      "source_lines": [
+        32,
+        33
+      ],
+      "parts": [
+        {
+          "text": "把自己當作是男主角來扮",
+          "spelling": "bǎ ka-kī tòng-tsuè sī lâm-tsú-kak lâi puann"
+        },
+        {
+          "text": "雲遊四海可比是小飛俠",
+          "spelling": "hûn-iû sù-hái khó-pí sī xiǎo fēi xiá"
+        }
+      ]
+    },
+    {
+      "id": "line-35",
+      "text": "不管是幼稚也是樂觀　                              後果若按怎自己就來擔",
+      "spelling": "m̄ kuán sī iù-tī iā sī lo̍k-kuan                hiō-kó ná án-tsuánn ka-kī tio̍h lâi tann",
+      "source_lines": [
+        35,
+        36
+      ],
+      "parts": [
+        {
+          "text": "不管是幼稚也是樂觀",
+          "spelling": "m̄ kuán sī iù-tī iā sī lo̍k-kuan"
+        },
+        {
+          "text": "後果若按怎自己就來擔",
+          "spelling": "hiō-kó ná án-tsuánn ka-kī tio̍h lâi tann"
+        }
+      ]
+    },
+    {
+      "id": "line-38",
+      "text": "原諒不孝的子兒吧　                                    趁我還少年趕緊來打拼",
+      "spelling": "guân-liōng put-hàu ê kiánn jî pa            thàn guá iáu siàu-liân kuánn-kín lâi phah-piànn",
+      "source_lines": [
+        38,
+        39
+      ],
+      "parts": [
+        {
+          "text": "原諒不孝的子兒吧",
+          "spelling": "guân-liōng put-hàu ê kiánn jî pa"
+        },
+        {
+          "text": "趁我還少年趕緊來打拼",
+          "spelling": "thàn guá iáu siàu-liân kuánn-kín lâi phah-piànn"
+        }
+      ]
+    },
+    {
+      "id": "line-41",
+      "text": "OH! 再會吧! OH!啥物攏不驚",
+      "spelling": "OH! tsài-huē pa!   OH! siánn-mih lóng m̄ kiann",
+      "source_lines": [
+        41,
+        42
+      ]
+    },
+    {
+      "id": "line-44",
+      "text": "OH! 再會吧! OH! 向前行",
+      "spelling": "OH! tsài-huē pa!   OH! hiòng-tsiân kiânn",
+      "source_lines": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "line-47",
+      "text": "台北台北台北車站到了啦　                                            欲下車的旅客請趕緊下車",
+      "spelling": "tâi-pak tâi-pak tâi-pak tshia-thâu kàu liáu lah        beh lo̍h-tshia ê lú-kheh tshiánn kuánn-kín lo̍h-tshia",
+      "source_lines": [
+        47,
+        48
+      ],
+      "parts": [
+        {
+          "text": "台北台北台北車站到了啦",
+          "spelling": "tâi-pak tâi-pak tâi-pak tshia-thâu kàu liáu lah"
+        },
+        {
+          "text": "欲下車的旅客請趕緊下車",
+          "spelling": "beh lo̍h-tshia ê lú-kheh tshiánn kuánn-kín lo̍h-tshia"
+        }
+      ]
+    },
+    {
+      "id": "line-50",
+      "text": "頭前是現在的台北車頭　                                          我的理想和希望攏在這",
+      "spelling": "thâu-tsîng sī hiàn tsāi ê tâi-pak tshia-thâu        guá ê lí-sióng kah hi-bāng lóng tī tsia",
+      "source_lines": [
+        50,
+        51
+      ],
+      "parts": [
+        {
+          "text": "頭前是現在的台北車頭",
+          "spelling": "thâu-tsîng sī hiàn tsāi ê tâi-pak tshia-thâu"
+        },
+        {
+          "text": "我的理想和希望攏在這",
+          "spelling": "guá ê lí-sióng kah hi-bāng lóng tī tsia"
+        }
+      ]
+    },
+    {
+      "id": "line-53",
+      "text": "一棟一棟的高樓大廈　                                 不知有住多少像我這種的憨子",
+      "spelling": "tsi̍t tòng tsi̍t tòng ê ko-lâu dà shà             m̄ tsai ū tuà guā-tsē tshiūnn guá tsit-tsióng ê khong kiánn",
+      "source_lines": [
+        53,
+        54
+      ],
+      "parts": [
+        {
+          "text": "一棟一棟的高樓大廈",
+          "spelling": "tsi̍t tòng tsi̍t tòng ê ko-lâu dà shà"
+        },
+        {
+          "text": "不知有住多少像我這種的憨子",
+          "spelling": "m̄ tsai ū tuà guā-tsē tshiūnn guá tsit-tsióng ê khong kiánn"
+        }
+      ]
+    },
+    {
+      "id": "line-56",
+      "text": "卡早聽人唱台北不是我的家但是我一點攏無感覺",
+      "spelling": "kha̍h tsá thiann lâng tshiùnn tái běi bùshì wǒ de jiā tān-sī guá tsi̍t tiám lóng bô kám-kak",
+      "source_lines": [
+        56,
+        57
+      ]
+    },
+    {
+      "id": "line-59",
+      "text": "OH!啥物攏不驚! OH!向前走",
+      "spelling": "OH! siánn-mih lóng m̄ kiann!   OH! hiòng-tsiân kiânn",
+      "source_lines": [
+        59,
+        60
+      ]
+    },
+    {
+      "id": "line-62",
+      "text": "OH!啥物攏不驚! OH!向前走",
+      "spelling": "OH! siánn-mih lóng m̄ kiann!   OH! hiòng-tsiân kiânn",
+      "source_lines": [
+        62,
+        63
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "line": 1,
+      "text": "作詞：林強    作曲：董事長樂團  & 流氓阿德  台語拼音：關德樂"
+    }
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "text": "Note: As I was unable to find an online copy of the 董事長樂團 version, I’ve instead included the original song as a reference."
+    },
+    {
+      "line": 65,
+      "text": "Note:  A few of the words in this song are Mandarin Chinese and not Taiwanese.  The most notable of these is the line “卡早聽人唱台北不是我的家”.  This is a reference to another famous classic song by Luó Dà Yòu (羅大佑).  I’ve marked any standard Mandarin words in italics where they occur."
+    }
+  ],
+  "reasons": [
+    "source_note_requires_review:3",
+    "source_note_requires_review:65"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "song_id": 21201274,
+    "title": "枉费青春",
+    "artists": [
+      "伍佰"
+    ],
+    "album": "伍佰的Live",
+    "duration": 167.7333329,
+    "provider": "lrclib"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "lrclib:21201274",
+      "duration": 167.7333329,
+      "ready": false,
+      "coverage": 0.0625,
+      "exact_fraction": 0.0625,
+      "summary": {
+        "unresolved": 15,
+        "gap": 3,
+        "exact": 1
+      }
+    }
+  ]
+}

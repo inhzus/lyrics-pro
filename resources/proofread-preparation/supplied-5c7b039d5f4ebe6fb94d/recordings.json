@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 2704743638,
+      "title": "气象报导",
+      "artists": [
+        "男子汉乐团"
+      ],
+      "album": "爱情广播电台",
+      "duration": 56.029,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

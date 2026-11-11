@@ -1,0 +1,241 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "放風飛萬里江山　為了美人獻三關",
+      "spelling": "pàng-hong pue bān-lí kang-san uī-tio̍h bí-lîn hiàn sann kuan",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "人生自古誰不死　連年遇到歹時機",
+      "spelling": "lîn-sing tsū-kóo tsuî put sí liân-nî tú-tio̍h pháinn sî-ki",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "世間本是苦海　奉勸你心情樂觀",
+      "spelling": "sè-kan pún sī khóo-hái hōng-khǹg lí sim-tsîng lo̍k-kuan",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "初一十五吃素齋　懺悔之心不亂",
+      "spelling": "tshe i̍t tsa̍p gōo sòo tsai tshàm-hué tsi sim put luān",
+      "source_lines": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "line-13",
+      "text": "往生船駛向陰間　放生粉鳥會倘消災",
+      "spelling": "óng-sing tsûn sái hiòng im-kan hòng-sing hún-tsiáu ē-tàng siau-tsai",
+      "source_lines": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "line-16",
+      "text": "肩胛頭揹神主牌　善惡判斷來投胎",
+      "spelling": "king-kah thâu phāinn sîn tsú pâi siān-ok phuànn-tn̄g lâi tâu-thai",
+      "source_lines": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "line-19",
+      "text": "盼望乎死者超生　念經神明駕臨",
+      "spelling": "ǹg-bāng hòo sí tsiá tshiau-sing liām-king sîn-bîng sái lîm",
+      "source_lines": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "line-22",
+      "text": "蓮花金寶法船　萬燈祈福結緣",
+      "spelling": "liân-hue kim pó huat tsûn bān ting kî-hok kat-iân",
+      "source_lines": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "line-25",
+      "text": "莫非一切是因果　害父王陰間受苦勞",
+      "spelling": "bo̍k-hui it-tshè sī in-kó hāi hū ông im-kan siū-khóo lô",
+      "source_lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "line-28",
+      "text": "十外年來　我背著殺人犯的罪名",
+      "spelling": "tsa̍p guā nî lâi guá phāinn-tio̍h sat-lîn huān ê tsuē-miâ",
+      "source_lines": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "line-31",
+      "text": "家破人亡　何處尋回骨肉親",
+      "spelling": "ka phò lîn bông hô-tshù sun huê kut-lio̍k tshin",
+      "source_lines": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "line-34",
+      "text": "天啊　一時天昏地暗　心抓狂",
+      "spelling": "thian ah tsi̍t-sî thian hūn tē àm sim lia̍h-kông",
+      "source_lines": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "line-37",
+      "text": "五子哭墓洩天機　孝女白琴報你知",
+      "spelling": "ngóo tsú khàu bōng siat thian-ki hàu-lú pe̍h khîm pò lí tsai",
+      "source_lines": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "line-40",
+      "text": "無事不登三寶殿　閻王抓去受苦煉",
+      "spelling": "bô-sū put ting sank pó tiān giâm-ông lia̍h khì siū-khóo liān",
+      "source_lines": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "line-43",
+      "text": "孤魂野鬼布施　冤親債主超度",
+      "spelling": "koo-hûn iá kuí pòo si uan tshin tsè-tsú tshiau-tōo",
+      "source_lines": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "line-46",
+      "text": "搖擺沒落魄卡久　行正路回頭是岸",
+      "spelling": "iô-pái bô lo̍k-phik khá kú kiânn tsìng-lōo huê-thâu sī huānn",
+      "source_lines": [
+        46,
+        47
+      ]
+    },
+    {
+      "id": "line-49",
+      "text": "燒香雙腳跪　十方大德來祭拜",
+      "spelling": "sio-hiunn siang-kha kuī si̍p hng tāi-tik lâi tsè-pài",
+      "source_lines": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "line-52",
+      "text": "往生船漂流　無邊無量　利益眾生",
+      "spelling": "óng-sing tsûn phiau-liû bô-pinn bô-liāng lī-ik tsiòng-sing",
+      "source_lines": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "line-55",
+      "text": "南無波羅蜜　一切成敗煙消雲散",
+      "spelling": "lâm bô pho-lô-bi̍t it-tshè sîng-pāi ian siau hûn sán",
+      "source_lines": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "line-58",
+      "text": "富不過三代　濟弱扶傾　法喜充滿",
+      "spelling": "pù put-kuè sam tāi tsè lio̍k hû khing huat hí tshiong-buán",
+      "source_lines": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "line-61",
+      "text": "燒香雙腳跪　十方大德來祭拜",
+      "spelling": "sio-hiunn siang-kha kuī si̍p hng tāi-tik lâi tsè-pài",
+      "source_lines": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "line-64",
+      "text": "往生船漂流　無邊無量　利益眾生",
+      "spelling": "óng-sing tsûn phiau-liû bô-pinn bô-liāng lī-ik tsiòng-sing",
+      "source_lines": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "line-67",
+      "text": "南無波羅蜜　一切成敗煙消雲散",
+      "spelling": "lâm bô pho-lô-bi̍t it-tshè sîng-pāi ian siau hûn sán",
+      "source_lines": [
+        67,
+        68
+      ]
+    },
+    {
+      "id": "line-70",
+      "text": "富不過三代　濟弱扶傾　法喜充滿",
+      "spelling": "pù put-kuè sam tāi tsè lio̍k hû khing huat hí tshiong-buán",
+      "source_lines": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "line-73",
+      "text": "留下遺憾　往極樂世界",
+      "spelling": "lâu-hā uî-hām óng ki̍k-lo̍k sè-kài",
+      "source_lines": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "line-76",
+      "text": "茫茫苦海　安怎來解脫　啦啦啦…",
+      "spelling": "bông-bông khóo hái an-tsuánn lâi kái-thuat là là là…",
+      "source_lines": [
+        76,
+        77
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": []
+}

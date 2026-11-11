@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": 1897953073,
+      "title": "袂见笑",
+      "artists": [
+        "蔡昌宪"
+      ],
+      "album": "有闲",
+      "duration": 210.845,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1396390086,
+      "title": "袂见笑",
+      "artists": [
+        "艰苦人 kan khóo lâng"
+      ],
+      "album": "苦尽甘来",
+      "duration": 211.7,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1596295175",
+      "title": "袂见笑",
+      "artists": [
+        "蔡昌宪"
+      ],
+      "album": "有闲 - EP",
+      "duration": 210.846,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1596295175",
+      "title": "袂见笑",
+      "artists": [
+        "蔡昌宪"
+      ],
+      "album": "有闲 - EP",
+      "duration": 210.846,
+      "provider": "lrcapi",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

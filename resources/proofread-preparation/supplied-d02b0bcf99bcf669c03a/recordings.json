@@ -1,0 +1,104 @@
+{
+  "candidates": [
+    {
+      "song_id": 1329719983,
+      "title": "毋甘",
+      "artists": [
+        "曹雅雯"
+      ],
+      "album": "小说",
+      "duration": 283.01,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3327611541,
+      "title": "毋甘",
+      "artists": [
+        "CJ MiT"
+      ],
+      "album": "我说",
+      "duration": 260.307,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 3430401308,
+      "title": "毋甘",
+      "artists": [
+        "等阮返來"
+      ],
+      "album": "毋甘",
+      "duration": 233.381,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2103747515,
+      "title": "毋甘",
+      "artists": [
+        "李明洋"
+      ],
+      "album": "上好命",
+      "duration": 274.071,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": "956393718",
+      "title": "毋甘",
+      "artists": [
+        "谢铭佑"
+      ],
+      "album": "也兽",
+      "duration": 247.853,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1717490258",
+      "title": "毋甘",
+      "artists": [
+        "李明洋"
+      ],
+      "album": "上好命",
+      "duration": 274.071,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1782825964",
+      "title": "毋甘",
+      "artists": [
+        "CJ MiT"
+      ],
+      "album": "毋甘 - Single",
+      "duration": 256.0,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": "1444997843",
+      "title": "毋甘",
+      "artists": [
+        "曹雅雯"
+      ],
+      "album": "小说",
+      "duration": 283.01,
+      "provider": "lrcapi",
+      "verified_artist": false
+    },
+    {
+      "song_id": 14828394,
+      "title": "毋甘",
+      "artists": [
+        "曹雅雯"
+      ],
+      "album": "小說",
+      "duration": 283.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

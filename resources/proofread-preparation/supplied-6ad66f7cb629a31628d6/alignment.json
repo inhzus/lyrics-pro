@@ -1,0 +1,634 @@
+{
+  "recording_id": "netease:69184",
+  "timing_source": "NetEase https://music.163.com/song?id=69184",
+  "manual_source": "User-supplied resources/lyrics-spelling/飘浪的人-陳雷",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "unresolved": 40,
+    "repeat": 3,
+    "gap": 1
+  },
+  "review_row_count": 40,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-1:0",
+    "line-4:0",
+    "line-7:0",
+    "line-10:0",
+    "line-13:0",
+    "line-16:0",
+    "line-19:0",
+    "line-25:0",
+    "line-28:0",
+    "line-31:0",
+    "line-34:0",
+    "line-37:0",
+    "line-40:0",
+    "line-43:0",
+    "line-49:0",
+    "line-52:0",
+    "line-55:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 郭奖",
+      "match_text": "作词 : 郭奖",
+      "text": "作词 : 郭奖",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 郭奖",
+      "match_text": "作曲 : 郭奖",
+      "text": "作曲 : 郭奖",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 25.69,
+      "online_text": "等爱的人",
+      "match_text": "等爱的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 28.57,
+      "online_text": "等无船回航",
+      "match_text": "等无船回航",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 32.56,
+      "online_text": "飘浪的人",
+      "match_text": "飘浪的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 34.9,
+      "online_text": "心情真沉重",
+      "match_text": "心情真沉重",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 38.91,
+      "online_text": "无奈的我",
+      "match_text": "无奈的我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 41.19,
+      "online_text": "忍心将你放",
+      "match_text": "忍心将你放",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 45.19,
+      "online_text": "异乡的我",
+      "match_text": "异乡的我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 47.39,
+      "online_text": "为你夜夜梦",
+      "match_text": "为你夜夜梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 51.11,
+      "online_text": "男儿心声",
+      "match_text": "男儿心声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 54.79,
+      "online_text": "啊飘浪的运命",
+      "match_text": "啊飘浪的运命",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 58.06,
+      "online_text": "无论霜雪",
+      "match_text": "无论霜雪",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 59.67,
+      "online_text": "也是风寒",
+      "match_text": "也是风寒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 61.58,
+      "online_text": "嘿拢无算啥",
+      "match_text": "嘿拢无算啥",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 64.0,
+      "online_text": "唯一的心痛",
+      "match_text": "唯一的心痛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 67.82,
+      "online_text": "是心爱的在阮梦中",
+      "match_text": "是心爱的在阮梦中",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 72.62,
+      "online_text": "不时叫着阮的名",
+      "match_text": "不时叫着阮的名",
+      "text": "不時叫著阮的名",
+      "spelling": "put-sî kiò-tio̍h gún ê miâ",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 18,
+      "time": 77.24,
+      "online_text": "Key",
+      "match_text": "Key",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 77.76,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 20,
+      "time": 103.91,
+      "online_text": "等爱的人",
+      "match_text": "等爱的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 106.13,
+      "online_text": "等无船回航",
+      "match_text": "等无船回航",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 110.15,
+      "online_text": "飘浪的人",
+      "match_text": "飘浪的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 23,
+      "time": 112.54,
+      "online_text": "心情真沉重",
+      "match_text": "心情真沉重",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 24,
+      "time": 116.51,
+      "online_text": "无奈的我",
+      "match_text": "无奈的我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 25,
+      "time": 118.79,
+      "online_text": "忍心将你放",
+      "match_text": "忍心将你放",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 122.76,
+      "online_text": "异乡的我",
+      "match_text": "异乡的我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 125.07,
+      "online_text": "为你夜夜梦",
+      "match_text": "为你夜夜梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 128.97,
+      "online_text": "男儿心声",
+      "match_text": "男儿心声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 29,
+      "time": 132.61,
+      "online_text": "啊飘浪的运命",
+      "match_text": "啊飘浪的运命",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 135.76,
+      "online_text": "无论霜雪",
+      "match_text": "无论霜雪",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 137.4,
+      "online_text": "也是风寒",
+      "match_text": "也是风寒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 32,
+      "time": 139.39,
+      "online_text": "嘿拢无算啥",
+      "match_text": "嘿拢无算啥",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 33,
+      "time": 141.77,
+      "online_text": "唯一的心痛",
+      "match_text": "唯一的心痛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 145.42,
+      "online_text": "是心爱的在阮梦中",
+      "match_text": "是心爱的在阮梦中",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 150.38,
+      "online_text": "不时叫着阮的名",
+      "match_text": "不时叫着阮的名",
+      "text": "不時叫著阮的名",
+      "spelling": "put-sî kiò-tio̍h gún ê miâ",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 36,
+      "time": 155.51,
+      "online_text": "Key",
+      "match_text": "Key",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 180.95,
+      "online_text": "男儿心声",
+      "match_text": "男儿心声",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 38,
+      "time": 184.7,
+      "online_text": "啊飘浪的运命",
+      "match_text": "啊飘浪的运命",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 187.86,
+      "online_text": "无论霜雪",
+      "match_text": "无论霜雪",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 189.51,
+      "online_text": "也是风寒",
+      "match_text": "也是风寒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 191.35,
+      "online_text": "嘿拢无算啥",
+      "match_text": "嘿拢无算啥",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 193.79,
+      "online_text": "唯一的心痛",
+      "match_text": "唯一的心痛",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 43,
+      "time": 197.6,
+      "online_text": "是心爱的在阮梦中",
+      "match_text": "是心爱的在阮梦中",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 202.51,
+      "online_text": "不时叫着阮的名",
+      "match_text": "不时叫着阮的名",
+      "text": "不時叫著阮的名",
+      "spelling": "put-sî kiò-tio̍h gún ê miâ",
+      "manual_id": "line-22:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 45,
+      "time": 208.3,
+      "online_text": "大家欢喜，众人好！（*^__^*） 嘻嘻……",
+      "match_text": "大家欢喜，众人好！（*^__^*） 嘻嘻……",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "56b18846c48719b262fb0669c9533715fadfc880bdeb5a57ec896521d80f2760",
+    "manual": "b564a0e3d08858b25afff894e10d56b2c11c726be91f9ae6d4bc33168ea3a1e3",
+    "timed": "5e6a8d141796ed153912e7aca53c318d45dde649e0beb63aea9301abeef064f5"
+  }
+}

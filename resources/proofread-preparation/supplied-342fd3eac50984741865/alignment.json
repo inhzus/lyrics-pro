@@ -1,0 +1,701 @@
+{
+  "recording_id": "netease:168386",
+  "timing_source": "NetEase https://music.163.com/song?id=168386",
+  "manual_source": "User-supplied resources/lyrics-spelling/袂做憨人-蕭煌奇",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": false,
+  "summary": {
+    "credit": 2,
+    "gap": 14,
+    "unresolved": 35,
+    "repeat": 2
+  },
+  "review_row_count": 35,
+  "unmatched_manual_ids": [],
+  "unused_repeat_ids": [
+    "line-3:0",
+    "line-6:0",
+    "line-9:0",
+    "line-15:0",
+    "line-18:0",
+    "line-21:0",
+    "line-24:0",
+    "line-27:0",
+    "line-30:0",
+    "line-33:0",
+    "line-39:0",
+    "line-42:0",
+    "line-45:0",
+    "line-48:0",
+    "line-51:0",
+    "line-54:0",
+    "line-57:0",
+    "line-60:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 萧煌奇",
+      "match_text": "作词 : 萧煌奇",
+      "text": "作词 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 0.02,
+      "online_text": "作曲 : 萧煌奇",
+      "match_text": "作曲 : 萧煌奇",
+      "text": "作曲 : 萧煌奇",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 0.05,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 3,
+      "time": 14.0,
+      "online_text": "带你心飞",
+      "match_text": "带你心飞",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 19.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 5,
+      "time": 22.84,
+      "online_text": "没小心来到这个所在",
+      "match_text": "没小心来到这个所在",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 26.63,
+      "online_text": "阮心内充满真多思念无奈感慨",
+      "match_text": "阮心内充满真多思念无奈感慨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 31.62,
+      "online_text": "每一摆经过这拢有我对过去的不甘",
+      "match_text": "每一摆经过这拢有我对过去的不甘",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 38.2,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 9,
+      "time": 38.9,
+      "online_text": "你没讲一句就来离开",
+      "match_text": "你没讲一句就来离开",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 42.59,
+      "online_text": "乎阮的心内一时完全拢没准备",
+      "match_text": "乎阮的心内一时完全拢没准备",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 47.62,
+      "online_text": "你哪会忍心来伤害阮对你的一片真情",
+      "match_text": "你哪会忍心来伤害阮对你的一片真情",
+      "text": "你哪會忍心來傷害阮　對你的一片真情",
+      "spelling": "lí ná ē lím-sim lâi siong-hāi gún tuì lí ê it-phiàn e tsin-tsîng",
+      "manual_id": "line-12:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 12,
+      "time": 52.9,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 13,
+      "time": 53.6,
+      "online_text": "甘说你 心内已经早有别人",
+      "match_text": "甘说你 心内已经早有别人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 57.4,
+      "online_text": "才袂当 对阮坦白你的心情",
+      "match_text": "才袂当 对阮坦白你的心情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 61.31,
+      "online_text": "你甘知 我置这日也思夜也梦",
+      "match_text": "你甘知 我置这日也思夜也梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 65.81,
+      "online_text": "惦惦憨憨等你的人",
+      "match_text": "惦惦憨憨等你的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 17,
+      "time": 68.76,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 18,
+      "time": 69.46,
+      "online_text": "三年啊 拢嘛已经是过去",
+      "match_text": "三年啊 拢嘛已经是过去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 19,
+      "time": 73.38,
+      "online_text": "是安怎 拢无你的消息",
+      "match_text": "是安怎 拢无你的消息",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 20,
+      "time": 77.51,
+      "online_text": "郁卒心声 大声歌声 送乎你 袂想你",
+      "match_text": "郁卒心声 大声歌声 送乎你 袂想你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 21,
+      "time": 84.9,
+      "online_text": "我决定袂搁做憨人",
+      "match_text": "我决定袂搁做憨人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 22,
+      "time": 91.89,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 23,
+      "time": 93.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 24,
+      "time": 99.0,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 25,
+      "time": 100.8,
+      "online_text": "没小心来到这个所在",
+      "match_text": "没小心来到这个所在",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 26,
+      "time": 104.72,
+      "online_text": "阮心内充满真多思念无奈感慨",
+      "match_text": "阮心内充满真多思念无奈感慨",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 27,
+      "time": 109.68,
+      "online_text": "每一摆经过这拢有我对过去的不甘",
+      "match_text": "每一摆经过这拢有我对过去的不甘",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 28,
+      "time": 115.2,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 29,
+      "time": 116.9,
+      "online_text": "你没讲一句就来离开",
+      "match_text": "你没讲一句就来离开",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 30,
+      "time": 120.89,
+      "online_text": "乎阮的心内一时完全拢没准备",
+      "match_text": "乎阮的心内一时完全拢没准备",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 31,
+      "time": 125.7,
+      "online_text": "你哪会忍心来伤害阮对你的一片真情",
+      "match_text": "你哪会忍心来伤害阮对你的一片真情",
+      "text": "你哪會忍心來傷害阮　對你的一片真情",
+      "spelling": "lí ná ē lím-sim lâi siong-hāi gún tuì lí ê it-phiàn e tsin-tsîng",
+      "manual_id": "line-12:0",
+      "status": "repeat",
+      "review": [],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 32,
+      "time": 130.7,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 33,
+      "time": 131.4,
+      "online_text": "甘说你 心内已经早有别人",
+      "match_text": "甘说你 心内已经早有别人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 34,
+      "time": 135.32,
+      "online_text": "才袂当 对阮坦白你的心情",
+      "match_text": "才袂当 对阮坦白你的心情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 35,
+      "time": 139.61,
+      "online_text": "你甘知 我置这日也思夜也梦",
+      "match_text": "你甘知 我置这日也思夜也梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 36,
+      "time": 143.61,
+      "online_text": "惦惦憨憨等你的人",
+      "match_text": "惦惦憨憨等你的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 37,
+      "time": 146.95,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 38,
+      "time": 147.9,
+      "online_text": "三年啊 拢嘛已经是过去",
+      "match_text": "三年啊 拢嘛已经是过去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 39,
+      "time": 151.45,
+      "online_text": "是安怎 拢无你的消息",
+      "match_text": "是安怎 拢无你的消息",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 40,
+      "time": 155.49,
+      "online_text": "郁卒心声 大声歌声 送乎你 袂想你",
+      "match_text": "郁卒心声 大声歌声 送乎你 袂想你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 41,
+      "time": 162.8,
+      "online_text": "我决定袂搁做憨人",
+      "match_text": "我决定袂搁做憨人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 42,
+      "time": 169.78,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 43,
+      "time": 180.89,
+      "online_text": "甘说你 心内已经早有别人",
+      "match_text": "甘说你 心内已经早有别人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 44,
+      "time": 185.34,
+      "online_text": "才袂当 对阮坦白你的心情",
+      "match_text": "才袂当 对阮坦白你的心情",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 45,
+      "time": 189.64,
+      "online_text": "你甘知 我置这日也思夜也梦",
+      "match_text": "你甘知 我置这日也思夜也梦",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 46,
+      "time": 193.82,
+      "online_text": "惦惦憨憨等你的人",
+      "match_text": "惦惦憨憨等你的人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 47,
+      "time": 197.29,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 48,
+      "time": 198.1,
+      "online_text": "三年啊 拢嘛已经是过去",
+      "match_text": "三年啊 拢嘛已经是过去",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 49,
+      "time": 201.75,
+      "online_text": "是安怎 拢无你的消息",
+      "match_text": "是安怎 拢无你的消息",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 50,
+      "time": 205.79,
+      "online_text": "郁卒心声 大声歌声 送乎你 袂想你",
+      "match_text": "郁卒心声 大声歌声 送乎你 袂想你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 51,
+      "time": 213.25,
+      "online_text": "我决定袂搁做憨人",
+      "match_text": "我决定袂搁做憨人",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 52,
+      "time": 219.26,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "84699190779d56bee3a33a0a2d872712b49221c8c92bcbf1a49e4425f991bbd1",
+    "manual": "0a4b74cbe267304d7fb4b96cb35402c349c7f395b6fcda1f774a3240ba301db9",
+    "timed": "d2ecc2160114d58da10c31574a4c9f0cf33710c15e540287aadd675bfb7fcdf6"
+  }
+}

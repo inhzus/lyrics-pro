@@ -1,0 +1,45 @@
+{
+  "blocks": [
+    {
+      "id": "line-1",
+      "text": "大家好！",
+      "spelling": "ta̍k-ke-hó",
+      "source_lines": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "line-4",
+      "text": "阮是【男子漢】",
+      "spelling": "gún sī [lâm-tsú-hàn]",
+      "source_lines": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "line-7",
+      "text": "汝今嘛收聽的是FM520",
+      "spelling": "lí tsit-má siu-thiann ê sī FM wǔ èr líng",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "line-10",
+      "text": "【愛情廣播電台】",
+      "spelling": "[ài-tsîng kóng-pòo tiān-tâi]",
+      "source_lines": [
+        10,
+        11
+      ]
+    }
+  ],
+  "credits": [],
+  "notes": [],
+  "reasons": [
+    "unpaired_line:13"
+  ]
+}

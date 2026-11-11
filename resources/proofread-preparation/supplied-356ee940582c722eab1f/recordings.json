@@ -1,0 +1,49 @@
+{
+  "candidates": [
+    {
+      "song_id": 353090,
+      "title": "只要大家拢吃台湾米",
+      "artists": [
+        "打狗乱歌团"
+      ],
+      "album": "大员一家农出来",
+      "duration": 229.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 353090,
+      "title": "只要大家拢吃台湾米",
+      "artists": [
+        "打狗乱歌团"
+      ],
+      "album": "大员一家农出来",
+      "duration": 229.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 353090,
+      "title": "只要大家拢吃台湾米",
+      "artists": [
+        "打狗乱歌团"
+      ],
+      "album": "大员一家农出来",
+      "duration": 229.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 24092593,
+      "title": "只要大家攏吃台灣米",
+      "artists": [
+        "打狗亂歌團"
+      ],
+      "album": "",
+      "duration": 226.0,
+      "provider": "lrclib",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

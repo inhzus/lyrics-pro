@@ -1,0 +1,107 @@
+{
+  "candidates": [
+    {
+      "song_id": 5260134,
+      "title": "无声的所在",
+      "artists": [
+        "伍佰"
+      ],
+      "album": "台客摇滚百万惊险辑",
+      "duration": 273.716,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 156994,
+      "title": "无声的所在",
+      "artists": [
+        "伍佰 & China Blue"
+      ],
+      "album": "电影歌曲典藏1992-2000",
+      "duration": 267.933,
+      "provider": "netease",
+      "verified_artist": true
+    },
+    {
+      "song_id": 28274205,
+      "title": "无声的所在",
+      "artists": [
+        "林强",
+        "侯孝贤"
+      ],
+      "album": "《少年吔，安啦！》电影原声带",
+      "duration": 249.614,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2031078230,
+      "title": "无声的所在",
+      "artists": [
+        "Mikeyyy Jen"
+      ],
+      "album": "无声的所在",
+      "duration": 172.727,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1973559199,
+      "title": "无声的所在",
+      "artists": [
+        "陈平"
+      ],
+      "album": "台湾流行歌曲精华 49",
+      "duration": 241.24,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 2602023964,
+      "title": "无声的所在",
+      "artists": [
+        "GNO"
+      ],
+      "album": "B面",
+      "duration": 224.0,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 5282221,
+      "title": "无声的所在",
+      "artists": [
+        "侯孝贤",
+        "林强"
+      ],
+      "album": "滚石九大天王 贺岁齐唱十二出好戏",
+      "duration": 248.653,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 1989546427,
+      "title": "无声的所在",
+      "artists": [
+        "彭世亮"
+      ],
+      "album": "邦尼达闽南语选集36",
+      "duration": 231.084,
+      "provider": "netease",
+      "verified_artist": false
+    },
+    {
+      "song_id": 118846,
+      "title": "无声的所在",
+      "artists": [
+        "林强",
+        "侯孝贤"
+      ],
+      "album": "2001向前走 十年经典",
+      "duration": 249.56,
+      "provider": "netease",
+      "verified_artist": false
+    }
+  ],
+  "errors": []
+}

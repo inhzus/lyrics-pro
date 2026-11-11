@@ -1,0 +1,331 @@
+{
+  "recording_id": "netease:865040271",
+  "timing_source": "NetEase https://music.163.com/song?id=865040271",
+  "manual_source": "User-supplied resources/lyrics-spelling/淺堤 (Shallow Levée) – 叨位是你的厝-淺堤",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "unresolved": 11,
+    "approximate": 4,
+    "gap": 1,
+    "exact": 3
+  },
+  "review_row_count": 18,
+  "unmatched_manual_ids": [
+    "line-15:0",
+    "line-15:1",
+    "line-18:0",
+    "line-18:1",
+    "line-21:0",
+    "line-21:1",
+    "line-24:1"
+  ],
+  "unused_repeat_ids": [
+    "line-3:0",
+    "line-3:1",
+    "line-6:0",
+    "line-6:1",
+    "line-9:0",
+    "line-9:1",
+    "line-12:0",
+    "line-12:1",
+    "line-27:0",
+    "line-27:1",
+    "line-30:0",
+    "line-30:1",
+    "line-33:0",
+    "line-33:1",
+    "line-36:0",
+    "line-36:1"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 蔡依玲",
+      "match_text": "作词 : 蔡依玲",
+      "text": "作词 : 蔡依玲",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 蔡依玲",
+      "match_text": "作曲 : 蔡依玲",
+      "text": "作曲 : 蔡依玲",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 25.0,
+      "online_text": "溪海抓无鱼 土地种无果",
+      "match_text": "溪海抓无鱼 土地种无果",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 32.7,
+      "online_text": "人出世落土 同款歹赚吃",
+      "match_text": "人出世落土 同款歹赚吃",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 42.83,
+      "online_text": "美丽的海岸 笑笑甲温讲",
+      "match_text": "美丽的海岸 笑笑甲温讲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 5,
+      "time": 50.35,
+      "online_text": "阮仔心顶动 不像我不像我",
+      "match_text": "阮仔心顶动 不像我不像我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 74.2,
+      "online_text": "阿嬷带咱走 黄牛甲咱扶",
+      "match_text": "阿嬷带咱走 黄牛甲咱扶",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 7,
+      "time": 81.85,
+      "online_text": "树仔借咱踩 看天地不怕",
+      "match_text": "树仔借咱踩 看天地不怕",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 8,
+      "time": 92.71,
+      "online_text": "软土搁深掘 窝著不会走",
+      "match_text": "软土搁深掘 窝著不会走",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 100.34,
+      "online_text": "窗仔内的鸟只 飞袂顶动",
+      "match_text": "窗仔内的鸟只 飞袂顶动",
+      "text": "窗仔內的鳥隻",
+      "spelling": "thang-á lāi ê tsiáu-tsiah",
+      "manual_id": "line-24:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 10,
+      "time": 113.24,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 11,
+      "time": 119.22,
+      "online_text": "溪海抓无鱼 土地种无果",
+      "match_text": "溪海抓无鱼 土地种无果",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 126.75,
+      "online_text": "人出世落土 同款歹赚吃",
+      "match_text": "人出世落土 同款歹赚吃",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 134.88,
+      "online_text": "美丽的海岸 笑笑甲温讲",
+      "match_text": "美丽的海岸 笑笑甲温讲",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 14,
+      "time": 143.3,
+      "online_text": "阮仔心顶动 不像我不像我",
+      "match_text": "阮仔心顶动 不像我不像我",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 150.11,
+      "online_text": "青面獠牙",
+      "match_text": "青面獠牙",
+      "text": "青面獠牙",
+      "spelling": "tshenn-bīn-liâu-gê",
+      "manual_id": "line-39:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 16,
+      "time": 152.01,
+      "online_text": "喂囡大汉",
+      "match_text": "喂囡大汉",
+      "text": "餵囡大漢",
+      "spelling": "tshī gín tuā-hàn",
+      "manual_id": "line-39:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.75
+    },
+    {
+      "source_row": 17,
+      "time": 153.9,
+      "online_text": "一天又一天变化",
+      "match_text": "一天又一天变化",
+      "text": "ㄧ天又ㄧ天變化",
+      "spelling": "tsi̍t kang iū tsi̍t kang piàn-huà",
+      "manual_id": "line-42:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.714286
+    },
+    {
+      "source_row": 18,
+      "time": 157.83,
+      "online_text": "后代子孙搁烦恼吃穿",
+      "match_text": "后代子孙搁烦恼吃穿",
+      "text": "後代子孫擱煩惱吃穿",
+      "spelling": "āu-tāi kiánn sun koh huân-ló tsia̍h tshīng",
+      "manual_id": "line-45:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.888889
+    },
+    {
+      "source_row": 19,
+      "time": 161.81,
+      "online_text": "问伊咁知影",
+      "match_text": "问伊咁知影",
+      "text": "問伊咁知影",
+      "spelling": "mn̄g i kam tsai-iánn",
+      "manual_id": "line-48:0",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    },
+    {
+      "source_row": 20,
+      "time": 164.4,
+      "online_text": "叨位是你的厝",
+      "match_text": "叨位是你的厝",
+      "text": "叨位是你的厝",
+      "spelling": "tó-uī sī lí ê tshù",
+      "manual_id": "line-48:1",
+      "status": "exact",
+      "review": [
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "c11760e580f10585ccd0a855459988f3587b94425332ca9c062d7d0f35f3f9d1",
+    "manual": "ba191cd19b544346921aea3c970a8fe2affe5707c5ab08e63a233444ba642453",
+    "timed": "2512ad67b13cb140b64dc2a722318852695b662ef6d28394347b087e5e544375"
+  }
+}

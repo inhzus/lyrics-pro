@@ -1,0 +1,322 @@
+{
+  "recording_id": "netease:156682",
+  "timing_source": "NetEase https://music.163.com/song?id=156682",
+  "manual_source": "User-supplied resources/lyrics-spelling/飛在風中的小雨-伍佰",
+  "audio_verified": false,
+  "candidate_threshold": 0.7,
+  "ambiguous_sequence_alignment": true,
+  "summary": {
+    "credit": 2,
+    "unresolved": 11,
+    "approximate": 5,
+    "gap": 3
+  },
+  "review_row_count": 16,
+  "unmatched_manual_ids": [
+    "line-3:1",
+    "line-3:2",
+    "line-6:0",
+    "line-6:2",
+    "line-9:0",
+    "line-9:1",
+    "line-9:2",
+    "line-12:2",
+    "line-15:0",
+    "line-15:1",
+    "line-15:2",
+    "line-18:0",
+    "line-18:1",
+    "line-21:0",
+    "line-21:1",
+    "line-24:1",
+    "line-24:2",
+    "line-30:0"
+  ],
+  "unused_repeat_ids": [
+    "line-3:0",
+    "line-24:0"
+  ],
+  "duplicate_timestamp_values": [],
+  "boundary_warnings": [],
+  "rows": [
+    {
+      "source_row": 0,
+      "time": 0,
+      "online_text": "作词 : 伍佰",
+      "match_text": "作词 : 伍佰",
+      "text": "作词 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 1,
+      "time": 1.0,
+      "online_text": "作曲 : 伍佰",
+      "match_text": "作曲 : 伍佰",
+      "text": "作曲 : 伍佰",
+      "spelling": "",
+      "manual_id": null,
+      "status": "credit",
+      "review": []
+    },
+    {
+      "source_row": 2,
+      "time": 29.07,
+      "online_text": "飞在风中的小雨夜夜在我的窗前",
+      "match_text": "飞在风中的小雨夜夜在我的窗前",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 3,
+      "time": 37.84,
+      "online_text": "怨这条爱情路甘是黑云起怨妒",
+      "match_text": "怨这条爱情路甘是黑云起怨妒",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 4,
+      "time": 46.6,
+      "online_text": "将阮月娘的目屎吹冷冷的风",
+      "match_text": "将阮月娘的目屎吹冷冷的风",
+      "text": "將阮月娘的目屎",
+      "spelling": "tsiòng gún gue̍h-niû ê ba̍k-sái",
+      "manual_id": "line-6:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.736842
+    },
+    {
+      "source_row": 5,
+      "time": 54.99,
+      "online_text": "那时甲你有约束治我倒返来那时",
+      "match_text": "那时甲你有约束治我倒返来那时",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 6,
+      "time": 64.57,
+      "online_text": "你会在我身边那知日子做伊去",
+      "match_text": "你会在我身边那知日子做伊去",
+      "text": "那知日子做伊去",
+      "spelling": "ná-tsai ji̍t-tsí tsuè i khì",
+      "manual_id": "line-12:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.7
+    },
+    {
+      "source_row": 7,
+      "time": 73.48,
+      "online_text": "我犹原不曾回来你不知在佗位",
+      "match_text": "我犹原不曾回来你不知在佗位",
+      "text": "我猶原不曾回來",
+      "spelling": "guá iu-guân m̄ bat tńg-lâi",
+      "manual_id": "line-12:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.7
+    },
+    {
+      "source_row": 8,
+      "time": 81.93,
+      "online_text": "誓言只是谈爱的话不管你相信或无这代表我爱你",
+      "match_text": "誓言只是谈爱的话不管你相信或无这代表我爱你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 9,
+      "time": 94.72,
+      "online_text": "爱情总是甜甜蜜蜜很多很傻的代志陇发生在热恋的时",
+      "match_text": "爱情总是甜甜蜜蜜很多很傻的代志陇发生在热恋的时",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 10,
+      "time": 109.89,
+      "online_text": "飞在风中的小雨　请问你甘有看见",
+      "match_text": "飞在风中的小雨　请问你甘有看见",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 11,
+      "time": 119.7,
+      "online_text": "我思恋那个伊　请你帮我诉情意",
+      "match_text": "我思恋那个伊　请你帮我诉情意",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 12,
+      "time": 128.19,
+      "online_text": "说我在远远的所在　犹原爱伊",
+      "match_text": "说我在远远的所在　犹原爱伊",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 13,
+      "time": 137.28,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 14,
+      "time": 163.96,
+      "online_text": "誓言只是谈爱的话不管你相信或无这代表我爱你",
+      "match_text": "誓言只是谈爱的话不管你相信或无这代表我爱你",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 15,
+      "time": 176.58,
+      "online_text": "爱情总是甜甜蜜蜜很多很傻的代志陇发生在热恋的时",
+      "match_text": "爱情总是甜甜蜜蜜很多很傻的代志陇发生在热恋的时",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 16,
+      "time": 191.72,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    },
+    {
+      "source_row": 17,
+      "time": 193.88,
+      "online_text": "飞在风中的小雨　请问你甘有看见",
+      "match_text": "飞在风中的小雨　请问你甘有看见",
+      "text": null,
+      "spelling": null,
+      "manual_id": null,
+      "status": "unresolved",
+      "review": [
+        "no_manual_match"
+      ]
+    },
+    {
+      "source_row": 18,
+      "time": 202.34,
+      "online_text": "我思恋那个伊　请你帮我诉情意",
+      "match_text": "我思恋那个伊　请你帮我诉情意",
+      "text": "請你幫我訴情意",
+      "spelling": "tshiánn lí pang guá sòo tsîng-ì",
+      "manual_id": "line-27:0",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.7
+    },
+    {
+      "source_row": 19,
+      "time": 211.12,
+      "online_text": "说我在远远的所在　犹原爱伊",
+      "match_text": "说我在远远的所在　犹原爱伊",
+      "text": "說我在遠遠的所在",
+      "spelling": "kóng guá tī hn̄g hn̄g ê sóo-tsāi",
+      "manual_id": "line-27:1",
+      "status": "approximate",
+      "review": [
+        "approximate_text_match",
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 0.8
+    },
+    {
+      "source_row": 20,
+      "time": 220.31,
+      "online_text": "",
+      "match_text": "",
+      "text": "",
+      "spelling": "",
+      "manual_id": null,
+      "status": "gap",
+      "review": []
+    }
+  ],
+  "strict_complete": false,
+  "input_sha256": {
+    "original_source": "bdc321dd8401eac751a9ff84711a3808ca1a4045f19c7c2a65e8e7e033f9613c",
+    "manual": "58cc1cfd468c55d7794cd6ac7e86435ccaa69258f24105327c615c121cbc719a",
+    "timed": "f8d381bef902313ac4314a51dcc6e7fc7f49ba630426f2cbc3df339e0ca991f4"
+  }
+}

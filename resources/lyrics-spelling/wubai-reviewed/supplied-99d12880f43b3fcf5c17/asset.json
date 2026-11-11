@@ -1,0 +1,514 @@
+{
+  "schema_version": 1,
+  "id": "supplied-99d12880f43b3fcf5c17",
+  "revision": "1",
+  "title": "愛情限時批",
+  "title_aliases": [
+    "爱情限时批(Live)"
+  ],
+  "artist": "万芳 / 伍佰",
+  "album": "One芳 新歌+精选",
+  "duration": 222.307,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：伍佰   作曲：伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:297917",
+    "timing_source": "NetEase https://music.163.com/song?id=297917",
+    "manual_source": "resources/lyrics-spelling/愛情限時批-伍佰",
+    "audio_verified": false,
+    "agent_review": "Accept the explicitly verified 萬芳/伍佰 duet credit. Singer labels (女/男/合) are role markers, not sung words; preserve supplied paired vocalizations and all five refrain occurrences.",
+    "input_sha256": {
+      "original": "d058a1a7fcb34dbf0f652ac162c3edbee84934849d899ef9a55a57962f723556",
+      "manual": "9498b2a1267e10049459e622f06d2e822cb92430600d14979ec1876ccf16b026",
+      "timed": "190c4a5f763e47e5038aa0a02fa14b8b61729ff6971fcfe78b8bedcd392fb349"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "credit": 3,
+      "approximate": 31,
+      "exact": 6
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作词 : 伍佰",
+        "status": "credit",
+        "text": "作词 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 1.0,
+        "online_text": "作曲 : 伍佰",
+        "status": "credit",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 2.0,
+        "online_text": "编曲 : 伍佰 & China Blue",
+        "status": "credit",
+        "text": "编曲 : 伍佰 & China Blue",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 11.27,
+        "online_text": "(女)要安怎对你说出心内话",
+        "status": "approximate",
+        "text": "要安怎對你說出心內話",
+        "spelling": "beh an-tsuánn tuì lí kóng-tshut sim-lāi uē",
+        "manual_id": "line-3:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 15.13,
+        "online_text": "想了归暝　恰想嘛歹势",
+        "status": "exact",
+        "text": "想了歸暝 恰想嘛歹勢",
+        "spelling": "siūnn liáu kui-mê khah siūnn mah pháinn-sè",
+        "manual_id": "line-3:1+line-3:2",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 19.29,
+        "online_text": "看到你我就完全未说话",
+        "status": "exact",
+        "text": "看到你我就完全未說話",
+        "spelling": "khuànn tio̍h lí guá tio̍h uân tsuân buē kóng-uē",
+        "manual_id": "line-6:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 23.3,
+        "online_text": "只好头犁犁",
+        "status": "exact",
+        "text": "只好頭犁犁",
+        "spelling": "tsí hó thâu lê lê",
+        "manual_id": "line-6:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 27.41,
+        "online_text": "(男)要安怎对你说出心内话",
+        "status": "approximate",
+        "text": "要安怎對你說出心內話",
+        "spelling": "beh an-tsuánn tuì lí kóng-tshut sim-lāi uē",
+        "manual_id": "line-9:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 31.39,
+        "online_text": "说我每日恰想嘛你一咧",
+        "status": "approximate",
+        "text": "說我每日恰想嘛你一個",
+        "spelling": "kóng guá mué-ji̍t kah siūnn mah lí tsi̍t ê",
+        "manual_id": "line-9:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 35.62,
+        "online_text": "心情亲像春天的风在吹",
+        "status": "exact",
+        "text": "心情親像春天的風在吹",
+        "spelling": "sim-tsîng tshin-tshiūnn tshun-thinn ê hong teh tshue",
+        "manual_id": "line-12:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 39.6,
+        "online_text": "只好写著一张爱情的限时批",
+        "status": "exact",
+        "text": "只好寫著一張愛情的限時批",
+        "spelling": "tsí-hó siá tio̍h tsi̍t tiunn ài-tsîng ê hān sî phue",
+        "manual_id": "line-15:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 44.21,
+        "online_text": "(女)啊～(男)啊～(合)啊～",
+        "status": "approximate",
+        "text": "啊～啊～啊～",
+        "spelling": "ah ~ ah ~ ah ~",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 49.57,
+        "online_text": "(合)信纸才会完全来表达我的意爱",
+        "status": "approximate",
+        "text": "信紙才會完全來表達我的意愛",
+        "spelling": "phue-tsuá tsiah ê uân tsuân lâi piáu-ta̍t guá ê ì ài",
+        "manual_id": "line-21:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 53.65,
+        "online_text": "(女)你的温柔　你的可爱",
+        "status": "approximate",
+        "text": "你的溫柔 你的可愛",
+        "spelling": "lí ê un-jiû lí ê khó-ài",
+        "manual_id": "line-24:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 55.69,
+        "online_text": "(男)你的美丽　你的风采",
+        "status": "approximate",
+        "text": "你的美麗 你的風采",
+        "spelling": "lí ê bí-lē lí ê hong-tshái",
+        "manual_id": "line-24:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 57.96,
+        "online_text": "(合)给我坠落你无边的情海",
+        "status": "approximate",
+        "text": "給我墜落你無邊的情海",
+        "spelling": "hōo guá tuī lo̍h lí bô pinn ê tsîng hái",
+        "manual_id": "line-27:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 80.79,
+        "online_text": "(女)要安怎对你说出心内话",
+        "status": "approximate",
+        "text": "要安怎對你說出心內話",
+        "spelling": "beh an-tsuánn tuì lí kóng-tshut sim-lāi uē",
+        "manual_id": "line-30:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 84.57,
+        "online_text": "说我每日恰想嘛你一咧",
+        "status": "approximate",
+        "text": "說我每日恰想嘛你一個",
+        "spelling": "kóng guá mué-ji̍t kah siūnn mah lí tsi̍t ê",
+        "manual_id": "line-30:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 88.72,
+        "online_text": "[男]心情亲像春天的风在吹",
+        "status": "approximate",
+        "text": "心情親像春天的風在吹",
+        "spelling": "sim-tsîng tshin-tshiūnn tshun-thinn ê hong teh tshue",
+        "manual_id": "line-33:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 92.62,
+        "online_text": "只好写著一张爱情的限时批",
+        "status": "exact",
+        "text": "只好寫著一張愛情的限時批",
+        "spelling": "tsí-hó siá tio̍h tsi̍t tiunn ài-tsîng ê hān sî phue",
+        "manual_id": "line-36:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 98.98,
+        "online_text": "(合)啊～",
+        "status": "approximate",
+        "text": "啊～啊～啊～",
+        "spelling": "ah ~ ah ~ ah ~",
+        "manual_id": "line-39:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 103.01,
+        "online_text": "(合)信纸才会完全来表达我的意爱",
+        "status": "approximate",
+        "text": "信紙才會完全來表達我的意愛",
+        "spelling": "phue-tsuá tsiah ê uân tsuân lâi piáu-ta̍t guá ê ì ài",
+        "manual_id": "line-42:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 107.08,
+        "online_text": "(女)你的温柔　你的可爱",
+        "status": "approximate",
+        "text": "你的溫柔 你的可愛",
+        "spelling": "lí ê un-jiû lí ê khó-ài",
+        "manual_id": "line-45:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 109.16,
+        "online_text": "(男)你的美丽　你的风采",
+        "status": "approximate",
+        "text": "你的美麗 你的風采",
+        "spelling": "lí ê bí-lē lí ê hong-tshái",
+        "manual_id": "line-45:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 111.5,
+        "online_text": "(合)给我坠落你无边的情海",
+        "status": "approximate",
+        "text": "給我墜落你無邊的情海",
+        "spelling": "hōo guá tuī lo̍h lí bô pinn ê tsîng hái",
+        "manual_id": "line-48:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 116.26,
+        "online_text": "(女)啊～(男)啊～(合)啊～",
+        "status": "approximate",
+        "text": "啊～啊～啊～",
+        "spelling": "ah ~ ah ~ ah ~",
+        "manual_id": "line-51:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 121.39,
+        "online_text": "(合)信纸才会完全来表达我的意爱",
+        "status": "approximate",
+        "text": "信紙才會完全來表達我的意愛",
+        "spelling": "phue-tsuá tsiah ê uân tsuân lâi piáu-ta̍t guá ê ì ài",
+        "manual_id": "line-54:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 27,
+        "time": 125.52,
+        "online_text": "(女)你的温柔　你的可爱",
+        "status": "approximate",
+        "text": "你的溫柔 你的可愛",
+        "spelling": "lí ê un-jiû lí ê khó-ài",
+        "manual_id": "line-57:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 28,
+        "time": 127.55,
+        "online_text": "(男)你的美丽　你的风采",
+        "status": "approximate",
+        "text": "你的美麗 你的風采",
+        "spelling": "lí ê bí-lē lí ê hong-tshái",
+        "manual_id": "line-57:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 29,
+        "time": 129.83,
+        "online_text": "(合)给我坠落你无边的情海",
+        "status": "approximate",
+        "text": "給我墜落你無邊的情海",
+        "spelling": "hōo guá tuī lo̍h lí bô pinn ê tsîng hái",
+        "manual_id": "line-60:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 30,
+        "time": 164.45,
+        "online_text": "(合)啊～",
+        "status": "approximate",
+        "text": "啊～啊～啊～",
+        "spelling": "ah ~ ah ~ ah ~",
+        "manual_id": "line-65:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 31,
+        "time": 168.39,
+        "online_text": "(合)信纸才会完全来表达我的意爱",
+        "status": "approximate",
+        "text": "信紙才會完全來表達我的意愛",
+        "spelling": "phue-tsuá tsiah ê uân tsuân lâi piáu-ta̍t guá ê ì ài",
+        "manual_id": "line-68:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 32,
+        "time": 172.46,
+        "online_text": "(女)你的温柔　你的可爱",
+        "status": "approximate",
+        "text": "你的溫柔 你的可愛",
+        "spelling": "lí ê un-jiû lí ê khó-ài",
+        "manual_id": "line-71:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 33,
+        "time": 174.53,
+        "online_text": "(男)你的美丽　你的风采",
+        "status": "approximate",
+        "text": "你的美麗 你的風采",
+        "spelling": "lí ê bí-lē lí ê hong-tshái",
+        "manual_id": "line-71:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 34,
+        "time": 177.1,
+        "online_text": "(合)给我坠落你无边的情海",
+        "status": "approximate",
+        "text": "給我墜落你無邊的情海",
+        "spelling": "hōo guá tuī lo̍h lí bô pinn ê tsîng hái",
+        "manual_id": "line-74:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 35,
+        "time": 182.05,
+        "online_text": "(女)啊～(男)啊～(合)啊～",
+        "status": "approximate",
+        "text": "啊～啊～啊～",
+        "spelling": "ah ~ ah ~ ah ~",
+        "manual_id": "line-77:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 36,
+        "time": 187.17,
+        "online_text": "(合)信纸才会完全来表达我的意爱",
+        "status": "approximate",
+        "text": "信紙才會完全來表達我的意愛",
+        "spelling": "phue-tsuá tsiah ê uân tsuân lâi piáu-ta̍t guá ê ì ài",
+        "manual_id": "line-80:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 37,
+        "time": 191.27,
+        "online_text": "(女)你的温柔　你的可爱",
+        "status": "approximate",
+        "text": "你的溫柔 你的可愛",
+        "spelling": "lí ê un-jiû lí ê khó-ài",
+        "manual_id": "line-83:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 38,
+        "time": 193.65,
+        "online_text": "(男)你的美丽　你的风采",
+        "status": "approximate",
+        "text": "你的美麗 你的風采",
+        "spelling": "lí ê bí-lē lí ê hong-tshái",
+        "manual_id": "line-83:1",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      },
+      {
+        "source_row": 39,
+        "time": 195.68,
+        "online_text": "(合)给我坠落你无边的情海",
+        "status": "approximate",
+        "text": "給我墜落你無邊的情海",
+        "spelling": "hōo guá tuī lo̍h lí bô pinn ê tsîng hái",
+        "manual_id": "line-86:0",
+        "review": [
+          "Reviewed supplied phrase grouping and wording."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "song_id": 249199,
+      "title": "美丽的交换",
+      "artists": [
+        "江蕙"
+      ],
+      "album": "爱着 啊",
+      "duration": 241.0,
+      "provider": "netease",
+      "verified_artist": true
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,29 @@
+{
+  "selected": {
+    "song_id": 28038076,
+    "title": "唉呦唉呦",
+    "artists": [
+      "江蕙"
+    ],
+    "album": "戏梦演唱会Live",
+    "duration": 188.533,
+    "provider": "netease"
+  },
+  "conflicting_top_candidates": false,
+  "candidates": [
+    {
+      "recording_id": "netease:28038076",
+      "duration": 188.533,
+      "ready": false,
+      "coverage": 0.8952879581151832,
+      "exact_fraction": 0.8775510204081632,
+      "summary": {
+        "credit": 3,
+        "repeat": 43,
+        "gap": 9,
+        "unresolved": 5,
+        "approximate": 1
+      }
+    }
+  ]
+}
