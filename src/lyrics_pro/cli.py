@@ -9,7 +9,8 @@ from .follow import Follower
 from .lyrics import LyricsProvider
 from .models import LookupCancelled, LookupFailure
 from .music import MusicError, read_playback
-from .pronunciation import Romanizer, choose_language
+from .pronunciation import Romanizer, choose_language, supplied_annotation
+from .curated import curated_lyrics
 from .lyrics_cache import LyricsCache
 from .diagnostics import setup, event
 
@@ -45,17 +46,19 @@ def run(language: str):
     notice = None
     attempts, retry_at, finished = 0, 0, False
 
-    def load(track, selected):
+    def load(track):
         key = disk_cache.key(track)
-        lyrics = disk_cache.get(key)
+        lyrics = curated_lyrics(track, cancelled=cancelled) or disk_cache.get(key)
         if lyrics is None:
             lyrics = provider.lookup(track)
             if lyrics and not cancelled.is_set():
                 disk_cache.put(key, lyrics)
         if not lyrics:
             return None
-        if selected is None:
-            return lyrics
+        selected, _ = choose_language(track.artist, language, lyrics)
+        supplied = supplied_annotation(lyrics, selected)
+        if supplied is not None:
+            return supplied
         annotated = disk_cache.annotated(lyrics, selected)
         if annotated is None:
             annotated = romanizer.annotate(lyrics, selected)
@@ -129,13 +132,16 @@ def run(language: str):
                         emit(f"Marked instrumental by {lyrics.source}.")
                     else:
                         emit(f"Source: {lyrics.source}")
+                        if lyrics.proofread:
+                            emit(f"Proofread: {lyrics.proofread.attribution}")
+                            selected, reason = choose_language(playback.artist, language, lyrics)
+                            emit(f"Pronunciation: {selected or 'original lyrics only'} ({reason}).")
                         if not lyrics.synced:
                             emit("Unsynchronized lyrics — printing the whole song once.")
                         follower = Follower(lyrics)
                 elif pending is None and time.monotonic() >= retry_at:
-                    selected, _ = choose_language(playback.artist, language)
                     attempts += 1
-                    pending = pool.submit(load, playback, selected), generation
+                    pending = pool.submit(load, playback), generation
             if follower and current_key:
                 for line in follower.update(playback.position):
                     show_line(line)
@@ -151,7 +157,7 @@ def main():
     setup()
     event("cli_start")
     parser = argparse.ArgumentParser(description="Follow macOS Music with local Jyutping or Taiwanese Hokkien pronunciation.")
-    parser.add_argument("--language", choices=("auto", "cantonese", "hokkien"), default="auto")
+    parser.add_argument("--language", choices=("auto", "cantonese", "hokkien", "original"), default="auto")
     args = parser.parse_args()
     if sys.platform != "darwin":
         parser.error("This prototype requires macOS and the Music app.")

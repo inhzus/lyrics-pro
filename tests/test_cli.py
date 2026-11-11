@@ -119,3 +119,30 @@ def test_transient_failure_is_retried_then_fallback_source_is_cached(capsys):
     assert "Will retry" in output
     assert output.count("Source: LRCLIB cached-source") == 2
     assert "No matching lyrics" not in output
+
+
+@pytest.mark.parametrize("language,has_spelling", [("auto", True), ("hokkien", True), ("original", False)])
+def test_curated_song_offline_with_unknown_artist(capsys, language, has_spelling):
+    class ImmediateExecutor(Executor):
+        def submit(self, fn, *args):
+            future = super().submit(fn, *args)
+            future.set_result(fn(*args))
+            return future
+
+    ticks = 0
+    def sleep(_):
+        nonlocal ticks
+        ticks += 1
+        if ticks == 3:
+            raise KeyboardInterrupt
+
+    track = Playback("playing", "少年吔，安啦", "Unknown", "Compilation", 413.786, 27)
+    with patch("lyrics_pro.cli.ThreadPoolExecutor", return_value=ImmediateExecutor()), \
+         patch("lyrics_pro.cli.read_playback", return_value=track), \
+         patch("lyrics_pro.cli.time.sleep", side_effect=sleep), \
+         patch("lyrics_pro.cli.LyricsProvider.lookup", side_effect=AssertionError("Unexpected network")):
+        run(language)
+    output = capsys.readouterr().out
+    assert "滿腹的怨氣不知從那說" in output
+    assert ("muá-pak ê hīn-khì" in output) == has_spelling
+    assert "Proofread:" in output

@@ -40,6 +40,7 @@ def prepare(app):
     licenses = app / "Contents/Resources/Licenses"
     licenses.mkdir(parents=True, exist_ok=True)
     shutil.copyfile(Path(__file__).resolve().parent.parent / "LICENSE", licenses / "Lyrics-Pro.txt")
+    shutil.copyfile(Path(__file__).resolve().parent / "Proofread-content.txt", licenses / "Proofread-content.txt")
     shutil.copyfile(Path(sysconfig.get_path("stdlib")) / "LICENSE.txt", licenses / "Python.txt")
     packages = ("ToJyutping", "taibun", "msgpack", "pyinstaller")
     for name in packages:

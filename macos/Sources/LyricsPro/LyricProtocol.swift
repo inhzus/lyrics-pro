@@ -31,11 +31,25 @@ struct LiveLyricLine: Decodable, Sendable {
     let pronunciation: String?
 }
 
+struct ProofreadMetadata: Decodable, Sendable {
+    let asset_id: String
+    let revision: String
+    let language: String
+    let attribution: String
+}
+
 struct LiveLyrics: Decodable, Sendable {
     let lines: [LiveLyricLine]
     let source: String
     let synced: Bool
     let instrumental: Bool
+    var proofread: ProofreadMetadata? = nil
+    var recordingID: String? = nil
+
+    enum CodingKeys: String, CodingKey {
+        case lines, source, synced, instrumental, proofread
+        case recordingID = "recording_id"
+    }
 
     var sourceName: String { String(source.split(separator: " ", maxSplits: 1).first ?? "Lyrics") }
     var sourceURL: URL? {
@@ -57,7 +71,10 @@ struct RecordingCandidate: Decodable, Sendable, Identifiable, Equatable {
     let artists: [String]
     let album: String
     let duration: Double
-    var sourceName: String { id.hasPrefix("lrcapi:") ? "LrcAPI" : "NetEase" }
+    var sourceName: String {
+        if id.hasPrefix("proofread:") { return "Proofread" }
+        return id.hasPrefix("lrcapi:") ? "LrcAPI" : "NetEase"
+    }
     enum CodingKeys: String, CodingKey {
         case songID = "song_id", recordingID = "recording_id"
         case title, artists, album, duration
@@ -77,7 +94,7 @@ struct RecordingCandidate: Decodable, Sendable, Identifiable, Equatable {
         duration.isFinite && duration > 0
     }
     static func validReference(_ id: String) -> Bool {
-        id.count <= 220 && id.range(of: "^(netease:[1-9][0-9]*|lrcapi:[A-Za-z0-9_-]{1,180})$", options: .regularExpression) != nil
+        id.count <= 220 && id.range(of: "^(netease:[1-9][0-9]*|(?:lrcapi|proofread):[A-Za-z0-9_-]{1,180})$", options: .regularExpression) != nil
     }
 }
 
@@ -101,7 +118,8 @@ struct LyricUpdate: Decodable, Sendable {
         if language == .original { return "Original lyrics only" }
         if language == .auto {
             guard let selectedLanguage else { return "Auto · Choose a language to add pronunciation" }
-            return "Auto · \(selectedLanguage.label) · Artist-based guess"
+            let basis = lyrics?.proofread == nil ? "Artist-based guess" : "Proofread transcription"
+            return "Auto · \(selectedLanguage.label) · \(basis)"
         }
         return language.label
     }
@@ -111,6 +129,7 @@ struct LyricUpdate: Decodable, Sendable {
               (selectionRevision ?? 0) >= 0,
               selectedLanguage == nil || selectedLanguage == .cantonese || selectedLanguage == .hokkien else { return false }
         if let lyrics {
+            guard lyrics.recordingID == nil || RecordingCandidate.validReference(lyrics.recordingID!) else { return false }
             guard lyrics.lines.allSatisfy({ $0.time == nil || $0.time!.isFinite }) else { return false }
         }
         switch status {

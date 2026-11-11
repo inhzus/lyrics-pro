@@ -1,0 +1,767 @@
+{
+  "schema_version": 1,
+  "id": "shao-nian-eh-an-la",
+  "revision": "3",
+  "title": "少年吔，安啦！",
+  "artist": "伍佰",
+  "album": "愛你伍佰年:1",
+  "duration": 413.786,
+  "language": "hokkien",
+  "attribution": "User-provided proofread lyrics · 台語拼音：關德樂 · Timing: NetEase 5237870",
+  "transcription_url": "https://taikegui.wordpress.com/2017/04/28/少年吔，安啦/",
+  "alignment": {
+    "recording_id": "netease:5237870",
+    "timing_source": "NetEase https://music.163.com/song?id=5237870",
+    "manual_source": "User-provided proofread transcription; 台語拼音：關德樂",
+    "audio_verified": false,
+    "candidate_threshold": 0.7,
+    "ambiguous_sequence_alignment": false,
+    "summary": {
+      "credit": 3,
+      "approximate": 13,
+      "exact": 15,
+      "repeat": 21,
+      "gap": 6
+    },
+    "review_row_count": 15,
+    "unmatched_manual_ids": [],
+    "unused_repeat_ids": [],
+    "duplicate_timestamp_values": [],
+    "boundary_warnings": [
+      {
+        "source_rows": [
+          45,
+          46
+        ],
+        "phrase": "叫我"
+      }
+    ],
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作曲 : 伍佰",
+        "match_text": "作曲 : 伍佰",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "status": "credit",
+        "review": []
+      },
+      {
+        "source_row": 1,
+        "time": 1.0,
+        "online_text": "编曲 : 伍佰",
+        "match_text": "编曲 : 伍佰",
+        "text": "编曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "status": "credit",
+        "review": []
+      },
+      {
+        "source_row": 2,
+        "time": 2.0,
+        "online_text": "制作人 : 王治平",
+        "match_text": "制作人 : 王治平",
+        "text": "制作人 : 王治平",
+        "spelling": "",
+        "manual_id": null,
+        "status": "credit",
+        "review": []
+      },
+      {
+        "source_row": 3,
+        "time": 26.92,
+        "online_text": "满腹的怨气不知从何掏",
+        "match_text": "满腹的怨气不知从何掏",
+        "text": "滿腹的怨氣不知從那說",
+        "spelling": "muá-pak ê hīn-khì m̄ tsai tùi dùi-thâu",
+        "manual_id": "block-01",
+        "status": "approximate",
+        "review": [
+          "approximate_text_match"
+        ],
+        "similarity": 0.8
+      },
+      {
+        "source_row": 4,
+        "time": 33.74,
+        "online_text": "日子的伤痕给我强欲哭",
+        "match_text": "日子的伤痕给我强欲哭",
+        "text": "日子的傷痕給我強欲哭",
+        "spelling": "ji̍t-tsí ê siong-hûn hōo guá kiông beh khàu",
+        "manual_id": "block-01",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 5,
+        "time": 40.12,
+        "online_text": "敢是我的命像一支草",
+        "match_text": "敢是我的命像一支草",
+        "text": "敢是我的命像一支草",
+        "spelling": "kám sī guá ê miā tshiūnn tsi̍t ki tsháu",
+        "manual_id": "block-02",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 6,
+        "time": 45.06,
+        "online_text": "安怎打拼拢无比人较豪",
+        "match_text": "安怎打拼拢无比人较豪",
+        "text": "安怎打拼攏無比人較豪",
+        "spelling": "an-tsuánn phah-piànn lóng buē pí lâng khah kâu",
+        "manual_id": "block-02",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 7,
+        "time": 51.02,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 8,
+        "time": 57.22,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 9,
+        "time": 62.64,
+        "online_text": "",
+        "match_text": "",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "status": "gap",
+        "review": []
+      },
+      {
+        "source_row": 10,
+        "time": 65.62,
+        "online_text": "听人说过很多大道理",
+        "match_text": "听人说过很多大道理",
+        "text": "聽人說過很多大道理",
+        "spelling": "thiann lâng kóng kuè tsin tsē tuā tō lí",
+        "manual_id": "block-04",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 11,
+        "time": 72.42,
+        "online_text": "我照行代志无较顺适",
+        "match_text": "我照行代志无较顺适",
+        "text": "我照行代誌嘛無較順適",
+        "spelling": "guá tsiáu kiânn tāi-tsì mah bô khah sūn sui",
+        "manual_id": "block-04",
+        "status": "approximate",
+        "review": [
+          "approximate_text_match"
+        ],
+        "similarity": 0.947368
+      },
+      {
+        "source_row": 12,
+        "time": 78.91,
+        "online_text": "每天干单在打来打去",
+        "match_text": "每天干单在打来打去",
+        "text": "每天干單在打來打去",
+        "spelling": "muí thian-kan tan tī hiâ phah  lâi phah khì",
+        "manual_id": "block-05",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 13,
+        "time": 83.28,
+        "online_text": "这种的生活过得敢有意义",
+        "match_text": "这种的生活过得敢有意义",
+        "text": "這種的生活　過的敢有意義",
+        "spelling": "tsit-khuán ê sing-ua̍h kuè kánn ū ì-gī",
+        "manual_id": "block-05",
+        "status": "approximate",
+        "review": [
+          "approximate_text_match"
+        ],
+        "similarity": 0.909091
+      },
+      {
+        "source_row": 14,
+        "time": 89.58,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 15,
+        "time": 96.26,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 16,
+        "time": 101.14,
+        "online_text": "",
+        "match_text": "",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "status": "gap",
+        "review": []
+      },
+      {
+        "source_row": 17,
+        "time": 103.73,
+        "online_text": "我卡早日子比你得较未溜利",
+        "match_text": "我卡早日子比你得较未溜利",
+        "text": "我卡早日子比你得較未溜力",
+        "spelling": "guá khah tsá-ji̍t pí lí tio̍h buē liù li̍k la̍t",
+        "manual_id": "block-07",
+        "status": "approximate",
+        "review": [
+          "approximate_text_match"
+        ],
+        "similarity": 0.916667
+      },
+      {
+        "source_row": 18,
+        "time": 111.14,
+        "online_text": "心内话 没人听 众人骑 没人疼",
+        "match_text": "心内话 没人听 众人骑 没人疼",
+        "text": "心內話　            沒人聽　                    眾人騎　                 沒人疼",
+        "spelling": "sim-lāi-uē         bô-lâng thiann        tsiòng lâng khiâ    bô-lâng thiànn",
+        "manual_id": "block-08",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 19,
+        "time": 117.6,
+        "online_text": "那亲像所有的人拢想要和我拼命",
+        "match_text": "那亲像所有的人拢想要和我拼命",
+        "text": "那親像所有的人攏想要和我拼命",
+        "spelling": "nà tshin-tshiūnn sóo-iú ê lâng lóng siūnn beh kah guá piànn-miā",
+        "manual_id": "block-09",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 20,
+        "time": 124.05,
+        "online_text": "到干单才知影希望还搁在这 等我",
+        "match_text": "到干单才知影希望还搁在这 等我",
+        "text": "到干單才知影希望還擱在這　                                                等我",
+        "spelling": "tio̍h kan tan tsiah tsai-iánn hi-bōng iáu-koh tī tsia        děng wǒ",
+        "manual_id": "block-10",
+        "status": "approximate",
+        "review": [
+          "approximate_text_match"
+        ],
+        "similarity": 0.928571
+      },
+      {
+        "source_row": 21,
+        "time": 135.02,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 22,
+        "time": 138.39,
+        "online_text": "",
+        "match_text": "",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "status": "gap",
+        "review": []
+      },
+      {
+        "source_row": 23,
+        "time": 143.52,
+        "online_text": "安怎江湖已经拢无义气",
+        "match_text": "安怎江湖已经拢无义气",
+        "text": "安怎江湖已經攏無義氣",
+        "spelling": "an-tsuánn kang-hôo í-king lóng bô gī-khì",
+        "manual_id": "block-12",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 24,
+        "time": 148.21,
+        "online_text": "安怎兄弟拢不知从何去",
+        "match_text": "安怎兄弟拢不知从何去",
+        "text": "安怎兄弟攏不知從何去",
+        "spelling": "an-tsuánn hiann-tī lóng m̄ tsai tuì tuì khì",
+        "manual_id": "block-13",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 25,
+        "time": 154.29,
+        "online_text": "安怎每天暗时拢要想得这多代志",
+        "match_text": "安怎每天暗时拢要想得这多代志",
+        "text": "安怎每天晚上攏要想得這多代誌",
+        "spelling": "an-tsuánn muí-kang àm-sî kóng ài siūnn tio̍h tsiah tsē tāi-tsì",
+        "manual_id": "block-14",
+        "status": "approximate",
+        "review": [
+          "approximate_text_match"
+        ],
+        "similarity": 0.857143
+      },
+      {
+        "source_row": 26,
+        "time": 160.73,
+        "online_text": "手头的烟点着一支又一支",
+        "match_text": "手头的烟点着一支又一支",
+        "text": "手頭的煙點著一支擱一支",
+        "spelling": "tshiú-thâu ê hun tiám tio̍h tsi̍t ki koh tsi̍t ki",
+        "manual_id": "block-15",
+        "status": "approximate",
+        "review": [
+          "approximate_text_match"
+        ],
+        "similarity": 0.909091
+      },
+      {
+        "source_row": 27,
+        "time": 167.16,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 28,
+        "time": 173.62,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 29,
+        "time": 178.72,
+        "online_text": "",
+        "match_text": "",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "status": "gap",
+        "review": []
+      },
+      {
+        "source_row": 30,
+        "time": 182.0,
+        "online_text": "这个世界甘真正有公平",
+        "match_text": "这个世界甘真正有公平",
+        "text": "這個世界甘真正有影公平",
+        "spelling": "tsit-ê sè-kài kam tsin-tsiànn ū iánn kong-pênn",
+        "manual_id": "block-17",
+        "status": "approximate",
+        "review": [
+          "approximate_text_match"
+        ],
+        "similarity": 0.857143
+      },
+      {
+        "source_row": 31,
+        "time": 187.03,
+        "online_text": "这多问题 你怎样来解释",
+        "match_text": "这多问题 你怎样来解释",
+        "text": "這麼多問題　         你怎麼來解釋",
+        "spelling": "tsiah tsē būn-tê    lí tsáinn-iūnn lâi kái-sueh",
+        "manual_id": "block-18",
+        "status": "approximate",
+        "review": [
+          "approximate_text_match"
+        ],
+        "similarity": 0.857143
+      },
+      {
+        "source_row": 32,
+        "time": 193.02,
+        "online_text": "甘是我自己读不够册",
+        "match_text": "甘是我自己读不够册",
+        "text": "甘是我自己讀不夠冊",
+        "spelling": "kam sī guá ka-kī tha̍k bô kàu tsheh",
+        "manual_id": "block-19",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 33,
+        "time": 200.05,
+        "online_text": "还是环境害我自己不知在佗位",
+        "match_text": "还是环境害我自己不知在佗位",
+        "text": "還是環境害我自己不知在佗位",
+        "spelling": "iáu sī khuân-kíng hāi guá ka-kī m̄ tsai tī tó-uī",
+        "manual_id": "block-20",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 34,
+        "time": 206.09,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 35,
+        "time": 212.4,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 36,
+        "time": 218.45,
+        "online_text": "",
+        "match_text": "",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "status": "gap",
+        "review": []
+      },
+      {
+        "source_row": 37,
+        "time": 220.86,
+        "online_text": "我卡早日子比你得较未溜利",
+        "match_text": "我卡早日子比你得较未溜利",
+        "text": "我卡早日子比你得較未溜力",
+        "spelling": "guá khah tsá-ji̍t pí lí tio̍h buē liù li̍k la̍t",
+        "manual_id": "block-22",
+        "status": "approximate",
+        "review": [
+          "approximate_text_match"
+        ],
+        "similarity": 0.916667
+      },
+      {
+        "source_row": 38,
+        "time": 227.25,
+        "online_text": "心内话 没人听 众人骑 没人疼",
+        "match_text": "心内话 没人听 众人骑 没人疼",
+        "text": "心內話　            沒人聽　                   眾人騎　                  沒人疼",
+        "spelling": "sim-lāi-uē         bô-lâng thiann        tsiòng lâng khiâ    bô-lâng thiànn",
+        "manual_id": "block-23",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 39,
+        "time": 233.71,
+        "online_text": "那亲像所有的人拢想要和我拼命",
+        "match_text": "那亲像所有的人拢想要和我拼命",
+        "text": "那親像所有的人攏想要和我拼命",
+        "spelling": "nà tshin-tshiūnn sóo-iú ê lâng lóng siūnn beh kah guá piànn-miā",
+        "manual_id": "block-24",
+        "status": "exact",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 40,
+        "time": 240.23,
+        "online_text": "到干单才知影希望还搁在这 等我",
+        "match_text": "到干单才知影希望还搁在这 等我",
+        "text": "到干單才知影希望還擱在這　                                                等我",
+        "spelling": "tio̍h kan tan tsiah tsai-iánn hi-bōng iáu-koh tī tsia        děng wǒ",
+        "manual_id": "block-25",
+        "status": "approximate",
+        "review": [
+          "approximate_text_match"
+        ],
+        "similarity": 0.928571
+      },
+      {
+        "source_row": 41,
+        "time": 251.15,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 42,
+        "time": 255.24,
+        "online_text": "",
+        "match_text": "",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "status": "gap",
+        "review": []
+      },
+      {
+        "source_row": 43,
+        "time": 309.08,
+        "online_text": "（少年吔，安啦！）我卡早嘛想要做好子",
+        "match_text": "我卡早嘛想要做好子",
+        "text": "我卡早嘛想要做好子",
+        "spelling": "guá khah tsá mah siūnn beh tsuè hònn kiánn",
+        "manual_id": "block-26",
+        "status": "exact",
+        "review": [
+          "backing_vocals_omitted"
+        ],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 44,
+        "time": 315.43,
+        "online_text": "（少年吔，安啦！）我卡早嘛受父母痛疼",
+        "match_text": "我卡早嘛受父母痛疼",
+        "text": "我卡早嘛受父母痛疼",
+        "spelling": "guá khah tsá mah siū pē-bú thàng-thiànn",
+        "manual_id": "block-27",
+        "status": "exact",
+        "review": [
+          "backing_vocals_omitted"
+        ],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 45,
+        "time": 322.08,
+        "online_text": "（少年吔，安啦！）生活单单为着顾生命",
+        "match_text": "生活单单为着顾生命",
+        "text": "生活單單為著顧生命　叫我",
+        "spelling": "sing-ua̍h tan tan uî tio̍h kòo sing-miā  kiò guá",
+        "manual_id": "block-28",
+        "status": "approximate",
+        "review": [
+          "backing_vocals_omitted",
+          "approximate_text_match",
+          "phrase_crosses_source_boundary"
+        ],
+        "similarity": 0.9
+      },
+      {
+        "source_row": 46,
+        "time": 328.58,
+        "online_text": "叫我 安怎来骗自己做你安啦",
+        "match_text": "叫我 安怎来骗自己做你安啦",
+        "text": "安怎來騙自己說做你安啦",
+        "spelling": "an-tsuánn lâi phiàn ka-kī kóng tsuè lí an lah",
+        "manual_id": "block-29",
+        "status": "approximate",
+        "review": [
+          "approximate_text_match",
+          "phrase_crosses_source_boundary"
+        ],
+        "similarity": 0.869565
+      },
+      {
+        "source_row": 47,
+        "time": 335.11,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 48,
+        "time": 341.28,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 49,
+        "time": 347.93,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 50,
+        "time": 354.35,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 51,
+        "time": 360.85,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 52,
+        "time": 367.33,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 53,
+        "time": 373.99,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 54,
+        "time": 380.12,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 55,
+        "time": 386.25,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 56,
+        "time": 393.11,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      },
+      {
+        "source_row": 57,
+        "time": 399.5,
+        "online_text": "少年吔，安啦！",
+        "match_text": "少年吔，安啦！",
+        "text": "少年吔,安啦!",
+        "spelling": "siàu-liân leh an lah!",
+        "manual_id": "block-03",
+        "status": "repeat",
+        "review": [],
+        "similarity": 1.0
+      }
+    ],
+    "input_sha256": {
+      "manual": "85b6643c5bbde98a0eed1833edd6d272bdd414ed9b9e3b41ec8a658e08c3488e",
+      "timed": "2c541e2d5f9a72a16a2a1bfbe7f0a6e17ce5783fa369f90ce86c38d8747e4671",
+      "original": "03f53837a161459af8d356f70280dcb52d77d6f8ab5248eddf322094ce6b0b90"
+    }
+  }
+}

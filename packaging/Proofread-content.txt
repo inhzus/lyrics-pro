@@ -1,0 +1,10 @@
+Bundled proofread content: 少年吔，安啦
+
+User-provided lyrics and corresponding romanization.
+Words: 伍佰 / 陳世杰. Music: 伍佰. Romanization: 關德樂.
+Transcription reference: https://taikegui.wordpress.com/2017/04/28/少年吔，安啦/
+Timing: NetEase recording 5237870, https://music.163.com/song?id=5237870
+
+The application's MIT license applies to its code, not to song lyrics or
+transcriptions. Attribution does not grant redistribution rights to that content.
+The alignment retains provider timestamps and is not audio-verified.

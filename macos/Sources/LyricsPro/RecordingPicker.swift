@@ -23,7 +23,7 @@ struct RecordingPicker: View {
         .fixedSize()
         .disabled(connection.state.phase != .live)
         .focused($triggerFocused)
-        .help("Choose the recording used for lyrics")
+        .help("Choose proofread lyrics or an online recording")
         .background {
             UpwardRecordingPopover(isPresented: $showing, update: update) { availableHeight in
                 RecordingOptionsView(connection: connection, accent: accent, availableHeight: availableHeight,
@@ -55,7 +55,7 @@ private struct RecordingOptionsView: View {
         let headerHeight: CGFloat = 126 + (update?.switching == true ? 24 : 0)
             + (loading ? 24 : 0) + (hasMessage ? 50 : 0) + (update?.status == "error" ? 26 : 0)
         return VStack(alignment: .leading, spacing: 8) {
-            Text("Lyric recording").font(.system(size: 13, weight: .semibold))
+            Text("Lyrics source").font(.system(size: 13, weight: .semibold))
             Button { connection.forgetRecording() } label: {
                 HStack {
                     Image(systemName: update?.manual == true ? "circle" : "checkmark.circle.fill")
@@ -75,7 +75,7 @@ private struct RecordingOptionsView: View {
             if update?.switching == true {
                 HStack(spacing: 7) {
                     ProgressView().controlSize(.small)
-                    Text("Loading recording…")
+                    Text("Loading lyrics source…")
                 }.font(.system(size: 12)).foregroundStyle(.secondary)
             }
             if update == nil || update?.status == "loading" || update?.status == "idle" {
@@ -100,7 +100,7 @@ private struct RecordingOptionsView: View {
                                 HStack(spacing: 10) {
                                     Image(systemName: "checkmark").foregroundStyle(accent).frame(width: 16)
                                     VStack(alignment: .leading, spacing: 4) {
-                                        Text("Current recording").fontWeight(.medium)
+                                        Text("Current source").fontWeight(.medium)
                                         Text("\(update?.sourceName ?? "") · \(update?.manual == true ? "Saved choice" : "Automatic")")
                                             .font(.system(size: 12)).foregroundStyle(.secondary)
                                     }
@@ -115,7 +115,7 @@ private struct RecordingOptionsView: View {
                                     .focused($focusedRow, equals: candidate.id)
                                     .id(candidate.id)
                                     .help("\(candidate.title) — \(candidate.artists.joined(separator: " & "))\n\(candidate.album) · \(MusicSnapshot.timeLabel(candidate.duration)) · \(candidate.sourceName)")
-                                    .accessibilityLabel("\(candidate.title), \(candidate.artists.joined(separator: " & ")), \(candidate.album), \(MusicSnapshot.timeLabel(candidate.duration))")
+                                    .accessibilityLabel("\(candidate.title), \(candidate.artists.joined(separator: " & ")), \(candidate.album), \(MusicSnapshot.timeLabel(candidate.duration)), \(candidate.sourceName)")
                                     .accessibilityAddTraits(update?.selectedID == candidate.id ? .isSelected : [])
                             }
                         }

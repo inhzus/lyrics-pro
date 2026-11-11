@@ -39,7 +39,7 @@ struct PronunciationMenu: View {
         .focused($focused)
         .onHover { hovering = $0 }
         .accessibilityLabel("Pronunciation: \(language.label)")
-        .help("Auto guesses from the artist. Choose a language to override it.")
+        .help("Auto uses a proofread song's language when available, otherwise guesses from the artist. Choose a language to override it.")
     }
 }
 

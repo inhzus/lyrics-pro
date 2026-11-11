@@ -3,17 +3,42 @@ import Testing
 @testable import LyricsPro
 
 struct LyricProtocolTests {
+    @Test func proofreadIdentityIsIndependentOfItsTimingSource() throws {
+        var payload: [String: Any] = ["source": "NetEase https://music.163.com/song?id=5237870",
+            "synced": true, "instrumental": false,
+            "lines": [["text": "少年吔,安啦!", "time": 51.02, "pronunciation": "siàu-liân leh an lah!"]]]
+        func decode() throws -> LiveLyrics {
+            try JSONDecoder().decode(LiveLyrics.self, from: JSONSerialization.data(withJSONObject: payload))
+        }
+        #expect(try decode().proofread == nil)
+        #expect(try decode().recordingID == nil)
+        payload["source"] = "Proofread https://music.163.com/song?id=5237870"
+        payload["recording_id"] = "proofread:shao-nian-eh-an-la"
+        payload["proofread"] = ["asset_id": "test", "revision": "1", "language": "hokkien", "attribution": "台語拼音：關德樂"]
+        let lyrics = try decode()
+        #expect(lyrics.proofread?.attribution == "台語拼音：關德樂")
+        #expect(lyrics.sourceName == "Proofread" && lyrics.sourceURL?.host == "music.163.com")
+        #expect(lyrics.recordingID == "proofread:shao-nian-eh-an-la")
+        #expect(lyrics.lines[0].pronunciation == "siàu-liân leh an lah!")
+        let update = LyricUpdate(requestID: 1, language: .auto, selectedLanguage: .hokkien,
+            reason: "proofread transcription", status: .ready, message: "", lyrics: lyrics, selectionRevision: 0)
+        #expect(update.isValid && update.languageDescription.contains("Proofread transcription"))
+        #expect(!update.languageDescription.contains("Artist-based guess"))
+    }
+
     @Test func providerQualifiedIDsAvoidCollisionsAndAllowLrcAPISources() throws {
-        let candidates: [[String: Any]] = ["netease:1", "lrcapi:1"].map { reference in
+        let candidates: [[String: Any]] = ["proofread:1", "netease:1", "lrcapi:1"].map { reference in
             ["recording_id": reference, "title": "忽然", "artists": ["李志"], "album": "你好,郑州", "duration": 126.853]
         }
         let payload: [String: Any] = ["request_id": 2, "status": "ready", "candidates": candidates,
-            "selected_id": "lrcapi:1", "source": "LrcAPI", "manual": true, "switching": false,
+            "selected_id": "proofread:1", "source": "Proofread", "manual": true, "switching": false,
             "message": "", "selection_revision": 1]
         let update = try JSONDecoder().decode(RecordingUpdate.self, from: JSONSerialization.data(withJSONObject: payload))
-        #expect(update.isValid && update.selectedID == "lrcapi:1")
-        #expect(update.candidates.map(\.sourceName) == ["NetEase", "LrcAPI"])
+        #expect(update.isValid && update.selectedID == "proofread:1")
+        #expect(update.candidates.map(\.sourceName) == ["Proofread", "NetEase", "LrcAPI"])
         #expect(!RecordingCandidate.validReference("lrcapi:https://example.com"))
+        #expect(!RecordingCandidate.validReference("proofread:../other"))
+        #expect(!RecordingCandidate.validReference("proofread:"))
         let lyrics = LiveLyrics(lines: [], source: "LrcAPI https://api.lrc.cx/jsonapi?title=test#1", synced: false, instrumental: false)
         #expect(lyrics.sourceURL?.host == "api.lrc.cx")
     }

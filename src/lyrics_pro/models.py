@@ -25,11 +25,21 @@ class LyricLine:
 
 
 @dataclass(frozen=True)
+class Proofread:
+    asset_id: str
+    revision: str
+    language: str
+    attribution: str
+
+
+@dataclass(frozen=True)
 class Lyrics:
     lines: tuple[LyricLine, ...]
     source: str
     synced: bool
     instrumental: bool = False
+    proofread: Proofread | None = None
+    recording_id: str | None = None
 
 
 class LookupFailure(Exception):

@@ -81,12 +81,17 @@ struct LyricSourceLabel: View {
             HStack(spacing: 7) {
                 if let url = lyrics.sourceURL {
                     Link(lyrics.sourceName, destination: url)
-                        .help("Open the lyric source")
+                        .help(lyrics.proofread.map { "\($0.attribution)\nOpen the timing source" } ?? "Open the lyric source")
                 } else {
                     Text(lyrics.sourceName)
                 }
                 Text("·")
                 Text(lyrics.instrumental ? "Instrumental" : (lyrics.synced ? "Timed lyrics" : "Untimed lyrics"))
+                if let proofread = lyrics.proofread, lyrics.sourceName != "Proofread" {
+                    Text("·")
+                    Text("Proofread")
+                        .help(proofread.attribution)
+                }
             }
             .font(.system(size: 11))
             .foregroundStyle(.white.opacity(0.50))

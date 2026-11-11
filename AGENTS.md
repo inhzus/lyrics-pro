@@ -6,6 +6,11 @@ what the app does, installation, everyday use, and short getting-started command
 its old stage boundaries and repository-dependent packaging notes are not current
 requirements. Verify behavior against the source before changing it.
 
+For user-supplied proofread lyrics and spelling, follow
+[the timed alignment workflow](docs/proofread-lyrics-alignment.md) to reproduce
+review candidates without changing the app or its cache. Bundling a reviewed
+candidate is a separate, explicitly requested integration step.
+
 ## Workflow and project map
 
 - Prefer **fish** for terminal commands and shell examples.
@@ -101,8 +106,22 @@ not application rebuilds or new tests.
   Taibun uses southern Taiwanese Tâi-lô, tone numbers, and no sandhi. Preserve
   simplified/traditional handling, Latin text, punctuation, and unknown Han markers.
 - Auto is an artist-based guess (Eason Chan/Cantonese, Wu Bai/Hokkien), not language
-  detection. Explicit language overrides win. Unknown artists show originals.
+  detection. A matching bundled proofread asset supplies its own language for Auto.
+  Explicit language overrides win. Other unknown artists show originals.
   Do not fabricate lyrics, timestamps, or readings. Requests send metadata, not audio.
+- `curated.py` resolves pre-aligned assets under `src/lyrics_pro/data/proofread/`
+  before cache/network access. Match normalized title and duration within two
+  seconds; artist/album are provenance, not gates. Each resource has a separate
+  `proofread:<asset-id>` identity. Automatic prefers it; every explicit online
+  selection (including its timing source) uses online lyrics. Publish local
+  candidates before online discovery finishes, keeping them first and the combined
+  list capped at 30. Use `Lyrics.recording_id` for identity when present; the timing
+  link is attribution only. Collapse whitespace runs to one ordinary space in
+  displayed text/spelling, keeping source transcripts intact. Keep supplied spelling
+  for its language, hide it for Original, and use the requested engine for other
+  language overrides.
+  Bump the asset revision when changing content; preserve timing inputs and review
+  notes under `resources/lyrics-spelling/`. Never run alignment during playback.
 
 ## Persistence and diagnostics
 

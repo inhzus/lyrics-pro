@@ -5,12 +5,14 @@ from concurrent.futures import ThreadPoolExecutor
 from dataclasses import asdict, replace
 import json
 import re
+from queue import Queue, Empty
 from threading import Event
 import time
 
 from .lyrics import LyricsProvider, NetEaseProvider, LrcAPIProvider, request_json, decode_record
 from .models import LookupCancelled, LookupFailure
-from .pronunciation import Romanizer, choose_language
+from .pronunciation import Romanizer, choose_language, supplied_annotation
+from .curated import curated_lyrics, curated_candidates
 from .recording_choices import RecordingChoices
 from .recording_ref import recording_ref, source_ref
 from .lyrics_cache import LyricsCache
@@ -42,8 +44,15 @@ def lookup(track, cancelled):
 
 def lookup_recording(reference, track, cancelled):
     provider, identifier = reference.split(":", 1)
+    if provider == "proofread":
+        result = curated_lyrics(track, reference, cancelled)
+        if result is None:
+            raise LookupFailure("This proofread source is unavailable or does not match this song.")
+        return result
     if provider == "lrcapi":
         return LrcAPIProvider(cancelled=cancelled).lyrics_for(identifier, track)
+    if provider != "netease":
+        raise LookupFailure("Unsupported lyric source.")
     record = request_json("song/lyric", {"id": identifier, "lv": -1, "kv": -1, "tv": -1, "rv": -1}, cancelled)
     return decode_record(record, int(identifier)) if record else None
 
@@ -83,6 +92,7 @@ class LyricSession:
         self.discover = discover
         self.discovery_pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix="recordings")
         self.discovery_pending = None
+        self.local_discovery = Queue()
         self.discovery_requested = False
         self.discovery_status = "idle"
         self.discovery_error = ""
@@ -173,7 +183,32 @@ class LyricSession:
             self.attempts, self.retry_at, self.failure = 0, 0, None
             self.failure_kind = None
 
+    @staticmethod
+    def _merge_candidates(local, online):
+        unique = {}
+        for candidate in (*local, *online):
+            unique.setdefault(candidate.reference, candidate)
+        return tuple(unique.values())[:30]
+
+    def _discover_sources(self, track, context, token):
+        local = curated_candidates(track, token)
+        token.check()
+        if local:
+            self.local_discovery.put((context, token, local))
+        online = self.discover(track, token)
+        token.check()
+        return self._merge_candidates(local, online)
+
     def _tick_discovery(self):
+        # Publish bundled choices while the same worker continues online lookup.
+        # Generation and cancellation checks also cover partial discovery results.
+        while True:
+            try:
+                context, token, local = self.local_discovery.get_nowait()
+            except Empty:
+                break
+            if context == self.context and not token.is_set():
+                self.candidates = self._merge_candidates(local, self.candidates)
         if self.discovery_pending and self.discovery_pending[0].done():
             future, context, token = self.discovery_pending
             self.discovery_pending = None
@@ -191,7 +226,8 @@ class LyricSession:
             if self.discovery_status != "ready":
                 token = Cancellation(self.cancelled)
                 self.discovery_status, self.discovery_error = "loading", ""
-                self.discovery_pending = (self.discovery_pool.submit(self.discover, self.track, token), self.context, token)
+                self.discovery_pending = (self.discovery_pool.submit(self._discover_sources, self.track, self.context, token),
+                                          self.context, token)
 
     def _emit_recordings(self, emit):
         if emit is None or not self.context:
@@ -200,7 +236,7 @@ class LyricSession:
         source = raw.source if raw else ""
         payload = dict(request_id=self.request_id, status=self.discovery_status,
                        candidates=[asdict(c) | {"recording_id": c.reference} for c in self.candidates],
-                       selected_id=source_ref(source), source=source,
+                       selected_id=(raw.recording_id if raw else None) or source_ref(source), source=source,
                        manual=self.choices.get(self.track) is not None,
                        switching=self.selection_intent is not None,
                        message=self.selection_error or self.discovery_error,
@@ -210,6 +246,15 @@ class LyricSession:
             self.last_recordings = payload
 
     def _load(self, track, reference, token, refresh=False, backup=None):
+        token.check()
+        curated = curated_lyrics(track, reference, token)
+        if curated is not None:
+            return curated
+        if reference is not None and reference.startswith("proofread:"):
+            if refresh and backup and backup.recording_id == reference:
+                event("refresh_failed_using_cache", title=track.title)
+                return backup
+            raise LookupFailure("This proofread source is unavailable or does not match this song.")
         key = LyricsCache.key(track, reference)
         cached = self.disk_cache.get(key) if self.disk_cache else None
         token.check()
@@ -239,7 +284,8 @@ class LyricSession:
             raise LookupFailure("No lyrics are available for that recording. Choose another or retry.")
         if len(raw.lines) > 10000 or sum(len(x.text) for x in raw.lines) > 500000:
             raise LookupFailure("Lyrics are too large to display.")
-        annotated = self._annotate(raw, language, token, refresh=song_id is None)
+        selected, _ = choose_language(track.artist, language, raw)
+        annotated = self._annotate(raw, selected, token, refresh=song_id is None)
         if len(json.dumps(asdict(annotated), ensure_ascii=False).encode()) > 6 * 1024 * 1024:
             raise LookupFailure("Annotated lyrics are too large to display.")
         return raw, annotated
@@ -253,8 +299,10 @@ class LyricSession:
 
     def _annotate(self, raw, selected, token, refresh=False):
         token.check()
-        if selected is None or raw.instrumental:
-            return raw
+        supplied = supplied_annotation(raw, selected)
+        if supplied is not None:
+            token.check()
+            return supplied
         if self.disk_cache and not refresh:
             cached = self.disk_cache.annotated(raw, selected)
             token.check()
@@ -283,6 +331,7 @@ class LyricSession:
                     if kind == "switch":
                         raw, annotated = result
                         intent, language = selected
+                        language, _ = choose_language(self.track.artist, language, raw)
                         self.choices.set(self.track, intent[1])
                         for cache_key in list(self.annotation_cache):
                             if cache_key[0] == context[0]:
@@ -333,16 +382,13 @@ class LyricSession:
         if self.context is None:
             return
         key = self.context[0]
-        if self.language == "original":
-            selected, reason = None, "original lyrics only"
-        else:
-            selected, reason = choose_language(self.track.artist, self.language)
+        selected, reason = choose_language(self.track.artist, self.language, self.raw_cache.get(key))
 
         if self.selection_intent is not None:
             if self.pending is None:
                 token = Cancellation(self.cancelled)
-                self.pending = (self.pool.submit(self._switch, self.track, self.selection_intent[1], selected, token),
-                                "switch", self.context, token, (self.selection_intent, selected))
+                self.pending = (self.pool.submit(self._switch, self.track, self.selection_intent[1], self.language, token),
+                                "switch", self.context, token, (self.selection_intent, self.language))
             self._emit_recordings(emit_recordings)
             return
         self._emit_recordings(emit_recordings)

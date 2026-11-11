@@ -31,11 +31,28 @@ def artist_key(artist: str) -> str:
     return ALIASES.get(normalized, normalized)
 
 
-def choose_language(artist: str, requested: str) -> tuple[str | None, str]:
+def choose_language(artist: str, requested: str, lyrics: Lyrics | None = None) -> tuple[str | None, str]:
+    if requested == "original":
+        return None, "original lyrics only"
     if requested != "auto":
         return requested, "explicit override"
+    if lyrics and lyrics.proofread:
+        return lyrics.proofread.language, "proofread transcription"
     language = {"eason": "cantonese", "wubai": "hokkien"}.get(artist_key(artist))
     return language, "artist-based guess" if language else "unknown language"
+
+
+def supplied_annotation(lyrics: Lyrics, language: str | None) -> Lyrics | None:
+    """Return an authoritative presentation, or None when an engine is needed."""
+    if language is None:
+        if not any(line.pronunciation is not None for line in lyrics.lines):
+            return lyrics
+        return replace(lyrics, lines=tuple(replace(line, pronunciation=None) for line in lyrics.lines))
+    if lyrics.proofread and language == lyrics.proofread.language:
+        return lyrics
+    if lyrics.instrumental:
+        return lyrics
+    return None
 
 
 class Romanizer:
@@ -78,8 +95,9 @@ class Romanizer:
         raise ValueError(f"Unsupported language: {language}")
 
     def annotate(self, lyrics: Lyrics, language: str | None) -> Lyrics:
-        if language is None:
-            return lyrics
+        supplied = supplied_annotation(lyrics, language)
+        if supplied is not None:
+            return supplied
         return replace(lyrics, lines=tuple(
             replace(line, pronunciation=self.line(line.text, language))
             for line in lyrics.lines

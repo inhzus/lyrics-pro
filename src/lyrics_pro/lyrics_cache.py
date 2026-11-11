@@ -8,7 +8,8 @@ import sqlite3
 import time
 
 from .diagnostics import SUPPORT, event
-from .models import Lyrics, LyricLine
+from .models import Lyrics, LyricLine, Proofread
+from .recording_ref import recording_ref
 
 
 def encode(lyrics):
@@ -32,7 +33,18 @@ def decode(payload):
         lines.append(LyricLine(text, stamp, pronunciation))
     if sum(len(x.text) for x in lines) > 500000 or not lines and not obj["instrumental"]:
         raise ValueError("Invalid cache size")
-    return Lyrics(tuple(lines), obj["source"], obj["synced"], obj["instrumental"])
+    proofread = obj.get("proofread")
+    if proofread is not None:
+        if (not isinstance(proofread, dict)
+                or any(not isinstance(proofread.get(k), str) or not proofread[k]
+                       for k in ("asset_id", "revision", "language", "attribution"))
+                or proofread["language"] not in ("hokkien", "cantonese")):
+            raise ValueError("Invalid proofread metadata")
+        proofread = Proofread(**{k: proofread[k] for k in ("asset_id", "revision", "language", "attribution")})
+    reference = obj.get("recording_id")
+    if reference is not None and (not isinstance(reference, str) or recording_ref(reference) is None):
+        raise ValueError("Invalid cached recording reference")
+    return Lyrics(tuple(lines), obj["source"], obj["synced"], obj["instrumental"], proofread, reference)
 
 
 def fingerprint(lyrics):
