@@ -92,7 +92,7 @@ struct PlayerView: View {
                 }
                 .buttonStyle(.plain)
                 .accessibilityLabel("Retry lyrics")
-                .help("Look up lyrics again")
+                .help("Look up lyrics again and retry missing artwork")
             } else {
                 Text(demo != nil ? "Demo · \(song.rawValue)" : status)
                     .font(.system(size: 12, weight: .medium))

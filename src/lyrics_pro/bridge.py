@@ -38,6 +38,7 @@ class Bridge:
         self.cache = OrderedDict()
         self.pending = None
         self.artwork_finished = False
+        self.artwork_revision = 0
         self.denied = False
         self.last_diagnostic_error = None
         self.pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix="artwork")
@@ -46,6 +47,14 @@ class Bridge:
     def send(self, kind, **payload):
         self.emit({"version": 1, "type": kind, "generation": self.generation,
                    "track": self.key, **payload})
+
+    def reset_artwork(self, *, invalidate=False):
+        self.artwork_revision += 1
+        if self.pending:
+            self.pending[4].set()
+        if invalidate:
+            self.cache.pop(self.key, None)
+        self.artwork_finished = False
 
     def tick(self):
         control_results = []
@@ -86,6 +95,12 @@ class Bridge:
                                                     "code": error.code, "message": str(error)})
                             self.completed_control_id = max(self.completed_control_id, command_id)
                         continue
+                    if command["command"] == "retry_lyrics" and command.get("generation") != self.generation:
+                        continue
+                    if (command["command"] == "retry_lyrics"
+                            and command["request_id"] > self.lyrics.request_id
+                            and (command.get("retry_artwork") or not self.cache.get(self.key, (None, 0))[0])):
+                        self.reset_artwork(invalidate=True)
                     self.lyrics.configure(command["language"], command["request_id"],
                                           retry=command["command"] == "retry_lyrics",
                                           generation=command.get("generation"),
@@ -99,8 +114,7 @@ class Bridge:
                     return
                 if command == "retry":
                     self.denied = False
-                    self.cache.pop(self.key, None)
-                    self.artwork_finished = False
+                    self.reset_artwork(invalidate=True)
         except Empty:
             pass
         if self.denied:
@@ -121,7 +135,7 @@ class Bridge:
             if self.key is not None:
                 self.generation += 1
                 self.key = None
-            self.artwork_finished = False
+            self.reset_artwork()
             self.lyrics.update_track(None, self.generation)
             self.denied = error.code == "permission_denied"
             self.send("status", code=error.code, message=str(error))
@@ -132,7 +146,7 @@ class Bridge:
         if track.key != self.key:
             self.key = track.key
             self.generation += 1
-            self.artwork_finished = False
+            self.reset_artwork()
             event("track_changed", title=track.title, artist=track.artist, album=track.album,
                   duration=track.duration)
         self.send("playback", playback=asdict(track), completed_control_id=sampled_control_id)
@@ -143,31 +157,39 @@ class Bridge:
                          lambda payload: self.send("recordings", recordings=payload))
 
         if self.pending and self.pending[0].done():
-            future, generation, key = self.pending
+            future, generation, key, revision, token = self.pending
             self.pending = None
             try:
                 artwork = future.result()
             except MusicCancelled:
-                raise
-            except Exception:
+                if self.cancelled.is_set():
+                    raise
                 artwork = None
-            if generation == self.generation and key == self.key:
+            except Exception as exc:
+                event("artwork_failure", category=type(exc).__name__)
+                artwork = None
+            if generation == self.generation and key == self.key and revision == self.artwork_revision and not token.is_set():
                 # Bounded, session-only cache; never display a stale cover.
-                self.cache[key] = artwork
+                self.cache[key] = (artwork, float("inf") if artwork else time.monotonic() + 60)
                 while len(self.cache) > 8:
                     self.cache.popitem(last=False)
         if self.key and not self.artwork_finished:
+            if self.key in self.cache and self.cache[self.key][1] <= time.monotonic():
+                self.cache.pop(self.key)
             if self.key in self.cache:
-                artwork = self.cache[self.key]
+                artwork = self.cache[self.key][0]
                 self.cache.move_to_end(self.key)
                 self.send("artwork", image=artwork)
                 self.artwork_finished = True
             elif self.pending is None:
-                self.pending = (self.pool.submit(self.artwork_reader, track, self.cancelled),
-                                self.generation, self.key)
+                token = Event()
+                self.pending = (self.pool.submit(self.artwork_reader, track, token),
+                                self.generation, self.key, self.artwork_revision, token)
 
     def close(self):
         self.cancelled.set()
+        if self.pending:
+            self.pending[4].set()
         self.control_pool.shutdown(wait=True, cancel_futures=True)
         self.lyrics.close()
         self.pool.shutdown(wait=True, cancel_futures=True)
@@ -191,6 +213,7 @@ def read_commands(stream, commands, cancelled):
                 elif message.get("command") in {"language", "retry_lyrics", "choose_recording", "forget_recording", "list_recordings"}:
                     if (message.get("language") in LANGUAGES
                             and type(message.get("request_id")) is int and message["request_id"] >= 0
+                            and ("retry_artwork" not in message or type(message["retry_artwork"]) is bool)
                             and (message["command"] == "language" or type(message.get("generation")) is int)
                             and (message["command"] != "choose_recording" or
                                  (recording_ref(message.get("recording_id", message.get("song_id"))) is not None

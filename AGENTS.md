@@ -80,6 +80,16 @@ not application rebuilds or new tests.
   Preserve process-group cleanup and bounded cancellation/reconnect behavior.
 - Artwork is fetched on track changes, capped at 4 MiB and eight cached tracks.
   Extraction files are temporary; invalid/missing artwork uses the placeholder.
+  Prefer local Music artwork, then Apple iTunes catalog search (Taiwan, then US;
+  these are lookup defaults, not the user's account region). Require normalized
+  title/version, artist, album and duration within two seconds; reject ambiguous
+  covers. Download only HTTPS Apple CDN images, with bounded cancellable curl.
+  Prefer 1000x1000 renditions for recognized Apple thumbnail URL formats; fall
+  back to the original catalog URL if unavailable. Preserve the 4 MiB limit.
+  Cache images in memory only; missing results expire after 60 seconds on revisit.
+  Retry transient failures at 2/8 seconds, never definitive misses or permission
+  denial. Header Retry also retries missing/invalid artwork. Cancel superseded
+  attempts and reject stale generations/revisions. Decode images off the UI thread.
 
 ## Lyrics, matching, and pronunciation
 

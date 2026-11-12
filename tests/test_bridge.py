@@ -12,7 +12,7 @@ from unittest.mock import patch
 
 import pytest
 
-from lyrics_pro.artwork import ARTWORK_SCRIPT, MAX_ARTWORK_BYTES, read_artwork
+from lyrics_pro.artwork import ARTWORK_SCRIPT, MAX_ARTWORK_BYTES, read_local_artwork
 from lyrics_pro.bridge import Bridge, read_commands
 from lyrics_pro.lyric_session import LyricSession
 from lyrics_pro.models import Playback
@@ -206,8 +206,8 @@ def test_artwork_metadata_is_passed_as_arguments_and_temp_file_is_removed():
         target.write_bytes(b"image bytes")
         return subprocess.CompletedProcess(args, 0, "ok\n", "")
 
-    with patch("lyrics_pro.artwork.run_script", side_effect=script):
-        assert read_artwork(track, Event()) == "aW1hZ2UgYnl0ZXM="
+    with patch("lyrics_pro.artwork.run_script", side_effect=script), patch("lyrics_pro.artwork.valid_image", return_value=True):
+        assert read_local_artwork(track, Event()) == "aW1hZ2UgYnl0ZXM="
     assert not paths[0].exists()
 
 
@@ -217,7 +217,70 @@ def test_oversized_artwork_uses_placeholder():
             output.truncate(MAX_ARTWORK_BYTES + 1)
         return subprocess.CompletedProcess(args, 0, "ok", "")
     with patch("lyrics_pro.artwork.run_script", side_effect=script):
-        assert read_artwork(A, Event()) is None
+        assert read_local_artwork(A, Event()) is None
+
+
+def test_artwork_retry_cancels_and_discards_same_track_old_attempt(bridge):
+    worker, events, _ = bridge
+    future = Future()
+    with patch.object(worker.pool, "submit", return_value=future):
+        worker.tick()
+    token = worker.pending[4]
+    worker.commands.put(dict(command="retry_lyrics", generation=worker.generation, language="auto", request_id=1))
+    worker.tick()
+    assert token.is_set()
+    future.set_result("stale")
+    worker.tick()
+    assert not any(e["type"] == "artwork" for e in events)
+    worker.pending[0].result(timeout=1)
+    worker.tick()
+    assert events[-1]["image"] == "aW1hZ2U="
+
+
+def test_missing_expiry_only_rechecks_on_revisit_and_success_cache_is_bounded(bridge):
+    worker, _, current = bridge
+    worker.artwork_reader = lambda *_: None
+    with patch("lyrics_pro.bridge.time.monotonic", return_value=100):
+        worker.tick()
+        worker.pending[0].result(timeout=1)
+        worker.tick()
+    with patch("lyrics_pro.bridge.time.monotonic", return_value=200):
+        worker.tick()
+        assert worker.pending is None
+        current[0] = B
+        worker.tick()
+        worker.pending[0].result(timeout=1)
+        worker.tick()
+        current[0] = A
+        worker.tick()
+        assert worker.pending is not None
+        worker.pending[0].result(timeout=1)
+        worker.tick()
+    worker.artwork_reader = lambda *_: "cover"
+    for n in range(10):
+        current[0] = Playback("paused", str(n), "Artist", "Album", 200)
+        worker.tick()
+        worker.pending[0].result(timeout=1)
+        worker.tick()
+    assert len(worker.cache) == 8 and A.key not in worker.cache
+
+
+def test_retry_preserves_success_unless_native_reports_invalid_image(bridge):
+    worker, _, _ = bridge
+    worker.tick()
+    worker.pending[0].result(timeout=1)
+    worker.tick()
+    worker.commands.put(dict(command="retry_lyrics", generation=worker.generation, language="auto", request_id=1))
+    worker.tick()
+    assert worker.pending is None and worker.cache[A.key][0] == "aW1hZ2U="
+    worker.commands.put(dict(command="retry_lyrics", generation=worker.generation - 1,
+                             language="auto", request_id=2, retry_artwork=True))
+    worker.tick()
+    assert worker.pending is None
+    worker.commands.put(dict(command="retry_lyrics", generation=worker.generation,
+                             language="auto", request_id=2, retry_artwork=True))
+    worker.tick()
+    assert worker.pending is not None
 
 
 @pytest.mark.parametrize("patch_data", [{"duration": float("nan")}, {"title": 123}, {"state": "invalid"}])

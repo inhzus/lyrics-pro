@@ -5,6 +5,16 @@ import Testing
 @testable import LyricsPro
 
 struct ArtworkPaletteTests {
+    @Test func artworkDecoderRejectsInvalidDataAndAcceptsImage() throws {
+        #expect(DecodedArtwork(base64: nil).image == nil)
+        #expect(DecodedArtwork(base64: "not base64").image == nil)
+        #expect(DecodedArtwork(base64: Data("not an image".utf8).base64EncodedString()).image == nil)
+        #expect(DecodedArtwork(base64: Data(repeating: 0, count: 4 * 1024 * 1024 + 1).base64EncodedString()).image == nil)
+        let data = try png([255, 0, 0, 255, 0, 255, 0, 255, 0, 0, 255, 255, 255, 255, 255, 255])
+        let image = try #require(DecodedArtwork(base64: data.base64EncodedString()).image)
+        #expect(image.width == 2 && image.height == 2)
+    }
+
     private func png(_ pixels: [UInt8], side: Int = 2) throws -> Data {
         let provider = try #require(CGDataProvider(data: Data(pixels) as CFData))
         let image = try #require(CGImage(width: side, height: side, bitsPerComponent: 8, bitsPerPixel: 32,

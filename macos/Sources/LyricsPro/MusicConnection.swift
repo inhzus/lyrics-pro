@@ -95,7 +95,9 @@ final class MusicConnection: ObservableObject {
                 defer { try? handle.close() }
                 do {
                     try EventStream.read(from: handle) { event in
-                        DispatchQueue.main.async { [weak self] in self?.receive(event, session: run) }
+                        // Decode/downsample on the event queue; the UI only wraps the immutable bitmap.
+                        let artwork = event.type == "artwork" ? DecodedArtwork(base64: event.image) : nil
+                        DispatchQueue.main.async { [weak self] in self?.receive(event, session: run, artwork: artwork) }
                     }
                 } catch {
                     AppLog.shared.write("bridge_read_error", String(describing: error))
@@ -130,7 +132,7 @@ final class MusicConnection: ObservableObject {
         }
     }
 
-    private func receive(_ event: BridgeEvent, session run: UUID) {
+    private func receive(_ event: BridgeEvent, session run: UUID, artwork: DecodedArtwork?) {
         guard session == run else { return }
         if event.type == "ready" { receivedReady = true }
         let previousArtwork = state.artwork
@@ -140,7 +142,12 @@ final class MusicConnection: ObservableObject {
         dispatchNextControl()
         refreshPresentation()
         if state.artwork != previousArtwork {
-            artworkImage = state.artwork.flatMap { NSImage(data: $0) }
+            artworkImage = state.artwork == nil ? nil : artwork?.image.map { NSImage(cgImage: $0, size: .zero) }
+            if artworkImage == nil, state.artwork != nil {
+                AppLog.shared.write("artwork_decode_failed")
+                artworkImage = nil
+                state.artwork = nil
+            }
         }
     }
 
@@ -161,7 +168,9 @@ final class MusicConnection: ObservableObject {
         sendLyricCommand("language")
     }
 
-    func retryLyrics() { sendLyricCommand("retry_lyrics", preserve: true) }
+    func retryLyrics() {
+        sendLyricCommand("retry_lyrics", extra: ["retry_artwork": artworkImage == nil], preserve: true)
+    }
 
     func chooseRecording(_ candidate: RecordingCandidate, generation: Int, requestID: Int) {
         guard demo == nil, state.phase == .live, state.generation == generation,

@@ -11,6 +11,7 @@ Apple Silicon (M1 or newer) · macOS 15+
 ## Features
 
 - Lyrics that highlight and scroll with the music, alongside album artwork.
+- Album covers from Music, with an Apple catalog fallback when Music exposes no artwork.
 - Local pronunciation with no AI service, account, or API key.
 - Play/pause, previous/next, timeline seeking, and click-to-seek lyric lines.
 - Alternative recording selection and offline access to previously cached lyrics.
