@@ -14,7 +14,7 @@ Apple Silicon (M1 or newer) · macOS 15+
 - Local pronunciation with no AI service, account, or API key.
 - Play/pause, previous/next, timeline seeking, and click-to-seek lyric lines.
 - Alternative recording selection and offline access to previously cached lyrics.
-- 64 bundled proofread resources with supplied spelling for matching recordings.
+- 66 bundled proofread resources with supplied spelling for matching recordings.
 
 ## Install
 

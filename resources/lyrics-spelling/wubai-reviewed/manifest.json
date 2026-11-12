@@ -811,5 +811,43 @@
       },
       "source_spelling_notes": []
     }
+  ],
+  "additional_recordings": [
+    {
+      "id": "supplied-aa877b02e4f643c35279-netease-156928",
+      "title": "世界第一等",
+      "source_path": "resources/lyrics-spelling/世界第一等-伍佰",
+      "source_sha256": "99285f4179968db5978a560dd2c1ba9af78ca08ada7374e7eace18d02608bad4",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:156928",
+        "title": "世界第一等（Live）",
+        "artists": [
+          "伍佰"
+        ],
+        "artist": "伍佰 & China Blue",
+        "album": "滚石香港黄金十年 伍佰精选",
+        "duration": 248.626
+      },
+      "source_spelling_notes": []
+    },
+    {
+      "id": "supplied-aa877b02e4f643c35279-netease-27867397",
+      "title": "世界第一等",
+      "source_path": "resources/lyrics-spelling/世界第一等-伍佰",
+      "source_sha256": "99285f4179968db5978a560dd2c1ba9af78ca08ada7374e7eace18d02608bad4",
+      "status": "ready",
+      "recording": {
+        "reference": "netease:27867397",
+        "title": "世界第一等(Live)",
+        "artists": [
+          "伍佰 & China Blue"
+        ],
+        "artist": "伍佰 & China Blue",
+        "album": "生命的现场",
+        "duration": 121.84
+      },
+      "source_spelling_notes": []
+    }
   ]
 }

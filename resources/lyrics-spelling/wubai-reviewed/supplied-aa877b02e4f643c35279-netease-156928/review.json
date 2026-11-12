@@ -1,0 +1,389 @@
+{
+  "schema_version": 1,
+  "id": "supplied-aa877b02e4f643c35279-netease-156928",
+  "revision": "1",
+  "title": "世界第一等",
+  "title_aliases": [
+    "世界第一等 (Live)"
+  ],
+  "source_path": "resources/lyrics-spelling/世界第一等-伍佰",
+  "approved": true,
+  "audio_verified": false,
+  "recording": {
+    "reference": "netease:156928",
+    "title": "世界第一等（Live）",
+    "artists": [
+      "伍佰"
+    ],
+    "artist": "伍佰 & China Blue",
+    "album": "滚石香港黄金十年 伍佰精选",
+    "duration": 248.626
+  },
+  "attribution": "User-provided transcription. 作詞：李安修/陳富榮   作曲：伍佰  台語拼音：關德樂",
+  "reason": "Separate 248.626-second 滚石香港黄金十年 recording: preserve the spoken intro, band callout and both sung sections. Reuse the supplied words/readings at explicit phrase boundaries. No timestamps are shifted or borrowed from the 238.468-second performance. The supplied scat outro has no event in this provider timeline and is not inserted; absence from the timeline is not an audio-verification claim.",
+  "source_spelling_notes": [],
+  "assignments": [
+    {
+      "source_row": 0,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 1,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 2,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 3,
+      "kind": "credit",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 4,
+      "kind": "gap",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 5,
+      "kind": "spoken",
+      "manual_ids": [],
+      "reason": "Spoken introduction or band-member callout, not part of the supplied sung transcription. Preserve the provider wording and onset without inventing pronunciation."
+    },
+    {
+      "source_row": 6,
+      "kind": "spoken",
+      "manual_ids": [],
+      "reason": "Spoken introduction or band-member callout, not part of the supplied sung transcription. Preserve the provider wording and onset without inventing pronunciation."
+    },
+    {
+      "source_row": 7,
+      "kind": "spoken",
+      "manual_ids": [],
+      "reason": "Spoken introduction or band-member callout, not part of the supplied sung transcription. Preserve the provider wording and onset without inventing pronunciation."
+    },
+    {
+      "source_row": 8,
+      "kind": "gap",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 9,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 10,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-3:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 11,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-6:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 12,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-6:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 13,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-9:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 14,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-9:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 15,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-12:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 16,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-12:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 17,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 18,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-15:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 19,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-18:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 20,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-18:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 21,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-21:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 22,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-21:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 23,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-24:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 24,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-24:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 25,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-27:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 26,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-27:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 27,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-30:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 28,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-30:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 29,
+      "kind": "spoken",
+      "manual_ids": [],
+      "reason": "Spoken introduction or band-member callout, not part of the supplied sung transcription. Preserve the provider wording and onset without inventing pronunciation."
+    },
+    {
+      "source_row": 30,
+      "kind": "gap",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 31,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-33:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 32,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-33:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 33,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-36:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 34,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-36:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 35,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-39:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 36,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-39:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 37,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-42:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 38,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-42:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 39,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-45:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 40,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-45:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 41,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-48:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 42,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-48:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 43,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-48:0"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 44,
+      "kind": "lyric",
+      "manual_ids": [
+        "line-48:1"
+      ],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    },
+    {
+      "source_row": 45,
+      "kind": "gap",
+      "manual_ids": [],
+      "reason": "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+    }
+  ],
+  "input_sha256": {
+    "original": "99285f4179968db5978a560dd2c1ba9af78ca08ada7374e7eace18d02608bad4",
+    "manual": "07bf88ec50bddaf96381b391842bd385be8d599024194e3d39e04c301619c9a5",
+    "timed": "ec1b2686966bee7daea54a815542584a6e7add45c61b6c335c534e0bebd56122",
+    "provider_lrc": "7b2a61ce5fd730e703c4b8c96fd96a03e42d8f513a500ef7c419b03692a66f27",
+    "recording": "0a8b12048c7816166291a21a05ac8809bfe1215426ca3d9744eed636793cb7fc"
+  },
+  "omitted_manual": [
+    {
+      "manual_ids": [
+        "line-51:0",
+        "line-51:1",
+        "line-54:0",
+        "line-57:0"
+      ],
+      "reason": "The supplied scat outro has no event in this recording's provider timeline. Preserve it in manual.json, but do not import the live-version outro timestamp or invent an onset."
+    }
+  ]
+}

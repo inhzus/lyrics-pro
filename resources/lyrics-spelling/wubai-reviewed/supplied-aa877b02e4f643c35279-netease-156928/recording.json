@@ -1,0 +1,45 @@
+{
+  "album": {
+    "publishTime": 1037808000000,
+    "size": 15,
+    "artist": {
+      "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+      "musicSize": 0,
+      "albumSize": 0,
+      "img1v1": 0,
+      "name": "",
+      "alias": [],
+      "id": 0,
+      "picId": 0
+    },
+    "copyrightId": 684010,
+    "name": "滚石香港黄金十年 伍佰精选",
+    "id": 15791,
+    "picId": 109951170270558113,
+    "mark": 0,
+    "status": 1
+  },
+  "fee": 1,
+  "duration": 248626,
+  "rtype": 0,
+  "ftype": 0,
+  "artists": [
+    {
+      "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+      "musicSize": 0,
+      "albumSize": 0,
+      "img1v1": 0,
+      "name": "伍佰",
+      "alias": [],
+      "id": 5354,
+      "picId": 0
+    }
+  ],
+  "copyrightId": 684010,
+  "mvid": 10938284,
+  "name": "世界第一等（Live）",
+  "alias": [],
+  "id": 156928,
+  "mark": 1125917086720000,
+  "status": 0
+}

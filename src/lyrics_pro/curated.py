@@ -45,7 +45,7 @@ def _decode_asset(payload):
     lines, previous = [], -1
     for row in report["rows"]:
         status, stamp = row["status"], row["time"]
-        if (status not in ("exact", "approximate", "repeat", "gap", "credit")
+        if (status not in ("exact", "approximate", "repeat", "gap", "credit", "spoken")
                 or type(stamp) not in (int, float) or not math.isfinite(stamp)
                 or stamp < previous or stamp < 0 or stamp > obj["duration"]):
             raise ValueError("Invalid proofread timing")
@@ -57,6 +57,9 @@ def _decode_asset(payload):
                 raise ValueError("Missing supplied lyric or spelling")
         elif status == "gap" and (text or spelling):
             raise ValueError("Nonempty musical gap")
+        elif status == "spoken" and (not text.strip() or spelling or text != row.get("online_text")
+                                     or not row.get("review")):
+            raise ValueError("Invalid reviewed spoken event")
         # Source columns are transcription layout, not sung pauses. Normalize
         # presentation only; retain original wording, accents, and timing inputs.
         text, spelling = " ".join(text.split()), " ".join(spelling.split())

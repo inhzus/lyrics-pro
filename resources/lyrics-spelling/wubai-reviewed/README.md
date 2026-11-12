@@ -1,6 +1,7 @@
 # Reviewed Wu Bai collection
 
 53 distinct supplied songs: 51 newly adapted, 1 previously accepted, 1 awaiting reliable timing.
+2 additional recording-specific adaptations.
 The three duplicate raw files remain accounted for in the original preparation manifest.
 
 These are reviewed text alignments, not listening-verified pronunciation or onset corrections.
@@ -91,3 +92,5 @@ integrates reviewed outputs, refusing to overwrite a different existing asset.
 | [飛](supplied-eb79c3ec6c794433eca6/timed-proofread.md) | lrclib:16432589 · 伍佰的LIVE-枉費青春 | 299.493s | ready |
 | [飛在風中的小雨](supplied-3be77a1c42c4c9032a8b/timed-proofread.md) | netease:156682 · 爱你伍佰年 | 251.489s | ready |
 | [點煙](supplied-cbdd07883a98f319373b/timed-proofread.md) | netease:156594 · 爱你伍佰年 | 340.985s | ready |
+| [世界第一等](supplied-aa877b02e4f643c35279-netease-156928/timed-proofread.md) | netease:156928 · 滚石香港黄金十年 伍佰精选 | 248.626s | ready |
+| [世界第一等](supplied-aa877b02e4f643c35279-netease-27867397/timed-proofread.md) | netease:27867397 · 生命的现场 | 121.840s | ready |

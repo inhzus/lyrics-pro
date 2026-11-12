@@ -20,12 +20,12 @@ def song(title):
 
 def test_entire_reviewed_collection_is_reproducible_and_matches_runtime():
     ready = audit()
-    assert len(ready) == 51
+    assert len(ready) == 53
     catalog = json.loads((ROOT / "manifest.json").read_text())
     assert len(catalog["songs"]) == 53
     assert [e["title"] for e in catalog["songs"] if e["status"] == "needs timing"] == ["恨世生"]
     curated._recordings.cache_clear()
-    for entry in catalog["songs"]:
+    for entry in catalog["songs"] + catalog.get("additional_recordings", []):
         if entry["status"] != "ready":
             continue
         review, manual, timed = read_review(ROOT / entry["id"])
@@ -132,3 +132,46 @@ def test_original_hawaii_recording_does_not_match_wu_bai_live_durations():
     assert curated.curated_lyrics(track)
     for duration in (91.4, 201.192):
         assert curated.curated_lyrics(replace(track, duration=duration)) is None
+
+
+@pytest.mark.parametrize("duration,identity,first_onset", [
+    (248, "supplied-aa877b02e4f643c35279-netease-156928", 55.57),
+    (121, "supplied-aa877b02e4f643c35279-netease-27867397", 6.677),
+    (238.468, "supplied-aa877b02e4f643c35279", 39.44),
+])
+def test_world_first_versions_keep_their_own_timing_and_supplied_spelling(duration, identity, first_onset):
+    track = Playback("paused", "世界第一等 (Live)", "伍佰 & China Blue", "Compilation", duration)
+    lyrics = curated.curated_lyrics(track)
+    assert lyrics.recording_id == "proofread:" + identity
+    assert len(curated.curated_candidates(track)) == 1
+    first = next(line for line in lyrics.lines if line.pronunciation)
+    assert first.time == first_onset
+    assert first.pronunciation.startswith("lîn-sing ê kong-kíng")
+    assert Romanizer().annotate(lyrics, "hokkien") is lyrics
+    assert curated.curated_lyrics(replace(track, duration=244)) is None
+    assert curated.curated_lyrics(track, "netease:156928") is None
+
+
+def test_recording_omissions_are_explicit_and_cannot_hide_used_or_unknown_fragments():
+    review, manual, timed = read_review(ROOT / "supplied-aa877b02e4f643c35279-netease-27867397")
+    review["omitted_manual"] = []
+    with pytest.raises(ValueError, match="Unassigned"):
+        make_asset(review, manual, timed)
+    for key in ("line-3:0", "nonexistent"):
+        review["omitted_manual"] = [dict(manual_ids=[key], reason="Absent from this performance")]
+        with pytest.raises(ValueError, match="Invalid recording-specific omission"):
+            make_asset(review, manual, timed)
+
+
+def test_spoken_events_preserve_provider_text_and_never_invent_spelling():
+    review, manual, timed = read_review(ROOT / "supplied-aa877b02e4f643c35279-netease-156928")
+    asset = make_asset(review, manual, timed)
+    spoken = [r for r in asset["alignment"]["rows"] if r["status"] == "spoken"]
+    assert [r["time"] for r in spoken] == [9.38, 12.332, 20.012, 128.812]
+    assert all(r["text"] == r["online_text"] and not r["spelling"] for r in spoken)
+    assert all(r["spelling"] for r in asset["alignment"]["rows"] if r["status"] in ("exact", "approximate"))
+    for field, value in (("spelling", "invented"), ("text", "replaced"), ("review", [])):
+        changed = copy.deepcopy(asset)
+        next(r for r in changed["alignment"]["rows"] if r["status"] == "spoken")[field] = value
+        with pytest.raises(ValueError, match="spoken event"):
+            curated._decode_asset(json.dumps(changed))

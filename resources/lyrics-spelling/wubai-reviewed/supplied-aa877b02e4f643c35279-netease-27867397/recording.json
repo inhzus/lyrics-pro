@@ -1,0 +1,45 @@
+{
+  "album": {
+    "publishTime": 1356019200000,
+    "size": 53,
+    "artist": {
+      "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+      "musicSize": 0,
+      "albumSize": 0,
+      "img1v1": 0,
+      "name": "",
+      "alias": [],
+      "id": 0,
+      "picId": 0
+    },
+    "copyrightId": 7003,
+    "name": "生命的现场",
+    "id": 2685336,
+    "picId": 109951163100347037,
+    "mark": 0,
+    "status": 1
+  },
+  "fee": 1,
+  "duration": 121840,
+  "rtype": 0,
+  "ftype": 0,
+  "artists": [
+    {
+      "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+      "musicSize": 0,
+      "albumSize": 0,
+      "img1v1": 0,
+      "name": "伍佰 & China Blue",
+      "alias": [],
+      "id": 222871,
+      "picId": 0
+    }
+  ],
+  "copyrightId": 7003,
+  "mvid": 0,
+  "name": "世界第一等(Live)",
+  "alias": [],
+  "id": 27867397,
+  "mark": 17179877376,
+  "status": 0
+}

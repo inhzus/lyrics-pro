@@ -227,6 +227,16 @@ User-provided transcription.
 Timing: NetEase https://music.163.com/song?id=361000
 
 世界第一等 — 伍佰 & China Blue
+Asset: proofread:supplied-aa877b02e4f643c35279-netease-156928
+User-provided transcription. 作詞：李安修/陳富榮   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=156928
+
+世界第一等 — 伍佰 & China Blue
+Asset: proofread:supplied-aa877b02e4f643c35279-netease-27867397
+User-provided transcription. 作詞：李安修/陳富榮   作曲：伍佰  台語拼音：關德樂
+Timing: NetEase https://music.163.com/song?id=27867397
+
+世界第一等 — 伍佰 & China Blue
 Asset: proofread:supplied-aa877b02e4f643c35279
 User-provided transcription. 作詞：李安修/陳富榮   作曲：伍佰  台語拼音：關德樂
 Timing: NetEase https://music.163.com/song?id=156868

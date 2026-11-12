@@ -10,6 +10,7 @@ import json
 from pathlib import Path
 
 from lyrics_pro.curated import _decode_asset
+from lyrics_pro.lyrics import candidate_from_record, parse_lrc
 from lyrics_pro.pronunciation import HAN, normalize
 from lyrics_pro.recording_ref import source_ref
 from scripts.prepare_proofread import digest, write_notices
@@ -39,6 +40,18 @@ def read_review(directory):
     for name in ("manual", "timed"):
         require(digest((directory / (name + ".json")).read_bytes()) == review["input_sha256"][name],
                 f"{directory}: changed {name} input")
+    if "provider_lrc" in review["input_sha256"] or "recording" in review["input_sha256"]:
+        for name, filename in (("provider_lrc", "provider.lrc"), ("recording", "recording.json")):
+            require(digest((directory / filename).read_bytes()) == review["input_sha256"].get(name),
+                    f"{directory}: changed {name} input")
+        source = parse_lrc((directory / "provider.lrc").read_text())
+        require([(r.time, r.text) for r in source] == [(r["time"], r["text"]) for r in timed["lines"]],
+                "Frozen provider timeline changed")
+        candidate = candidate_from_record(json.loads((directory / "recording.json").read_text()))
+        recording = review["recording"]
+        require(candidate is not None and f"netease:{candidate.song_id}" == recording["reference"]
+                and candidate.duration == recording["duration"] and candidate.album == recording["album"]
+                and candidate.title == recording["title"], "Frozen recording metadata changed")
     return review, manual, timed
 
 
@@ -90,7 +103,11 @@ def make_asset(review, manual, timed):
     for index, (assignment, original) in enumerate(zip(assignments, timed["lines"])):
         require(assignment["source_row"] == index, "Reordered timing assignment")
         kind = assignment["kind"]
-        if kind in ("credit", "gap"):
+        if kind == "spoken":
+            require(original["kind"] == "lyric" and not assignment.get("manual_ids")
+                    and assignment.get("reason"), "Spoken event needs an explicit review")
+            text, spelling, ids = original["text"], "", []
+        elif kind in ("credit", "gap"):
             require(not assignment.get("manual_ids"), "Nonsung event has a lyric assignment")
             require(original["kind"] == kind or assignment.get("reason"),
                     "Reclassified event lacks an explicit review decision")
@@ -109,7 +126,15 @@ def make_asset(review, manual, timed):
                          status=kind, text=text, spelling=spelling, manual_id="+".join(ids) or None,
                          review=[assignment["reason"]] if assignment.get("reason") else []))
     missing = {pair(p) for p in atoms.values()} - {pair(atoms[key]) for key in used}
-    require(not missing, f"Unassigned supplied text/spelling: {missing}")
+    omissions = review.get("omitted_manual", [])
+    omitted = set()
+    for omission in omissions:
+        keys = omission.get("manual_ids", [])
+        require(keys and omission.get("reason") and all(k in atoms and k not in used for k in keys),
+                "Invalid recording-specific omission")
+        require(not omitted.intersection(keys), "Duplicate recording-specific omission")
+        omitted.update(keys)
+    require(missing <= {pair(atoms[k]) for k in omitted}, f"Unassigned supplied text/spelling: {missing}")
     recording = review["recording"]
     asset = dict(schema_version=1, id=review["id"], revision=review["revision"],
                  title=review["title"], title_aliases=review.get("title_aliases", []),
@@ -120,6 +145,8 @@ def make_asset(review, manual, timed):
                                 agent_review=review["reason"], input_sha256=review["input_sha256"],
                                 source_spelling_notes=review.get("source_spelling_notes", []),
                                 summary=dict(Counter(r["status"] for r in rows)), rows=rows))
+    if omissions:
+        asset["alignment"]["omitted_manual"] = omissions
     _decode_asset(json.dumps(asset, ensure_ascii=False))
     return asset
 
@@ -132,6 +159,7 @@ def preview(asset):
               "Supplied spelling is retained except for the documented source-backed repairs.", "",
               report["agent_review"], ""]
     result += [f"- Source spelling note: {note}" for note in report.get("source_spelling_notes", [])]
+    result += [f"- Recording omission: {item['reason']}" for item in report.get("omitted_manual", [])]
     result += ["", "~~~text"]
     for row in report["rows"]:
         minutes, seconds = divmod(row["time"], 60)
@@ -146,6 +174,7 @@ def index_text(catalog):
     result = ["# Reviewed Wu Bai collection", "",
               f"{len(catalog['songs'])} distinct supplied songs: {counts['ready']} newly adapted, "
               f"{counts['existing']} previously accepted, {counts['needs timing']} awaiting reliable timing.",
+              f"{len(catalog.get('additional_recordings', []))} additional recording-specific adaptations.",
               "The three duplicate raw files remain accounted for in the original preparation manifest.", "",
               "These are reviewed text alignments, not listening-verified pronunciation or onset corrections.",
               "Original transcripts are unchanged. Each folder preserves the selected online timeline,",
@@ -167,7 +196,7 @@ def index_text(catalog):
             result += [f"- **{e['title']}**: {note}"]
     result += ["", "## Listening previews", "", "| Song | Recording | Duration | Status |",
                "|---|---|---:|---|"]
-    for e in catalog["songs"]:
+    for e in catalog["songs"] + catalog.get("additional_recordings", []):
         r = e.get("recording", {})
         title = e["title"]
         if e["status"] == "ready":
@@ -186,7 +215,10 @@ def audit(root=ROOT, assets=ASSETS, *, write=False, integrate=False):
     expected = {e["path"] for e in original["inputs"] if e["artist"] == "伍佰" and e["status"] != "duplicate"}
     require({e["source_path"] for e in catalog["songs"]} == expected, "Reviewed catalog misses a Wu Bai source")
     identities, ready, payloads = set(), set(), {}
-    for entry in catalog["songs"]:
+    for entry in catalog.get("additional_recordings", []):
+        require(entry["source_path"] in expected and entry["status"] == "ready",
+                "Additional recording must adapt an existing supplied song")
+    for entry in catalog["songs"] + catalog.get("additional_recordings", []):
         require(entry["id"] not in identities, "Duplicate reviewed song")
         identities.add(entry["id"])
         require(digest(Path(entry["source_path"]).read_bytes()) == entry["source_sha256"],
@@ -201,7 +233,8 @@ def audit(root=ROOT, assets=ASSETS, *, write=False, integrate=False):
         directory = root / entry["id"]
         review, manual, timed = read_review(directory)
         require(review["id"] == entry["id"] and review["source_path"] == entry["source_path"]
-                and review["input_sha256"]["original"] == entry["source_sha256"],
+                and review["input_sha256"]["original"] == entry["source_sha256"]
+                and review["recording"] == entry["recording"],
                 "Review and catalog disagree")
         asset = make_asset(review, manual, timed)
         payload = (json.dumps(asset, ensure_ascii=False, indent=2, allow_nan=False) + "\n").encode()

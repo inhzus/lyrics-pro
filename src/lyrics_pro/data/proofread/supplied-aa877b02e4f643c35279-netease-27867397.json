@@ -1,0 +1,382 @@
+{
+  "schema_version": 1,
+  "id": "supplied-aa877b02e4f643c35279-netease-27867397",
+  "revision": "1",
+  "title": "世界第一等",
+  "title_aliases": [
+    "世界第一等 (Live)"
+  ],
+  "artist": "伍佰 & China Blue",
+  "album": "生命的现场",
+  "duration": 121.84,
+  "language": "hokkien",
+  "attribution": "User-provided transcription. 作詞：李安修/陳富榮   作曲：伍佰  台語拼音：關德樂",
+  "alignment": {
+    "recording_id": "netease:27867397",
+    "timing_source": "NetEase https://music.163.com/song?id=27867397",
+    "manual_source": "resources/lyrics-spelling/世界第一等-伍佰",
+    "audio_verified": false,
+    "agent_review": "Separate 121.840-second 生命的现场 performance: one verse/chorus sequence and a repeated ending. Reuse the supplied words/readings at explicit phrase boundaries. No timestamps are shifted or borrowed from the 238.468-second performance. The supplied scat outro has no event in this provider timeline and is not inserted; absence from the timeline is not an audio-verification claim.",
+    "input_sha256": {
+      "original": "99285f4179968db5978a560dd2c1ba9af78ca08ada7374e7eace18d02608bad4",
+      "manual": "07bf88ec50bddaf96381b391842bd385be8d599024194e3d39e04c301619c9a5",
+      "timed": "492a06f5f93f0aca2ebc38e0656af87776cdd06419cedd269d43f5b30aa8fd79",
+      "provider_lrc": "32f6d52a5f7d1833e1415e7d3adaff64999c741749cb9951c813867f982a7e98",
+      "recording": "31d210dab66c1e3556503daf7100658ee580acf8d903a2fe15c90bd4d77dc473"
+    },
+    "source_spelling_notes": [],
+    "summary": {
+      "credit": 3,
+      "gap": 2,
+      "exact": 17,
+      "approximate": 5
+    },
+    "rows": [
+      {
+        "source_row": 0,
+        "time": 0,
+        "online_text": "作词 : 李安修/陈富荣",
+        "status": "credit",
+        "text": "作词 : 李安修/陈富荣",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 1,
+        "time": 1.0,
+        "online_text": "作曲 : 伍佰",
+        "status": "credit",
+        "text": "作曲 : 伍佰",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 2,
+        "time": 2.0,
+        "online_text": "编曲 : 伍佰 & China Blue",
+        "status": "credit",
+        "text": "编曲 : 伍佰 & China Blue",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 3,
+        "time": 4.0,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 4,
+        "time": 6.677,
+        "online_text": "人生的风景",
+        "status": "exact",
+        "text": "人生的風景",
+        "spelling": "lîn-sing ê kong-kíng",
+        "manual_id": "line-3:0",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 5,
+        "time": 9.138,
+        "online_text": "亲像大海的风涌",
+        "status": "exact",
+        "text": "親像大海的風湧",
+        "spelling": "tshin-tshiūnn tuā-hái ê hong-íng",
+        "manual_id": "line-3:1",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 6,
+        "time": 12.423,
+        "online_text": "有时猛有时平",
+        "status": "exact",
+        "text": "有時猛有時平",
+        "spelling": "ū sî bíng ū sî pînn",
+        "manual_id": "line-6:0",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 7,
+        "time": 15.786,
+        "online_text": "亲爱朋友你着小心",
+        "status": "exact",
+        "text": "親愛朋友你著小心",
+        "spelling": "tshin ài pîng-iú lí tio̍h sió-sim",
+        "manual_id": "line-6:1",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 8,
+        "time": 19.927,
+        "online_text": "人生的环境",
+        "status": "exact",
+        "text": "人生的環境",
+        "spelling": "lîn-sing ê khuân-kíng",
+        "manual_id": "line-9:0",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 9,
+        "time": 22.442,
+        "online_text": "乞食嘛会出头天",
+        "status": "exact",
+        "text": "乞食嘛會出頭天",
+        "spelling": "khit tsia̍h mah ē tshut-thâu thinn",
+        "manual_id": "line-9:1",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 10,
+        "time": 25.865,
+        "online_text": "莫怨天莫尤人",
+        "status": "exact",
+        "text": "莫怨天莫尤人",
+        "spelling": "bo̍h uàn-thinn bo̍h iû jîn",
+        "manual_id": "line-12:0",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 11,
+        "time": 29.39,
+        "online_text": "命顺命歹拢是一生",
+        "status": "exact",
+        "text": "命順命歹攏是一生",
+        "spelling": "miā sūn miā phái lóng sī it-sing",
+        "manual_id": "line-12:1",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 12,
+        "time": 34.395,
+        "online_text": "一杯酒两角银",
+        "status": "approximate",
+        "text": "一杯酒二角銀",
+        "spelling": "tsi̍t pue tsiú nn̄g kak gîn",
+        "manual_id": "line-15:0",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 13,
+        "time": 37.714,
+        "online_text": "三不五时嘛来凑阵",
+        "status": "exact",
+        "text": "三不五時嘛來湊陣",
+        "spelling": "sann put gōo sî mah lâi tàu tīn",
+        "manual_id": "line-15:1",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 14,
+        "time": 40.875,
+        "online_text": "若要讲博感情",
+        "status": "approximate",
+        "text": "若要講搏感情",
+        "spelling": "nā-beh kóng phok kám-tsîng",
+        "manual_id": "line-18:0",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 15,
+        "time": 44.101,
+        "online_text": "我是世界第一等",
+        "status": "exact",
+        "text": "我是世界第一等",
+        "spelling": "guá sī sè-kài tē i̍t tíng",
+        "manual_id": "line-18:1",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 16,
+        "time": 47.263,
+        "online_text": "是缘分是注定",
+        "status": "approximate",
+        "text": "是緣份是註定",
+        "spelling": "sī iân-hūn sī tsù-tīng",
+        "manual_id": "line-21:0",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 17,
+        "time": 50.392,
+        "online_text": "好汉剖腹来参见",
+        "status": "exact",
+        "text": "好漢剖腹來參見",
+        "spelling": "hó-hàn phuà-pak lâi sann kìnn",
+        "manual_id": "line-21:1",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 18,
+        "time": 53.584,
+        "online_text": "呒惊风呒惊涌",
+        "status": "approximate",
+        "text": "嘸驚風嘸驚湧",
+        "spelling": "m̄-kiann hong m̄-kiann íng",
+        "manual_id": "line-24:0",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 19,
+        "time": 56.737,
+        "online_text": "有情有义好兄弟",
+        "status": "exact",
+        "text": "有情有義好兄弟",
+        "spelling": "ū tsîng ū gī hó hiann-tī",
+        "manual_id": "line-24:1",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 20,
+        "time": 62.296,
+        "online_text": "短短仔的光阴",
+        "status": "exact",
+        "text": "短短仔的光陰",
+        "spelling": "té té á ê kong-im",
+        "manual_id": "line-27:0",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 21,
+        "time": 64.702,
+        "online_text": "七迌着趁少年时",
+        "status": "approximate",
+        "text": "七逃著趁少年時",
+        "spelling": "tshit tô tio̍h thàn siàu-liân sî",
+        "manual_id": "line-27:1",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 22,
+        "time": 67.91,
+        "online_text": "求名利无了时",
+        "status": "exact",
+        "text": "求名利無了時",
+        "spelling": "kiû bîng-lī bô liáu sî",
+        "manual_id": "line-30:0",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 23,
+        "time": 71.106,
+        "online_text": "千金难买好人生",
+        "status": "exact",
+        "text": "千金難買好人生",
+        "spelling": "tshian-kim lân bé hó lâng sing",
+        "manual_id": "line-30:1",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 24,
+        "time": 75.901,
+        "online_text": "求名利无了时",
+        "status": "exact",
+        "text": "求名利無了時",
+        "spelling": "kiû bîng-lī bô liáu sî",
+        "manual_id": "line-48:0",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 25,
+        "time": 79.096,
+        "online_text": "千金难买好人生",
+        "status": "exact",
+        "text": "千金難買好人生",
+        "spelling": "tshian-kim lân bé hó lâng sing",
+        "manual_id": "line-48:1",
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      },
+      {
+        "source_row": 26,
+        "time": 83.213,
+        "online_text": "",
+        "status": "gap",
+        "text": "",
+        "spelling": "",
+        "manual_id": null,
+        "review": [
+          "Reviewed supplied phrase boundary; retain this recording's exact provider timestamp and repeat order."
+        ]
+      }
+    ],
+    "omitted_manual": [
+      {
+        "manual_ids": [
+          "line-33:0",
+          "line-33:1",
+          "line-36:0",
+          "line-36:1",
+          "line-39:0",
+          "line-39:1",
+          "line-42:0",
+          "line-42:1",
+          "line-45:0",
+          "line-45:1",
+          "line-51:0",
+          "line-51:1",
+          "line-54:0",
+          "line-57:0"
+        ],
+        "reason": "The shortened provider timeline omits the second verse/chorus occurrence and contains no scat-outro event. Unused supplied variants and repeats remain in manual.json; no extra events or timings are invented."
+      }
+    ]
+  }
+}

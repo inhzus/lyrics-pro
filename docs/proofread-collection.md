@@ -7,6 +7,16 @@ The preparation tool processes the original files directly under
 The [reviewed Wu Bai collection](../resources/lyrics-spelling/wubai-reviewed/README.md)
 is a separate, explicitly requested integration: 51 new adaptations plus the
 previously accepted first song, with one song still awaiting reliable timing.
+Two additional 《世界第一等》 resources cover the 248.626-second compilation
+recording and the 121.840-second 《生命的现场》 performance, separately from the
+238.468-second resource. `additional_recordings` preserves distinct recording
+identities without counting a supplied song twice. Each freezes the provider LRC
+and recording metadata as well as the reviewed phrase assignments.
+Recording-specific `omitted_manual` entries explicitly account for supplied
+passages without events in the selected timeline; they never create timestamps.
+Reviewed `spoken` rows preserve online introduction/callout text with no supplied
+spelling. All sung timeline rows still require supplied text and spelling. These
+exceptions require explicit review and do not change automatic promotion rules.
 Its frozen phrase assignments and source-backed repairs are reproduced offline
 with `uv run --locked python -m scripts.prepare_wubai --check` (audit) or
 `--integrate` (recreate and bundle). The original bulk manifest remains a record
