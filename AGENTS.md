@@ -204,7 +204,8 @@ nonfatal. Cache I/O stays on workers; native logging uses its serial queue.
 - Settings (`SettingsView.swift`, values in `DisplaySettings.swift`) holds display-only
   options: Chinese script conversion of displayed lyric lines (ICU transforms; never
   pronunciation, matching, metadata, or caches), text size, timing delay (highlight and
-  lyric-click seeks only), and keep-on-top. Store them with `@AppStorage`.
+  lyric-click seeks only), and keep-on-top. Store them with `@AppStorage`. The Settings
+  window follows the system light/dark appearance; the player window stays dark.
 - Follow normal timed rows at 45% of the lyric viewport height; align rows taller
   than the viewport to the top. Keep sufficient first/last-row scroll padding.
 - Keep timed highlighting tied to the shared playback clock. Manual browsing

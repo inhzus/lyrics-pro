@@ -43,8 +43,8 @@ struct LyricsProApp: App {
         }
 
         Settings {
+            // Follows the system appearance; only the player is always dark.
             SettingsView(connection: delegate.connection)
-                .preferredColorScheme(.dark)
         }
     }
 
