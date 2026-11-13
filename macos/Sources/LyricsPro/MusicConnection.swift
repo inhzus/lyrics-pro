@@ -18,6 +18,8 @@ final class MusicConnection: ObservableObject {
     @Published private(set) var presentation = PlaybackPresentation()
     @Published private(set) var updatingMusic = false
     @Published private(set) var dataStats: DataStats?
+    /// Settings asked for data stats; every new worker is asked again after `ready`.
+    private var wantsDataStats = false
     private var clockTask: Task<Void, Never>?
     private static var now: Double { ProcessInfo.processInfo.systemUptime }
     private var controlRevision = 0
@@ -105,7 +107,10 @@ final class MusicConnection: ObservableObject {
 
     private func receive(_ event: BridgeEvent, from worker: WorkerProcess, artwork: DecodedArtwork?) {
         guard self.worker === worker else { return }
-        if case .ready = event.payload { receivedReady = true }
+        if case .ready = event.payload {
+            receivedReady = true
+            if wantsDataStats { worker.send(.getDataStats) }
+        }
         if case .dataStats(let stats) = event.payload { dataStats = stats }
         let previousArtwork = state.artwork
         state.apply(event)
@@ -185,6 +190,7 @@ final class MusicConnection: ObservableObject {
     var canManageData: Bool { worker?.isRunning == true }
 
     func requestDataStats() {
+        wantsDataStats = true
         guard let worker, worker.isRunning else { return }
         worker.send(.getDataStats)
     }

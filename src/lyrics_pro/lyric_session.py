@@ -141,6 +141,9 @@ class LyricSession:
         self.preference_revision = 0
         self.preference_warning = self.song_languages.warning
         self.data_jobs = []  # Storage stats/clears, oldest first, on the preferences worker.
+        # After the first request, counts are re-sent whenever saved data changes.
+        self.data_subscribed = False
+        self.data_dirty = False
         self.selection_revision = 0
         self.lookups = JobSlot("lyrics", cancelled)
         self.recordings = RecordingDiscovery(cancelled, discover)
@@ -250,6 +253,7 @@ class LyricSession:
     # User data. Clearing never removes visible lyrics; it affects later lookups.
 
     def request_data_stats(self):
+        self.data_subscribed = True
         self.data_jobs.append((self.preferences_pool.submit(self._storage_stats, False), ""))
 
     def clear_data(self, targets):
@@ -285,6 +289,9 @@ class LyricSession:
     def tick_storage(self, emit_data):
         """Report finished storage work; runs even while Music cannot be read."""
         self._collect_preference_saves()
+        if self.data_subscribed and self.data_dirty and not self.data_jobs:
+            self.data_dirty = False
+            self.data_jobs.append((self.preferences_pool.submit(self._storage_stats, False), ""))
         while self.data_jobs and self.data_jobs[0][0].done():
             future, earlier = self.data_jobs.pop(0)
             try:
@@ -335,6 +342,7 @@ class LyricSession:
             return cached or backup
         if raw and self.disk_cache:
             self.disk_cache.put(key, raw)
+            self.data_dirty = True  # A plain flag; set from the lookup thread.
         return raw
 
     def _switch(self, track, reference, policy, token):
@@ -368,6 +376,7 @@ class LyricSession:
         result = replace(raw, lines=tuple(lines))
         if self.disk_cache:
             self.disk_cache.put_annotation(raw, selected, result)
+            self.data_dirty = True
         return result
 
     # Polling.
@@ -408,6 +417,7 @@ class LyricSession:
             future, revision = self.preference_saves.pop(0)
             try:
                 future.result()
+                self.data_dirty = True
             except Exception as error:
                 event("song_language_save_failed", category=type(error).__name__)
                 if revision == self.preference_revision:
@@ -423,6 +433,7 @@ class LyricSession:
                 reference, policy = job.payload
                 language, _ = resolve_language(*policy, raw)
                 self.choices.set(self.track, reference)
+                self.data_dirty = True
                 self.caches.store_raw(key, raw)
                 self.caches.store_annotation(key, language, annotated)
                 self.selection = None

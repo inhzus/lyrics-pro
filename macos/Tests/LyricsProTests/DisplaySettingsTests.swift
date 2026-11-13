@@ -43,7 +43,7 @@ struct DisplaySettingsTests {
         #expect(LyricTextScale.clamped(1.1000000000000001) == 1.1 && LyricTextScale.clamped(1.04) == 1.0)
         #expect(LyricTextScale.clamped(9) == 1.5 && LyricTextScale.clamped(-1) == 0.8)
         #expect(LyricTextScale.clamped(.nan) == 1.0 && LyricTextScale.clamped(.infinity) == 1.0)
-        #expect(LyricTextScale.label(1.2) == "120 %")
+        #expect(LyricTextScale.label(1.2) == "120%" && LyricTextScale.label(1) == "100%")
         var value = 0.8
         for _ in 0..<7 { value = LyricTextScale.bigger(value) }
         #expect(value == 1.5)
