@@ -11,15 +11,13 @@ import time
 
 from .lyrics import LyricsProvider, NetEaseProvider, LrcAPIProvider, request_json, decode_record
 from .models import LookupCancelled, LookupFailure
-from .pronunciation import Romanizer, choose_language, supplied_annotation
+from .pronunciation import Romanizer, resolve_language, supplied_annotation
+from .song_languages import SongLanguages, LANGUAGES
 from .curated import curated_lyrics, curated_candidates
 from .recording_choices import RecordingChoices
 from .recording_ref import recording_ref, source_ref
 from .lyrics_cache import LyricsCache
 from .diagnostics import event
-
-
-LANGUAGES = {"auto", "cantonese", "hokkien", "original"}
 
 
 class Cancellation:
@@ -77,10 +75,16 @@ def discover_recordings(track, cancelled):
 
 
 class LyricSession:
-    def __init__(self, cancelled, *, language="auto", fetch=lookup, romanizer=None, clock=time.monotonic,
-                 choices=None, selected_fetch=lookup_recording, discover=discover_recordings, cache=None):
+    def __init__(self, cancelled, *, language="cantonese", fetch=lookup, romanizer=None, clock=time.monotonic,
+                 choices=None, selected_fetch=lookup_recording, discover=discover_recordings, cache=None,
+                 song_languages=None):
         self.cancelled = cancelled
         self.language = language
+        self.song_languages = song_languages if song_languages is not None else SongLanguages(memory_only=fetch is not lookup)
+        self.preferences_pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix="song-preferences")
+        self.preference_saves = []
+        self.preference_revision = 0
+        self.preference_warning = self.song_languages.warning
         self.request_id = 0
         self.fetch = fetch
         self.disk_cache = cache if cache is not None else (LyricsCache() if fetch is lookup else None)
@@ -141,9 +145,23 @@ class LyricSession:
         self.finished = False
 
     def configure(self, language, request_id, *, retry=False, generation=None,
-                  choice_id=None, forget=False, choice_request_id=None, discover=False):
+                  choice_id=None, forget=False, choice_request_id=None, discover=False,
+                  song_language=None, track_identity=None):
         if language not in LANGUAGES or request_id <= self.request_id:
             return
+        if song_language is not None:
+            if (song_language not in LANGUAGES | {"default"} or not self.context
+                    or generation != self.context[1] or tuple(track_identity or ()) != self.context[0]
+                    or self.song_languages.key(self.track) is None):
+                # A stale UI intent must not change the new song, but consuming
+                # its revision lets the next snapshot synchronize that UI again.
+                self.request_id = request_id
+                self.finished, self.last_update = False, None
+                return
+            values = self.song_languages.set(self.track, song_language)
+            self.preference_revision += 1
+            self.preference_warning = ""
+            self.preference_saves.append((self.preferences_pool.submit(self.song_languages.save, values), self.preference_revision))
         if choice_id is not None:
             choice_id = recording_ref(choice_id)
             if choice_id is None:
@@ -161,7 +179,7 @@ class LyricSession:
                 self.selection_intent = (request_id, None if forget else choice_id)
                 event("recording_selection", recording=choice_id or "automatic", title=self.track.title)
                 self.selection_error = ""
-        language_changed = self.language != language
+        language_changed = self.language != language or song_language is not None
         self.language, self.request_id = language, request_id
         self.finished, self.last_update = False, None
         if self.failure_kind == "annotate":
@@ -284,7 +302,7 @@ class LyricSession:
             raise LookupFailure("No lyrics are available for that recording. Choose another or retry.")
         if len(raw.lines) > 10000 or sum(len(x.text) for x in raw.lines) > 500000:
             raise LookupFailure("Lyrics are too large to display.")
-        selected, _ = choose_language(track.artist, language, raw)
+        selected, _ = resolve_language(*language, raw)
         annotated = self._annotate(raw, selected, token, refresh=song_id is None)
         if len(json.dumps(asdict(annotated), ensure_ascii=False).encode()) > 6 * 1024 * 1024:
             raise LookupFailure("Annotated lyrics are too large to display.")
@@ -321,6 +339,15 @@ class LyricSession:
     def tick(self, emit, emit_recordings=None):
         if self.cancelled.is_set():
             return
+        while self.preference_saves and self.preference_saves[0][0].done():
+            future, revision = self.preference_saves.pop(0)
+            try:
+                future.result()
+            except Exception as error:
+                event("song_language_save_failed", category=type(error).__name__)
+                if revision == self.preference_revision:
+                    self.preference_warning = "Couldn’t save song preferences. Changes apply until the app closes."
+                    self.finished = False
         self._tick_discovery()
         if self.pending and self.pending[0].done():
             future, kind, context, token, selected = self.pending
@@ -331,7 +358,7 @@ class LyricSession:
                     if kind == "switch":
                         raw, annotated = result
                         intent, language = selected
-                        language, _ = choose_language(self.track.artist, language, raw)
+                        language, _ = resolve_language(*language, raw)
                         self.choices.set(self.track, intent[1])
                         for cache_key in list(self.annotation_cache):
                             if cache_key[0] == context[0]:
@@ -382,13 +409,15 @@ class LyricSession:
         if self.context is None:
             return
         key = self.context[0]
-        selected, reason = choose_language(self.track.artist, self.language, self.raw_cache.get(key))
+        song_language = self.song_languages.get(self.track)
+        policy = (self.language, song_language)
+        selected, reason = resolve_language(*policy, self.raw_cache.get(key))
 
         if self.selection_intent is not None:
             if self.pending is None:
                 token = Cancellation(self.cancelled)
-                self.pending = (self.pool.submit(self._switch, self.track, self.selection_intent[1], self.language, token),
-                                "switch", self.context, token, (self.selection_intent, self.language))
+                self.pending = (self.pool.submit(self._switch, self.track, self.selection_intent[1], policy, token),
+                                "switch", self.context, token, (self.selection_intent, policy))
             self._emit_recordings(emit_recordings)
             return
         self._emit_recordings(emit_recordings)
@@ -397,6 +426,7 @@ class LyricSession:
 
         def send(status, message, lyrics=None):
             payload = dict(request_id=self.request_id, language=self.language,
+                           song_language=song_language, preference_warning=self.preference_warning,
                            selected_language=selected, reason=reason, status=status,
                            message=message, lyrics=asdict(lyrics) if lyrics else None,
                            selection_revision=self.selection_revision)
@@ -448,6 +478,7 @@ class LyricSession:
             self.discovery_pending[2].set()
         self.pool.shutdown(wait=True, cancel_futures=True)
         self.discovery_pool.shutdown(wait=True, cancel_futures=True)
+        self.preferences_pool.shutdown(wait=True, cancel_futures=False)
 
     def _switch_failed(self, error):
         self.selection_intent = None

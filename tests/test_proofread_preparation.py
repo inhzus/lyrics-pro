@@ -9,7 +9,7 @@ from scripts import prepare_proofread as prep
 from scripts.proofread_alignment import align
 from lyrics_pro.curated import _decode_asset
 from lyrics_pro.models import LookupCancelled, LookupFailure
-from lyrics_pro.pronunciation import choose_language, supplied_annotation
+from lyrics_pro.pronunciation import resolve_language, supplied_annotation
 from lyrics_pro.recording_ref import source_ref
 
 
@@ -194,7 +194,7 @@ def test_generic_supplied_spelling_and_lrclib_provenance():
                  language="supplied", attribution="Supplied by user", alignment=report)
     raw = _decode_asset(json.dumps(asset)).lyrics
     assert source_ref(timed["source"]) == "lrclib:42"
-    assert choose_language("unknown", "auto", raw)[0] == "supplied"
+    assert resolve_language("cantonese", "default", raw)[0] == "supplied"
     assert supplied_annotation(raw, "supplied") is raw
     assert supplied_annotation(raw, "hokkien") is None
     assert all(line.pronunciation is None for line in supplied_annotation(raw, None).lines)

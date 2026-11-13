@@ -88,8 +88,6 @@ def run(language: str):
                     emit()
                     emit(f"{playback.title} — {playback.artist} | {playback.album} | {playback.duration:.1f}s")
                     emit(f"Pronunciation: {selected or 'original lyrics only'} ({reason}).")
-                    if language == "auto":
-                        emit("Override by restarting with --language cantonese or --language hokkien.")
                     emit("Looking up lyrics…")
             if not current_key:
                 message = "Music is closed. Open it and play a song." if playback.state == "closed" else "Music is stopped. Waiting for a song."
@@ -157,7 +155,7 @@ def main():
     setup()
     event("cli_start")
     parser = argparse.ArgumentParser(description="Follow macOS Music with local Jyutping or Taiwanese Hokkien pronunciation.")
-    parser.add_argument("--language", choices=("auto", "cantonese", "hokkien", "original"), default="auto")
+    parser.add_argument("--language", choices=("cantonese", "hokkien", "original"), default="cantonese")
     args = parser.parse_args()
     if sys.platform != "darwin":
         parser.error("This prototype requires macOS and the Music app.")

@@ -3,24 +3,34 @@ import SwiftUI
 private typealias HoverState = State<Bool>
 
 struct PronunciationMenu: View {
-    let language: PronunciationLanguage
+    @ObservedObject var connection: MusicConnection
     let accent: Color
-    let select: @MainActor @Sendable (PronunciationLanguage) -> Void
     @HoverState private var hovering = false
     @FocusState private var focused: Bool
 
     var body: some View {
         Menu {
-            Picker("Pronunciation", selection: Binding(get: { language }, set: select)) {
+            Picker("This Song", selection: Binding(get: { connection.songLanguage }, set: connection.selectSongLanguage)) {
+                ForEach(PronunciationLanguage.songChoices, id: \.self) { option in
+                    Text(option.label).tag(option)
+                }
+            }
+            .pickerStyle(.inline)
+            .disabled(!connection.canChooseSongLanguage)
+            Divider()
+            Picker("Global Default", selection: Binding(get: { connection.language }, set: connection.selectLanguage)) {
                 ForEach(PronunciationLanguage.choices, id: \.self) { option in
                     Text(option.label).tag(option)
                 }
             }
             .pickerStyle(.inline)
+            if let warning = connection.state.pronunciation?.preferenceWarning, !warning.isEmpty {
+                Text(warning)
+            }
         } label: {
             HStack(spacing: 7) {
                 Image(systemName: "character.bubble")
-                Text(language.shortLabel)
+                Text(connection.effectiveLanguage.shortLabel)
                 Image(systemName: "chevron.down")
                     .font(.system(size: 9, weight: .semibold))
             }
@@ -38,8 +48,8 @@ struct PronunciationMenu: View {
         .fixedSize()
         .focused($focused)
         .onHover { hovering = $0 }
-        .accessibilityLabel("Pronunciation: \(language.label)")
-        .help("Auto uses supplied spelling when available, otherwise guesses from the artist. Choose a language to override it.")
+        .accessibilityLabel("Pronunciation: \(connection.effectiveLanguage.label)")
+        .help(connection.state.pronunciation?.languageDescription ?? "Global default · \(connection.language.label)")
     }
 }
 

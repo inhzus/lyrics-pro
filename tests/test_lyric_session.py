@@ -69,7 +69,7 @@ def test_real_jyutping_preserves_source_times_and_original_text(session):
     worker.update_track(A, 1)
     result = settle(worker, updates)
     assert result["status"] == "ready"
-    assert result["reason"] == "artist-based guess"
+    assert result["reason"] == "global default"
     assert result["selected_language"] == "cantonese"
     assert result["lyrics"]["source"] == RAW.source
     assert result["lyrics"]["lines"][0] == {
@@ -184,22 +184,22 @@ def test_retry_invalidates_cached_lyrics_but_stale_generation_does_not(session):
     worker, calls, updates = session
     worker.update_track(A, 5)
     settle(worker, updates)
-    worker.configure("auto", 1, retry=True, generation=4)
+    worker.configure("cantonese", 1, retry=True, generation=4)
     assert settle(worker, updates)["request_id"] == 1
     assert len(calls) == 1
-    worker.configure("auto", 2, retry=True, generation=5)
+    worker.configure("cantonese", 2, retry=True, generation=5)
     settle(worker, updates)
     assert len(calls) == 2
     worker.configure("hokkien", 1)
-    assert worker.language == "auto" and worker.request_id == 2
+    assert worker.language == "cantonese" and worker.request_id == 2
 
 
-def test_unknown_artist_auto_keeps_original_and_hokkien_can_be_forced(session):
+def test_unknown_artist_uses_global_default_and_hokkien_can_be_selected(session):
     worker, calls, updates = session
     worker.update_track(replace(A, artist="Unknown"), 1)
     result = settle(worker, updates)
-    assert result["selected_language"] is None
-    assert result["reason"] == "unknown language"
+    assert result["selected_language"] == "cantonese"
+    assert result["reason"] == "global default"
     worker.configure("hokkien", 1)
     result = settle(worker, updates)
     assert result["selected_language"] == "hokkien"

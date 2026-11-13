@@ -168,9 +168,11 @@ def test_script_timeout_is_bounded_and_reaped():
 
 
 @pytest.mark.parametrize("stop", ["eof", "signal"])
-def test_worker_exits_when_parent_disconnects_or_terminates(stop):
-    # Exercise the real worker lifecycle without contacting Music from a unit test.
-    code = "from lyrics_pro import bridge; bridge.Bridge.tick = lambda self: self.cancelled.wait(.01); bridge.main()"
+def test_worker_exits_when_parent_disconnects_or_terminates(stop, tmp_path):
+    # Exercise the real lifecycle without Music or the user's persisted preferences.
+    code = ("from pathlib import Path; from lyrics_pro import diagnostics; "
+            f"diagnostics.SUPPORT = Path({str(tmp_path)!r}); "
+            "from lyrics_pro import bridge; bridge.Bridge.tick = lambda self: self.cancelled.wait(.01); bridge.main()")
     child = subprocess.Popen([sys.executable, "-u", "-c", code], stdin=subprocess.PIPE,
                              stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
     try:
@@ -226,7 +228,7 @@ def test_artwork_retry_cancels_and_discards_same_track_old_attempt(bridge):
     with patch.object(worker.pool, "submit", return_value=future):
         worker.tick()
     token = worker.pending[4]
-    worker.commands.put(dict(command="retry_lyrics", generation=worker.generation, language="auto", request_id=1))
+    worker.commands.put(dict(command="retry_lyrics", generation=worker.generation, language="cantonese", request_id=1))
     worker.tick()
     assert token.is_set()
     future.set_result("stale")
@@ -270,15 +272,15 @@ def test_retry_preserves_success_unless_native_reports_invalid_image(bridge):
     worker.tick()
     worker.pending[0].result(timeout=1)
     worker.tick()
-    worker.commands.put(dict(command="retry_lyrics", generation=worker.generation, language="auto", request_id=1))
+    worker.commands.put(dict(command="retry_lyrics", generation=worker.generation, language="cantonese", request_id=1))
     worker.tick()
     assert worker.pending is None and worker.cache[A.key][0] == "aW1hZ2U="
     worker.commands.put(dict(command="retry_lyrics", generation=worker.generation - 1,
-                             language="auto", request_id=2, retry_artwork=True))
+                             language="cantonese", request_id=2, retry_artwork=True))
     worker.tick()
     assert worker.pending is None
     worker.commands.put(dict(command="retry_lyrics", generation=worker.generation,
-                             language="auto", request_id=2, retry_artwork=True))
+                             language="cantonese", request_id=2, retry_artwork=True))
     worker.tick()
     assert worker.pending is not None
 

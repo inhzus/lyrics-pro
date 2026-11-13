@@ -8,7 +8,7 @@ import pytest
 
 from lyrics_pro import curated
 from lyrics_pro.models import Playback
-from lyrics_pro.pronunciation import Romanizer, choose_language
+from lyrics_pro.pronunciation import Romanizer, resolve_language
 from scripts.prepare_wubai import ROOT, audit, make_asset, read_review
 
 
@@ -34,7 +34,7 @@ def test_entire_reviewed_collection_is_reproducible_and_matches_runtime():
         lyrics = curated.curated_lyrics(track)
         assert lyrics and lyrics.recording_id == "proofread:" + entry["id"]
         assert [line.time for line in lyrics.lines] == [row["time"] for row in timed["lines"]]
-        assert choose_language("Unknown", "auto", lyrics)[0] == "hokkien"
+        assert resolve_language("cantonese", "default", lyrics)[0] == "hokkien"
         assert Romanizer().annotate(lyrics, "hokkien") is lyrics
         for alias in asset["title_aliases"]:
             assert curated.curated_lyrics(replace(track, title=alias)) == lyrics

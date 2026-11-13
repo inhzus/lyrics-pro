@@ -165,7 +165,24 @@ final class MusicConnection: ObservableObject {
         guard PronunciationLanguage.choices.contains(value), language != value else { return }
         language = value
         UserDefaults.standard.set(value.rawValue, forKey: PronunciationLanguage.preferenceKey)
-        sendLyricCommand("language")
+        sendLyricCommand("language", preserve: true)
+    }
+
+    var songLanguage: PronunciationLanguage { state.pronunciation?.songLanguage ?? .inherit }
+    var effectiveLanguage: PronunciationLanguage {
+        guard let update = state.pronunciation else { return language }
+        return update.selectedLanguage ?? .original
+    }
+    var canChooseSongLanguage: Bool {
+        canControl && !(state.identity?.artist.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty ?? true)
+    }
+
+    func selectSongLanguage(_ value: PronunciationLanguage) {
+        guard canChooseSongLanguage, PronunciationLanguage.songChoices.contains(value),
+              let identity = state.identity,
+              let data = try? JSONEncoder().encode(identity),
+              let track = try? JSONSerialization.jsonObject(with: data) else { return }
+        sendLyricCommand("song_language", extra: ["song_language": value.rawValue, "track": track], preserve: true)
     }
 
     func retryLyrics() {

@@ -8,21 +8,21 @@ struct LyricProtocolTests {
             source: "Proofread https://lrclib.net/api/get/42", synced: true, instrumental: false,
             proofread: ProofreadMetadata(asset_id: "sample", revision: "1", language: "supplied", attribution: "User"),
             recordingID: "proofread:sample")
-        let update = LyricUpdate(requestID: 1, language: .auto, selectedLanguage: .supplied,
+        let update = LyricUpdate(requestID: 1, language: .cantonese, selectedLanguage: .supplied,
             reason: "proofread transcription", status: .ready, message: "", lyrics: lyrics, selectionRevision: 0)
         #expect(update.isValid && update.languageDescription.contains("Supplied spelling"))
-        #expect(PronunciationLanguage.choices == [.auto, .cantonese, .hokkien, .original])
+        #expect(PronunciationLanguage.choices == [.cantonese, .hokkien, .original])
         #expect(RecordingCandidate.validReference("lrclib:42"))
         let invalid = LyricUpdate(requestID: 1, language: .supplied, selectedLanguage: .supplied,
             reason: "", status: .ready, message: "", lyrics: lyrics, selectionRevision: 0)
         #expect(!invalid.isValid)
         for status in [LyricStatus.loading, .error] {
-            let transition = LyricUpdate(requestID: 1, language: .auto, selectedLanguage: .supplied,
+            let transition = LyricUpdate(requestID: 1, language: .cantonese, selectedLanguage: .supplied,
                 reason: "proofread transcription", status: status, message: "Preparing", lyrics: nil, selectionRevision: 0)
             #expect(transition.isValid)
         }
         let ordinary = LiveLyrics(lines: lyrics.lines, source: lyrics.source, synced: true, instrumental: false)
-        let missingMetadata = LyricUpdate(requestID: 1, language: .auto, selectedLanguage: .supplied,
+        let missingMetadata = LyricUpdate(requestID: 1, language: .cantonese, selectedLanguage: .supplied,
             reason: "", status: .ready, message: "", lyrics: ordinary, selectionRevision: 0)
         #expect(!missingMetadata.isValid)
     }
@@ -44,9 +44,9 @@ struct LyricProtocolTests {
         #expect(lyrics.sourceName == "Proofread" && lyrics.sourceURL?.host == "music.163.com")
         #expect(lyrics.recordingID == "proofread:shao-nian-eh-an-la")
         #expect(lyrics.lines[0].pronunciation == "siàu-liân leh an lah!")
-        let update = LyricUpdate(requestID: 1, language: .auto, selectedLanguage: .hokkien,
+        let update = LyricUpdate(requestID: 1, language: .cantonese, selectedLanguage: .hokkien,
             reason: "proofread transcription", status: .ready, message: "", lyrics: lyrics, selectionRevision: 0)
-        #expect(update.isValid && update.languageDescription.contains("Proofread transcription"))
+        #expect(update.isValid && update.languageDescription.contains("Proofread default"))
         #expect(!update.languageDescription.contains("Artist-based guess"))
     }
 
@@ -115,7 +115,7 @@ struct LyricProtocolTests {
     }
 
     private func event(_ type: String, generation: Int = 1, title: String = "A", request: Int = 0,
-                       language: String = "auto", status: String = "ready", source: String = "NetEase https://music.163.com/song?id=1") throws -> BridgeEvent {
+                       language: String = "cantonese", status: String = "ready", source: String = "NetEase https://music.163.com/song?id=1") throws -> BridgeEvent {
         var payload: [String: Any] = ["version": 1, "type": type, "generation": generation,
                                       "track": [title, "Artist", "Album", 200]]
         if type == "playback" {
@@ -125,7 +125,7 @@ struct LyricProtocolTests {
                                          "lines": [["text": "令神仙鱼归天要怪谁", "time": status == "plain" ? NSNull() as Any : 21.6 as Any,
                                                     "pronunciation": "ling6 san4 sin1 jyu2 gwai1 tin1 jiu3 gwaai3 seoi4"]]]
             payload["lyric"] = ["request_id": request, "language": language, "selected_language": "cantonese",
-                                "reason": "artist-based guess", "status": status, "message": "",
+                                "reason": "global default", "status": status, "message": "",
                                 "lyrics": ["loading", "unavailable", "error"].contains(status) ? NSNull() as Any : lyrics as Any]
         }
         return try BridgeEvent.decode(JSONSerialization.data(withJSONObject: payload))
@@ -147,7 +147,7 @@ struct LyricProtocolTests {
         state.apply(try event("lyrics", request: 1, language: "cantonese"))
         #expect(state.lyric == nil)
         state.apply(try event("lyrics", request: 2))
-        #expect(state.lyric?.language == .auto)
+        #expect(state.lyric?.language == .cantonese)
     }
 
     @Test func trackChangesAndDisconnectClearLyricsAndRejectStaleABA() throws {
@@ -194,12 +194,45 @@ struct LyricProtocolTests {
         let name = "LyricsProTests.\(UUID())"
         let defaults = try #require(UserDefaults(suiteName: name))
         defer { defaults.removePersistentDomain(forName: name) }
-        #expect(PronunciationLanguage.saved(in: defaults) == .auto)
+        #expect(PronunciationLanguage.saved(in: defaults) == .cantonese)
+        defaults.set("auto", forKey: PronunciationLanguage.preferenceKey)
+        #expect(PronunciationLanguage.saved(in: defaults) == .cantonese)
+        #expect(defaults.string(forKey: PronunciationLanguage.preferenceKey) == "cantonese")
         defaults.set("hokkien", forKey: PronunciationLanguage.preferenceKey)
         #expect(PronunciationLanguage.saved(in: defaults) == .hokkien)
         defaults.set("supplied", forKey: PronunciationLanguage.preferenceKey)
-        #expect(PronunciationLanguage.saved(in: defaults) == .auto)
+        #expect(PronunciationLanguage.saved(in: defaults) == .cantonese)
         defaults.set("invalid", forKey: PronunciationLanguage.preferenceKey)
-        #expect(PronunciationLanguage.saved(in: defaults) == .auto)
+        #expect(PronunciationLanguage.saved(in: defaults) == .cantonese)
+    }
+
+    @Test func preferenceUpdatesDoNotRemoveVisibleLyricsAndRejectStaleRevisions() throws {
+        var state = LiveMusicState()
+        state.apply(try event("playback"))
+        state.apply(try event("lyrics"))
+        state.prepareLyrics(requestID: 1, preserve: true)
+        state.apply(try event("lyrics", request: 1, language: "hokkien", status: "loading"))
+        #expect(state.lyric?.lyrics != nil)
+        #expect(state.pronunciation?.language == .hokkien)
+        state.apply(try event("lyrics", request: 0))
+        #expect(state.pronunciation?.language == .hokkien)
+        state.apply(try event("playback", generation: 2, title: "B"))
+        #expect(state.pronunciation == nil)
+        #expect(PronunciationLanguage.songChoices == [.inherit, .cantonese, .hokkien, .original])
+    }
+
+    @Test func songPreferenceFieldsValidateAndDescribeTheirSource() throws {
+        let json = """
+        {"request_id":1,"language":"cantonese","song_language":"original",
+         "selected_language":null,"reason":"song preference","status":"loading",
+         "message":"","preference_warning":"Couldn’t save"}
+        """
+        let update = try JSONDecoder().decode(LyricUpdate.self, from: Data(json.utf8))
+        #expect(update.isValid && update.songLanguage == .original)
+        #expect(update.languageDescription == "Song preference · Original only")
+        #expect(update.preferenceWarning == "Couldn’t save")
+        let invalid = try JSONDecoder().decode(LyricUpdate.self,
+            from: Data(json.replacingOccurrences(of: "\"song_language\":\"original\"", with: "\"song_language\":\"supplied\"").utf8))
+        #expect(!invalid.isValid)
     }
 }

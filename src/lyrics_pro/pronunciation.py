@@ -32,14 +32,20 @@ def artist_key(artist: str) -> str:
 
 
 def choose_language(artist: str, requested: str, lyrics: Lyrics | None = None) -> tuple[str | None, str]:
+    """Explicit terminal language; artist metadata never guesses pronunciation."""
     if requested == "original":
         return None, "original lyrics only"
-    if requested != "auto":
+    if requested in {"cantonese", "hokkien"}:
         return requested, "explicit override"
+    raise ValueError("Choose cantonese, hokkien or original")
+
+
+def resolve_language(global_language: str, song_language="default", lyrics: Lyrics | None = None):
+    if song_language != "default":
+        return choose_language("", song_language)[0], "song preference"
     if lyrics and lyrics.proofread:
         return lyrics.proofread.language, "proofread transcription"
-    language = {"eason": "cantonese", "wubai": "hokkien"}.get(artist_key(artist))
-    return language, "artist-based guess" if language else "unknown language"
+    return choose_language("", global_language)[0], "global default"
 
 
 def supplied_annotation(lyrics: Lyrics, language: str | None) -> Lyrics | None:

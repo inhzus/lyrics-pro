@@ -133,9 +133,11 @@ preserved even though its reviewed approximate matches do not meet the new batch
 gate.
 
 New assets use the language designation `supplied`, since the collection contains
-mixed languages and header labels are not sufficient language evidence. Auto shows
-the supplied spelling. Original hides it; explicit Cantonese/Hokkien selects the
-existing local engine. The pronunciation menu still has four choices.
+mixed languages and header labels are not sufficient language evidence. A song's
+Use Default setting shows supplied spelling ahead of the global language. A song
+Original override hides it; explicit Cantonese/Hokkien overrides select the local
+engine when the resource's language differs. The menu has separate song and global
+sections; the global language initially defaults to Cantonese.
 
 This workflow neither commits changes nor publishes a release. Before a future
 release, review content notices and distribution scope separately from code licensing.

@@ -13,7 +13,7 @@ from lyrics_pro.lyrics import Candidate
 from lyrics_pro.lyrics_cache import LyricsCache, decode, encode, fingerprint
 from lyrics_pro.lyric_session import Cancellation, LyricSession, lookup_recording
 from lyrics_pro.models import LookupCancelled, LookupFailure, Playback
-from lyrics_pro.pronunciation import Romanizer, choose_language
+from lyrics_pro.pronunciation import Romanizer, resolve_language
 from lyrics_pro.recording_choices import RecordingChoices
 from test_lyric_session import ControlledPool, RAW, settle
 
@@ -89,7 +89,7 @@ def test_recording_overrides_and_cancellation():
 def test_pronunciation_overrides_and_cache_revision(tmp_path):
     raw = curated.curated_lyrics(TRACK)
     romanizer = Romanizer()
-    assert choose_language("Unknown", "auto", raw) == ("hokkien", "proofread transcription")
+    assert resolve_language("cantonese", "default", raw) == ("hokkien", "proofread transcription")
     assert romanizer.annotate(raw, "hokkien") is raw
     original = romanizer.annotate(raw, None)
     assert all(line.pronunciation is None for line in original.lines)
@@ -158,7 +158,7 @@ def worker(tmp_path):
     session.close()
 
 
-def test_session_auto_language_retry_original_and_bad_annotation_cache(worker):
+def test_session_default_language_retry_original_and_bad_annotation_cache(worker):
     session, fetch, _ = worker
     raw = curated.curated_lyrics(TRACK)
     session.disk_cache.put_annotation(raw, "hokkien", RAW)  # Supplied spelling always wins.
@@ -166,11 +166,11 @@ def test_session_auto_language_retry_original_and_bad_annotation_cache(worker):
     assert result["selected_language"] == "hokkien"
     assert result["reason"] == "proofread transcription"
     assert result["lyrics"]["lines"][3]["pronunciation"] == raw.lines[3].pronunciation
-    session.configure("auto", 1, retry=True, generation=1)
+    session.configure("cantonese", 1, retry=True, generation=1)
     assert settle(session, [])["lyrics"]["proofread"]
-    session.configure("original", 2)
+    session.configure("cantonese", 2, generation=1, song_language="original", track_identity=TRACK.key)
     assert all(l["pronunciation"] is None for l in settle(session, [])["lyrics"]["lines"])
-    session.configure("hokkien", 3)
+    session.configure("cantonese", 3, generation=1, song_language="hokkien", track_identity=TRACK.key)
     assert settle(session, [])["lyrics"]["lines"][3]["pronunciation"] == raw.lines[3].pronunciation
     fetch.assert_not_called()
 
@@ -186,29 +186,29 @@ def test_generic_supplied_spelling_survives_loading_retry_and_language_changes(w
     assert any(u["status"] == "loading" and u["selected_language"] == "supplied" and u["lyrics"] is None
                for u in updates)
     assert result["lyrics"]["lines"][3]["pronunciation"] == raw.lines[3].pronunciation
-    session.configure("original", 1)
+    session.configure("cantonese", 1, generation=1, song_language="original", track_identity=TRACK.key)
     assert all(line["pronunciation"] is None for line in settle(session, [])["lyrics"]["lines"])
-    session.configure("hokkien", 2)
+    session.configure("cantonese", 2, generation=1, song_language="hokkien", track_identity=TRACK.key)
     generated = settle(session, [])
     assert generated["selected_language"] == "hokkien"
     assert generated["lyrics"]["lines"][3]["pronunciation"] != raw.lines[3].pronunciation
-    session.configure("auto", 3, retry=True, generation=1)
+    session.configure("cantonese", 3, retry=True, generation=1, song_language="default", track_identity=TRACK.key)
     refreshed = settle(session, [])
     assert refreshed["selected_language"] == "supplied"
     assert refreshed["lyrics"]["lines"][3]["pronunciation"] == raw.lines[3].pronunciation
     fetch.assert_not_called()
 
 
-def test_switch_to_other_recording_and_back_recomputes_auto_language(worker):
+def test_switch_to_other_recording_and_back_recomputes_default_language(worker):
     session, fetch, selected_fetch = worker
     assert settle(session, [])["selected_language"] == "hokkien"
     session.candidates = (Candidate(1, TRACK.title, ("Other",), "Album", TRACK.duration),)
-    session.configure("auto", 1, generation=1, choice_id="netease:1", choice_request_id=0)
+    session.configure("cantonese", 1, generation=1, choice_id="netease:1", choice_request_id=0)
     result = settle(session, [])
-    assert result["selected_language"] is None and result["lyrics"]["proofread"] is None
+    assert result["selected_language"] == "cantonese" and result["lyrics"]["proofread"] is None
     assert session.choices.get(TRACK) == "netease:1"
     selected_fetch.assert_called_once()
-    session.configure("auto", 2, generation=1, forget=True)
+    session.configure("cantonese", 2, generation=1, forget=True)
     result = settle(session, [])
     assert result["selected_language"] == "hokkien" and result["lyrics"]["proofread"]
     assert session.choices.get(TRACK) is None
@@ -239,9 +239,9 @@ def test_saved_proofread_choice_survives_restart_and_automatic_clears_it(worker)
     session, fetch, selected_fetch = worker
     settle(session, [])
     session.candidates = curated.curated_candidates(TRACK) + (Candidate(1, TRACK.title, ("Other",), "Album", TRACK.duration),)
-    session.configure("auto", 1, generation=1, choice_id="netease:1", choice_request_id=0)
+    session.configure("cantonese", 1, generation=1, choice_id="netease:1", choice_request_id=0)
     assert settle(session, [])["lyrics"]["proofread"] is None
-    session.configure("auto", 2, generation=1, choice_id=PROOFREAD, choice_request_id=1)
+    session.configure("cantonese", 2, generation=1, choice_id=PROOFREAD, choice_request_id=1)
     result = settle(session, [])
     assert result["lyrics"]["recording_id"] == PROOFREAD and result["selected_language"] == "hokkien"
     assert RecordingChoices(session.choices.path).get(TRACK) == PROOFREAD
@@ -256,7 +256,7 @@ def test_saved_proofread_choice_survives_restart_and_automatic_clears_it(worker)
     try:
         restored.update_track(TRACK, 1)
         assert settle(restored, [])["lyrics"]["recording_id"] == PROOFREAD
-        restored.configure("auto", 1, generation=1, forget=True)
+        restored.configure("cantonese", 1, generation=1, forget=True)
         assert settle(restored, [])["lyrics"]["recording_id"] == PROOFREAD
         assert RecordingChoices(restored.choices.path).get(TRACK) is None
     finally:
@@ -273,7 +273,7 @@ def test_unavailable_proofread_switch_keeps_previous_lyrics_and_choice(worker, m
     # Even a previously cached copy must not bypass current title/duration/resource checks.
     session.disk_cache.put(session.disk_cache.key(TRACK, PROOFREAD), curated.curated_lyrics(TRACK))
     monkeypatch.setattr(curated, "_recordings", lambda: ())
-    session.configure("auto", 1, generation=1, choice_id=PROOFREAD, choice_request_id=0)
+    session.configure("cantonese", 1, generation=1, choice_id=PROOFREAD, choice_request_id=0)
     result = settle(session, [])
     assert result["lyrics"]["source"] == RAW.source and result["lyrics"]["proofread"] is None
     assert "unavailable" in session.selection_error
@@ -294,7 +294,7 @@ def test_local_source_is_selectable_before_online_discovery_finishes(worker, off
             Candidate(i, TRACK.title, ("Artist",), "Album", TRACK.duration) for i in range(1, 31))
     session.discover = discover
     settle(session, [])
-    session.configure("auto", 1, generation=1, discover=True)
+    session.configure("cantonese", 1, generation=1, discover=True)
     session.tick(lambda _: None)
     try:
         assert entered.wait(2)
@@ -303,7 +303,7 @@ def test_local_source_is_selectable_before_online_discovery_finishes(worker, off
         assert recordings[-1]["status"] == "loading"
         assert recordings[-1]["candidates"][0]["recording_id"] == PROOFREAD
         assert recordings[-1]["selected_id"] == PROOFREAD
-        session.configure("auto", 2, generation=1, choice_id=PROOFREAD, choice_request_id=1)
+        session.configure("cantonese", 2, generation=1, choice_id=PROOFREAD, choice_request_id=1)
         assert settle(session, [])["lyrics"]["recording_id"] == PROOFREAD
     finally:
         release.set()
@@ -335,7 +335,7 @@ def test_failed_proofread_refresh_retains_already_displayed_content(worker, monk
     session.choices.set(TRACK, PROOFREAD)
     before = settle(session, [])["lyrics"]
     monkeypatch.setattr(curated, "_recordings", lambda: ())
-    session.configure("auto", 1, generation=1, retry=True)
+    session.configure("cantonese", 1, generation=1, retry=True)
     assert settle(session, [])["lyrics"] == before
     assert session.choices.get(TRACK) == PROOFREAD
     fetch.assert_not_called()

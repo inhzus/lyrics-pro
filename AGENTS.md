@@ -106,7 +106,7 @@ not application rebuilds or new tests.
   matching to replace these decisions. The original automatic survey remains
   separate; `verify_proofread_collection` audits both catalogs.
 - Proofread assets can designate `supplied` spelling for mixed/unknown languages.
-  This is an effective Auto language, not an additional menu choice. Respect
+  This is an effective default language, not an additional menu choice. Respect
   explicit language overrides. Validate NetEase, LrcAPI and LRCLIB timing provenance.
 
 - Keep the provider order **NetEase → LrcAPI → LRCLIB**. A verified timed NetEase
@@ -131,9 +131,16 @@ not application rebuilds or new tests.
 - Pronunciation is local: ToJyutping processes the full original line for context;
   Taibun uses southern Taiwanese Tâi-lô, tone numbers, and no sandhi. Preserve
   simplified/traditional handling, Latin text, punctuation, and unknown Han markers.
-- Auto is an artist-based guess (Eason Chan/Cantonese, Wu Bai/Hokkien), not language
-  detection. A matching bundled proofread asset supplies its own language for Auto.
-  Explicit language overrides win. Other unknown artists show originals.
+- Pronunciation precedence is song override, selected proofread resource, then
+  global default (initially Cantonese). There is no Auto or artist-based guessing.
+  Song overrides allow Cantonese/Hokkien/Original; Use Default clears the override.
+  Global Original still permits inherited proofread spelling; song Original hides it.
+  Keep global settings in the existing native preference store; migrate Auto or
+  invalid values to Cantonese. The terminal uses only its explicit --language
+  option (default Cantonese), without reading or writing GUI song preferences.
+  Save song intent independently of lookup/annotation success, on a serial worker.
+  Reject stale song mutations by track/generation/revision, but acknowledge their
+  revision so native lyric updates cannot get stuck after a track switch.
   Do not fabricate lyrics, timestamps, or readings. Requests send metadata, not audio.
 - `curated.py` resolves pre-aligned assets under `src/lyrics_pro/data/proofread/`
   before cache/network access. Match normalized title and duration within two
@@ -162,6 +169,14 @@ All user data lives under `~/Library/Application Support/Lyrics Pro/`:
 - `recording-choices.json`: at most 256 exact-track choices, written atomically.
   Store only successful manual selections; Automatic clears a saved override after
   successful automatic lookup.
+- `preferences.sqlite3`: `song_languages` uses normalized title plus canonical artist
+  identity, excluding album/duration/provider and preserving Live/Remix titles.
+  Versioned SQLite with transactional writes, at most 1,000 persisted overrides and
+  1 MiB of preference payload. Import legacy `song-languages.json` once in a transaction,
+  retain the JSON as a backup, and never reimport after Use Default clears a choice.
+  Keep preferences separate from the evictable lyrics cache. Capacity/save failures
+  retain session intent and show a menu warning; do not evict saved choices. Re-resolve after every
+  selected lyric-source change. Preserve visible lyrics and browsing while annotating.
 - `Logs/app.log`: native events plus worker stderr. `Logs/cli.log`: terminal events.
   Each rotates at 2 MiB with four backups. Include useful metadata/timings, never
   full lyric bodies, artwork, or credentials.

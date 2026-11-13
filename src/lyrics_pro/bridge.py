@@ -22,7 +22,7 @@ from .diagnostics import event
 
 class Bridge:
     def __init__(self, emit, cancelled, commands, *, reader=read_playback, artwork_reader=read_artwork,
-                 language="auto", lyrics=None, controller=control_playback):
+                 language="cantonese", lyrics=None, controller=control_playback):
         self.emit = emit
         self.cancelled = cancelled
         self.commands = commands
@@ -102,6 +102,8 @@ class Bridge:
                             and (command.get("retry_artwork") or not self.cache.get(self.key, (None, 0))[0])):
                         self.reset_artwork(invalidate=True)
                     self.lyrics.configure(command["language"], command["request_id"],
+                                          **({"song_language": command["song_language"], "track_identity": command["track"]}
+                                             if command["command"] == "song_language" else {}),
                                           retry=command["command"] == "retry_lyrics",
                                           generation=command.get("generation"),
                                           **({"choice_id": command.get("recording_id", command.get("song_id")), "choice_request_id": command["choice_request_id"]}
@@ -210,11 +212,15 @@ def read_commands(stream, commands, cancelled):
                 if message.get("command") == "playback_control":
                     if valid_command(message):
                         commands.put(message)
-                elif message.get("command") in {"language", "retry_lyrics", "choose_recording", "forget_recording", "list_recordings"}:
+                elif message.get("command") in {"language", "song_language", "retry_lyrics", "choose_recording", "forget_recording", "list_recordings"}:
                     if (message.get("language") in LANGUAGES
                             and type(message.get("request_id")) is int and message["request_id"] >= 0
                             and ("retry_artwork" not in message or type(message["retry_artwork"]) is bool)
                             and (message["command"] == "language" or type(message.get("generation")) is int)
+                            and (message["command"] != "song_language" or
+                                 (isinstance(message.get("song_language"), str)
+                                  and message["song_language"] in LANGUAGES | {"default"}
+                                  and isinstance(message.get("track"), list) and len(message["track"]) == 4))
                             and (message["command"] != "choose_recording" or
                                  (recording_ref(message.get("recording_id", message.get("song_id"))) is not None
                                   and type(message.get("choice_request_id")) is int and message["choice_request_id"] >= 0))):
@@ -235,7 +241,7 @@ def main():
     setup(bridge=True)
     event("worker_start")
     parser = argparse.ArgumentParser()
-    parser.add_argument("--language", choices=sorted(LANGUAGES), default="auto")
+    parser.add_argument("--language", choices=sorted(LANGUAGES), default="cantonese")
     args = parser.parse_args()
     os.setpgrp()  # Parent can terminate this worker and its script children together.
     cancelled, commands = Event(), Queue()

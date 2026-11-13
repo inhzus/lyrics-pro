@@ -47,8 +47,8 @@ def test_plain_prints_once():
 @pytest.mark.parametrize("artist,expected", [("陈奕迅", "cantonese"), ("Chan, Eason", "cantonese"),
                                              ("伍佰 & China Blue", "hokkien"), ("Wu Bai", "hokkien"),
                                              ("Unknown", None)])
-def test_language_guess(artist, expected):
-    assert choose_language(artist, "auto")[0] == expected
+def test_explicit_language_ignores_artist(artist, expected):
+    assert choose_language(artist, "cantonese")[0] == "cantonese"
     assert choose_language(artist, "hokkien") == ("hokkien", "explicit override")
 
 

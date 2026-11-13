@@ -33,9 +33,10 @@ See [installation details](packaging/Install.txt) for more help.
 
 ## Use
 
-- **Pronunciation:** choose Cantonese, Hokkien, or original lyrics using the
-  bottom-right menu. Auto uses a proofread song's supplied spelling when available,
-  otherwise guesses from the artist; choose manually if it is wrong.
+- **Pronunciation:** the bottom-right menu saves a language for **This Song** or
+  changes the **Global Default**. **Use Default** uses proofread spelling when
+  available, otherwise the global language (initially Cantonese). Choose Original
+  for a song to hide spelling. Song preferences carry across albums.
 - **Wrong recording:** open **Recording** beside the pronunciation menu and choose
   a lyrics source. **Proofread** is a separate offline option when the title and
   duration match; Automatic prefers it. Choosing an online recording uses that
@@ -74,7 +75,8 @@ uv sync --locked
 uv run lyrics-pro --language cantonese
 ```
 
-Use `--language hokkien` for Taiwanese Hokkien, or omit the flag for Auto.
+Use `--language hokkien` for Taiwanese Hokkien, or omit the flag for Cantonese.
+The terminal does not use the macOS app's saved song preferences.
 The terminal client follows playback and prints lyrics; control playback in Music.
 Press Ctrl-C to exit.
 

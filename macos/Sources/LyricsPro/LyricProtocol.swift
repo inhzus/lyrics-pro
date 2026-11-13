@@ -1,15 +1,17 @@
 import Foundation
 
 enum PronunciationLanguage: String, CaseIterable, Decodable, Sendable {
-    case auto, cantonese, hokkien, original, supplied
+    case cantonese, hokkien, original, supplied
+    case inherit = "default"
 
     // Supplied spelling is an effective backend language, never a user preference.
-    static let choices: [Self] = [.auto, .cantonese, .hokkien, .original]
+    static let choices: [Self] = [.cantonese, .hokkien, .original]
+    static let songChoices: [Self] = [.inherit] + choices
 
     static let preferenceKey = "pronunciationLanguage"
     var shortLabel: String {
         switch self {
-        case .auto: "Auto"
+        case .inherit: "Default"
         case .cantonese: "Jyutping"
         case .hokkien: "Tâi-lô"
         case .original: "Original"
@@ -18,7 +20,7 @@ enum PronunciationLanguage: String, CaseIterable, Decodable, Sendable {
     }
     var label: String {
         switch self {
-        case .auto: "Auto pronunciation"
+        case .inherit: "Use Default"
         case .cantonese: "Cantonese · Jyutping"
         case .hokkien: "Hokkien · Tâi-lô"
         case .original: "Original only"
@@ -26,8 +28,10 @@ enum PronunciationLanguage: String, CaseIterable, Decodable, Sendable {
         }
     }
     static func saved(in defaults: UserDefaults = .standard) -> Self {
-        let value = Self(rawValue: defaults.string(forKey: preferenceKey) ?? "") ?? .auto
-        return choices.contains(value) ? value : .auto
+        let value = Self(rawValue: defaults.string(forKey: preferenceKey) ?? "") ?? .cantonese
+        let migrated = choices.contains(value) ? value : .cantonese
+        defaults.set(migrated.rawValue, forKey: preferenceKey)
+        return migrated
     }
 }
 
@@ -114,26 +118,27 @@ struct LyricUpdate: Decodable, Sendable {
     let message: String
     let lyrics: LiveLyrics?
     let selectionRevision: Int?
+    var songLanguage: PronunciationLanguage? = nil
+    var preferenceWarning: String? = nil
 
     enum CodingKeys: String, CodingKey {
         case requestID = "request_id", selectedLanguage = "selected_language"
         case selectionRevision = "selection_revision"
+        case songLanguage = "song_language", preferenceWarning = "preference_warning"
         case language, reason, status, message, lyrics
     }
 
     var languageDescription: String {
-        if language == .original { return "Original lyrics only" }
-        if language == .auto {
-            guard let selectedLanguage else { return "Auto · Choose a language to add pronunciation" }
-            let basis = lyrics?.proofread == nil ? "Artist-based guess" : "Proofread transcription"
-            return "Auto · \(selectedLanguage.label) · \(basis)"
-        }
-        return language.label
+        let effective = selectedLanguage ?? .original
+        let basis = reason == "song preference" ? "Song preference" :
+            (reason == "proofread transcription" ? "Proofread default" : "Global default")
+        return "\(basis) · \(effective.label)"
     }
 
     var isValid: Bool {
         guard requestID >= 0,
               PronunciationLanguage.choices.contains(language),
+              songLanguage == nil || PronunciationLanguage.songChoices.contains(songLanguage!),
               (selectionRevision ?? 0) >= 0,
               selectedLanguage == nil || selectedLanguage == .cantonese || selectedLanguage == .hokkien ||
               (selectedLanguage == .supplied && (lyrics == nil || lyrics?.proofread?.language == "supplied")) else { return false }

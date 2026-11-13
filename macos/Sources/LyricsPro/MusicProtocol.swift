@@ -128,6 +128,7 @@ struct LiveMusicState: Sendable {
     var artwork: Data?
     var artworkReceived = false
     var lyric: LyricUpdate?
+    var pronunciation: LyricUpdate?
     var recordings: RecordingUpdate?
     var lyricRequestID = 0
 
@@ -146,6 +147,7 @@ struct LiveMusicState: Sendable {
                 artwork = nil
                 artworkReceived = false
                 lyric = nil
+                pronunciation = nil
                 recordings = nil
             }
             generation = event.generation
@@ -161,6 +163,7 @@ struct LiveMusicState: Sendable {
             guard event.generation == generation, let identity, identity == event.track,
                   phase == .live, let update = event.lyric, update.requestID == lyricRequestID else { return }
             // Keep successful lyrics readable while an explicit refresh is pending.
+            pronunciation = update
             if update.status != .loading || lyric?.lyrics == nil { lyric = update }
         case "recordings":
             guard event.generation == generation, let identity, identity == event.track,
@@ -173,6 +176,7 @@ struct LiveMusicState: Sendable {
             artwork = nil
             artworkReceived = false
             lyric = nil
+            pronunciation = nil
             recordings = nil
             phase = event.code == "permission_denied" ? .denied : .failed
             message = event.message ?? "Cannot read Apple Music. Waiting to reconnect."
@@ -187,6 +191,7 @@ struct LiveMusicState: Sendable {
         artwork = nil
         artworkReceived = false
         lyric = nil
+        pronunciation = nil
         recordings = nil
         message = explanation
     }

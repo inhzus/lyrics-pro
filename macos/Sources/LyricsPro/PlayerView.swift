@@ -6,17 +6,17 @@ struct PlayerView: View {
 
     private var song: DemoSong { demo ?? .cantonese }
     private var snapshot: MusicSnapshot? { connection.state.playback }
-    private var title: String { demo != nil ? song.title : (snapshot?.hasTrack == true ? snapshot!.title : "Apple Music") }
+    private var title: String { demo != nil ? song.title : (snapshot?.hasTrack == true ? snapshot!.title : "") }
     private var subtitle: String {
         if demo != nil { return song.subtitle }
-        guard let snapshot, snapshot.hasTrack else { return "Your listening companion" }
+        guard let snapshot, snapshot.hasTrack else { return "" }
         return [snapshot.artist, snapshot.album].filter { !$0.isEmpty }.joined(separator: " — ")
     }
-    private var status: String {
+    private var status: String? {
         switch connection.state.phase {
         case .connecting: "Connecting…"
         case .live: snapshot?.state == "paused" ? "Paused" : "Playing"
-        case .closed, .stopped: "Waiting for Music"
+        case .closed, .stopped: nil
         case .denied: "Permission needed"
         case .failed: "Disconnected"
         }
@@ -93,8 +93,8 @@ struct PlayerView: View {
                 .buttonStyle(.plain)
                 .accessibilityLabel("Retry lyrics")
                 .help("Look up lyrics again and retry missing artwork")
-            } else {
-                Text(demo != nil ? "Demo · \(song.rawValue)" : status)
+            } else if let status = demo != nil ? "Demo · \(song.rawValue)" : status {
+                Text(status)
                     .font(.system(size: 12, weight: .medium))
                     .foregroundStyle(.white.opacity(0.55))
                     .fixedSize()
@@ -110,19 +110,22 @@ struct PlayerView: View {
             cover
                 .frame(width: side, height: side)
                 .shadow(color: .black.opacity(0.3), radius: 25, y: 16)
-            Text(title)
+            // Reserve the metadata rows without placeholder copy when Music has no song.
+            Text(title.isEmpty ? " " : title)
                 .font(.system(size: 22, weight: .semibold))
                 .foregroundStyle(.white.opacity(0.95))
                 .padding(.top, 25)
                 .lineLimit(3)
                 .help(title)
-            Text(subtitle)
+                .accessibilityHidden(title.isEmpty)
+            Text(subtitle.isEmpty ? " " : subtitle)
                 .font(.system(size: 14))
                 .foregroundStyle(.white.opacity(0.50))
                 .padding(.top, 6)
                 .fixedSize(horizontal: false, vertical: true)
                 .lineLimit(2)
                 .help(subtitle)
+                .accessibilityHidden(subtitle.isEmpty)
             if demo == nil {
                 PlaybackPanel(connection: connection, accent: song.accent)
                     .padding(.top, 20)
@@ -222,8 +225,7 @@ struct PlayerView: View {
                 Text("Demo content · Switch to Live Music for your song")
             } else {
                 RecordingPicker(connection: connection, accent: song.accent)
-                PronunciationMenu(language: connection.language, accent: song.accent,
-                                  select: connection.selectLanguage)
+                PronunciationMenu(connection: connection, accent: song.accent)
             }
         }
         .font(.system(size: 11))

@@ -46,7 +46,7 @@ def test_stale_track_results_are_discarded(capsys):
     with patch("lyrics_pro.cli.ThreadPoolExecutor", return_value=executor), \
          patch("lyrics_pro.cli.read_playback", side_effect=lambda: next(snapshots)), \
          patch("lyrics_pro.cli.time.sleep", side_effect=sleep):
-        run("auto")
+        run("cantonese")
     output = capsys.readouterr().out
     assert "STALE" not in output
     assert "CURRENT" in output
@@ -76,7 +76,7 @@ def test_retries_are_bounded(capsys):
          patch("lyrics_pro.cli.read_playback", return_value=track), \
          patch("lyrics_pro.cli.time.monotonic", side_effect=lambda: clock), \
          patch("lyrics_pro.cli.time.sleep", side_effect=sleep):
-        run("auto")
+        run("cantonese")
     assert len(executor.tasks) == 3
     assert "Lyrics unavailable" in capsys.readouterr().out
 
@@ -113,7 +113,7 @@ def test_transient_failure_is_retried_then_fallback_source_is_cached(capsys):
          patch("lyrics_pro.cli.read_playback", side_effect=lambda: next(snapshots)), \
          patch("lyrics_pro.cli.time.monotonic", side_effect=lambda: ticks * 10), \
          patch("lyrics_pro.cli.time.sleep", side_effect=sleep):
-        run("auto")
+        run("cantonese")
     assert primary.lookup.call_count == fallback.lookup.call_count == 2
     output = capsys.readouterr().out
     assert "Will retry" in output
@@ -121,7 +121,7 @@ def test_transient_failure_is_retried_then_fallback_source_is_cached(capsys):
     assert "No matching lyrics" not in output
 
 
-@pytest.mark.parametrize("language,has_spelling", [("auto", True), ("hokkien", True), ("original", False)])
+@pytest.mark.parametrize("language,has_spelling", [("cantonese", True), ("hokkien", True), ("original", False)])
 def test_curated_song_offline_with_unknown_artist(capsys, language, has_spelling):
     class ImmediateExecutor(Executor):
         def submit(self, fn, *args):
@@ -144,5 +144,7 @@ def test_curated_song_offline_with_unknown_artist(capsys, language, has_spelling
         run(language)
     output = capsys.readouterr().out
     assert "滿腹的怨氣不知從那說" in output
-    assert ("muá-pak ê hīn-khì" in output) == has_spelling
+    assert ("muá-pak ê hīn-khì" in output) == (language == "hokkien")
+    if language == "cantonese":
+        assert "mun5" in output
     assert "Proofread:" in output

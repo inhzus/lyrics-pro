@@ -18,8 +18,10 @@ struct MusicArtworkView: View {
                     VStack(spacing: 16) {
                         Image(systemName: "music.note")
                             .font(.system(size: geometry.size.width * 0.18, weight: .light))
-                        Text(loading ? "Loading artwork…" : "No artwork available")
-                            .font(.system(size: 14))
+                        if loading {
+                            Text("Loading artwork…")
+                                .font(.system(size: 14))
+                        }
                     }
                     .foregroundStyle(.white.opacity(0.4))
                 }
@@ -60,15 +62,16 @@ struct MusicStatusView: View {
 
     var body: some View {
         VStack(alignment: .leading, spacing: 22) {
-            Text("APPLE MUSIC")
-                .font(.system(size: 10, weight: .semibold))
-                .tracking(2)
-                .foregroundStyle(accent.opacity(0.8))
             Spacer()
-            Image(systemName: connection.state.phase == .denied ? "lock.open" : "waveform")
-                .font(.system(size: 36, weight: .light))
-                .foregroundStyle(accent)
-                .accessibilityHidden(true)
+            HStack(spacing: 12) {
+                Image(systemName: connection.state.phase == .denied ? "lock.open" : "waveform")
+                    .font(.system(size: 36, weight: .light))
+                    .foregroundStyle(accent)
+                    .accessibilityHidden(true)
+                Text("Apple Music")
+                    .font(.system(size: 14, weight: .semibold))
+                    .foregroundStyle(accent.opacity(0.8))
+            }
             Text(heading)
                 .font(.system(size: 34, weight: .bold))
                 .fixedSize(horizontal: false, vertical: true)
@@ -83,10 +86,6 @@ struct MusicStatusView: View {
                     .disabled(connection.restarting)
             }
             Spacer()
-            Label("Playback is controlled in Apple Music", systemImage: "music.note")
-                .font(.system(size: 12))
-                .foregroundStyle(.white.opacity(0.35))
-                .padding(.bottom, 32)
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .leading)
     }

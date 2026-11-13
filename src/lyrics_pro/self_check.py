@@ -8,8 +8,9 @@ from tempfile import TemporaryDirectory
 
 from .lyrics_cache import LyricsCache, annotation_version
 from .models import Lyrics, LyricLine, Playback
-from .pronunciation import HAN, Romanizer, normalize, choose_language
+from .pronunciation import HAN, Romanizer, normalize, resolve_language
 from .curated import curated_lyrics, curated_candidates, _recordings
+from .song_languages import SongLanguages
 
 
 def self_check():
@@ -27,7 +28,7 @@ def self_check():
     if (curated is None or len(curated.lines) != 58
             or curated.recording_id != "proofread:shao-nian-eh-an-la"
             or not curated.source.startswith("Proofread ")
-            or choose_language("Different credit", "auto", curated)[0] != "hokkien"
+            or resolve_language("cantonese", "default", curated)[0] != "hokkien"
             or romanizer.annotate(curated, "hokkien") != curated
             or curated.lines[3].pronunciation != "muá-pak ê hīn-khì m̄ tsai tùi dùi-thâu"
             or any(line.pronunciation for line in romanizer.annotate(curated, None).lines)):
@@ -43,7 +44,7 @@ def self_check():
         raise RuntimeError("Duplicate bundled proofread identities")
     for recording in all_recordings:
         raw = recording.lyrics
-        language, _ = choose_language("Unknown", "auto", raw)
+        language, _ = resolve_language("cantonese", "default", raw)
         if romanizer.annotate(raw, language) != raw:
             raise RuntimeError("Bundled supplied spelling was changed")
     with TemporaryDirectory(prefix="lyrics-pro-check-") as temporary:
@@ -57,6 +58,15 @@ def self_check():
         cache.put("proofread-check", curated)
         if cache.get("proofread-check") != curated:
             raise RuntimeError("Proofread cache round-trip failed")
+        preferences = SongLanguages(Path(temporary) / "preferences.sqlite3")
+        track = Playback("paused", "故鄉", "伍佰", "", 250)
+        preferences.save(preferences.set(track, "hokkien"))
+        preferences = SongLanguages(preferences.path)
+        if preferences.get(track) != "hokkien":
+            raise RuntimeError("Song preference SQLite round-trip failed")
+        preferences.save(preferences.set(track, "default"))
+        if SongLanguages(preferences.path).get(track) != "default":
+            raise RuntimeError("Song preference reset failed")
         # Exercise log I/O without modifying the user's real logs or logger setup.
         from logging.handlers import RotatingFileHandler
         import logging
