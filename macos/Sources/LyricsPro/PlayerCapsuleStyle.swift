@@ -34,13 +34,7 @@ struct PronunciationMenu: View {
                 Image(systemName: "chevron.down")
                     .font(.system(size: 9, weight: .semibold))
             }
-            .font(.system(size: 12, weight: .medium))
-            .foregroundStyle(hovering || focused ? .white : .white.opacity(0.8))
-            .padding(.horizontal, 13)
-            .padding(.vertical, 8)
-            .background(.white.opacity(hovering ? 0.10 : 0.055), in: Capsule())
-            .overlay(Capsule().strokeBorder(focused ? accent : .white.opacity(hovering ? 0.20 : 0.10), lineWidth: focused ? 2 : 1))
-            .contentShape(Capsule())
+            .playerCapsule(accent: accent, hovering: hovering, focused: focused)
         }
         .menuStyle(.button)
         .menuIndicator(.hidden)
@@ -68,14 +62,21 @@ struct PlayerCapsuleStyle: ButtonStyle {
 
         var body: some View {
             HStack(spacing: 7) { configuration.label }
-                .font(.system(size: 12, weight: .medium))
-                .foregroundStyle(hovering || focused ? .white : .white.opacity(0.8))
-                .padding(.horizontal, 13)
-                .padding(.vertical, 8)
-                .background(.white.opacity(configuration.isPressed ? 0.16 : (hovering ? 0.10 : 0.055)), in: Capsule())
-                .overlay(Capsule().strokeBorder(focused ? accent : .white.opacity(hovering ? 0.20 : 0.10), lineWidth: focused ? 2 : 1))
-                .contentShape(Capsule())
+                .playerCapsule(accent: accent, hovering: hovering, focused: focused, pressed: configuration.isPressed)
                 .onHover { hovering = $0 }
         }
+    }
+}
+
+extension View {
+    /// The footer's capsule look, shared by the Source button and the pronunciation menu.
+    func playerCapsule(accent: Color, hovering: Bool, focused: Bool, pressed: Bool = false) -> some View {
+        font(.system(size: 12, weight: .medium))
+            .foregroundStyle(hovering || focused ? .white : .white.opacity(0.8))
+            .padding(.horizontal, 13)
+            .padding(.vertical, 8)
+            .background(.white.opacity(pressed ? 0.16 : (hovering ? 0.10 : 0.055)), in: Capsule())
+            .overlay(Capsule().strokeBorder(focused ? accent : .white.opacity(hovering ? 0.20 : 0.10), lineWidth: focused ? 2 : 1))
+            .contentShape(Capsule())
     }
 }

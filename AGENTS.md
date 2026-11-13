@@ -220,6 +220,11 @@ nonfatal. Cache I/O stays on workers; native logging uses its serial queue.
   highlight. The play/pause icon communicates playback state without extra text.
 - Background colors come from artwork, crossfade, and animate only when appropriate
   for playback/window visibility. Honor Reduce Motion for background and scrolling.
+  Live songs take the reading highlight from the cover's dominant hue, lightened for
+  contrast (teal for grey covers); demos keep their own colours.
+- Empty, waiting, and error states share `StatusPanel`. The Preview menu (window presets,
+  demo songs) is hidden unless the `showPreviewMenu` default is set; for one launch use
+  `open -n "dist/Lyrics Pro.app" --args -showPreviewMenu YES`.
 - For interactive checks in this workspace, use the rightmost monitor when
   available. Preserve the user's playback state unless exercising controls, and
   restore it afterwards. Reopen the built app before claiming to have tested a new

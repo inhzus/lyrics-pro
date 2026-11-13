@@ -73,7 +73,7 @@ struct LyricSourceLabel: View {
                 }
             }
             .font(.system(size: 11))
-            .foregroundStyle(.white.opacity(0.50))
+            .foregroundStyle(.white.opacity(0.6))
             .lineLimit(1)
         }
     }

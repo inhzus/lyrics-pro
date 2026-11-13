@@ -40,7 +40,7 @@ struct PlaybackPanel: View {
                 Spacer()
                 Text(MusicSnapshot.timeLabel(duration))
             }
-            .font(.system(size: 11, design: .monospaced))
+            .font(.system(size: 11).monospacedDigit())
             .foregroundStyle(.white.opacity(0.4))
 
             HStack(spacing: 24) {
