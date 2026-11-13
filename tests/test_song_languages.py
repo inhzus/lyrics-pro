@@ -184,8 +184,8 @@ def test_capacity_failure_does_not_block_updates_to_existing_preferences(tmp_pat
 def session(tmp_path):
     store = SongLanguages(tmp_path / "preferences.sqlite3")
     worker = LyricSession(Event(), fetch=lambda *_: RAW, song_languages=store)
-    worker.pool.shutdown()
-    worker.pool = ControlledPool()
+    worker.lookups.pool.shutdown()
+    worker.lookups.pool = ControlledPool()
     worker.preferences_pool.shutdown()
     worker.preferences_pool = ControlledPool()
     worker.update_track(A, 1)
@@ -199,9 +199,9 @@ def test_song_override_saved_during_fetch_and_shared_across_albums(session):
     worker, store = session
     updates = []
     worker.tick(updates.append)
-    pending = worker.pending
-    worker.configure("cantonese", 1, generation=1, song_language="original", track_identity=A.key)
-    assert worker.pending == pending and not pending[3].is_set()
+    pending = worker.lookups.job
+    worker.set_song_language("cantonese", 1, "original", generation=1, track_identity=A.key)
+    assert worker.lookups.job == pending and not pending.token.is_set()
     worker.preferences_pool.finish()
     assert SongLanguages(store.path).get(A) == "original"
     result = settle(worker, updates)
@@ -215,35 +215,35 @@ def test_song_override_saved_during_fetch_and_shared_across_albums(session):
 def test_stale_song_commands_never_change_or_save_preferences(session):
     worker, store = session
     for revision, (generation, identity) in enumerate([(0, A.key), (1, B.key)], 1):
-        worker.configure("cantonese", revision, generation=generation, song_language="hokkien", track_identity=identity)
+        worker.set_song_language("cantonese", revision, "hokkien", generation=generation, track_identity=identity)
     assert store.get(A) == "default" and store.get(B) == "default"
     assert not worker.preferences_pool.jobs and worker.request_id == 2
     assert settle(worker, [])["request_id"] == 2
-    worker.configure("cantonese", 3, generation=1, song_language="hokkien", track_identity=A.key)
-    worker.configure("cantonese", 3, generation=1, song_language="original", track_identity=A.key)
+    worker.set_song_language("cantonese", 3, "hokkien", generation=1, track_identity=A.key)
+    worker.set_song_language("cantonese", 3, "original", generation=1, track_identity=A.key)
     assert store.get(A) == "hokkien" and len(worker.preferences_pool.jobs) == 1
 
 
 def test_override_cancels_old_annotation_and_default_clears_it(session):
     worker, store = session
     worker.tick(lambda _: None)
-    worker.pool.finish()
+    worker.lookups.pool.finish()
     worker.tick(lambda _: None)
-    old = worker.pending
-    worker.configure("cantonese", 1, generation=1, song_language="original", track_identity=A.key)
-    assert old[3].is_set()
-    worker.pool.finish()
+    old = worker.lookups.job
+    worker.set_song_language("cantonese", 1, "original", generation=1, track_identity=A.key)
+    assert old.token.is_set()
+    worker.lookups.pool.finish()
     assert settle(worker, [])["selected_language"] is None
-    worker.configure("hokkien", 2)
+    worker.set_language("hokkien", 2)
     assert settle(worker, [])["selected_language"] is None
-    worker.configure("hokkien", 3, generation=1, song_language="default", track_identity=A.key)
+    worker.set_song_language("hokkien", 3, "default", generation=1, track_identity=A.key)
     assert settle(worker, [])["selected_language"] == "hokkien"
     assert store.get(A) == "default"
 
 
 def test_failed_save_reports_warning_but_keeps_session_preference(session):
     worker, store = session
-    worker.configure("cantonese", 1, generation=1, song_language="original", track_identity=A.key)
+    worker.set_song_language("cantonese", 1, "original", generation=1, track_identity=A.key)
     with patch.object(store, "save", side_effect=OSError("read-only")):
         # ControlledPool captured the bound method; replace that job's function.
         future, _, args = worker.preferences_pool.jobs[0]

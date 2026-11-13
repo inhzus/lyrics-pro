@@ -97,13 +97,13 @@ def test_lrcapi_choice_commits_after_success_and_emits_qualified_selection(tmp_p
         return chosen
     worker = LyricSession(Event(), language="original", fetch=lambda *_: RAW,
                           choices=RecordingChoices(tmp_path / "choices.json"), selected_fetch=selected)
-    worker.pool.shutdown(); worker.pool = ControlledPool()
+    worker.lookups.pool.shutdown(); worker.lookups.pool = ControlledPool()
     updates, recordings = [], []
     try:
         worker.update_track(TRACK, 1)
         settle(worker, updates)
-        worker.candidates = provider([RECORD]).alternatives(TRACK)
-        worker.configure("original", 1, generation=1, choice_request_id=0, choice_id="lrcapi:1447841672")
+        worker.recordings.candidates = provider([RECORD]).alternatives(TRACK)
+        worker.choose_recording("original", 1, "lrcapi:1447841672", generation=1, choice_request_id=0)
         assert worker.choices.get(TRACK) is None
         assert settle(worker, updates)["lyrics"]["source"] == chosen.source
         worker.tick(updates.append, recordings.append)

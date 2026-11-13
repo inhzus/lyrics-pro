@@ -26,7 +26,8 @@ candidate is a separate, explicitly requested integration step.
   `matching.py` (recording identity), `netease.py` / `lrcapi.py` / `lrclib.py`,
   and `chain.py` (provider order, explicit recording lookup and discovery).
   `lyric_session.py` coordinates asynchronous lookup, annotation, retries, and
-  recording choices.
+  recording choices through explicit intent methods; `recording_discovery.py`
+  owns alternative recordings and `jobs.py` the single-flight cancellable jobs.
 - `packaging/` owns the frozen worker, dependency lock, signing checks, and ZIP
   portability verification. Fish entry points are in `scripts/`.
 - Tests live in `tests/` and `macos/Tests/LyricsProTests/`. Keep generated files,
