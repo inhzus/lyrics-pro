@@ -6,18 +6,12 @@ struct PlayerView: View {
     @ObservedObject var connection: MusicConnection
     @AppStorage(LyricTextScale.preferenceKey) private var textScale = LyricTextScale.standard
     @PaletteStorage private var palette = ArtworkPalette.neutral
-    private var demo: DemoSong? { connection.demo }
 
-    private var song: DemoSong { demo ?? .cantonese }
-    /// Demo songs keep their designed colour; live songs take theirs from the artwork.
-    private var accent: Color {
-        if demo != nil { return song.accent }
-        return Color(red: palette.accent.red, green: palette.accent.green, blue: palette.accent.blue)
-    }
+    /// Taken from the artwork, like the background.
+    private var accent: Color { Color(red: palette.accent.red, green: palette.accent.green, blue: palette.accent.blue) }
     private var snapshot: MusicSnapshot? { connection.state.playback }
-    private var title: String { demo != nil ? song.title : (snapshot?.hasTrack == true ? snapshot!.title : "") }
+    private var title: String { snapshot?.hasTrack == true ? snapshot!.title : "" }
     private var subtitle: String {
-        if demo != nil { return song.subtitle }
         guard let snapshot, snapshot.hasTrack else { return "" }
         return [snapshot.artist, snapshot.album].filter { !$0.isEmpty }.joined(separator: " — ")
     }
@@ -31,13 +25,9 @@ struct PlayerView: View {
         }
     }
 
-    @ViewBuilder private var cover: some View {
-        if demo != nil {
-            ArtworkView(song: song)
-        } else {
-            MusicArtworkView(image: connection.artworkImage,
-                             loading: snapshot?.hasTrack == true && !connection.state.artworkReceived)
-        }
+    private var cover: some View {
+        MusicArtworkView(image: connection.artworkImage,
+                         loading: snapshot?.hasTrack == true && !connection.state.artworkReceived)
     }
 
     var body: some View {
@@ -56,9 +46,7 @@ struct PlayerView: View {
                             .frame(width: artworkSide)
                             .padding(.top, 20)
                         Group {
-                            if demo != nil {
-                                DemoLyricsPanel(song: song, fontSize: lyricSize)
-                            } else if connection.state.phase == .live {
+                            if connection.state.phase == .live {
                                 LiveLyricsView(connection: connection, accent: accent,
                                                fontSize: lyricSize)
                             } else {
@@ -80,14 +68,14 @@ struct PlayerView: View {
         ArtworkBackground(artwork: connection.state.artwork, generation: connection.state.generation,
                           loading: snapshot?.hasTrack == true && !connection.state.artworkReceived,
                           connected: connection.state.phase == .live,
-                          playing: connection.presentation.playing, demo: demo, palette: $palette)
+                          playing: connection.presentation.playing, palette: $palette)
     }
 
     private func header(trailingInset: CGFloat) -> some View {
         // The traffic lights already mark the window; only Retry or a status sits here.
         HStack(spacing: 0) {
             Spacer()
-            if demo == nil && connection.state.phase == .live {
+            if connection.state.phase == .live {
                 Button { connection.retryLyrics() } label: {
                     Image(systemName: "arrow.clockwise")
                         .font(.system(size: 13, weight: .medium))
@@ -97,7 +85,7 @@ struct PlayerView: View {
                 .buttonStyle(.plain)
                 .accessibilityLabel("Retry lyrics")
                 .help("Look up lyrics again and retry missing artwork")
-            } else if let status = demo != nil ? "Demo · \(song.rawValue)" : status {
+            } else if let status {
                 Text(status)
                     .font(.system(size: 12, weight: .medium))
                     .foregroundStyle(.white.opacity(0.55))
@@ -129,38 +117,26 @@ struct PlayerView: View {
                 .lineLimit(2)
                 .help(subtitle)
                 .accessibilityHidden(subtitle.isEmpty)
-            if demo == nil {
-                // Without a song the controls can't do anything; keep their space so nothing jumps.
-                let hasTrack = snapshot?.hasTrack == true
-                PlaybackPanel(connection: connection, accent: accent)
-                    .padding(.top, 20)
-                    .textSelection(.disabled)
-                    .opacity(hasTrack ? 1 : 0)
-                    .allowsHitTesting(hasTrack)
-                    .accessibilityHidden(!hasTrack)
-            } else {
-                DemoTimeline()
-                    .padding(.top, 25)
-            }
+            // Without a song the controls can't do anything; keep their space so nothing jumps.
+            let hasTrack = snapshot?.hasTrack == true
+            PlaybackPanel(connection: connection, accent: accent)
+                .padding(.top, 20)
+                .textSelection(.disabled)
+                .opacity(hasTrack ? 1 : 0)
+                .allowsHitTesting(hasTrack)
+                .accessibilityHidden(!hasTrack)
         }
         .textSelection(.enabled)
     }
 
     private var footer: some View {
         HStack(spacing: 7) {
-            if demo != nil {
-                Image(systemName: "sparkle").foregroundStyle(accent.opacity(0.65))
-                Text("Original demo lyrics & artwork")
-            } else if connection.state.phase == .live {
+            if connection.state.phase == .live {
                 LyricSourceLabel(connection: connection)
             }
             Spacer()
-            if demo != nil {
-                Text("Demo content · Switch to Live Music for your song")
-            } else {
-                RecordingPicker(connection: connection, accent: accent)
-                PronunciationMenu(connection: connection, accent: accent)
-            }
+            RecordingPicker(connection: connection, accent: accent)
+            PronunciationMenu(connection: connection, accent: accent)
         }
         .font(.system(size: 11))
         .foregroundStyle(.white.opacity(0.6))

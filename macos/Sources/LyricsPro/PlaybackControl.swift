@@ -189,7 +189,7 @@ struct PlaybackControlState {
         skipIntent = nil
         message = nil
         // Keep the physical in-flight slot until its result/timeout. This prevents
-        // new-track or demo transitions from issuing concurrent Apple Events.
+        // new-track transitions from issuing concurrent Apple Events.
         rebase(now: now)
     }
 

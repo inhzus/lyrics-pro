@@ -5,7 +5,7 @@ import AppKit
 struct LyricsProApp: App {
     @NSApplicationDelegateAdaptor(AppDelegate.self) private var delegate
     @AppStorage(WindowSettings.keepOnTopKey) private var keepOnTop = false
-    /// Development tools (window presets, demo songs). Enable for one launch with
+    /// Development window-size presets. Enable for one launch with
     /// `open -n "Lyrics Pro.app" --args -showPreviewMenu YES`.
     @AppStorage("showPreviewMenu") private var showPreviewMenu = false
 
@@ -39,13 +39,6 @@ struct LyricsProApp: App {
                         .keyboardShortcut("1", modifiers: [.command, .option])
                     Button("Default Window (1280 × 800)") { resizeWindow(width: 1280, height: 800) }
                         .keyboardShortcut("2", modifiers: [.command, .option])
-                    Divider()
-                    Picker("Display", selection: Binding(get: { delegate.connection.demo }, set: { delegate.connection.demo = $0 })) {
-                        Text("Live Music").tag(nil as DemoSong?)
-                        ForEach(DemoSong.allCases) { sample in
-                            Text("Demo · \(sample.rawValue)").tag(Optional(sample))
-                        }
-                    }
                 }
             }
         }
