@@ -2,6 +2,7 @@ import SwiftUI
 
 struct PlayerView: View {
     @ObservedObject var connection: MusicConnection
+    @AppStorage(LyricTextScale.preferenceKey) private var textScale = LyricTextScale.standard
     private var demo: DemoSong? { connection.demo }
 
     private var song: DemoSong { demo ?? .cantonese }
@@ -36,6 +37,7 @@ struct PlayerView: View {
             let compact = geometry.size.width < 1100
             let inset: CGFloat = compact ? 32 : 64
             let gap: CGFloat = compact ? 40 : 80
+            let lyricSize = (compact ? 30 : 38) * LyricTextScale.clamped(textScale)
             let artworkSide = min(440, (geometry.size.width - inset * 2 - gap) * 0.38, (geometry.size.height - 240) * 0.70)
             ZStack {
                 background
@@ -47,10 +49,10 @@ struct PlayerView: View {
                             .padding(.top, 20)
                         Group {
                             if demo != nil {
-                                DemoLyricsPanel(song: song, fontSize: compact ? 30 : 38)
+                                DemoLyricsPanel(song: song, fontSize: lyricSize)
                             } else if connection.state.phase == .live {
                                 LiveLyricsView(connection: connection, accent: song.accent,
-                                               fontSize: compact ? 30 : 38)
+                                               fontSize: lyricSize)
                             } else {
                                 MusicStatusView(connection: connection, accent: song.accent)
                             }

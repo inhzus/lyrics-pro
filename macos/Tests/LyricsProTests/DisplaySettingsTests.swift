@@ -36,4 +36,16 @@ struct DisplaySettingsTests {
         #expect(cache.lyrics(other, in: .simplified).lines[0].text == "发现")
         #expect(cache.lyrics(other, in: .traditional).lines[0].text == "發現")
     }
+
+    @Test func textScaleStepsSnapAndStayInRange() {
+        #expect(LyricTextScale.bigger(1.0) == 1.1 && LyricTextScale.smaller(1.0) == 0.9)
+        #expect(LyricTextScale.bigger(1.5) == 1.5 && LyricTextScale.smaller(0.8) == 0.8)
+        #expect(LyricTextScale.clamped(1.1000000000000001) == 1.1 && LyricTextScale.clamped(1.04) == 1.0)
+        #expect(LyricTextScale.clamped(9) == 1.5 && LyricTextScale.clamped(-1) == 0.8)
+        #expect(LyricTextScale.clamped(.nan) == 1.0 && LyricTextScale.clamped(.infinity) == 1.0)
+        #expect(LyricTextScale.label(1.2) == "120 %")
+        var value = 0.8
+        for _ in 0..<7 { value = LyricTextScale.bigger(value) }
+        #expect(value == 1.5)
+    }
 }
