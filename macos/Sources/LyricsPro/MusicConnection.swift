@@ -20,121 +20,90 @@ final class MusicConnection: ObservableObject {
     private var clockTask: Task<Void, Never>?
     private static var now: Double { ProcessInfo.processInfo.systemUptime }
     private var controlRevision = 0
-    private var process: Process?
-    private var input: FileHandle?
-    private var session: UUID?
+    private var worker: WorkerProcess?
     private var receivedReady = false
-    private let commandQueue = DispatchQueue(label: "lyrics-pro.commands")
 
     func start() {
-        guard process == nil else { return }
+        guard worker == nil else { return }
         AppLog.shared.write("worker_start_requested")
-        // A worker can exit between isRunning and a pipe write. Report EPIPE
-        // through the connection state instead of terminating the native app.
-        signal(SIGPIPE, SIG_IGN)
         state = LiveMusicState()
         controls = PlaybackControlState()
         refreshPresentation()
         artworkImage = nil
+        let launch = BackendLaunch(bundleURL: Bundle.main.bundleURL,
+                                   inheritedEnvironment: ProcessInfo.processInfo.environment)
+        guard FileManager.default.isExecutableFile(atPath: launch.executable.path) else {
+            state.fail("Lyrics Pro's bundled worker is missing. Replace the app with a complete copy, then reopen it.")
+            return
+        }
+        let worker = WorkerProcess(
+            launch: launch, arguments: ["--language", language.rawValue],
+            onEvent: { [weak self] worker, event, artwork in self?.receive(event, from: worker, artwork: artwork) },
+            onFailure: { [weak self] worker, failure in self?.workerFailed(worker, failure) })
         do {
-            let launch = BackendLaunch(bundleURL: Bundle.main.bundleURL,
-                                       inheritedEnvironment: ProcessInfo.processInfo.environment)
-            guard FileManager.default.isExecutableFile(atPath: launch.executable.path) else {
-                state.fail("Lyrics Pro's bundled worker is missing. Replace the app with a complete copy, then reopen it.")
-                return
-            }
-            let worker = Process()
-            let stdin = Pipe(), stdout = Pipe(), stderr = Pipe()
-            let run = UUID()
-            session = run
-            receivedReady = false
-            worker.executableURL = launch.executable
-            worker.arguments = ["--language", language.rawValue]
-            worker.currentDirectoryURL = launch.workingDirectory
-            worker.environment = launch.environment
-            worker.standardInput = stdin
-            worker.standardOutput = stdout
-            worker.standardError = stderr
-            worker.terminationHandler = { [weak self] finished in
-                AppLog.shared.write("worker_exit", "status=\(finished.terminationStatus)")
-                // Reap orphaned scripts even after an unexpected worker crash.
-                kill(-finished.processIdentifier, SIGTERM)
-                Task { @MainActor [weak self] in
-                    guard let self, self.session == run else { return }
-                    self.session = nil
-                    self.process = nil
-                    self.closeInput()
-                    self.artworkImage = nil
-                    self.state.fail("The Music connection stopped (exit \(finished.terminationStatus)). Choose Reconnect to try again.")
-                    self.controls.disconnect()
-                    self.clockTask?.cancel()
-                    self.refreshPresentation()
-                }
-            }
-            try worker.run()
-            process = worker
-            input = stdin.fileHandleForWriting
-            clockTask?.cancel()
-            clockTask = Task { [weak self] in
-                while !Task.isCancelled {
-                    try? await Task.sleep(for: .milliseconds(100))
-                    guard !Task.isCancelled, let self else { return }
-                    var updated = self.controls
-                    if updated.expire(now: Self.now) { self.controls = updated }
-                    self.dispatchNextControl()
-                    self.refreshPresentation()
-                }
-            }
-            // Closing the parent's copies ensures EOF is observable on process exit.
-            try? stdin.fileHandleForReading.close()
-            try? stdout.fileHandleForWriting.close()
-            try? stderr.fileHandleForWriting.close()
-
-            DispatchQueue(label: "lyrics-pro.events").async { [weak self] in
-                let handle = stdout.fileHandleForReading
-                defer { try? handle.close() }
-                do {
-                    try EventStream.read(from: handle) { event in
-                        // Decode/downsample on the event queue; the UI only wraps the immutable bitmap.
-                        var artwork: DecodedArtwork?
-                        if case .artwork(let image) = event.payload { artwork = DecodedArtwork(base64: image) }
-                        DispatchQueue.main.async { [weak self] in self?.receive(event, session: run, artwork: artwork) }
-                    }
-                } catch {
-                    AppLog.shared.write("bridge_read_error", String(describing: error))
-                    Task { @MainActor [weak self] in
-                        guard let self, self.session == run else { return }
-                        await self.shutdown()
-                        self.state.fail("The Music worker returned invalid data. Rebuild the app and choose Reconnect.")
-                    }
-                }
-            }
-            // Drain stderr separately so diagnostics can never fill a pipe and stall polling.
-            DispatchQueue(label: "lyrics-pro.diagnostics").async {
-                let handle = stderr.fileHandleForReading
-                defer { try? handle.close() }
-                while true {
-                    let data = handle.availableData
-                    if data.isEmpty { break }
-                    AppLog.shared.write("worker", String(decoding: data.prefix(4096), as: UTF8.self))
-                }
-            }
-            Task { [weak self] in
-                try? await Task.sleep(for: .seconds(8))
-                guard let self, self.session == run, !self.receivedReady else { return }
-                await self.shutdown()
-                self.state.fail("The Music worker did not start. Check the Python environment and choose Reconnect.")
-            }
+            try worker.start()
         } catch {
             AppLog.shared.write("worker_start_failed", String(describing: error))
-            process = nil
-            session = nil
             state.fail("Could not start the Music connection: \(error.localizedDescription)")
+            return
+        }
+        self.worker = worker
+        receivedReady = false
+        startClock()
+        watchReady(worker)
+    }
+
+    /// Expires unconfirmed controls and advances the shared playback clock.
+    private func startClock() {
+        clockTask?.cancel()
+        clockTask = Task { [weak self] in
+            while !Task.isCancelled {
+                try? await Task.sleep(for: .milliseconds(100))
+                guard !Task.isCancelled, let self else { return }
+                var updated = self.controls
+                if updated.expire(now: Self.now) { self.controls = updated }
+                self.dispatchNextControl()
+                self.refreshPresentation()
+            }
         }
     }
 
-    private func receive(_ event: BridgeEvent, session run: UUID, artwork: DecodedArtwork?) {
-        guard session == run else { return }
+    private func watchReady(_ worker: WorkerProcess) {
+        Task { [weak self] in
+            try? await Task.sleep(for: .seconds(8))
+            guard let self, self.worker === worker, !self.receivedReady else { return }
+            self.stop(worker, explaining: "The Music worker did not start. Check the Python environment and choose Reconnect.")
+        }
+    }
+
+    private func workerFailed(_ worker: WorkerProcess, _ failure: WorkerProcess.Failure) {
+        guard self.worker === worker else { return }
+        switch failure {
+        case .exited(let status):
+            self.worker = nil
+            artworkImage = nil
+            state.fail("The Music connection stopped (exit \(status)). Choose Reconnect to try again.")
+            controls.disconnect()
+            clockTask?.cancel()
+            refreshPresentation()
+        case .invalidOutput:
+            stop(worker, explaining: "The Music worker returned invalid data. Rebuild the app and choose Reconnect.")
+        case .writeFailed:
+            stop(worker, explaining: "Could not send a request to the Music worker. Choose Reconnect to try again.")
+        }
+    }
+
+    /// Stops `worker` if it is still current and reports why.
+    private func stop(_ worker: WorkerProcess, explaining explanation: String) {
+        Task {
+            guard self.worker === worker else { return }
+            await shutdown()
+            state.fail(explanation)
+        }
+    }
+
+    private func receive(_ event: BridgeEvent, from worker: WorkerProcess, artwork: DecodedArtwork?) {
+        guard self.worker === worker else { return }
         if case .ready = event.payload { receivedReady = true }
         let previousArtwork = state.artwork
         state.apply(event)
@@ -222,8 +191,7 @@ final class MusicConnection: ObservableObject {
 
     func control(_ action: PlaybackAction, position: Double? = nil, resumeFollowing: Bool = false,
                  expectedGeneration: Int? = nil) {
-        guard canControl, let track = state.identity,
-              let process, process.isRunning else { return }
+        guard canControl, let track = state.identity, worker?.isRunning == true else { return }
         guard !action.isSkip || !controls.skipBusy else { return }
         if let expectedGeneration, expectedGeneration != state.generation { return }
         var target = position
@@ -242,10 +210,9 @@ final class MusicConnection: ObservableObject {
 
     private func dispatchNextControl() {
         guard canControl, controls.inFlight == nil, !controls.queued.isEmpty,
-              let input, let run = session, process?.isRunning == true,
+              let worker, worker.isRunning,
               let command = controls.takeNext(now: Self.now) else { return }
-        guard let data = try? WorkerCommand.playbackControl(command).frame() else { return }
-        writeCommand(data, input: input, session: run)
+        worker.send(.playbackControl(command))
     }
 
     private func refreshPresentation() {
@@ -258,78 +225,18 @@ final class MusicConnection: ObservableObject {
 
     /// Sends a lyric command with a new request revision and the current generation.
     private func sendLyricCommand(_ make: (_ requestID: Int, _ generation: Int) -> WorkerCommand) {
-        guard let process, let input, let run = session, process.isRunning else { return }
-        let command = make(state.nextLyricRequestID(), state.generation)
-        guard let data = try? command.frame() else { return }
-        writeCommand(data, input: input, session: run)
-    }
-
-    private func writeCommand(_ data: Data, input: FileHandle, session run: UUID) {
-        let commandData = data
-        commandQueue.async { [weak self] in
-            do {
-                try input.write(contentsOf: commandData)
-            } catch {
-                Task { @MainActor [weak self] in
-                    guard let self, self.session == run else { return }
-                    await self.shutdown()
-                    self.state.fail("Could not send a request to the Music worker. Choose Reconnect to try again.")
-                }
-            }
-        }
-    }
-
-    private func closeInput() {
-        let handle = input
-        input = nil
-        commandQueue.async { try? handle?.close() }
+        guard let worker, worker.isRunning else { return }
+        worker.send(make(state.nextLyricRequestID(), state.generation))
     }
 
     func shutdown() async {
         AppLog.shared.write("worker_shutdown_requested")
-        session = nil // Ignore all output queued by the previous worker.
+        let worker = self.worker
+        self.worker = nil // Ignore all output queued by the previous worker.
         clockTask?.cancel()
         clockTask = nil
         controls.disconnect()
         refreshPresentation()
-        let worker = process
-        process = nil
-        // EOF is sufficient and avoids writing to a pipe whose worker just died.
-        closeInput()
-        guard let worker else { return }
-        if worker.isRunning { worker.terminate() }
-        // Wait away from the UI thread. Signals/EOF normally stop the worker within
-        // 100 ms; a bounded group kill also covers a stuck script or worker.
-        await Task.detached {
-            let deadline = Date().addingTimeInterval(2)
-            while worker.isRunning && Date() < deadline {
-                try? await Task.sleep(for: .milliseconds(50))
-            }
-            if worker.isRunning {
-                kill(-worker.processIdentifier, SIGKILL)
-                kill(worker.processIdentifier, SIGKILL)
-            }
-            worker.waitUntilExit()
-        }.value
+        await worker?.stop()
     }
-}
-
-@MainActor
-final class AppDelegate: NSObject, NSApplicationDelegate {
-    let connection = MusicConnection()
-
-    func applicationDidFinishLaunching(_ notification: Notification) {
-        AppLog.shared.write("app_start", "version=\(Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") ?? "unknown")")
-    }
-
-    func applicationShouldTerminate(_ sender: NSApplication) -> NSApplication.TerminateReply {
-        Task {
-            await connection.shutdown()
-            AppLog.shared.write("app_stop")
-            sender.reply(toApplicationShouldTerminate: true)
-        }
-        return .terminateLater
-    }
-
-    func applicationShouldTerminateAfterLastWindowClosed(_ sender: NSApplication) -> Bool { true }
 }
