@@ -122,6 +122,37 @@ def test_missing_artwork_is_cached_and_retry_invalidates_it(bridge):
     assert len(calls) == 2
 
 
+def test_script_failing_after_cancellation_is_a_cancellation():
+    # Quitting can stop an in-flight poll; that failure must not read as a Music error.
+    cancelled = Event()
+    popen = subprocess.Popen
+
+    def launch(*args, **kwargs):
+        child = popen(*args, **kwargs)
+        cancelled.set()
+        return child
+
+    script = [sys.executable, "-c", "import sys; sys.exit(1)"]
+    with patch("lyrics_pro.music.subprocess.Popen", side_effect=launch):
+        with pytest.raises(MusicCancelled):
+            run_script(script, timeout=4, cancelled=cancelled)
+    assert run_script(script, timeout=4, cancelled=Event()).returncode == 1
+
+
+def test_music_error_during_shutdown_is_not_reported(bridge):
+    worker, events, current = bridge
+    worker.tick()
+    count = len(events)
+    current[0] = MusicError("Cannot read Music; waiting to reconnect.")
+    worker.cancelled.set()
+    with patch("lyrics_pro.bridge.event") as log:
+        worker.tick()
+    assert len(events) == count and not log.called
+    worker.cancelled.clear()
+    worker.tick()
+    assert events[-1]["type"] == "status" and events[-1]["payload"]["code"] == "music_unavailable"
+
+
 def test_cancelled_script_is_reaped():
     cancelled, children = Event(), []
     popen = subprocess.Popen

@@ -52,6 +52,10 @@ def run_script(args: list[str], *, timeout: float, cancelled: Event | None = Non
                 raise subprocess.TimeoutExpired(args, timeout)
             try:
                 stdout, stderr = process.communicate(timeout=min(0.1, remaining))
+                # A script that ends after cancellation was usually stopped by it;
+                # its exit status is not evidence about Music.
+                if cancelled.is_set():
+                    raise MusicCancelled()
                 return subprocess.CompletedProcess(args, process.returncode, stdout, stderr)
             except subprocess.TimeoutExpired:
                 continue
