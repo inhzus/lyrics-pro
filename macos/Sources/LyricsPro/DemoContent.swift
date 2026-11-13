@@ -132,7 +132,7 @@ struct DemoTimeline: View {
                 Text("DEMO TIMELINE")
                     .font(.system(size: 9, weight: .medium)).tracking(1.4)
             }
-            .font(.system(size: 11, design: .monospaced))
+            .font(.system(size: 11).monospacedDigit())
             .foregroundStyle(.white.opacity(0.35))
         }
         .accessibilityElement(children: .ignore)
