@@ -80,7 +80,7 @@ struct LyricProtocolTests {
         #expect(valid.isValid && valid.candidates.first?.id == "netease:5284269")
         #expect(valid.manual == false)
         #expect(try decode([]).isValid)
-        #expect(try !decode([], status: "unknown").isValid)
+        #expect(throws: (any Error).self) { try decode([], status: "unknown") }
         #expect(try !decode([candidate, candidate]).isValid)
         let many = (1...30).map { id in candidate.merging(["recording_id": "netease:\(id)"]) { _, new in new } }
         #expect(try decode(many).isValid)

@@ -47,7 +47,7 @@ struct PlayerView: View {
                             .padding(.top, 20)
                         Group {
                             if demo != nil {
-                                lyricsPanel(fontSize: compact ? 30 : 38)
+                                DemoLyricsPanel(song: song, fontSize: compact ? 30 : 38)
                             } else if connection.state.phase == .live {
                                 LiveLyricsView(connection: connection, accent: song.accent,
                                                fontSize: compact ? 30 : 38)
@@ -131,85 +131,11 @@ struct PlayerView: View {
                     .padding(.top, 20)
                     .textSelection(.disabled)
             } else {
-                VStack(spacing: 9) {
-                    GeometryReader { geometry in
-                        ZStack(alignment: .leading) {
-                            Capsule().fill(.white.opacity(0.13))
-                            Capsule().fill(.white.opacity(0.65)).frame(width: geometry.size.width * 0.28)
-                        }
-                    }
-                    .frame(height: 4)
-                    HStack {
-                        Text("0:42")
-                        Spacer()
-                        Text("2:30")
-                    }
-                    .overlay {
-                        Text("DEMO TIMELINE")
-                            .font(.system(size: 9, weight: .medium)).tracking(1.4)
-                    }
-                    .font(.system(size: 11, design: .monospaced))
-                    .foregroundStyle(.white.opacity(0.35))
-                }
-                .padding(.top, 25)
-                .accessibilityElement(children: .ignore)
-                .accessibilityLabel("Demo progress: 42 seconds of 2 minutes 30 seconds")
+                DemoTimeline()
+                    .padding(.top, 25)
             }
         }
         .textSelection(.enabled)
-    }
-
-    private func lyricsPanel(fontSize: CGFloat) -> some View {
-        VStack(alignment: .leading, spacing: 16) {
-            HStack(spacing: 8) {
-                Text(song.language)
-                Circle().fill(song.accent).frame(width: 3, height: 3)
-                Text(song.system)
-            }
-            .font(.system(size: 10, weight: .semibold))
-            .tracking(2)
-            .foregroundStyle(song.accent.opacity(0.8))
-            ScrollView {
-                VStack(alignment: .leading, spacing: 36) {
-                    Color.clear.frame(height: 28).accessibilityHidden(true)
-                    ForEach(song.lines) { line in
-                        lyricRow(line, fontSize: fontSize)
-                    }
-                    Color.clear.frame(height: 100).accessibilityHidden(true)
-                }
-                .frame(maxWidth: .infinity, alignment: .leading)
-                .padding(.trailing, 14)
-            }
-            .id(song)
-            .scrollIndicators(.hidden)
-            .mask {
-                VStack(spacing: 0) {
-                    LinearGradient(colors: [.clear, .black], startPoint: .top, endPoint: .bottom).frame(height: 24)
-                    Color.black
-                    LinearGradient(colors: [.black, .clear], startPoint: .top, endPoint: .bottom).frame(height: 64)
-                }
-            }
-        }
-    }
-
-    private func lyricRow(_ line: DemoLine, fontSize: CGFloat) -> some View {
-        let active = line.id == 1
-        return VStack(alignment: .leading, spacing: 12) {
-            Text(line.text)
-                .font(.system(size: fontSize, weight: .bold))
-                .foregroundStyle(.white.opacity(active ? 0.98 : 0.28))
-                .lineSpacing(9)
-            if let pronunciation = line.pronunciation {
-                Text(pronunciation)
-                    .font(.system(size: fontSize * 0.44, weight: .medium))
-                    .foregroundStyle(active ? song.accent : .white.opacity(0.25))
-                    .lineSpacing(6)
-            }
-        }
-        .fixedSize(horizontal: false, vertical: true)
-        .frame(maxWidth: .infinity, alignment: .leading)
-        .textSelection(.enabled)
-        .accessibilityElement(children: .combine)
     }
 
     private var footer: some View {

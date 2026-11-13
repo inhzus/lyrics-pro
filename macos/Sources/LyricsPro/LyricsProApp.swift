@@ -56,3 +56,23 @@ struct LyricsProApp: App {
         window.setFrame(frame, display: true)
     }
 }
+
+@MainActor
+final class AppDelegate: NSObject, NSApplicationDelegate {
+    let connection = MusicConnection()
+
+    func applicationDidFinishLaunching(_ notification: Notification) {
+        AppLog.shared.write("app_start", "version=\(Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") ?? "unknown")")
+    }
+
+    func applicationShouldTerminate(_ sender: NSApplication) -> NSApplication.TerminateReply {
+        Task {
+            await connection.shutdown()
+            AppLog.shared.write("app_stop")
+            sender.reply(toApplicationShouldTerminate: true)
+        }
+        return .terminateLater
+    }
+
+    func applicationShouldTerminateAfterLastWindowClosed(_ sender: NSApplication) -> Bool { true }
+}

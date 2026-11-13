@@ -48,12 +48,13 @@ private struct RecordingOptionsView: View {
         return !candidates.contains { $0.id == update.selectedID }
     }
     private var rowCount: Int { candidates.count + (hasUnlistedCurrent ? 1 : 0) }
+    private var searching: Bool { update?.status.isSearching ?? true }
 
     var body: some View {
-        let loading = update == nil || update?.status == "loading" || update?.status == "idle"
         let hasMessage = !(update?.message.isEmpty ?? true)
+        // Fixed rows above the list, so at most five candidates fit before scrolling.
         let headerHeight: CGFloat = 126 + (update?.switching == true ? 24 : 0)
-            + (loading ? 24 : 0) + (hasMessage ? 50 : 0) + (update?.status == "error" ? 26 : 0)
+            + (searching ? 24 : 0) + (hasMessage ? 50 : 0) + (update?.status == .error ? 26 : 0)
         return VStack(alignment: .leading, spacing: 8) {
             Text("Lyrics source").font(.system(size: 13, weight: .semibold))
             Button { connection.forgetRecording() } label: {
@@ -78,7 +79,7 @@ private struct RecordingOptionsView: View {
                     Text("Loading lyrics source…")
                 }.font(.system(size: 12)).foregroundStyle(.secondary)
             }
-            if update == nil || update?.status == "loading" || update?.status == "idle" {
+            if searching {
                 HStack(spacing: 7) {
                     ProgressView().controlSize(.small)
                     Text("Finding alternatives…")
@@ -88,7 +89,7 @@ private struct RecordingOptionsView: View {
                 Text(message).font(.system(size: 12)).foregroundStyle(.secondary)
                     .lineLimit(3)
                     .help(message)
-                if update?.status == "error" {
+                if update?.status == .error {
                     Button("Retry alternatives") { connection.listRecordings() }
                 }
             }
@@ -114,8 +115,8 @@ private struct RecordingOptionsView: View {
                                     .focusEffectDisabled()
                                     .focused($focusedRow, equals: candidate.id)
                                     .id(candidate.id)
-                                    .help("\(candidate.title) — \(candidate.artists.joined(separator: " & "))\n\(candidate.album) · \(MusicSnapshot.timeLabel(candidate.duration)) · \(candidate.sourceName)")
-                                    .accessibilityLabel("\(candidate.title), \(candidate.artists.joined(separator: " & ")), \(candidate.album), \(MusicSnapshot.timeLabel(candidate.duration)), \(candidate.sourceName)")
+                                    .help(Self.tooltip(candidate))
+                                    .accessibilityLabel(Self.spokenLabel(candidate))
                                     .accessibilityAddTraits(update?.selectedID == candidate.id ? .isSelected : [])
                             }
                         }
@@ -125,7 +126,7 @@ private struct RecordingOptionsView: View {
                         if let id, id != "automatic" { proxy.scrollTo(id) }
                     }
                 }
-            } else if update?.status == "ready" {
+            } else if update?.status == .ready {
                 Text("No alternatives with the same title and a duration within two seconds.")
                     .font(.system(size: 12)).foregroundStyle(.secondary)
                     .fixedSize(horizontal: false, vertical: true)
@@ -152,6 +153,18 @@ private struct RecordingOptionsView: View {
             return .handled
         }
         .onExitCommand { dismiss() }
+    }
+
+    private static func details(_ candidate: RecordingCandidate) -> [String] {
+        [candidate.album, MusicSnapshot.timeLabel(candidate.duration), candidate.sourceName]
+    }
+
+    private static func tooltip(_ candidate: RecordingCandidate) -> String {
+        "\(candidate.title) — \(candidate.artists.joined(separator: " & "))\n" + details(candidate).joined(separator: " · ")
+    }
+
+    private static func spokenLabel(_ candidate: RecordingCandidate) -> String {
+        ([candidate.title, candidate.artists.joined(separator: " & ")] + details(candidate)).joined(separator: ", ")
     }
 
     private func choose(_ candidate: RecordingCandidate) {

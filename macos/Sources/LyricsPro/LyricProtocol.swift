@@ -145,9 +145,14 @@ struct LyricUpdate: Decodable, Sendable {
     }
 }
 
+enum RecordingStatus: String, Decodable, Sendable {
+    case idle, loading, ready, error
+    var isSearching: Bool { self == .idle || self == .loading }
+}
+
 struct RecordingUpdate: Decodable, Sendable, Equatable {
     let requestID: Int
-    let status: String
+    let status: RecordingStatus
     let candidates: [RecordingCandidate]
     let selectedID: String?
     let source: String
@@ -161,7 +166,7 @@ struct RecordingUpdate: Decodable, Sendable, Equatable {
         case status, candidates, source, manual, switching, message
     }
     var isValid: Bool {
-        requestID >= 0 && selectionRevision >= 0 && ["idle", "loading", "ready", "error"].contains(status) &&
+        requestID >= 0 && selectionRevision >= 0 &&
         (selectedID == nil || RecordingCandidate.validReference(selectedID!)) && candidates.count <= 30 && candidates.allSatisfy(\.isValid) &&
         Set(candidates.map(\.id)).count == candidates.count
     }

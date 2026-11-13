@@ -18,8 +18,9 @@ candidate is a separate, explicitly requested integration step.
   no external dependencies and targets macOS 15+. There is no Xcode project.
 - `src/lyrics_pro/` contains the Python bridge, Music integration, lyrics providers,
   pronunciation engines, cache, and terminal client.
-- `MusicConnection.swift` owns the subprocess connection; `BackendLaunch.swift`
-  resolves the packaged worker and sanitizes its environment.
+- `WorkerProcess.swift` owns the worker subprocess (pipes, stderr capture, bounded
+  termination); `MusicConnection.swift` is the observable model that drives it.
+  `BackendLaunch.swift` resolves the packaged worker and sanitizes its environment.
 - [docs/protocol.md](docs/protocol.md) specifies the version 2 NDJSON boundary.
   `protocol.py` parses commands and frames events; `bridge.py` dispatches them.
   Natively, `MusicProtocol.swift` / `LyricProtocol.swift` decode events and
