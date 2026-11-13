@@ -16,19 +16,24 @@ def normalize(text: str) -> str:
     return "".join(char for char in text if char.isalnum())
 
 
-ALIASES = {
-    normalize(name): group
-    for group, names in {
-        "eason": ("陳奕迅", "Eason Chan", "Chan, Eason", "Eason Chan (陳奕迅)"),
-        "wubai": ("伍佰", "Wu Bai", "伍佰 & China Blue", "Wu Bai & China Blue", "China Blue"),
-    }.items()
-    for name in names
+# Credits that name one artist. Each key is a stable identity (saved song
+# preferences use it); the first name is the native one Chinese services index.
+ARTIST_GROUPS = {
+    "eason": ("陳奕迅", "Eason Chan", "Chan, Eason", "Eason Chan (陳奕迅)"),
+    "wubai": ("伍佰", "Wu Bai", "伍佰 & China Blue", "Wu Bai & China Blue", "China Blue"),
 }
+ALIASES = {normalize(name): group for group, names in ARTIST_GROUPS.items() for name in names}
 
 
 def artist_key(artist: str) -> str:
     normalized = normalize(artist)
     return ALIASES.get(normalized, normalized)
+
+
+def native_name(artist: str) -> str | None:
+    """The native-script name for a known artist credit, if any."""
+    group = ARTIST_GROUPS.get(artist_key(artist))
+    return group[0] if group else None
 
 
 def choose_language(artist: str, requested: str, lyrics: Lyrics | None = None) -> tuple[str | None, str]:
