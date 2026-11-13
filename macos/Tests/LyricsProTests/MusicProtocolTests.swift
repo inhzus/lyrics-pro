@@ -112,4 +112,28 @@ struct MusicProtocolTests {
         var framer = EventFramer()
         #expect(throws: (any Error).self) { try framer.append(Data(repeating: 65, count: 8 * 1024 * 1024 + 1)) }
     }
+
+    @Test func dataStatsDecodeAndDataCommandsEncode() throws {
+        func decode(_ payload: String) throws -> BridgeEvent {
+            try BridgeEvent.decode(Data("{\"version\":2,\"type\":\"data_stats\",\"generation\":3,\"track\":null,\"payload\":\(payload)}".utf8))
+        }
+        let event = try decode(#"{"lyrics_entries":12,"lyrics_bytes":40960,"recording_choices":2,"song_languages":0,"message":""}"#)
+        guard case .dataStats(let stats) = event.payload else { Issue.record("Expected data stats"); return }
+        #expect(stats == DataStats(lyricsEntries: 12, lyricsBytes: 40960, recordingChoices: 2, songLanguages: 0, message: ""))
+        let unreadable = try decode(#"{"lyrics_entries":null,"lyrics_bytes":null,"recording_choices":0,"song_languages":1,"message":"Couldn’t read the lyrics cache."}"#)
+        guard case .dataStats(let partial) = unreadable.payload else { Issue.record("Expected data stats"); return }
+        #expect(partial.lyricsEntries == nil && partial.songLanguages == 1)
+        #expect(throws: (any Error).self) {
+            try decode(#"{"lyrics_entries":-1,"lyrics_bytes":0,"recording_choices":0,"song_languages":0,"message":""}"#)
+        }
+
+        func json(_ command: WorkerCommand) throws -> [String: Any] {
+            try #require(JSONSerialization.jsonObject(with: command.frame()) as? [String: Any])
+        }
+        let clear = try json(.clearData([.lyricsCache, .songLanguages]))
+        #expect(clear["type"] as? String == "clear_data")
+        #expect((clear["payload"] as? [String: Any])?["targets"] as? [String] == ["lyrics_cache", "song_languages"])
+        let request = try json(.getDataStats)
+        #expect(request["type"] as? String == "get_data_stats" && (request["payload"] as? [String: Any])?.isEmpty == true)
+    }
 }

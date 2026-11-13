@@ -28,6 +28,10 @@ class RecordingChoices:
     def get(self, track):
         return self.values.get(self.key(track)) if track else None
 
+    @property
+    def count(self):
+        return len(self.values)
+
     def set(self, track, song_id):
         values = dict(self.values)
         key = self.key(track)
@@ -37,7 +41,13 @@ class RecordingChoices:
             if reference is None:
                 raise ValueError("Invalid recording ID")
             values[key] = reference
-        values = dict(list(values.items())[-256:])
+        self._write(dict(list(values.items())[-256:]))
+
+    def clear(self):
+        self._write({})
+
+    def _write(self, values):
+        """Replace the file atomically, then the in-memory choices."""
         self.path.parent.mkdir(parents=True, exist_ok=True)
         temporary = None
         try:

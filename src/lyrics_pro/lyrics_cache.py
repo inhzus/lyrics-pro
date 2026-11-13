@@ -154,6 +154,25 @@ class LyricsCache:
             self._prune(db)
         self._run(write)
 
+    def stats(self):
+        """(recordings, payload bytes including annotations), or None if unreadable."""
+        def read(db):
+            count, size = db.execute("SELECT count(*), coalesce(sum(bytes),0) FROM recordings").fetchone()
+            return count, size + db.execute("SELECT coalesce(sum(bytes),0) FROM annotations").fetchone()[0]
+        return self._run(read)
+
+    def clear(self):
+        """Remove every cached recording and annotation; True on success."""
+        def wipe(db):
+            db.execute("DELETE FROM annotations")
+            db.execute("DELETE FROM recordings")
+            db.execute("PRAGMA incremental_vacuum")
+            return True
+        cleared = bool(self._run(wipe))
+        if cleared:
+            event("cache_cleared")
+        return cleared
+
     def _prune(self, db):
         def cleanup():
             db.execute("DELETE FROM annotations WHERE fingerprint NOT IN (SELECT fingerprint FROM recordings)")

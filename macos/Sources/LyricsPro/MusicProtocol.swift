@@ -47,6 +47,24 @@ struct ControlResult: Decodable, Sendable {
     }
 }
 
+/// Saved user data, reported by the worker; nil sizes mean the cache could not be read.
+struct DataStats: Decodable, Sendable, Equatable {
+    let lyricsEntries: Int?
+    let lyricsBytes: Int?
+    let recordingChoices: Int
+    let songLanguages: Int
+    let message: String
+
+    enum CodingKeys: String, CodingKey {
+        case lyricsEntries = "lyrics_entries", lyricsBytes = "lyrics_bytes"
+        case recordingChoices = "recording_choices", songLanguages = "song_languages", message
+    }
+
+    var isValid: Bool {
+        [lyricsEntries ?? 0, lyricsBytes ?? 0, recordingChoices, songLanguages].allSatisfy { $0 >= 0 }
+    }
+}
+
 /// One worker event (docs/protocol.md). Decoding validates the payload for its type.
 struct BridgeEvent: Decodable, Sendable {
     enum Payload: Sendable {
@@ -57,6 +75,7 @@ struct BridgeEvent: Decodable, Sendable {
         case lyrics(LyricUpdate)
         case recordings(RecordingUpdate)
         case controlResult(ControlResult)
+        case dataStats(DataStats)
     }
 
     static let version = 2
@@ -101,6 +120,10 @@ struct BridgeEvent: Decodable, Sendable {
             let update = try values.decode(RecordingUpdate.self, forKey: .payload)
             guard track != nil, update.isValid else { throw BridgeError.invalidEvent }
             payload = .recordings(update)
+        case "data_stats":
+            let stats = try values.decode(DataStats.self, forKey: .payload)
+            guard stats.isValid else { throw BridgeError.invalidEvent }
+            payload = .dataStats(stats)
         case "control_result":
             let result = try values.decode(ControlResult.self, forKey: .payload)
             guard result.commandID > 0 else { throw BridgeError.invalidEvent }
@@ -201,7 +224,7 @@ struct LiveMusicState: Sendable {
             clearTrackContent()
             phase = code == "permission_denied" ? .denied : .failed
             message = explanation
-        case .ready, .controlResult:
+        case .ready, .controlResult, .dataStats:
             break
         }
     }

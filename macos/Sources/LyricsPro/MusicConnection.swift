@@ -17,6 +17,7 @@ final class MusicConnection: ObservableObject {
     @Published private(set) var controls = PlaybackControlState()
     @Published private(set) var presentation = PlaybackPresentation()
     @Published private(set) var updatingMusic = false
+    @Published private(set) var dataStats: DataStats?
     private var clockTask: Task<Void, Never>?
     private static var now: Double { ProcessInfo.processInfo.systemUptime }
     private var controlRevision = 0
@@ -105,6 +106,7 @@ final class MusicConnection: ObservableObject {
     private func receive(_ event: BridgeEvent, from worker: WorkerProcess, artwork: DecodedArtwork?) {
         guard self.worker === worker else { return }
         if case .ready = event.payload { receivedReady = true }
+        if case .dataStats(let stats) = event.payload { dataStats = stats }
         let previousArtwork = state.artwork
         state.apply(event)
         controls.receive(event, now: Self.now)
@@ -178,6 +180,19 @@ final class MusicConnection: ObservableObject {
     func listRecordings() {
         guard demo == nil, state.phase == .live else { return }
         sendLyricCommand { requestID, generation in .listRecordings(requestID: requestID, generation: generation) }
+    }
+
+    var canManageData: Bool { worker?.isRunning == true }
+
+    func requestDataStats() {
+        guard let worker, worker.isRunning else { return }
+        worker.send(.getDataStats)
+    }
+
+    func clearData(_ targets: [DataTarget]) {
+        guard let worker, worker.isRunning, !targets.isEmpty else { return }
+        AppLog.shared.write("data_clear_requested", targets.map(\.rawValue).joined(separator: ","))
+        worker.send(.clearData(targets))
     }
 
     var canControl: Bool {
