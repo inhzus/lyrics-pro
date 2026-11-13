@@ -84,14 +84,8 @@ struct PlayerView: View {
     }
 
     private func header(trailingInset: CGFloat) -> some View {
+        // The traffic lights already mark the window; only Retry or a status sits here.
         HStack(spacing: 0) {
-            HStack(spacing: 9) {
-                Image(systemName: "waveform")
-                    .foregroundStyle(accent)
-                Text("Lyrics Pro")
-                    .font(.system(size: 13, weight: .semibold))
-                    .foregroundStyle(.white.opacity(0.80))
-            }
             Spacer()
             if demo == nil && connection.state.phase == .live {
                 Button { connection.retryLyrics() } label: {
@@ -110,9 +104,8 @@ struct PlayerView: View {
                     .fixedSize()
             }
         }
-        .padding(.leading, 24)
         .padding(.trailing, trailingInset)
-        .frame(height: 48)
+        .frame(height: 44)
     }
 
     private func albumPanel(side: CGFloat) -> some View {

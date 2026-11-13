@@ -60,12 +60,13 @@ struct FollowingLyricsView: View {
                         }
                     }
                     .frame(maxWidth: .infinity, alignment: .leading)
-                    .padding(.top, following.timeline.isTimed ? viewport.size.height * 0.45 : 18)
-                    .padding(.bottom, following.timeline.isTimed ? viewport.size.height * 0.55 : 18)
+                    .padding(.top, following.timeline.isTimed ? viewport.size.height * 0.45 : Self.edgeFade)
+                    .padding(.bottom, following.timeline.isTimed ? viewport.size.height * 0.55 : Self.edgeFade)
                     .padding(.trailing, 16)
                 }
                 .coordinateSpace(name: "lyricsViewport")
                 .scrollIndicators(.visible)
+                .mask(edgeMask(height: viewport.size.height))
                 .onScrollPhaseChange { _, phase in
                     switch phase {
                     case .tracking, .interacting, .decelerating:
@@ -133,6 +134,16 @@ struct FollowingLyricsView: View {
                 }
             }
         }
+    }
+
+    private static let edgeFade: CGFloat = 36
+
+    /// Lines fade out at the top and bottom instead of being cut by a hard edge.
+    private func edgeMask(height: CGFloat) -> some View {
+        let fade = height > 0 ? min(0.2, Self.edgeFade / height) : 0
+        return LinearGradient(stops: [.init(color: .clear, location: 0), .init(color: .black, location: fade),
+                                      .init(color: .black, location: 1 - fade), .init(color: .clear, location: 1)],
+                              startPoint: .top, endPoint: .bottom)
     }
 
     private func scroll(to row: Int?, proxy: ScrollViewProxy, viewport: CGSize, animated: Bool) {
