@@ -28,16 +28,6 @@ struct ArtworkPalette: Equatable, Hashable, Sendable {
         .init(red: 0.19, green: 0.22, blue: 0.25), .init(red: 0.13, green: 0.16, blue: 0.20),
         .init(red: 0.16, green: 0.20, blue: 0.22), .init(red: 0.12, green: 0.14, blue: 0.18)
     ])
-    static func demo(warm: Bool) -> Self {
-        Self(colors: warm ? [
-            .moderated(0.54, 0.30, 0.17), .moderated(0.24, 0.21, 0.22),
-            .moderated(0.30, 0.24, 0.15), .moderated(0.18, 0.25, 0.28)
-        ] : [
-            .moderated(0.15, 0.35, 0.39), .moderated(0.22, 0.31, 0.32),
-            .moderated(0.35, 0.36, 0.24), .moderated(0.12, 0.22, 0.29)
-        ])
-    }
-
     /// ImageIO downsamples before decoding; no full-size image is drawn or blurred.
     static func load(from data: Data) async -> Self? {
         guard !Task.isCancelled else { return nil }

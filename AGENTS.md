@@ -82,7 +82,7 @@ not application rebuilds or new tests.
   Coalesce queued seeks and play/pause intent; serialize skips. Never automatically
   retry a playback command. Failures restore confirmed state without removing lyrics.
 - Seeking preserves playing/paused state. Lyric clicks resume automatic following;
-  timeline seeking preserves manual browsing. Disable controls for demos and when
+  timeline seeking preserves manual browsing. Disable controls when
   Music has no playable track. Discard intents for a superseded track.
 - EOF, shutdown, and termination must stop the worker and reap in-flight scripts.
   Preserve process-group cleanup and bounded cancellation/reconnect behavior.
@@ -221,9 +221,9 @@ nonfatal. Cache I/O stays on workers; native logging uses its serial queue.
 - Background colors come from artwork, crossfade, and animate only when appropriate
   for playback/window visibility. Honor Reduce Motion for background and scrolling.
   Live songs take the reading highlight from the cover's dominant hue, lightened for
-  contrast (teal for grey covers); demos keep their own colours.
-- Empty, waiting, and error states share `StatusPanel`. The Preview menu (window presets,
-  demo songs) is hidden unless the `showPreviewMenu` default is set; for one launch use
+  contrast (teal for grey covers).
+- Empty, waiting, and error states share `StatusPanel`. The Preview menu (window-size
+  presets) is hidden unless the `showPreviewMenu` default is set; for one launch use
   `open -n "dist/Lyrics Pro.app" --args -showPreviewMenu YES`.
 - For interactive checks in this workspace, use the rightmost monitor when
   available. Preserve the user's playback state unless exercising controls, and

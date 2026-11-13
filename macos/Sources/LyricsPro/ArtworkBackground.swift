@@ -9,7 +9,6 @@ struct ArtworkBackground: View {
     let loading: Bool
     let connected: Bool
     let playing: Bool
-    let demo: DemoSong?
     /// Owned by the player so its accent can follow the artwork too.
     @Binding var palette: ArtworkPalette
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
@@ -21,12 +20,11 @@ struct ArtworkBackground: View {
         let generation: Int
         let loading: Bool
         let connected: Bool
-        let demo: DemoSong?
     }
     private var input: Input {
-        Input(artwork: artwork, generation: generation, loading: loading, connected: connected, demo: demo)
+        Input(artwork: artwork, generation: generation, loading: loading, connected: connected)
     }
-    private var running: Bool { visible && !reduceMotion && (demo != nil || (connected && playing)) }
+    private var running: Bool { visible && !reduceMotion && connected && playing }
 
     var body: some View {
         TimelineView(.animation(minimumInterval: 1.0 / 30, paused: !running)) { _ in
@@ -47,9 +45,7 @@ struct ArtworkBackground: View {
         .task(id: input) {
             let request = input
             let next: ArtworkPalette
-            if let demo = request.demo {
-                next = demo == .noArtwork ? .neutral : .demo(warm: demo == .hokkien)
-            } else if !request.connected {
+            if !request.connected {
                 next = .neutral
             } else if let data = request.artwork {
                 guard let loaded = await ArtworkPalette.load(from: data) else { return }

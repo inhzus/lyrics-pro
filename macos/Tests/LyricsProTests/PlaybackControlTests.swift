@@ -137,7 +137,7 @@ struct PlaybackControlTests {
         #expect(state.inFlight == nil)
         #expect(!state.enqueue(try command(4, .seek, position: 90), resumeFollowing: true, now: 1))
         state.enqueue(try command(5, .play, generation: 3), resumeFollowing: false, now: 2)
-        state.clearIntents(now: 2) // Demo transition.
+        state.clearIntents(now: 2) // As on a track change.
         #expect(state.queued.isEmpty && !state.presentation(at: 2).playing)
         state.disconnect()
         #expect(state.inFlight == nil && state.queued.isEmpty)

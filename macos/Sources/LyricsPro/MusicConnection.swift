@@ -4,12 +4,6 @@ import Foundation
 
 @MainActor
 final class MusicConnection: ObservableObject {
-    @Published var demo: DemoSong? {
-        didSet {
-            controls.clearIntents(now: Self.now)
-            refreshPresentation()
-        }
-    }
     @Published private(set) var state = LiveMusicState()
     @Published private(set) var artworkImage: NSImage?
     @Published private(set) var restarting = false
@@ -170,7 +164,7 @@ final class MusicConnection: ObservableObject {
     }
 
     func chooseRecording(_ candidate: RecordingCandidate, generation: Int, requestID: Int) {
-        guard demo == nil, state.phase == .live, state.generation == generation,
+        guard state.phase == .live, state.generation == generation,
               state.lyricRequestID == requestID,
               state.recordings?.candidates.contains(where: { $0.id == candidate.id }) == true else { return }
         sendLyricCommand { next, generation in
@@ -183,7 +177,7 @@ final class MusicConnection: ObservableObject {
     }
 
     func listRecordings() {
-        guard demo == nil, state.phase == .live else { return }
+        guard state.phase == .live else { return }
         sendLyricCommand { requestID, generation in .listRecordings(requestID: requestID, generation: generation) }
     }
 
@@ -202,7 +196,7 @@ final class MusicConnection: ObservableObject {
     }
 
     var canControl: Bool {
-        demo == nil && state.phase == .live &&
+        state.phase == .live &&
         [.playing, .paused].contains(state.playback?.state)
     }
 
@@ -240,7 +234,7 @@ final class MusicConnection: ObservableObject {
         let now = Self.now
         let value = controls.presentation(at: now)
         if presentation != value { presentation = value }
-        let updating = demo == nil && controls.isUpdating(at: now)
+        let updating = controls.isUpdating(at: now)
         if updatingMusic != updating { updatingMusic = updating }
     }
 
