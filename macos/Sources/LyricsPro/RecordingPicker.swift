@@ -16,14 +16,14 @@ struct RecordingPicker: View {
             if showing { connection.listRecordings() }
         } label: {
             Image(systemName: "list.bullet")
-            Text("Recording")
+            Text("Source")
             Image(systemName: "chevron.down").font(.system(size: 9, weight: .semibold))
         }
         .buttonStyle(PlayerCapsuleStyle(accent: accent))
         .fixedSize()
         .disabled(connection.state.phase != .live)
         .focused($triggerFocused)
-        .help("Choose proofread lyrics or an online recording")
+        .help("Lyrics source: choose proofread lyrics or an online recording")
         .background {
             UpwardRecordingPopover(isPresented: $showing, update: update) { availableHeight in
                 RecordingOptionsView(connection: connection, accent: accent, availableHeight: availableHeight,

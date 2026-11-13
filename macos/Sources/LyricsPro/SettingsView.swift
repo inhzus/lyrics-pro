@@ -22,9 +22,9 @@ struct SettingsView: View {
                     }
                 } label: {
                     Text("Chinese text")
-                    Text("Converts displayed lyrics only. Pronunciation, song titles, and lyric lookup are unchanged.")
+                    Text("Changes displayed lyrics only.")
                 }
-                sliderRow("Text size", subtitle: "Bigger ⌘=, Smaller ⌘−, Actual Size ⌘0",
+                sliderRow("Text size", subtitle: "Also View › Bigger (⌘=) and Smaller (⌘−)",
                           value: Binding(get: { LyricTextScale.clamped(textScale) },
                                          set: { textScale = LyricTextScale.clamped($0) }),
                           range: LyricTextScale.range,
@@ -49,7 +49,7 @@ struct SettingsView: View {
                     }
                 } label: {
                     Text("Default pronunciation")
-                    Text("For songs without their own choice. Proofread lyrics can supply their own spelling.")
+                    Text("Used when a song has no choice of its own.")
                 }
             }
             Section("Window") {

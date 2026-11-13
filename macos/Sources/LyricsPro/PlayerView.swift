@@ -163,7 +163,7 @@ struct PlayerView: View {
             }
         }
         .font(.system(size: 11))
-        .foregroundStyle(.white.opacity(0.36))
+        .foregroundStyle(.white.opacity(0.6))
         .padding(.horizontal, 26)
         .frame(height: 52)
     }
