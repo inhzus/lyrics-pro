@@ -38,6 +38,11 @@ struct LyricsProApp: App {
                 }
             }
         }
+
+        Settings {
+            SettingsView(connection: delegate.connection)
+                .preferredColorScheme(.dark)
+        }
     }
 
     private func resizeWindow(width: CGFloat, height: CGFloat) {
