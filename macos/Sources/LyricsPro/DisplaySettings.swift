@@ -38,6 +38,11 @@ enum ChineseScript: String, CaseIterable, Identifiable, Sendable {
     }
 }
 
+enum WindowSettings {
+    /// Floats the player above other apps' windows while you sing along.
+    static let keepOnTopKey = "keepWindowOnTop"
+}
+
 /// Lyric size as a multiple of the layout's base size; pronunciation scales with it.
 enum LyricTextScale {
     static let preferenceKey = "lyricsTextScale"

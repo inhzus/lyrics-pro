@@ -4,6 +4,7 @@ import AppKit
 @main
 struct LyricsProApp: App {
     @NSApplicationDelegateAdaptor(AppDelegate.self) private var delegate
+    @AppStorage(WindowSettings.keepOnTopKey) private var keepOnTop = false
 
     var body: some Scene {
         Window("Lyrics Pro", id: "main") {
@@ -15,6 +16,7 @@ struct LyricsProApp: App {
         .defaultSize(width: 1280, height: 800)
         .windowStyle(.hiddenTitleBar)
         .windowResizability(.contentMinSize)
+        .windowLevel(keepOnTop ? .floating : .normal)
         .commands {
             CommandGroup(replacing: .newItem) {}
             CommandGroup(replacing: .help) {
@@ -86,9 +88,12 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
 /// View menu items for lyric display settings shared with the Settings window.
 struct DisplayCommands: Commands {
     @AppStorage(LyricTextScale.preferenceKey) private var textScale = LyricTextScale.standard
+    @AppStorage(WindowSettings.keepOnTopKey) private var keepOnTop = false
 
     var body: some Commands {
         CommandGroup(before: .toolbar) {
+            Toggle("Keep Window on Top", isOn: $keepOnTop)
+            Divider()
             Button("Bigger") { textScale = LyricTextScale.bigger(textScale) }
                 .keyboardShortcut("=", modifiers: .command)
                 .disabled(LyricTextScale.clamped(textScale) >= LyricTextScale.range.upperBound)
