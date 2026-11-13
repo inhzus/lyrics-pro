@@ -1,5 +1,4 @@
 from concurrent.futures import Future
-import io
 import json
 import os
 from pathlib import Path
@@ -13,10 +12,11 @@ from unittest.mock import patch
 import pytest
 
 from lyrics_pro.artwork import ARTWORK_SCRIPT, MAX_ARTWORK_BYTES, read_local_artwork
-from lyrics_pro.bridge import Bridge, read_commands
+from lyrics_pro.bridge import Bridge
 from lyrics_pro.lyric_session import LyricSession
 from lyrics_pro.models import Playback
 from lyrics_pro.music import MusicCancelled, MusicError, read_playback, run_script
+from lyrics_pro.protocol import RetryLyrics
 
 
 A = Playback("playing", "A", "Artist", "Album", 200, 12)
@@ -45,13 +45,13 @@ def bridge():
 def test_live_updates_pause_seek_and_clear_on_stop(bridge):
     worker, events, current = bridge
     worker.tick()
-    worker.pending[0].result(timeout=1)
+    worker.artwork.slot.job.future.result(timeout=1)
     worker.tick()
     assert events[-1]["type"] == "artwork"
     generation = worker.generation
     current[0] = Playback("paused", "A", "Artist", "Album", 200, 100)
     worker.tick()
-    assert events[-1]["playback"]["position"] == 100
+    assert events[-1]["payload"]["snapshot"]["position"] == 100
     assert events[-1]["generation"] == generation
     current[0] = Playback("stopped")
     worker.tick()
@@ -63,7 +63,7 @@ def test_old_artwork_is_rejected_even_after_a_b_a(bridge):
     worker, events, current = bridge
     # Keep the initial A request pending across the entire A -> B -> A sequence.
     pending = Future()
-    with patch.object(worker.pool, "submit", return_value=pending):
+    with patch.object(worker.artwork.slot.pool, "submit", return_value=pending):
         worker.tick()
     current[0] = B
     worker.tick()
@@ -72,25 +72,24 @@ def test_old_artwork_is_rejected_even_after_a_b_a(bridge):
     pending.set_result("c3RhbGU=")
     worker.tick()
     assert not any(event["type"] == "artwork" for event in events)
-    worker.pending[0].result(timeout=1)
+    worker.artwork.slot.job.future.result(timeout=1)
     worker.tick()
-    assert events[-1]["image"] == "aW1hZ2U="
+    assert events[-1]["payload"]["image"] == "aW1hZ2U="
 
 
-def test_permission_denial_waits_for_explicit_retry(bridge):
+def test_permission_denial_stops_polling_until_restart(bridge):
     worker, events, current = bridge
     worker.tick()
     current[0] = MusicError("Enable Music for Lyrics Pro", "permission_denied")
     worker.tick()
-    assert events[-1]["code"] == "permission_denied"
+    assert events[-1]["payload"]["code"] == "permission_denied"
     assert events[-1]["track"] is None
     count = len(events)
     current[0] = B
     worker.tick()
-    assert len(events) == count
-    worker.commands.put("retry")
+    worker.commands.put(RetryLyrics(1, worker.generation, True))
     worker.tick()
-    assert any(e.get("playback", {}).get("title") == "B" for e in events)
+    assert len(events) == count
 
 
 def test_transient_music_error_recovers_automatically(bridge):
@@ -99,7 +98,7 @@ def test_transient_music_error_recovers_automatically(bridge):
     worker.tick()
     current[0] = A
     worker.tick()
-    assert any(e["type"] == "playback" and e["playback"]["title"] == A.title for e in events)
+    assert any(e["type"] == "playback" and e["payload"]["snapshot"]["title"] == A.title for e in events)
 
 
 def test_missing_artwork_is_cached_and_retry_invalidates_it(bridge):
@@ -110,31 +109,17 @@ def test_missing_artwork_is_cached_and_retry_invalidates_it(bridge):
         calls.append(args)
         return None
 
-    worker.artwork_reader = missing
+    worker.artwork.reader = missing
     worker.tick()
-    worker.pending[0].result(timeout=1)
+    worker.artwork.slot.job.future.result(timeout=1)
     worker.tick()
     worker.tick()
     assert len(calls) == 1
-    assert any(e["type"] == "artwork" and e["image"] is None for e in events)
-    worker.commands.put("retry")
+    assert any(e["type"] == "artwork" and e["payload"]["image"] is None for e in events)
+    worker.commands.put(RetryLyrics(1, worker.generation, False))
     worker.tick()
-    worker.pending[0].result(timeout=1)
+    worker.artwork.slot.job.future.result(timeout=1)
     assert len(calls) == 2
-
-
-@pytest.mark.parametrize("message", ["", '{"version":1,"command":"shutdown"}\n', "x" * 65537])
-def test_parent_eof_shutdown_or_oversized_command_cancels(message):
-    stopped, queue = Event(), Queue()
-    read_commands(io.StringIO(message), queue, stopped)
-    assert stopped.is_set()
-
-
-def test_bad_commands_are_ignored_and_retry_is_queued():
-    stopped, queue = Event(), Queue()
-    read_commands(io.StringIO('garbage\n[]\n{"version":1,"command":"retry"}\n'), queue, stopped)
-    assert queue.get_nowait() == "retry"
-    assert queue.empty()
 
 
 def test_cancelled_script_is_reaped():
@@ -225,64 +210,62 @@ def test_oversized_artwork_uses_placeholder():
 def test_artwork_retry_cancels_and_discards_same_track_old_attempt(bridge):
     worker, events, _ = bridge
     future = Future()
-    with patch.object(worker.pool, "submit", return_value=future):
+    with patch.object(worker.artwork.slot.pool, "submit", return_value=future):
         worker.tick()
-    token = worker.pending[4]
-    worker.commands.put(dict(command="retry_lyrics", generation=worker.generation, language="cantonese", request_id=1))
+    token = worker.artwork.slot.job.token
+    worker.commands.put(RetryLyrics(1, worker.generation, False))
     worker.tick()
     assert token.is_set()
     future.set_result("stale")
     worker.tick()
     assert not any(e["type"] == "artwork" for e in events)
-    worker.pending[0].result(timeout=1)
+    worker.artwork.slot.job.future.result(timeout=1)
     worker.tick()
-    assert events[-1]["image"] == "aW1hZ2U="
+    assert events[-1]["payload"]["image"] == "aW1hZ2U="
 
 
 def test_missing_expiry_only_rechecks_on_revisit_and_success_cache_is_bounded(bridge):
     worker, _, current = bridge
-    worker.artwork_reader = lambda *_: None
+    worker.artwork.reader = lambda *_: None
     with patch("lyrics_pro.bridge.time.monotonic", return_value=100):
         worker.tick()
-        worker.pending[0].result(timeout=1)
+        worker.artwork.slot.job.future.result(timeout=1)
         worker.tick()
     with patch("lyrics_pro.bridge.time.monotonic", return_value=200):
         worker.tick()
-        assert worker.pending is None
+        assert worker.artwork.slot.job is None
         current[0] = B
         worker.tick()
-        worker.pending[0].result(timeout=1)
+        worker.artwork.slot.job.future.result(timeout=1)
         worker.tick()
         current[0] = A
         worker.tick()
-        assert worker.pending is not None
-        worker.pending[0].result(timeout=1)
+        assert worker.artwork.slot.job is not None
+        worker.artwork.slot.job.future.result(timeout=1)
         worker.tick()
-    worker.artwork_reader = lambda *_: "cover"
+    worker.artwork.reader = lambda *_: "cover"
     for n in range(10):
         current[0] = Playback("paused", str(n), "Artist", "Album", 200)
         worker.tick()
-        worker.pending[0].result(timeout=1)
+        worker.artwork.slot.job.future.result(timeout=1)
         worker.tick()
-    assert len(worker.cache) == 8 and A.key not in worker.cache
+    assert len(worker.artwork.cache) == 8 and A.key not in worker.artwork.cache
 
 
 def test_retry_preserves_success_unless_native_reports_invalid_image(bridge):
     worker, _, _ = bridge
     worker.tick()
-    worker.pending[0].result(timeout=1)
+    worker.artwork.slot.job.future.result(timeout=1)
     worker.tick()
-    worker.commands.put(dict(command="retry_lyrics", generation=worker.generation, language="cantonese", request_id=1))
+    worker.commands.put(RetryLyrics(1, worker.generation, False))
     worker.tick()
-    assert worker.pending is None and worker.cache[A.key][0] == "aW1hZ2U="
-    worker.commands.put(dict(command="retry_lyrics", generation=worker.generation - 1,
-                             language="cantonese", request_id=2, retry_artwork=True))
+    assert worker.artwork.slot.job is None and worker.artwork.cache[A.key][0] == "aW1hZ2U="
+    worker.commands.put(RetryLyrics(2, worker.generation - 1, True))
     worker.tick()
-    assert worker.pending is None
-    worker.commands.put(dict(command="retry_lyrics", generation=worker.generation,
-                             language="cantonese", request_id=2, retry_artwork=True))
+    assert worker.artwork.slot.job is None
+    worker.commands.put(RetryLyrics(2, worker.generation, True))
     worker.tick()
-    assert worker.pending is not None
+    assert worker.artwork.slot.job is not None
 
 
 @pytest.mark.parametrize("patch_data", [{"duration": float("nan")}, {"title": 123}, {"state": "invalid"}])

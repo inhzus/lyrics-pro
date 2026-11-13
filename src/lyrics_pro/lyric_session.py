@@ -445,7 +445,8 @@ class LyricSession:
         raw = self.caches.raw.get(self.context[0])
         source = raw.source if raw else ""
         payload = dict(request_id=self.request_id, status=self.recordings.status,
-                       candidates=[asdict(c) | {"recording_id": c.reference} for c in self.recordings.candidates],
+                       candidates=[dict(recording_id=c.reference, title=c.title, artists=list(c.artists),
+                                        album=c.album, duration=c.duration) for c in self.recordings.candidates],
                        selected_id=(raw.recording_id if raw else None) or source_ref(source), source=source,
                        manual=self.choices.get(self.track) is not None,
                        switching=self.selection is not None,

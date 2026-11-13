@@ -19,23 +19,25 @@ struct PlaybackControlTests {
     }
     private func result(id: Int = 1, generation: Int = 2, ok: Bool = true) throws -> BridgeEvent {
         try BridgeEvent.decode(Data("""
-        {"version":1,"type":"control_result","command_id":\(id),"generation":\(generation),"ok":\(ok),"message":"Could not seek"}
+        {"version":2,"type":"control_result","generation":\(generation),"track":null,"payload":{"command_id":\(id),"ok":\(ok),"code":"control_failed","message":"Could not seek"}}
         """.utf8))
     }
 
     private func snapshot(position: Double = 12, playing: Bool = false, revision: Int = 0,
                           generation: Int = 2) throws -> BridgeEvent {
         try BridgeEvent.decode(Data("""
-        {"version":1,"type":"playback","generation":\(generation),"completed_control_id":\(revision),
-        "track":["A","Artist","Album",200],"playback":{"state":"\(playing ? "playing" : "paused")",
-        "title":"A","artist":"Artist","album":"Album","duration":200,"position":\(position)}}
+        {"version":2,"type":"playback","generation":\(generation),
+        "track":{"title":"A","artist":"Artist","album":"Album","duration":200},
+        "payload":{"completed_control_id":\(revision),"snapshot":{"state":"\(playing ? "playing" : "paused")",
+        "title":"A","artist":"Artist","album":"Album","duration":200,"position":\(position)}}}
         """.utf8))
     }
 
+    private static let track = TrackIdentity(title: "A", artist: "Artist", album: "Album", duration: 200)
+
     private func command(_ id: Int, _ action: PlaybackAction, position: Double? = nil,
                          generation: Int = 2) throws -> PlaybackCommand {
-        let track = try JSONDecoder().decode(TrackIdentity.self, from: Data("[\"A\",\"Artist\",\"Album\",200]".utf8))
-        return PlaybackCommand(command_id: id, action: action, generation: generation, track: track, position: position)
+        PlaybackCommand(commandID: id, action: action, generation: generation, track: Self.track, position: position)
     }
 
     @Test func clicksUpdateImmediatelyAndRapidPlayPauseSettlesOnFinalIntent() throws {
@@ -53,7 +55,7 @@ struct PlaybackControlTests {
         state.receive(try snapshot(), now: 0.5) // Read from before either command.
         #expect(state.presentation(at: 0.5).playing)
         state.receive(try result(), now: 0.6)
-        #expect(state.takeNext(now: 0.6)?.command_id == 3)
+        #expect(state.takeNext(now: 0.6)?.commandID == 3)
         state.receive(try snapshot(position: 13, playing: true, revision: 3), now: 1)
         state.receive(try result(id: 3), now: 1)
         #expect(state.presentation(at: 2).position == 14)
@@ -201,14 +203,19 @@ struct PlaybackControlTests {
     }
 
     @Test func wireCommandsPreserveTrackIdentityAndResultsAreValidated() throws {
-        let track = try JSONDecoder().decode(TrackIdentity.self, from: Data("[\"A\",\"Artist\",\"Album\",200]".utf8))
-        let command = PlaybackCommand(command_id: 9, action: .seek, generation: 2, track: track, position: 90)
-        let json = try #require(JSONSerialization.jsonObject(with: JSONEncoder().encode(command)) as? [String: Any])
-        #expect(json["command"] as? String == "playback_control")
-        #expect(json["position"] as? Double == 90)
-        #expect((json["track"] as? [Any])?.count == 4)
+        let command = PlaybackCommand(commandID: 9, action: .seek, generation: 2, track: Self.track, position: 90)
+        let frame = try WorkerCommand.playbackControl(command).frame()
+        #expect(frame.last == 10)
+        let json = try #require(JSONSerialization.jsonObject(with: frame) as? [String: Any])
+        let payload = try #require(json["payload"] as? [String: Any])
+        #expect(json["version"] as? Int == 2 && json["type"] as? String == "playback_control")
+        #expect(payload["command_id"] as? Int == 9 && payload["position"] as? Double == 90)
+        #expect((payload["track"] as? [String: Any])?["title"] as? String == "A")
+        let skip = PlaybackCommand(commandID: 10, action: .next, generation: 2, track: Self.track, position: nil)
+        let skipJSON = try #require(JSONSerialization.jsonObject(with: WorkerCommand.playbackControl(skip).frame()) as? [String: Any])
+        #expect((skipJSON["payload"] as? [String: Any])?["position"] is NSNull)
         #expect(throws: (any Error).self) {
-            try BridgeEvent.decode(Data("{\"version\":1,\"type\":\"control_result\",\"generation\":0}".utf8))
+            try BridgeEvent.decode(Data("{\"version\":2,\"type\":\"control_result\",\"generation\":0,\"payload\":{}}".utf8))
         }
     }
 }

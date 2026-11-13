@@ -87,17 +87,7 @@ struct RecordingCandidate: Decodable, Sendable, Identifiable, Equatable {
         return id.hasPrefix("lrcapi:") ? "LrcAPI" : "NetEase"
     }
     enum CodingKeys: String, CodingKey {
-        case songID = "song_id", recordingID = "recording_id"
-        case title, artists, album, duration
-    }
-    init(from decoder: Decoder) throws {
-        let values = try decoder.container(keyedBy: CodingKeys.self)
-        if let reference = try values.decodeIfPresent(String.self, forKey: .recordingID) { id = reference }
-        else { id = "netease:\(try values.decode(Int.self, forKey: .songID))" }
-        title = try values.decode(String.self, forKey: .title)
-        artists = try values.decode([String].self, forKey: .artists)
-        album = try values.decode(String.self, forKey: .album)
-        duration = try values.decode(Double.self, forKey: .duration)
+        case id = "recording_id", title, artists, album, duration
     }
     var isValid: Bool {
         Self.validReference(id) && !title.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty &&
@@ -169,19 +159,6 @@ struct RecordingUpdate: Decodable, Sendable, Equatable {
     enum CodingKeys: String, CodingKey {
         case requestID = "request_id", selectedID = "selected_id", selectionRevision = "selection_revision"
         case status, candidates, source, manual, switching, message
-    }
-    init(from decoder: Decoder) throws {
-        let values = try decoder.container(keyedBy: CodingKeys.self)
-        requestID = try values.decode(Int.self, forKey: .requestID)
-        selectionRevision = try values.decode(Int.self, forKey: .selectionRevision)
-        status = try values.decode(String.self, forKey: .status)
-        candidates = try values.decode([RecordingCandidate].self, forKey: .candidates)
-        if let number = try? values.decode(Int.self, forKey: .selectedID) { selectedID = "netease:\(number)" }
-        else { selectedID = try values.decodeIfPresent(String.self, forKey: .selectedID) }
-        source = try values.decode(String.self, forKey: .source)
-        manual = try values.decode(Bool.self, forKey: .manual)
-        switching = try values.decode(Bool.self, forKey: .switching)
-        message = try values.decode(String.self, forKey: .message)
     }
     var isValid: Bool {
         requestID >= 0 && selectionRevision >= 0 && ["idle", "loading", "ready", "error"].contains(status) &&

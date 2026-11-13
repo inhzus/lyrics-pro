@@ -1,19 +1,15 @@
 from dataclasses import replace
 from threading import Event
-import io
-import json
 import subprocess
-from queue import Queue
 from unittest.mock import patch
 
 import pytest
 
-from lyrics_pro.lyrics import Candidate, LyricsProvider, NetEaseProvider, RecordingChoiceRequired, recording_candidates
+from lyrics_pro.lyrics import LyricsProvider, NetEaseProvider, RecordingChoiceRequired, recording_candidates
 from lyrics_pro.models import LookupFailure, Playback
 from lyrics_pro.recording_choices import RecordingChoices
 from test_lyric_session import ControlledPool, RAW, settle
 from lyrics_pro.lyric_session import LyricSession
-from lyrics_pro.bridge import read_commands
 from lyrics_pro.lyrics import http_json
 
 
@@ -234,18 +230,6 @@ def test_unverified_automatic_attempts_are_limited_to_three():
         def lookup(self, _): return None
     assert LyricsProvider(Primary(), Secondary()).lookup(TRACK) is None
     assert calls == [1, 2, 3]
-
-
-def test_choice_commands_require_valid_revision_generation_and_id():
-    valid = dict(version=1, command="choose_recording", language="original", request_id=2,
-                 generation=3, choice_request_id=1, song_id=5284269)
-    messages = [valid | {"song_id": True}, valid | {"song_id": -1}, valid | {"choice_request_id": None},
-                valid | {"generation": "3"}, valid, valid | {"command": "forget_recording"}]
-    queue, cancelled = Queue(), Event()
-    read_commands(io.StringIO("\n".join(map(json.dumps, messages))), queue, cancelled)
-    assert queue.get_nowait() == valid
-    assert queue.get_nowait()["command"] == "forget_recording"
-    assert queue.empty()
 
 
 @pytest.mark.parametrize("exit_code,body,expected", [
