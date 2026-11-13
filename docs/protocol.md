@@ -75,7 +75,9 @@ additionally accept `default`, which clears the override.
   `command_id` is positive and increasing. The worker never repeats or retries
   a control, runs one at a time, and answers each with `control_result`.
 - `get_data_stats` and `clear_data` are not tied to a track or revision. Each is
-  answered with one `data_stats` event once the storage work finishes. Clearing never
+  answered with one `data_stats` event once the storage work finishes. After the first
+  `get_data_stats`, the worker also sends `data_stats` whenever saved data changes (a cached
+  lookup, a saved recording choice, or a saved song language). Clearing never
   removes the lyrics on screen; clearing song languages re-resolves the current song.
 - Closing stdin has the same effect as `shutdown`.
 

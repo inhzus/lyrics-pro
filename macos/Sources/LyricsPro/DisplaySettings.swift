@@ -70,7 +70,7 @@ enum LyricTextScale {
     static func clamped(_ value: Double) -> Double { setting.clamped(value) }
     static func bigger(_ value: Double) -> Double { setting.bigger(value) }
     static func smaller(_ value: Double) -> Double { setting.smaller(value) }
-    static func label(_ value: Double) -> String { "\(Int((clamped(value) * 100).rounded())) %" }
+    static func label(_ value: Double) -> String { "\(Int((clamped(value) * 100).rounded()))%" }
 }
 
 /// Shifts lyric highlighting against the audio for lyrics that drift. Display only:

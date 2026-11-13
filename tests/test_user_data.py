@@ -161,3 +161,26 @@ def test_bridge_reports_storage_even_when_music_cannot_be_read(tmp_path):
         assert stats["payload"]["lyrics_entries"] == 0 and stats["version"] == 2
     finally:
         bridge.close()
+
+
+def test_counts_are_pushed_after_the_first_request_only(session):
+    session.update_track(A, 1)
+    settle_lyrics(session)
+    assert settle_storage(session, timeout=0.3) == []  # Not subscribed: nothing is sent.
+    session.request_data_stats()
+    assert settle_storage(session)[-1]["song_languages"] == 0
+    session.set_song_language("cantonese", 1, "hokkien", generation=1, track_identity=A.key)
+    settle_lyrics(session)
+    pushed = settle_storage(session)
+    assert pushed and pushed[-1]["song_languages"] == 1
+    session.set_song_language("cantonese", 2, "default", generation=1, track_identity=A.key)
+    settle_lyrics(session)
+    assert settle_storage(session)[-1]["song_languages"] == 0
+
+
+def test_a_new_cached_lookup_updates_the_cache_count(session):
+    session.request_data_stats()
+    assert settle_storage(session)[-1]["lyrics_entries"] == 0
+    session.update_track(A, 1)
+    settle_lyrics(session)
+    assert settle_storage(session)[-1]["lyrics_entries"] == 1

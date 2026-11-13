@@ -16,67 +16,47 @@ struct SettingsView: View {
     var body: some View {
         Form {
             Section("Lyrics") {
-                Picker("Chinese text", selection: $script) {
+                Picker(selection: $script) {
                     ForEach(ChineseScript.allCases) { option in
                         Text(option.label).tag(option)
                     }
+                } label: {
+                    Text("Chinese text")
+                    Text("Converts displayed lyrics only. Pronunciation, song titles, and lyric lookup are unchanged.")
                 }
-                Text("Converts displayed lyrics only. Pronunciation, song titles, and lyric lookup are unchanged.")
-                    .font(.caption)
-                    .foregroundStyle(.secondary)
-                LabeledContent("Text size") {
-                    HStack {
-                        Slider(value: Binding(get: { LyricTextScale.clamped(textScale) },
-                                              set: { textScale = LyricTextScale.clamped($0) }),
-                               in: LyricTextScale.range, step: LyricTextScale.step) {
-                            Text("Text size")
-                        } minimumValueLabel: {
-                            Image(systemName: "textformat.size.smaller")
-                        } maximumValueLabel: {
-                            Image(systemName: "textformat.size.larger")
-                        }
-                        .labelsHidden()
-                        Text(LyricTextScale.label(textScale))
-                            .monospacedDigit()
-                            .frame(width: 48, alignment: .trailing)
-                    }
-                }
-                .help("Bigger ⌘=, Smaller ⌘−, Actual Size ⌘0")
-                LabeledContent("Timing") {
-                    HStack {
-                        Slider(value: Binding(get: { LyricTiming.setting.clamped(timingDelay) },
-                                              set: { timingDelay = LyricTiming.setting.clamped($0) }),
-                               in: LyricTiming.setting.range, step: LyricTiming.setting.step) {
-                            Text("Timing")
-                        } minimumValueLabel: {
-                            Text("Earlier").font(.caption)
-                        } maximumValueLabel: {
-                            Text("Later").font(.caption)
-                        }
-                        .labelsHidden()
-                        Text(LyricTiming.label(timingDelay))
-                            .monospacedDigit()
-                            .frame(width: 92, alignment: .trailing)
-                        Button("Reset") { timingDelay = LyricTiming.setting.standard }
-                            .disabled(LyricTiming.setting.clamped(timingDelay) == LyricTiming.setting.standard)
-                    }
-                }
-                .help("Moves the lyric highlight against the music for lyrics that drift. Music is not changed.")
+                sliderRow("Text size", subtitle: "Bigger ⌘=, Smaller ⌘−, Actual Size ⌘0",
+                          value: Binding(get: { LyricTextScale.clamped(textScale) },
+                                         set: { textScale = LyricTextScale.clamped($0) }),
+                          range: LyricTextScale.range,
+                          low: Text("A").font(.system(size: 10)), high: Text("A").font(.system(size: 16)),
+                          valueText: LyricTextScale.label(textScale),
+                          isStandard: LyricTextScale.clamped(textScale) == LyricTextScale.standard,
+                          reset: { textScale = LyricTextScale.standard })
+                sliderRow("Timing", subtitle: "Moves the highlight for lyrics that drift. Music is not changed.",
+                          value: Binding(get: { LyricTiming.setting.clamped(timingDelay) },
+                                         set: { timingDelay = LyricTiming.setting.clamped($0) }),
+                          range: LyricTiming.setting.range,
+                          low: Text("−3 s").font(.caption), high: Text("+3 s").font(.caption),
+                          valueText: LyricTiming.label(timingDelay),
+                          isStandard: LyricTiming.setting.clamped(timingDelay) == LyricTiming.setting.standard,
+                          reset: { timingDelay = LyricTiming.setting.standard })
             }
             Section("Pronunciation") {
                 // Same setting as the footer menu's Global Default; both go through the connection.
-                Picker("Default pronunciation", selection: Binding(get: { connection.language },
-                                                                   set: connection.selectLanguage)) {
+                Picker(selection: Binding(get: { connection.language }, set: connection.selectLanguage)) {
                     ForEach(PronunciationLanguage.choices, id: \.self) { option in
                         Text(option.label).tag(option)
                     }
+                } label: {
+                    Text("Default pronunciation")
+                    Text("For songs without their own choice. Proofread lyrics can supply their own spelling.")
                 }
-                Text("Used for songs without their own choice. Proofread lyrics can supply their own spelling.")
-                    .font(.caption)
-                    .foregroundStyle(.secondary)
             }
             Section("Window") {
-                Toggle("Keep window on top", isOn: $keepOnTop)
+                Toggle(isOn: $keepOnTop) {
+                    Text("Keep window on top")
+                    Text("Float the player above other apps while you sing along.")
+                }
             }
             Section {
                 dataRow(.lyricsCache, title: "Lyrics cache", detail: cacheDetail)
@@ -93,6 +73,7 @@ struct SettingsView: View {
                 Text("Clearing never removes the lyrics on screen; it affects later lookups.")
                     .font(.caption)
                     .foregroundStyle(.secondary)
+                    .frame(maxWidth: .infinity, alignment: .leading)
             }
         }
         .formStyle(.grouped)
@@ -107,14 +88,55 @@ struct SettingsView: View {
             Text(pendingClear == .lyricsCache ? "Lyrics will be downloaded again when needed."
                                               : "This can’t be undone.")
         }
-        .frame(width: 480)
+        .frame(width: 540)
         .fixedSize(horizontal: false, vertical: true)
+    }
+
+    /// One layout for every slider so tracks, values, and Reset buttons line up. Sliders
+    /// have no `step:` (tick marks change the knob's shape); bindings snap instead.
+    private func sliderRow(_ title: String, subtitle: String, value: Binding<Double>, range: ClosedRange<Double>,
+                           low: Text, high: Text, valueText: String, isStandard: Bool,
+                           reset: @escaping () -> Void) -> some View {
+        LabeledContent {
+            HStack(spacing: 10) {
+                Slider(value: value, in: range) {
+                    Text(title)
+                } minimumValueLabel: {
+                    low.frame(width: 30, alignment: .trailing)
+                } maximumValueLabel: {
+                    high.frame(width: 30, alignment: .leading)
+                }
+                .labelsHidden()
+                .frame(width: 230)
+                Text(valueText)
+                    .monospacedDigit()
+                    .foregroundStyle(.secondary)
+                    .frame(width: 92, alignment: .trailing)
+                Button("Reset", action: reset)
+                    .controlSize(.small)
+                    .disabled(isStandard)
+            }
+        } label: {
+            Text(title)
+            Text(subtitle)
+        }
     }
 
     private var cacheDetail: String? {
         guard let stats = connection.dataStats else { return nil }
         guard let entries = stats.lyricsEntries, let bytes = stats.lyricsBytes else { return "Unavailable" }
+        if entries == 0 { return "Empty" }
         return "\(count(entries, "song")) · \(ByteCountFormatter.string(fromByteCount: Int64(bytes), countStyle: .file))"
+    }
+
+    /// Nothing to clear, or counts not known yet.
+    private func isEmpty(_ target: DataTarget) -> Bool {
+        guard let stats = connection.dataStats else { return true }
+        switch target {
+        case .lyricsCache: return stats.lyricsEntries == 0
+        case .recordingChoices: return stats.recordingChoices == 0
+        case .songLanguages: return stats.songLanguages == 0
+        }
     }
 
     private func count(_ value: Int, _ noun: String) -> String { "\(value) \(noun)\(value == 1 ? "" : "s")" }
@@ -130,9 +152,15 @@ struct SettingsView: View {
     private func dataRow(_ target: DataTarget, title: String, detail: String?) -> some View {
         LabeledContent {
             HStack {
-                if let detail { Text(detail).monospacedDigit() } else { ProgressView().controlSize(.small) }
+                if let detail {
+                    Text(detail).monospacedDigit().foregroundStyle(.secondary)
+                } else if connection.canManageData {
+                    ProgressView().controlSize(.small)
+                } else {
+                    Text("Not connected").foregroundStyle(.secondary)
+                }
                 Button("Clear…") { pendingClear = target }
-                    .disabled(!connection.canManageData || connection.dataStats == nil)
+                    .disabled(!connection.canManageData || isEmpty(target))
             }
         } label: {
             Text(title)
