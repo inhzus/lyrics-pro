@@ -11,7 +11,7 @@ import time
 from urllib.parse import urlencode, urlsplit
 
 from .diagnostics import event
-from .lyrics import http_json
+from .lyrics.transport import http_json
 from .models import Playback, LookupFailure, LookupCancelled
 from .music import run_script, MusicCancelled
 from .pronunciation import normalize, artist_key

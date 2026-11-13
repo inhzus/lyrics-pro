@@ -4,12 +4,11 @@ from collections import OrderedDict
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import asdict, replace
 import json
-import re
 from queue import Queue, Empty
 from threading import Event
 import time
 
-from .lyrics import LyricsProvider, NetEaseProvider, LrcAPIProvider, request_json, decode_record
+from .lyrics import discover_recordings, lookup, lookup_recording
 from .models import LookupCancelled, LookupFailure
 from .pronunciation import Romanizer, resolve_language, supplied_annotation
 from .song_languages import SongLanguages, LANGUAGES
@@ -34,44 +33,6 @@ class Cancellation:
     def check(self):
         if self.is_set():
             raise LookupCancelled("Lyrics request cancelled.")
-
-
-def lookup(track, cancelled):
-    return LyricsProvider(cancelled=cancelled).lookup(track)
-
-
-def lookup_recording(reference, track, cancelled):
-    provider, identifier = reference.split(":", 1)
-    if provider == "proofread":
-        result = curated_lyrics(track, reference, cancelled)
-        if result is None:
-            raise LookupFailure("This proofread source is unavailable or does not match this song.")
-        return result
-    if provider == "lrcapi":
-        return LrcAPIProvider(cancelled=cancelled).lyrics_for(identifier, track)
-    if provider != "netease":
-        raise LookupFailure("Unsupported lyric source.")
-    record = request_json("song/lyric", {"id": identifier, "lv": -1, "kv": -1, "tv": -1, "rv": -1}, cancelled)
-    return decode_record(record, int(identifier)) if record else None
-
-
-def discover_recordings(track, cancelled):
-    candidates, errors = [], []
-    for provider in (NetEaseProvider(lambda endpoint, params: request_json(endpoint, params, cancelled)),
-                     LrcAPIProvider(cancelled=cancelled)):
-        try:
-            candidates.extend(provider.alternatives(track))
-        except LookupCancelled:
-            raise
-        except LookupFailure as error:
-            errors.append(error)
-            event("discovery_error", provider=type(provider).__name__, error=str(error))
-    if not candidates and errors:
-        raise errors[-1]
-    # Reserve space for both providers when NetEase returns its full quota.
-    netease = [c for c in candidates if c.provider == "netease"]
-    lrcapi = [c for c in candidates if c.provider == "lrcapi"]
-    return tuple(netease[:max(15, 30 - len(lrcapi))] + lrcapi[:max(15, 30 - len(netease))])[:30]
 
 
 class LyricSession:

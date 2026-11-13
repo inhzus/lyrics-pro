@@ -22,8 +22,11 @@ candidate is a separate, explicitly requested integration step.
   resolves the packaged worker and sanitizes its environment.
 - `bridge.py` and `LyricProtocol.swift` / `MusicProtocol.swift` define the NDJSON
   boundary. Playback presentation and lyric following have separate state models.
-- `lyrics.py` handles providers and recording matching; `lyric_session.py`
-  coordinates asynchronous lookup, annotation, retries, and recording choices.
+- `lyrics/` holds the online providers: `transport.py` (bounded curl), `lrc.py`,
+  `matching.py` (recording identity), `netease.py` / `lrcapi.py` / `lrclib.py`,
+  and `chain.py` (provider order, explicit recording lookup and discovery).
+  `lyric_session.py` coordinates asynchronous lookup, annotation, retries, and
+  recording choices.
 - `packaging/` owns the frozen worker, dependency lock, signing checks, and ZIP
   portability verification. Fish entry points are in `scripts/`.
 - Tests live in `tests/` and `macos/Tests/LyricsProTests/`. Keep generated files,

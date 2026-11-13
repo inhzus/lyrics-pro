@@ -18,6 +18,21 @@ class Playback:
 
 
 @dataclass(frozen=True)
+class Candidate:
+    """A provider recording offered for matching or manual selection."""
+    song_id: int | str
+    title: str
+    artists: tuple[str, ...]
+    album: str
+    duration: float
+    provider: str = "netease"
+
+    @property
+    def reference(self):
+        return f"{self.provider}:{self.song_id}"
+
+
+@dataclass(frozen=True)
 class LyricLine:
     text: str
     time: float | None = None

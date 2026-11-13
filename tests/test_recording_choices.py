@@ -256,7 +256,7 @@ def test_broken_utf8_becomes_retryable_lookup_failure(exit_code, body, expected)
     # Construct real malformed bytes, without allowing subprocess text decoding.
     body = body.replace(b"\\xe5", bytes([0xe5])).replace(b"\\xff", bytes([0xff])).replace(b"\\n", b"\n")
     response = subprocess.CompletedProcess([], exit_code, body, b"curl timed out")
-    with patch("lyrics_pro.lyrics.run_curl", return_value=response):
+    with patch("lyrics_pro.lyrics.transport.run_curl", return_value=response):
         with pytest.raises(LookupFailure, match=expected) as error:
             http_json("https://music.163.com/", "NetEase")
     assert error.value.retryable
