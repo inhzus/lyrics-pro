@@ -24,6 +24,7 @@ struct LyricsProApp: App {
                 Button("Reconnect to Music") { delegate.connection.reconnect() }
                     .disabled(delegate.connection.restarting)
             }
+            DisplayCommands()
             CommandMenu("Preview") {
                 Button("Compact Window (900 × 600)") { resizeWindow(width: 900, height: 600) }
                     .keyboardShortcut("1", modifiers: [.command, .option])
@@ -80,4 +81,24 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
     }
 
     func applicationShouldTerminateAfterLastWindowClosed(_ sender: NSApplication) -> Bool { true }
+}
+
+/// View menu items for lyric display settings shared with the Settings window.
+struct DisplayCommands: Commands {
+    @AppStorage(LyricTextScale.preferenceKey) private var textScale = LyricTextScale.standard
+
+    var body: some Commands {
+        CommandGroup(before: .toolbar) {
+            Button("Bigger") { textScale = LyricTextScale.bigger(textScale) }
+                .keyboardShortcut("=", modifiers: .command)
+                .disabled(LyricTextScale.clamped(textScale) >= LyricTextScale.range.upperBound)
+            Button("Smaller") { textScale = LyricTextScale.smaller(textScale) }
+                .keyboardShortcut("-", modifiers: .command)
+                .disabled(LyricTextScale.clamped(textScale) <= LyricTextScale.range.lowerBound)
+            Button("Actual Size") { textScale = LyricTextScale.standard }
+                .keyboardShortcut("0", modifiers: .command)
+                .disabled(LyricTextScale.clamped(textScale) == LyricTextScale.standard)
+            Divider()
+        }
+    }
 }

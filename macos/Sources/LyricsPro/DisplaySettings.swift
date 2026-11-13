@@ -38,6 +38,25 @@ enum ChineseScript: String, CaseIterable, Identifiable, Sendable {
     }
 }
 
+/// Lyric size as a multiple of the layout's base size; pronunciation scales with it.
+enum LyricTextScale {
+    static let preferenceKey = "lyricsTextScale"
+    static let range: ClosedRange<Double> = 0.8...1.5
+    static let step = 0.1
+    static let standard = 1.0
+
+    /// Snaps to a 10 % step inside the range; unreadable stored values reset.
+    static func clamped(_ value: Double) -> Double {
+        guard value.isFinite else { return standard }
+        let snapped = (value / step).rounded() * step
+        return min(range.upperBound, max(range.lowerBound, (snapped * 100).rounded() / 100))
+    }
+
+    static func bigger(_ value: Double) -> Double { clamped(clamped(value) + step) }
+    static func smaller(_ value: Double) -> Double { clamped(clamped(value) - step) }
+    static func label(_ value: Double) -> String { "\(Int((clamped(value) * 100).rounded())) %" }
+}
+
 /// Remembers the last conversion so frequent view updates do not reconvert lyrics.
 @MainActor
 final class ScriptConversionCache {

@@ -20,6 +20,7 @@ private struct LyricLayout: Equatable {
     let request: Int
     let recording: Int
     let size: CGSize
+    let fontSize: CGFloat
 }
 
 struct FollowingLyricsView: View {
@@ -85,7 +86,8 @@ struct FollowingLyricsView: View {
                     for (id, frame) in frames { updatedHeights[id] = frame.height }
                     if updatedHeights != heights { heights = updatedHeights }
                 }
-                .task(id: LyricLayout(generation: generation, request: requestID, recording: recordingRevision, size: viewport.size)) {
+                .task(id: LyricLayout(generation: generation, request: requestID, recording: recordingRevision, size: viewport.size,
+                                          fontSize: fontSize)) {
                     hoveredRow = nil
                     if let previous = lastRecordingRevision, previous != recordingRevision {
                         following.reset(generation: generation)
