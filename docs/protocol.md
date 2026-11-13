@@ -59,6 +59,8 @@ additionally accept `default`, which clears the override.
 | `choose_recording` | `request_id`, `generation`, `recording_id`, `choice_request_id` |
 | `forget_recording` | `request_id`, `generation` |
 | `playback_control` | `command_id`, `generation`, `track`, `action`, `position` |
+| `get_data_stats` | — |
+| `clear_data` | `targets`: nonempty, distinct subset of `lyrics_cache`, `recording_choices`, `song_languages` |
 | `shutdown` | — |
 
 - Commands for another generation are ignored, except that a stale
@@ -72,6 +74,9 @@ additionally accept `default`, which clears the override.
   `seek`; `position` (seconds) is required for `seek` and `null` otherwise.
   `command_id` is positive and increasing. The worker never repeats or retries
   a control, runs one at a time, and answers each with `control_result`.
+- `get_data_stats` and `clear_data` are not tied to a track or revision. Each is
+  answered with one `data_stats` event once the storage work finishes. Clearing never
+  removes the lyrics on screen; clearing song languages re-resolves the current song.
 - Closing stdin has the same effect as `shutdown`.
 
 ## Events (worker → app)
@@ -85,6 +90,7 @@ additionally accept `default`, which clears the override.
 | `lyrics` | lyric update |
 | `recordings` | recording update |
 | `control_result` | `command_id`, `ok`, and on failure `code`, `message` |
+| `data_stats` | `lyrics_entries`, `lyrics_bytes` (both `null` if unreadable), `recording_choices`, `song_languages`, `message` |
 
 **playback** is sent every poll (0.5 s). `snapshot` has `state` (`playing`,
 `paused`, `stopped`, `closed`, `fast forwarding`, `rewinding`), `title`,

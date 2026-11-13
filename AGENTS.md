@@ -169,7 +169,9 @@ not application rebuilds or new tests.
 
 ## Persistence and diagnostics
 
-All user data lives under `~/Library/Application Support/Lyrics Pro/`:
+All user data lives under `~/Library/Application Support/Lyrics Pro/`. Settings ›
+Data clears the cache, recording choices, or song languages via the worker's
+`clear_data`; clearing keeps visible lyrics and never reimports legacy JSON.
 
 - `lyrics-cache.sqlite3`: successful raw lyrics and annotations shared with the CLI.
   Bound it to 1,000 recordings and approximately 100 MiB of payload; evict least
@@ -196,8 +198,13 @@ nonfatal. Cache I/O stays on workers; native logging uses its serial queue.
 ## UI behavior and live verification
 
 - Show the lyric source/timing label at the bottom left and retry in the top
-  header. Let lyrics fill the body beneath it, keeping artwork placement and font
-  sizes stable. Do not restore the old live metadata caption or music-note icon.
+  header. Let lyrics fill the body beneath it, keeping artwork placement stable;
+  lyric size changes only through the user's text size setting. Do not restore the
+  old live metadata caption or music-note icon.
+- Settings (`SettingsView.swift`, values in `DisplaySettings.swift`) holds display-only
+  options: Chinese script conversion of displayed lyric lines (ICU transforms; never
+  pronunciation, matching, metadata, or caches), text size, timing delay (highlight and
+  lyric-click seeks only), and keep-on-top. Store them with `@AppStorage`.
 - Follow normal timed rows at 45% of the lyric viewport height; align rows taller
   than the viewport to the top. Keep sufficient first/last-row scroll padding.
 - Keep timed highlighting tied to the shared playback clock. Manual browsing

@@ -1,5 +1,12 @@
 import Foundation
 
+/// Saved data that Settings can clear; the raw values are protocol names.
+enum DataTarget: String, CaseIterable, Encodable, Sendable {
+    case lyricsCache = "lyrics_cache"
+    case recordingChoices = "recording_choices"
+    case songLanguages = "song_languages"
+}
+
 /// One command to the worker (docs/protocol.md), encoded as a version 2 envelope.
 enum WorkerCommand: Encodable, Sendable {
     case setLanguage(PronunciationLanguage, requestID: Int)
@@ -9,12 +16,14 @@ enum WorkerCommand: Encodable, Sendable {
     case chooseRecording(String, requestID: Int, generation: Int, choiceRequestID: Int)
     case forgetRecording(requestID: Int, generation: Int)
     case playbackControl(PlaybackCommand)
+    case getDataStats
+    case clearData([DataTarget])
 
     private enum CodingKeys: String, CodingKey { case version, type, payload }
     private enum PayloadKeys: String, CodingKey {
         case language, requestID = "request_id", generation, track, songLanguage = "song_language"
         case retryArtwork = "retry_artwork", recordingID = "recording_id", choiceRequestID = "choice_request_id"
-        case commandID = "command_id", action, position
+        case commandID = "command_id", action, position, targets
     }
 
     var type: String {
@@ -26,6 +35,8 @@ enum WorkerCommand: Encodable, Sendable {
         case .chooseRecording: "choose_recording"
         case .forgetRecording: "forget_recording"
         case .playbackControl: "playback_control"
+        case .getDataStats: "get_data_stats"
+        case .clearData: "clear_data"
         }
     }
 
@@ -62,6 +73,10 @@ enum WorkerCommand: Encodable, Sendable {
             try payload.encode(command.action, forKey: .action)
             // Explicit null keeps the documented field present for non-seek actions.
             try payload.encode(command.position, forKey: .position)
+        case .getDataStats:
+            break
+        case .clearData(let targets):
+            try payload.encode(targets, forKey: .targets)
         }
     }
 

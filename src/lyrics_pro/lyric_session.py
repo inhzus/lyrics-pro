@@ -140,6 +140,7 @@ class LyricSession:
         self.preference_saves = []  # (future, preference revision), oldest first.
         self.preference_revision = 0
         self.preference_warning = self.song_languages.warning
+        self.data_jobs = []  # Storage stats/clears, oldest first, on the preferences worker.
         self.selection_revision = 0
         self.lookups = JobSlot("lyrics", cancelled)
         self.recordings = RecordingDiscovery(cancelled, discover)
@@ -245,6 +246,55 @@ class LyricSession:
         if self._accepts(language, request_id) and self._on_current_track(generation):
             self.recordings.requested = True
             self._commit(language, request_id)
+
+    # User data. Clearing never removes visible lyrics; it affects later lookups.
+
+    def request_data_stats(self):
+        self.data_jobs.append((self.preferences_pool.submit(self._storage_stats, False), ""))
+
+    def clear_data(self, targets):
+        messages = []
+        if "recording_choices" in targets:
+            try:
+                self.choices.clear()
+            except OSError as error:
+                event("data_clear_failed", target="recording_choices", category=type(error).__name__)
+                messages.append("Couldn’t clear saved recording choices.")
+            self.last_recordings = None  # Re-send the recording menu's "manual" flag.
+        if "song_languages" in targets:
+            self.song_languages.forget_all()
+            self.preference_revision += 1
+            self.preference_warning = ""
+            # Same serial worker as saves, so an earlier save cannot resurrect cleared choices.
+            self.preference_saves.append((self.preferences_pool.submit(self.song_languages.clear),
+                                          self.preference_revision))
+            self._invalidate_update()  # Re-resolve the current song's pronunciation.
+        event("data_cleared", targets=",".join(targets))
+        self.data_jobs.append((self.preferences_pool.submit(self._storage_stats, "lyrics_cache" in targets),
+                               " ".join(messages)))
+
+    def _storage_stats(self, clear_cache):
+        message = ""
+        if self.disk_cache and clear_cache and not self.disk_cache.clear():
+            message = "Couldn’t clear the lyrics cache."
+        stats = self.disk_cache.stats() if self.disk_cache else None
+        if self.disk_cache and stats is None:
+            message = message or "Couldn’t read the lyrics cache."
+        return stats, message
+
+    def tick_storage(self, emit_data):
+        """Report finished storage work; runs even while Music cannot be read."""
+        self._collect_preference_saves()
+        while self.data_jobs and self.data_jobs[0][0].done():
+            future, earlier = self.data_jobs.pop(0)
+            try:
+                stats, message = future.result()
+            except Exception as error:
+                event("data_stats_failed", category=type(error).__name__)
+                stats, message = None, "Couldn’t read saved data."
+            emit_data(dict(lyrics_entries=stats[0] if stats else None, lyrics_bytes=stats[1] if stats else None,
+                           recording_choices=self.choices.count, song_languages=self.song_languages.count,
+                           message=" ".join(filter(None, (earlier, message)))))
 
     def _select(self, reference):
         self.lookups.cancel()

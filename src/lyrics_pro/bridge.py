@@ -19,8 +19,8 @@ from .lyric_session import LANGUAGES, LyricSession
 from .music import MusicCancelled, MusicError, read_playback
 from .playback_control import control_playback
 from .protocol import (
-    MAX_COMMAND_BYTES, ChooseRecording, ForgetRecording, ListRecordings, PlaybackControl, RetryLyrics,
-    SetLanguage, SetSongLanguage, Shutdown, event_frame, parse_command,
+    MAX_COMMAND_BYTES, ChooseRecording, ClearData, ForgetRecording, GetDataStats, ListRecordings,
+    PlaybackControl, RetryLyrics, SetLanguage, SetSongLanguage, Shutdown, event_frame, parse_command,
 )
 
 
@@ -184,12 +184,18 @@ class Bridge:
                 return
             if isinstance(command, PlaybackControl):
                 self.controls.submit(command, self.generation, self.key)
+            elif isinstance(command, GetDataStats):
+                self.lyrics.request_data_stats()
+            elif isinstance(command, ClearData):
+                self.lyrics.clear_data(command.targets)
             else:
                 self.lyric_command(command)
 
     def tick(self):
         self.controls.collect()
         self.drain_commands()
+        if not self.cancelled.is_set():
+            self.lyrics.tick_storage(partial(self.send, "data_stats"))
         if self.denied:
             # Permission denial stops polling until the app restarts the worker.
             self.send_control_results()

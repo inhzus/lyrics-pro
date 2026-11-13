@@ -43,6 +43,9 @@ See [installation details](packaging/Install.txt) for more help.
   provider's lyrics. Your choice is remembered for that song.
 - **Follow the music:** click a timed lyric to seek. Scrolling lets you browse;
   **Resume following** returns to the current line.
+- **Settings (⌘,):** show Chinese lyrics as provided, Simplified, or Traditional;
+  change the text size (also **View → Bigger/Smaller**, ⌘= / ⌘−); shift lyric timing
+  for lyrics that drift; keep the window on top; and clear cached or saved data.
 - **Missing lyrics:** try the circular retry button. For connection problems,
   reconnect to Music; diagnostics are under **Help → Open Logs Folder**.
 

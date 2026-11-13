@@ -110,6 +110,25 @@ class SongLanguages:
             self.persistable[key] = language
         return dict(self.persistable)
 
+    @property
+    def count(self):
+        return len(self.values)
+
+    def forget_all(self):
+        """Clear the session's overrides at once; ``clear`` persists it."""
+        self.values.clear()
+        self.persistable.clear()
+
+    def clear(self):
+        """Delete every saved override. The legacy JSON stays a backup that is never reimported."""
+        if self.path is None:
+            return
+        with closing(self._connect()) as db, db:
+            self._prepare(db)
+            db.execute("DELETE FROM song_languages")
+            self._mark_migrated(db)
+        self.loaded = True
+
     def save(self, values):
         """Write an immutable snapshot on the session's serial preferences worker."""
         if self.path is None:
