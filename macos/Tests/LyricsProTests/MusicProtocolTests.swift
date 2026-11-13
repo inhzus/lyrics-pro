@@ -84,6 +84,10 @@ struct MusicProtocolTests {
             #expect(state.phase.rawValue == status)
             #expect(state.identity == nil)
         }
+        #expect(throws: (any Error).self) { try playback(1, state: "buffering") }
+        let seeking = try playback(1, state: "fast forwarding")
+        guard case .playback(let snapshot, _) = seeking.payload else { Issue.record("Expected playback"); return }
+        #expect(snapshot.state == .fastForwarding && snapshot.hasTrack && !snapshot.state.isPlaying)
     }
 
     @Test func framingHandlesSplitUnicodeAndMultipleEvents() throws {
