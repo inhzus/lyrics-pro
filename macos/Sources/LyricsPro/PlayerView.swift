@@ -130,9 +130,14 @@ struct PlayerView: View {
                 .help(subtitle)
                 .accessibilityHidden(subtitle.isEmpty)
             if demo == nil {
+                // Without a song the controls can't do anything; keep their space so nothing jumps.
+                let hasTrack = snapshot?.hasTrack == true
                 PlaybackPanel(connection: connection, accent: accent)
                     .padding(.top, 20)
                     .textSelection(.disabled)
+                    .opacity(hasTrack ? 1 : 0)
+                    .allowsHitTesting(hasTrack)
+                    .accessibilityHidden(!hasTrack)
             } else {
                 DemoTimeline()
                     .padding(.top, 25)
