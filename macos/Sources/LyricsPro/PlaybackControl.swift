@@ -132,14 +132,14 @@ struct PlaybackControlState {
     private mutating func reconcile(now: Double) {
         guard let confirmed else { return }
         if let intent = stateIntent, intent.acknowledged, confirmedRevision >= intent.id,
-           (confirmed.state == "playing") == (intent.command.action == .play) {
+           confirmed.state.isPlaying == (intent.command.action == .play) {
             stateIntent = nil
         }
         if let intent = seekIntent, intent.acknowledged, confirmedRevision >= intent.id,
            let target = intent.command.position {
             // A seek may spend time in Music before confirmation. Allow only forward
             // elapsed playback since dispatch, not arbitrary distance from its target.
-            let elapsed = confirmed.state == "playing" ? max(0, confirmedAt - (intent.sent ?? now)) : 0
+            let elapsed = confirmed.state.isPlaying ? max(0, confirmedAt - (intent.sent ?? now)) : 0
             if confirmed.position >= target - 1 && confirmed.position <= target + elapsed + 1 {
                 seekIntent = nil
             }
@@ -152,9 +152,9 @@ struct PlaybackControlState {
         var current = presentation(at: now)
         current.duration = max(0, confirmed.duration)
         if restorePosition || (seekIntent == nil && stateIntent == nil) {
-            current.position = confirmed.position + (confirmed.state == "playing" ? max(0, now - confirmedAt) : 0)
+            current.position = confirmed.position + (confirmed.state.isPlaying ? max(0, now - confirmedAt) : 0)
         }
-        current.playing = stateIntent.map { $0.command.action == .play } ?? (confirmed.state == "playing")
+        current.playing = stateIntent.map { $0.command.action == .play } ?? confirmed.state.isPlaying
         anchor = current
         anchorAt = now
     }

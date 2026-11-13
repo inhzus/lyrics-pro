@@ -99,11 +99,26 @@ struct RecordingCandidate: Decodable, Sendable, Identifiable, Equatable {
     }
 }
 
+/// Why the worker chose the effective pronunciation language.
+enum LyricReason: String, Decodable, Sendable {
+    case songPreference = "song preference"
+    case proofread = "proofread transcription"
+    case globalDefault = "global default"
+
+    var label: String {
+        switch self {
+        case .songPreference: "Song preference"
+        case .proofread: "Proofread default"
+        case .globalDefault: "Global default"
+        }
+    }
+}
+
 struct LyricUpdate: Decodable, Sendable {
     let requestID: Int
     let language: PronunciationLanguage
     let selectedLanguage: PronunciationLanguage?
-    let reason: String
+    let reason: LyricReason
     let status: LyricStatus
     let message: String
     let lyrics: LiveLyrics?
@@ -120,9 +135,7 @@ struct LyricUpdate: Decodable, Sendable {
 
     var languageDescription: String {
         let effective = selectedLanguage ?? .original
-        let basis = reason == "song preference" ? "Song preference" :
-            (reason == "proofread transcription" ? "Proofread default" : "Global default")
-        return "\(basis) · \(effective.label)"
+        return "\(reason.label) · \(effective.label)"
     }
 
     var isValid: Bool {

@@ -15,7 +15,7 @@ struct PlayerView: View {
     private var status: String? {
         switch connection.state.phase {
         case .connecting: "Connecting…"
-        case .live: snapshot?.state == "paused" ? "Paused" : "Playing"
+        case .live: snapshot?.state == .paused ? "Paused" : "Playing"
         case .closed, .stopped: nil
         case .denied: "Permission needed"
         case .failed: "Disconnected"

@@ -9,21 +9,21 @@ struct LyricProtocolTests {
             proofread: ProofreadMetadata(asset_id: "sample", revision: "1", language: "supplied", attribution: "User"),
             recordingID: "proofread:sample")
         let update = LyricUpdate(requestID: 1, language: .cantonese, selectedLanguage: .supplied,
-            reason: "proofread transcription", status: .ready, message: "", lyrics: lyrics, selectionRevision: 0)
+            reason: .proofread, status: .ready, message: "", lyrics: lyrics, selectionRevision: 0)
         #expect(update.isValid && update.languageDescription.contains("Supplied spelling"))
         #expect(PronunciationLanguage.choices == [.cantonese, .hokkien, .original])
         #expect(RecordingCandidate.validReference("lrclib:42"))
         let invalid = LyricUpdate(requestID: 1, language: .supplied, selectedLanguage: .supplied,
-            reason: "", status: .ready, message: "", lyrics: lyrics, selectionRevision: 0)
+            reason: .globalDefault, status: .ready, message: "", lyrics: lyrics, selectionRevision: 0)
         #expect(!invalid.isValid)
         for status in [LyricStatus.loading, .error] {
             let transition = LyricUpdate(requestID: 1, language: .cantonese, selectedLanguage: .supplied,
-                reason: "proofread transcription", status: status, message: "Preparing", lyrics: nil, selectionRevision: 0)
+                reason: .proofread, status: status, message: "Preparing", lyrics: nil, selectionRevision: 0)
             #expect(transition.isValid)
         }
         let ordinary = LiveLyrics(lines: lyrics.lines, source: lyrics.source, synced: true, instrumental: false)
         let missingMetadata = LyricUpdate(requestID: 1, language: .cantonese, selectedLanguage: .supplied,
-            reason: "", status: .ready, message: "", lyrics: ordinary, selectionRevision: 0)
+            reason: .globalDefault, status: .ready, message: "", lyrics: ordinary, selectionRevision: 0)
         #expect(!missingMetadata.isValid)
     }
 
@@ -45,7 +45,7 @@ struct LyricProtocolTests {
         #expect(lyrics.recordingID == "proofread:shao-nian-eh-an-la")
         #expect(lyrics.lines[0].pronunciation == "siàu-liân leh an lah!")
         let update = LyricUpdate(requestID: 1, language: .cantonese, selectedLanguage: .hokkien,
-            reason: "proofread transcription", status: .ready, message: "", lyrics: lyrics, selectionRevision: 0)
+            reason: .proofread, status: .ready, message: "", lyrics: lyrics, selectionRevision: 0)
         #expect(update.isValid && update.languageDescription.contains("Proofread default"))
         #expect(!update.languageDescription.contains("Artist-based guess"))
     }
@@ -239,6 +239,10 @@ struct LyricProtocolTests {
         let invalid = try JSONDecoder().decode(LyricUpdate.self,
             from: Data(json.replacingOccurrences(of: "\"song_language\":\"original\"", with: "\"song_language\":\"supplied\"").utf8))
         #expect(!invalid.isValid)
+        #expect(throws: (any Error).self) {
+            try JSONDecoder().decode(LyricUpdate.self, from: Data(json.replacingOccurrences(
+                of: "\"song preference\"", with: "\"artist guess\"").utf8))
+        }
     }
 }
 

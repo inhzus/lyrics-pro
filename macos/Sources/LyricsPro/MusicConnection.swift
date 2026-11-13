@@ -182,7 +182,7 @@ final class MusicConnection: ObservableObject {
 
     var canControl: Bool {
         demo == nil && state.phase == .live &&
-        ["playing", "paused"].contains(state.playback?.state ?? "")
+        [.playing, .paused].contains(state.playback?.state)
     }
 
     var canSeek: Bool {
