@@ -35,20 +35,20 @@ enum PronunciationLanguage: String, CaseIterable, Decodable, Sendable {
     }
 }
 
-struct LiveLyricLine: Decodable, Sendable {
+struct LiveLyricLine: Decodable, Sendable, Equatable {
     let text: String
     let time: Double?
     let pronunciation: String?
 }
 
-struct ProofreadMetadata: Decodable, Sendable {
+struct ProofreadMetadata: Decodable, Sendable, Equatable {
     let asset_id: String
     let revision: String
     let language: String
     let attribution: String
 }
 
-struct LiveLyrics: Decodable, Sendable {
+struct LiveLyrics: Decodable, Sendable, Equatable {
     let lines: [LiveLyricLine]
     let source: String
     let synced: Bool

@@ -1,19 +1,22 @@
 import SwiftUI
 
 private typealias FollowingStorage = State<LyricFollowingState>
+private typealias ConversionStorage = State<ScriptConversionCache>
 
 struct LiveLyricsView: View {
     @ObservedObject var connection: MusicConnection
     let accent: Color
     let fontSize: CGFloat
     @FollowingStorage private var following = LyricFollowingState()
+    @ConversionStorage private var conversion = ScriptConversionCache()
+    @AppStorage(ChineseScript.preferenceKey) private var script = ChineseScript.original
 
     private var update: LyricUpdate? { connection.state.lyric }
 
     var body: some View {
         Group {
             if let update, (update.status == .ready || update.status == .plain), let lyrics = update.lyrics {
-                FollowingLyricsView(lyrics: lyrics, generation: connection.state.generation,
+                FollowingLyricsView(lyrics: conversion.lyrics(lyrics, in: script), generation: connection.state.generation,
                                     requestID: update.requestID, recordingRevision: update.selectionRevision ?? 0,
                                     position: connection.presentation.position,
                                     accent: accent, fontSize: fontSize, following: $following,
