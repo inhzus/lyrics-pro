@@ -7,7 +7,7 @@ from urllib.parse import urlencode
 from taibun import to_simplified
 
 from ..models import Candidate, LookupCancelled, LookupFailure, Lyrics, Playback
-from ..pronunciation import artist_key, normalize
+from ..pronunciation import native_name, normalize
 from .lrc import has_text, parse_lrc, plain_lines
 from .matching import (
     MAX_CANDIDATES, BestResult, credits_match, lookup_ready, matches, other_album,
@@ -20,8 +20,6 @@ SONG_SEARCH_LIMIT = 30
 ALBUM_SEARCH_LIMIT = 20
 MAX_ALBUMS = 3
 LYRIC_ATTEMPTS_PER_PHASE = 3
-# Romanized Apple Music credits that NetEase search only knows by Chinese name.
-SEARCH_ARTIST_NAMES = {"eason": "陈奕迅", "wubai": "伍佰"}
 
 
 def request_json(endpoint: str, params: dict, cancelled: Event | None = None) -> object | None:
@@ -134,7 +132,8 @@ def response_items(response: dict | None, key: str, *, search: bool = False) -> 
 
 
 def search_queries(track: Playback) -> tuple[str, ...]:
-    artist = SEARCH_ARTIST_NAMES.get(artist_key(track.artist), track.artist)
+    # NetEase search may know romanized Apple Music credits only by their native name.
+    artist = native_name(track.artist) or track.artist
     return tuple(dict.fromkeys((f"{to_simplified(track.title)} {to_simplified(artist)}",
                                 f"{track.title} {track.artist}")))
 

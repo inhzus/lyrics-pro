@@ -1,7 +1,7 @@
 import pytest
 
 from lyrics_pro.models import LyricLine, Lyrics
-from lyrics_pro.pronunciation import Romanizer
+from lyrics_pro.pronunciation import Romanizer, artist_key, native_name
 
 
 @pytest.mark.parametrize("text", ["令神仙鱼归天要怪谁", "令神仙魚歸天要怪誰"])
@@ -43,3 +43,13 @@ def test_annotation_preserves_original_lyrics_timing_and_source():
 
 def test_hokkien_still_uses_tailo():
     assert Romanizer().line("我欲學唱歌", "hokkien") == "gua2 beh4 oh8 tshiunn3-kua1"
+
+
+def test_artist_groups_keep_preference_keys_and_expose_native_names():
+    # Saved song preferences are keyed by artist_key, so these values must stay stable.
+    assert {artist_key(name) for name in ("Eason Chan", "陳奕迅", "陈奕迅", "Chan, Eason")} == {"eason"}
+    assert {artist_key(name) for name in ("Wu Bai & China Blue", "伍佰", "China Blue")} == {"wubai"}
+    assert artist_key("Unknown Artist") == "unknownartist"
+    assert native_name("Eason Chan") == "陳奕迅" and native_name("Wu Bai") == "伍佰"
+    assert native_name("Unknown Artist") is None
+
