@@ -7,8 +7,7 @@ import math
 
 from .diagnostics import event
 from .lyrics_cache import decode
-from .lyrics import Candidate
-from .models import LookupCancelled, Lyrics
+from .models import Candidate, LookupCancelled, Lyrics
 from .pronunciation import normalize
 from .recording_ref import recording_ref, source_ref
 

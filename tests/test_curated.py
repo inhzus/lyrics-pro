@@ -11,7 +11,8 @@ import pytest
 from lyrics_pro import curated
 from lyrics_pro.lyrics import Candidate
 from lyrics_pro.lyrics_cache import LyricsCache, decode, encode, fingerprint
-from lyrics_pro.lyric_session import Cancellation, LyricSession, lookup_recording
+from lyrics_pro.lyric_session import Cancellation, LyricSession
+from lyrics_pro.lyrics import lookup_recording
 from lyrics_pro.models import LookupCancelled, LookupFailure, Playback
 from lyrics_pro.pronunciation import Romanizer, resolve_language
 from lyrics_pro.recording_choices import RecordingChoices

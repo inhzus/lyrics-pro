@@ -226,7 +226,7 @@ def test_malformed_search_results():
 @pytest.mark.parametrize("code,retryable", [(429, True), (503, True), (301, False), (400, False), (None, True)])
 def test_netease_api_error_codes(code, retryable):
     body = json.dumps({"code": code}) + "\n200"
-    with patch("lyrics_pro.lyrics.run_curl", return_value=subprocess.CompletedProcess([], 0, body, "")):
+    with patch("lyrics_pro.lyrics.transport.run_curl", return_value=subprocess.CompletedProcess([], 0, body, "")):
         with pytest.raises(LookupFailure) as error:
             request_json("search/get", {})
         assert error.value.retryable == retryable
@@ -234,14 +234,14 @@ def test_netease_api_error_codes(code, retryable):
 
 @pytest.mark.parametrize("body", ["<html>error</html>", "[]"])
 def test_invalid_http_200_responses(body):
-    with patch("lyrics_pro.lyrics.run_curl", return_value=subprocess.CompletedProcess([], 0, body + "\n200", "")):
+    with patch("lyrics_pro.lyrics.transport.run_curl", return_value=subprocess.CompletedProcess([], 0, body + "\n200", "")):
         with pytest.raises(LookupFailure):
             request_json("search/get", {})
 
 
 def test_only_netease_urls_and_encoded_query_parameters():
     response = subprocess.CompletedProcess([], 0, '{"code":200}\n200', "")
-    with patch("lyrics_pro.lyrics.run_curl", return_value=response) as curl:
+    with patch("lyrics_pro.lyrics.transport.run_curl", return_value=response) as curl:
         assert request_json("search/get", {"s": "伍佰 & China Blue"}) == {"code": 200}
     command = curl.call_args.args[0]
     url = urlparse(command[-1])

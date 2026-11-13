@@ -92,7 +92,7 @@ def test_search_results_are_bounded():
 
 def test_transport_uses_lrclib_without_netease_headers():
     response = subprocess.CompletedProcess([], 0, json.dumps(record()) + "\n200", "")
-    with patch("lyrics_pro.lyrics.run_curl", return_value=response) as curl:
+    with patch("lyrics_pro.lyrics.transport.run_curl", return_value=response) as curl:
         assert lrclib_request_json("get", {"artist_name": "伍佰 & China Blue"}) == record()
     command = curl.call_args.args[0]
     url = urlparse(command[-1])
@@ -107,6 +107,6 @@ def test_transport_uses_lrclib_without_netease_headers():
 def test_invalid_responses(endpoint, body):
     payload = body if isinstance(body, str) else json.dumps(body)
     response = subprocess.CompletedProcess([], 0, payload + "\n200", "")
-    with patch("lyrics_pro.lyrics.run_curl", return_value=response):
+    with patch("lyrics_pro.lyrics.transport.run_curl", return_value=response):
         with pytest.raises(LookupFailure):
             lrclib_request_json(endpoint, {})
