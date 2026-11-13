@@ -11,7 +11,7 @@ struct MusicProtocolTests {
             defer { finished.signal() }
             try? EventStream.read(from: pipe.fileHandleForReading) { _ in received.signal() }
         }
-        try pipe.fileHandleForWriting.write(contentsOf: Data("{\"version\":1,\"type\":\"ready\",\"generation\":0}\n".utf8))
+        try pipe.fileHandleForWriting.write(contentsOf: Data("{\"version\":2,\"type\":\"ready\",\"generation\":0,\"track\":null,\"payload\":{}}\n".utf8))
         let delivered = received.wait(timeout: .now() + 1)
         try pipe.fileHandleForWriting.close()
         #expect(finished.wait(timeout: .now() + 1) == .success)
@@ -21,13 +21,13 @@ struct MusicProtocolTests {
 
     private func playback(_ generation: Int, _ title: String = "A", state: String = "playing", position: Double = 12) throws -> BridgeEvent {
         try BridgeEvent.decode(Data("""
-        {"version":1,"type":"playback","generation":\(generation),"track":["\(title)","Artist","Album",200],"playback":{"state":"\(state)","title":"\(title)","artist":"Artist","album":"Album","duration":200,"position":\(position)}}
+        {"version":2,"type":"playback","generation":\(generation),"track":{"title":"\(title)","artist":"Artist","album":"Album","duration":200},"payload":{"completed_control_id":0,"snapshot":{"state":"\(state)","title":"\(title)","artist":"Artist","album":"Album","duration":200,"position":\(position)}}}
         """.utf8))
     }
 
     private func artwork(_ generation: Int, _ title: String = "A") throws -> BridgeEvent {
         try BridgeEvent.decode(Data("""
-        {"version":1,"type":"artwork","generation":\(generation),"track":["\(title)","Artist","Album",200],"image":"aW1hZ2U="}
+        {"version":2,"type":"artwork","generation":\(generation),"track":{"title":"\(title)","artist":"Artist","album":"Album","duration":200},"payload":{"image":"aW1hZ2U="}}
         """.utf8))
     }
 
@@ -66,7 +66,7 @@ struct MusicProtocolTests {
         state.apply(try playback(1))
         state.apply(try artwork(1))
         state.apply(try BridgeEvent.decode(Data("""
-        {"version":1,"type":"status","generation":2,"track":null,"code":"permission_denied","message":"Enable Music for Lyrics Pro"}
+        {"version":2,"type":"status","generation":2,"track":null,"payload":{"code":"permission_denied","message":"Enable Music for Lyrics Pro"}}
         """.utf8)))
         state.apply(try artwork(1))
         #expect(state.phase == .denied)
@@ -79,7 +79,7 @@ struct MusicProtocolTests {
             var state = LiveMusicState()
             state.apply(try playback(1))
             state.apply(try BridgeEvent.decode(Data("""
-            {"version":1,"type":"playback","generation":2,"track":null,"playback":{"state":"\(status)","title":"","artist":"","album":"","duration":0,"position":0}}
+            {"version":2,"type":"playback","generation":2,"track":null,"payload":{"completed_control_id":0,"snapshot":{"state":"\(status)","title":"","artist":"","album":"","duration":0,"position":0}}}
             """.utf8)))
             #expect(state.phase.rawValue == status)
             #expect(state.identity == nil)
@@ -87,18 +87,23 @@ struct MusicProtocolTests {
     }
 
     @Test func framingHandlesSplitUnicodeAndMultipleEvents() throws {
-        let json = "{\"version\":1,\"type\":\"status\",\"generation\":1,\"message\":\"朴树\"}\n"
+        let json = "{\"version\":2,\"type\":\"status\",\"generation\":1,\"payload\":{\"code\":\"unavailable\",\"message\":\"朴树\"}}\n"
         let data = Data((json + json).utf8)
         let split = data.firstIndex(of: 0xe6)! + 1
         var framer = EventFramer()
         #expect(try framer.append(data.prefix(split)).isEmpty)
         let result = try framer.append(data.suffix(from: split))
         #expect(result.count == 2)
-        #expect(result[0].message == "朴树")
+        guard case .status(_, let message) = result[0].payload else { Issue.record("Expected status"); return }
+        #expect(message == "朴树")
     }
 
     @Test func invalidProtocolAndOversizedFramesAreRejected() {
-        #expect(throws: (any Error).self) { try BridgeEvent.decode(Data("{\"version\":2,\"type\":\"ready\",\"generation\":0}".utf8)) }
+        #expect(throws: (any Error).self) { try BridgeEvent.decode(Data("{\"version\":1,\"type\":\"ready\",\"generation\":0}".utf8)) }
+        #expect(throws: (any Error).self) { try BridgeEvent.decode(Data("{\"version\":2,\"type\":\"retry\",\"generation\":0}".utf8)) }
+        #expect(throws: (any Error).self) {
+            try BridgeEvent.decode(Data("{\"version\":2,\"type\":\"status\",\"generation\":0,\"payload\":{\"code\":\"x\"}}".utf8))
+        }
         #expect(throws: (any Error).self) { try BridgeEvent.decode(Data("not json".utf8)) }
         var framer = EventFramer()
         #expect(throws: (any Error).self) { try framer.append(Data(repeating: 65, count: 8 * 1024 * 1024 + 1)) }

@@ -1,13 +1,12 @@
 """Bounded Apple Music playback commands; no shell or interpolated scripts."""
 
+from dataclasses import asdict
 import json
-import math
 import subprocess
 
 from .music import MusicError, run_script
+from .protocol import PlaybackControl, track_object
 
-
-ACTIONS = {"play", "pause", "next", "previous", "seek"}
 
 SCRIPT = r'''
 function run(argv) {
@@ -20,8 +19,8 @@ function run(argv) {
         return failure("unavailable", "Choose a playing or paused song in Music first.");
     const track = app.currentTrack();
     const expected = request.track;
-    if (track.name() !== expected[0] || track.artist() !== expected[1] ||
-        track.album() !== expected[2] || Math.abs(track.duration() - expected[3]) > 0.02)
+    if (track.name() !== expected.title || track.artist() !== expected.artist ||
+        track.album() !== expected.album || Math.abs(track.duration() - expected.duration) > 0.02)
         return failure("stale_track", "The song changed. Try the control again.");
     switch (request.action) {
         case "play": app.play(); break;
@@ -46,27 +45,11 @@ function run(argv) {
 '''
 
 
-def valid_command(message):
-    track = message.get("track")
-    return (
-        message.get("command") == "playback_control"
-        and message.get("action") in ACTIONS
-        and type(message.get("command_id")) is int and message["command_id"] > 0
-        and type(message.get("generation")) is int and message["generation"] >= 0
-        and isinstance(track, list) and len(track) == 4
-        and all(isinstance(value, str) for value in track[:3]) and bool(track[0])
-        and type(track[3]) in (int, float) and math.isfinite(track[3]) and track[3] >= 0
-        and (message["action"] != "seek" or (
-            type(message.get("position")) in (int, float) and math.isfinite(message["position"])))
-    )
-
-
-def control_playback(message, *, cancelled=None):
-    if not valid_command(message):
-        raise MusicError("Invalid playback request.", code="invalid_command")
+def control_playback(command: PlaybackControl, cancelled=None):
+    request = asdict(command) | {"track": track_object(command.track)}
     try:
         result = run_script(["/usr/bin/osascript", "-l", "JavaScript", "-e", SCRIPT,
-                             json.dumps(message, ensure_ascii=False, allow_nan=False)],
+                             json.dumps(request, ensure_ascii=False, allow_nan=False)],
                             timeout=4, cancelled=cancelled)
     except subprocess.TimeoutExpired as exc:
         raise MusicError("Music did not confirm the control. Check playback before trying again.",

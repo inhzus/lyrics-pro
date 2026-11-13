@@ -96,7 +96,8 @@ final class MusicConnection: ObservableObject {
                 do {
                     try EventStream.read(from: handle) { event in
                         // Decode/downsample on the event queue; the UI only wraps the immutable bitmap.
-                        let artwork = event.type == "artwork" ? DecodedArtwork(base64: event.image) : nil
+                        var artwork: DecodedArtwork?
+                        if case .artwork(let image) = event.payload { artwork = DecodedArtwork(base64: image) }
                         DispatchQueue.main.async { [weak self] in self?.receive(event, session: run, artwork: artwork) }
                     }
                 } catch {
@@ -134,7 +135,7 @@ final class MusicConnection: ObservableObject {
 
     private func receive(_ event: BridgeEvent, session run: UUID, artwork: DecodedArtwork?) {
         guard session == run else { return }
-        if event.type == "ready" { receivedReady = true }
+        if case .ready = event.payload { receivedReady = true }
         let previousArtwork = state.artwork
         state.apply(event)
         controls.receive(event, now: Self.now)
@@ -165,7 +166,7 @@ final class MusicConnection: ObservableObject {
         guard PronunciationLanguage.choices.contains(value), language != value else { return }
         language = value
         UserDefaults.standard.set(value.rawValue, forKey: PronunciationLanguage.preferenceKey)
-        sendLyricCommand("language", preserve: true)
+        sendLyricCommand { requestID, _ in .setLanguage(value, requestID: requestID) }
     }
 
     var songLanguage: PronunciationLanguage { state.pronunciation?.songLanguage ?? .inherit }
@@ -179,28 +180,35 @@ final class MusicConnection: ObservableObject {
 
     func selectSongLanguage(_ value: PronunciationLanguage) {
         guard canChooseSongLanguage, PronunciationLanguage.songChoices.contains(value),
-              let identity = state.identity,
-              let data = try? JSONEncoder().encode(identity),
-              let track = try? JSONSerialization.jsonObject(with: data) else { return }
-        sendLyricCommand("song_language", extra: ["song_language": value.rawValue, "track": track], preserve: true)
+              let track = state.identity else { return }
+        sendLyricCommand { requestID, generation in
+            .setSongLanguage(value, requestID: requestID, generation: generation, track: track)
+        }
     }
 
     func retryLyrics() {
-        sendLyricCommand("retry_lyrics", extra: ["retry_artwork": artworkImage == nil], preserve: true)
+        let retryArtwork = artworkImage == nil
+        sendLyricCommand { requestID, generation in
+            .retryLyrics(requestID: requestID, generation: generation, retryArtwork: retryArtwork)
+        }
     }
 
     func chooseRecording(_ candidate: RecordingCandidate, generation: Int, requestID: Int) {
         guard demo == nil, state.phase == .live, state.generation == generation,
               state.lyricRequestID == requestID,
               state.recordings?.candidates.contains(where: { $0.id == candidate.id }) == true else { return }
-        sendLyricCommand("choose_recording", extra: ["recording_id": candidate.id, "choice_request_id": requestID], preserve: true)
+        sendLyricCommand { next, generation in
+            .chooseRecording(candidate.id, requestID: next, generation: generation, choiceRequestID: requestID)
+        }
     }
 
-    func forgetRecording() { sendLyricCommand("forget_recording", preserve: true) }
+    func forgetRecording() {
+        sendLyricCommand { requestID, generation in .forgetRecording(requestID: requestID, generation: generation) }
+    }
 
     func listRecordings() {
         guard demo == nil, state.phase == .live else { return }
-        sendLyricCommand("list_recordings", preserve: true)
+        sendLyricCommand { requestID, generation in .listRecordings(requestID: requestID, generation: generation) }
     }
 
     var canControl: Bool {
@@ -225,7 +233,7 @@ final class MusicConnection: ObservableObject {
         }
         controlRevision += 1
         let id = controlRevision
-        let command = PlaybackCommand(command_id: id, action: action, generation: state.generation,
+        let command = PlaybackCommand(commandID: id, action: action, generation: state.generation,
                                       track: track, position: target)
         controls.enqueue(command, resumeFollowing: resumeFollowing, now: Self.now)
         dispatchNextControl()
@@ -236,8 +244,7 @@ final class MusicConnection: ObservableObject {
         guard canControl, controls.inFlight == nil, !controls.queued.isEmpty,
               let input, let run = session, process?.isRunning == true,
               let command = controls.takeNext(now: Self.now) else { return }
-        guard var data = try? JSONEncoder().encode(command) else { return }
-        data.append(10)
+        guard let data = try? WorkerCommand.playbackControl(command).frame() else { return }
         writeCommand(data, input: input, session: run)
     }
 
@@ -249,15 +256,11 @@ final class MusicConnection: ObservableObject {
         if updatingMusic != updating { updatingMusic = updating }
     }
 
-    private func sendLyricCommand(_ command: String, extra: [String: Any] = [:], preserve: Bool = false) {
+    /// Sends a lyric command with a new request revision and the current generation.
+    private func sendLyricCommand(_ make: (_ requestID: Int, _ generation: Int) -> WorkerCommand) {
         guard let process, let input, let run = session, process.isRunning else { return }
-        state.prepareLyrics(requestID: state.lyricRequestID + 1, preserve: preserve)
-        var payload: [String: Any] = ["version": 1, "command": command,
-                                      "language": language.rawValue, "request_id": state.lyricRequestID,
-                                      "generation": state.generation]
-        payload.merge(extra) { _, value in value }
-        guard var data = try? JSONSerialization.data(withJSONObject: payload) else { return }
-        data.append(10)
+        let command = make(state.nextLyricRequestID(), state.generation)
+        guard let data = try? command.frame() else { return }
         writeCommand(data, input: input, session: run)
     }
 

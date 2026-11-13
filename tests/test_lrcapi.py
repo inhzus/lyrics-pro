@@ -113,15 +113,3 @@ def test_lrcapi_choice_commits_after_success_and_emits_qualified_selection(tmp_p
         assert calls == [("lrcapi:1447841672", TRACK.key)]
     finally:
         worker.close()
-
-
-def test_qualified_bridge_commands_are_validated():
-    import io
-    from queue import Queue
-    from lyrics_pro.bridge import read_commands
-    valid = dict(version=1, command="choose_recording", language="original", request_id=2,
-                 generation=1, choice_request_id=1, recording_id="lrcapi:1447841672")
-    queue = Queue()
-    invalid = [valid | {"recording_id": value} for value in [True, "unknown:1", "lrcapi:https://bad", "netease:0"]]
-    read_commands(io.StringIO("\n".join(map(json.dumps, invalid + [valid]))), queue, Event())
-    assert queue.get_nowait() == valid and queue.empty()

@@ -5,22 +5,6 @@ struct TrackIdentity: Codable, Equatable, Sendable {
     let artist: String
     let album: String
     let duration: Double
-
-    init(from decoder: any Decoder) throws {
-        var values = try decoder.unkeyedContainer()
-        title = try values.decode(String.self)
-        artist = try values.decode(String.self)
-        album = try values.decode(String.self)
-        duration = try values.decode(Double.self)
-    }
-
-    func encode(to encoder: any Encoder) throws {
-        var values = encoder.unkeyedContainer()
-        try values.encode(title)
-        try values.encode(artist)
-        try values.encode(album)
-        try values.encode(duration)
-    }
 }
 
 struct MusicSnapshot: Decodable, Sendable {
@@ -43,43 +27,84 @@ struct MusicSnapshot: Decodable, Sendable {
     }
 }
 
+struct ControlResult: Decodable, Sendable {
+    let commandID: Int
+    let ok: Bool
+    var code: String? = nil
+    var message: String? = nil
+
+    enum CodingKeys: String, CodingKey {
+        case commandID = "command_id", ok, code, message
+    }
+}
+
+/// One worker event (docs/protocol.md). Decoding validates the payload for its type.
 struct BridgeEvent: Decodable, Sendable {
-    let version: Int
-    let type: String
+    enum Payload: Sendable {
+        case ready
+        case playback(MusicSnapshot, completedControlID: Int)
+        case artwork(image: String?)
+        case status(code: String, message: String)
+        case lyrics(LyricUpdate)
+        case recordings(RecordingUpdate)
+        case controlResult(ControlResult)
+    }
+
+    static let version = 2
+    static let playerStates: Set = ["playing", "paused", "stopped", "closed", "fast forwarding", "rewinding"]
+
     let generation: Int
     let track: TrackIdentity?
-    let playback: MusicSnapshot?
-    let image: String?
-    let code: String?
-    let message: String?
-    let lyric: LyricUpdate?
-    let recordings: RecordingUpdate?
-    let command_id: Int?
-    let completed_control_id: Int?
-    let ok: Bool?
+    let payload: Payload
 
-    static func decode(_ data: Data) throws -> BridgeEvent {
-        let event = try JSONDecoder().decode(Self.self, from: data)
-        guard event.version == 1, event.generation >= 0,
-              ["ready", "playback", "artwork", "status", "lyrics", "recordings", "control_result"].contains(event.type) else {
+    private enum CodingKeys: String, CodingKey { case version, type, generation, track, payload }
+    private enum PlaybackKeys: String, CodingKey { case snapshot, completedControlID = "completed_control_id" }
+    private enum ArtworkKeys: String, CodingKey { case image }
+    private enum StatusKeys: String, CodingKey { case code, message }
+
+    init(from decoder: any Decoder) throws {
+        let values = try decoder.container(keyedBy: CodingKeys.self)
+        guard try values.decode(Int.self, forKey: .version) == Self.version else { throw BridgeError.invalidEvent }
+        generation = try values.decode(Int.self, forKey: .generation)
+        track = try values.decodeIfPresent(TrackIdentity.self, forKey: .track)
+        guard generation >= 0 else { throw BridgeError.invalidEvent }
+        switch try values.decode(String.self, forKey: .type) {
+        case "ready":
+            payload = .ready
+        case "playback":
+            let body = try values.nestedContainer(keyedBy: PlaybackKeys.self, forKey: .payload)
+            let snapshot = try body.decode(MusicSnapshot.self, forKey: .snapshot)
+            let completed = try body.decode(Int.self, forKey: .completedControlID)
+            guard completed >= 0, snapshot.duration.isFinite, snapshot.position.isFinite,
+                  Self.playerStates.contains(snapshot.state),
+                  snapshot.hasTrack == (track != nil) else { throw BridgeError.invalidEvent }
+            payload = .playback(snapshot, completedControlID: completed)
+        case "artwork":
+            let body = try values.nestedContainer(keyedBy: ArtworkKeys.self, forKey: .payload)
+            payload = .artwork(image: try body.decodeIfPresent(String.self, forKey: .image))
+        case "status":
+            let body = try values.nestedContainer(keyedBy: StatusKeys.self, forKey: .payload)
+            payload = .status(code: try body.decode(String.self, forKey: .code),
+                              message: try body.decode(String.self, forKey: .message))
+        case "lyrics":
+            let update = try values.decode(LyricUpdate.self, forKey: .payload)
+            guard track != nil, update.isValid else { throw BridgeError.invalidEvent }
+            payload = .lyrics(update)
+        case "recordings":
+            let update = try values.decode(RecordingUpdate.self, forKey: .payload)
+            guard track != nil, update.isValid else { throw BridgeError.invalidEvent }
+            payload = .recordings(update)
+        case "control_result":
+            let result = try values.decode(ControlResult.self, forKey: .payload)
+            guard result.commandID > 0 else { throw BridgeError.invalidEvent }
+            payload = .controlResult(result)
+        default:
             throw BridgeError.invalidEvent
         }
-        if event.type == "playback" {
-            if let revision = event.completed_control_id, revision < 0 { throw BridgeError.invalidEvent }
-            guard let p = event.playback, p.duration.isFinite, p.position.isFinite,
-                  ["playing", "paused", "stopped", "closed", "fast forwarding", "rewinding"].contains(p.state),
-                  p.hasTrack == (event.track != nil) else { throw BridgeError.invalidEvent }
-        }
-        if event.type == "lyrics" {
-            guard event.track != nil, event.lyric?.isValid == true else { throw BridgeError.invalidEvent }
-        }
-        if event.type == "recordings" {
-            guard event.track != nil, event.recordings?.isValid == true else { throw BridgeError.invalidEvent }
-        }
-        if event.type == "control_result" {
-            guard let id = event.command_id, id > 0, event.ok != nil else { throw BridgeError.invalidEvent }
-        }
-        return event
+    }
+
+    static func decode(_ data: Data) throws -> BridgeEvent {
+        try JSONDecoder().decode(Self.self, from: data)
     }
 }
 
@@ -132,67 +157,61 @@ struct LiveMusicState: Sendable {
     var recordings: RecordingUpdate?
     var lyricRequestID = 0
 
-    mutating func prepareLyrics(requestID: Int, preserve: Bool = false) {
-        lyricRequestID = requestID
-        if !preserve { lyric = nil }
+    /// Starts a lyric command revision. Visible lyrics stay until a newer update replaces them.
+    mutating func nextLyricRequestID() -> Int {
+        lyricRequestID += 1
+        return lyricRequestID
     }
 
     mutating func apply(_ event: BridgeEvent) {
         guard event.generation >= generation else { return }
-        switch event.type {
-        case "playback":
-            guard let snapshot = event.playback else { return }
+        let current = event.generation == generation && identity != nil && identity == event.track && phase == .live
+        switch event.payload {
+        case .playback(let snapshot, _):
             if event.generation == generation, identity != event.track { return }
-            if identity != event.track || generation != event.generation {
-                artwork = nil
-                artworkReceived = false
-                lyric = nil
-                pronunciation = nil
-                recordings = nil
-            }
+            if identity != event.track || generation != event.generation { clearTrackContent() }
             generation = event.generation
             identity = event.track
             playback = snapshot
             phase = snapshot.state == "closed" ? .closed : (snapshot.state == "stopped" ? .stopped : .live)
             message = snapshot.state == "paused" ? "Paused in Music" : "Following Apple Music"
-        case "artwork":
-            guard event.generation == generation, let identity, identity == event.track, phase == .live else { return }
-            artwork = event.image.flatMap { Data(base64Encoded: $0) }
+        case .artwork(let image):
+            guard current else { return }
+            artwork = image.flatMap { Data(base64Encoded: $0) }
             artworkReceived = true
-        case "lyrics":
-            guard event.generation == generation, let identity, identity == event.track,
-                  phase == .live, let update = event.lyric, update.requestID == lyricRequestID else { return }
+        case .lyrics(let update):
+            guard current, update.requestID == lyricRequestID else { return }
             // Keep successful lyrics readable while an explicit refresh is pending.
             pronunciation = update
             if update.status != .loading || lyric?.lyrics == nil { lyric = update }
-        case "recordings":
-            guard event.generation == generation, let identity, identity == event.track,
-                  phase == .live, let update = event.recordings, update.requestID == lyricRequestID else { return }
+        case .recordings(let update):
+            guard current, update.requestID == lyricRequestID else { return }
             recordings = update
-        case "status":
+        case .status(let code, let explanation):
             generation = event.generation
             identity = nil
             playback = nil
-            artwork = nil
-            artworkReceived = false
-            lyric = nil
-            pronunciation = nil
-            recordings = nil
-            phase = event.code == "permission_denied" ? .denied : .failed
-            message = event.message ?? "Cannot read Apple Music. Waiting to reconnect."
-        default: break
+            clearTrackContent()
+            phase = code == "permission_denied" ? .denied : .failed
+            message = explanation
+        case .ready, .controlResult:
+            break
         }
+    }
+
+    private mutating func clearTrackContent() {
+        artwork = nil
+        artworkReceived = false
+        lyric = nil
+        pronunciation = nil
+        recordings = nil
     }
 
     mutating func fail(_ explanation: String) {
         phase = .failed
         playback = nil
         identity = nil
-        artwork = nil
-        artworkReceived = false
-        lyric = nil
-        pronunciation = nil
-        recordings = nil
+        clearTrackContent()
         message = explanation
     }
 }

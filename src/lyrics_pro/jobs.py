@@ -3,6 +3,7 @@
 from concurrent.futures import Future, ThreadPoolExecutor
 from dataclasses import dataclass
 from threading import Event
+import time
 
 from .models import LookupCancelled
 
@@ -23,6 +24,13 @@ class Cancellation:
     def check(self):
         if self.is_set():
             raise LookupCancelled("Lyrics request cancelled.")
+
+    def wait(self, timeout: float) -> bool:
+        """Sleep up to ``timeout`` seconds, waking within 0.1 s of cancellation."""
+        deadline = time.monotonic() + timeout
+        while not self.is_set() and (remaining := deadline - time.monotonic()) > 0:
+            self.local.wait(min(0.1, remaining))
+        return self.is_set()
 
 
 @dataclass

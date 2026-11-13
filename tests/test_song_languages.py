@@ -2,8 +2,6 @@ from dataclasses import replace
 import json
 import sqlite3
 from threading import Event
-from queue import Queue
-import io
 from unittest.mock import patch
 
 import pytest
@@ -12,7 +10,6 @@ from lyrics_pro.models import Playback, Lyrics, LyricLine, Proofread
 from lyrics_pro.pronunciation import resolve_language, choose_language
 from lyrics_pro.song_languages import SongLanguages, MAX_ENTRIES, MAX_BYTES
 from lyrics_pro.lyric_session import LyricSession
-from lyrics_pro.bridge import read_commands
 from test_lyric_session import ControlledPool, settle, RAW, A, B
 
 
@@ -32,17 +29,6 @@ def test_precedence(global_language, song_language, proofread):
 def test_auto_is_not_an_explicit_language():
     with pytest.raises(ValueError):
         choose_language("Wu Bai", "auto")
-
-
-def test_song_preference_commands_validate_fields():
-    valid = dict(version=1, command="song_language", language="cantonese", song_language="default",
-                 request_id=1, generation=1, track=list(A.key))
-    messages = [valid | dict(song_language="auto"), valid | dict(song_language=[]),
-                valid | dict(language="auto"), valid | dict(generation=True),
-                valid | dict(track=[]), valid | dict(request_id=True), valid]
-    queue = Queue()
-    read_commands(io.StringIO("\n".join(json.dumps(m) for m in messages)), queue, Event())
-    assert queue.get_nowait() == valid and queue.empty()
 
 
 def test_identity_persistence_and_clear(tmp_path):

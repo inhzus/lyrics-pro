@@ -20,8 +20,11 @@ candidate is a separate, explicitly requested integration step.
   pronunciation engines, cache, and terminal client.
 - `MusicConnection.swift` owns the subprocess connection; `BackendLaunch.swift`
   resolves the packaged worker and sanitizes its environment.
-- `bridge.py` and `LyricProtocol.swift` / `MusicProtocol.swift` define the NDJSON
-  boundary. Playback presentation and lyric following have separate state models.
+- [docs/protocol.md](docs/protocol.md) specifies the version 2 NDJSON boundary.
+  `protocol.py` parses commands and frames events; `bridge.py` dispatches them.
+  Natively, `MusicProtocol.swift` / `LyricProtocol.swift` decode events and
+  `WorkerCommand.swift` encodes commands; change both sides and the spec together.
+  Playback presentation and lyric following have separate state models.
 - `lyrics/` holds the online providers: `transport.py` (bounded curl), `lrc.py`,
   `matching.py` (recording identity), `netease.py` / `lrcapi.py` / `lrclib.py`,
   and `chain.py` (provider order, explicit recording lookup and discovery).

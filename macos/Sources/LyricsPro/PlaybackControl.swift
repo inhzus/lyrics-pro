@@ -16,10 +16,8 @@ enum LyricSeek {
     }
 }
 
-struct PlaybackCommand: Encodable, Sendable {
-    let version = 1
-    let command = "playback_control"
-    let command_id: Int
+struct PlaybackCommand: Sendable {
+    let commandID: Int
     let action: PlaybackAction
     let generation: Int
     let track: TrackIdentity
@@ -39,7 +37,7 @@ struct PlaybackControlState {
         let created: Double
         var sent: Double?
         var acknowledged = false
-        var id: Int { command.command_id }
+        var id: Int { command.commandID }
     }
     private(set) var inFlight: Intent?
     private(set) var queued: [Intent] = []
@@ -103,27 +101,31 @@ struct PlaybackControlState {
     }
 
     mutating func receive(_ event: BridgeEvent, now: Double) {
-        if event.type == "playback", let snapshot = event.playback, event.generation >= generation {
-            if event.generation == generation, (event.completed_control_id ?? 0) < confirmedRevision { return }
+        switch event.payload {
+        case .playback(let snapshot, let completed) where event.generation >= generation:
+            if event.generation == generation, completed < confirmedRevision { return }
             if event.generation != generation {
                 clearIntents(now: now)
                 generation = event.generation
             }
             confirmed = snapshot
             confirmedAt = now
-            confirmedRevision = event.completed_control_id ?? 0
+            confirmedRevision = completed
             reconcile(now: now)
-        } else if event.type == "control_result", let id = event.command_id {
+        case .controlResult(let result):
+            let id = result.commandID
             if inFlight?.id == id { inFlight = nil }
-            if event.ok == true {
+            if result.ok {
                 if stateIntent?.id == id { stateIntent?.acknowledged = true }
                 if seekIntent?.id == id { seekIntent?.acknowledged = true }
                 // Skip stays guarded until a track change or its confirmation deadline.
                 if skipIntent?.id == id { skipIntent?.acknowledged = true }
                 reconcile(now: now)
             } else {
-                fail(id: id, explanation: event.message ?? "Music could not complete the control.", now: now)
+                fail(id: id, explanation: result.message ?? "Music could not complete the control.", now: now)
             }
+        default:
+            break
         }
     }
 

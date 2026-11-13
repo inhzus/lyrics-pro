@@ -1,13 +1,11 @@
 from concurrent.futures import Future
 from dataclasses import replace
-import io
-import json
 from queue import Queue
 from threading import Event
 
 import pytest
 
-from lyrics_pro.bridge import Bridge, read_commands
+from lyrics_pro.bridge import Bridge
 from lyrics_pro.lyric_session import LyricSession
 from lyrics_pro.models import Lyrics, LyricLine, LookupCancelled, LookupFailure, Playback
 
@@ -232,18 +230,6 @@ def test_pending_lookup_does_not_block_music_and_is_cancelled_on_shutdown():
     finally:
         bridge.close()
     assert ended.is_set()
-
-
-def test_language_commands_validate_types_and_preserve_revision():
-    stopped, queue = Event(), Queue()
-    valid = {"version": 1, "command": "language", "language": "cantonese", "request_id": 2}
-    messages = [valid | {"language": []}, valid | {"request_id": True},
-                valid | {"request_id": -1}, valid | {"command": "retry_lyrics"},
-                valid, valid | {"command": "retry_lyrics", "generation": 3}]
-    read_commands(io.StringIO("\n".join(map(json.dumps, messages))), queue, stopped)
-    assert queue.get_nowait() == valid
-    assert queue.get_nowait()["generation"] == 3
-    assert queue.empty()
 
 
 def test_original_lyrics_can_recover_after_pronunciation_engine_fails(session):

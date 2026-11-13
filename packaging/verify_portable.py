@@ -54,7 +54,7 @@ def main():
             process = subprocess.Popen(sandbox + [str(worker)], cwd=test_home, env=environment,
                                        stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
             try:
-                stdout, stderr = process.communicate('{"version":1,"command":"shutdown"}\n', timeout=15)
+                stdout, stderr = process.communicate('{"version":2,"type":"shutdown","payload":{}}\n', timeout=15)
             finally:
                 if process.poll() is None:
                     if os.getpgid(process.pid) == process.pid:
@@ -63,7 +63,7 @@ def main():
                         process.kill()
                     process.wait()
             messages = [json.loads(line) for line in stdout.splitlines()]
-            if process.returncode != 0 or not any(message.get("type") == "ready" for message in messages):
+            if process.returncode != 0 or not any(message.get("type") == "ready" and message.get("version") == 2 for message in messages):
                 raise RuntimeError(f"Worker protocol failed: {stdout}\n{stderr}")
             if "worker_stop" not in stderr:
                 raise RuntimeError("Worker failed to shut down cleanly")
