@@ -200,6 +200,8 @@ class Bridge:
         try:
             track = self.reader(cancelled=self.cancelled, permission_owner="Lyrics Pro")
         except MusicError as error:
+            if self.cancelled.is_set():
+                return  # Shutting down: a failed final poll says nothing about Music.
             self.disconnected(error)
             self.send_control_results()
             return
