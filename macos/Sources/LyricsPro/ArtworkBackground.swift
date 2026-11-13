@@ -10,8 +10,9 @@ struct ArtworkBackground: View {
     let connected: Bool
     let playing: Bool
     let demo: DemoSong?
+    /// Owned by the player so its accent can follow the artwork too.
+    @Binding var palette: ArtworkPalette
     @Environment(\.accessibilityReduceMotion) private var reduceMotion
-    @BackgroundState private var palette = ArtworkPalette.neutral
     @BackgroundState private var visible = false
     @BackgroundState private var clock = BackgroundMotionClock()
 

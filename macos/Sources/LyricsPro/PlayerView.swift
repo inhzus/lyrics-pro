@@ -1,11 +1,19 @@
 import SwiftUI
 
+private typealias PaletteStorage = State<ArtworkPalette>
+
 struct PlayerView: View {
     @ObservedObject var connection: MusicConnection
     @AppStorage(LyricTextScale.preferenceKey) private var textScale = LyricTextScale.standard
+    @PaletteStorage private var palette = ArtworkPalette.neutral
     private var demo: DemoSong? { connection.demo }
 
     private var song: DemoSong { demo ?? .cantonese }
+    /// Demo songs keep their designed colour; live songs take theirs from the artwork.
+    private var accent: Color {
+        if demo != nil { return song.accent }
+        return Color(red: palette.accent.red, green: palette.accent.green, blue: palette.accent.blue)
+    }
     private var snapshot: MusicSnapshot? { connection.state.playback }
     private var title: String { demo != nil ? song.title : (snapshot?.hasTrack == true ? snapshot!.title : "") }
     private var subtitle: String {
@@ -51,10 +59,10 @@ struct PlayerView: View {
                             if demo != nil {
                                 DemoLyricsPanel(song: song, fontSize: lyricSize)
                             } else if connection.state.phase == .live {
-                                LiveLyricsView(connection: connection, accent: song.accent,
+                                LiveLyricsView(connection: connection, accent: accent,
                                                fontSize: lyricSize)
                             } else {
-                                MusicStatusView(connection: connection, accent: song.accent)
+                                MusicStatusView(connection: connection, accent: accent)
                             }
                         }
                         .frame(maxWidth: .infinity, maxHeight: .infinity)
@@ -72,14 +80,14 @@ struct PlayerView: View {
         ArtworkBackground(artwork: connection.state.artwork, generation: connection.state.generation,
                           loading: snapshot?.hasTrack == true && !connection.state.artworkReceived,
                           connected: connection.state.phase == .live,
-                          playing: connection.presentation.playing, demo: demo)
+                          playing: connection.presentation.playing, demo: demo, palette: $palette)
     }
 
     private func header(trailingInset: CGFloat) -> some View {
         HStack(spacing: 0) {
             HStack(spacing: 9) {
                 Image(systemName: "waveform")
-                    .foregroundStyle(song.accent)
+                    .foregroundStyle(accent)
                 Text("Lyrics Pro")
                     .font(.system(size: 13, weight: .semibold))
                     .foregroundStyle(.white.opacity(0.80))
@@ -129,7 +137,7 @@ struct PlayerView: View {
                 .help(subtitle)
                 .accessibilityHidden(subtitle.isEmpty)
             if demo == nil {
-                PlaybackPanel(connection: connection, accent: song.accent)
+                PlaybackPanel(connection: connection, accent: accent)
                     .padding(.top, 20)
                     .textSelection(.disabled)
             } else {
@@ -143,7 +151,7 @@ struct PlayerView: View {
     private var footer: some View {
         HStack(spacing: 7) {
             if demo != nil {
-                Image(systemName: "sparkle").foregroundStyle(song.accent.opacity(0.65))
+                Image(systemName: "sparkle").foregroundStyle(accent.opacity(0.65))
                 Text("Original demo lyrics & artwork")
             } else if connection.state.phase == .live {
                 LyricSourceLabel(connection: connection)
@@ -152,8 +160,8 @@ struct PlayerView: View {
             if demo != nil {
                 Text("Demo content · Switch to Live Music for your song")
             } else {
-                RecordingPicker(connection: connection, accent: song.accent)
-                PronunciationMenu(connection: connection, accent: song.accent)
+                RecordingPicker(connection: connection, accent: accent)
+                PronunciationMenu(connection: connection, accent: accent)
             }
         }
         .font(.system(size: 11))

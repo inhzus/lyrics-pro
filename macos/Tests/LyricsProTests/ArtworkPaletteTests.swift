@@ -81,3 +81,49 @@ struct ArtworkPaletteTests {
         #expect(await ArtworkPalette.load(from: data) == ArtworkPalette.extract(from: data))
     }
 }
+
+struct ArtworkAccentTests {
+    private func luminance(_ c: BackgroundRGB) -> Double { c.red * 0.2126 + c.green * 0.7152 + c.blue * 0.0722 }
+
+    private func accent(_ pixels: [(Double, Double, Double)]) -> BackgroundRGB? {
+        var histogram = HueHistogram()
+        for (r, g, b) in pixels { histogram.add(r, g, b) }
+        return histogram.accent
+    }
+
+    @Test func greyOrTransparentArtworkFallsBackToTeal() throws {
+        #expect(accent(Array(repeating: (0.5, 0.5, 0.5), count: 100)) == nil)
+        #expect(accent([]) == nil)
+        #expect(ArtworkPalette.neutral.accent == ArtworkPalette.fallbackAccent)
+        #expect(ArtworkPalette.extract(from: Data("bad image".utf8)).accent == ArtworkPalette.fallbackAccent)
+    }
+
+    @Test func dominantHueWinsOverAMixedAverage() throws {
+        // Mostly orange with some violet: the accent is orange, not a muddy red-pink average.
+        let pixels = Array(repeating: (0.95, 0.5, 0.1), count: 70) + Array(repeating: (0.5, 0.2, 0.9), count: 30)
+        let color = try #require(accent(pixels))
+        #expect(color.red > color.green && color.green > color.blue)
+    }
+
+    @Test func accentsStayLightEnoughToReadOnTheDarkBackground() {
+        for step in 0..<24 {
+            let color = HueHistogram.light(hue: Double(step) / 24, saturation: 0.55)
+            #expect(luminance(color) >= 0.49)
+            #expect([color.red, color.green, color.blue].allSatisfy { $0 >= 0 && $0 <= 1 })
+        }
+    }
+
+    @Test func vividCoverImageProducesItsHue() throws {
+        let provider = try #require(CGDataProvider(data: Data(Array(repeating: [UInt8(30), 60, 230, 255], count: 4).flatMap { $0 }) as CFData))
+        let image = try #require(CGImage(width: 2, height: 2, bitsPerComponent: 8, bitsPerPixel: 32, bytesPerRow: 8,
+            space: CGColorSpaceCreateDeviceRGB(), bitmapInfo: CGBitmapInfo(rawValue: CGImageAlphaInfo.last.rawValue),
+            provider: provider, decode: nil, shouldInterpolate: false, intent: .defaultIntent))
+        let data = NSMutableData()
+        let destination = try #require(CGImageDestinationCreateWithData(data, "public.png" as CFString, 1, nil))
+        CGImageDestinationAddImage(destination, image, nil)
+        #expect(CGImageDestinationFinalize(destination))
+        let accent = ArtworkPalette.extract(from: data as Data).accent
+        #expect(accent != ArtworkPalette.fallbackAccent)
+        #expect(accent.blue > accent.red && accent.blue > accent.green)
+    }
+}
