@@ -18,6 +18,9 @@ struct LyricsProApp: App {
         .windowResizability(.contentMinSize)
         .windowLevel(keepOnTop ? .floating : .normal)
         .commands {
+            CommandGroup(replacing: .appInfo) {
+                Button("About Lyrics Pro") { AboutPanel.show() }
+            }
             CommandGroup(replacing: .newItem) {}
             CommandGroup(replacing: .help) {
                 Button("Open Logs Folder") { AppLog.shared.openFolder() }
