@@ -34,48 +34,21 @@ struct LiveLyricsView: View {
         }
     }
 
-    private var heading: String {
+    @ViewBuilder private var statusPanel: some View {
+        let retry = StatusPanel.Action(title: "Try Again") { connection.retryLyrics() }
         switch update?.status {
-        case .instrumental: "Just the music."
-        case .unavailable: "No lyrics found."
-        case .error: "Lyrics unavailable."
-        default: "Finding the words…"
+        case .instrumental:
+            StatusPanel(icon: "music.note", title: "Just the music",
+                        detail: "The lyric provider marks this recording as instrumental.", accent: accent)
+        case .unavailable:
+            StatusPanel(icon: "text.quote", title: "No lyrics found",
+                        detail: update?.message ?? "Try looking up this song again.", accent: accent, action: retry)
+        case .error:
+            StatusPanel(icon: "exclamationmark.circle", title: "Lyrics unavailable",
+                        detail: update?.message ?? "Try looking up this song again.", accent: accent, action: retry)
+        default:
+            StatusPanel(icon: nil, title: "Finding lyrics…", accent: accent)
         }
-    }
-
-    private var detail: String {
-        switch update?.status {
-        case .instrumental: "The lyric provider marks this recording as instrumental."
-        case .unavailable, .error: update?.message ?? "Try looking up this song again."
-        default: update?.message ?? "Preparing lyrics for this song…"
-        }
-    }
-
-    private var statusPanel: some View {
-        VStack(alignment: .leading, spacing: 20) {
-            Spacer()
-            if update == nil || update?.status == .loading {
-                ProgressView().controlSize(.small)
-            } else {
-                Image(systemName: update?.status == .instrumental ? "music.note" : "text.quote")
-                    .font(.system(size: 32, weight: .light))
-                    .foregroundStyle(accent)
-                    .accessibilityHidden(true)
-            }
-            Text(heading)
-                .font(.system(size: 34, weight: .bold))
-            Text(detail)
-                .font(.system(size: 15))
-                .foregroundStyle(.white.opacity(0.58))
-                .lineSpacing(5)
-                .fixedSize(horizontal: false, vertical: true)
-            if update?.status == .unavailable || update?.status == .error {
-                Button("Try again") { connection.retryLyrics() }
-                    .buttonStyle(.bordered)
-            }
-            Spacer()
-        }
-        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .leading)
     }
 }
 
