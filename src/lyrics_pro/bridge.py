@@ -56,6 +56,29 @@ class Bridge:
             self.cache.pop(self.key, None)
         self.artwork_finished = False
 
+    def lyric_command(self, command):
+        language, request_id, generation = command["language"], command["request_id"], command.get("generation")
+        match command["command"]:
+            case "language":
+                self.lyrics.set_language(language, request_id)
+            case "song_language":
+                self.lyrics.set_song_language(language, request_id, command["song_language"],
+                                              generation=generation, track_identity=command["track"])
+            case "retry_lyrics":
+                if generation != self.generation:
+                    return
+                if (request_id > self.lyrics.request_id
+                        and (command.get("retry_artwork") or not self.cache.get(self.key, (None, 0))[0])):
+                    self.reset_artwork(invalidate=True)
+                self.lyrics.retry(language, request_id, generation=generation)
+            case "choose_recording":
+                self.lyrics.choose_recording(language, request_id, command.get("recording_id", command.get("song_id")),
+                                             generation=generation, choice_request_id=command["choice_request_id"])
+            case "list_recordings":
+                self.lyrics.list_recordings(language, request_id, generation=generation)
+            case "forget_recording":
+                self.lyrics.forget_recording(language, request_id, generation=generation)
+
     def tick(self):
         control_results = []
         if self.control_pending and self.control_pending[0].done():
@@ -95,21 +118,7 @@ class Bridge:
                                                     "code": error.code, "message": str(error)})
                             self.completed_control_id = max(self.completed_control_id, command_id)
                         continue
-                    if command["command"] == "retry_lyrics" and command.get("generation") != self.generation:
-                        continue
-                    if (command["command"] == "retry_lyrics"
-                            and command["request_id"] > self.lyrics.request_id
-                            and (command.get("retry_artwork") or not self.cache.get(self.key, (None, 0))[0])):
-                        self.reset_artwork(invalidate=True)
-                    self.lyrics.configure(command["language"], command["request_id"],
-                                          **({"song_language": command["song_language"], "track_identity": command["track"]}
-                                             if command["command"] == "song_language" else {}),
-                                          retry=command["command"] == "retry_lyrics",
-                                          generation=command.get("generation"),
-                                          **({"choice_id": command.get("recording_id", command.get("song_id")), "choice_request_id": command["choice_request_id"]}
-                                             if command["command"] == "choose_recording" else
-                                             {"discover": True} if command["command"] == "list_recordings" else
-                                             {"forget": True} if command["command"] == "forget_recording" else {}))
+                    self.lyric_command(command)
                     continue
                 if command == "shutdown":
                     self.cancelled.set()

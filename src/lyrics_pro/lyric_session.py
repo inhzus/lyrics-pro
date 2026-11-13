@@ -1,38 +1,125 @@
-"""Nonblocking lyric lookup/annotation lifecycle for the native companion."""
+"""Nonblocking lyric lookup/annotation lifecycle for the native companion.
+
+The bridge calls one intent method per native command, ``update_track`` for
+each playback snapshot, and ``tick`` every poll. Lookup, annotation and
+recording switches run one at a time on ``lookups``; results from a superseded
+track, generation, or cancelled request are discarded when collected.
+"""
 
 from collections import OrderedDict
 from concurrent.futures import ThreadPoolExecutor
-from dataclasses import asdict, replace
+from dataclasses import asdict, dataclass, replace
+from functools import partial
 import json
-from queue import Queue, Empty
-from threading import Event
+import math
 import time
 
-from .lyrics import discover_recordings, lookup, lookup_recording
-from .models import LookupCancelled, LookupFailure
-from .pronunciation import Romanizer, resolve_language, supplied_annotation
-from .song_languages import SongLanguages, LANGUAGES
-from .curated import curated_lyrics, curated_candidates
-from .recording_choices import RecordingChoices
-from .recording_ref import recording_ref, source_ref
-from .lyrics_cache import LyricsCache
+from .curated import curated_lyrics
 from .diagnostics import event
+from .jobs import Cancellation, JobSlot
+from .lyrics import discover_recordings, lookup, lookup_recording
+from .lyrics_cache import LyricsCache
+from .models import LookupCancelled, LookupFailure, Lyrics
+from .pronunciation import Romanizer, resolve_language, supplied_annotation
+from .recording_choices import RecordingChoices
+from .recording_discovery import RecordingDiscovery
+from .recording_ref import recording_ref, source_ref
+from .song_languages import LANGUAGES, SongLanguages
+
+__all__ = ["Cancellation", "LANGUAGES", "LyricSession"]
 
 
-class Cancellation:
-    def __init__(self, parent):
-        self.parent = parent
-        self.local = Event()
+MAX_LINES = 10000
+MAX_CHARACTERS = 500000
+# Keep a response below the native protocol's 8 MiB frame limit.
+MAX_PAYLOAD_BYTES = 6 * 1024 * 1024
+MAX_LOOKUP_ATTEMPTS = 3
+UNAVAILABLE_PROOFREAD = "This proofread source is unavailable or does not match this song."
 
-    def is_set(self):
-        return self.parent.is_set() or self.local.is_set()
 
-    def set(self):
-        self.local.set()
+def has_content(raw: Lyrics | None) -> bool:
+    return raw is not None and bool(raw.lines or raw.instrumental)
 
-    def check(self):
-        if self.is_set():
-            raise LookupCancelled("Lyrics request cancelled.")
+
+def check_display_size(raw: Lyrics):
+    if len(raw.lines) > MAX_LINES or sum(len(line.text) for line in raw.lines) > MAX_CHARACTERS:
+        raise LookupFailure("Lyrics are too large to display.")
+
+
+def check_payload_size(annotated: Lyrics):
+    if len(json.dumps(asdict(annotated), ensure_ascii=False).encode()) > MAX_PAYLOAD_BYTES:
+        raise LookupFailure("Annotated lyrics are too large to display.")
+
+
+def display_status(lyrics: Lyrics) -> str:
+    return "instrumental" if lyrics.instrumental else ("ready" if lyrics.synced else "plain")
+
+
+@dataclass(frozen=True)
+class Failure:
+    error: LookupFailure
+    kind: str  # The job that failed: fetch, annotate, or switch.
+    retry_at: float = math.inf
+
+    @property
+    def final(self) -> bool:
+        return self.retry_at == math.inf
+
+
+@dataclass(frozen=True)
+class Selection:
+    """A pending recording switch; ``None`` restores automatic lookup."""
+    reference: str | None
+
+
+class LyricCaches:
+    """Session LRUs: raw lyrics per track and annotations per track/language."""
+
+    RAW_LIMIT = 16
+    ANNOTATION_LIMIT = 32
+
+    def __init__(self):
+        self.raw = OrderedDict()
+        self.annotations = OrderedDict()
+
+    @staticmethod
+    def _put(cache, key, value, limit):
+        cache[key] = value
+        cache.move_to_end(key)
+        while len(cache) > limit:
+            cache.popitem(last=False)
+
+    def _drop_annotations(self, track_key):
+        for key in [key for key in self.annotations if key[0] == track_key]:
+            del self.annotations[key]
+
+    def store_raw(self, track_key, raw):
+        # The raw LRU can evict a track before the annotation LRU.
+        # New lyrics must never reuse readings from an older result.
+        self._drop_annotations(track_key)
+        self._put(self.raw, track_key, raw, self.RAW_LIMIT)
+
+    def store_annotation(self, track_key, language, annotated):
+        self._put(self.annotations, (track_key, language), annotated, self.ANNOTATION_LIMIT)
+
+    def forget(self, track_key):
+        """Drop a track's lyrics and readings, returning the raw lyrics."""
+        self._drop_annotations(track_key)
+        return self.raw.pop(track_key, None)
+
+    def has_raw(self, track_key) -> bool:
+        return track_key in self.raw
+
+    def touch_raw(self, track_key):
+        self.raw.move_to_end(track_key)
+        return self.raw[track_key]
+
+    def annotation(self, track_key, language):
+        key = (track_key, language)
+        if key not in self.annotations:
+            return None
+        self.annotations.move_to_end(key)
+        return self.annotations[key]
 
 
 class LyricSession:
@@ -41,188 +128,132 @@ class LyricSession:
                  song_languages=None):
         self.cancelled = cancelled
         self.language = language
-        self.song_languages = song_languages if song_languages is not None else SongLanguages(memory_only=fetch is not lookup)
-        self.preferences_pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix="song-preferences")
-        self.preference_saves = []
-        self.preference_revision = 0
-        self.preference_warning = self.song_languages.warning
         self.request_id = 0
         self.fetch = fetch
-        self.disk_cache = cache if cache is not None else (LyricsCache() if fetch is lookup else None)
-        self.refresh_requested = False
-        self.refresh_backup = None
-        self.choices = choices if choices is not None else RecordingChoices()
         self.selected_fetch = selected_fetch
-        self.candidates = ()
-        self.discover = discover
-        self.discovery_pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix="recordings")
-        self.discovery_pending = None
-        self.local_discovery = Queue()
-        self.discovery_requested = False
-        self.discovery_status = "idle"
-        self.discovery_error = ""
-        self.candidate_cache = OrderedDict()
-        self.selection_intent = None
-        self.selection_error = ""
-        self.selection_revision = 0
-        self.last_recordings = None
         self.romanizer = romanizer or Romanizer()
         self.clock = clock
-        self.pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix="lyrics")
-        self.pending = None
-        self.context = None
+        self.disk_cache = cache if cache is not None else (LyricsCache() if fetch is lookup else None)
+        self.choices = choices if choices is not None else RecordingChoices()
+        self.song_languages = song_languages if song_languages is not None else SongLanguages(memory_only=fetch is not lookup)
+        self.preferences_pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix="song-preferences")
+        self.preference_saves = []  # (future, preference revision), oldest first.
+        self.preference_revision = 0
+        self.preference_warning = self.song_languages.warning
+        self.selection_revision = 0
+        self.lookups = JobSlot("lyrics", cancelled)
+        self.recordings = RecordingDiscovery(cancelled, discover)
+        self.caches = LyricCaches()
+        self.context = None  # (track key, generation)
         self.track = None
-        self.raw_cache = OrderedDict()
-        self.annotation_cache = OrderedDict()
-        self.attempts = 0
-        self.retry_at = 0
-        self.failure = None
-        self.failure_kind = None
-        self.finished = False
-        self.last_update = None
+        self._reset_track_state()
 
-    def _cancel(self):
-        if self.pending:
-            self.pending[3].set()
+    def _reset_track_state(self):
+        self.refresh_requested = False
+        self.refresh_backup = None  # Lyrics to keep if an explicit refresh fails.
+        self.attempts = 0
+        self.failure: Failure | None = None
+        self.selection: Selection | None = None
+        self.selection_error = ""
+        self.last_update = None
+        self.last_recordings = None
+        # True once the current lyric update is final; any intent clears it.
+        self.finished = False
+
+    def _invalidate_update(self):
+        self.finished, self.last_update = False, None
 
     def update_track(self, track, generation):
         context = (track.key, generation) if track and track.key else None
         if context == self.context:
             return
-        self._cancel()
-        if self.discovery_pending:
-            self.discovery_pending[2].set()
+        self.lookups.cancel()
         self.context, self.track = context, track if context else None
-        self.refresh_requested, self.refresh_backup = False, None
-        self.attempts, self.retry_at = 0, 0
-        self.failure, self.last_update = None, None
-        self.candidates = self.candidate_cache.get(track.key, ()) if track else ()
-        self.discovery_status = "ready" if track and track.key in self.candidate_cache else "idle"
-        self.discovery_requested = False
-        self.discovery_error = self.selection_error = ""
-        self.selection_intent = None
-        self.last_recordings = None
-        self.failure_kind = None
-        self.finished = False
+        self.recordings.reset(track)
+        self._reset_track_state()
 
-    def configure(self, language, request_id, *, retry=False, generation=None,
-                  choice_id=None, forget=False, choice_request_id=None, discover=False,
-                  song_language=None, track_identity=None):
-        if language not in LANGUAGES or request_id <= self.request_id:
-            return
-        if song_language is not None:
-            if (song_language not in LANGUAGES | {"default"} or not self.context
-                    or generation != self.context[1] or tuple(track_identity or ()) != self.context[0]
-                    or self.song_languages.key(self.track) is None):
-                # A stale UI intent must not change the new song, but consuming
-                # its revision lets the next snapshot synchronize that UI again.
-                self.request_id = request_id
-                self.finished, self.last_update = False, None
-                return
-            values = self.song_languages.set(self.track, song_language)
-            self.preference_revision += 1
-            self.preference_warning = ""
-            self.preference_saves.append((self.preferences_pool.submit(self.song_languages.save, values), self.preference_revision))
-        if choice_id is not None:
-            choice_id = recording_ref(choice_id)
-            if choice_id is None:
-                return
-        if choice_id is not None or forget or discover:
-            if not self.context or generation != self.context[1]:
-                return
-            if choice_id is not None and (choice_request_id != self.request_id
-                    or choice_id not in {c.reference for c in self.candidates}):
-                return
-            if discover:
-                self.discovery_requested = True
-            else:
-                self._cancel()
-                self.selection_intent = (request_id, None if forget else choice_id)
-                event("recording_selection", recording=choice_id or "automatic", title=self.track.title)
-                self.selection_error = ""
-        language_changed = self.language != language or song_language is not None
+    # Native intents. Each carries the native lyric request revision; older
+    # revisions are ignored so a late command cannot undo a newer one.
+
+    def _accepts(self, language, request_id) -> bool:
+        return language in LANGUAGES and request_id > self.request_id
+
+    def _on_current_track(self, generation) -> bool:
+        return self.context is not None and generation == self.context[1]
+
+    def _commit(self, language, request_id, *, language_changed=None):
+        if language_changed is None:
+            language_changed = self.language != language
         self.language, self.request_id = language, request_id
-        self.finished, self.last_update = False, None
-        if self.failure_kind == "annotate":
+        self._invalidate_update()
+        if self.failure and self.failure.kind == "annotate":
             # A broken pronunciation engine must not prevent Original only or
             # the other engine from displaying already fetched lyrics.
-            self.failure, self.failure_kind, self.retry_at = None, None, 0
+            self.failure = None
         # A language change does not discard a useful raw lookup in progress.
-        if language_changed and self.pending and self.pending[1] in {"annotate", "switch"}:
-            self._cancel()
-        if retry and self.context and generation == self.context[1]:
-            self._cancel()
-            key = self.context[0]
-            self.refresh_requested = True
-            self.refresh_backup = self.raw_cache.get(key) or self.refresh_backup
-            self.raw_cache.pop(key, None)
-            for cache_key in list(self.annotation_cache):
-                if cache_key[0] == key:
-                    del self.annotation_cache[cache_key]
-            self.attempts, self.retry_at, self.failure = 0, 0, None
-            self.failure_kind = None
+        if language_changed and self.lookups.job and self.lookups.job.kind in {"annotate", "switch"}:
+            self.lookups.cancel()
 
-    @staticmethod
-    def _merge_candidates(local, online):
-        unique = {}
-        for candidate in (*local, *online):
-            unique.setdefault(candidate.reference, candidate)
-        return tuple(unique.values())[:30]
+    def set_language(self, language, request_id):
+        if self._accepts(language, request_id):
+            self._commit(language, request_id)
 
-    def _discover_sources(self, track, context, token):
-        local = curated_candidates(track, token)
-        token.check()
-        if local:
-            self.local_discovery.put((context, token, local))
-        online = self.discover(track, token)
-        token.check()
-        return self._merge_candidates(local, online)
-
-    def _tick_discovery(self):
-        # Publish bundled choices while the same worker continues online lookup.
-        # Generation and cancellation checks also cover partial discovery results.
-        while True:
-            try:
-                context, token, local = self.local_discovery.get_nowait()
-            except Empty:
-                break
-            if context == self.context and not token.is_set():
-                self.candidates = self._merge_candidates(local, self.candidates)
-        if self.discovery_pending and self.discovery_pending[0].done():
-            future, context, token = self.discovery_pending
-            self.discovery_pending = None
-            if context == self.context and not token.is_set():
-                try:
-                    self.candidates = future.result()
-                    self._cache(self.candidate_cache, context[0], self.candidates, 16)
-                    self.discovery_status, self.discovery_error = "ready", ""
-                except LookupCancelled:
-                    pass
-                except Exception as error:
-                    self.discovery_status, self.discovery_error = "error", str(error)
-        if self.discovery_requested and self.context and self.discovery_pending is None:
-            self.discovery_requested = False
-            if self.discovery_status != "ready":
-                token = Cancellation(self.cancelled)
-                self.discovery_status, self.discovery_error = "loading", ""
-                self.discovery_pending = (self.discovery_pool.submit(self._discover_sources, self.track, self.context, token),
-                                          self.context, token)
-
-    def _emit_recordings(self, emit):
-        if emit is None or not self.context:
+    def set_song_language(self, language, request_id, song_language, *, generation, track_identity):
+        if not self._accepts(language, request_id):
             return
-        raw = self.raw_cache.get(self.context[0])
-        source = raw.source if raw else ""
-        payload = dict(request_id=self.request_id, status=self.discovery_status,
-                       candidates=[asdict(c) | {"recording_id": c.reference} for c in self.candidates],
-                       selected_id=(raw.recording_id if raw else None) or source_ref(source), source=source,
-                       manual=self.choices.get(self.track) is not None,
-                       switching=self.selection_intent is not None,
-                       message=self.selection_error or self.discovery_error,
-                       selection_revision=self.selection_revision)
-        if payload != self.last_recordings:
-            emit(payload)
-            self.last_recordings = payload
+        if (song_language not in LANGUAGES | {"default"} or not self._on_current_track(generation)
+                or tuple(track_identity or ()) != self.context[0]
+                or self.song_languages.key(self.track) is None):
+            # A stale UI intent must not change the new song, but consuming
+            # its revision lets the next snapshot synchronize that UI again.
+            self.request_id = request_id
+            self._invalidate_update()
+            return
+        values = self.song_languages.set(self.track, song_language)
+        self.preference_revision += 1
+        self.preference_warning = ""
+        self.preference_saves.append(
+            (self.preferences_pool.submit(self.song_languages.save, values), self.preference_revision))
+        self._commit(language, request_id, language_changed=True)
+
+    def retry(self, language, request_id, *, generation):
+        if not self._accepts(language, request_id):
+            return
+        self._commit(language, request_id)
+        if self._on_current_track(generation):
+            self.lookups.cancel()
+            self.refresh_requested = True
+            self.refresh_backup = self.caches.forget(self.context[0]) or self.refresh_backup
+            self.attempts, self.failure = 0, None
+
+    def choose_recording(self, language, request_id, recording_id, *, generation, choice_request_id):
+        if not self._accepts(language, request_id):
+            return
+        reference = recording_ref(recording_id)
+        if (reference is None or not self._on_current_track(generation)
+                or choice_request_id != self.request_id or not self.recordings.offers(reference)):
+            return
+        self._select(reference)
+        self._commit(language, request_id)
+
+    def forget_recording(self, language, request_id, *, generation):
+        if self._accepts(language, request_id) and self._on_current_track(generation):
+            self._select(None)
+            self._commit(language, request_id)
+
+    def list_recordings(self, language, request_id, *, generation):
+        if self._accepts(language, request_id) and self._on_current_track(generation):
+            self.recordings.requested = True
+            self._commit(language, request_id)
+
+    def _select(self, reference):
+        self.lookups.cancel()
+        self.selection = Selection(reference)
+        self.selection_error = ""
+        event("recording_selection", recording=reference or "automatic", title=self.track.title)
+
+    # Background work. Each function receives its cancellation token after
+    # its positional inputs.
 
     def _load(self, track, reference, token, refresh=False, backup=None):
         token.check()
@@ -233,7 +264,7 @@ class LyricSession:
             if refresh and backup and backup.recording_id == reference:
                 event("refresh_failed_using_cache", title=track.title)
                 return backup
-            raise LookupFailure("This proofread source is unavailable or does not match this song.")
+            raise LookupFailure(UNAVAILABLE_PROOFREAD)
         key = LyricsCache.key(track, reference)
         cached = self.disk_cache.get(key) if self.disk_cache else None
         token.check()
@@ -256,25 +287,17 @@ class LyricSession:
             self.disk_cache.put(key, raw)
         return raw
 
-    def _switch(self, track, song_id, language, token):
-        raw = self._load(track, song_id, token, refresh=song_id is None)
+    def _switch(self, track, reference, policy, token):
+        automatic = reference is None
+        raw = self._load(track, reference, token, refresh=automatic)
         token.check()
-        if raw is None or (not raw.lines and not raw.instrumental):
+        if not has_content(raw):
             raise LookupFailure("No lyrics are available for that recording. Choose another or retry.")
-        if len(raw.lines) > 10000 or sum(len(x.text) for x in raw.lines) > 500000:
-            raise LookupFailure("Lyrics are too large to display.")
-        selected, _ = resolve_language(*language, raw)
-        annotated = self._annotate(raw, selected, token, refresh=song_id is None)
-        if len(json.dumps(asdict(annotated), ensure_ascii=False).encode()) > 6 * 1024 * 1024:
-            raise LookupFailure("Annotated lyrics are too large to display.")
+        check_display_size(raw)
+        selected, _ = resolve_language(*policy, raw)
+        annotated = self._annotate(raw, selected, token, refresh=automatic)
+        check_payload_size(annotated)
         return raw, annotated
-
-    @staticmethod
-    def _cache(cache, key, value, limit):
-        cache[key] = value
-        cache.move_to_end(key)
-        while len(cache) > limit:
-            cache.popitem(last=False)
 
     def _annotate(self, raw, selected, token, refresh=False):
         token.check()
@@ -297,9 +320,40 @@ class LyricSession:
             self.disk_cache.put_annotation(raw, selected, result)
         return result
 
+    # Polling.
+
     def tick(self, emit, emit_recordings=None):
         if self.cancelled.is_set():
             return
+        self._collect_preference_saves()
+        self.recordings.tick(self.context, self.track)
+        if (job := self.lookups.take_done()) and job.current(self.context):
+            self._collect(job)
+        if self.context is None:
+            return
+        policy = (self.language, self.song_languages.get(self.track))
+        if self.selection is not None:
+            if not self.lookups.busy:
+                reference = self.selection.reference
+                self.lookups.start("switch", self.context, partial(self._switch, self.track, reference, policy),
+                                   payload=(reference, policy))
+            self._emit_recordings(emit_recordings)
+            return
+        self._emit_recordings(emit_recordings)
+        if self.finished:
+            return
+        selected, reason = resolve_language(*policy, self.caches.raw.get(self.context[0]))
+        status, message, lyrics = self._advance(selected)
+        payload = dict(request_id=self.request_id, language=self.language,
+                       song_language=policy[1], preference_warning=self.preference_warning,
+                       selected_language=selected, reason=reason, status=status,
+                       message=message, lyrics=asdict(lyrics) if lyrics else None,
+                       selection_revision=self.selection_revision)
+        if payload != self.last_update:
+            emit(payload)
+            self.last_update = payload
+
+    def _collect_preference_saves(self):
         while self.preference_saves and self.preference_saves[0][0].done():
             future, revision = self.preference_saves.pop(0)
             try:
@@ -309,142 +363,101 @@ class LyricSession:
                 if revision == self.preference_revision:
                     self.preference_warning = "Couldn’t save song preferences. Changes apply until the app closes."
                     self.finished = False
-        self._tick_discovery()
-        if self.pending and self.pending[0].done():
-            future, kind, context, token, selected = self.pending
-            self.pending = None
-            if context == self.context and not token.is_set():
-                try:
-                    result = future.result()
-                    if kind == "switch":
-                        raw, annotated = result
-                        intent, language = selected
-                        language, _ = resolve_language(*language, raw)
-                        self.choices.set(self.track, intent[1])
-                        for cache_key in list(self.annotation_cache):
-                            if cache_key[0] == context[0]:
-                                del self.annotation_cache[cache_key]
-                        self._cache(self.raw_cache, context[0], raw, 16)
-                        self._cache(self.annotation_cache, (context[0], language), annotated, 32)
-                        self.selection_intent = None
-                        self.selection_revision += 1
-                        self.failure = self.failure_kind = None
-                        self.finished = False
-                        self.refresh_requested, self.refresh_backup = False, None
-                    elif kind == "fetch":
-                        if result and (len(result.lines) > 10000 or sum(len(x.text) for x in result.lines) > 500000):
-                            raise LookupFailure("Lyrics are too large to display.")
-                        # The raw LRU can evict a track before the annotation LRU.
-                        # A new fetch must never reuse readings from an older result.
-                        for cache_key in list(self.annotation_cache):
-                            if cache_key[0] == context[0]:
-                                del self.annotation_cache[cache_key]
-                        self._cache(self.raw_cache, context[0], result, 16)
-                        self.failure = None
-                        self.failure_kind = None
-                    else:
-                        # Keep a response below the native protocol's 8 MiB frame limit.
-                        if len(json.dumps(asdict(result), ensure_ascii=False).encode()) > 6 * 1024 * 1024:
-                            raise LookupFailure("Annotated lyrics are too large to display.")
-                        self._cache(self.annotation_cache, (context[0], selected), result, 32)
-                        self.refresh_requested, self.refresh_backup = False, None
-                except LookupCancelled:
-                    pass
-                except LookupFailure as error:
-                    if kind == "switch":
-                        self._switch_failed(error)
-                    else:
-                        self.failure = error
-                        self.failure_kind = kind
-                        if kind == "fetch" and error.retryable and self.attempts < 3:
-                            self.retry_at = self.clock() + 2 ** self.attempts
-                        else:
-                            self.retry_at = float("inf")
-                except Exception as error:
-                    if kind == "switch":
-                        self._switch_failed(error)
-                    else:
-                        self.failure = LookupFailure(f"Could not prepare lyrics: {type(error).__name__}: {error}")
-                        self.failure_kind = kind
-                        self.retry_at = float("inf")
-        if self.context is None:
-            return
+
+    def _collect(self, job):
         key = self.context[0]
-        song_language = self.song_languages.get(self.track)
-        policy = (self.language, song_language)
-        selected, reason = resolve_language(*policy, self.raw_cache.get(key))
-
-        if self.selection_intent is not None:
-            if self.pending is None:
-                token = Cancellation(self.cancelled)
-                self.pending = (self.pool.submit(self._switch, self.track, self.selection_intent[1], policy, token),
-                                "switch", self.context, token, (self.selection_intent, policy))
-            self._emit_recordings(emit_recordings)
-            return
-        self._emit_recordings(emit_recordings)
-        if self.finished:
-            return
-
-        def send(status, message, lyrics=None):
-            payload = dict(request_id=self.request_id, language=self.language,
-                           song_language=song_language, preference_warning=self.preference_warning,
-                           selected_language=selected, reason=reason, status=status,
-                           message=message, lyrics=asdict(lyrics) if lyrics else None,
-                           selection_revision=self.selection_revision)
-            if payload != self.last_update:
-                emit(payload)
-                self.last_update = payload
-
-        if self.failure and self.retry_at == float("inf"):
-            send("error", str(self.failure))
-            self.finished = True
-            return
-        if key in self.raw_cache:
-            raw = self.raw_cache[key]
-            self.raw_cache.move_to_end(key)
-            if raw is None or (not raw.lines and not raw.instrumental):
-                send("unavailable", "No matching lyrics were found for this recording.")
-                self.finished = True
-                return
-            annotated_key = (key, selected)
-            if annotated_key in self.annotation_cache:
-                result = self.annotation_cache[annotated_key]
-                self.annotation_cache.move_to_end(annotated_key)
-                status = "instrumental" if result.instrumental else ("ready" if result.synced else "plain")
-                send(status, "", result)
-                self.finished = True
-                return
-            send("loading", "Preparing pronunciation…" if selected else "Preparing lyrics…")
-            if self.pending is None:
-                token = Cancellation(self.cancelled)
-                self.pending = (self.pool.submit(self._annotate, raw, selected, token, self.refresh_requested),
-                                "annotate", self.context, token, selected)
-        else:
-            if self.failure and self.clock() < self.retry_at:
-                send("loading", f"{self.failure} Retrying shortly ({self.attempts + 1}/3).")
+        try:
+            result = job.future.result()
+            if job.kind == "switch":
+                raw, annotated = result
+                reference, policy = job.payload
+                language, _ = resolve_language(*policy, raw)
+                self.choices.set(self.track, reference)
+                self.caches.store_raw(key, raw)
+                self.caches.store_annotation(key, language, annotated)
+                self.selection = None
+                self.selection_revision += 1
+                self.failure = None
+                self.finished = False
+                self.refresh_requested, self.refresh_backup = False, None
+            elif job.kind == "fetch":
+                if result:
+                    check_display_size(result)
+                self.caches.store_raw(key, result)
+                self.failure = None
             else:
-                send("loading", "Looking up lyrics…")
-                if self.pending is None and self.clock() >= self.retry_at:
-                    token = Cancellation(self.cancelled)
-                    self.attempts += 1
-                    song_id = self.choices.get(self.track)
-                    future = self.pool.submit(self._load, self.track, song_id, token,
-                                              self.refresh_requested, self.refresh_backup)
-                    self.pending = (future,
-                                    "fetch", self.context, token, None)
-
-    def close(self):
-        self._cancel()
-        if self.discovery_pending:
-            self.discovery_pending[2].set()
-        self.pool.shutdown(wait=True, cancel_futures=True)
-        self.discovery_pool.shutdown(wait=True, cancel_futures=True)
-        self.preferences_pool.shutdown(wait=True, cancel_futures=False)
+                check_payload_size(result)
+                self.caches.store_annotation(key, job.payload, result)
+                self.refresh_requested, self.refresh_backup = False, None
+        except LookupCancelled:
+            pass
+        except Exception as error:
+            if job.kind == "switch":
+                self._switch_failed(error)
+            elif not isinstance(error, LookupFailure):
+                self.failure = Failure(LookupFailure(f"Could not prepare lyrics: {type(error).__name__}: {error}"),
+                                       job.kind)
+            elif job.kind == "fetch" and error.retryable and self.attempts < MAX_LOOKUP_ATTEMPTS:
+                self.failure = Failure(error, job.kind, self.clock() + 2 ** self.attempts)
+            else:
+                self.failure = Failure(error, job.kind)
 
     def _switch_failed(self, error):
-        self.selection_intent = None
+        self.selection = None
         self.selection_error = str(error)
         self.finished = False
-        if not self.raw_cache.get(self.context[0]):
-            self.failure = LookupFailure(str(error))
-            self.retry_at = float("inf")
+        if not self.caches.raw.get(self.context[0]):
+            self.failure = Failure(LookupFailure(str(error)), "switch")
+
+    def _advance(self, selected):
+        """Return the lyric status to publish, starting the next job if needed."""
+        key = self.context[0]
+        if self.failure and self.failure.final:
+            self.finished = True
+            return "error", str(self.failure.error), None
+        if self.caches.has_raw(key):
+            raw = self.caches.touch_raw(key)
+            if not has_content(raw):
+                self.finished = True
+                return "unavailable", "No matching lyrics were found for this recording.", None
+            if (annotated := self.caches.annotation(key, selected)) is not None:
+                self.finished = True
+                return display_status(annotated), "", annotated
+            if not self.lookups.busy:
+                self.lookups.start("annotate", self.context,
+                                   partial(self._annotate, raw, selected, refresh=self.refresh_requested),
+                                   payload=selected)
+            return "loading", "Preparing pronunciation…" if selected else "Preparing lyrics…", None
+        retry_at = self.failure.retry_at if self.failure else 0
+        if self.failure and self.clock() < retry_at:
+            return ("loading", f"{self.failure.error} Retrying shortly "
+                    f"({self.attempts + 1}/{MAX_LOOKUP_ATTEMPTS}).", None)
+        if not self.lookups.busy and self.clock() >= retry_at:
+            self.attempts += 1
+            self.lookups.start("fetch", self.context,
+                               partial(self._load, self.track, self.choices.get(self.track),
+                                       refresh=self.refresh_requested, backup=self.refresh_backup))
+        return "loading", "Looking up lyrics…", None
+
+    def _emit_recordings(self, emit):
+        if emit is None or not self.context:
+            return
+        raw = self.caches.raw.get(self.context[0])
+        source = raw.source if raw else ""
+        payload = dict(request_id=self.request_id, status=self.recordings.status,
+                       candidates=[asdict(c) | {"recording_id": c.reference} for c in self.recordings.candidates],
+                       selected_id=(raw.recording_id if raw else None) or source_ref(source), source=source,
+                       manual=self.choices.get(self.track) is not None,
+                       switching=self.selection is not None,
+                       message=self.selection_error or self.recordings.error,
+                       selection_revision=self.selection_revision)
+        if payload != self.last_recordings:
+            emit(payload)
+            self.last_recordings = payload
+
+    def close(self):
+        self.lookups.cancel()
+        self.recordings.slot.cancel()
+        self.lookups.shutdown()
+        self.recordings.slot.shutdown()
+        self.preferences_pool.shutdown(wait=True, cancel_futures=False)

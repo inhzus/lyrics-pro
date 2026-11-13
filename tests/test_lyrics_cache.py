@@ -65,7 +65,7 @@ def test_session_offline_restart_and_refresh_keep_usable_lyrics(tmp_path):
     def session():
         worker = LyricSession(Event(), language="original", fetch=fetch, cache=cache,
                               choices=RecordingChoices(tmp_path / "choices.json"))
-        worker.pool.shutdown(); worker.pool = ControlledPool()
+        worker.lookups.pool.shutdown(); worker.lookups.pool = ControlledPool()
         worker.update_track(A, 1)
         return worker
     first = session()
@@ -76,7 +76,7 @@ def test_session_offline_restart_and_refresh_keep_usable_lyrics(tmp_path):
     try:
         assert settle(second, updates)["status"] == "ready"
         assert len(calls) == 1
-        second.configure("original", 1, retry=True, generation=1)
+        second.retry("original", 1, generation=1)
         assert settle(second, updates)["lyrics"]["source"] == RAW.source
         assert len(calls) == 2
         assert cache.get(cache.key(A)) == RAW

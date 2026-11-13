@@ -102,41 +102,41 @@ def test_picker_keeps_lyrics_and_commits_only_successful_current_selection(tmp_p
     worker = LyricSession(Event(), language="original", fetch=fetch,
                           choices=RecordingChoices(path), selected_fetch=selected,
                           discover=lambda *_: tuple(recording_candidates([RECORD], TRACK)))
-    worker.pool.shutdown()
-    worker.pool = ControlledPool()
-    worker.discovery_pool.shutdown()
-    worker.discovery_pool = ControlledPool()
+    worker.lookups.pool.shutdown()
+    worker.lookups.pool = ControlledPool()
+    worker.recordings.slot.pool.shutdown()
+    worker.recordings.slot.pool = ControlledPool()
     updates = []
     try:
         worker.update_track(TRACK, 1)
         assert settle(worker, updates)["status"] == "ready"
         assert worker.choices.get(TRACK) is None
-        worker.configure("original", 1, generation=1, discover=True)
+        worker.list_recordings("original", 1, generation=1)
         recordings = []
         worker.tick(updates.append, recordings.append)
         assert recordings[-1]["status"] == "loading" and updates[-1]["status"] == "ready"
-        worker.discovery_pool.finish()
+        worker.recordings.slot.pool.finish()
         worker.tick(updates.append, recordings.append)
         assert recordings[-1]["status"] == "ready"
         for generation, request, song_id in [(0, 1, 5284269), (1, 9, 5284269), (1, 1, 999)]:
-            worker.configure("original", 2, generation=generation, choice_request_id=request, choice_id=song_id)
+            worker.choose_recording("original", 2, song_id, generation=generation, choice_request_id=request)
             assert worker.choices.get(TRACK) is None and worker.request_id == 1
-        worker.configure("original", 2, generation=1, choice_request_id=1, choice_id=5284269)
+        worker.choose_recording("original", 2, 5284269, generation=1, choice_request_id=1)
         worker.tick(updates.append, recordings.append)
         assert recordings[-1]["switching"] and worker.choices.get(TRACK) is None
-        assert worker.raw_cache[TRACK.key] is RAW
+        assert worker.caches.raw[TRACK.key] is RAW
         assert settle(worker, updates)["status"] == "ready"
         assert updates[-1]["selection_revision"] == 1
         assert calls == ["search", "netease:5284269"]
         # A fresh session reads the saved choice and bypasses candidate search.
         restored = RecordingChoices(path)
         assert restored.get(TRACK) == "netease:5284269"
-        worker.raw_cache.clear()
+        worker.caches.raw.clear()
         worker.update_track(None, 2)
         worker.update_track(TRACK, 3)
         assert settle(worker, updates)["status"] == "ready"
         assert calls == ["search", "netease:5284269", "netease:5284269"]
-        worker.configure("original", 3, generation=3, forget=True)
+        worker.forget_recording("original", 3, generation=3)
         assert settle(worker, updates)["status"] == "ready"
         assert RecordingChoices(path).get(TRACK) is None
     finally:
@@ -148,14 +148,14 @@ def picker_session(tmp_path):
     worker = LyricSession(Event(), language="original", fetch=lambda *_: RAW,
                           choices=RecordingChoices(tmp_path / "choices.json"),
                           selected_fetch=lambda song_id, track, _: replace(RAW, source=f"NetEase https://music.163.com/song?id={song_id.split(':')[1]}"))
-    worker.pool.shutdown()
-    worker.pool = ControlledPool()
-    worker.discovery_pool.shutdown()
-    worker.discovery_pool = ControlledPool()
+    worker.lookups.pool.shutdown()
+    worker.lookups.pool = ControlledPool()
+    worker.recordings.slot.pool.shutdown()
+    worker.recordings.slot.pool = ControlledPool()
     worker.update_track(TRACK, 1)
     updates = []
     settle(worker, updates)
-    worker.candidates = tuple(recording_candidates([RECORD | {"id": 1}, RECORD | {"id": 2}], TRACK))
+    worker.recordings.candidates = tuple(recording_candidates([RECORD | {"id": 1}, RECORD | {"id": 2}], TRACK))
     yield worker, updates
     worker.close()
 
@@ -164,7 +164,7 @@ def test_failed_switch_keeps_display_and_saved_choice(picker_session):
     worker, updates = picker_session
     def failure(*_): raise LookupFailure("Recording unavailable")
     worker.selected_fetch = failure
-    worker.configure("original", 1, generation=1, choice_request_id=0, choice_id=2)
+    worker.choose_recording("original", 1, 2, generation=1, choice_request_id=0)
     assert settle(worker, updates)["lyrics"]["source"] == RAW.source
     assert worker.choices.get(TRACK) is None and worker.selection_revision == 0
     assert worker.selection_error == "Recording unavailable"
@@ -172,14 +172,14 @@ def test_failed_switch_keeps_display_and_saved_choice(picker_session):
 
 def test_latest_switch_wins_and_track_change_cannot_save_old_choice(picker_session):
     worker, updates = picker_session
-    worker.configure("original", 1, generation=1, choice_request_id=0, choice_id=1)
+    worker.choose_recording("original", 1, 1, generation=1, choice_request_id=0)
     worker.tick(updates.append)
-    token = worker.pending[3]
-    worker.configure("original", 2, generation=1, choice_request_id=1, choice_id=2)
+    token = worker.lookups.job.token
+    worker.choose_recording("original", 2, 2, generation=1, choice_request_id=1)
     assert token.is_set()
     assert settle(worker, updates)["lyrics"]["source"].endswith("id=2")
     assert worker.choices.get(TRACK) == "netease:2" and worker.selection_revision == 1
-    worker.configure("original", 3, generation=1, choice_request_id=2, choice_id=1)
+    worker.choose_recording("original", 3, 1, generation=1, choice_request_id=2)
     worker.tick(updates.append)
     worker.update_track(replace(TRACK, title="Another song"), 2)
     settle(worker, updates)
@@ -188,11 +188,11 @@ def test_latest_switch_wins_and_track_change_cannot_save_old_choice(picker_sessi
 
 def test_opening_picker_does_not_cancel_an_inflight_switch(picker_session):
     worker, updates = picker_session
-    worker.configure("original", 1, generation=1, choice_request_id=0, choice_id=2)
+    worker.choose_recording("original", 1, 2, generation=1, choice_request_id=0)
     worker.tick(updates.append)
-    token = worker.pending[3]
-    worker.discover = lambda *_: worker.candidates
-    worker.configure("original", 2, generation=1, discover=True)
+    token = worker.lookups.job.token
+    worker.recordings.discover = lambda *_: worker.recordings.candidates
+    worker.list_recordings("original", 2, generation=1)
     assert not token.is_set()
     assert settle(worker, updates)["lyrics"]["source"].endswith("id=2")
     assert worker.choices.get(TRACK) == "netease:2"
@@ -203,23 +203,23 @@ def test_discovery_is_cached_and_does_not_hide_lyrics_on_failure(picker_session)
     calls = []
     def discover(*_):
         calls.append(1)
-        return worker.candidates
-    worker.discover = discover
-    worker.configure("original", 1, generation=1, discover=True)
+        return worker.recordings.candidates
+    worker.recordings.discover = discover
+    worker.list_recordings("original", 1, generation=1)
     worker.tick(updates.append)
-    worker.discovery_pool.finish()
+    worker.recordings.slot.pool.finish()
     worker.tick(updates.append)
-    worker.configure("original", 2, generation=1, discover=True)
+    worker.list_recordings("original", 2, generation=1)
     worker.tick(updates.append)
-    assert calls == [1] and not worker.discovery_pool.jobs
+    assert calls == [1] and not worker.recordings.slot.pool.jobs
     assert updates[-1]["lyrics"]["source"] == RAW.source
-    worker.discovery_status = "error"
-    worker.discover = lambda *_: (_ for _ in ()).throw(LookupFailure("network error"))
-    worker.configure("original", 3, generation=1, discover=True)
+    worker.recordings.status = "error"
+    worker.recordings.discover = lambda *_: (_ for _ in ()).throw(LookupFailure("network error"))
+    worker.list_recordings("original", 3, generation=1)
     worker.tick(updates.append)
-    worker.discovery_pool.finish()
+    worker.recordings.slot.pool.finish()
     worker.tick(updates.append)
-    assert worker.discovery_status == "error" and updates[-1]["status"] == "ready"
+    assert worker.recordings.status == "error" and updates[-1]["status"] == "ready"
 
 
 def test_unverified_automatic_attempts_are_limited_to_three():

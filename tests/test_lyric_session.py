@@ -48,8 +48,8 @@ def session():
         return RAW
 
     worker = LyricSession(Event(), fetch=fetch)
-    worker.pool.shutdown()
-    worker.pool = ControlledPool()
+    worker.lookups.pool.shutdown()
+    worker.lookups.pool = ControlledPool()
     yield worker, calls, updates
     worker.close()
 
@@ -59,8 +59,8 @@ def settle(worker, updates):
         worker.tick(updates.append)
         if worker.finished:
             return updates[-1]
-        if worker.pool.jobs:
-            worker.pool.finish()
+        if worker.lookups.pool.jobs:
+            worker.lookups.pool.finish()
     raise AssertionError("Lyrics did not settle")
 
 
@@ -83,18 +83,18 @@ def test_language_change_during_fetch_reuses_request_and_annotations(session):
     worker, calls, updates = session
     worker.update_track(A, 1)
     worker.tick(updates.append)
-    worker.configure("original", 1)
-    worker.pool.finish()
+    worker.set_language("original", 1)
+    worker.lookups.pool.finish()
     result = settle(worker, updates)
     assert result["request_id"] == 1
     assert result["selected_language"] is None
     assert result["lyrics"]["lines"][0]["pronunciation"] is None
-    worker.configure("cantonese", 2)
+    worker.set_language("cantonese", 2)
     result = settle(worker, updates)
     assert result["lyrics"]["lines"][0]["pronunciation"]
-    worker.configure("original", 3)
+    worker.set_language("original", 3)
     assert settle(worker, updates)["request_id"] == 3
-    assert not worker.pool.jobs
+    assert not worker.lookups.pool.jobs
     assert len(calls) == 1
 
 
@@ -102,13 +102,13 @@ def test_language_change_cancels_inflight_annotation(session):
     worker, calls, updates = session
     worker.update_track(A, 1)
     worker.tick(updates.append)
-    worker.pool.finish()
+    worker.lookups.pool.finish()
     worker.tick(updates.append)
-    assert worker.pending[1] == "annotate"
-    token = worker.pending[3]
-    worker.configure("original", 1)
+    assert worker.lookups.job.kind == "annotate"
+    token = worker.lookups.job.token
+    worker.set_language("original", 1)
     assert token.is_set()
-    worker.pool.finish()
+    worker.lookups.pool.finish()
     result = settle(worker, updates)
     assert result["language"] == "original"
     assert not result["lyrics"]["lines"][0]["pronunciation"]
@@ -119,14 +119,14 @@ def test_a_b_a_discards_old_fetch_even_if_it_returns(session):
     worker, calls, updates = session
     worker.update_track(A, 1)
     worker.tick(updates.append)
-    old_token = worker.pending[3]
+    old_token = worker.lookups.job.token
     worker.update_track(B, 2)
     worker.update_track(A, 3)
     assert old_token.is_set()
-    worker.pool.finish()  # Simulate a provider returning despite cancellation.
+    worker.lookups.pool.finish()  # Simulate a provider returning despite cancellation.
     worker.tick(updates.append)
-    assert not worker.raw_cache
-    assert worker.pending[2] == (A.key, 3)
+    assert not worker.caches.raw
+    assert worker.lookups.job.context == (A.key, 3)
     settle(worker, updates)
     # Cancellation is now checked before the queued provider work starts.
     assert len(calls) == 1
@@ -164,19 +164,19 @@ def test_transient_failures_retry_three_times_then_manual_retry(session):
     worker.update_track(A, 1)
     for attempt, delay in [(1, 2), (2, 4), (3, 0)]:
         worker.tick(updates.append)
-        worker.pool.finish()
+        worker.lookups.pool.finish()
         worker.tick(updates.append)
         assert len(calls) == attempt
         if delay:
-            assert worker.retry_at == clock[0] + delay
+            assert worker.failure.retry_at == clock[0] + delay
             assert updates[-1]["status"] == "loading"
             worker.tick(updates.append)
-            assert not worker.pool.jobs
+            assert not worker.lookups.pool.jobs
             clock[0] += delay
     assert updates[-1]["status"] == "error"
-    assert not worker.raw_cache
+    assert not worker.caches.raw
     worker.fetch = lambda *_: RAW
-    worker.configure("original", 1, retry=True, generation=1)
+    worker.retry("original", 1, generation=1)
     assert settle(worker, updates)["status"] == "ready"
 
 
@@ -184,13 +184,13 @@ def test_retry_invalidates_cached_lyrics_but_stale_generation_does_not(session):
     worker, calls, updates = session
     worker.update_track(A, 5)
     settle(worker, updates)
-    worker.configure("cantonese", 1, retry=True, generation=4)
+    worker.retry("cantonese", 1, generation=4)
     assert settle(worker, updates)["request_id"] == 1
     assert len(calls) == 1
-    worker.configure("cantonese", 2, retry=True, generation=5)
+    worker.retry("cantonese", 2, generation=5)
     settle(worker, updates)
     assert len(calls) == 2
-    worker.configure("hokkien", 1)
+    worker.set_language("hokkien", 1)
     assert worker.language == "cantonese" and worker.request_id == 2
 
 
@@ -200,7 +200,7 @@ def test_unknown_artist_uses_global_default_and_hokkien_can_be_selected(session)
     result = settle(worker, updates)
     assert result["selected_language"] == "cantonese"
     assert result["reason"] == "global default"
-    worker.configure("hokkien", 1)
+    worker.set_language("hokkien", 1)
     result = settle(worker, updates)
     assert result["selected_language"] == "hokkien"
     assert result["lyrics"]["lines"][0]["pronunciation"]
@@ -256,7 +256,7 @@ def test_original_lyrics_can_recover_after_pronunciation_engine_fails(session):
     worker.romanizer = BrokenRomanizer()
     worker.update_track(A, 1)
     assert settle(worker, updates)["status"] == "error"
-    worker.configure("original", 1)
+    worker.set_language("original", 1)
     assert settle(worker, updates)["status"] == "ready"
     assert len(calls) == 1
 
@@ -265,19 +265,19 @@ def test_track_and_annotation_caches_are_bounded(session):
     worker, _, updates = session
     for index in range(20):
         worker.update_track(replace(A, title=str(index)), index + 1)
-        worker.configure("original", index * 2 + 1)
+        worker.set_language("original", index * 2 + 1)
         settle(worker, updates)
-        worker.configure("cantonese", index * 2 + 2)
+        worker.set_language("cantonese", index * 2 + 2)
         settle(worker, updates)
-    assert len(worker.raw_cache) == 16
-    assert len(worker.annotation_cache) == 32
+    assert len(worker.caches.raw) == 16
+    assert len(worker.caches.annotations) == 32
 
 
 def test_refetch_after_raw_eviction_does_not_reuse_old_annotations(session):
     worker, _, updates = session
     worker.update_track(A, 1)
     settle(worker, updates)
-    worker.raw_cache.pop(A.key)
+    worker.caches.raw.pop(A.key)
     worker.fetch = lambda *_: replace(RAW, lines=(LyricLine("New recording lyrics", 5),))
     worker.update_track(None, 2)
     worker.update_track(A, 3)
