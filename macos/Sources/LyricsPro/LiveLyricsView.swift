@@ -10,6 +10,7 @@ struct LiveLyricsView: View {
     @FollowingStorage private var following = LyricFollowingState()
     @ConversionStorage private var conversion = ScriptConversionCache()
     @AppStorage(ChineseScript.preferenceKey) private var script = ChineseScript.original
+    @AppStorage(LyricTiming.preferenceKey) private var timingDelay = LyricTiming.setting.standard
 
     private var update: LyricUpdate? { connection.state.lyric }
 
@@ -18,11 +19,13 @@ struct LiveLyricsView: View {
             if let update, (update.status == .ready || update.status == .plain), let lyrics = update.lyrics {
                 FollowingLyricsView(lyrics: conversion.lyrics(lyrics, in: script), generation: connection.state.generation,
                                     requestID: update.requestID, recordingRevision: update.selectionRevision ?? 0,
-                                    position: connection.presentation.position,
+                                    position: LyricTiming.lyricPosition(atAudio: connection.presentation.position,
+                                                                        delay: timingDelay),
                                     accent: accent, fontSize: fontSize, following: $following,
                                     canSeek: connection.canSeek, followRevision: connection.controls.followRevision,
-                                    seek: { [generation = connection.state.generation] position in
-                                        connection.control(.seek, position: position, resumeFollowing: true,
+                                    seek: { [generation = connection.state.generation, timingDelay] position in
+                                        let audio = LyricTiming.audioPosition(forLyric: position, delay: timingDelay)
+                                        connection.control(.seek, position: audio, resumeFollowing: true,
                                                            expectedGeneration: generation)
                                     })
             } else {

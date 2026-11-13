@@ -48,4 +48,22 @@ struct DisplaySettingsTests {
         for _ in 0..<7 { value = LyricTextScale.bigger(value) }
         #expect(value == 1.5)
     }
+
+    @Test func timingDelayShiftsHighlightAndRoundTripsLyricSeeks() {
+        #expect(LyricTiming.lyricPosition(atAudio: 10, delay: 0.5) == 9.5)
+        #expect(LyricTiming.lyricPosition(atAudio: 10, delay: -0.5) == 10.5)
+        #expect(LyricTiming.audioPosition(forLyric: 0.2, delay: -1) == 0)
+        #expect(LyricTiming.lyricPosition(atAudio: 10, delay: 99) == 7)  // Clamped to 3 s.
+        // A clicked line seeks to the audio time at which that same line is highlighted.
+        let line = LiveLyricLine(text: "Target", time: 46.76, pronunciation: nil)
+        let lines = [LiveLyricLine(text: "Previous", time: 41, pronunciation: nil), line]
+        let timeline = LyricTimeline(LiveLyrics(lines: lines, source: "Test", synced: true, instrumental: false))
+        for delay in [-1.3, 0, 0.7] {
+            let target = LyricSeek.position(for: line, synced: true)!
+            let audio = LyricTiming.audioPosition(forLyric: target, delay: delay)
+            #expect(timeline.selection(at: LyricTiming.lyricPosition(atAudio: audio, delay: delay)).active == 1)
+        }
+        #expect(LyricTiming.label(0) == "In sync" && LyricTiming.label(0.5) == "0.5 s later")
+        #expect(LyricTiming.label(-1.2) == "1.2 s earlier" && LyricTiming.label(-1.21) == "1.2 s earlier")
+    }
 }

@@ -7,6 +7,7 @@ struct SettingsView: View {
     @AppStorage(ChineseScript.preferenceKey) private var script = ChineseScript.original
     @AppStorage(LyricTextScale.preferenceKey) private var textScale = LyricTextScale.standard
     @AppStorage(WindowSettings.keepOnTopKey) private var keepOnTop = false
+    @AppStorage(LyricTiming.preferenceKey) private var timingDelay = LyricTiming.setting.standard
 
     var body: some View {
         Form {
@@ -37,6 +38,26 @@ struct SettingsView: View {
                     }
                 }
                 .help("Bigger ⌘=, Smaller ⌘−, Actual Size ⌘0")
+                LabeledContent("Timing") {
+                    HStack {
+                        Slider(value: Binding(get: { LyricTiming.setting.clamped(timingDelay) },
+                                              set: { timingDelay = LyricTiming.setting.clamped($0) }),
+                               in: LyricTiming.setting.range, step: LyricTiming.setting.step) {
+                            Text("Timing")
+                        } minimumValueLabel: {
+                            Text("Earlier").font(.caption)
+                        } maximumValueLabel: {
+                            Text("Later").font(.caption)
+                        }
+                        .labelsHidden()
+                        Text(LyricTiming.label(timingDelay))
+                            .monospacedDigit()
+                            .frame(width: 92, alignment: .trailing)
+                        Button("Reset") { timingDelay = LyricTiming.setting.standard }
+                            .disabled(LyricTiming.setting.clamped(timingDelay) == LyricTiming.setting.standard)
+                    }
+                }
+                .help("Moves the lyric highlight against the music for lyrics that drift. Music is not changed.")
             }
             Section("Pronunciation") {
                 // Same setting as the footer menu's Global Default; both go through the connection.
