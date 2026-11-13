@@ -10,6 +10,7 @@
     <key>CFBundleShortVersionString</key><string>0.7.0</string>
     <key>CFBundleVersion</key><string>18</string>
     <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>NSHumanReadableCopyright</key><string>Copyright © 2026 inhzus. MIT License.</string>
     <key>LSMinimumSystemVersion</key><string>15.0</string>
     <key>NSHighResolutionCapable</key><true/>
     <key>NSAppleEventsUsageDescription</key><string>Lyrics Pro reads the current song, playback time, and artwork from Music, and lets you play, pause, seek, and change songs using its playback controls.</string>
