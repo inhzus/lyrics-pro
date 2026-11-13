@@ -1,7 +1,7 @@
 import pytest
 
-from lyrics_pro.models import LyricLine, Lyrics
-from lyrics_pro.pronunciation import Romanizer, artist_key, native_name
+from lyrics_pro.models import LyricLine, Lyrics, Proofread
+from lyrics_pro.pronunciation import Romanizer, artist_key, native_name, resolve_language
 
 
 @pytest.mark.parametrize("text", ["令神仙鱼归天要怪谁", "令神仙魚歸天要怪誰"])
@@ -52,4 +52,14 @@ def test_artist_groups_keep_preference_keys_and_expose_native_names():
     assert artist_key("Unknown Artist") == "unknownartist"
     assert native_name("Eason Chan") == "陳奕迅" and native_name("Wu Bai") == "伍佰"
     assert native_name("Unknown Artist") is None
+
+
+def test_language_reasons_are_the_documented_protocol_values():
+    proofread = Lyrics((), "Proofread", True, proofread=Proofread("id", "1", "hokkien", "Reviewer"))
+    reasons = {resolve_language(global_language, song_language, lyrics)[1]
+               for global_language in ("cantonese", "hokkien", "original")
+               for song_language in ("default", "cantonese", "hokkien", "original")
+               for lyrics in (None, proofread)}
+    # The native app decodes exactly these (docs/protocol.md).
+    assert reasons == {"song preference", "proofread transcription", "global default"}
 

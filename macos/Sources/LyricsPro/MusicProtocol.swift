@@ -7,15 +7,24 @@ struct TrackIdentity: Codable, Equatable, Sendable {
     let duration: Double
 }
 
+enum PlayerState: String, Decodable, Sendable {
+    case playing, paused, stopped, closed, rewinding
+    case fastForwarding = "fast forwarding"
+
+    var isPlaying: Bool { self == .playing }
+    /// Music reports no current track while stopped or not running.
+    var hasTrack: Bool { self != .stopped && self != .closed }
+}
+
 struct MusicSnapshot: Decodable, Sendable {
-    let state: String
+    let state: PlayerState
     let title: String
     let artist: String
     let album: String
     let duration: Double
     let position: Double
 
-    var hasTrack: Bool { !title.isEmpty && state != "closed" && state != "stopped" }
+    var hasTrack: Bool { !title.isEmpty && state.hasTrack }
     var progress: Double { duration > 0 ? min(1, max(0, position / duration)) : 0 }
     var elapsed: String { Self.timeLabel(min(max(0, position), max(0, duration))) }
     var total: String { Self.timeLabel(duration) }
@@ -51,7 +60,6 @@ struct BridgeEvent: Decodable, Sendable {
     }
 
     static let version = 2
-    static let playerStates: Set = ["playing", "paused", "stopped", "closed", "fast forwarding", "rewinding"]
 
     let generation: Int
     let track: TrackIdentity?
@@ -76,7 +84,6 @@ struct BridgeEvent: Decodable, Sendable {
             let snapshot = try body.decode(MusicSnapshot.self, forKey: .snapshot)
             let completed = try body.decode(Int.self, forKey: .completedControlID)
             guard completed >= 0, snapshot.duration.isFinite, snapshot.position.isFinite,
-                  Self.playerStates.contains(snapshot.state),
                   snapshot.hasTrack == (track != nil) else { throw BridgeError.invalidEvent }
             payload = .playback(snapshot, completedControlID: completed)
         case "artwork":
@@ -173,8 +180,8 @@ struct LiveMusicState: Sendable {
             generation = event.generation
             identity = event.track
             playback = snapshot
-            phase = snapshot.state == "closed" ? .closed : (snapshot.state == "stopped" ? .stopped : .live)
-            message = snapshot.state == "paused" ? "Paused in Music" : "Following Apple Music"
+            phase = snapshot.state == .closed ? .closed : (snapshot.state == .stopped ? .stopped : .live)
+            message = snapshot.state == .paused ? "Paused in Music" : "Following Apple Music"
         case .artwork(let image):
             guard current else { return }
             artwork = image.flatMap { Data(base64Encoded: $0) }
