@@ -65,6 +65,12 @@ def test_http_failure(status, retryable):
         assert error.value.retryable == retryable
 
 
+def test_user_agent_names_the_installed_version():
+    from importlib.metadata import version
+    from lyrics_pro.lyrics.transport import USER_AGENT
+    assert USER_AGENT.startswith(f"LyricsPro/{version('lyrics-pro')} ")
+
+
 def test_request_timeout_and_404():
     with patch("lyrics_pro.lyrics.transport.run_curl", side_effect=subprocess.TimeoutExpired("curl", 17)):
         with pytest.raises(LookupFailure) as error:

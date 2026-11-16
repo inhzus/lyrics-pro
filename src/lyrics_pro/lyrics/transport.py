@@ -1,5 +1,6 @@
 """Bounded, cancellable JSON requests through the system curl."""
 
+from importlib.metadata import PackageNotFoundError, version
 import json
 import subprocess
 from threading import Event
@@ -10,7 +11,17 @@ from ..models import LookupCancelled, LookupFailure
 
 CURL = "/usr/bin/curl"
 DEADLINE_SECONDS = 17
-USER_AGENT = "LyricsPro/0.1 (personal terminal prototype)"
+
+
+def _user_agent():
+    try:
+        current = version("lyrics-pro")
+    except PackageNotFoundError:
+        current = "unknown"
+    return f"LyricsPro/{current} (+https://github.com/inhzus/lyrics-pro)"
+
+
+USER_AGENT = _user_agent()
 
 
 def check_cancelled(cancelled: Event | None):

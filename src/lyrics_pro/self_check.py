@@ -14,7 +14,7 @@ from .song_languages import SongLanguages
 
 
 def self_check():
-    versions = {name: version(name) for name in ("ToJyutping", "taibun", "msgpack")}
+    versions = {name: version(name) for name in ("lyrics-pro", "ToJyutping", "taibun", "msgpack")}
     romanizer = Romanizer()
     readings = {
         "cantonese": romanizer.line("令神仙鱼归天要怪谁", "cantonese"),
