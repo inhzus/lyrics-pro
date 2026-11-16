@@ -1,0 +1,57 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+    tags: ["v*"]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  test:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v10.3.3
+        with:
+          version: "0.13.7"
+      - run: brew install fish
+      - name: Python checks
+        run: |
+          uv sync --locked
+          uv run ruff check .
+          uv run pytest
+      - name: Proofread catalog reproducibility
+        run: |
+          uv run --locked python -m scripts.prepare_wubai --check
+          uv run --locked python -m scripts.verify_proofread_collection > /dev/null
+      - name: Native tests
+        run: fish scripts/test-macos.fish
+
+  package:
+    # Release builds only; publishing a GitHub Release stays manual.
+    if: startsWith(github.ref, 'refs/tags/v') || github.event_name == 'workflow_dispatch'
+    needs: test
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v10.3.3
+        with:
+          version: "0.13.7"
+      - run: brew install fish
+      - name: Build
+        run: fish scripts/build-macos.fish
+      - name: Verify portable ZIP
+        run: packaging/.venv/bin/python packaging/verify_portable.py dist/Lyrics-Pro-*-macOS-arm64.zip
+      - uses: actions/upload-artifact@v7
+        with:
+          name: lyrics-pro-macos-arm64
+          path: dist/Lyrics-Pro-*-macOS-arm64.zip
+          if-no-files-found: error
