@@ -13,6 +13,14 @@ set -l python_version (string trim < "$root/packaging/.python-version")
 env UV_PROJECT_ENVIRONMENT="$root/packaging/.venv" uv sync --project "$root/packaging" \
     --python "$python_version" --locked --no-dev --no-editable; or exit $status
 set -l python "$root/packaging/.venv/bin/python"
+set -l app_version (/usr/libexec/PlistBuddy -c 'Print :CFBundleShortVersionString' "$package/Support/Info.plist")
+or exit $status
+set -l worker_version ("$python" -c 'from importlib.metadata import version; print(version("lyrics-pro"))')
+or exit $status
+if test "$app_version" != "$worker_version"
+    printf 'Version mismatch: Info.plist is %s but pyproject.toml is %s.\n' "$app_version" "$worker_version" >&2
+    exit 1
+end
 mkdir -p "$build" "$root/dist"; or exit $status
 "$python" -m PyInstaller --noconfirm --clean --distpath "$build/backend" \
     --workpath "$build/pyinstaller" "$root/packaging/worker.spec"; or exit $status
@@ -21,8 +29,6 @@ swift build --package-path "$package" --configuration release; or exit $status
 set -l bin (swift build --package-path "$package" --configuration release --show-bin-path)
 or exit $status
 set -l stage (mktemp -d "$build/release-XXXXXX"); or exit $status
-set -l app_version (/usr/libexec/PlistBuddy -c 'Print :CFBundleShortVersionString' "$package/Support/Info.plist")
-or exit $status
 set -l name "Lyrics-Pro-$app_version-macOS-arm64"
 set -l release "$stage/$name"
 set -l staged_app "$release/Lyrics Pro.app"

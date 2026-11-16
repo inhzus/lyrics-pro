@@ -5,7 +5,7 @@ from PyInstaller.utils.hooks import collect_data_files, copy_metadata
 root = Path(SPECPATH).parent
 data = collect_data_files("ToJyutping") + collect_data_files("taibun")
 data += [(str(root / "src/lyrics_pro/data/proofread"), "lyrics_pro/data/proofread")]
-for package in ("ToJyutping", "taibun", "msgpack"):
+for package in ("lyrics-pro", "ToJyutping", "taibun", "msgpack"):
     data += copy_metadata(package)
 
 a = Analysis(

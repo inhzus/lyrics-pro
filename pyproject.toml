@@ -1,6 +1,6 @@
 [project]
 name = "lyrics-pro"
-version = "0.1.0"
+version = "0.8.0"
 description = "Follow macOS Music with locally romanized Cantonese and Hokkien lyrics"
 requires-python = ">=3.11"
 dependencies = ["ToJyutping==3.2.0", "taibun==1.1.8"]
