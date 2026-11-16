@@ -69,9 +69,10 @@ def supplied_annotation(lyrics: Lyrics, language: str | None) -> Lyrics | None:
 class Romanizer:
     def __init__(self):
         self._hokkien = None
+        # Per instance, so the cache never keeps a discarded romanizer alive.
+        self.line = lru_cache(maxsize=4096)(self._line)
 
-    @lru_cache(maxsize=4096)
-    def line(self, text: str, language: str) -> str:
+    def _line(self, text: str, language: str) -> str:
         if not HAN.search(text):
             return text
         if language == "cantonese":

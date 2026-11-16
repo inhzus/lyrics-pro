@@ -96,7 +96,7 @@ def parse_transcription(text):
                      source_lines=[number, next_number])
         words, readings = COLUMNS.split(lyric), COLUMNS.split(spelling)
         if len(words) == len(readings) and len(words) > 1 and all(words + readings):
-            block["parts"] = [dict(text=w, spelling=r) for w, r in zip(words, readings)]
+            block["parts"] = [dict(text=w, spelling=r) for w, r in zip(words, readings, strict=True)]
         blocks.append(block)
         cursor += 2
     if not blocks:
@@ -131,10 +131,10 @@ def strict_alignment(manual, timed):
     keys = [normalize(b["text"]) for b in blocks]
     repeated = {key for key, count in Counter(keys).items() if count > 1}
     readings = defaultdict(set)
-    for key, block in zip(keys, blocks):
+    for key, block in zip(keys, blocks, strict=True):
         readings[key].add(reading_key(block["spelling"]))
     repeated = {key for key in repeated if len(readings[key]) == 1}
-    canonical = {key: next(b for k, b in zip(keys, blocks) if k == key) for key in repeated}
+    canonical = {key: next(b for k, b in zip(keys, blocks, strict=True) if k == key) for key in repeated}
     # Online providers sometimes put an entire repeated two-line refrain at one
     # timestamp. Reuse only groups actually adjacent in the supplied input.
     repeat_groups = {}
@@ -153,7 +153,7 @@ def strict_alignment(manual, timed):
                     conflicting_groups.add(group_key)
             else:
                 repeat_groups[group_key] = assigned
-    verse = [(k, b) for k, b in zip(keys, blocks) if k not in repeated]
+    verse = [(k, b) for k, b in zip(keys, blocks, strict=True) if k not in repeated]
     events, targets, used = [], [], set()
     for index, source in enumerate(timed["lines"]):
         text = source["text"]
@@ -203,7 +203,7 @@ def strict_alignment(manual, timed):
         report["strict_complete"] = False
         return report
     count, path = complete
-    for (_, event), (start, end) in zip(targets, path):
+    for (_, event), (start, end) in zip(targets, path, strict=True):
         assigned = [b for _, b in verse[start:end]]
         event.update(text=" ".join(b["text"] for b in assigned),
                      spelling=" ".join(b["spelling"] for b in assigned),
