@@ -23,8 +23,12 @@ const { song, siblings } = Astro.props;
 const { credits, items } = classify(song.source);
 const artistHref = `/artists/${artistSlug(song.artist)}/`;
 ---
-<Base title={`${song.title} · ${song.artist}`} description={`${song.title} – ${song.artist} 台語歌詞與台羅拼音`}>
-  <nav class="crumbs"><a href="/">全部歌手 · All artists</a> / <a href={artistHref}>{song.artist}</a></nav>
+<Base
+  title={`${song.title} · ${song.artist}`}
+  description={`${song.title} – ${song.artist} 台語歌詞與台羅拼音`}
+  type="article"
+>
+  <nav class="crumbs"><a href="/">← 全部歌手 · All artists</a></nav>
   <header class="song-head">
     <p class="eyebrow"><a href={artistHref}>{song.artist}</a></p>
     <h1 lang="nan-Hant">{song.title}</h1>

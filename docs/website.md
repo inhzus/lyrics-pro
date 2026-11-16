@@ -7,7 +7,9 @@ via `pinyin-pro`; the pinyin is only a sort key and is never displayed). Search
 accepts traditional, simplified or mixed characters: the build folds titles and names
 to simplified one character at a time with `opencc-js` (Taiwan → mainland, so 臺
 matches 台), and the page applies the same mapping to the query with a small table of
-only the characters that occur (`src/lib/search.ts`, `src/lib/fold.ts`). OpenCC is
+only the characters that occur (`src/lib/search.ts`, `src/lib/fold.ts`). The rows and
+that table are built into `/search.json`, which the page fetches when the search box is
+first used, so the home page itself stays small. OpenCC is
 build-only and never ships to the browser. Songs use
 the same order everywhere: artist, then title, by romanization; artist pages with
 more than 10 songs show letter dividers. Its search
@@ -36,7 +38,10 @@ timestamps, so the site does not depend on timing alignment, providers or the ap
 - Fonts are self-hosted: Noto Serif TC (fontsource, split by unicode-range) for
   Chinese text and Charis SIL 7.000 for Tâi-lô. The fontsource Charis subsets omit
   U+030D, U+0358 and U+030B, so SIL's official woff2 files are vendored in
-  `public/fonts/` with their OFL licence.
+  `public/fonts/` with their OFL licence. A Vite plugin in `astro.config.mjs` narrows
+  each Noto `unicode-range` to the characters in the catalog and templates and drops
+  slices that cover none (`src/lib/fontSubset.ts`), which keeps the render-blocking CSS
+  small; the font files themselves are unchanged.
 
 ## Develop
 

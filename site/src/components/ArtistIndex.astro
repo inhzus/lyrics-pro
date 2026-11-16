@@ -1,19 +1,11 @@
 ---
 import { artistSlug, type Song } from "../lib/catalog";
-import { romanize } from "../lib/artists";
-import { createFolder } from "../lib/search";
 
 interface Props {
   letters: [string, [string, Song[]][]][];
 }
 const { letters } = Astro.props;
-const artists = letters.flatMap(([, groups]) => groups);
-const songs = artists.flatMap(([, list]) => list);
 const href = (artist: string) => `/artists/${artistSlug(artist)}/`;
-// Fold every searchable string first; the table is complete only afterwards.
-const { fold, table } = createFolder();
-const artistHits = artists.map(([artist, list]) => ({ artist, count: list.length, search: fold(`${artist} ${romanize(artist)}`) }));
-const songHits = songs.map((song) => ({ song, search: fold(`${song.title} ${song.artist}`) }));
 const anchor = (letter: string) => (letter === "#" ? "other" : letter);
 ---
 <label class="search">
@@ -44,23 +36,11 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
   ))}
 </div>
 
-<!-- Search results: complete lists rendered once, filtered in place. -->
+<!-- Search results: rows built from /search.json on first use, then filtered in place. -->
 <div id="results" hidden>
   <p id="summary" class="summary"></p>
-  <ul class="hits">
-    {artistHits.map(({ artist, count, search }) => (
-      <li data-search={search} hidden>
-        <a href={href(artist)}><span class="hit-title">{artist}</span><span class="hit-meta">歌手 · {count} 首</span></a>
-      </li>
-    ))}
-    {songHits.map(({ song, search }) => (
-      <li data-search={search} hidden>
-        <a href={`/songs/${song.id}/`}><span class="hit-title">{song.title}</span><span class="hit-meta">{song.artist}</span></a>
-      </li>
-    ))}
-  </ul>
+  <ul class="hits"></ul>
 </div>
-<script id="fold-table" type="application/json" set:html={JSON.stringify(table)} />
 
 <style>
   .search { display: none; margin: 2.5rem 0 0; }
@@ -133,8 +113,8 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
 
   .summary { margin: 1.5rem 0 0.5rem; font-size: 0.9rem; color: var(--faint); }
   .hits { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--rule); }
-  .hits li { border-bottom: 1px solid var(--rule); }
-  .hits a {
+  .hits :global(li) { border-bottom: 1px solid var(--rule); }
+  .hits :global(a) {
     display: flex;
     align-items: baseline;
     justify-content: space-between;
@@ -142,9 +122,9 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
     padding: 0.7rem 0.25rem;
     text-decoration: none;
   }
-  .hits a:hover .hit-title { color: var(--accent); }
-  .hit-title { font-size: 1.1rem; }
-  .hit-meta { flex: none; font-size: 0.85rem; color: var(--muted); }
+  .hits :global(a:hover .hit-title) { color: var(--accent); }
+  .hits :global(.hit-title) { font-size: 1.1rem; }
+  .hits :global(.hit-meta) { flex: none; font-size: 0.85rem; color: var(--muted); }
   .visually-hidden {
     position: absolute;
     width: 1px;
@@ -158,25 +138,66 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
 <script>
   import { type FoldTable, foldWith } from "../lib/fold";
 
-  // Traditional → simplified for every character in the titles and names, so either script matches.
-  const table: FoldTable = JSON.parse(document.querySelector("#fold-table")!.textContent!);
+  type Hit = { href: string; title: string; meta: string; search: string };
+
   const input = document.querySelector<HTMLInputElement>("#filter")!;
   const directory = document.querySelector<HTMLElement>("#directory")!;
   const letters = document.querySelector<HTMLElement>(".letters")!;
   const results = document.querySelector<HTMLElement>("#results")!;
   const summary = document.querySelector<HTMLElement>("#summary")!;
-  const hits = [...results.querySelectorAll<HTMLElement>("li")];
+  const list = results.querySelector<HTMLElement>(".hits")!;
 
-  input.addEventListener("input", () => {
-    const query = foldWith(table, input.value.trim());
-    directory.hidden = letters.hidden = Boolean(query);
-    results.hidden = !query;
-    if (!query) return;
+  // Traditional → simplified for every character in the titles and names, so either script matches.
+  let index: Promise<{ table: FoldTable; rows: [HTMLElement, string][] }> | undefined;
+  const load = () =>
+    (index ??= fetch("/search.json")
+      .then((response) => {
+        if (!response.ok) throw new Error(`search.json: ${response.status}`);
+        return response.json() as Promise<{ table: FoldTable; hits: Hit[] }>;
+      })
+      .then(({ table, hits }) => {
+        const rows = hits.map(({ href, title, meta, search }): [HTMLElement, string] => {
+          const item = document.createElement("li");
+          const link = item.appendChild(document.createElement("a"));
+          link.href = href;
+          for (const [className, text] of [["hit-title", title], ["hit-meta", meta]]) {
+            const span = link.appendChild(document.createElement("span"));
+            span.className = className;
+            span.textContent = text;
+          }
+          item.hidden = true;
+          return [item, search];
+        });
+        list.append(...rows.map(([item]) => item));
+        return { table, rows };
+      })
+      .catch((error) => {
+        index = undefined;
+        throw error;
+      }));
+
+  const update = async () => {
+    const raw = input.value.trim();
+    directory.hidden = letters.hidden = Boolean(raw);
+    results.hidden = !raw;
+    if (!raw) return;
+    let loaded;
+    try {
+      loaded = await load();
+    } catch {
+      summary.textContent = "搜尋暫時無法使用 · Search unavailable";
+      return;
+    }
+    if (input.value.trim() !== raw) return;
+    const query = foldWith(loaded.table, raw);
     let shown = 0;
-    for (const hit of hits) {
-      hit.hidden = !hit.dataset.search!.includes(query);
-      if (!hit.hidden) shown++;
+    for (const [item, search] of loaded.rows) {
+      item.hidden = !search.includes(query);
+      if (!item.hidden) shown++;
     }
     summary.textContent = shown ? `${shown} 筆結果 · ${shown} results` : "找無符合的歌曲 · No matches";
-  });
+  };
+
+  input.addEventListener("focus", () => void load().catch(() => {}), { once: true });
+  input.addEventListener("input", () => void update());
 </script>

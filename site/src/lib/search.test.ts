@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { foldWith } from "./fold";
-import { createFolder } from "./search";
+import type { Song } from "./catalog";
+import { createFolder, searchIndex } from "./search";
 
 describe("search folding", () => {
   it("matches traditional, simplified and mixed queries against folded titles", () => {
@@ -18,5 +19,29 @@ describe("search folding", () => {
     const { fold, table } = createFolder();
     fold("天光 Ripple 島");
     expect(table).toEqual({ 島: "岛" });
+  });
+});
+
+describe("search index", () => {
+  const song = (id: string, title: string, artist: string): Song => ({ id, title, artist, file: "", source: "" });
+  const groups: [string, Song[]][] = [
+    ["伍佰 & China Blue", [song("a", "島嶼天光", "伍佰 & China Blue"), song("b", "臺灣味", "伍佰 & China Blue")]],
+    ["百合花", [song("c", "茶店仔", "百合花")]],
+  ];
+
+  it("lists every artist, then every song", () => {
+    const { hits } = searchIndex(groups);
+    expect(hits.map((hit) => hit.title)).toEqual(["伍佰 & China Blue", "百合花", "島嶼天光", "臺灣味", "茶店仔"]);
+    expect(hits[1]).toMatchObject({ meta: "歌手 · 1 首", href: expect.stringMatching(/^\/artists\/[0-9a-f]{12}\/$/) });
+    expect(hits[4]).toEqual(expect.objectContaining({ href: "/songs/c/", meta: "百合花" }));
+  });
+
+  it("matches traditional, simplified and pinyin queries", () => {
+    const { table, hits } = searchIndex(groups);
+    const matches = (query: string) =>
+      hits.filter((hit) => hit.search.includes(foldWith(table, query))).map((hit) => hit.title);
+    expect(matches("台湾")).toEqual(["臺灣味"]);
+    expect(matches("島屿")).toEqual(["島嶼天光"]);
+    expect(matches("bai he")).toEqual(["百合花"]);
   });
 });
