@@ -55,8 +55,9 @@ change; documentation-only edits need link/command review and `git diff --check`
 not application rebuilds or new tests.
 
 GitHub Actions (`.github/workflows/ci.yml`) runs ruff, pytest, the proofread
-catalog checks, and the Swift tests on every push to main and pull request. Tags
-and manual runs also build and verify the release ZIP as a workflow artifact.
+catalog checks, and the Swift tests on every push to main and pull request. A
+parallel job builds the app and verifies the portable ZIP, keeping it as a workflow
+artifact (7 days; 90 for tags). Publishing a release stays manual.
 
 - The root project supports Python 3.11+ and uses `.python-version` / `uv.lock`.
   Packaging has its own pinned Python 3.12.16 environment and lock under
