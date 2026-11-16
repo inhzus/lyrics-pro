@@ -1,0 +1,93 @@
+/* Charis 7.000 from SIL (OFL, see /fonts/Charis-OFL.txt): the fontsource subsets omit the
+   U+030D / U+0358 / U+030B tone marks Tâi-lô needs, so the full web fonts are vendored. */
+@font-face {
+  font-family: "Charis SIL";
+  src: url("/fonts/Charis-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Charis SIL";
+  src: url("/fonts/Charis-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
+}
+
+:root {
+  color-scheme: light;
+  --paper: #f5efe4;
+  --surface: #fbf7f0;
+  --ink: #241e17;
+  --muted: #7b6f60;
+  --faint: #a89c8b;
+  --accent: #9b3b22;
+  --rule: #e1d6c4;
+  --serif: "Charis SIL", "Noto Serif TC", "Times New Roman", serif;
+  --scale: 1;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --paper: #15120e;
+    --surface: #1d1914;
+    --ink: #ece3d4;
+    --muted: #a0927f;
+    --faint: #6f6455;
+    --accent: #e48b63;
+    --rule: #2f2922;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --paper: #15120e;
+  --surface: #1d1914;
+  --ink: #ece3d4;
+  --muted: #a0927f;
+  --faint: #6f6455;
+  --accent: #e48b63;
+  --rule: #2f2922;
+}
+:root[data-size="0"] { --scale: 0.85; }
+:root[data-size="1"] { --scale: 0.92; }
+:root[data-size="3"] { --scale: 1.12; }
+:root[data-size="4"] { --scale: 1.25; }
+
+*, *::before, *::after { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; text-decoration-color: var(--rule); text-underline-offset: 0.2em; }
+a:hover { color: var(--accent); text-decoration-color: currentColor; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 3px; }
+::selection { background: color-mix(in srgb, var(--accent) 22%, transparent); }
+
+.page { max-width: 42rem; margin: 0 auto; padding: 3rem 1rem 5rem; }
+.page.wide { max-width: 72rem; }
+.eyebrow {
+  margin: 0;
+  font-size: 0.8rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.site-footer {
+  margin-top: 4rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+  font-size: 0.82rem;
+  color: var(--faint);
+}
+.site-footer code { font-family: inherit; }
+
+@media (prefers-reduced-motion: no-preference) {
+  a, button { transition: color 0.15s, background-color 0.15s, border-color 0.15s; }
+}

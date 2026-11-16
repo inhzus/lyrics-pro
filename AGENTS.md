@@ -32,6 +32,8 @@ candidate is a separate, explicitly requested integration step.
   `lyric_session.py` coordinates asynchronous lookup, annotation, retries, and
   recording choices through explicit intent methods; `recording_discovery.py`
   owns alternative recordings and `jobs.py` the single-flight cancellable jobs.
+- `site/` is the Astro static lyrics website (untimed) built from the supplied
+  transcriptions; see [docs/website.md](docs/website.md).
 - `packaging/` owns the frozen worker, dependency lock, signing checks, and ZIP
   portability verification. Fish entry points are in `scripts/`.
 - Tests live in `tests/` and `macos/Tests/LyricsProTests/`. Keep generated files,

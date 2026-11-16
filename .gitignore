@@ -8,3 +8,6 @@ dist/
 macos/.build/
 macos/.swiftpm/
 resources/proofread-preparation/review.html
+site/node_modules/
+site/dist/
+site/.astro/

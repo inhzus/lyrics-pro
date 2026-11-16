@@ -1,0 +1,75 @@
+# Lyrics website
+
+`site/` is an [Astro](https://astro.build) static site built from the supplied
+transcriptions in `resources/lyrics-spelling/`. The home page is an artist
+directory grouped by the Mandarin pinyin initial of each name (`src/lib/artists.ts`,
+via `pinyin-pro`; the pinyin is only a sort key and is never displayed). Search
+accepts traditional, simplified or mixed characters: the build folds titles and names
+to simplified one character at a time with `opencc-js` (Taiwan → mainland, so 臺
+matches 台), and the page applies the same mapping to the query with a small table of
+only the characters that occur (`src/lib/search.ts`, `src/lib/fold.ts`). OpenCC is
+build-only and never ships to the browser. Songs use
+the same order everywhere: artist, then title, by romanization; artist pages with
+more than 10 songs show letter dividers. Its search
+box finds songs by title and artists by name or pinyin. There is a page per artist (`/artists/<hash>/`, a 12-character
+SHA-256 prefix of the name, since names contain spaces, `&` and parentheses), and
+one page per song. The transcriptions come from
+[台客鬼 Tâi Kheh Kuí](https://taikegui.wordpress.com/). It states no reuse licence,
+so the index, every song page and the shared footer link back to it
+(`src/lib/source.ts`). Each page shows the lyrics with
+their Tâi-lô romanization, plus the credits and source notes. There are no
+timestamps, so the site does not depend on timing alignment, providers or the app.
+
+- `src/lib/catalog.ts` reads `resources/proofread-preparation/manifest.json` for
+  titles, artists and duplicates; that manifest already includes the reviewed
+  metadata overrides. The three exact duplicates are skipped. The build fails if a
+  source was added, removed or changed since the manifest was written; rerun
+  `uv run --locked python -m scripts.prepare_proofread` (or `--offline`) first.
+- `src/lib/transcription.ts` keeps every nonempty source line once, in order. It
+  pairs a Han line with the romanization line that follows it, aligns side-by-side
+  columns when both lines have the same number of them, and separates credits and
+  `Note:` lines. Its patterns mirror `scripts/prepare_proofread.py`; it never
+  synthesizes text. Whitespace runs display as one space.
+- Song pages have reading controls for showing or hiding the romanization, text
+  size, and auto/light/dark theme. Choices are stored in the visitor's
+  `localStorage`, and without JavaScript the page shows the default view.
+- Fonts are self-hosted: Noto Serif TC (fontsource, split by unicode-range) for
+  Chinese text and Charis SIL 7.000 for Tâi-lô. The fontsource Charis subsets omit
+  U+030D, U+0358 and U+030B, so SIL's official woff2 files are vendored in
+  `public/fonts/` with their OFL licence.
+
+## Develop
+
+Requires Node 24 (`site/.node-version`). `site/.npmrc` pins the public npm registry
+so the lock file never records a private mirror.
+
+```fish
+cd site
+npm ci
+npm run dev        # http://localhost:4321/ with live reload
+npm test           # vitest: transcription parsing and catalog checks
+npm run build      # writes site/dist/
+npm run preview    # serves site/dist/
+```
+
+CI runs `npm ci`, `npm test` and `npm run build` in the `site` job.
+
+## Cloudflare Pages
+
+Connect the repository and use:
+
+| Setting | Value |
+|---|---|
+| Framework preset | Astro |
+| Root directory | `site` |
+| Build command | `npm run build` |
+| Build output directory | `dist` |
+
+Cloudflare clones the whole repository, so the build can read `../resources`. It
+picks up `site/.node-version` and installs from `site/package-lock.json`.
+`public/_headers` caches hashed `/_astro/*` assets immutably and fonts for 30 days.
+Song URLs use manifest IDs (`/songs/supplied-…/`), so they stay the same when a title
+is corrected.
+
+The site publishes copyrighted song lyrics. Whether to deploy it publicly is
+your decision; the build only produces files.

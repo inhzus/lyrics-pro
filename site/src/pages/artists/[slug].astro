@@ -1,0 +1,75 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../layouts/Base.astro";
+import { artistSlug, byArtist, songs, type Song } from "../../lib/catalog";
+import { classify } from "../../lib/transcription";
+import { initial } from "../../lib/artists";
+
+export const getStaticPaths = (() =>
+  byArtist(songs()).map(([artist, list]) => ({ params: { slug: artistSlug(artist) }, props: { artist, list } }))
+) satisfies GetStaticPaths;
+
+interface Props {
+  artist: string;
+  list: Song[];
+}
+const { artist, list } = Astro.props;
+// Long lists get letter dividers; songs arrive sorted by romanized title (artists.ts).
+const divided = list.length > 10;
+const rows = list.map((song, index) => {
+  const letter = initial(song.title);
+  return {
+    song,
+    credits: classify(song.source).credits.join(" "),
+    divider: divided && (index === 0 || initial(list[index - 1].title) !== letter) ? letter : undefined,
+  };
+});
+---
+<Base title={`${artist} · 台語歌詞`} description={`${artist} 的 ${list.length} 首台語歌詞與台羅拼音`}>
+  <nav class="crumbs"><a href="/">← 全部歌手 · All artists</a></nav>
+  <header class="artist-head">
+    <p class="eyebrow">歌手 · Artist</p>
+    <h1>{artist}</h1>
+    <p class="count">{list.length} 首歌 · {list.length === 1 ? "1 song" : `${list.length} songs`}</p>
+  </header>
+  <ol class="songs">
+    {rows.map(({ song, credits, divider }) => (
+      <li class:list={{ "has-divider": divider }}>
+        {divider && <span class="divider" aria-hidden="true">{divider}</span>}
+        <a href={`/songs/${song.id}/`}>
+          <span class="title" lang="nan-Hant">{song.title}</span>
+          {credits && <span class="credits">{credits}</span>}
+        </a>
+      </li>
+    ))}
+  </ol>
+</Base>
+
+<style>
+  .crumbs { font-size: 0.9rem; }
+  .crumbs a { color: var(--muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--accent); }
+  .artist-head { margin-top: 2.5rem; }
+  h1 {
+    margin: 0.35rem 0 0;
+    font-size: clamp(2.1rem, 7vw, 3.1rem);
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    line-height: 1.2;
+  }
+  .count { margin: 0.5rem 0 0; color: var(--faint); font-size: 0.9rem; }
+  .songs { margin: 2.5rem 0 0; padding: 0; list-style: none; border-top: 1px solid var(--rule); }
+  .songs li { border-bottom: 1px solid var(--rule); }
+  .divider {
+    display: block;
+    padding: 1.4rem 0.25rem 0.2rem;
+    color: var(--accent);
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+  }
+  .songs a { display: block; padding: 0.85rem 0.25rem; text-decoration: none; }
+  .songs a:hover .title { color: var(--accent); }
+  .title { display: block; font-size: 1.2rem; letter-spacing: 0.03em; }
+  .credits { display: block; margin-top: 0.15rem; font-size: 0.8rem; color: var(--faint); }
+</style>
