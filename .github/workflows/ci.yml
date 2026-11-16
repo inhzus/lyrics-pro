@@ -16,7 +16,7 @@ concurrency:
 
 jobs:
   test:
-    runs-on: macos-15
+    runs-on: macos-26
     steps:
       - uses: actions/checkout@v7
       - uses: astral-sh/setup-uv@v10.3.3
@@ -33,13 +33,16 @@ jobs:
           uv run --locked python -m scripts.prepare_wubai --check
           uv run --locked python -m scripts.verify_proofread_collection > /dev/null
       - name: Native tests
-        run: fish scripts/test-macos.fish
+        # Swift 6.1 crashes compiling the release build; this image ships a newer toolchain.
+        run: |
+          swift --version
+          fish scripts/test-macos.fish
 
   package:
     # Release builds only; publishing a GitHub Release stays manual.
     if: startsWith(github.ref, 'refs/tags/v') || github.event_name == 'workflow_dispatch'
     needs: test
-    runs-on: macos-15
+    runs-on: macos-26
     steps:
       - uses: actions/checkout@v7
       - uses: astral-sh/setup-uv@v10.3.3
