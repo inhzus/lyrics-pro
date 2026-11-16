@@ -4,7 +4,7 @@ from unittest.mock import Mock
 import json
 import pytest
 
-from lyrics_pro.lyrics import LrcAPIProvider, LyricsProvider, NetEaseProvider
+from lyrics_pro.lyrics import LrcAPIProvider, LyricsProvider
 from lyrics_pro.models import Playback, LookupFailure, LookupCancelled
 from lyrics_pro.recording_choices import RecordingChoices
 from lyrics_pro.recording_ref import source_ref

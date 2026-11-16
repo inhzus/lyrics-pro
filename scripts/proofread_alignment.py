@@ -5,6 +5,7 @@ from collections import Counter
 from difflib import SequenceMatcher
 from functools import lru_cache
 import hashlib
+from itertools import pairwise
 import json
 import math
 from pathlib import Path
@@ -184,7 +185,8 @@ def align(manual, timed):
             unmatched_manual.append(block["id"])
             continue
         fragments = block["parts"] if count == 2 else [block]
-        for fragment, row in zip(fragments, rows):
+        # A match spans at most two rows; a block with more parts fills only those rows.
+        for fragment, row in zip(fragments, rows, strict=False):
             a, b = norm(fragment["text"]), norm(row["match_text"])
             row.update(text=fragment["text"], spelling=fragment["spelling"],
                        manual_id=block["id"], status="exact" if a == b else "approximate",
@@ -195,7 +197,7 @@ def align(manual, timed):
                 row["review"].append("ambiguous_sequence_alignment")
 
     # Detect a phrase that the manual puts at the end of the preceding row.
-    for left, right in zip(events, events[1:]):
+    for left, right in pairwise(events):
         if left["status"] not in ("exact", "approximate") or right["status"] not in ("exact", "approximate"):
             continue
         a, b = norm(left["text"]), norm(right["match_text"])

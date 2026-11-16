@@ -97,7 +97,7 @@ def test_exact_merges_preserve_source_events_and_supplied_readings():
 
 def test_explicit_three_column_split_and_repeats():
     manual, timed = inputs([("甲乙丙", "a b c"), ("歌", "kua"), ("歌", "kua")], ["甲", "乙", "丙", "歌", "歌", "歌"])
-    manual["blocks"][0]["parts"] = [dict(text=t, spelling=s) for t, s in zip("甲乙丙", "abc")]
+    manual["blocks"][0]["parts"] = [dict(text=t, spelling=s) for t, s in zip("甲乙丙", "abc", strict=True)]
     report = prep.strict_alignment(manual, timed)
     assert prep.promotable(report, 30)
     assert report["summary"] == {"exact": 3, "repeat": 3}

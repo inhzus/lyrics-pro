@@ -27,7 +27,10 @@ requires-dist = [
 ]
 
 [package.metadata.requires-dev]
-dev = [{ name = "pytest", specifier = ">=8,<10" }]
+dev = [
+    { name = "pytest", specifier = ">=8,<10" },
+    { name = "ruff", specifier = ">=0.17,<1" },
+]
 
 [[package]]
 name = "lyrics-pro-packaging"

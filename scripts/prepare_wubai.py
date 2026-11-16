@@ -100,7 +100,7 @@ def make_asset(review, manual, timed):
     require(len(assignments) == len(timed["lines"]), "Missing or extra timing rows")
     require(len({r["time"] for r in timed["lines"]}) == len(timed["lines"]), "Ambiguous duplicate timestamps")
     used, rows = set(), []
-    for index, (assignment, original) in enumerate(zip(assignments, timed["lines"])):
+    for index, (assignment, original) in enumerate(zip(assignments, timed["lines"], strict=True)):
         require(assignment["source_row"] == index, "Reordered timing assignment")
         kind = assignment["kind"]
         if kind == "spoken":

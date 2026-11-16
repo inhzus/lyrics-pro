@@ -1,8 +1,6 @@
 from dataclasses import replace
-import json
 import sqlite3
 from threading import Event
-import pytest
 from lyrics_pro.lyrics_cache import LyricsCache
 from lyrics_pro.lyric_session import LyricSession
 from lyrics_pro.recording_choices import RecordingChoices
