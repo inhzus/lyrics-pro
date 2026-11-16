@@ -33,7 +33,6 @@ jobs:
           uv run --locked python -m scripts.prepare_wubai --check
           uv run --locked python -m scripts.verify_proofread_collection > /dev/null
       - name: Native tests
-        # Swift 6.1 crashes compiling the release build; this image ships a newer toolchain.
         run: |
           swift --version
           fish scripts/test-macos.fish

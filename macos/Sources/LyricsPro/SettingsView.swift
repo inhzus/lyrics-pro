@@ -43,7 +43,7 @@ struct SettingsView: View {
             }
             Section("Pronunciation") {
                 // Same setting as the footer menu's Global Default; both go through the connection.
-                Picker(selection: Binding(get: { connection.language }, set: connection.selectLanguage)) {
+                Picker(selection: Binding(get: { connection.language }, set: { connection.selectLanguage($0) })) {
                     ForEach(PronunciationLanguage.choices, id: \.self) { option in
                         Text(option.label).tag(option)
                     }
