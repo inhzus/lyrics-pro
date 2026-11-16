@@ -6,9 +6,9 @@ No new alignment is audio-verified.
 |---|---:|
 | alignment review | 177 |
 | duplicate | 3 |
-| lookup failure | 20 |
+| lookup failure | 21 |
 | no timed lyrics | 98 |
-| parsing review | 191 |
+| parsing review | 190 |
 | ready | 13 |
 | recording review | 122 |
 
@@ -54,7 +54,7 @@ timing inputs, alignment reports and timestamped listening previews.
 | Song for You-滅火器 | parsing review | ambiguous_pair:15,16; ambiguous_pair:16,18; ambiguous_pair:3,4; ambiguous_pair:39,40; ambiguous_pair:4,6; ambiguous_pair:40,42; ambiguous_pair:75,76; ambiguous_pair:76,78; ambiguous_pair:78,79; ambiguous_pair:79,81; unpaired_line:81 |
 | The Lonely Goatherd + 山頂黑狗兄-蘇打綠 | parsing review | ambiguous_pair:1,2; ambiguous_pair:11,12; ambiguous_pair:12,13; ambiguous_pair:13,14; ambiguous_pair:14,15; ambiguous_pair:15,16; ambiguous_pair:16,17; ambiguous_pair:17,18; ambiguous_pair:18,20; ambiguous_pair:2,3; ambiguous_pair:20,21; ambiguous_pair:21,22; ambiguous_pair:22,24; ambiguous_pair:3,4; ambiguous_pair:4,6; ambiguous_pair:45,47; ambiguous_pair:56,57; ambiguous_pair:57,58; ambiguous_pair:58,59; ambiguous_pair:6,7; ambiguous_pair:7,8; ambiguous_pair:8,9; ambiguous_pair:9,11; unpaired_line:59 |
 | This Weekend No Party-草屯囝仔 | parsing review | ambiguous_pair:1,2; ambiguous_pair:2,3; ambiguous_pair:24,26; ambiguous_pair:26,28; ambiguous_pair:3,4; ambiguous_pair:4,6; ambiguous_pair:52,53; ambiguous_pair:53,54; ambiguous_pair:54,55; ambiguous_pair:55,57; ambiguous_pair:72,73; ambiguous_pair:73,74; ambiguous_pair:74,75; ambiguous_pair:75,77 |
-| Tic Tac-川秋沙 | parsing review | ambiguous_pair:40,41; ambiguous_pair:41,42; ambiguous_pair:45,46; ambiguous_pair:46,47; ambiguous_pair:53,54; ambiguous_pair:54,55; ambiguous_pair:58,59; ambiguous_pair:59,60; ambiguous_pair:7,8; ambiguous_pair:8,10; unpaired_line:63 |
+| Tic Tac-川秋沙 | parsing review | ambiguous_pair:40,41; ambiguous_pair:41,42; ambiguous_pair:45,46; ambiguous_pair:46,47; ambiguous_pair:53,54; ambiguous_pair:54,55; ambiguous_pair:58,59; ambiguous_pair:59,60; unpaired_line:63 |
 | Wherever You Go-陳建瑋 | parsing review | ambiguous_pair:1,3 |
 | Would You Be My Girl (feat. 大支)-陳建瑋 | parsing review | ambiguous_pair:100,102; ambiguous_pair:22,24; ambiguous_pair:24,26; ambiguous_pair:32,34; ambiguous_pair:40,42; ambiguous_pair:45,46; ambiguous_pair:67,69; ambiguous_pair:69,71; ambiguous_pair:77,79; ambiguous_pair:85,87; ambiguous_pair:90,92; ambiguous_pair:92,94 |
 | You Are My Sunshine-表兒 | parsing review | ambiguous_pair:1,2; ambiguous_pair:12,13; ambiguous_pair:13,14; ambiguous_pair:14,15; ambiguous_pair:15,17; ambiguous_pair:17,19; ambiguous_pair:2,3; ambiguous_pair:25,27; ambiguous_pair:27,28; ambiguous_pair:28,29; ambiguous_pair:29,30; ambiguous_pair:3,4; ambiguous_pair:30,32; ambiguous_pair:32,34; ambiguous_pair:4,6; ambiguous_pair:40,42; ambiguous_pair:42,43; ambiguous_pair:43,44; ambiguous_pair:44,45; unpaired_line:45 |
@@ -142,14 +142,14 @@ timing inputs, alignment reports and timestamped listening previews.
 | 只要大家攏吃台灣米-嚴詠能 | recording review | no_verified_timed_recording |
 | 只要為你活一天-伍佰 | recording review | [Preview](supplied-6f29e51a7ab9bc94bccf/timed-proofread.md). conflicting_equally_supported_timings |
 | 叫我第一名 (Call Me No. 1)-五月天 | no timed lyrics | no_verified_timed_recording |
-| 叭噗叭噗-張三李四 | parsing review | ambiguous_pair:3,5 |
+| 叭噗叭噗-張三李四 | lookup failure | {'provider': 'netease', 'error': 'No usable frozen netease snapshot for search/get; offline mode forbids requests.', 'retryable': False}; {'provider': 'lrcapi', 'error': 'No usable frozen lrcapi snapshot for jsonapi; offline mode forbids requests.', 'retryable': False}; {'provider': 'lrclib', 'error': 'No usable frozen lrclib snapshot for search; offline mode forbids requests.', 'retryable': False} |
 | 可愛的車-董事長樂團 | no timed lyrics | no_verified_timed_recording |
-| 可愛的馬-新寶島康樂隊 | parsing review | ambiguous_pair:54,55; ambiguous_pair:55,57; source_note_requires_review:60 |
+| 可愛的馬-新寶島康樂隊 | parsing review | source_note_requires_review:60 |
 | 台11 (Highway 11)-滅火器 | no timed lyrics | no_verified_timed_recording |
 | 台二一 (Highway 21)-孩子王 | no timed lyrics | no_verified_timed_recording |
 | 台北台北-謝和弦 | alignment review | [Preview](supplied-3d98923f1f7d148f5c91/timed-proofread.md). approximate_rows:1; unresolved_rows:17; unused_repeat_blocks:17 |
 | 台北哪會攏嘸人-陳建瑋 | no timed lyrics | no_verified_timed_recording |
-| 台北孤兒-伍佰 | parsing review | ambiguous_pair:21,22; ambiguous_pair:22,24; ambiguous_pair:3,4; ambiguous_pair:4,6; source_note_requires_review:69 |
+| 台北孤兒-伍佰 | parsing review | source_note_requires_review:69 |
 | 台北帝國-黑名單工作室 | parsing review | ambiguous_pair:70,72 |
 | 台十七-拍謝少年 | ready | [Preview](supplied-6c7e22788a5a450a65b2/timed-proofread.md).  |
 | 台灣囝仔-男子漢樂團 | alignment review | [Preview](supplied-3d47a2a55e8096fbf4fe/timed-proofread.md). approximate_rows:1; unresolved_rows:6; unused_repeat_blocks:2 |
@@ -399,7 +399,7 @@ timing inputs, alignment reports and timestamped listening previews.
 | 水某-陳建瑋 | parsing review | ambiguous_pair:1,2; ambiguous_pair:71,72; conflicting_spellings_for_repeated_text |
 | 永遠的永遠-五月天 | alignment review | [Preview](supplied-05ac2d9a0a6dba1c29d3/timed-proofread.md). approximate_rows:1; unresolved_rows:37; unmatched_supplied_blocks:8; unused_repeat_blocks:9; ambiguous_sequence:1 |
 | 汝攏無想過-男子漢樂團 | no timed lyrics | no_verified_timed_recording |
-| 汝是我的心肝-伍佰 | parsing review | ambiguous_pair:11,13; ambiguous_pair:3,5; conflicting_spellings_for_repeated_text |
+| 汝是我的心肝-伍佰 | parsing review | conflicting_spellings_for_repeated_text |
 | 沒你我沒差-玖壹壹 | parsing review | conflicting_spellings_for_repeated_text; source_note_requires_review:3 |
 | 沒問題-董事長樂團 | recording review | no_verified_timed_recording |
 | 泅-謝銘祐 | lookup failure | {'provider': 'lrclib', 'error': 'LRCLIB network request failed: curl: (28) Operation timed out after 15005 milliseconds with 0 bytes received', 'retryable': True} |

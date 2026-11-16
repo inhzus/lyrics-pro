@@ -19,6 +19,15 @@
       ]
     },
     {
+      "id": "line-7",
+      "text": "堪袂得迷戀乎人面熱",
+      "spelling": "kham buē tik bê-luân hōo lâng-bīn lua̍h",
+      "source_lines": [
+        7,
+        8
+      ]
+    },
+    {
       "id": "line-10",
       "text": "時間 自現在就不振動",
       "spelling": "sî-kan tsū tsit-má tio̍h buē tín-tāng",
@@ -165,8 +174,6 @@
     "ambiguous_pair:54,55",
     "ambiguous_pair:58,59",
     "ambiguous_pair:59,60",
-    "ambiguous_pair:7,8",
-    "ambiguous_pair:8,10",
     "unpaired_line:63"
   ]
 }

@@ -15,13 +15,13 @@
       "recording_id": "netease:156706",
       "duration": 248.626,
       "ready": false,
-      "coverage": 0.6052631578947368,
-      "exact_fraction": 0.5789473684210527,
+      "coverage": 0.631578947368421,
+      "exact_fraction": 0.6052631578947368,
       "summary": {
         "credit": 4,
         "gap": 4,
-        "unresolved": 15,
-        "exact": 8,
+        "unresolved": 14,
+        "exact": 9,
         "repeat": 14,
         "approximate": 1
       }
@@ -30,13 +30,13 @@
       "recording_id": "netease:157018",
       "duration": 248.626,
       "ready": false,
-      "coverage": 0.6052631578947368,
-      "exact_fraction": 0.5789473684210527,
+      "coverage": 0.631578947368421,
+      "exact_fraction": 0.6052631578947368,
       "summary": {
         "credit": 4,
         "gap": 4,
-        "unresolved": 15,
-        "exact": 8,
+        "unresolved": 14,
+        "exact": 9,
         "repeat": 14,
         "approximate": 1
       }
@@ -45,13 +45,13 @@
       "recording_id": "netease:5260137",
       "duration": 249.782,
       "ready": false,
-      "coverage": 0.6052631578947368,
-      "exact_fraction": 0.5789473684210527,
+      "coverage": 0.631578947368421,
+      "exact_fraction": 0.6052631578947368,
       "summary": {
         "credit": 5,
         "gap": 4,
-        "unresolved": 15,
-        "exact": 8,
+        "unresolved": 14,
+        "exact": 9,
         "repeat": 14,
         "approximate": 1
       }

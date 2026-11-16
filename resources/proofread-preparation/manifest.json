@@ -6,9 +6,9 @@
   "summary": {
     "recording review": 122,
     "alignment review": 177,
-    "parsing review": 191,
+    "parsing review": 190,
     "ready": 13,
-    "lookup failure": 20,
+    "lookup failure": 21,
     "no timed lyrics": 98,
     "duplicate": 3
   },
@@ -655,7 +655,7 @@
     },
     {
       "path": "resources/lyrics-spelling/Tic Tac-川秋沙",
-      "sha256": "916b0b81608cfb8da61371a0022329721f0b10b59129b30db5fc5e0d5e2928fc",
+      "sha256": "a8dd29884789bb89177f6bbab583fb6a58e5dba7e5ee96b1474c015a261c2288",
       "id": "supplied-42889a93fe27c4c6083d",
       "title": "Tic Tac",
       "artist": "川秋沙",
@@ -673,8 +673,6 @@
         "ambiguous_pair:54,55",
         "ambiguous_pair:58,59",
         "ambiguous_pair:59,60",
-        "ambiguous_pair:7,8",
-        "ambiguous_pair:8,10",
         "unpaired_line:63"
       ],
       "snapshots": {
@@ -1221,7 +1219,7 @@
     },
     {
       "path": "resources/lyrics-spelling/世界第一等-伍佰",
-      "sha256": "99285f4179968db5978a560dd2c1ba9af78ca08ada7374e7eace18d02608bad4",
+      "sha256": "fd9be08202cf922ea2ae010839467fa956c6c720b872070b07b1cbb1f07e7836",
       "id": "supplied-aa877b02e4f643c35279",
       "title": "世界第一等",
       "artist": "伍佰",
@@ -1239,8 +1237,8 @@
       "summary": {
         "credit": 4,
         "gap": 4,
-        "unresolved": 15,
-        "exact": 8,
+        "unresolved": 14,
+        "exact": 9,
         "repeat": 14,
         "approximate": 1
       },
@@ -3318,7 +3316,7 @@
     },
     {
       "path": "resources/lyrics-spelling/叭噗叭噗-張三李四",
-      "sha256": "5000f0ac98b32161eca59cbf321ac099fa814332bb45fd5cb72d986dd3d429a4",
+      "sha256": "afa3bb08a93be73f70e8e7215e782ccad808f46063d850f089626f0bd2ec8866",
       "id": "supplied-b8f293839e026c991ec4",
       "title": "叭噗叭噗",
       "artist": "張三李四",
@@ -3331,13 +3329,31 @@
       "audio_verified": false,
       "tool_version": 8,
       "metadata_override": {},
-      "status": "parsing review",
+      "status": "lookup failure",
       "reasons": [
-        "ambiguous_pair:3,5"
+        {
+          "provider": "netease",
+          "error": "No usable frozen netease snapshot for search/get; offline mode forbids requests.",
+          "retryable": false
+        },
+        {
+          "provider": "lrcapi",
+          "error": "No usable frozen lrcapi snapshot for jsonapi; offline mode forbids requests.",
+          "retryable": false
+        },
+        {
+          "provider": "lrclib",
+          "error": "No usable frozen lrclib snapshot for search; offline mode forbids requests.",
+          "retryable": false
+        }
       ],
       "snapshots": {
         "root": ".build/proofread-snapshots",
-        "requests": {}
+        "requests": {
+          "f6d36b06593cd40f3ceea2868ed65d56cab61ff4b09b4ba033b549e560568ece": null,
+          "52924e62a4328eb7d19dbc46d102ab3d0ea49de47aae7007afd2e657f54f48e3": null,
+          "86929bdaf3b135dab16a138d6a849442e23a28384d783488cea8b8c7a9f3a974": null
+        }
       }
     },
     {
@@ -3368,7 +3384,7 @@
     },
     {
       "path": "resources/lyrics-spelling/可愛的馬-新寶島康樂隊",
-      "sha256": "cd565105ae77ed22ee0571c4491221912a012380f842ca460c21f5335aa54f4a",
+      "sha256": "ab203a570a8d37dfd93a72b79d1fb05f2b2e1b26b12223529d9de3634b876788",
       "id": "supplied-caa02cfd352a5a0aa81e",
       "title": "可愛的馬",
       "artist": "新寶島康樂隊",
@@ -3383,8 +3399,6 @@
       "metadata_override": {},
       "status": "parsing review",
       "reasons": [
-        "ambiguous_pair:54,55",
-        "ambiguous_pair:55,57",
         "source_note_requires_review:60"
       ],
       "snapshots": {
@@ -3515,7 +3529,7 @@
     },
     {
       "path": "resources/lyrics-spelling/台北孤兒-伍佰",
-      "sha256": "d58d4fbe4d3b500500dfb1daf3c4eef7fe0cac5f752c3a8810750b35bcd9a446",
+      "sha256": "ddc90a3121b04c74d5ee494306e1c4866022f96e2f63288647d5f1bee9510f1c",
       "id": "supplied-4a3a91defa0c8724fefc",
       "title": "台北孤兒",
       "artist": "伍佰",
@@ -3530,10 +3544,6 @@
       "metadata_override": {},
       "status": "parsing review",
       "reasons": [
-        "ambiguous_pair:21,22",
-        "ambiguous_pair:22,24",
-        "ambiguous_pair:3,4",
-        "ambiguous_pair:4,6",
         "source_note_requires_review:69"
       ],
       "snapshots": {
@@ -10716,7 +10726,7 @@
     },
     {
       "path": "resources/lyrics-spelling/汝是我的心肝-伍佰",
-      "sha256": "d40b460d17c888e00a6759dfcd455c33202e4f57fb4225bb83cccdbde89a6661",
+      "sha256": "3421ffe7230a9fb0a34cf3d424bd9456f2ceb11a4d209523782ef0f48dbbd79b",
       "id": "supplied-986c502c66ae02629a09",
       "title": "汝是我的心肝",
       "artist": "伍佰",
@@ -10731,8 +10741,6 @@
       "metadata_override": {},
       "status": "parsing review",
       "reasons": [
-        "ambiguous_pair:11,13",
-        "ambiguous_pair:3,5",
         "conflicting_spellings_for_repeated_text"
       ],
       "snapshots": {

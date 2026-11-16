@@ -9,6 +9,7 @@ import pytest
 from lyrics_pro import curated
 from lyrics_pro.models import Playback
 from lyrics_pro.pronunciation import Romanizer, resolve_language
+from scripts.prepare_proofread import digest
 from scripts.prepare_wubai import ROOT, audit, make_asset, read_review
 
 
@@ -60,16 +61,28 @@ def test_invalid_aliases_are_rejected(aliases):
         curated._decode_asset(json.dumps(asset))
 
 
-def test_source_backed_repairs_are_required_and_original_transcript_is_untouched():
+def test_source_backed_repairs_are_required(tmp_path):
     review, manual, timed = song("台北孤兒")
     raw = Path(review["source_path"]).read_text()
-    assert "提起" in raw.splitlines()[21] and " 是 " in raw.splitlines()[3]
+    # The supplied source itself now carries these readings (corrected upstream).
+    assert "thê-khí" in raw.splitlines()[21] and " sī " in raw.splitlines()[3]
+    assert not manual["repairs"]
     asset = make_asset(review, manual, timed)
     assert any("thê-khí" in r["spelling"] for r in asset["alignment"]["rows"])
-    unpatched = copy.deepcopy(manual)
-    unpatched["repairs"] = []
+    # Reintroduce the original transcription slip: only an evidenced repair reproduces the asset.
+    lines = raw.splitlines(keepends=True)
+    lines[21] = lines[21].replace("thê-khí", "提起", 1)
+    slipped = tmp_path / "台北孤兒-伍佰"
+    slipped.write_text("".join(lines))
+    review = dict(review, source_path=str(slipped),
+                  input_sha256=dict(review["input_sha256"], original=digest(slipped.read_bytes())))
     with pytest.raises(ValueError, match="Unsupplied"):
-        make_asset(review, unpatched, timed)
+        make_asset(review, manual, timed)
+    patched = dict(manual, repairs=[dict(line=22, before="提起", after="thê-khí", evidence="Same source line 34")])
+    assert make_asset(review, patched, timed)["alignment"]["rows"] == asset["alignment"]["rows"]
+    unevidenced = dict(manual, repairs=[dict(line=22, before="提起", after="thê-khí")])
+    with pytest.raises(ValueError, match="evidence"):
+        make_asset(review, unevidenced, timed)
     changed = copy.deepcopy(manual)
     changed["blocks"][0]["spelling"] += " invented"
     with pytest.raises(ValueError, match="Unsupplied"):

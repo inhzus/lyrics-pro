@@ -354,19 +354,6 @@
       ]
     }
   ],
-  "repairs": [
-    {
-      "line": 3,
-      "before": "人生的風景                             親像大海的風湧 hong-íng",
-      "after": "人生的風景                             親像大海的風湧",
-      "evidence": "Move accidentally inline hong-íng for 風湧 to its paired spelling line. No new reading."
-    },
-    {
-      "line": 4,
-      "before": "lîn-sing ê kong-kíng            tshin-tshiūnn tuā-hái ê",
-      "after": "lîn-sing ê kong-kíng            tshin-tshiūnn tuā-hái ê hong-íng",
-      "evidence": "Move supplied hong-íng from preceding Chinese line to its incomplete paired spelling."
-    }
-  ],
+  "repairs": [],
   "notes": []
 }

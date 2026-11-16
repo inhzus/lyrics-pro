@@ -1,6 +1,15 @@
 {
   "blocks": [
     {
+      "id": "line-3",
+      "text": "三十四度過晝時 予人強欲無法度喘氣",
+      "spelling": "sann-tsa̍p-sì tōo-kuè tàu sî hōo-lâng kiông-beh bô-huat-tōo tshuán-khuì",
+      "source_lines": [
+        3,
+        4
+      ]
+    },
+    {
       "id": "line-5",
       "text": "電視剛剛才搬完 彼咧天天開心開心（咦~愛注意）",
       "spelling": "tiān-sī tú-tú tsiah puann uân hit ê thian-thian khai-sim khai-sim (eh~ài tsù-ì)",
@@ -359,7 +368,5 @@
     }
   ],
   "notes": [],
-  "reasons": [
-    "ambiguous_pair:3,5"
-  ]
+  "reasons": []
 }

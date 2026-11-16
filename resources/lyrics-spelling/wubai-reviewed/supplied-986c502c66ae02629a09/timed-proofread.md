@@ -5,7 +5,7 @@ Recording: lrclib:15303180 · 忘情1015精选辑 · 298.658s
 Provider timestamps preserved. Text alignment reviewed; not audio-verified.
 Supplied spelling is retained except for the documented source-backed repairs.
 
-Repair two inline lyric/reading pairs. LRCLIB 15303180 includes the 嗚 interlude missing from NetEase. Preserve the first 讓我 and final shortened 就算海水 chorus wording in sequence.
+LRCLIB 15303180 includes the 嗚 interlude missing from NetEase. Preserve the first 讓我 and final shortened 就算海水 chorus wording in sequence.
 
 
 ~~~text
