@@ -43,6 +43,7 @@ Run from the repository root:
 
 ```fish
 uv sync --locked
+uv run ruff check .
 uv run pytest
 fish scripts/test-macos.fish
 fish scripts/build-macos.fish
@@ -52,6 +53,10 @@ packaging/.venv/bin/python packaging/verify_portable.py dist/Lyrics-Pro-0.5.0-ma
 Use the actual release version in the ZIP filename. Run checks appropriate to the
 change; documentation-only edits need link/command review and `git diff --check`,
 not application rebuilds or new tests.
+
+GitHub Actions (`.github/workflows/ci.yml`) runs ruff, pytest, the proofread
+catalog checks, and the Swift tests on every push to main and pull request. Tags
+and manual runs also build and verify the release ZIP as a workflow artifact.
 
 - The root project supports Python 3.11+ and uses `.python-version` / `uv.lock`.
   Packaging has its own pinned Python 3.12.16 environment and lock under
@@ -225,8 +230,9 @@ nonfatal. Cache I/O stays on workers; native logging uses its serial queue.
 - Empty, waiting, and error states share `StatusPanel`. The Preview menu (window-size
   presets) is hidden unless the `showPreviewMenu` default is set; for one launch use
   `open -n "dist/Lyrics Pro.app" --args -showPreviewMenu YES`.
-- For interactive checks in this workspace, use the rightmost monitor when
-  available. Preserve the user's playback state unless exercising controls, and
+- For interactive checks in this workspace, move the test window to the leftmost
+  monitor right after `open -n`, and do not activate the app; take focus only for
+  transient UI (popovers, menus) that requires it, and say so. Preserve the user's playback state unless exercising controls, and
   restore it afterwards. Reopen the built app before claiming to have tested a new
   binary. Confirm the app version and bundled worker rather than an older process.
 - Check cached and fresh lyrics, artwork, highlighting, popover behavior, reconnect,
@@ -253,6 +259,8 @@ nonfatal. Cache I/O stays on workers; native logging uses its serial queue.
   log rotation, startup, NDJSON readiness, shutdown, and restart.
 - The isolation test does not replace first-launch/Gatekeeper validation on another
   Mac. Preserve the downloaded-app approval and Automation instructions.
-- For releases, align the app version in `macos/Support/Info.plist`, source tag, ZIP
-  name, and release notes. Publish the ZIP and SHA-256 checksum as release assets,
+- For releases, align the app version in `macos/Support/Info.plist`, the root
+  `pyproject.toml` (then refresh both locks), source tag, ZIP name, and release
+  notes. The build fails if Info.plist and the Python package disagree; provider
+  requests report this version in their User-Agent. Publish the ZIP and SHA-256 checksum as release assets,
   not Git-tracked binaries. Documentation-only updates do not require a new release.
