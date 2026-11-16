@@ -8,14 +8,13 @@
   "summary": {
     "credit": 4,
     "gap": 4,
-    "unresolved": 15,
-    "exact": 8,
+    "unresolved": 14,
+    "exact": 9,
     "repeat": 14,
     "approximate": 1
   },
   "review_row_count": 24,
   "unmatched_manual_ids": [
-    "line-3:1",
     "line-24:0",
     "line-42:0"
   ],
@@ -158,13 +157,14 @@
       "time": 58.148,
       "online_text": "亲像大海的风涌",
       "match_text": "亲像大海的风涌",
-      "text": null,
-      "spelling": null,
-      "manual_id": null,
-      "status": "unresolved",
+      "text": "親像大海的風湧",
+      "spelling": "tshin-tshiūnn tuā-hái ê hong-íng",
+      "manual_id": "line-3:1",
+      "status": "exact",
       "review": [
-        "no_manual_match"
-      ]
+        "ambiguous_sequence_alignment"
+      ],
+      "similarity": 1.0
     },
     {
       "source_row": 11,
@@ -615,8 +615,8 @@
   ],
   "strict_complete": false,
   "input_sha256": {
-    "original_source": "99285f4179968db5978a560dd2c1ba9af78ca08ada7374e7eace18d02608bad4",
-    "manual": "486f5acb87941e6ff35504dfa9d64453cd1f2db818e46d5f2b0415d927aac1ba",
+    "original_source": "fd9be08202cf922ea2ae010839467fa956c6c720b872070b07b1cbb1f07e7836",
+    "manual": "ff1c3bd3dbb5256c8809e89d5fb3cea3ee74e3b7d07f84b46a834653100c3796",
     "timed": "d1a609398320e11eace78af1450d37c12962543b92430d36f87cd994c3835d1e"
   }
 }

@@ -19,8 +19,8 @@ Not audio-verified. See the review notes and alignment.json.
 [00:55.57] 人生的風景
 lîn-sing ê kong-kíng
 
-[00:58.15] [UNRESOLVED — source row 10]
-[SPELLING UNRESOLVED]
+[00:58.15] 親像大海的風湧
+tshin-tshiūnn tuā-hái ê hong-íng
 
 [01:01.63] 有時猛有時平
 ū sî bíng ū sî pînn
@@ -133,7 +133,7 @@ tshian-kim lân bé hó lâng sing
 - 00:12.33, source row 6: no_manual_match
 - 00:20.01, source row 7: no_manual_match
 - 00:55.57, source row 9: ambiguous_sequence_alignment
-- 00:58.15, source row 10: no_manual_match
+- 00:58.15, source row 10: ambiguous_sequence_alignment
 - 01:01.63, source row 11: ambiguous_sequence_alignment
 - 01:05.10, source row 12: ambiguous_sequence_alignment
 - 01:09.42, source row 13: ambiguous_sequence_alignment
@@ -153,5 +153,5 @@ tshian-kim lân bé hó lâng sing
 - 02:51.58, source row 35: no_manual_match
 - 02:58.45, source row 37: no_manual_match
 - 03:10.41, source row 40: no_manual_match
-- Unmatched manual blocks: line-3:1, line-24:0, line-42:0
+- Unmatched manual blocks: line-24:0, line-42:0
 - Unused reusable blocks: line-15:0, line-18:0, line-21:0, line-27:1, line-33:0, line-36:0, line-39:0, line-45:1, line-54:0, line-57:0

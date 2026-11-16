@@ -5,7 +5,7 @@ Recording: netease:156868 · 冬之火 九重天演唱会特选录音专辑 · 2
 Provider timestamps preserved. Text alignment reviewed; not audio-verified.
 Supplied spelling is retained except for the documented source-backed repairs.
 
-Use the 238.468-second 冬之火 live recording, which includes the supplied sung outro. Move inline hong-íng to its paired reading; retain the second-verse wording and align the complete supplied outro at the single existing bang event. Do not use this timing for the 249-second recording.
+Use the 238.468-second 冬之火 live recording, which includes the supplied sung outro. retain the second-verse wording and align the complete supplied outro at the single existing bang event. Do not use this timing for the 249-second recording.
 
 
 ~~~text

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "id": "supplied-4a3a91defa0c8724fefc",
-  "revision": "1",
+  "revision": "2",
   "title": "台北孤兒",
   "title_aliases": [
     "台北孤儿(Live)"
@@ -211,8 +211,8 @@
     }
   ],
   "input_sha256": {
-    "original": "d58d4fbe4d3b500500dfb1daf3c4eef7fe0cac5f752c3a8810750b35bcd9a446",
-    "manual": "abf12e569fd8f6afeabf5034bdeaaeabda0c7dec3b8f8896c7677039d4e02051",
+    "original": "ddc90a3121b04c74d5ee494306e1c4866022f96e2f63288647d5f1bee9510f1c",
+    "manual": "8acd8284b59f84b8447dd26f3d9e85f1d508cca3798e991ee2e76245b45f4d5b",
     "timed": "2cd468c87689538cc3d9caf8456951201f8fd83ef9f1ff5dcc8657b9763154ca"
   }
 }

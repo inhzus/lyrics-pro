@@ -1,0 +1,20 @@
+{
+  "candidates": [],
+  "errors": [
+    {
+      "provider": "netease",
+      "error": "No usable frozen netease snapshot for search/get; offline mode forbids requests.",
+      "retryable": false
+    },
+    {
+      "provider": "lrcapi",
+      "error": "No usable frozen lrcapi snapshot for jsonapi; offline mode forbids requests.",
+      "retryable": false
+    },
+    {
+      "provider": "lrclib",
+      "error": "No usable frozen lrclib snapshot for search; offline mode forbids requests.",
+      "retryable": false
+    }
+  ]
+}

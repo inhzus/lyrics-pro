@@ -81,7 +81,7 @@
       "id": "supplied-aa877b02e4f643c35279",
       "title": "世界第一等",
       "source_path": "resources/lyrics-spelling/世界第一等-伍佰",
-      "source_sha256": "99285f4179968db5978a560dd2c1ba9af78ca08ada7374e7eace18d02608bad4",
+      "source_sha256": "fd9be08202cf922ea2ae010839467fa956c6c720b872070b07b1cbb1f07e7836",
       "status": "ready",
       "recording": {
         "reference": "netease:156868",
@@ -169,7 +169,7 @@
       "id": "supplied-4a3a91defa0c8724fefc",
       "title": "台北孤兒",
       "source_path": "resources/lyrics-spelling/台北孤兒-伍佰",
-      "source_sha256": "d58d4fbe4d3b500500dfb1daf3c4eef7fe0cac5f752c3a8810750b35bcd9a446",
+      "source_sha256": "ddc90a3121b04c74d5ee494306e1c4866022f96e2f63288647d5f1bee9510f1c",
       "status": "ready",
       "recording": {
         "reference": "lrclib:40160357",
@@ -470,7 +470,7 @@
       "id": "supplied-986c502c66ae02629a09",
       "title": "汝是我的心肝",
       "source_path": "resources/lyrics-spelling/汝是我的心肝-伍佰",
-      "source_sha256": "d40b460d17c888e00a6759dfcd455c33202e4f57fb4225bb83cccdbde89a6661",
+      "source_sha256": "3421ffe7230a9fb0a34cf3d424bd9456f2ceb11a4d209523782ef0f48dbbd79b",
       "status": "ready",
       "recording": {
         "reference": "lrclib:15303180",
@@ -817,7 +817,7 @@
       "id": "supplied-aa877b02e4f643c35279-netease-156928",
       "title": "世界第一等",
       "source_path": "resources/lyrics-spelling/世界第一等-伍佰",
-      "source_sha256": "99285f4179968db5978a560dd2c1ba9af78ca08ada7374e7eace18d02608bad4",
+      "source_sha256": "fd9be08202cf922ea2ae010839467fa956c6c720b872070b07b1cbb1f07e7836",
       "status": "ready",
       "recording": {
         "reference": "netease:156928",
@@ -835,7 +835,7 @@
       "id": "supplied-aa877b02e4f643c35279-netease-27867397",
       "title": "世界第一等",
       "source_path": "resources/lyrics-spelling/世界第一等-伍佰",
-      "source_sha256": "99285f4179968db5978a560dd2c1ba9af78ca08ada7374e7eace18d02608bad4",
+      "source_sha256": "fd9be08202cf922ea2ae010839467fa956c6c720b872070b07b1cbb1f07e7836",
       "status": "ready",
       "recording": {
         "reference": "netease:27867397",

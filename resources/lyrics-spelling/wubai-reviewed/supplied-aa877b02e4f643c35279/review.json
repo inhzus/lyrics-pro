@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "id": "supplied-aa877b02e4f643c35279",
-  "revision": "1",
+  "revision": "2",
   "title": "世界第一等",
   "title_aliases": [
     "世界第一等 (Live)"
@@ -20,7 +20,7 @@
     "artist": "伍佰 & China Blue"
   },
   "attribution": "User-provided transcription. 作詞：李安修/陳富榮   作曲：伍佰  台語拼音：關德樂",
-  "reason": "Use the 238.468-second 冬之火 live recording, which includes the supplied sung outro. Move inline hong-íng to its paired reading; retain the second-verse wording and align the complete supplied outro at the single existing bang event. Do not use this timing for the 249-second recording.",
+  "reason": "Use the 238.468-second 冬之火 live recording, which includes the supplied sung outro. retain the second-verse wording and align the complete supplied outro at the single existing bang event. Do not use this timing for the 249-second recording.",
   "source_spelling_notes": [],
   "assignments": [
     {
@@ -193,8 +193,8 @@
     }
   ],
   "input_sha256": {
-    "original": "99285f4179968db5978a560dd2c1ba9af78ca08ada7374e7eace18d02608bad4",
-    "manual": "07bf88ec50bddaf96381b391842bd385be8d599024194e3d39e04c301619c9a5",
+    "original": "fd9be08202cf922ea2ae010839467fa956c6c720b872070b07b1cbb1f07e7836",
+    "manual": "8c72c6c80c4d9a77d14e550d7b43eb97e9c6bcbdcbbbebe7047d98585112ba77",
     "timed": "428bc6714ef1c60c23d9bdc86655e513110fc40ec72c8bb3e09f15ef18db3946"
   }
 }

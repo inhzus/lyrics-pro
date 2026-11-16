@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "id": "supplied-aa877b02e4f643c35279-netease-27867397",
-  "revision": "1",
+  "revision": "2",
   "title": "世界第一等",
   "title_aliases": [
     "世界第一等 (Live)"
@@ -231,8 +231,8 @@
     }
   ],
   "input_sha256": {
-    "original": "99285f4179968db5978a560dd2c1ba9af78ca08ada7374e7eace18d02608bad4",
-    "manual": "07bf88ec50bddaf96381b391842bd385be8d599024194e3d39e04c301619c9a5",
+    "original": "fd9be08202cf922ea2ae010839467fa956c6c720b872070b07b1cbb1f07e7836",
+    "manual": "8c72c6c80c4d9a77d14e550d7b43eb97e9c6bcbdcbbbebe7047d98585112ba77",
     "timed": "492a06f5f93f0aca2ebc38e0656af87776cdd06419cedd269d43f5b30aa8fd79",
     "provider_lrc": "32f6d52a5f7d1833e1415e7d3adaff64999c741749cb9951c813867f982a7e98",
     "recording": "31d210dab66c1e3556503daf7100658ee580acf8d903a2fe15c90bd4d77dc473"

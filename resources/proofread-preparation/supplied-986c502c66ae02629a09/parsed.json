@@ -1,6 +1,25 @@
 {
   "blocks": [
     {
+      "id": "line-3",
+      "text": "最近的夜暝                 我定定會爬起床",
+      "spelling": "tsuè-kīn ê àm mî     guá tiānn tiānn ē khí-tshn̂g",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "最近的夜暝",
+          "spelling": "tsuè-kīn ê àm mî"
+        },
+        {
+          "text": "我定定會爬起床",
+          "spelling": "guá tiānn tiānn ē khí-tshn̂g"
+        }
+      ]
+    },
+    {
       "id": "line-5",
       "text": "目睭金金看你看到天光",
       "spelling": "ba̍k-tsiu kim kim khuànn lí khuànn-kàu thinn-kng",
@@ -26,6 +45,15 @@
           "text": "笑容是彼呢單純",
           "spelling": "tshiò-iông sī hia nî tan-sûn"
         }
+      ]
+    },
+    {
+      "id": "line-11",
+      "text": "溫暖的愛一時煞充滿心門",
+      "spelling": "un-luán ê ài tsi̍t sî suah tshiong-buán sim mn̂g",
+      "source_lines": [
+        11,
+        12
       ]
     },
     {
@@ -425,8 +453,6 @@
   ],
   "notes": [],
   "reasons": [
-    "ambiguous_pair:11,13",
-    "ambiguous_pair:3,5",
     "conflicting_spellings_for_repeated_text"
   ]
 }

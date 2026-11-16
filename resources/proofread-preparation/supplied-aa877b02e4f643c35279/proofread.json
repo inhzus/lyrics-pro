@@ -4,8 +4,8 @@
   "blocks": [
     {
       "id": "line-3",
-      "text": "人生的風景                             親像大海的風湧 hong-íng",
-      "spelling": "lîn-sing ê kong-kíng            tshin-tshiūnn tuā-hái ê",
+      "text": "人生的風景                             親像大海的風湧",
+      "spelling": "lîn-sing ê kong-kíng            tshin-tshiūnn tuā-hái ê hong-íng",
       "source_lines": [
         3,
         4
@@ -16,8 +16,8 @@
           "spelling": "lîn-sing ê kong-kíng"
         },
         {
-          "text": "親像大海的風湧 hong-íng",
-          "spelling": "tshin-tshiūnn tuā-hái ê"
+          "text": "親像大海的風湧",
+          "spelling": "tshin-tshiūnn tuā-hái ê hong-íng"
         }
       ]
     },

@@ -1,6 +1,25 @@
 {
   "blocks": [
     {
+      "id": "line-3",
+      "text": "不知要去佗位　                     頭前的燈火是閃閃爍",
+      "spelling": "m̄ tsai beh khì tó-uī            thâu-tsîng ê ting-hué sī siám siám sinnh sī",
+      "source_lines": [
+        3,
+        4
+      ],
+      "parts": [
+        {
+          "text": "不知要去佗位",
+          "spelling": "m̄ tsai beh khì tó-uī"
+        },
+        {
+          "text": "頭前的燈火是閃閃爍",
+          "spelling": "thâu-tsîng ê ting-hué sī siám siám sinnh sī"
+        }
+      ]
+    },
+    {
       "id": "line-6",
       "text": "只想要來離開　                       不管伊天上有幾顆星",
       "spelling": "tsí siūnn beh lâi lī-khui        m̄ kuán-i thinn-tíng ū kuí lia̍p tshinn",
@@ -53,6 +72,25 @@
       "source_lines": [
         18,
         19
+      ]
+    },
+    {
+      "id": "line-21",
+      "text": "不願擱再提起　                       往事就親像一齣戲",
+      "spelling": "m̄ guān goh tsài thê-khí            óng-sū tio̍h tshin-tshiūnn tsi̍t tshut hì",
+      "source_lines": [
+        21,
+        22
+      ],
+      "parts": [
+        {
+          "text": "不願擱再提起",
+          "spelling": "m̄ guān goh tsài thê-khí"
+        },
+        {
+          "text": "往事就親像一齣戲",
+          "spelling": "óng-sū tio̍h tshin-tshiūnn tsi̍t tshut hì"
+        }
       ]
     },
     {
@@ -244,10 +282,6 @@
     }
   ],
   "reasons": [
-    "ambiguous_pair:21,22",
-    "ambiguous_pair:22,24",
-    "ambiguous_pair:3,4",
-    "ambiguous_pair:4,6",
     "source_note_requires_review:69"
   ]
 }

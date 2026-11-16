@@ -359,20 +359,7 @@
       ]
     }
   ],
-  "repairs": [
-    {
-      "line": 4,
-      "before": "是",
-      "after": "sī",
-      "evidence": "Same source: 我是台北的孤兒 / guá sī tâi-pak ê koo-jî"
-    },
-    {
-      "line": 22,
-      "before": "提起",
-      "after": "thê-khí",
-      "evidence": "Same source line 34: ná thê-khí lí-sióng"
-    }
-  ],
+  "repairs": [],
   "notes": [
     {
       "line": 69,

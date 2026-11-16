@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "id": "supplied-986c502c66ae02629a09",
-  "revision": "1",
+  "revision": "2",
   "title": "汝是我的心肝",
   "title_aliases": [
     "汝是我的心肝(Live)"
@@ -17,7 +17,7 @@
     "artist": "伍佰"
   },
   "attribution": "User-provided transcription. 作詞：伍佰/王武雄    作曲：伍佰  台語拼音：關德樂",
-  "reason": "Repair two inline lyric/reading pairs. LRCLIB 15303180 includes the 嗚 interlude missing from NetEase. Preserve the first 讓我 and final shortened 就算海水 chorus wording in sequence.",
+  "reason": "LRCLIB 15303180 includes the 嗚 interlude missing from NetEase. Preserve the first 讓我 and final shortened 就算海水 chorus wording in sequence.",
   "source_spelling_notes": [],
   "assignments": [
     {
@@ -274,8 +274,8 @@
     }
   ],
   "input_sha256": {
-    "original": "d40b460d17c888e00a6759dfcd455c33202e4f57fb4225bb83cccdbde89a6661",
-    "manual": "b6d5b4b633f206b1288d84923c3c0c05385bae7fb40b219cc5eebe2cc85e2db8",
+    "original": "3421ffe7230a9fb0a34cf3d424bd9456f2ceb11a4d209523782ef0f48dbbd79b",
+    "manual": "182e41ccc3fc9cde71649f6458626d4e87b25f33dbde2509ffe3b872f599cca3",
     "timed": "f6e8801d1ed88207d1a656471cb0e7efb06853233fbabf680cc14ef5da22196d"
   }
 }
