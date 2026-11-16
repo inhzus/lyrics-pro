@@ -1,0 +1,65 @@
+---
+import type { Item } from "../lib/transcription";
+
+interface Props {
+  items: Item[];
+}
+const { items } = Astro.props;
+---
+<main class="lyrics">
+  {items.map((item) => {
+    if (item.kind === "pair" && item.parts) {
+      return (
+        <p class="pair cols">
+          {item.parts.map((part) => (
+            <span class="part">
+              <span class="han" lang="nan-Hant">{part.text}</span>
+              <span class="tl" lang="nan-Latn">{part.spelling}</span>
+            </span>
+          ))}
+        </p>
+      );
+    }
+    if (item.kind === "pair") {
+      return (
+        <p class="pair">
+          <span class="han" lang="nan-Hant">{item.text}</span>
+          <span class="tl" lang="nan-Latn">{item.spelling}</span>
+        </p>
+      );
+    }
+    if (item.kind === "note") return <aside class="note">{item.text}</aside>;
+    if (item.kind === "line") return <p class="line">{item.text}</p>;
+    return item.blanks > 1 ? <hr class="stanza" /> : null;
+  })}
+</main>
+
+<style>
+  .lyrics { margin-top: 2.5rem; }
+  .pair, .line { margin: 0 0 calc(1.35rem * var(--scale)); }
+  .han, .tl { display: block; }
+  .han {
+    font-size: calc(1.4rem * var(--scale));
+    line-height: 1.55;
+    letter-spacing: 0.04em;
+  }
+  .tl {
+    margin-top: 0.1em;
+    font-size: calc(1.02rem * var(--scale));
+    line-height: 1.5;
+    color: var(--muted);
+  }
+  .cols { display: flex; flex-wrap: wrap; gap: 0.55em 1.6em; }
+  .line { font-size: calc(1.15rem * var(--scale)); color: var(--ink); }
+  .note {
+    margin: 0 0 1.6rem;
+    padding: 0.7rem 1rem;
+    border-left: 2px solid var(--accent);
+    background: var(--surface);
+    border-radius: 0 6px 6px 0;
+    font-size: 0.9rem;
+    color: var(--muted);
+  }
+  .stanza { border: 0; height: 1.25rem; margin: 0; }
+  :global(:root[data-romanization="off"]) .tl { display: none; }
+</style>

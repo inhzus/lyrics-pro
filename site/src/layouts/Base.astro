@@ -1,0 +1,52 @@
+---
+import "@fontsource/noto-serif-tc/400.css";
+import "@fontsource/noto-serif-tc/700.css";
+import "../styles/global.css";
+import { SOURCE_NAME, SOURCE_URL } from "../lib/source";
+
+interface Props {
+  title: string;
+  description?: string;
+  wide?: boolean;
+}
+const { title, description, wide = false } = Astro.props;
+---
+<!doctype html>
+<html lang="zh-Hant-TW">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="preload" href="/fonts/Charis-Regular.woff2" as="font" type="font/woff2" crossorigin />
+    <meta name="theme-color" content="#f5efe4" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#15120e" media="(prefers-color-scheme: dark)" />
+    <!-- Apply saved reading settings before first paint. -->
+    <script is:inline>
+      (() => {
+        const root = document.documentElement;
+        root.classList.add("js");
+        try {
+          const theme = localStorage.getItem("theme");
+          if (theme === "light" || theme === "dark") root.dataset.theme = theme;
+          const size = localStorage.getItem("size");
+          if (size && /^[0-4]$/.test(size)) root.dataset.size = size;
+          if (localStorage.getItem("romanization") === "off") root.dataset.romanization = "off";
+        } catch {}
+      })();
+    </script>
+  </head>
+  <body>
+    <div class:list={["page", { wide }]}>
+      <slot />
+      <footer class="site-footer">
+        <slot name="footer" />
+        <p>
+          歌詞與台羅拼音整理自 <a href={SOURCE_URL} rel="noopener">{SOURCE_NAME}</a>（A Place to Learn Taiwanese），依原稿呈現。
+          Lyrics and Tâi-lô romanization from <a href={SOURCE_URL} rel="noopener">taikegui.wordpress.com</a>, shown as transcribed there.
+          Typeset in Charis SIL and Noto Serif TC.
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,75 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../layouts/Base.astro";
+import Lyrics from "../../components/Lyrics.astro";
+import ReadingControls from "../../components/ReadingControls.astro";
+import { artistSlug, songs, type Song } from "../../lib/catalog";
+import { SOURCE_NAME, SOURCE_URL } from "../../lib/source";
+import { classify } from "../../lib/transcription";
+
+export const getStaticPaths = (() => {
+  const all = songs();
+  return all.map((song) => ({
+    params: { id: song.id },
+    props: { song, siblings: all.filter((other) => other.artist === song.artist && other.id !== song.id) },
+  }));
+}) satisfies GetStaticPaths;
+
+interface Props {
+  song: Song;
+  siblings: Song[];
+}
+const { song, siblings } = Astro.props;
+const { credits, items } = classify(song.source);
+const artistHref = `/artists/${artistSlug(song.artist)}/`;
+---
+<Base title={`${song.title} · ${song.artist}`} description={`${song.title} – ${song.artist} 台語歌詞與台羅拼音`}>
+  <nav class="crumbs"><a href="/">全部歌手 · All artists</a> / <a href={artistHref}>{song.artist}</a></nav>
+  <header class="song-head">
+    <p class="eyebrow"><a href={artistHref}>{song.artist}</a></p>
+    <h1 lang="nan-Hant">{song.title}</h1>
+    {credits.length > 0 && (
+      <div class="credits">{credits.map((line) => <p>{line}</p>)}</div>
+    )}
+  </header>
+  <ReadingControls />
+  <Lyrics items={items} />
+  {siblings.length > 0 && (
+    <section class="more">
+      <h2><a href={artistHref}>{song.artist}</a> 的其他歌曲 · More by {song.artist}</h2>
+      <ul>
+        {siblings.map((other) => <li><a href={`/songs/${other.id}/`}>{other.title}</a></li>)}
+      </ul>
+    </section>
+  )}
+  <p class="source">
+    歌詞與台羅拼音出處 · Lyrics and Tâi-lô from <a href={SOURCE_URL} rel="noopener">{SOURCE_NAME}</a>
+  </p>
+  <p slot="footer">Transcription file: <code>{song.file}</code></p>
+</Base>
+
+<style>
+  .crumbs { font-size: 0.9rem; color: var(--faint); }
+  .crumbs a { color: var(--muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--accent); }
+  .song-head { margin-top: 2.5rem; }
+  h1 {
+    margin: 0.35rem 0 0;
+    font-size: clamp(2.1rem, 7vw, 3.1rem);
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    line-height: 1.2;
+  }
+  .credits { margin-top: 1rem; font-size: 0.85rem; color: var(--muted); }
+  .credits p { margin: 0; }
+  .eyebrow a { text-decoration: none; }
+  .eyebrow a:hover { text-decoration: underline; }
+  .source { margin: 3rem 0 0; font-size: 0.9rem; color: var(--muted); }
+  .source a { color: var(--accent); }
+  .more { margin-top: 2.5rem; }
+  .more h2 a { color: var(--ink); }
+  .more h2 { margin: 0 0 0.75rem; font-size: 0.95rem; font-weight: 400; color: var(--muted); }
+  .more ul { display: flex; flex-wrap: wrap; gap: 0.35rem 1.4rem; margin: 0; padding: 0; list-style: none; }
+  .more a { text-decoration: none; }
+  .more a:hover { text-decoration: underline; }
+</style>

@@ -1,0 +1,182 @@
+---
+import { artistSlug, type Song } from "../lib/catalog";
+import { romanize } from "../lib/artists";
+import { createFolder } from "../lib/search";
+
+interface Props {
+  letters: [string, [string, Song[]][]][];
+}
+const { letters } = Astro.props;
+const artists = letters.flatMap(([, groups]) => groups);
+const songs = artists.flatMap(([, list]) => list);
+const href = (artist: string) => `/artists/${artistSlug(artist)}/`;
+// Fold every searchable string first; the table is complete only afterwards.
+const { fold, table } = createFolder();
+const artistHits = artists.map(([artist, list]) => ({ artist, count: list.length, search: fold(`${artist} ${romanize(artist)}`) }));
+const songHits = songs.map((song) => ({ song, search: fold(`${song.title} ${song.artist}`) }));
+const anchor = (letter: string) => (letter === "#" ? "other" : letter);
+---
+<label class="search">
+  <span class="visually-hidden">搜尋歌名或歌手 Search title or artist</span>
+  <input id="filter" type="search" placeholder="搜尋歌名或歌手 · Search title or artist" autocomplete="off" />
+</label>
+
+<nav class="letters" aria-label="依字母 By initial">
+  {letters.map(([letter]) => <a href={`#${anchor(letter)}`}>{letter}</a>)}
+</nav>
+
+<div id="directory">
+  {letters.map(([letter, groups]) => (
+    <section class="letter" id={anchor(letter)}>
+      <h2>{letter}</h2>
+      <ul class="artists">
+        {groups.map(([artist, list]) => (
+          <li>
+            <a class="artist" href={href(artist)}>
+              <span class="name">{artist}</span>
+              <span class="count">{list.length} 首</span>
+              <span class="samples">{list.slice(0, 3).map((song) => song.title).join(" · ")}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</div>
+
+<!-- Search results: complete lists rendered once, filtered in place. -->
+<div id="results" hidden>
+  <p id="summary" class="summary"></p>
+  <ul class="hits">
+    {artistHits.map(({ artist, count, search }) => (
+      <li data-search={search} hidden>
+        <a href={href(artist)}><span class="hit-title">{artist}</span><span class="hit-meta">歌手 · {count} 首</span></a>
+      </li>
+    ))}
+    {songHits.map(({ song, search }) => (
+      <li data-search={search} hidden>
+        <a href={`/songs/${song.id}/`}><span class="hit-title">{song.title}</span><span class="hit-meta">{song.artist}</span></a>
+      </li>
+    ))}
+  </ul>
+</div>
+<script id="fold-table" type="application/json" set:html={JSON.stringify(table)} />
+
+<style>
+  .search { display: none; margin: 2.5rem 0 0; }
+  :global(.js) .search { display: block; }
+  input {
+    width: 100%;
+    padding: 0.85rem 1.1rem;
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    background: var(--surface);
+    color: var(--ink);
+    font: inherit;
+    font-size: 1rem;
+  }
+  input::placeholder { color: var(--faint); }
+  input:focus { outline: none; border-color: var(--accent); }
+
+  .letters { display: flex; flex-wrap: wrap; gap: 0.25rem; margin: 1.25rem 0 0; }
+  .letters a {
+    min-width: 2rem;
+    padding: 0.2rem 0.45rem;
+    border-radius: 6px;
+    color: var(--muted);
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 0.05em;
+  }
+  .letters a:hover { color: var(--accent); background: var(--surface); }
+
+  .letter { margin-top: 2.5rem; scroll-margin-top: 1rem; }
+  h2 {
+    margin: 0 0 0.75rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid var(--rule);
+    color: var(--accent);
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  .artists {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    gap: 0.75rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .artist {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 0.15rem 0.75rem;
+    height: 100%;
+    padding: 0.9rem 1rem;
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    background: var(--surface);
+    text-decoration: none;
+  }
+  .artist:hover { border-color: var(--accent); }
+  .artist:hover .name { color: var(--accent); }
+  .name { font-size: 1.15rem; font-weight: 700; letter-spacing: 0.04em; }
+  .count { align-self: baseline; font-size: 0.8rem; color: var(--faint); }
+  .samples {
+    grid-column: 1 / -1;
+    overflow: hidden;
+    font-size: 0.82rem;
+    color: var(--muted);
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  .summary { margin: 1.5rem 0 0.5rem; font-size: 0.9rem; color: var(--faint); }
+  .hits { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--rule); }
+  .hits li { border-bottom: 1px solid var(--rule); }
+  .hits a {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.7rem 0.25rem;
+    text-decoration: none;
+  }
+  .hits a:hover .hit-title { color: var(--accent); }
+  .hit-title { font-size: 1.1rem; }
+  .hit-meta { flex: none; font-size: 0.85rem; color: var(--muted); }
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+</style>
+
+<script>
+  import { type FoldTable, foldWith } from "../lib/fold";
+
+  // Traditional → simplified for every character in the titles and names, so either script matches.
+  const table: FoldTable = JSON.parse(document.querySelector("#fold-table")!.textContent!);
+  const input = document.querySelector<HTMLInputElement>("#filter")!;
+  const directory = document.querySelector<HTMLElement>("#directory")!;
+  const letters = document.querySelector<HTMLElement>(".letters")!;
+  const results = document.querySelector<HTMLElement>("#results")!;
+  const summary = document.querySelector<HTMLElement>("#summary")!;
+  const hits = [...results.querySelectorAll<HTMLElement>("li")];
+
+  input.addEventListener("input", () => {
+    const query = foldWith(table, input.value.trim());
+    directory.hidden = letters.hidden = Boolean(query);
+    results.hidden = !query;
+    if (!query) return;
+    let shown = 0;
+    for (const hit of hits) {
+      hit.hidden = !hit.dataset.search!.includes(query);
+      if (!hit.hidden) shown++;
+    }
+    summary.textContent = shown ? `${shown} 筆結果 · ${shown} results` : "找無符合的歌曲 · No matches";
+  });
+</script>

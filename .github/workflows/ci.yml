@@ -56,3 +56,20 @@ jobs:
           path: dist/Lyrics-Pro-*-macOS-arm64.zip
           if-no-files-found: error
           retention-days: ${{ startsWith(github.ref, 'refs/tags/v') && 90 || 7 }}
+
+  site:
+    # The static lyrics website; Cloudflare Pages builds and deploys it separately.
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: site
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7.1.0
+        with:
+          node-version-file: site/.node-version
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - run: npm ci
+      - run: npm test
+      - run: npm run build
