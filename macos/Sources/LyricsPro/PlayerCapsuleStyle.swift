@@ -10,7 +10,7 @@ struct PronunciationMenu: View {
 
     var body: some View {
         Menu {
-            Picker("This Song", selection: Binding(get: { connection.songLanguage }, set: connection.selectSongLanguage)) {
+            Picker("This Song", selection: Binding(get: { connection.songLanguage }, set: { connection.selectSongLanguage($0) })) {
                 ForEach(PronunciationLanguage.songChoices, id: \.self) { option in
                     Text(option.label).tag(option)
                 }
@@ -18,7 +18,7 @@ struct PronunciationMenu: View {
             .pickerStyle(.inline)
             .disabled(!connection.canChooseSongLanguage)
             Divider()
-            Picker("Global Default", selection: Binding(get: { connection.language }, set: connection.selectLanguage)) {
+            Picker("Global Default", selection: Binding(get: { connection.language }, set: { connection.selectLanguage($0) })) {
                 ForEach(PronunciationLanguage.choices, id: \.self) { option in
                     Text(option.label).tag(option)
                 }
