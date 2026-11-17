@@ -170,6 +170,7 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
 <script>
   import { type FoldTable, foldWith } from "../lib/fold";
   import { isArtist, pinButton, pins, render } from "../lib/pins";
+  import { extend } from "../lib/script";
 
   type Hit = { href: string; title: string; meta: string; search: string };
 
@@ -189,6 +190,10 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
       .then((response) => {
         if (!response.ok) throw new Error(`search.json: ${response.status}`);
         return response.json() as Promise<{ table: FoldTable; hits: Hit[] }>;
+      })
+      .then((loaded) => {
+        extend(loaded.table);
+        return loaded;
       })
       .catch((error) => {
         data = undefined;

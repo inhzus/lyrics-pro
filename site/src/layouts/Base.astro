@@ -1,6 +1,9 @@
 ---
 import "@fontsource/noto-serif-tc/400.css";
 import "@fontsource/noto-serif-tc/700.css";
+// Noto Serif SC is linked only in 简 mode (pre-paint script below, lib/script.ts), so 繁 readers never load it.
+import sc400 from "@fontsource/noto-serif-sc/400.css?url";
+import sc700 from "@fontsource/noto-serif-sc/700.css?url";
 import "../styles/global.css";
 import { SOURCE_NAME, SOURCE_URL } from "../lib/source";
 import { DEFAULT_PINNED_ARTISTS } from "../lib/artists";
@@ -19,7 +22,7 @@ const SITE_NAME = "台語歌詞";
 const defaultPins = JSON.stringify(DEFAULT_PINNED_ARTISTS.map((artist) => `/artists/${artistSlug(artist)}/`));
 ---
 <!doctype html>
-<html lang="zh-Hant-TW" data-default-pins={defaultPins}>
+<html lang="zh-Hant-TW" data-default-pins={defaultPins} data-sc-fonts={JSON.stringify([sc400, sc700])}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -48,12 +51,27 @@ const defaultPins = JSON.stringify(DEFAULT_PINNED_ARTISTS.map((artist) => `/arti
           const size = localStorage.getItem("size");
           if (size && /^[0-4]$/.test(size)) root.dataset.size = size;
           if (localStorage.getItem("romanization") === "off") root.dataset.romanization = "off";
+          // Simplified pages stay hidden until lib/script.ts converts them (with a safety timeout).
+          if (localStorage.getItem("script") === "hans") {
+            root.dataset.script = "hans";
+            root.classList.add("converting");
+            for (const href of JSON.parse(root.dataset.scFonts)) {
+              const link = document.head.appendChild(document.createElement("link"));
+              link.rel = "stylesheet";
+              link.href = href;
+            }
+            setTimeout(() => root.classList.remove("converting"), 1500);
+          }
         } catch {}
       })();
     </script>
   </head>
   <body>
     <div class:list={["page", { wide }]}>
+      <div class="script-switch" role="group" aria-label="繁體／简体" data-no-convert>
+        <button type="button" data-script="hant" aria-pressed="true">繁</button>
+        <button type="button" data-script="hans" aria-pressed="false">简</button>
+      </div>
       <slot />
       <footer class="site-footer">
         <slot name="footer" />
@@ -65,8 +83,10 @@ const defaultPins = JSON.stringify(DEFAULT_PINNED_ARTISTS.map((artist) => `/arti
     </div>
     <PinButton />
     <script>
-      import { start } from "../lib/pins";
-      start();
+      import { start as startPins } from "../lib/pins";
+      import { start as startScript } from "../lib/script";
+      startScript();
+      startPins();
     </script>
   </body>
 </html>

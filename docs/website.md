@@ -41,14 +41,28 @@ timestamps, so the site does not depend on timing alignment, providers or the ap
   五月天 (`DEFAULT_PINNED_ARTISTS` in `src/lib/artists.ts`) are pinned until the
   visitor changes their pins, so they can be unpinned. Without JavaScript the home
   page shows the default pins and no buttons.
+- A 繁/简 switch at the top right of every page shows the site in traditional (the
+  default) or simplified characters. The choice is stored in `localStorage` under
+  `script`; a simplified page stays hidden until it is converted, so traditional text
+  never flashes. `src/middleware.ts` runs while pages are prerendered and adds a
+  `#hans` table with the simplified form of each character on the page and in the
+  page scripts' interface text (OpenCC `tw`→`cn`, per character, from `src/lib/hans.ts`,
+  the same conversion search uses). `src/lib/script.ts` converts text, `title`,
+  `placeholder` and `aria-label`, switches `lang` between `-Hant` and `-Hans`, keeps
+  the originals so 繁 restores them exactly, and converts rows added later; the home
+  page adds `/search.json`'s table for search results and pinned songs.
 - Song pages have reading controls for showing or hiding the romanization, text
   size, and auto/light/dark theme. Choices are stored in the visitor's
   `localStorage`, and without JavaScript the page shows the default view.
 - Fonts are self-hosted: Noto Serif TC (fontsource, split by unicode-range) for
-  Chinese text and Charis SIL 7.000 for Tâi-lô. The fontsource Charis subsets omit
+  Chinese text and Charis SIL 7.000 for Tâi-lô. Noto Serif TC lacks simplified-only
+  glyphs (爱, 简, 关), so 简 mode puts Noto Serif SC first. Its stylesheets are imported
+  with `?url` and linked only in 简 mode (the pre-paint script and `lib/script.ts`), so
+  traditional readers never download them. The fontsource Charis subsets omit
   U+030D, U+0358 and U+030B, so SIL's official woff2 files are vendored in
   `public/fonts/` with their OFL licence. A Vite plugin in `astro.config.mjs` narrows
-  each Noto `unicode-range` to the characters in the catalog and templates and drops
+  each Noto `unicode-range` to the characters in the catalog and templates (plus their
+  simplified forms for SC) and drops
   slices that cover none (`src/lib/fontSubset.ts`), which keeps the render-blocking CSS
   small; the font files themselves are unchanged.
 

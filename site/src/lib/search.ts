@@ -1,10 +1,7 @@
-import * as OpenCC from "opencc-js";
 import { romanize } from "./artists";
 import { artistSlug, type Song } from "./catalog";
 import { type FoldTable, foldWith } from "./fold";
-
-// Character-by-character (not phrase) conversion, so the browser can repeat it with a plain table.
-const toSimplified = OpenCC.Converter({ from: "tw", to: "cn" });
+import { toSimplified } from "./hans";
 
 /**
  * Folds searchable text to simplified characters and records every mapping it used.
