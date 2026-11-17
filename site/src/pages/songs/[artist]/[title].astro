@@ -1,17 +1,18 @@
 ---
 import type { GetStaticPaths } from "astro";
-import Base from "../../layouts/Base.astro";
-import Lyrics from "../../components/Lyrics.astro";
-import ReadingControls from "../../components/ReadingControls.astro";
-import { artistSlug, songs, type Song } from "../../lib/catalog";
-import { SOURCE_NAME, SOURCE_URL } from "../../lib/source";
-import { classify } from "../../lib/transcription";
-import PinButton from "../../components/PinButton.astro";
+import Base from "../../../layouts/Base.astro";
+import Lyrics from "../../../components/Lyrics.astro";
+import ReadingControls from "../../../components/ReadingControls.astro";
+import { artistPath, artistSlug, songPath, songs, type Song } from "../../../lib/catalog";
+import { titleSlug } from "../../../lib/slug";
+import { SOURCE_NAME, SOURCE_URL } from "../../../lib/source";
+import { classify } from "../../../lib/transcription";
+import PinButton from "../../../components/PinButton.astro";
 
 export const getStaticPaths = (() => {
   const all = songs();
   return all.map((song) => ({
-    params: { id: song.id },
+    params: { artist: artistSlug(song.artist), title: titleSlug(song.title) },
     props: { song, siblings: all.filter((other) => other.artist === song.artist && other.id !== song.id) },
   }));
 }) satisfies GetStaticPaths;
@@ -22,7 +23,7 @@ interface Props {
 }
 const { song, siblings } = Astro.props;
 const { credits, items } = classify(song.source);
-const artistHref = `/artists/${artistSlug(song.artist)}/`;
+const artistHref = artistPath(song.artist);
 ---
 <Base
   title={`${song.title} · ${song.artist}`}
@@ -34,7 +35,7 @@ const artistHref = `/artists/${artistSlug(song.artist)}/`;
     <p class="eyebrow"><a href={artistHref}>{song.artist}</a></p>
     <div class="title-row">
       <h1 lang="nan-Hant">{song.title}</h1>
-      <PinButton path={`/songs/${song.id}/`} pill />
+      <PinButton path={songPath(song)} pill />
     </div>
     {credits.length > 0 && (
       <div class="credits">{credits.map((line) => <p>{line}</p>)}</div>
@@ -46,7 +47,7 @@ const artistHref = `/artists/${artistSlug(song.artist)}/`;
     <section class="more">
       <h2><a href={artistHref}>{song.artist}</a> 的其他歌曲</h2>
       <ul>
-        {siblings.map((other) => <li><a href={`/songs/${other.id}/`}>{other.title}</a></li>)}
+        {siblings.map((other) => <li><a href={songPath(other)}>{other.title}</a></li>)}
       </ul>
     </section>
   )}

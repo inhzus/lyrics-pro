@@ -1,11 +1,13 @@
 /**
  * Pinned artists and songs, kept in the visitor's localStorage as a JSON array of page paths
- * (`/artists/<slug>/`, `/songs/<id>/`) in pin order. Until the visitor changes anything the
- * defaults on `<html data-default-pins>` apply; every toggle saves the whole list, so
- * unpinning a default sticks.
+ * (`/artists/<artist>/`, `/songs/<artist>/<title>/`) in pin order. Until the visitor changes
+ * anything the defaults on `<html data-default-pins>` apply; every toggle saves the whole list,
+ * so unpinning a default sticks.
  */
 const KEY = "pins";
-const PATH = /^\/(artists|songs)\/[^/]+\/$/;
+const PATH = /^\/(artists\/[^/]+|songs\/[^/]+\/[^/]+)\/$/;
+/** Paths from before the pinyin URLs: hashed artist names and manifest song IDs. */
+const LEGACY = /^\/(artists\/[0-9a-f]{12}|songs\/[^/]+)\/$/;
 
 /** The stored list, or the defaults when nothing usable is stored. */
 export function parsePins(raw: string | null, defaults: string[]): string[] {
@@ -23,6 +25,21 @@ export function parsePins(raw: string | null, defaults: string[]): string[] {
 /** Unpins a pinned path, otherwise pins it after the others. */
 export const togglePin = (list: string[], path: string) =>
   list.includes(path) ? list.filter((other) => other !== path) : [...list, path];
+
+/** Stored pins with legacy paths, or null when there is nothing to migrate. */
+export function legacyPins(raw: string | null): unknown[] | null {
+  let value: unknown;
+  try {
+    value = JSON.parse(raw ?? "null");
+  } catch {
+    return null;
+  }
+  return Array.isArray(value) && value.some((path) => typeof path === "string" && LEGACY.test(path)) ? value : null;
+}
+
+/** Moves legacy paths to their current pages (`/moved.json`), keeping order; unknown ones drop out. */
+export const migratePins = (stored: unknown[], moved: Record<string, string>) =>
+  parsePins(JSON.stringify(stored.map((path) => (typeof path === "string" && moved[path]) || path)), []);
 
 export const isArtist = (path: string) => path.startsWith("/artists/");
 
@@ -61,12 +78,27 @@ const changed = () => {
   document.dispatchEvent(new CustomEvent("pins-change"));
 };
 
-export function toggle(path: string) {
-  const next = togglePin(pins(), path);
+const save = (list: string[]) => {
   try {
-    localStorage.setItem(KEY, JSON.stringify(next));
+    localStorage.setItem(KEY, JSON.stringify(list));
   } catch {}
   changed();
+};
+
+export const toggle = (path: string) => save(togglePin(pins(), path));
+
+/** Rewrites pins saved before the pinyin URLs, once; a failed fetch retries on the next page. */
+async function migrate() {
+  let raw: string | null = null;
+  try {
+    raw = localStorage.getItem(KEY);
+  } catch {}
+  const stored = legacyPins(raw);
+  if (!stored) return;
+  try {
+    const response = await fetch("/moved.json");
+    if (response.ok) save(migratePins(stored, await response.json()));
+  } catch {}
 }
 
 /** A fresh pin button for rows built in the browser, cloned from PinButton's template. */
@@ -97,4 +129,5 @@ export function start() {
     if (event.key === KEY || event.key === null) changed();
   });
   render();
+  void migrate();
 }

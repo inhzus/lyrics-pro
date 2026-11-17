@@ -32,8 +32,8 @@ describe("search index", () => {
   it("lists every artist, then every song", () => {
     const { hits } = searchIndex(groups);
     expect(hits.map((hit) => hit.title)).toEqual(["伍佰 & China Blue", "百合花", "島嶼天光", "臺灣味", "茶店仔"]);
-    expect(hits[1]).toMatchObject({ meta: "歌手 · 1 首", href: expect.stringMatching(/^\/artists\/[0-9a-f]{12}\/$/) });
-    expect(hits[4]).toEqual(expect.objectContaining({ href: "/songs/c/", meta: "百合花" }));
+    expect(hits[1]).toMatchObject({ meta: "歌手 · 1 首", href: "/artists/bai-he-hua/" });
+    expect(hits[4]).toEqual(expect.objectContaining({ href: "/songs/bai-he-hua/cha-dian-zai/", meta: "百合花" }));
   });
 
   it("matches traditional, simplified and pinyin queries", () => {

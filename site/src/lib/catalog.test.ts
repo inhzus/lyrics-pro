@@ -3,7 +3,7 @@ import { mkdirSync, mkdtempSync, readFileSync, unlinkSync, writeFileSync } from 
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { describe, expect, it } from "vitest";
-import { artistSlug, byArtist, CatalogError, loadSongs, REPOSITORY } from "./catalog";
+import { artistPath, byArtist, CatalogError, checkPaths, legacyPaths, loadSongs, REPOSITORY, type Song, songPath } from "./catalog";
 
 const SOURCES = "resources/lyrics-spelling";
 const MANIFEST = "resources/proofread-preparation/manifest.json";
@@ -58,8 +58,31 @@ describe("loadSongs", () => {
     expect(songs).toHaveLength(expected);
     expect(duplicates).toBe(manifest.inputs.length - expected);
     expect(new Set(songs.map((song) => song.id)).size).toBe(songs.length);
-    const artists = byArtist(songs).map(([artist]) => artist);
-    expect(new Set(artists.map(artistSlug)).size).toBe(artists.length);
-    expect(artists.map(artistSlug).every((slug) => /^[0-9a-f]{12}$/.test(slug))).toBe(true);
+    expect(checkPaths(songs)).toBe(songs);
+    const segment = "[a-z0-9]+(-[a-z0-9]+)*";
+    expect(songs.every((song) => new RegExp(`^/songs/${segment}/${segment}/$`).test(songPath(song)))).toBe(true);
+    expect(artistPath("伍佰")).toBe("/artists/wu-bai/");
+  });
+});
+
+describe("page paths", () => {
+  const song = (id: string, title: string, artist: string): Song => ({ id, title, artist, file: "", source: "" });
+
+  it("nests songs under their artist, so shared titles do not clash", () => {
+    const list = [song("a", "日子", "滅火器"), song("b", "日子", "謝銘祐")];
+    expect(checkPaths(list).map(songPath)).toEqual(["/songs/mie-huo-qi/ri-zi/", "/songs/xie-ming-you/ri-zi/"]);
+  });
+
+  it("fails on clashing or empty paths", () => {
+    expect(() => checkPaths([song("a", "莎喲娜啦", "A"), song("b", "莎喲娜拉", "A")])).toThrow(/sha-yo-na-la.*莎喲娜啦 – A, 莎喲娜拉 – A/);
+    expect(() => checkPaths([song("a", "ㄟ", "A")])).toThrow(CatalogError);
+  });
+
+  it("maps the hashed artist and manifest ID paths to the pinyin ones", () => {
+    const hash = createHash("sha256").update("伍佰").digest("hex").slice(0, 12);
+    expect(legacyPaths([song("supplied-1", "台灣製造", "伍佰")])).toEqual([
+      [`/artists/${hash}/`, "/artists/wu-bai/"],
+      ["/songs/supplied-1/", "/songs/wu-bai/tai-wan-zhi-zao/"],
+    ]);
   });
 });

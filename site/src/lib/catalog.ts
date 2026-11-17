@@ -2,6 +2,7 @@ import { createHash } from "node:crypto";
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs";
 import { basename, join, resolve } from "node:path";
 import { compareSongs } from "./artists";
+import { slugify, titleSlug } from "./slug";
 
 // Builds and tests run from site/; Astro bundles this module, so import.meta.url is not stable.
 export const REPOSITORY = resolve(process.cwd(), "..");
@@ -51,10 +52,39 @@ const compare = (a: string, b: string) => (a < b ? -1 : a > b ? 1 : 0);
 
 let cached: Song[] | undefined;
 /** Every page uses this order: artist, then title, by romanization (see artists.ts). */
-export const songs = () => (cached ??= loadSongs().songs.sort(compareSongs));
+export const songs = () => (cached ??= checkPaths(loadSongs().songs).sort(compareSongs));
 
-/** Stable ASCII path segment; artist names contain spaces, "&" and parentheses. */
-export const artistSlug = (artist: string) => createHash("sha256").update(artist).digest("hex").slice(0, 12);
+/** Pinyin path segments (slug.ts); a title or artist correction changes them. */
+export const artistSlug = (artist: string) => slugify(artist);
+export const artistPath = (artist: string) => `/artists/${artistSlug(artist)}/`;
+export const songPath = (song: Song) => `/songs/${artistSlug(song.artist)}/${titleSlug(song.title)}/`;
+
+/** Fails rather than letting two pages share a URL, or a name romanize to nothing. */
+export function checkPaths(list: Song[]): Song[] {
+  const owners = new Map<string, Set<string>>();
+  const claim = (path: string, name: string) => owners.set(path, (owners.get(path) ?? new Set()).add(name));
+  for (const song of list) {
+    claim(artistPath(song.artist), song.artist);
+    claim(songPath(song), `${song.title} – ${song.artist}`);
+  }
+  const problems = [...owners]
+    .filter(([path, names]) => names.size > 1 || path.includes("//"))
+    .map(([path, names]) => `${path}: ${[...names].join(", ")}`);
+  if (problems.length) {
+    throw new CatalogError(`Page paths must be unique and nonempty; add a reading in site/src/lib/slug.ts.\n  ${problems.join("\n  ")}`);
+  }
+  return list;
+}
+
+/** Pre-pinyin page paths (hashed artist names, manifest song IDs) and where they moved. */
+export function legacyPaths(list: Song[]): [string, string][] {
+  const moved = new Map<string, string>();
+  for (const song of list) {
+    moved.set(`/artists/${createHash("sha256").update(song.artist).digest("hex").slice(0, 12)}/`, artistPath(song.artist));
+    moved.set(`/songs/${song.id}/`, songPath(song));
+  }
+  return [...moved];
+}
 
 export function byArtist(list: Song[]): [string, Song[]][] {
   const groups = new Map<string, Song[]>();

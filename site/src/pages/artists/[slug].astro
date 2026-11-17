@@ -1,7 +1,7 @@
 ---
 import type { GetStaticPaths } from "astro";
 import Base from "../../layouts/Base.astro";
-import { artistSlug, byArtist, songs, type Song } from "../../lib/catalog";
+import { artistPath, artistSlug, byArtist, songPath, songs, type Song } from "../../lib/catalog";
 import { classify } from "../../lib/transcription";
 import { initial } from "../../lib/artists";
 import PinButton from "../../components/PinButton.astro";
@@ -17,7 +17,7 @@ interface Props {
 const { artist, list } = Astro.props;
 // Long lists get letter dividers; songs arrive sorted by romanized title (artists.ts).
 const divided = list.length > 10;
-const path = `/artists/${artistSlug(artist)}/`;
+const path = artistPath(artist);
 const rows = list.map((song, index) => {
   const letter = initial(song.title);
   return {
@@ -45,12 +45,12 @@ const rows = list.map((song, index) => {
     {rows.map(({ song, credits, divider }) => (
       <li class:list={{ "has-divider": divider }}>
         {divider && <span class="divider" aria-hidden="true">{divider}</span>}
-        <div class="pinnable" data-path={`/songs/${song.id}/`}>
-          <a href={`/songs/${song.id}/`}>
+        <div class="pinnable" data-path={songPath(song)}>
+          <a href={songPath(song)}>
             <span class="title" lang="nan-Hant">{song.title}</span>
             {credits && <span class="credits">{credits}</span>}
           </a>
-          <PinButton path={`/songs/${song.id}/`} />
+          <PinButton path={songPath(song)} />
         </div>
       </li>
     ))}

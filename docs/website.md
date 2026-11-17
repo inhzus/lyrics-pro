@@ -13,9 +13,9 @@ first used, so the home page itself stays small. OpenCC is
 build-only and never ships to the browser. Songs use
 the same order everywhere: artist, then title, by romanization; artist pages with
 more than 10 songs show letter dividers. Its search
-box finds songs by title and artists by name or pinyin. There is a page per artist (`/artists/<hash>/`, a 12-character
-SHA-256 prefix of the name, since names contain spaces, `&` and parentheses), and
-one page per song. The transcriptions come from
+box finds songs by title and artists by name or pinyin. There is a page per artist
+(`/artists/wu-bai/`) and one per song under its artist (`/songs/wu-bai/tai-wan-zhi-zao/`),
+named by toneless pinyin (see URLs below). The transcriptions come from
 [台客鬼 Tâi Kheh Kuí](https://taikegui.wordpress.com/). It states no reuse licence,
 so the index, every song page and the shared footer link back to it
 (`src/lib/source.ts`). Each page shows the lyrics with
@@ -36,8 +36,8 @@ timestamps, so the site does not depend on timing alignment, providers or the ap
   readers. Song titles and the Tâi-lô romanization stay as transcribed.
 - Artist cards, song rows, search results and the artist/song page headers have a pin
   button (`src/components/PinButton.astro`, `src/lib/pins.ts`). Pins are stored in the
-  visitor's `localStorage` under `pins` as a list of page paths (`/artists/<hash>/`,
-  `/songs/<id>/`). Pinned artists appear in a 置頂 section at the top of the home
+  visitor's `localStorage` under `pins` as a list of page paths (`/artists/<artist>/`,
+  `/songs/<artist>/<title>/`). Pinned artists appear in a 置頂 section at the top of the home
   page; pinned songs appear in a 置頂 section at the top of their artist's page. 伍佰 and
   五月天 (`DEFAULT_PINNED_ARTISTS` in `src/lib/artists.ts`) are pinned until the
   visitor changes their pins, so they can be unpinned. Without JavaScript the home
@@ -52,6 +52,19 @@ timestamps, so the site does not depend on timing alignment, providers or the ap
   `placeholder` and `aria-label`, switches `lang` between `-Hant` and `-Hans`, keeps
   the originals so 繁 restores them exactly, and converts rows added later; the home
   page adds `/search.json`'s table for search results and pinned songs.
+- URLs: `src/lib/slug.ts` romanizes artist names and titles with `pinyin-pro` (no tones,
+  `ü` as `v`), keeps Latin letters and digits, joins everything else with `-` and drops
+  characters without a romanization (bopomofo, kana). Song titles drop bracketed English
+  names and `feat.`/`ft.`/`with` credits (心內話 (Bottom of My Heart) → `xin-nei-hua`). A
+  short reviewed `READINGS` table fixes readings it gets wrong (車 → che, 樂團 → yue tuan, …). The slugs appear only in
+  URLs. `checkPaths` in `src/lib/catalog.ts` fails the build if two artists, or two songs
+  of one artist, share a path or a name romanizes to nothing; add a reading to fix it.
+  Correcting a title or artist changes its URL.
+- Pages were first published at `/artists/<12-character SHA-256 prefix of the name>/` and
+  `/songs/<manifest id>/`. The build writes `dist/_redirects` (Cloudflare Pages, 301) from
+  each old path to its current one (`legacyRedirects` in `astro.config.mjs`), and
+  `/moved.json` holds the same map: `src/lib/pins.ts` fetches it only when stored pins still
+  use old paths, rewrites them in place once, and drops songs that no longer exist.
 - Song pages have reading controls for showing or hiding the romanization, text
   size, and auto/light/dark theme. Choices are stored in the visitor's
   `localStorage`, and without JavaScript the page shows the default view.
@@ -97,8 +110,7 @@ Connect the repository and use:
 Cloudflare clones the whole repository, so the build can read `../resources`. It
 picks up `site/.node-version` and installs from `site/package-lock.json`.
 `public/_headers` caches hashed `/_astro/*` assets immutably and fonts for 30 days.
-Song URLs use manifest IDs (`/songs/supplied-…/`), so they stay the same when a title
-is corrected.
+The generated `_redirects` keeps links to the original hashed and ID paths working.
 
 Set the production branch to `main` and enable preview deployments for other branches.
 Each push to a pull request then gets a Cloudflare Pages check and a preview URL. The

@@ -1,6 +1,6 @@
-import { globSync, readFileSync } from "node:fs";
+import { globSync, readFileSync, writeFileSync } from "node:fs";
 import { defineConfig } from "astro/config";
-import { songs } from "./src/lib/catalog.ts";
+import { legacyPaths, songs } from "./src/lib/catalog.ts";
 import { codePoints, keepUsedFaces } from "./src/lib/fontSubset.ts";
 import { simplifiedTable } from "./src/lib/hans.ts";
 
@@ -31,10 +31,24 @@ function notoSlices() {
   };
 }
 
+/** Cloudflare Pages `_redirects`: 301s from the hashed/ID page paths to the pinyin ones. */
+function legacyRedirects() {
+  return {
+    name: "legacy-redirects",
+    hooks: {
+      "astro:build:done": ({ dir }) => {
+        const lines = legacyPaths(songs()).map(([from, to]) => `${from} ${to} 301`);
+        writeFileSync(new URL("_redirects", dir), `${lines.join("\n")}\n`);
+      },
+    },
+  };
+}
+
 export default defineConfig({
   site: "https://lyrics.inhzus.io",
   output: "static",
   trailingSlash: "always",
   build: { format: "directory" },
+  integrations: [legacyRedirects()],
   vite: { plugins: [notoSlices()] },
 });
