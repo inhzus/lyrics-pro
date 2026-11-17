@@ -1,19 +1,38 @@
 ---
 import { artistSlug, type Song } from "../lib/catalog";
+import PinButton from "./PinButton.astro";
 
 interface Props {
   letters: [string, [string, Song[]][]][];
+  /** The default pins, rendered in place so the first view matches most visitors' pins. */
+  pinned: [string, Song[]][];
 }
-const { letters } = Astro.props;
+const { letters, pinned } = Astro.props;
 const href = (artist: string) => `/artists/${artistSlug(artist)}/`;
 const anchor = (letter: string) => (letter === "#" ? "other" : letter);
 ---
 <label class="search">
-  <span class="visually-hidden">搜尋歌名或歌手 Search title or artist</span>
-  <input id="filter" type="search" placeholder="搜尋歌名或歌手 · Search title or artist" autocomplete="off" />
+  <span class="visually-hidden">搜尋歌名或歌手</span>
+  <input id="filter" type="search" placeholder="搜尋歌名或歌手" autocomplete="off" />
 </label>
 
-<nav class="letters" aria-label="依字母 By initial">
+<section id="pinned" class="letter pinned" aria-labelledby="pinned-title" hidden={pinned.length === 0}>
+  <h2 id="pinned-title">置頂</h2>
+  <ul class="artists">
+    {pinned.map(([artist, list]) => (
+      <li class="pinnable" data-path={href(artist)}>
+        <a class="artist" href={href(artist)}>
+          <span class="name">{artist}</span>
+          <span class="count">{list.length} 首</span>
+          <span class="samples">{list.slice(0, 3).map((song) => song.title).join(" · ")}</span>
+        </a>
+        <PinButton path={href(artist)} />
+      </li>
+    ))}
+  </ul>
+</section>
+
+<nav class="letters" aria-label="依字母">
   {letters.map(([letter]) => <a href={`#${anchor(letter)}`}>{letter}</a>)}
 </nav>
 
@@ -23,12 +42,13 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
       <h2>{letter}</h2>
       <ul class="artists">
         {groups.map(([artist, list]) => (
-          <li>
+          <li class="pinnable" data-path={href(artist)}>
             <a class="artist" href={href(artist)}>
               <span class="name">{artist}</span>
               <span class="count">{list.length} 首</span>
               <span class="samples">{list.slice(0, 3).map((song) => song.title).join(" · ")}</span>
             </a>
+            <PinButton path={href(artist)} />
           </li>
         ))}
       </ul>
@@ -87,22 +107,33 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
     padding: 0;
     list-style: none;
   }
-  .artist {
+  /* Global inside the grid: pinned song cards are built in the browser without scope attributes. */
+  .artists :global(.artist) {
     display: grid;
     grid-template-columns: 1fr auto;
     gap: 0.15rem 0.75rem;
     height: 100%;
-    padding: 0.9rem 1rem;
+    padding: 0.9rem 3.1rem 0.9rem 1rem;
     border: 1px solid var(--rule);
     border-radius: 10px;
     background: var(--surface);
     text-decoration: none;
   }
-  .artist:hover { border-color: var(--accent); }
-  .artist:hover .name { color: var(--accent); }
-  .name { font-size: 1.15rem; font-weight: 700; letter-spacing: 0.04em; }
-  .count { align-self: baseline; font-size: 0.8rem; color: var(--faint); }
-  .samples {
+  .artists :global(.artist:hover) { border-color: var(--accent); }
+  .artists :global(.artist:hover .name) { color: var(--accent); }
+  .artists :global(.pinnable > .pin) { top: 0.85rem; right: 0.75rem; }
+  /* A pinned card keeps a thin accent edge wherever it appears. */
+  .artists :global(.pinnable:has(.pin[aria-pressed="true"]) .artist) { box-shadow: inset 0 2px 0 var(--accent); }
+  .artists :global(.name) { font-size: 1.15rem; font-weight: 700; letter-spacing: 0.04em; }
+  .artists :global(.count) { align-self: baseline; font-size: 0.8rem; color: var(--faint); }
+  .artists :global(.kind) {
+    padding: 0 0.4rem;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    font-size: 0.72rem;
+    color: var(--muted);
+  }
+  .artists :global(.samples) {
     grid-column: 1 / -1;
     overflow: hidden;
     font-size: 0.82rem;
@@ -119,9 +150,10 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
     align-items: baseline;
     justify-content: space-between;
     gap: 1rem;
-    padding: 0.7rem 0.25rem;
+    padding: 0.7rem 3rem 0.7rem 0.25rem;
     text-decoration: none;
   }
+  .hits :global(.pinnable > .pin) { top: 50%; right: 0.25rem; translate: 0 -50%; }
   .hits :global(a:hover .hit-title) { color: var(--accent); }
   .hits :global(.hit-title) { font-size: 1.1rem; }
   .hits :global(.hit-meta) { flex: none; font-size: 0.85rem; color: var(--muted); }
@@ -137,34 +169,53 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
 
 <script>
   import { type FoldTable, foldWith } from "../lib/fold";
+  import { isArtist, pinButton, pins, render } from "../lib/pins";
 
   type Hit = { href: string; title: string; meta: string; search: string };
 
   const input = document.querySelector<HTMLInputElement>("#filter")!;
+  const pinned = document.querySelector<HTMLElement>("#pinned")!;
+  const pinnedList = pinned.querySelector<HTMLElement>(".artists")!;
   const directory = document.querySelector<HTMLElement>("#directory")!;
   const letters = document.querySelector<HTMLElement>(".letters")!;
   const results = document.querySelector<HTMLElement>("#results")!;
   const summary = document.querySelector<HTMLElement>("#summary")!;
   const list = results.querySelector<HTMLElement>(".hits")!;
 
-  // Traditional → simplified for every character in the titles and names, so either script matches.
-  let index: Promise<{ table: FoldTable; rows: [HTMLElement, string][] }> | undefined;
-  const load = () =>
-    (index ??= fetch("/search.json")
+  // One request serves both search and pinned songs.
+  let data: Promise<{ table: FoldTable; hits: Hit[] }> | undefined;
+  const fetchData = () =>
+    (data ??= fetch("/search.json")
       .then((response) => {
         if (!response.ok) throw new Error(`search.json: ${response.status}`);
         return response.json() as Promise<{ table: FoldTable; hits: Hit[] }>;
       })
+      .catch((error) => {
+        data = undefined;
+        throw error;
+      }));
+
+  const element = <K extends keyof HTMLElementTagNameMap>(parent: Node, tag: K, className?: string, text?: string) => {
+    const child = parent.appendChild(document.createElement(tag));
+    if (className) child.className = className;
+    if (text !== undefined) child.textContent = text;
+    return child;
+  };
+
+  // Traditional → simplified for every character in the titles and names, so either script matches.
+  let index: Promise<{ table: FoldTable; rows: [HTMLElement, string][] }> | undefined;
+  const load = () =>
+    (index ??= fetchData()
       .then(({ table, hits }) => {
+        const current = new Set(pins());
         const rows = hits.map(({ href, title, meta, search }): [HTMLElement, string] => {
           const item = document.createElement("li");
-          const link = item.appendChild(document.createElement("a"));
+          item.className = "pinnable";
+          const link = element(item, "a");
           link.href = href;
-          for (const [className, text] of [["hit-title", title], ["hit-meta", meta]]) {
-            const span = link.appendChild(document.createElement("span"));
-            span.className = className;
-            span.textContent = text;
-          }
+          element(link, "span", "hit-title", title);
+          element(link, "span", "hit-meta", meta);
+          item.append(pinButton(href, current.has(href)));
           item.hidden = true;
           return [item, search];
         });
@@ -176,16 +227,59 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
         throw error;
       }));
 
+  // Directory cards by path, cloned into the pinned section; pinned songs get a card of their own.
+  const cards = new Map(
+    [...directory.querySelectorAll<HTMLElement>("li[data-path]")].map((item) => [item.dataset.path!, item]),
+  );
+  const songCard = ({ href, title, meta }: Hit) => {
+    const item = document.createElement("li");
+    item.className = "pinnable";
+    item.dataset.path = href;
+    const link = element(item, "a", "artist");
+    link.href = href;
+    element(link, "span", "name", title);
+    element(link, "span", "count kind", "歌曲");
+    element(link, "span", "samples", meta);
+    item.append(pinButton(href, true));
+    return item;
+  };
+
+  let generation = 0;
+  const showPinned = async () => {
+    const current = pins();
+    const mine = ++generation;
+    let songs = new Map<string, Hit>();
+    if (current.some((path) => !isArtist(path))) {
+      try {
+        songs = new Map((await fetchData()).hits.map((hit) => [hit.href, hit]));
+      } catch {}
+      if (mine !== generation) return;
+    }
+    const items = current.flatMap((path) => {
+      if (isArtist(path)) {
+        const card = cards.get(path)?.cloneNode(true) as HTMLElement | undefined;
+        return card ? [card] : [];
+      }
+      const hit = songs.get(path);
+      return hit ? [songCard(hit)] : [];
+    });
+    pinnedList.replaceChildren(...items);
+    render(pinnedList);
+    pinned.dataset.empty = String(items.length === 0);
+    pinned.hidden = items.length === 0 || Boolean(input.value.trim());
+  };
+
   const update = async () => {
     const raw = input.value.trim();
     directory.hidden = letters.hidden = Boolean(raw);
+    pinned.hidden = Boolean(raw) || pinned.dataset.empty === "true";
     results.hidden = !raw;
     if (!raw) return;
     let loaded;
     try {
       loaded = await load();
     } catch {
-      summary.textContent = "搜尋暫時無法使用 · Search unavailable";
+      summary.textContent = "搜尋暫時無法使用";
       return;
     }
     if (input.value.trim() !== raw) return;
@@ -195,9 +289,11 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
       item.hidden = !search.includes(query);
       if (!item.hidden) shown++;
     }
-    summary.textContent = shown ? `${shown} 筆結果 · ${shown} results` : "找無符合的歌曲 · No matches";
+    summary.textContent = shown ? `${shown} 筆結果` : "找無符合的歌曲";
   };
 
   input.addEventListener("focus", () => void load().catch(() => {}), { once: true });
   input.addEventListener("input", () => void update());
+  document.addEventListener("pins-change", () => void showPinned());
+  void showPinned();
 </script>

@@ -1,6 +1,9 @@
 import { pinyin } from "pinyin-pro";
 import type { Song } from "./catalog";
 
+/** Pinned on the home page until the visitor changes their own pins (lib/pins.ts). */
+export const DEFAULT_PINNED_ARTISTS = ["伍佰", "五月天"];
+
 const romanized = new Map<string, string>();
 
 /** Mandarin pinyin without tones, used only for grouping and ordering (never displayed). */

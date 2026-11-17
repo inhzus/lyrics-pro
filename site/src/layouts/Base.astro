@@ -3,6 +3,9 @@ import "@fontsource/noto-serif-tc/400.css";
 import "@fontsource/noto-serif-tc/700.css";
 import "../styles/global.css";
 import { SOURCE_NAME, SOURCE_URL } from "../lib/source";
+import { DEFAULT_PINNED_ARTISTS } from "../lib/artists";
+import { artistSlug } from "../lib/catalog";
+import PinButton from "../components/PinButton.astro";
 
 interface Props {
   title: string;
@@ -12,10 +15,11 @@ interface Props {
 }
 const { title, description, wide = false, type = "website" } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
-const SITE_NAME = "台語歌詞 · Taiwanese Lyrics";
+const SITE_NAME = "台語歌詞";
+const defaultPins = JSON.stringify(DEFAULT_PINNED_ARTISTS.map((artist) => `/artists/${artistSlug(artist)}/`));
 ---
 <!doctype html>
-<html lang="zh-Hant-TW">
+<html lang="zh-Hant-TW" data-default-pins={defaultPins}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -54,11 +58,15 @@ const SITE_NAME = "台語歌詞 · Taiwanese Lyrics";
       <footer class="site-footer">
         <slot name="footer" />
         <p>
-          歌詞與台羅拼音整理自 <a href={SOURCE_URL} rel="noopener">{SOURCE_NAME}</a>（A Place to Learn Taiwanese），依原稿呈現。
-          Lyrics and Tâi-lô romanization from <a href={SOURCE_URL} rel="noopener">taikegui.wordpress.com</a>, shown as transcribed there.
-          Typeset in Charis SIL and Noto Serif TC.
+          歌詞與台羅拼音整理自 <a href={SOURCE_URL} rel="noopener">{SOURCE_NAME}</a>，依原稿呈現。
+          字型：Charis SIL、Noto Serif TC。
         </p>
       </footer>
     </div>
+    <PinButton />
+    <script>
+      import { start } from "../lib/pins";
+      start();
+    </script>
   </body>
 </html>

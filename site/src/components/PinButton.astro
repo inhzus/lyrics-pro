@@ -1,0 +1,24 @@
+---
+/**
+ * A pin toggle for an artist or song page path. `pill` adds a text label for page headers;
+ * without a path it renders the template that scripts clone for rows built in the browser.
+ * Hidden without JavaScript, since pins live in localStorage; the state is set by lib/pins.ts.
+ */
+interface Props {
+  path?: string;
+  pill?: boolean;
+}
+const { path, pill = false } = Astro.props;
+---
+{path ? (
+  <button type="button" class:list={["pin", { "pin-pill": pill }]} data-pin={path} aria-pressed="false" aria-label={pill ? undefined : "置頂"} title="置頂">
+    <svg class="pin-icon" viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M9 3h6l-1 6 4 4v2h-5v6l-1 1-1-1v-6H6v-2l4-4z" />
+    </svg>
+    {pill && <span class="pin-label">置頂</span>}
+  </button>
+) : (
+  <template id="pin-template">
+    <button type="button" class="pin" aria-pressed="false" aria-label="置頂" title="置頂"><svg class="pin-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 3h6l-1 6 4 4v2h-5v6l-1 1-1-1v-6H6v-2l4-4z" /></svg></button>
+  </template>
+)}
