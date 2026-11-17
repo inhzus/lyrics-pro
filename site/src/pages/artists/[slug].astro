@@ -37,11 +37,15 @@ const rows = list.map((song, index) => {
     </div>
     <p class="count">{list.length} 首歌</p>
   </header>
-  <ol class="songs">
+  <section id="pinned-songs" class="pinned-songs" aria-labelledby="pinned-songs-title" hidden>
+    <h2 id="pinned-songs-title" class="divider">置頂</h2>
+    <ol class="songs"></ol>
+  </section>
+  <ol class="songs" id="all-songs">
     {rows.map(({ song, credits, divider }) => (
       <li class:list={{ "has-divider": divider }}>
         {divider && <span class="divider" aria-hidden="true">{divider}</span>}
-        <div class="pinnable">
+        <div class="pinnable" data-path={`/songs/${song.id}/`}>
           <a href={`/songs/${song.id}/`}>
             <span class="title" lang="nan-Hant">{song.title}</span>
             {credits && <span class="credits">{credits}</span>}
@@ -68,6 +72,11 @@ const rows = list.map((song, index) => {
   }
   .count { margin: 0.5rem 0 0; color: var(--faint); font-size: 0.9rem; }
   .songs { margin: 2.5rem 0 0; padding: 0; list-style: none; border-top: 1px solid var(--rule); }
+  .pinned-songs { margin-top: 2.5rem; }
+  .pinned-songs h2 { margin: 0; padding-top: 0; }
+  .pinned-songs .songs { margin-top: 0.4rem; }
+  .pinned-songs .pinnable { box-shadow: inset 2px 0 0 var(--accent); }
+  .pinned-songs .songs a { padding-left: 0.9rem; }
   .songs li { border-bottom: 1px solid var(--rule); }
   .divider {
     display: block;
@@ -83,3 +92,30 @@ const rows = list.map((song, index) => {
   .title { display: block; font-size: 1.2rem; letter-spacing: 0.03em; }
   .credits { display: block; margin-top: 0.15rem; font-size: 0.8rem; color: var(--faint); }
 </style>
+
+<script>
+  import { pins, render } from "../../lib/pins";
+
+  // Pinned songs of this artist, in pin order, above the full list (which keeps them too).
+  const section = document.querySelector<HTMLElement>("#pinned-songs")!;
+  const list = section.querySelector<HTMLElement>(".songs")!;
+  const rows = new Map(
+    [...document.querySelectorAll<HTMLElement>("#all-songs .pinnable[data-path]")].map((row) => [row.dataset.path!, row]),
+  );
+  const show = () => {
+    const items = pins().flatMap((path) => {
+      const row = rows.get(path)?.closest("li");
+      if (!row) return [];
+      // The whole <li> keeps Astro's scoped styles; its letter divider stays behind.
+      const item = row.cloneNode(true) as HTMLElement;
+      item.querySelector(".divider")?.remove();
+      item.classList.remove("has-divider");
+      return [item];
+    });
+    list.replaceChildren(...items);
+    render(list);
+    section.hidden = items.length === 0;
+  };
+  document.addEventListener("pins-change", show);
+  show();
+</script>
