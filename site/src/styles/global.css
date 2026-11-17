@@ -91,3 +91,62 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
 @media (prefers-reduced-motion: no-preference) {
   a, button { transition: color 0.15s, background-color 0.15s, border-color 0.15s; }
 }
+
+/* Pin toggles (components/PinButton.astro, lib/pins.ts). Pins live in localStorage, so no JS, no buttons. */
+.pin {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--faint);
+  font: inherit;
+  cursor: pointer;
+}
+.js .pin { display: inline-flex; }
+.pin:hover { color: var(--accent); border-color: var(--accent); }
+.pin-icon {
+  width: 0.95rem;
+  height: 0.95rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linejoin: round;
+  transform: rotate(-35deg);
+}
+.pin[aria-pressed="true"] {
+  color: var(--accent);
+  border-color: color-mix(in srgb, var(--accent) 45%, var(--rule));
+  background: color-mix(in srgb, var(--accent) 10%, var(--surface));
+}
+.pin[aria-pressed="true"] .pin-icon { fill: currentColor; transform: none; }
+.pin-pill { width: auto; padding: 0 0.85rem 0 0.7rem; font-size: 0.85rem; letter-spacing: 0.08em; }
+
+/* On cards and rows the icon floats at the right edge, shown on hover/focus or when pinned. */
+.pinnable { position: relative; }
+.pinnable > .pin {
+  position: absolute;
+  top: 0.6rem;
+  right: 0.6rem;
+  opacity: 0;
+}
+.pinnable:hover > .pin,
+.pinnable:focus-within > .pin,
+.pinnable > .pin[aria-pressed="true"] { opacity: 1; }
+@media (hover: none) {
+  .pinnable > .pin { opacity: 1; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .pin { transition: color 0.15s, background-color 0.15s, border-color 0.15s, opacity 0.15s; }
+  .pin-icon { transition: transform 0.25s cubic-bezier(0.3, 1.6, 0.5, 1); }
+  .pin.pop { animation: pin-pop 0.3s ease-out; }
+  @keyframes pin-pop {
+    40% { transform: scale(1.18); }
+  }
+}

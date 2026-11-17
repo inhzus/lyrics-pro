@@ -1,12 +1,12 @@
 ---
 ---
-<div class="controls" role="toolbar" aria-label="閱讀設定 Reading settings">
-  <button type="button" data-action="romanization" aria-pressed="true" title="顯示台羅拼音 Show Tâi-lô">拼音</button>
-  <span class="group" role="group" aria-label="字體大小 Text size">
-    <button type="button" data-action="smaller" aria-label="縮小字體 Smaller text">A−</button>
-    <button type="button" data-action="larger" aria-label="放大字體 Larger text">A+</button>
+<div class="controls" role="toolbar" aria-label="閱讀設定">
+  <button type="button" data-action="romanization" aria-pressed="true" title="顯示台羅拼音">拼音</button>
+  <span class="group" role="group" aria-label="字體大小">
+    <button type="button" data-action="smaller" aria-label="縮小字體">A−</button>
+    <button type="button" data-action="larger" aria-label="放大字體">A+</button>
   </span>
-  <button type="button" data-action="theme" aria-label="Theme">自動</button>
+  <button type="button" data-action="theme" aria-label="主題">自動</button>
 </div>
 
 <style>
@@ -47,7 +47,7 @@
   const root = document.documentElement;
   const THEMES = ["auto", "light", "dark"] as const;
   const THEME_LABELS = { auto: "自動", light: "淺色", dark: "深色" };
-  const THEME_NAMES = { auto: "Theme: automatic", light: "Theme: light", dark: "Theme: dark" };
+  const THEME_NAMES = { auto: "主題：自動", light: "主題：淺色", dark: "主題：深色" };
 
   function save(key: string, value: string | null) {
     try {
