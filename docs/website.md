@@ -37,7 +37,8 @@ timestamps, so the site does not depend on timing alignment, providers or the ap
 - Artist cards, song rows, search results and the artist/song page headers have a pin
   button (`src/components/PinButton.astro`, `src/lib/pins.ts`). Pins are stored in the
   visitor's `localStorage` under `pins` as a list of page paths (`/artists/<hash>/`,
-  `/songs/<id>/`) and appear in a 置頂 section at the top of the home page. 伍佰 and
+  `/songs/<id>/`). Pinned artists appear in a 置頂 section at the top of the home
+  page; pinned songs appear in a 置頂 section at the top of their artist's page. 伍佰 and
   五月天 (`DEFAULT_PINNED_ARTISTS` in `src/lib/artists.ts`) are pinned until the
   visitor changes their pins, so they can be unpinned. Without JavaScript the home
   page shows the default pins and no buttons.

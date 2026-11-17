@@ -126,13 +126,6 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
   .artists :global(.pinnable:has(.pin[aria-pressed="true"]) .artist) { box-shadow: inset 0 2px 0 var(--accent); }
   .artists :global(.name) { font-size: 1.15rem; font-weight: 700; letter-spacing: 0.04em; }
   .artists :global(.count) { align-self: baseline; font-size: 0.8rem; color: var(--faint); }
-  .artists :global(.kind) {
-    padding: 0 0.4rem;
-    border: 1px solid var(--rule);
-    border-radius: 4px;
-    font-size: 0.72rem;
-    color: var(--muted);
-  }
   .artists :global(.samples) {
     grid-column: 1 / -1;
     overflow: hidden;
@@ -183,7 +176,6 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
   const summary = document.querySelector<HTMLElement>("#summary")!;
   const list = results.querySelector<HTMLElement>(".hits")!;
 
-  // One request serves both search and pinned songs.
   let data: Promise<{ table: FoldTable; hits: Hit[] }> | undefined;
   const fetchData = () =>
     (data ??= fetch("/search.json")
@@ -215,12 +207,15 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
         const current = new Set(pins());
         const rows = hits.map(({ href, title, meta, search }): [HTMLElement, string] => {
           const item = document.createElement("li");
-          item.className = "pinnable";
           const link = element(item, "a");
           link.href = href;
           element(link, "span", "hit-title", title);
           element(link, "span", "hit-meta", meta);
-          item.append(pinButton(href, current.has(href)));
+          // Artists only: pinned songs show on their artist's page, so they are pinned there.
+          if (isArtist(href)) {
+            item.className = "pinnable";
+            item.append(pinButton(href, current.has(href)));
+          }
           item.hidden = true;
           return [item, search];
         });
@@ -232,41 +227,14 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
         throw error;
       }));
 
-  // Directory cards by path, cloned into the pinned section; pinned songs get a card of their own.
+  // Directory cards by path, cloned into the pinned section. Pinned songs show on their artist's page.
   const cards = new Map(
     [...directory.querySelectorAll<HTMLElement>("li[data-path]")].map((item) => [item.dataset.path!, item]),
   );
-  const songCard = ({ href, title, meta }: Hit) => {
-    const item = document.createElement("li");
-    item.className = "pinnable";
-    item.dataset.path = href;
-    const link = element(item, "a", "artist");
-    link.href = href;
-    element(link, "span", "name", title);
-    element(link, "span", "count kind", "歌曲");
-    element(link, "span", "samples", meta);
-    item.append(pinButton(href, true));
-    return item;
-  };
-
-  let generation = 0;
-  const showPinned = async () => {
-    const current = pins();
-    const mine = ++generation;
-    let songs = new Map<string, Hit>();
-    if (current.some((path) => !isArtist(path))) {
-      try {
-        songs = new Map((await fetchData()).hits.map((hit) => [hit.href, hit]));
-      } catch {}
-      if (mine !== generation) return;
-    }
-    const items = current.flatMap((path) => {
-      if (isArtist(path)) {
-        const card = cards.get(path)?.cloneNode(true) as HTMLElement | undefined;
-        return card ? [card] : [];
-      }
-      const hit = songs.get(path);
-      return hit ? [songCard(hit)] : [];
+  const showPinned = () => {
+    const items = pins().flatMap((path) => {
+      const card = cards.get(path)?.cloneNode(true) as HTMLElement | undefined;
+      return card ? [card] : [];
     });
     pinnedList.replaceChildren(...items);
     render(pinnedList);
@@ -299,6 +267,6 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
 
   input.addEventListener("focus", () => void load().catch(() => {}), { once: true });
   input.addEventListener("input", () => void update());
-  document.addEventListener("pins-change", () => void showPinned());
-  void showPinned();
+  document.addEventListener("pins-change", showPinned);
+  showPinned();
 </script>
