@@ -1,5 +1,5 @@
 ---
-import { artistSlug, type Song } from "../lib/catalog";
+import { artistPath, type Song } from "../lib/catalog";
 import PinButton from "./PinButton.astro";
 
 interface Props {
@@ -8,7 +8,6 @@ interface Props {
   pinned: [string, Song[]][];
 }
 const { letters, pinned } = Astro.props;
-const href = (artist: string) => `/artists/${artistSlug(artist)}/`;
 const anchor = (letter: string) => (letter === "#" ? "other" : letter);
 ---
 <label class="search">
@@ -20,13 +19,13 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
   <h2 id="pinned-title">置頂</h2>
   <ul class="artists">
     {pinned.map(([artist, list]) => (
-      <li class="pinnable" data-path={href(artist)}>
-        <a class="artist" href={href(artist)}>
+      <li class="pinnable" data-path={artistPath(artist)}>
+        <a class="artist" href={artistPath(artist)}>
           <span class="name">{artist}</span>
           <span class="count">{list.length} 首</span>
           <span class="samples">{list.slice(0, 3).map((song) => song.title).join(" · ")}</span>
         </a>
-        <PinButton path={href(artist)} />
+        <PinButton path={artistPath(artist)} />
       </li>
     ))}
   </ul>
@@ -42,13 +41,13 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
       <h2>{letter}</h2>
       <ul class="artists">
         {groups.map(([artist, list]) => (
-          <li class="pinnable" data-path={href(artist)}>
-            <a class="artist" href={href(artist)}>
+          <li class="pinnable" data-path={artistPath(artist)}>
+            <a class="artist" href={artistPath(artist)}>
               <span class="name">{artist}</span>
               <span class="count">{list.length} 首</span>
               <span class="samples">{list.slice(0, 3).map((song) => song.title).join(" · ")}</span>
             </a>
-            <PinButton path={href(artist)} />
+            <PinButton path={artistPath(artist)} />
           </li>
         ))}
       </ul>

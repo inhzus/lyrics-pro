@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
-import { parsePins, togglePin } from "./pins";
+import { legacyPins, migratePins, parsePins, togglePin } from "./pins";
 
-const defaults = ["/artists/aaaaaaaaaaaa/", "/artists/bbbbbbbbbbbb/"];
+const defaults = ["/artists/wu-bai/", "/artists/wu-yue-tian/"];
 
 describe("parsePins", () => {
   it("uses the defaults until something is stored", () => {
@@ -19,14 +19,30 @@ describe("parsePins", () => {
   });
 
   it("drops entries that are not page paths and repeats", () => {
-    const raw = JSON.stringify(["/songs/supplied-1/", 3, "https://x/", "/artists/a/", "/songs/supplied-1/", "/other/x/"]);
-    expect(parsePins(raw, defaults)).toEqual(["/songs/supplied-1/", "/artists/a/"]);
+    const raw = JSON.stringify(["/songs/a/b/", 3, "https://x/", "/artists/a/", "/songs/a/b/", "/other/x/", "/songs/a/"]);
+    expect(parsePins(raw, defaults)).toEqual(["/songs/a/b/", "/artists/a/"]);
+  });
+});
+
+describe("legacy pins", () => {
+  it("finds hashed artist and manifest ID paths only", () => {
+    expect(legacyPins(JSON.stringify(["/artists/wu-bai/", "/songs/a/b/"]))).toBeNull();
+    expect(legacyPins(null)).toBeNull();
+    expect(legacyPins("{")).toBeNull();
+    expect(legacyPins(JSON.stringify(["/artists/0166065abe59/"]))).toEqual(["/artists/0166065abe59/"]);
+    expect(legacyPins(JSON.stringify(["/songs/supplied-1/"]))).toEqual(["/songs/supplied-1/"]);
+  });
+
+  it("moves them in place and drops songs that no longer exist", () => {
+    const moved = { "/artists/0166065abe59/": "/artists/wu-bai/", "/songs/supplied-1/": "/songs/wu-bai/ri-zi/" };
+    const stored = ["/songs/a/b/", "/songs/supplied-1/", "/songs/supplied-gone/", "/artists/0166065abe59/"];
+    expect(migratePins(stored, moved)).toEqual(["/songs/a/b/", "/songs/wu-bai/ri-zi/", "/artists/wu-bai/"]);
   });
 });
 
 describe("togglePin", () => {
   it("appends a new pin and removes an existing one", () => {
-    expect(togglePin(defaults, "/songs/x/")).toEqual([...defaults, "/songs/x/"]);
+    expect(togglePin(defaults, "/songs/x/y/")).toEqual([...defaults, "/songs/x/y/"]);
     expect(togglePin(defaults, defaults[0])).toEqual([defaults[1]]);
   });
 });

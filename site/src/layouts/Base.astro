@@ -7,7 +7,7 @@ import sc700 from "@fontsource/noto-serif-sc/700.css?url";
 import "../styles/global.css";
 import { SOURCE_NAME, SOURCE_URL } from "../lib/source";
 import { DEFAULT_PINNED_ARTISTS } from "../lib/artists";
-import { artistSlug } from "../lib/catalog";
+import { artistPath } from "../lib/catalog";
 import PinButton from "../components/PinButton.astro";
 
 interface Props {
@@ -19,7 +19,7 @@ interface Props {
 const { title, description, wide = false, type = "website" } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const SITE_NAME = "台語歌詞";
-const defaultPins = JSON.stringify(DEFAULT_PINNED_ARTISTS.map((artist) => `/artists/${artistSlug(artist)}/`));
+const defaultPins = JSON.stringify(DEFAULT_PINNED_ARTISTS.map(artistPath));
 ---
 <!doctype html>
 <html lang="zh-Hant-TW" data-default-pins={defaultPins} data-sc-fonts={JSON.stringify([sc400, sc700])}>

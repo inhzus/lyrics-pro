@@ -1,5 +1,5 @@
 import { romanize } from "./artists";
-import { artistSlug, type Song } from "./catalog";
+import { artistPath, songPath, type Song } from "./catalog";
 import { type FoldTable, foldWith } from "./fold";
 import { toSimplified } from "./hans";
 
@@ -29,14 +29,14 @@ export function searchIndex(groups: [string, Song[]][]): { table: FoldTable; hit
   // Fold every searchable string first; the table is complete only afterwards.
   const { fold, table } = createFolder();
   const hits: SearchHit[] = groups.map(([artist, list]) => ({
-    href: `/artists/${artistSlug(artist)}/`,
+    href: artistPath(artist),
     title: artist,
     meta: `歌手 · ${list.length} 首`,
     search: fold(`${artist} ${romanize(artist)}`),
   }));
   for (const [, list] of groups) {
     for (const song of list) {
-      hits.push({ href: `/songs/${song.id}/`, title: song.title, meta: song.artist, search: fold(`${song.title} ${song.artist}`) });
+      hits.push({ href: songPath(song), title: song.title, meta: song.artist, search: fold(`${song.title} ${song.artist}`) });
     }
   }
   return { table, hits };
