@@ -15,37 +15,52 @@
 
 :root {
   color-scheme: light;
-  --paper: #f5efe4;
-  --surface: #fbf7f0;
-  --ink: #241e17;
-  --muted: #7b6f60;
-  --faint: #a89c8b;
-  --accent: #9b3b22;
-  --rule: #e1d6c4;
+  --paper: #ffffff;
+  --surface: #f6f7f9;
+  --wash: #eef0f3;
+  --float: #ffffff;
+  --card: #ffffff;
+  --ink: #18181b;
+  --muted: #52525b;
+  --faint: #71717a;
+  --accent: #1f4e8c;
+  --mark: #c0392b;
+  --rule: #e4e4e7;
+  --lift: 0 1px 2px rgb(24 24 27 / 0.05), 0 4px 14px rgb(24 24 27 / 0.06);
   --serif: "Charis SIL", "Noto Serif TC", "Times New Roman", serif;
   --scale: 1;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     color-scheme: dark;
-    --paper: #15120e;
-    --surface: #1d1914;
-    --ink: #ece3d4;
-    --muted: #a0927f;
-    --faint: #6f6455;
-    --accent: #e48b63;
-    --rule: #2f2922;
+    --paper: #121214;
+    --surface: #1b1b1f;
+    --wash: #121214;
+    --float: #1b1b1f;
+    --card: #1b1b1f;
+    --ink: #e6e6e9;
+    --muted: #a1a1aa;
+    --faint: #8b8b94;
+    --accent: #8fb2ea;
+    --mark: #f07c6c;
+    --rule: #2a2a30;
+    --lift: none;
   }
 }
 :root[data-theme="dark"] {
   color-scheme: dark;
-  --paper: #15120e;
-  --surface: #1d1914;
-  --ink: #ece3d4;
-  --muted: #a0927f;
-  --faint: #6f6455;
-  --accent: #e48b63;
-  --rule: #2f2922;
+  --paper: #121214;
+  --surface: #1b1b1f;
+  --wash: #121214;
+  --float: #1b1b1f;
+  --card: #1b1b1f;
+  --ink: #e6e6e9;
+  --muted: #a1a1aa;
+  --faint: #8b8b94;
+  --accent: #8fb2ea;
+  --mark: #f07c6c;
+  --rule: #2a2a30;
+  --lift: none;
 }
 /* 简 mode: SC has the simplified-only glyphs (爱 简 关 …); lib/script.ts loads it only then. */
 :root[data-script="hans"] { --serif: "Charis SIL", "Noto Serif SC", "Noto Serif TC", "Times New Roman", serif; }
@@ -67,7 +82,7 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
 }
-a { color: inherit; text-decoration-color: var(--rule); text-underline-offset: 0.2em; }
+a { color: inherit; text-decoration-color: color-mix(in srgb, var(--accent) 35%, transparent); text-underline-offset: 0.2em; }
 a:hover { color: var(--accent); text-decoration-color: currentColor; }
 :focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 3px; }
 ::selection { background: color-mix(in srgb, var(--accent) 22%, transparent); }
@@ -111,7 +126,7 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
   cursor: pointer;
 }
 .js .pin { display: inline-flex; }
-.pin:hover { color: var(--accent); border-color: var(--accent); }
+.pin:hover { color: var(--mark); border-color: var(--mark); }
 .pin-icon {
   width: 0.95rem;
   height: 0.95rem;
@@ -122,9 +137,9 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
   transform: rotate(-35deg);
 }
 .pin[aria-pressed="true"] {
-  color: var(--accent);
-  border-color: color-mix(in srgb, var(--accent) 45%, var(--rule));
-  background: color-mix(in srgb, var(--accent) 10%, var(--surface));
+  color: var(--mark);
+  border-color: color-mix(in srgb, var(--mark) 45%, var(--rule));
+  background: color-mix(in srgb, var(--mark) 10%, var(--surface));
 }
 .pin[aria-pressed="true"] .pin-icon { fill: currentColor; transform: none; }
 .pin-pill { width: auto; padding: 0 0.85rem 0 0.7rem; font-size: 0.85rem; letter-spacing: 0.08em; }
@@ -165,6 +180,7 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
   border: 1px solid var(--rule);
   border-radius: 999px;
   background: var(--surface);
+  box-shadow: var(--lift);
 }
 .js .script-switch { display: flex; }
 .script-switch button {
@@ -182,7 +198,7 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
 .script-switch button:hover { color: var(--ink); }
 .script-switch button[aria-pressed="true"] {
   color: var(--accent);
-  background: color-mix(in srgb, var(--accent) 12%, var(--paper));
+  background: color-mix(in srgb, var(--accent) 10%, var(--paper));
   font-weight: 700;
 }
 .converting body { visibility: hidden; }

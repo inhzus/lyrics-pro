@@ -69,13 +69,13 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
     padding: 0.85rem 1.1rem;
     border: 1px solid var(--rule);
     border-radius: 10px;
-    background: var(--surface);
+    background: var(--card);
     color: var(--ink);
     font: inherit;
     font-size: 1rem;
   }
   input::placeholder { color: var(--faint); }
-  input:focus { outline: none; border-color: var(--accent); }
+  input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 15%, transparent); }
 
   .letters { display: flex; flex-wrap: wrap; gap: 0.25rem; margin: 1.25rem 0 0; }
   .letters a {
@@ -87,7 +87,7 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
     text-decoration: none;
     letter-spacing: 0.05em;
   }
-  .letters a:hover { color: var(--accent); background: var(--surface); }
+  .letters a:hover { color: var(--accent); background: var(--wash); }
 
   .letter { margin-top: 2.5rem; scroll-margin-top: 1rem; }
   h2 {
@@ -115,14 +115,15 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
     padding: 0.9rem 3.1rem 0.9rem 1rem;
     border: 1px solid var(--rule);
     border-radius: 10px;
-    background: var(--surface);
+    background: var(--card);
     text-decoration: none;
   }
-  .artists :global(.artist:hover) { border-color: var(--accent); }
+  .artists :global(.artist:hover) { border-color: var(--accent); box-shadow: var(--lift); }
   .artists :global(.artist:hover .name) { color: var(--accent); }
   .artists :global(.pinnable > .pin) { top: 0.85rem; right: 0.75rem; }
   /* A pinned card keeps a thin accent edge wherever it appears. */
-  .artists :global(.pinnable:has(.pin[aria-pressed="true"]) .artist) { box-shadow: inset 0 2px 0 var(--accent); }
+  .artists :global(.pinnable:has(.pin[aria-pressed="true"]) .artist) { box-shadow: inset 0 2px 0 var(--mark); }
+  .artists :global(.pinnable:has(.pin[aria-pressed="true"]) .artist:hover) { box-shadow: inset 0 2px 0 var(--mark), var(--lift); }
   .artists :global(.name) { font-size: 1.15rem; font-weight: 700; letter-spacing: 0.04em; }
   .artists :global(.count) { align-self: baseline; font-size: 0.8rem; color: var(--faint); }
   .artists :global(.samples) {
