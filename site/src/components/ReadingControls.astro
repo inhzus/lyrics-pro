@@ -21,7 +21,8 @@
     gap: 0.25rem;
     border: 1px solid var(--rule);
     border-radius: 999px;
-    background: color-mix(in srgb, var(--surface) 88%, transparent);
+    background: color-mix(in srgb, var(--float) 88%, transparent);
+    box-shadow: var(--lift);
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
   }
@@ -38,8 +39,8 @@
     font-size: 0.85rem;
     cursor: pointer;
   }
-  button:hover { color: var(--ink); background: var(--paper); }
-  button[aria-pressed="true"] { color: var(--accent); }
+  button:hover { color: var(--ink); background: var(--wash); }
+  button[aria-pressed="true"] { color: var(--accent); background: color-mix(in srgb, var(--accent) 10%, var(--paper)); }
   button:disabled { opacity: 0.35; cursor: default; }
 </style>
 
