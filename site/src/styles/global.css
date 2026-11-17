@@ -168,13 +168,19 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
   }
 }
 
-/* 繁/简 switch (Base.astro, lib/script.ts): top-right of every page, JS only. */
+/* Top-right of every page, JS only: the 繁/简 switch (lib/script.ts) and theme toggle (lib/theme.ts). */
 .page { position: relative; }
-.script-switch {
+.corner {
   position: absolute;
   top: 2.5rem;
   right: 1rem;
   display: none;
+  align-items: center;
+  gap: 0.5rem;
+}
+.js .corner { display: flex; }
+.script-switch {
+  display: flex;
   padding: 0.2rem;
   gap: 0.15rem;
   border: 1px solid var(--rule);
@@ -182,7 +188,6 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
   background: var(--surface);
   box-shadow: var(--lift);
 }
-.js .script-switch { display: flex; }
 .script-switch button {
   min-width: 2rem;
   padding: 0.15rem 0.55rem;
@@ -201,4 +206,40 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
   background: color-mix(in srgb, var(--accent) 10%, var(--paper));
   font-weight: 700;
 }
+
+.theme-toggle {
+  display: grid;
+  place-items: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: 0;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  background: var(--surface);
+  box-shadow: var(--lift);
+  color: var(--muted);
+  cursor: pointer;
+}
+.theme-toggle:hover { color: var(--accent); }
+.theme-toggle svg {
+  display: none;
+  width: 1.1rem;
+  height: 1.1rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.theme-toggle .filled { fill: currentColor; stroke: none; }
+:root:not([data-theme]) .theme-toggle .icon-auto,
+:root[data-theme="light"] .theme-toggle .icon-light,
+:root[data-theme="dark"] .theme-toggle .icon-dark { display: block; }
+@media (prefers-reduced-motion: no-preference) {
+  .theme-toggle svg { animation: theme-turn 0.3s ease-out; }
+  @keyframes theme-turn {
+    from { opacity: 0; transform: rotate(-60deg) scale(0.8); }
+  }
+}
+
 .converting body { visibility: hidden; }

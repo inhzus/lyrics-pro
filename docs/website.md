@@ -65,9 +65,13 @@ timestamps, so the site does not depend on timing alignment, providers or the ap
   each old path to its current one (`legacyRedirects` in `astro.config.mjs`), and
   `/moved.json` holds the same map: `src/lib/pins.ts` fetches it only when stored pins still
   use old paths, rewrites them in place once, and drops songs that no longer exist.
-- Song pages have reading controls for showing or hiding the romanization, text
-  size, and auto/light/dark theme. Choices are stored in the visitor's
-  `localStorage`, and without JavaScript the page shows the default view.
+- A round theme button beside the 繁/简 switch cycles auto → light → dark
+  (`src/lib/theme.ts`). Auto follows the system and stores nothing; light and dark are
+  stored under `theme` and applied before first paint. CSS picks the icon from
+  `:root[data-theme]`.
+- Song pages have reading controls for showing or hiding the romanization and for
+  text size. Choices are stored in the visitor's `localStorage`, and without
+  JavaScript the page shows the default view.
 - Fonts are self-hosted: Noto Serif TC (fontsource, split by unicode-range) for
   Chinese text and Charis SIL 7.000 for Tâi-lô. Noto Serif TC lacks simplified-only
   glyphs (爱, 简, 关), so 简 mode puts Noto Serif SC first. Its stylesheets are imported

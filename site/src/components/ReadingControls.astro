@@ -6,7 +6,6 @@
     <button type="button" data-action="smaller" aria-label="縮小字體">A−</button>
     <button type="button" data-action="larger" aria-label="放大字體">A+</button>
   </span>
-  <button type="button" data-action="theme" aria-label="主題">自動</button>
 </div>
 
 <style>
@@ -46,9 +45,6 @@
 
 <script>
   const root = document.documentElement;
-  const THEMES = ["auto", "light", "dark"] as const;
-  const THEME_LABELS = { auto: "自動", light: "淺色", dark: "深色" };
-  const THEME_NAMES = { auto: "主題：自動", light: "主題：淺色", dark: "主題：深色" };
 
   function save(key: string, value: string | null) {
     try {
@@ -62,17 +58,12 @@
     const romanization = button("romanization");
     const smaller = button("smaller");
     const larger = button("larger");
-    const theme = button("theme");
 
     const render = () => {
       const size = Number(root.dataset.size ?? 2);
       romanization.setAttribute("aria-pressed", String(root.dataset.romanization !== "off"));
       smaller.disabled = size <= 0;
       larger.disabled = size >= 4;
-      const current = (root.dataset.theme ?? "auto") as (typeof THEMES)[number];
-      theme.textContent = THEME_LABELS[current];
-      theme.setAttribute("aria-label", THEME_NAMES[current]);
-      theme.title = THEME_NAMES[current];
     };
 
     romanization.addEventListener("click", () => {
@@ -91,14 +82,6 @@
     };
     smaller.addEventListener("click", () => resize(-1));
     larger.addEventListener("click", () => resize(1));
-    theme.addEventListener("click", () => {
-      const current = (root.dataset.theme ?? "auto") as (typeof THEMES)[number];
-      const next = THEMES[(THEMES.indexOf(current) + 1) % THEMES.length];
-      if (next === "auto") delete root.dataset.theme;
-      else root.dataset.theme = next;
-      save("theme", next === "auto" ? null : next);
-      render();
-    });
     render();
   }
 </script>
