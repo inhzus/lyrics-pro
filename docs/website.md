@@ -99,5 +99,11 @@ picks up `site/.node-version` and installs from `site/package-lock.json`.
 Song URLs use manifest IDs (`/songs/supplied-…/`), so they stay the same when a title
 is corrected.
 
+Set the production branch to `main` and enable preview deployments for other branches.
+Each push to a pull request then gets a Cloudflare Pages check and a preview URL. The
+integration reacts only to pushes, so connecting it does not build open pull requests
+until they receive a new commit. Build watch paths `site/*` and `resources/*` skip
+builds for changes that cannot affect the site.
+
 The site publishes copyrighted song lyrics. Whether to deploy it publicly is
 your decision; the build only produces files.
