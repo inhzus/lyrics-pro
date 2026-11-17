@@ -112,6 +112,14 @@ picks up `site/.node-version` and installs from `site/package-lock.json`.
 `public/_headers` caches hashed `/_astro/*` assets immutably and fonts for 30 days.
 The generated `_redirects` keeps links to the original hashed and ID paths working.
 
+Search engines may index the site. `public/robots.txt` allows every crawler and points to
+`/sitemap.xml`, which the build generates with the home page, every artist and every song
+(`src/lib/sitemap.ts`); it has no `lastmod`, since the build knows no per-page date.
+Cloudflare's managed robots.txt adds its content-signal block to this file. Once, after the
+first deploy, verify the domain in [Google Search Console](https://search.google.com/search-console)
+(a DNS TXT record in Cloudflare) and submit `https://lyrics.inhzus.io/sitemap.xml`;
+[Bing Webmaster Tools](https://www.bing.com/webmasters) can import the site from Search Console.
+
 Set the production branch to `main` and enable preview deployments for other branches.
 Each push to a pull request then gets a Cloudflare Pages check and a preview URL. The
 integration reacts only to pushes, so connecting it does not build open pull requests

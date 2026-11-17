@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lyrics.inhzus.io/sitemap.xml
