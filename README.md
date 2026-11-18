@@ -4,90 +4,82 @@ Sing along with Apple Music using synchronized lyrics and local Cantonese Jyutpi
 or Taiwanese Hokkien Tâi-lô pronunciation.
 
 **[Download for macOS](https://github.com/inhzus/lyrics-pro/releases/latest)** ·
-Apple Silicon (M1 or newer) · macOS 15+
+Apple Silicon (M1 or newer) · macOS 15+ ·
+**[Read lyrics online](https://lyrics.inhzus.io)** (Taiwanese songs with Tâi-lô, no app needed)
 
-![Lyrics Pro showing album artwork, synchronized lyrics, and Cantonese Jyutping pronunciation](docs/images/lyrics-pro.jpg)
+![Lyrics Pro showing a Wu Bai live recording with album artwork, synchronized lyrics, and Tâi-lô pronunciation](docs/images/lyrics-pro.jpg)
 
 ## Features
 
-- Lyrics that highlight and scroll with the music, alongside album artwork.
-- Album covers from Music, with an Apple catalog fallback when Music exposes no artwork.
-- Local pronunciation with no AI service, account, or API key.
+- Lyrics that highlight and scroll with the music, colored by the album cover.
+- Album artwork from Music, or the Apple catalog when Music has none.
+- Local, dictionary-based pronunciation: no AI service, account, or API key.
 - Play/pause, previous/next, timeline seeking, and click-to-seek lyric lines.
-- Alternative recording selection and offline access to previously cached lyrics.
-- 66 bundled proofread resources with supplied spelling for matching recordings.
+- Alternative recordings, offline cached lyrics, and 66 bundled proofread songs.
 
 ## Install
 
-1. Download the ZIP from [GitHub Releases](https://github.com/inhzus/lyrics-pro/releases/latest).
-2. Unzip it and drag **Lyrics Pro.app** into **Applications**.
-3. Open Lyrics Pro, play a song in Apple Music, and allow Music Automation access.
+1. Download the ZIP from [Releases](https://github.com/inhzus/lyrics-pro/releases/latest),
+   unzip it, and drag **Lyrics Pro.app** into **Applications**. No Python,
+   Homebrew, or developer tools are needed.
+2. Open Lyrics Pro, play a song in Apple Music, and allow Music Automation access.
 
-Python, Homebrew, and developer tools are **not needed** for the download.
-
-The app is not notarized. If macOS blocks a trusted copy, attempt to open it,
-then use **System Settings → Privacy & Security → Open Anyway**, if offered.
-If Music permission was denied, enable it under **Privacy & Security → Automation**
-and choose **Lyrics Pro → Reconnect to Music**.
-See [installation details](packaging/Install.txt) for more help.
+The app is not notarized. If macOS blocks it, try opening it, then choose
+**System Settings → Privacy & Security → Open Anyway**. If Music access was denied,
+enable it under **Privacy & Security → Automation** and choose
+**Lyrics Pro → Reconnect to Music**. See [installation details](packaging/Install.txt).
 
 ## Use
 
-- **Pronunciation:** the bottom-right menu saves a language for **This Song** or
-  changes the **Global Default**. **Use Default** uses proofread spelling when
-  available, otherwise the global language (initially Cantonese). Choose Original
-  for a song to hide spelling. Song preferences carry across albums.
-- **Wrong recording:** open **Recording** beside the pronunciation menu and choose
-  a lyrics source. **Proofread** is a separate offline option when the title and
-  duration match; Automatic prefers it. Choosing an online recording uses that
-  provider's lyrics. Your choice is remembered for that song.
-- **Follow the music:** click a timed lyric to seek. Scrolling lets you browse;
-  **Resume following** returns to the current line.
-- **Settings (⌘,):** show Chinese lyrics as provided, Simplified, or Traditional;
-  change the text size (also **View → Bigger/Smaller**, ⌘= / ⌘−); shift lyric timing
-  for lyrics that drift; keep the window on top; and clear cached or saved data.
-- **Missing lyrics:** try the circular retry button. For connection problems,
-  reconnect to Music; diagnostics are under **Help → Open Logs Folder**.
+- **Pronunciation** (bottom right): set a language for **This Song** or the
+  **Global Default** (initially Cantonese). **Use Default** prefers proofread
+  spelling when available; **Original** hides spelling for a song. Song choices
+  carry across albums.
+- **Source** (beside it): pick a different recording if lyrics don't match.
+  **Proofread** lyrics (offline, with supplied spelling, marked in the footer) are
+  preferred by **Automatic** when the title and duration match; an online recording
+  uses that provider's lyrics. Your choice is remembered for the song.
+- **Follow the music:** click a timed line to seek; scroll to browse, then
+  **Resume following**.
+- **Settings (⌘,):** Chinese as provided, Simplified, or Traditional; text size
+  (also **View → Bigger/Smaller**, ⌘= / ⌘−); timing offset for drifting lyrics; keep
+  on top; and clearing cached or saved data.
+- **Missing lyrics:** use the retry button at the top right, or reconnect to Music.
+  Logs are under **Help → Open Logs Folder**.
 
-Lyrics come from NetEase Cloud Music, with LrcAPI and LRCLIB fallbacks. Coverage
-and timing vary by recording. An internet connection is needed for uncached lyrics.
-Generated pronunciation is dictionary-based guidance; Hokkien uses southern Taiwanese Tâi-lô.
-Selected recordings include offline, manually proofread lyrics and supplied
-spelling, marked **Proofread** in the footer.
-The app sends song metadata to lyric providers, not audio.
+Lyrics come from NetEase Cloud Music, with LrcAPI and LRCLIB fallbacks; coverage and
+timing vary by recording, and uncached lyrics need an internet connection. Only song
+metadata is sent, never audio. Hokkien uses southern Taiwanese Tâi-lô.
 
 ## Build from source
 
 On an Apple Silicon Mac with macOS 15+, install Apple's Command Line Tools
-(Swift 6 or newer), [uv](https://docs.astral.sh/uv/), and fish. From a checkout:
+(Swift 6 or newer), [uv](https://docs.astral.sh/uv/), and fish, then:
 
 ```fish
-fish scripts/build-macos.fish
+fish scripts/build-macos.fish   # portable app and ZIP in dist/
 open "dist/Lyrics Pro.app"
 ```
 
-The build creates a portable app and ZIP in `dist/`.
 Development, testing, and packaging guidance is in [AGENTS.md](AGENTS.md).
 
 ## Terminal client
 
-With macOS, Apple Music, and `uv`, run from a checkout:
+From a checkout, with Apple Music and `uv`:
 
 ```fish
 uv sync --locked
-uv run lyrics-pro --language cantonese
+uv run lyrics-pro --language cantonese   # or hokkien; default cantonese
 ```
 
-Use `--language hokkien` for Taiwanese Hokkien, or omit the flag for Cantonese.
-The terminal does not use the macOS app's saved song preferences.
-The terminal client follows playback and prints lyrics; control playback in Music.
-Press Ctrl-C to exit.
+It follows playback and prints lyrics (control playback in Music; Ctrl-C exits) and
+does not use the app's saved song preferences.
 
 ## License and acknowledgements
 
-[MIT License](LICENSE) · Copyright 2026 inhzus.
-Pronunciation uses [ToJyutping](https://github.com/CanCLID/ToJyutping) and
-[Taibun](https://github.com/andreihar/taibun). Third-party license notices are
-included in the app.
-Bundled transcriptions retain their [supplied credits](packaging/Proofread-content.txt);
-song text and transcription are not covered by the application's MIT license.
+[MIT License](LICENSE) · Copyright 2026 inhzus. Pronunciation uses
+[ToJyutping](https://github.com/CanCLID/ToJyutping) and
+[Taibun](https://github.com/andreihar/taibun); third-party notices are included in
+the app. Transcriptions keep their [supplied credits](packaging/Proofread-content.txt)
+and the website links each page to its source; song text and transcription are not
+covered by the MIT license.
