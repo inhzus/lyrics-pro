@@ -1,13 +1,16 @@
 ---
 import type { GetStaticPaths } from "astro";
-import Base from "../../layouts/Base.astro";
-import { artistPath, artistSlug, byArtist, songPath, songs, type Song } from "../../lib/catalog";
-import { classify } from "../../lib/transcription";
-import { initial } from "../../lib/artists";
-import PinButton from "../../components/PinButton.astro";
+import Base from "../../../layouts/Base.astro";
+import { artistPath, artistSlug, byArtist, songPath, songs, type Song } from "../../../lib/catalog";
+import { classify } from "../../../lib/transcription";
+import { initial } from "../../../lib/artists";
+import PinButton from "../../../components/PinButton.astro";
+import { inBothScripts } from "../../../lib/variant";
 
 export const getStaticPaths = (() =>
-  byArtist(songs()).map(([artist, list]) => ({ params: { slug: artistSlug(artist) }, props: { artist, list } }))
+  inBothScripts(
+    byArtist(songs()).map(([artist, list]) => ({ params: { slug: artistSlug(artist) }, props: { artist, list } })),
+  )
 ) satisfies GetStaticPaths;
 
 interface Props {
@@ -94,7 +97,7 @@ const rows = list.map((song, index) => {
 </style>
 
 <script>
-  import { pins, render } from "../../lib/pins";
+  import { pins, render } from "../../../lib/pins";
 
   // Pinned songs of this artist, in pin order, above the full list (which keeps them too).
   const section = document.querySelector<HTMLElement>("#pinned-songs")!;

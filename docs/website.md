@@ -42,16 +42,26 @@ timestamps, so the site does not depend on timing alignment, providers or the ap
   五月天 (`DEFAULT_PINNED_ARTISTS` in `src/lib/artists.ts`) are pinned until the
   visitor changes their pins, so they can be unpinned. Without JavaScript the home
   page shows the default pins and no buttons.
-- A 繁/简 switch at the top right of every page shows the site in traditional (the
-  default) or simplified characters. The choice is stored in `localStorage` under
-  `script`; a simplified page stays hidden until it is converted, so traditional text
-  never flashes. `src/middleware.ts` runs while pages are prerendered and adds a
-  `#hans` table with the simplified form of each character on the page and in the
-  page scripts' interface text (OpenCC `tw`→`cn`, per character, from `src/lib/hans.ts`,
-  the same conversion search uses). `src/lib/script.ts` converts text, `title`,
-  `placeholder` and `aria-label`, switches `lang` between `-Hant` and `-Hans`, keeps
-  the originals so 繁 restores them exactly, and converts rows added later; the home
-  page adds `/search.json`'s table for search results and pinned songs.
+- Every page exists in traditional characters at its own path and in simplified
+  characters under `/hans/` (`/hans/songs/wu-bai/tai-wan-zhi-zao/`), so search engines index
+  both scripts. The page routes live under `src/pages/[...script]/` and list each path twice
+  (`inBothScripts` in `src/lib/variant.ts`). `src/middleware.ts` converts the `/hans/` pages
+  while they are prerendered (`src/lib/hansHtml.ts`): text, `title`, `placeholder`,
+  `aria-label` and meta `content`, `lang` from `-Hant` to `-Hans`, and links to other pages
+  moved under `/hans/`; scripts, styles, `code`, templates and `[data-no-convert]` stay as
+  written. It uses OpenCC `tw`→`cn` per character (`simplifiedTable` in `src/lib/hans.ts`, the
+  same conversion search uses), leaving out characters that are already simplified (么), so
+  converting twice changes nothing.
+- A 繁/简 switch at the top right of every page links to the other version of the same
+  page, and works without JavaScript. A click stores the choice in `localStorage` under
+  `script`; only the bare home page `/` follows it, by replacing itself with `/hans/` before
+  first paint. No other page redirects, and nothing guesses from the browser language,
+  since a crawler that is redirected never sees the other version. Each `/hans/` page also
+  gets a `#hans` table with the simplified form of each character on the page and in the
+  page scripts' interface text; `src/lib/script.ts` uses it to convert rows that scripts
+  add later (search results, pin labels), and the home page adds `/search.json`'s table.
+  Stored paths (pins, `/search.json` rows) stay traditional; links built in the browser
+  get the prefix from `pagePath`.
 - URLs: `src/lib/slug.ts` romanizes artist names and titles with `pinyin-pro` (no tones,
   `ü` as `v`), keeps Latin letters and digits, joins everything else with `-` and drops
   characters without a romanization (bopomofo, kana). Song titles drop bracketed English
@@ -74,9 +84,9 @@ timestamps, so the site does not depend on timing alignment, providers or the ap
   JavaScript the page shows the default view.
 - Fonts are self-hosted: Noto Serif TC (fontsource, split by unicode-range) for
   Chinese text and Charis SIL 7.000 for Tâi-lô. Noto Serif TC lacks simplified-only
-  glyphs (爱, 简, 关), so 简 mode puts Noto Serif SC first. Its stylesheets are imported
-  with `?url` and linked only in 简 mode (the pre-paint script and `lib/script.ts`), so
-  traditional readers never download them. The fontsource Charis subsets omit
+  glyphs (爱, 简, 关), so `/hans/` pages put Noto Serif SC first. Its stylesheets are
+  imported with `?url` and linked only on `/hans/` pages (`Base.astro`), so traditional
+  readers never download them. The fontsource Charis subsets omit
   U+030D, U+0358 and U+030B, so SIL's official woff2 files are vendored in
   `public/fonts/` with their OFL licence. A Vite plugin in `astro.config.mjs` narrows
   each Noto `unicode-range` to the characters in the catalog and templates (plus their
@@ -117,8 +127,12 @@ picks up `site/.node-version` and installs from `site/package-lock.json`.
 The generated `_redirects` keeps links to the original hashed and ID paths working.
 
 Search engines may index the site. `public/robots.txt` allows every crawler and points to
-`/sitemap.xml`, which the build generates with the home page, every artist and every song
-(`src/lib/sitemap.ts`); it has no `lastmod`, since the build knows no per-page date.
+`/sitemap.xml`, which the build generates with the home page, every artist and every song,
+each followed by its `/hans/` version (`src/lib/sitemap.ts`); it has no `lastmod`, since the
+build knows no per-page date. Every page has a self-referencing canonical and lists both
+versions as `hreflang` alternates (`zh-Hant`, `zh-Hans`, and `x-default` for traditional),
+in its head and in the sitemap. One `zh-Hans` version serves simplified readers everywhere,
+including Singapore and Malaysia; region codes would only matter for different pages.
 Cloudflare's managed robots.txt adds its content-signal block to this file. Once, after the
 first deploy, verify the domain in [Google Search Console](https://search.google.com/search-console)
 (a DNS TXT record in Cloudflare) and submit `https://lyrics.inhzus.io/sitemap.xml`;

@@ -168,17 +168,18 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
   }
 }
 
-/* Top-right of every page, JS only: the 繁/简 switch (lib/script.ts) and theme toggle (lib/theme.ts). */
+/* Top-right of every page: the 繁/简 links (lib/variant.ts) and, with JS, the theme toggle (lib/theme.ts). */
 .page { position: relative; }
 .corner {
   position: absolute;
   top: 2.5rem;
   right: 1rem;
-  display: none;
+  display: flex;
   align-items: center;
   gap: 0.5rem;
 }
-.js .corner { display: flex; }
+.corner .theme-toggle { display: none; }
+.js .corner .theme-toggle { display: grid; }
 .script-switch {
   display: flex;
   padding: 0.2rem;
@@ -188,7 +189,7 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
   background: var(--surface);
   box-shadow: var(--lift);
 }
-.script-switch button {
+.script-switch a {
   min-width: 2rem;
   padding: 0.15rem 0.55rem;
   border: 0;
@@ -198,10 +199,11 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
   font: inherit;
   font-size: 0.85rem;
   line-height: 1.6;
-  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
 }
-.script-switch button:hover { color: var(--ink); }
-.script-switch button[aria-pressed="true"] {
+.script-switch a:hover { color: var(--ink); }
+.script-switch a[aria-current="page"] {
   color: var(--accent);
   background: color-mix(in srgb, var(--accent) 10%, var(--paper));
   font-weight: 700;
@@ -241,5 +243,3 @@ a:hover { color: var(--accent); text-decoration-color: currentColor; }
     from { opacity: 0; transform: rotate(-60deg) scale(0.8); }
   }
 }
-
-.converting body { visibility: hidden; }

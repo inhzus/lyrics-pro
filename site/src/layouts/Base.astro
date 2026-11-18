@@ -1,7 +1,7 @@
 ---
 import "@fontsource/noto-serif-tc/400.css";
 import "@fontsource/noto-serif-tc/700.css";
-// Noto Serif SC is linked only in 简 mode (pre-paint script below, lib/script.ts), so 繁 readers never load it.
+// Noto Serif SC is linked only on the simplified pages (/hans/), so 繁 readers never load it.
 import sc400 from "@fontsource/noto-serif-sc/400.css?url";
 import sc700 from "@fontsource/noto-serif-sc/700.css?url";
 import "../styles/global.css";
@@ -9,6 +9,7 @@ import { SOURCE_NAME, SOURCE_URL } from "../lib/source";
 import { DEFAULT_PINNED_ARTISTS } from "../lib/artists";
 import { artistPath } from "../lib/catalog";
 import PinButton from "../components/PinButton.astro";
+import { alternates, isHansPath } from "../lib/variant";
 
 interface Props {
   title: string;
@@ -18,17 +19,28 @@ interface Props {
 }
 const { title, description, wide = false, type = "website" } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
+// The simplified copy of each page lives under /hans/ (src/middleware.ts converts it).
+const hans = isHansPath(Astro.url.pathname);
+const scripts = alternates(Astro.url.pathname);
+const absolute = (path: string) => new URL(path, Astro.site).href;
 const SITE_NAME = "台語歌詞";
 const defaultPins = JSON.stringify(DEFAULT_PINNED_ARTISTS.map(artistPath));
 ---
 <!doctype html>
-<html lang="zh-Hant-TW" data-default-pins={defaultPins} data-sc-fonts={JSON.stringify([sc400, sc700])}>
+<html lang={hans ? "zh-Hans" : "zh-Hant-TW"} data-script={hans ? "hans" : undefined} data-default-pins={defaultPins}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     {description && <meta name="description" content={description} />}
     <link rel="canonical" href={canonical} />
+    {scripts.page && (
+      <>
+        <link rel="alternate" hreflang="zh-Hant" href={absolute(scripts.hant)} />
+        <link rel="alternate" hreflang="zh-Hans" href={absolute(scripts.hans)} />
+        <link rel="alternate" hreflang="x-default" href={absolute(scripts.hant)} />
+      </>
+    )}
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta property="og:type" content={type} />
     <meta property="og:site_name" content={SITE_NAME} />
@@ -40,6 +52,12 @@ const defaultPins = JSON.stringify(DEFAULT_PINNED_ARTISTS.map(artistPath));
     <link rel="preload" href="/fonts/Charis-Regular.woff2" as="font" type="font/woff2" crossorigin />
     <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
     <meta name="theme-color" content="#121214" media="(prefers-color-scheme: dark)" />
+    {hans && (
+      <>
+        <link rel="stylesheet" href={sc400} />
+        <link rel="stylesheet" href={sc700} />
+      </>
+    )}
     <!-- Apply saved reading settings before first paint. -->
     <script is:inline>
       (() => {
@@ -51,17 +69,8 @@ const defaultPins = JSON.stringify(DEFAULT_PINNED_ARTISTS.map(artistPath));
           const size = localStorage.getItem("size");
           if (size && /^[0-4]$/.test(size)) root.dataset.size = size;
           if (localStorage.getItem("romanization") === "off") root.dataset.romanization = "off";
-          // Simplified pages stay hidden until lib/script.ts converts them (with a safety timeout).
-          if (localStorage.getItem("script") === "hans") {
-            root.dataset.script = "hans";
-            root.classList.add("converting");
-            for (const href of JSON.parse(root.dataset.scFonts)) {
-              const link = document.head.appendChild(document.createElement("link"));
-              link.rel = "stylesheet";
-              link.href = href;
-            }
-            setTimeout(() => root.classList.remove("converting"), 1500);
-          }
+          // Only the bare home page follows a saved 简 choice; every other page stays at its own URL.
+          if (location.pathname === "/" && localStorage.getItem("script") === "hans") location.replace("/hans/");
         } catch {}
       })();
     </script>
@@ -70,8 +79,8 @@ const defaultPins = JSON.stringify(DEFAULT_PINNED_ARTISTS.map(artistPath));
     <div class:list={["page", { wide }]}>
       <div class="corner">
         <div class="script-switch" role="group" aria-label="繁體／简体" data-no-convert>
-          <button type="button" data-script="hant" aria-pressed="true">繁</button>
-          <button type="button" data-script="hans" aria-pressed="false">简</button>
+          <a href={scripts.hant} hreflang="zh-Hant" lang="zh-Hant" data-script="hant" aria-current={hans ? undefined : "page"}>繁</a>
+          <a href={scripts.hans} hreflang="zh-Hans" lang="zh-Hans" data-script="hans" aria-current={hans ? "page" : undefined}>简</a>
         </div>
         <button type="button" class="theme-toggle" data-theme-toggle aria-label="主題：自動" title="主題：自動">
           <svg class="icon-auto" viewBox="0 0 24 24" aria-hidden="true">

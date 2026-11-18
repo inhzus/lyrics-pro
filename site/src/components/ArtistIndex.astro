@@ -164,6 +164,7 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
   import { type FoldTable, foldWith } from "../lib/fold";
   import { isArtist, pinButton, pins, render } from "../lib/pins";
   import { extend } from "../lib/script";
+  import { pagePath } from "../lib/variant";
 
   type Hit = { href: string; title: string; meta: string; search: string };
 
@@ -208,7 +209,7 @@ const anchor = (letter: string) => (letter === "#" ? "other" : letter);
         const rows = hits.map(({ href, title, meta, search }): [HTMLElement, string] => {
           const item = document.createElement("li");
           const link = element(item, "a");
-          link.href = href;
+          link.href = pagePath(href);
           element(link, "span", "hit-title", title);
           element(link, "span", "hit-meta", meta);
           // Artists only: pinned songs show on their artist's page, so they are pinned there.

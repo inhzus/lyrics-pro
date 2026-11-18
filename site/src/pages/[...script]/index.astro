@@ -1,9 +1,13 @@
 ---
-import Base from "../layouts/Base.astro";
-import ArtistIndex from "../components/ArtistIndex.astro";
-import { byInitial, DEFAULT_PINNED_ARTISTS } from "../lib/artists";
-import { byArtist, songs } from "../lib/catalog";
-import { SOURCE_NAME, SOURCE_URL } from "../lib/source";
+import type { GetStaticPaths } from "astro";
+import Base from "../../layouts/Base.astro";
+import ArtistIndex from "../../components/ArtistIndex.astro";
+import { byInitial, DEFAULT_PINNED_ARTISTS } from "../../lib/artists";
+import { byArtist, songs } from "../../lib/catalog";
+import { SOURCE_NAME, SOURCE_URL } from "../../lib/source";
+import { inBothScripts } from "../../lib/variant";
+
+export const getStaticPaths = (() => inBothScripts([{ params: {} }])) satisfies GetStaticPaths;
 
 const list = songs();
 const groups = byArtist(list);
@@ -16,7 +20,7 @@ const pinned = DEFAULT_PINNED_ARTISTS.flatMap((artist) => groups.filter(([name])
 >
   <header class="hero">
     <p class="eyebrow">Tâi-gí kua-sû · Tâi-lô</p>
-    <h1>台語歌詞<span class="seal" aria-hidden="true">詞</span></h1>
+    <h1>台語歌詞<span class="seal" aria-hidden="true" data-no-convert>詞</span></h1>
     <p class="lede">歌詞與台羅拼音</p>
     <p class="stats">{list.length} 首歌 · {groups.length} 位歌手</p>
     <p class="credit">
@@ -35,7 +39,7 @@ const pinned = DEFAULT_PINNED_ARTISTS.flatMap((artist) => groups.filter(([name])
     letter-spacing: 0.08em;
     line-height: 1.15;
   }
-  /* Cinnabar seal (朱印), the same mark and colours as public/favicon.svg in both themes. */
+  /* Cinnabar seal (朱印), the same mark and colours as public/favicon.svg in both themes; it stays 詞 on /hans/. */
   .seal {
     display: inline-grid;
     place-items: center;
