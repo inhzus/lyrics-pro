@@ -11,6 +11,12 @@ describe("simplifiedTable", () => {
   it("folds Taiwan variants to the mainland form", () => {
     expect(simplifiedTable("臺")).toEqual({ 臺: "台" });
   });
+
+  it("leaves characters that are already simplified, so converting twice changes nothing", () => {
+    const table = simplifiedTable("為什麼 么");
+    expect(table).toEqual({ 為: "为", 麼: "么" });
+    expect(convert(table, convert(table, "為什麼"))).toBe("为什么");
+  });
 });
 
 describe("convert", () => {
