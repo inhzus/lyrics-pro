@@ -98,12 +98,14 @@ const defaultPins = JSON.stringify(DEFAULT_PINNED_ARTISTS.map(artistPath));
     </div>
     <PinButton />
     <script>
+      import { start as startBack } from "../lib/back";
       import { start as startPins } from "../lib/pins";
       import { start as startScript } from "../lib/script";
       import { start as startTheme } from "../lib/theme";
       startScript();
       startTheme();
       startPins();
+      startBack();
     </script>
   </body>
 </html>
