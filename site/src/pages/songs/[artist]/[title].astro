@@ -30,9 +30,11 @@ const artistHref = artistPath(song.artist);
   description={`${song.title} – ${song.artist} 台語歌詞與台羅拼音`}
   type="article"
 >
-  <nav class="crumbs"><a href="/">← 全部歌手</a></nav>
+  <nav class="crumbs" aria-label="導覽">
+    <a href="/" data-back>全部歌手</a><span class="sep" aria-hidden="true">/</span><a href={artistHref} data-back>{song.artist}</a>
+  </nav>
   <header class="song-head">
-    <p class="eyebrow"><a href={artistHref}>{song.artist}</a></p>
+    <p class="eyebrow"><a href={artistHref} data-back>{song.artist}</a></p>
     <div class="title-row">
       <h1 lang="nan-Hant">{song.title}</h1>
       <PinButton path={songPath(song)} pill />
@@ -45,7 +47,7 @@ const artistHref = artistPath(song.artist);
   <Lyrics items={items} />
   {siblings.length > 0 && (
     <section class="more">
-      <h2><a href={artistHref}>{song.artist}</a> 的其他歌曲</h2>
+      <h2><a href={artistHref} data-back>{song.artist}</a> 的其他歌曲</h2>
       <ul>
         {siblings.map((other) => <li><a href={songPath(other)}>{other.title}</a></li>)}
       </ul>
@@ -61,6 +63,7 @@ const artistHref = artistPath(song.artist);
   .crumbs { font-size: 0.9rem; color: var(--faint); }
   .crumbs a { color: var(--muted); text-decoration: none; }
   .crumbs a:hover { color: var(--accent); }
+  .crumbs .sep { margin: 0 0.5em; }
   .song-head { margin-top: 2.5rem; }
   .title-row { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 1rem; margin-top: 0.35rem; }
   h1 {
