@@ -59,7 +59,10 @@ not application rebuilds or new tests.
 GitHub Actions (`.github/workflows/ci.yml`) runs ruff, pytest, the proofread
 catalog checks, and the Swift tests on every push to main and pull request. A
 parallel job builds the app and verifies the portable ZIP, keeping it as a workflow
-artifact (7 days; 90 for tags). Publishing a release stays manual.
+artifact for 7 days. Pushing a `v*` tag runs `.github/workflows/release.yml`, which
+repeats the checks, builds and verifies the ZIP, and publishes it with
+`SHA256SUMS.txt` and generated notes, then updates the `inhzus/homebrew-tap` cask
+from `packaging/homebrew/lyrics-pro.rb` (skipped without the `TAP_DEPLOY_KEY` secret).
 
 - The root project supports Python 3.11+ and uses `.python-version` / `uv.lock`.
   Packaging has its own pinned Python 3.12.16 environment and lock under
@@ -265,5 +268,7 @@ nonfatal. Cache I/O stays on workers; native logging uses its serial queue.
 - For releases, align the app version in `macos/Support/Info.plist`, the root
   `pyproject.toml` (then refresh both locks), source tag, ZIP name, and release
   notes. The build fails if Info.plist and the Python package disagree; provider
-  requests report this version in their User-Agent. Publish the ZIP and SHA-256 checksum as release assets,
-  not Git-tracked binaries. Documentation-only updates do not require a new release.
+  requests report this version in their User-Agent; the release workflow fails if the
+  tag disagrees with Info.plist. Merge the version bump, then push an annotated tag on
+  main; edit the generated notes afterwards with `gh release edit` if needed. Release
+  assets are never Git-tracked. Documentation-only updates do not require a new release.

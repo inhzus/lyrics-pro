@@ -1,0 +1,85 @@
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: macos-26
+    env:
+      VERSION: ${{ github.ref_name }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0 # generated notes compare against the previous tag
+      - uses: astral-sh/setup-uv@v10.3.3
+        with:
+          version: "0.13.7"
+      - run: brew install fish
+
+      - name: Check version
+        run: |
+          VERSION="${VERSION#v}"
+          APP_VERSION="$(/usr/libexec/PlistBuddy -c 'Print :CFBundleShortVersionString' macos/Support/Info.plist)"
+          if [[ "$VERSION" != "$APP_VERSION" ]]; then
+            echo "::error::Tag $GITHUB_REF_NAME does not match Info.plist version $APP_VERSION."
+            exit 1
+          fi
+          echo "VERSION=$VERSION" >> "$GITHUB_ENV"
+          echo "ZIP=Lyrics-Pro-$VERSION-macOS-arm64.zip" >> "$GITHUB_ENV"
+
+      - name: Python checks
+        run: |
+          uv sync --locked
+          uv run ruff check .
+          uv run pytest
+      - name: Proofread catalog reproducibility
+        run: |
+          uv run --locked python -m scripts.prepare_wubai --check
+          uv run --locked python -m scripts.verify_proofread_collection > /dev/null
+      - name: Native tests
+        run: fish scripts/test-macos.fish
+
+      - name: Build
+        run: fish scripts/build-macos.fish
+      - name: Verify portable ZIP
+        run: packaging/.venv/bin/python packaging/verify_portable.py "dist/$ZIP"
+      - name: Checksum
+        working-directory: dist
+        run: shasum -a 256 "$ZIP" | tee SHA256SUMS.txt
+
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" "dist/$ZIP" dist/SHA256SUMS.txt \
+            --verify-tag --title "Lyrics Pro $VERSION" --generate-notes
+
+      - name: Update Homebrew tap
+        env:
+          TAP_DEPLOY_KEY: ${{ secrets.TAP_DEPLOY_KEY }}
+        run: |
+          if [[ -z "$TAP_DEPLOY_KEY" ]]; then
+            echo "::notice::TAP_DEPLOY_KEY not set; skipping the Homebrew tap update."
+            exit 0
+          fi
+          SHA="$(shasum -a 256 "dist/$ZIP" | cut -d' ' -f1)"
+          # A deploy key with write access to the tap repo only.
+          install -m 600 /dev/null "$RUNNER_TEMP/tap_key"
+          echo "$TAP_DEPLOY_KEY" > "$RUNNER_TEMP/tap_key"
+          export GIT_SSH_COMMAND="ssh -i $RUNNER_TEMP/tap_key -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new"
+          git clone git@github.com:inhzus/homebrew-tap.git "$RUNNER_TEMP/tap"
+          mkdir -p "$RUNNER_TEMP/tap/Casks"
+          sed -e "s/^  version \".*\"/  version \"$VERSION\"/" \
+              -e "s/^  sha256 \".*\"/  sha256 \"$SHA\"/" \
+              packaging/homebrew/lyrics-pro.rb > "$RUNNER_TEMP/tap/Casks/lyrics-pro.rb"
+          cd "$RUNNER_TEMP/tap"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Casks/lyrics-pro.rb
+          git commit -m "lyrics-pro $VERSION"
+          git push

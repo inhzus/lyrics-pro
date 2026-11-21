@@ -21,7 +21,8 @@ Apple Silicon (M1 or newer) · macOS 15+ ·
 
 1. Download the ZIP from [Releases](https://github.com/inhzus/lyrics-pro/releases/latest),
    unzip it, and drag **Lyrics Pro.app** into **Applications**. No Python,
-   Homebrew, or developer tools are needed.
+   Homebrew, or developer tools are needed. With Homebrew, you can instead run
+   `brew install --cask inhzus/tap/lyrics-pro`.
 2. Open Lyrics Pro, play a song in Apple Music, and allow Music Automation access.
 
 The app is not notarized. If macOS blocks it, try opening it, then choose
