@@ -19,33 +19,45 @@ Apple Silicon (M1 or newer) · macOS 15+ ·
 
 ## Install
 
-1. Download the ZIP from [Releases](https://github.com/inhzus/lyrics-pro/releases/latest),
-   unzip it, and drag **Lyrics Pro.app** into **Applications**. No Python,
-   Homebrew, or developer tools are needed. With Homebrew, you can instead run
-   `brew install --cask inhzus/tap/lyrics-pro`.
-2. Open Lyrics Pro, play a song in Apple Music, and allow Music Automation access.
+Requires an Apple Silicon Mac (M1 or newer) with macOS 15 or later.
 
-The app is not notarized. If macOS blocks it, try opening it, then choose
-**System Settings → Privacy & Security → Open Anyway**. If Music access was denied,
-enable it under **Privacy & Security → Automation** and choose
-**Lyrics Pro → Reconnect to Music**. See [installation details](packaging/Install.txt).
+**With Homebrew:**
+
+```fish
+brew install --cask inhzus/tap/lyrics-pro   # update later with: brew upgrade --cask lyrics-pro
+```
+
+**Or download it:** get the ZIP from
+[Releases](https://github.com/inhzus/lyrics-pro/releases/latest), unzip it, and drag
+**Lyrics Pro.app** into **Applications**. The app is not notarized, so the first time
+macOS may block it: try to open it, then choose **System Settings → Privacy &
+Security → Open Anyway**. To update, replace the app; your settings and saved lyrics
+are kept.
+
+Then open Lyrics Pro, play a song in Apple Music, and click **OK** when macOS asks
+whether Lyrics Pro may control Music. If you declined, turn it on under **System
+Settings → Privacy & Security → Automation** and choose **Lyrics Pro → Reconnect to
+Music**. More help: [installation details](packaging/Install.txt).
 
 ## Use
 
-- **Pronunciation** (bottom right): set a language for **This Song** or the
-  **Global Default** (initially Cantonese). **Use Default** prefers proofread
-  spelling when available; **Original** hides spelling for a song. Song choices
-  carry across albums.
-- **Source** (beside it): pick a different recording if lyrics don't match.
-  **Proofread** lyrics (offline, with supplied spelling, marked in the footer) are
-  preferred by **Automatic** when the title and duration match; an online recording
-  uses that provider's lyrics. Your choice is remembered for the song.
-- **Follow the music:** click a timed line to seek; scroll to browse, then
-  **Resume following**.
-- **Settings (⌘,):** Chinese as provided, Simplified, or Traditional; text size
-  (also **View → Bigger/Smaller**, ⌘= / ⌘−); timing offset for drifting lyrics; keep
-  on top; and clearing cached or saved data.
-- **Missing lyrics:** use the retry button at the top right, or reconnect to Music.
+The footer holds two menus: **Source** and pronunciation (bottom right).
+
+- **Pronunciation:** choose Cantonese, Hokkien, or Original (no pronunciation).
+  - **Global Default** applies to every song (initially Cantonese).
+  - **This Song** overrides it for one song, on any album; **Use Default** removes
+    the override.
+  - Proofread songs show their own supplied spelling unless you pick another
+    language for them.
+- **Source:** if the lyrics don't match, pick another recording. **Automatic**
+  prefers a bundled proofread version when the title and duration match, then
+  online lyrics. Your pick is remembered for the song.
+- **Follow along:** click a timed line to jump there. Scroll to browse freely, then
+  click **Resume following**.
+- **Settings (⌘,):** show Chinese as provided, Simplified, or Traditional; change the
+  text size (also ⌘= / ⌘−); shift the timing if lyrics drift; keep the window on top;
+  or clear cached lyrics and saved choices.
+- **No lyrics?** Click retry at the top right, or **Lyrics Pro → Reconnect to Music**.
   Logs are under **Help → Open Logs Folder**.
 
 Lyrics come from NetEase Cloud Music, with LrcAPI and LRCLIB fallbacks; coverage and
