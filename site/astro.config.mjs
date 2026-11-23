@@ -45,7 +45,7 @@ function legacyRedirects() {
 }
 
 export default defineConfig({
-  site: "https://lyrics.inhzus.io",
+  site: "https://lyrics.zunish.io",
   output: "static",
   trailingSlash: "always",
   build: { format: "directory" },

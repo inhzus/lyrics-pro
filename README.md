@@ -5,7 +5,7 @@ or Taiwanese Hokkien Tâi-lô pronunciation.
 
 **[Download for macOS](https://github.com/inhzus/lyrics-pro/releases/latest)** ·
 Apple Silicon (M1 or newer) · macOS 15+ ·
-**[Read lyrics online](https://lyrics.inhzus.io)** (Taiwanese songs with Tâi-lô, no app needed)
+**[Read lyrics online](https://lyrics.zunish.io)** (Taiwanese songs with Tâi-lô, no app needed)
 
 ![Lyrics Pro showing a Wu Bai live recording with album artwork, synchronized lyrics, and Tâi-lô pronunciation](docs/images/lyrics-pro.jpg)
 

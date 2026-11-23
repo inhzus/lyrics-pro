@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lyrics.inhzus.io/sitemap.xml
+Sitemap: https://lyrics.zunish.io/sitemap.xml

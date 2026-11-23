@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { returnsTo } from "./back";
 
-const origin = "https://lyrics.inhzus.io";
+const origin = "https://lyrics.zunish.io";
 
 describe("returnsTo", () => {
   it("matches the page the reader came from", () => {

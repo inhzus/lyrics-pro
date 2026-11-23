@@ -126,6 +126,10 @@ picks up `site/.node-version` and installs from `site/package-lock.json`.
 `public/_headers` caches hashed `/_astro/*` assets immutably and fonts for 30 days.
 The generated `_redirects` keeps links to the original hashed and ID paths working.
 
+The site is served at `lyrics.zunish.io`. It was first published at `lyrics.inhzus.io`,
+which remains a proxied DNS record and Pages domain only so that a Dynamic Redirect rule
+in the inhzus.io zone can send it to the new host (301, path and query kept).
+
 Search engines may index the site. `public/robots.txt` allows every crawler and points to
 `/sitemap.xml`, which the build generates with the home page, every artist and every song,
 each followed by its `/hans/` version (`src/lib/sitemap.ts`); it has no `lastmod`, since the
@@ -135,7 +139,7 @@ in its head and in the sitemap. One `zh-Hans` version serves simplified readers 
 including Singapore and Malaysia; region codes would only matter for different pages.
 Cloudflare's managed robots.txt adds its content-signal block to this file. Once, after the
 first deploy, verify the domain in [Google Search Console](https://search.google.com/search-console)
-(a DNS TXT record in Cloudflare) and submit `https://lyrics.inhzus.io/sitemap.xml`;
+(a DNS TXT record in Cloudflare) and submit `https://lyrics.zunish.io/sitemap.xml`;
 [Bing Webmaster Tools](https://www.bing.com/webmasters) can import the site from Search Console.
 
 Set the production branch to `main` and enable preview deployments for other branches.
