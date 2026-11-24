@@ -62,21 +62,22 @@ struct PlayerCapsuleStyle: ButtonStyle {
 
         var body: some View {
             HStack(spacing: 7) { configuration.label }
-                .playerCapsule(accent: accent, hovering: hovering, focused: focused, pressed: configuration.isPressed)
+                .playerCapsule(accent: accent, hovering: hovering, focused: focused)
                 .onHover { hovering = $0 }
         }
     }
 }
 
 extension View {
-    /// The footer's capsule look, shared by the Source button and the pronunciation menu.
-    func playerCapsule(accent: Color, hovering: Bool, focused: Bool, pressed: Bool = false) -> some View {
+    /// The footer's glass capsule, shared by the Source button, the pronunciation menu,
+    /// and Resume following. Interactive glass supplies the hover and press response.
+    func playerCapsule(accent: Color, hovering: Bool, focused: Bool) -> some View {
         font(.system(size: 12, weight: .medium))
             .foregroundStyle(hovering || focused ? .white : .white.opacity(0.8))
             .padding(.horizontal, 13)
             .padding(.vertical, 8)
-            .background(.white.opacity(pressed ? 0.16 : (hovering ? 0.10 : 0.055)), in: Capsule())
-            .overlay(Capsule().strokeBorder(focused ? accent : .white.opacity(hovering ? 0.20 : 0.10), lineWidth: focused ? 2 : 1))
+            .glassEffect(.regular.interactive(), in: Capsule())
+            .overlay(Capsule().strokeBorder(focused ? accent : .clear, lineWidth: 2))
             .contentShape(Capsule())
     }
 }

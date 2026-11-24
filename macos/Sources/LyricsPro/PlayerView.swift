@@ -79,10 +79,10 @@ struct PlayerView: View {
                 Button { connection.retryLyrics() } label: {
                     Image(systemName: "arrow.clockwise")
                         .font(.system(size: 13, weight: .medium))
-                        .frame(width: 30, height: 30)
-                        .background(.white.opacity(0.06), in: Circle())
+                        .frame(width: 22, height: 22)
                 }
-                .buttonStyle(.plain)
+                .buttonStyle(.glass)
+                .buttonBorderShape(.circle)
                 .accessibilityLabel("Retry lyrics")
                 .help("Look up lyrics again and retry missing artwork")
             } else if let status {
@@ -135,8 +135,13 @@ struct PlayerView: View {
                 LyricSourceLabel(connection: connection)
             }
             Spacer()
-            RecordingPicker(connection: connection, accent: accent)
-            PronunciationMenu(connection: connection, accent: accent)
+            // Adjacent capsules share one container so their glass blends as a group.
+            GlassEffectContainer(spacing: 7) {
+                HStack(spacing: 7) {
+                    RecordingPicker(connection: connection, accent: accent)
+                    PronunciationMenu(connection: connection, accent: accent)
+                }
+            }
         }
         .font(.system(size: 11))
         .foregroundStyle(.white.opacity(0.6))

@@ -23,7 +23,7 @@ exe = EXE(
 )
 coll = COLLECT(exe, a.binaries, a.datas, name="LyricsBackend")
 app = BUNDLE(
-    coll, name="LyricsBackend.app", bundle_identifier="com.lyricspro.local.worker",
-    info_plist={"LSBackgroundOnly": True, "LSMinimumSystemVersion": "15.0",
+    coll, name="LyricsBackend.app", bundle_identifier="io.zunish.lyrics.worker",
+    info_plist={"LSBackgroundOnly": True, "LSMinimumSystemVersion": "26.0",
                 "NSAppleEventsUsageDescription": "Lyrics Pro reads and controls playback in Music."},
 )

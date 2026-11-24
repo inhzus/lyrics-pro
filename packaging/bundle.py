@@ -68,8 +68,8 @@ def prepare(app):
 def verify(app):
     with (app / "Contents/Info.plist").open("rb") as stream:
         info = plistlib.load(stream)
-    if info["LSMinimumSystemVersion"] != "15.0":
-        raise RuntimeError("Expected macOS 15.0 deployment target")
+    if info["LSMinimumSystemVersion"] != "26.0":
+        raise RuntimeError("Expected macOS 26.0 deployment target")
     if (app / "Contents/Resources/Backend.json").exists():
         raise RuntimeError("Legacy repository-dependent Backend.json was packaged")
     count = 0
@@ -80,7 +80,7 @@ def verify(app):
         commands = run("/usr/bin/otool", "-l", str(binary))
         minimums = re.findall(r"\bminos (\d+)\.(\d+)", commands)
         minimums += re.findall(r"cmd LC_VERSION_MIN_MACOSX\n\s+cmdsize \d+\n\s+version (\d+)\.(\d+)", commands)
-        if not minimums or any((int(major), int(minor)) > (15, 0) for major, minor in minimums):
+        if not minimums or any((int(major), int(minor)) > (26, 0) for major, minor in minimums):
             raise RuntimeError(f"Missing or incompatible macOS deployment minimum: {binary}")
         for dependency in run("/usr/bin/otool", "-L", str(binary)).splitlines()[1:]:
             library = dependency.strip().split(" (", 1)[0]

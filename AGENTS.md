@@ -15,7 +15,7 @@ candidate is a separate, explicitly requested integration step.
 
 - Prefer **fish** for terminal commands and shell examples.
 - The native SwiftUI app is in `macos/Sources/LyricsPro/`; its Swift Package has
-  no external dependencies and targets macOS 15+. There is no Xcode project.
+  no external dependencies and targets macOS 26+. There is no Xcode project.
 - `src/lyrics_pro/` contains the Python bridge, Music integration, lyrics providers,
   pronunciation engines, cache, and terminal client.
 - `WorkerProcess.swift` owns the worker subprocess (pipes, stderr capture, bounded
@@ -227,6 +227,10 @@ nonfatal. Cache I/O stays on workers; native logging uses its serial queue.
 - Recording and pronunciation controls belong at the bottom right. The recording
   popover opens upward, is compact, and shows at most five rows before scrolling.
   Rows retain title, artists, album, duration, and source; use tooltips as needed.
+- Player controls (footer capsules, Retry, transport pill, Resume following) use
+  system Liquid Glass (`glassEffect`, `.buttonStyle(.glass)`), grouped in a
+  `GlassEffectContainer` where adjacent. Artwork, lyrics, and the background are
+  content and stay non-glass; keep accent focus rings on glass controls.
 - The current lyric is brightest; hovering a clickable line gives a softer
   highlight. The play/pause icon communicates playback state without extra text.
 - Background colors come from artwork, crossfade, and animate only when appropriate
@@ -247,7 +251,7 @@ nonfatal. Cache I/O stays on workers; native logging uses its serial queue.
 
 ## Packaging and releases
 
-- Current downloadable builds target **arm64, macOS 15+**, with ad-hoc signing.
+- Current downloadable builds target **arm64, macOS 26+**, with ad-hoc signing.
   Developer ID/notarization, Intel, older macOS, and automatic updates are deferred.
 - Build through `scripts/build-macos.fish`. The app starts a PyInstaller directory
   bundle at `Contents/Helpers/LyricsBackend.app/Contents/MacOS/lyrics-pro-worker`.

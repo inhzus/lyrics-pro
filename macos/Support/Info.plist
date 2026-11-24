@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
     <key>CFBundleExecutable</key><string>LyricsPro</string>
-    <key>CFBundleIdentifier</key><string>com.lyricspro.local</string>
+    <key>CFBundleIdentifier</key><string>io.zunish.lyrics</string>
     <key>CFBundleName</key><string>Lyrics Pro</string>
     <key>CFBundleDisplayName</key><string>Lyrics Pro</string>
     <key>CFBundlePackageType</key><string>APPL</string>
-    <key>CFBundleShortVersionString</key><string>0.8.1</string>
-    <key>CFBundleVersion</key><string>20</string>
+    <key>CFBundleShortVersionString</key><string>0.9.0</string>
+    <key>CFBundleVersion</key><string>21</string>
     <key>CFBundleIconFile</key><string>AppIcon</string>
     <key>NSHumanReadableCopyright</key><string>Copyright © 2026 inhzus. MIT License.</string>
-    <key>LSMinimumSystemVersion</key><string>15.0</string>
+    <key>LSMinimumSystemVersion</key><string>26.0</string>
     <key>NSHighResolutionCapable</key><true/>
     <key>NSAppleEventsUsageDescription</key><string>Lyrics Pro reads the current song, playback time, and artwork from Music, and lets you play, pause, seek, and change songs using its playback controls.</string>
 </dict>

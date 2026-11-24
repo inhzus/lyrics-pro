@@ -127,7 +127,7 @@ struct FollowingLyricsView: View {
                             Label("Resume following", systemImage: "arrow.down.to.line")
                         }
                         .buttonStyle(PlayerCapsuleStyle(accent: accent))
-                        .background(.ultraThinMaterial, in: Capsule())
+                        .glassEffectTransition(reduceMotion ? .identity : .materialize)
                         .padding(.trailing, 18)
                         .padding(.bottom, 12)
                     }

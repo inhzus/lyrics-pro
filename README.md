@@ -4,7 +4,7 @@ Sing along with Apple Music using synchronized lyrics and local Cantonese Jyutpi
 or Taiwanese Hokkien Tâi-lô pronunciation.
 
 **[Download for macOS](https://github.com/inhzus/lyrics-pro/releases/latest)** ·
-Apple Silicon (M1 or newer) · macOS 15+ ·
+Apple Silicon (M1 or newer) · macOS 26+ ·
 **[Read lyrics online](https://lyrics.zunish.io)** (Taiwanese songs with Tâi-lô, no app needed)
 
 ![Lyrics Pro showing a Wu Bai live recording with album artwork, synchronized lyrics, and Tâi-lô pronunciation](docs/images/lyrics-pro.jpg)
@@ -19,7 +19,7 @@ Apple Silicon (M1 or newer) · macOS 15+ ·
 
 ## Install
 
-Requires an Apple Silicon Mac (M1 or newer) with macOS 15 or later.
+Requires an Apple Silicon Mac (M1 or newer) with macOS 26 (Tahoe) or later.
 
 **With Homebrew:**
 
@@ -66,8 +66,8 @@ metadata is sent, never audio. Hokkien uses southern Taiwanese Tâi-lô.
 
 ## Build from source
 
-On an Apple Silicon Mac with macOS 15+, install Apple's Command Line Tools
-(Swift 6 or newer), [uv](https://docs.astral.sh/uv/), and fish, then:
+On an Apple Silicon Mac with macOS 26+, install Apple's Command Line Tools
+(Swift 6.2 or newer), [uv](https://docs.astral.sh/uv/), and fish, then:
 
 ```fish
 fish scripts/build-macos.fish   # portable app and ZIP in dist/

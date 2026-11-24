@@ -67,7 +67,7 @@ struct StatusPanel: View {
                 }
                 if let action {
                     Button(action.title, action: action.perform)
-                        .buttonStyle(.bordered)
+                        .buttonStyle(.glass)
                         .disabled(action.disabled)
                 }
             } else {

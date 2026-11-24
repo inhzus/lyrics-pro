@@ -43,12 +43,16 @@ struct PlaybackPanel: View {
             .font(.system(size: 11).monospacedDigit())
             .foregroundStyle(.white.opacity(0.4))
 
-            HStack(spacing: 24) {
+            // One floating glass pill holds the transport, like the system's media controls.
+            HStack(spacing: 14) {
                 transport("Previous song", icon: "backward.end.fill", action: .previous)
                 transport(paused ? "Play" : "Pause", icon: paused ? "play.fill" : "pause.fill",
                           action: paused ? .play : .pause, prominent: true)
                 transport("Next song", icon: "forward.end.fill", action: .next)
             }
+            .padding(.horizontal, 8)
+            .padding(.vertical, 4)
+            .glassEffect(.regular, in: Capsule())
             .frame(maxWidth: .infinity)
             .padding(.top, 7)
             .disabled(!connection.canControl)
@@ -106,9 +110,9 @@ private struct TransportStyle: ButtonStyle {
         var body: some View {
             configuration.label
                 .foregroundStyle(.white.opacity(available ? 0.85 : 0.28))
-                .background(.white.opacity(configuration.isPressed ? 0.14 : (hovering && enabled ? 0.07 : 0)),
-                            in: RoundedRectangle(cornerRadius: 10))
-                .overlay(RoundedRectangle(cornerRadius: 10).stroke(focused ? accent : .clear, lineWidth: 2))
+                .background(.white.opacity(configuration.isPressed ? 0.14 : (hovering && enabled ? 0.08 : 0)),
+                            in: Capsule())
+                .overlay(Capsule().stroke(focused ? accent : .clear, lineWidth: 2))
                 .onHover { hovering = $0 }
         }
     }

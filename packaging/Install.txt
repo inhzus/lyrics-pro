@@ -1,6 +1,6 @@
 Lyrics Pro — personal macOS build
 
-Requires an Apple Silicon Mac (M1 or newer) running macOS 15 or newer.
+Requires an Apple Silicon Mac (M1 or newer) running macOS 26 (Tahoe) or newer.
 
 1. Unzip the download and drag Lyrics Pro.app into Applications.
 2. Open Lyrics Pro. No Python, uv, Homebrew, or developer tools are needed.
