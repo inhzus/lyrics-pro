@@ -90,9 +90,9 @@ does not use the app's saved song preferences.
 
 ## License and acknowledgements
 
-[MIT License](LICENSE) · Copyright 2026 inhzus. Pronunciation uses
+[Apache License 2.0](LICENSE) · Copyright 2026 inhzus. Pronunciation uses
 [ToJyutping](https://github.com/CanCLID/ToJyutping) and
 [Taibun](https://github.com/andreihar/taibun); third-party notices are included in
 the app. Transcriptions keep their [supplied credits](packaging/Proofread-content.txt)
 and the website links each page to its source; song text and transcription are not
-covered by the MIT license.
+covered by the Apache License 2.0.

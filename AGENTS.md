@@ -262,7 +262,7 @@ nonfatal. Cache I/O stays on workers; native logging uses its serial queue.
   then helper, then outer app. Remove development-toolchain runtime search paths;
   verify architectures, minimum OS versions, linked libraries, and nested signatures.
 - The build runs an offline self-check and produces an app plus ZIP with installation
-  instructions and the MIT license. Staging/previous builds stay under `.build/`.
+  instructions and the Apache 2.0 license. Staging/previous builds stay under `.build/`.
 - Verify the actual ZIP with `packaging/verify_portable.py`: it extracts/renames the
   app into a path with spaces, denies repository/external Python/network/Apple Events
   access, and makes the bundle read-only. It checks pronunciation, metadata, SQLite,

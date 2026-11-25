@@ -45,6 +45,7 @@ env -i PATH=/usr/bin:/bin HOME="$HOME" "$staged_app/Contents/Helpers/LyricsBacke
 or exit $status
 cp "$root/packaging/Install.txt" "$release/Install.txt"; or exit $status
 cp "$root/LICENSE" "$release/LICENSE.txt"; or exit $status
+cp "$root/NOTICE" "$release/NOTICE.txt"; or exit $status
 ditto -c -k --keepParent --norsrc "$release" "$stage/$name.zip"; or exit $status
 
 # Keep the last successful app until the new bundle has passed its build checks.

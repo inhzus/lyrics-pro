@@ -32,4 +32,4 @@ in Recording → Lyrics source. Explicit online choices use their own content.
 Words: 伍佰 / 陳世杰. Music: 伍佰. Supplied romanization: 關德樂.
 Transcription reference: <https://taikegui.wordpress.com/2017/04/28/少年吔，安啦/>.
 Timing reference: <https://music.163.com/song?id=5237870>.
-These content assets are separate from the application's MIT-licensed code.
+These content assets are separate from the application's Apache-2.0-licensed code.

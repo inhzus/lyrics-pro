@@ -507,7 +507,7 @@ def summarize(output, entries):
 
 def write_notices(assets, destination):
     lines = ["Bundled user-provided lyrics and corresponding spelling", "",
-             "The application's MIT license applies to its code, not to song lyrics or",
+             "The application's Apache-2.0 license applies to its code, not to song lyrics or",
              "transcriptions. Attribution does not grant redistribution rights to that content.",
              "Alignments retain provider timestamps and are not audio-verified.", ""]
     for path in sorted(assets.glob("*.json")):
