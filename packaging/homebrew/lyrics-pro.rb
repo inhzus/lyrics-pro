@@ -10,7 +10,7 @@ cask "lyrics-pro" do
   homepage "https://github.com/inhzus/lyrics-pro"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Lyrics-Pro-#{version}-macOS-arm64/Lyrics Pro.app"
 
