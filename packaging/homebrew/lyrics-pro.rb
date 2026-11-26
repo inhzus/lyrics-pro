@@ -1,7 +1,7 @@
 # Template for Casks/lyrics-pro.rb in inhzus/homebrew-tap. The release workflow fills in
 # version and sha256 and pushes it there.
 cask "lyrics-pro" do
-  version "0.9.0"
+  version "0.9.1"
   sha256 "0000000000000000000000000000000000000000000000000000000000000000"
 
   url "https://github.com/inhzus/lyrics-pro/releases/download/v#{version}/Lyrics-Pro-#{version}-macOS-arm64.zip"
